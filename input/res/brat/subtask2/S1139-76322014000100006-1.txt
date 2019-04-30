@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre:  Ivan.
+Apellidos: Renedo Quevedo.
+NHC: 5674805.
+Domicilio: Paseo de las Americas, 34.
+Localidad/ Provincia: Madrid.
+CP: 28032.
+Datos asistenciales.
+Fecha de nacimiento: 21/08/2013.
+País: España.
+Edad: 3 meses Sexo: H.
+Fecha de Ingreso: 30/11/2013.
+Médico: Francisco García Iglesias NºCol: 28 28 30257.
+Informe clínico del paciente:N iño de tres meses que presenta eritema y edema en la hemicara derecha, y el brazo y la mano homolaterales.
+Presenta una lesión en el dorso de la mano derecha desde que nació, que se ha intensificado coincidiendo con el enrojecimiento generalizado. Se trata de una placa eritematosa de tonalidad amarillenta-amarronada de 25x18 mm de diámetro, con una zona central más indurada de 10x15 mm.
+Es citado en la consulta de Dermatología para la valoración de un posible mastocitoma, y allí se confirma el diagnóstico y se recomienda tratamiento conservador.
+Remitido por: Dr. Francisco García Iglesias fgicadiz@hotmail.com

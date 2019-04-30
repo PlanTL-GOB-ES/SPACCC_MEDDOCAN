@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Guillermo.
+Apellidos: Pedroche Roa.
+NHC: 3587642.
+NASS: 20 24576261 33.
+Domicilio: Paseo de San Francisco, 22.
+Localidad/ Provincia: Bilbao.
+CP: 20340.
+Datos asistenciales.
+Fecha de nacimiento: 15/05/1952.
+País: España.
+Edad: 64  años Sexo: H.
+Fecha de Ingreso: 21/12/2016.
+Médico: Roberto Llarena Ibarguren  NºCol: 20 20 94583.
+Informe clínico del paciente: Varón de 64 años que consultó en mayo de 2006 por disestesia facial y ptosis palpebral izquierda y proptosis del globo ocular del mismo lado.
+Antecedentes personales de hipertensión arterial en tratamiento médico, intervenido de ulcus duodenal 20 años antes, y de poliposis laríngea en dos ocasiones en 1993 y 1994.
+Diagnosticado de adenocarcinoma prostático mediante biopsia ecodirigida en septiembre de 2005, con PSA de 794, fosfatasas alcalinas de 870, y con rastreo óseo que evidenció múltiples metástasis óseas. En esa época se instauró tratamiento mediante análogos de lh-rh, flutamida y ácido zoledrómico 4 mg cada 21 días durante 6 meses. El nadir de PSA se alcanzó en enero de 2006 con cifras de 36-17 ng/ml.
+Días antes del ingreso refería adormecimiento facial derecho desde el pómulo hasta el labio superior, y simultáneamente ptosis palpebral izquierda junto a protrusión ocular. No aquejaba diplopía, dolor facial ni ocular.
+En la exploración física Guillermo estaba consciente, orientado y colaborador, presentando ptosis palpebral izquierda con salida del ojo del mismo lado, sin soplo aparente, con paresia del III y VI pares izquierdos. Asimismo presentaba alteraciones en la sensibilidad de la mitad derecha de la cara, siendo el resto de la exploración neurológica motora y sensitiva normal.
+Dentro de las pruebas complementarias, en sangre destacaba GGT de 86, fosfatasa alcalina de 1145, y un PSA de 121-02.
+Se realizó RMN cerebral y angio RMN que demostraron lesiones isquémicas supratentoriales y masa orbitaria de localización extraconal pegada a techo orbitario izquierdo que desplaza y engloba caudalmente el músculo recto superior, a la vez que existe una ocupación del seno frontal izquierdo por una masa de iguales características a la descrita. El reborde orbitario superior permanece íntegro sin aparentes datos de infiltración. La obliteración de la grasa de la grasa extraconal superior condiciona desplazamiento inferior y proptosis ocular. Asimismo existe una masa expansiva localizada en seno maxilar derecho que rompe la pared lateral extendiéndose hacia partes blandas, provocando interrupción del suelo de la órbita derecha e invasión del espacio extraconal inferior, desplazando sin invadirlo, el músculo recto inferior. Los senos cavernosos se encontraban libres.
+En la tomografía axial computerizada toraco-abdomino-pélvica se diagnosticó de patrón óseo con infiltración blástico-lítica vertebral, sin alteraciones viscerales.
+Se diagnosticó de metástasis de adenocarcinoma prostático en seno maxilar derecho y seno frontal izquierdo, con afectación orbitaria extraconal inferior derecha y superior izquierda.
+Se desechó la radioterapia local por el riesgo de ceguera. Como tratamiento se retiró la flutamida, manteniéndose el análogo de lh-rh. En junio de 2006 se inicia tratamiento con docetaxel 70 mg/m2 cada 21 días, junto con prednisona 10 mg día. Se completaron 6 ciclos hasta finales de septiembre de 2006.
+Se alcanza un nadir de PSA en julio de 2006 con cifras de 6-8 ng/ml, tras las dos primeras administraciones de docetaxel. El paciente refiere disminución de la proptosis ocular izquierda. Se completan 6 ciclos, con excelente tolerancia. En octubre de 2006 el PSA es de 149 ng/ml, no habiendo variado las imágenes en RMN. Recientemente en enero de 2007 se reinicia de nuevo tratamiento con docetaxel y prednisona.
+Remitido por: Roberto Llarena Ibarguren Apartado de Correos 20134 48080 Bilbao. (España) rllarena@eusklanet.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T32" start="29" end="38" text="Guillermo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T31" start="51" end="63" text="Pedroche Roa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T30" start="70" end="77" text="3587642" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T29" start="85" end="99" text="20 24576261 33" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T28" start="112" end="138" text="Paseo de San Francisco, 22" TYPE="CALLE" comment=""/>
+    <LOCATION id="T27" start="162" end="168" text="Bilbao" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T26" start="174" end="179" text="20340" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T25" start="223" end="233" text="15/05/1952" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T24" start="241" end="247" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T23" start="255" end="263" text="64  años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T22" start="270" end="271" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T21" start="291" end="301" text="21/12/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T20" start="311" end="336" text="Roberto Llarena Ibarguren" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T19" start="345" end="356" text="20 20 94583" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T18" start="388" end="393" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T17" start="397" end="404" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="421" end="433" text="mayo de 2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T15" start="691" end="695" text="1993" TYPE="FECHAS" comment=""/>
+    <DATE id="T14" start="698" end="702" text="1994" TYPE="FECHAS" comment=""/>
+    <DATE id="T13" start="779" end="797" text="septiembre de 2005" TYPE="FECHAS" comment=""/>
+    <DATE id="T12" start="1065" end="1078" text="enero de 2006" TYPE="FECHAS" comment=""/>
+    <NAME id="T33" start="1351" end="1360" text="Guillermo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="3178" end="3191" text="junio de 2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T10" start="3324" end="3342" text="septiembre de 2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="3374" end="3387" text="julio de 2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="3584" end="3599" text="octubre de 2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="3682" end="3695" text="enero de 2007" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="3771" end="3796" text="Roberto Llarena Ibarguren" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T1" start="3797" end="3822" text="Apartado de Correos 20134" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3823" end="3828" text="48080" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3829" end="3835" text="Bilbao" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3838" end="3844" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="3846" end="3868" text="rllarena@eusklanet.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

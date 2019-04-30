@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Óliver .
+Apellidos: Jimenez Rubio.
+NHC: 2705749.
+NASS: 41 55380845 89.
+Domicilio: Calle Horno de los Bizcochos, 5, 3 Der..
+Localidad/ Provincia: Toledo.
+CP: 45001.
+Datos asistenciales.
+Fecha de nacimiento: 19/07/1985.
+País de nacimiento: España.
+Edad: 29 años Sexo: H.
+Fecha de Ingreso: 29/05/2015.
+Servicio: Oftalmología.
+Episodio: 4767839.
+Médico: Maria Lourdes Maldonado Morales NºCol: 45 45 19065.
+Historia Actual: Varón de 29 años que consultó por alteraciones en la visión periférica de varias semanas asociadas últimamente a manifestaciones de hipofunción hipofisaria.
+Exploración: A la exploración presentaba una agudeza visual (AV) de 1 en ambos ojos (AO), con polo anterior, presión intraocular y fondo de ojo (FO) normales. En el campo visual (CV) (Octopus 1-2-3 programa G1X) se observó defecto arciforme superior con algunas alteraciones periféricas en ojo derecho (OD) y en ojo izquierdo (OI) se apreciaba un defecto altitudinal superior así como defectos periféricos.
+Pruebas complementarias: El análisis de orina reveló hipodensidad de prácticamente agua y los estudios de funcionamiento hormonal mostraron FSH y LH indetectables, testosterona y la hormona de crecimiento en niveles inferiores a la normalidad.
+La resonancia magnética nuclear (RMN) mostró dilatación del ventrículo lateral izquierdo, afectación periventricular del tercer ventrículo, del hipotálamo, así como de la región del quiasma y de los nervios ópticos que captaban contraste, compatibles con granulomas en las mencionadas localizaciones.
+En la tomografía axial computarizada (TAC) toraco-abdomino-pélvica con contraste se observaron numerosos ganglios a nivel cervical, supraclaviculares bilaterales, axilares bilaterales y también a nivel torácico y pélvico. Se biopsió una adenopatía profunda axilar cuyo estudio fue compatible con sarcoidosis.
+Evolución: El paciente fue diagnosticado de sarcoidosis sistémica con afectación del sistema nervioso central, afectación del quiasma, nervio óptico, eje hipotálamo-hipofisario con panhipopituitarismo (hipogonadismo, hipocorticismo, disminución de las hormonas de crecimiento y antidiurética).
+Se inició tratamiento con pulsos de metilprednisolona 1g/d durante 3 días, y con vasopresina.
+Al año y a los cuatro años el paciente se encontraba estable y controlado hormonalmente. Las alteraciones en el CV fueron permanentes aunque estables y sin progresión.
+La AV era de 1 en AO y en el fondo de ojo se apreciaba una papila ligeramente verticalizada con palidez en región temporal acompañada de atrofia peripapilar en OD y en OI palidez total y atrofia peripapilar temporal, excavación fisiológica AO. En el OCT se apreciaba disminución de la capa de fibras nerviosas en cuadrante superior, nasal e inferior en OD y en todos los sectores del OI. Los potenciales visuales evocados con dámero (PVE-pattern), mostraban disminución en todas las respuestas registradas y un leve aumento de las latencias al estimular el OI.
+Diagnóstico: sarcoidosis sistémica
+Responsable clínico: Dra. Maria Lourdes Maldonado Morales. Hospital Virgen de la Salud. Av. de Barber, 30, 45004 Toledo. Correo electrónico: Lourdesmm79@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="34" text="Óliver" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="48" end="61" text="Jimenez Rubio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="68" end="75" text="2705749" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="83" end="97" text="41 55380845 89" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="110" end="149" text="Calle Horno de los Bizcochos, 5, 3 Der." TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="173" end="179" text="Toledo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="185" end="190" text="45001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="234" end="244" text="19/07/1985" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="266" end="272" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="280" end="287" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="294" end="295" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="315" end="325" text="29/05/2015" TYPE="FECHAS" comment=""/>
+    <ID id="T11" start="361" end="368" text="4767839" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="378" end="409" text="Maria Lourdes Maldonado Morales" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="417" end="428" text="45 45 19065" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="447" end="452" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="456" end="463" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="3043" end="3074" text="Maria Lourdes Maldonado Morales" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3076" end="3103" text="Hospital Virgen de la Salud" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3105" end="3122" text="Av. de Barber, 30" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3124" end="3129" text="45004" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3130" end="3136" text="Toledo" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3158" end="3181" text="Lourdesmm79@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

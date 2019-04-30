@@ -1,0 +1,15 @@
+Nombre: Ernesto.
+Apellidos: Moreno Flores.
+NHC: 7438563.
+Domicilio: Calle Alonso de Freylas, 6, Bajo A.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 21/08/2001.
+País: España.
+Edad: 28 años  Sexo: H.
+Fecha de Ingreso: 22/12/2016.
+Médico: Adoración Martín-Gómez 
+Paciente de 48 años de edad, originario de Puebla y residente de Tijuana, B.C., agricultor, con hipertensión arterial en tratamiento con enalapril y amlodipino. Acudió por una lesión en ala nasal derecha caracterizada por aumento de volumen, eritema, exulceraciones y exudado seroso, de dos cm de diámetro y cinco años de evolución. El diagnóstico se confirmó con la presencia de esférulas en el examen directo y un cultivo positivo a Coccidioides spp. Recibió tratamiento con itraconazol 400 mg al día.
+
+Correspondencia a: Gabriela Moreno-Coutino gmorenocoutino@gmail.com

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Ana Lyn.
+Apellidos: Khan.
+Domicilio: Montieth Road, 30, Egmore Tamil Nadu.
+Localidad/ Provincia: Chennai.
+CP: 600008.
+Datos asistenciales.
+Fecha de nacimiento: 27/03/1994.
+País: India.
+Edad: 24 años Sexo: M.
+Fecha de Ingreso: 13/05/2018.
+Médico: Naveenjayakumar.
+Historia Actual: Una mujer sana de 24 años de edad acudió por sangrado gingival en los dientes postero-superiores derechos durante los últimos 6 meses. La paciente también refería episodios de dolor leve y una gradual desviación de los dientes. No hubo signos de fiebre o pus.
+Exploración física: Un examen general sistémico de la paciente no reveló ninguna anomalía. La exploración local reveló una inflamación difusa de 1 x 3 cm en el alvéolo correspondiente a los molares superiores derechos. La hinchazón era más prominente en la cara vestibular. La superficie aparecía rugosa y eritematosa. No había pulsaciones visibles en la lesión. Los dientes mencionados se desviaban hacia el paladar. A la palpación, la hinchazón mostraba una consistencia dura. Los tres dientes afectados no respondían al calor, ni al frío ni a estímulos electricos de la pulpa. 
+Resumen de pruebas complementarias: La ortopantomografía no fue concluyente. Una tomografía computerizada (TAC) con contraste mostró una masa de tejido blando en el alveolo maxilar derecho, sin erosión ósea. Las exploraciones radiológicas y los exámenes hematológicos de rutina, incluyendo pruebas de coagulación, no revelaron ninguna anomalía.
+Evolución y comentarios: Basándose en los hallazgos clínicos, radiológicos y en el TAC, se realizó un diagnóstico provisional de lesión de células gigantes, y se hizo una biopsia incisional de la encía vestibular. Fue evidente el aumento marginal del sangrado intraoperatorio, pero se atribuyó a la inflamación.
+El informe anatomopatológico de la muestra reveló tejido conectivo fibrovascular con agregados de numerosos capilares y vénulas endoteliales dilatados sugestivo de MAV. Tras consultar con un radiólogo intervencionista, se decidió y practicó la resección de la lesión bajo anestesia general. La única muestra incluía encía vestibular y palatina, alvéolos, y los dientes afectados. Se consiguió la hemostasia y el defecto se cerró por primera intención mediante el avance del paladar y la mucosa bucal. El periodo perioperatorio y la recuperación transcurrió sin incidentes y de forma confortable para el paciente.
+El análisis anatomopatológico de la muestra fue muy similar al de la biopsia incisional y reveló numerosas arteriolas y vénulas intercaladas entre las trabéculas óseas, que se extendían hasta la encía sugiriendo malformación arterio-venosa.
+A la paciente se le realizó un seguimiento por un período de 1 año sin observarse recidiva.
+Remitido por: Dr. Naveenjayakumar, MDS Reader, Department of Maxillofacial and Skull-base Surgery, Meenakshi Ammal Dental College, Maduravoyal, Chennai 600095, India. E-mail: naveenkumarj@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="9" end="16" text="Ana Lyn" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="29" end="33" text="Khan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="46" end="82" text="Montieth Road, 30, Egmore Tamil Nadu" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="106" end="113" text="Chennai" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="119" end="125" text="600008" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="169" end="179" text="27/03/1994" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="187" end="192" text="India" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="200" end="207" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="214" end="215" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="235" end="245" text="13/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="255" end="270" text="Naveenjayakumar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="293" end="298" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="307" end="314" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2751" end="2766" text="Naveenjayakumar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2832" end="2862" text="Meenakshi Ammal Dental College" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="2864" end="2875" text="Maduravoyal" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2877" end="2884" text="Chennai" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2885" end="2891" text="600095" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2893" end="2898" text="India" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2908" end="2932" text="naveenkumarj@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

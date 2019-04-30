@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Felisa .
+Apellidos: Alonso Montero.
+NASS: 29 74125896 32.
+Domicilio: Calle Rivadavia 12, 4 izq..
+Localidad/ Provincia: Madrid.
+CP: 28029.
+NHC:14215471.
+Datos asistenciales.
+Fecha de nacimiento: 04/02/1939.
+País: España.
+Edad: 78 años Sexo: M.
+Fecha de Ingreso: 18/11/2017.
+Especialidad: Medicina interna.
+Médico: Alegría Raquel Domínguez NºCol: 28 28 74125.
+Historia Actual: Mujer de 78 años, 40 kilogramos de peso y 1,65 m de altura, con antecedentes de gastrectomía por úlcera gástrica con reconstrucción tipo Billroth II hace más de 30 años, que se convierte a Y de Roux posteriormente por reflujo alcalino. Un año después comienza con cuadros suboclusivos, llegando a precisar cirugía por obstrucción intestinal. Secundariamente presenta malnutrición con hipoalbuminemia grave, anemia de trastornos crónicos severa, úlceras por presión en región sacra y talones, incontinencia urinaria y síndrome de inmovilidad. Destaca además TBC renal hace mas de 20 años, con pielonefritis de repetición, que precisó cirugía por estenosis ureteral.
+Ingresa por anemización con una hemoglobina de 4,8 g/dl (VN: 12-18 gr/dl) secundaria a sangrado digestivo. Presenta desnutrición proteico-calórica grave (IMC: 14,7 kg/m2), con albúmina de 2,48 g/dl (VN: 3,30-5,20 g/dl). Al ingreso porta sondaje vesical con orina en bolsa recolectora de color morada. Tres meses antes, había ingresado por cuadro de anasarca en relación con desnutrición por síndrome malabsortivo, y en ese momento se inició la administración de suplementos nutricionales hipercalóricos/hiperproteicos (Fortimel® 1 cada 8 horas). La tabla I refleja la mejoría de los marcadores nutricionales bioquímicos desde este primer ingreso y el inicio de los suplementos nutricionales hasta el alta del hospital.
+Durante el primer ingreso precisó un sondaje vesical para control de diuresis, que se mantuvo posteriormente para favorecer la curación de las úlceras en región sacra. Poco antes del alta se objetivó el color morado de la orina en la bolsa del sondaje vesical, por lo que empíricamente se administró fosfomicina en pauta larga por sospecha de infección del tracto urinario. En el presente ingreso se evidencia la persistencia del color morado de la orina en la bolsa de la sonda vesical a pesar del tratamiento antibiótico. La paciente describe haber notado este cambio en la coloración desde el alta previa y que éste persiste al cambiar la misma, reapareciendo a los tres o cuatro días de cada cambio. No presentó fiebre ni leucocitosis en ningún momento. El análisis bioquímico de la orina muestra un pH alcalino (8,5), que se puede observar también en los análisis de meses previos. Además en el sedimento se encuentran cristales de fosfato amónico magnésico, 10-25 hematíes por campo, 10-25 leucocitos por campo y bacteriuria abundante. La reacción de nitritos es negativa. En el urocultivo se aisla Proteus vulgaris, resistente a fosfomicina. Se inicia tratamiento con ciprofloxacino (sensible según antibiograma) y cambio de la sonda vesical. A las 48 horas la orina adquiere un color normal.
+Remitido por:Dra. Alegría Raquel Domínguez. Servicio de Medicina Interna Hospital Ramón y Cajal C/ Limón, 5 28015 Madrid. España E-mail: alegria.rda@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="15" text="Felisa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="29" end="43" text="Alonso Montero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="51" end="65" text="29 74125896 32" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="78" end="103" text="Calle Rivadavia 12, 4 izq" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="128" end="134" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="140" end="145" text="28029" TYPE="TERRITORIO" comment=""/>
+    <ID id="T17" start="151" end="159" text="14215471" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="203" end="213" text="04/02/1939" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="221" end="227" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="235" end="242" text="78 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="249" end="250" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="270" end="280" text="18/11/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="322" end="346" text="Alegría Raquel Domínguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="354" end="365" text="28 28 74125" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="384" end="389" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="393" end="400" text="78 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3086" end="3110" text="Alegría Raquel Domínguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3141" end="3163" text="Hospital Ramón y Cajal" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3164" end="3175" text="C/ Limón, 5" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3176" end="3181" text="28015" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3182" end="3188" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3190" end="3196" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3205" end="3226" text="alegria.rda@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

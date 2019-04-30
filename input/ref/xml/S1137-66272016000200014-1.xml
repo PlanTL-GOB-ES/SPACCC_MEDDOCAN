@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[                                           Nombre: Dylan.
+                                           Apellidos: Urcuyo Rot.
+                                           NHC: 3193476.
+                                           Domicilio: Calle de Ororbia, 6 .
+                                           Localidad/ Provincia: Pamplona.
+                                           CP: 31015.
+Datos asistenciales.
+Fecha de nacimiento: 16/10/2002.
+País: España.
+Edad: 11 años Sexo: H.
+Fecha de Ingreso: 30/11/2013.
+Servicio: Traumatología y Ortopedia.
+Médico: Serafín García Mata NºCol: 31 31 65224.
+Motivo de ingreso: Coxalgia Izquierda.
+Historia Actual: Paciente varón de 11 años de edad que consultó por coxalgia izquierda de 2 años de evolución de características mecánicas que mejoraba con el reposo.
+Antecedentes: Como antecedentes personales tenía una malformación de Arnold-Chiari, hidrocefalia asociada a malformación de Dandy Walker tratada con válvula de derivación ventrículo-peritoneal y epilepsia con crisis parciales. 
+Exploración física: Al examen físico se encontró una disfunción de la marcha con cojera antiálgica y adducción de la extremidad e hiperlordosis lumbar. La cadera presentaba un flexo de 20o con un rango de movimiento de flexión de 90o, rotación externa de 20o, rotación interna 10o y abducción 20o. 
+Resumen de pruebas complementarias: El hemograma, marcadores de fase aguda de inflamación y pruebas reumatológicas arrojaron resultados normales. La radiografía simple mostraba discreta osteopenia regional ;. La TAC, edema y discontinuidad del cartílago articular con hipertrofia sinovial.
+Se realizó una artrocentesis bajo control de radioscopia con anestesia general, pero no se obtuvo ninguna muestra de líquido sinovial. Se complementó el estudio con artrografía que confirmó la existencia de una condrolisis severa. Con diagnóstico presuntivo de condrolisis idiopática se prescribió reposo, descarga de la extremidad con uso de bastones y rehabilitación física.
+Evolución y comentarios:Un mes después se realizó una infiltración de la cadera con ácido hialurónico bajo control radioscópico. La evolución fue tórpida con persistencia de los síntomas a pesar del tratamiento realizado. Diez meses después del diagnóstico se realizó una movilización articular suave bajo anestesia general, confirmándose el movimiento de la cabeza femoral en bloque con la pelvis, valorándose como anquilosis fibrosa. Debido a la rigidez articular se descartó la opción de realizar tenotomías periarticulares. A partir del año del diagnóstico la rigidez articular mejoró levemente por lo que se complementó el tratamiento con tracción de partes blandas encontrándose una respuesta favorable en el control del dolor y la actitud de flexo. El paciente utilizó ambulatoriamente la tracción por periodos nocturnos, marcha con bastones ingleses y continuó con el tratamiento rehabilitador 6 meses. Tras ese tratamiento desapareció la actitud en flexo, pudiendo realizar vida normal sin actividad física ni marcha prolongada, que le provocaban episodios de dolor y cojera.
+Cuatro años más tarde se evidenciaba una pérdida concéntrica del 50% del espacio articular con borramiento de la línea medial y osteopenia local. La evolución clínica fue favorable con desaparición del dolor y recuperación progresiva espontánea casi completa de la función y movilidad en un periodo de 6 años, así como recuperación parcial del espacio articular. La RNM mostraba entonces un estrechamiento articular con lesiones subcondrales en la cabeza femoral y el acetábulo, sin cambios de señal en la medular en ambos lados de la articulación, con proceso destructivo del cartílago articular. No se realizó previamente la RNM por falta de disponibilidad en el centro, pero hubiera sido más apropiado realizarla para realizar un diagnóstico diferencial.
+El rango de movimiento articular al finalizar el seguimiento clínico fue de -10o para la abducción, rotación interna y rotación externa con una dismetría por acortamiento de 1 cm de la extremidad afectada.
+Actualmente, tras 14 años de seguimiento desde el inicio de la sintomatología, el paciente hace una vida normal, asintomático, Trendelenburg (-), movilidad simétrica e indolora de ambas caderas (RI 30o, RE 65o), con recuperación incompleta del espacio articular.
+Responsable Clínico: Serafín García Mata. Sección de Traumatología y Ortopedia Infantil Complejo Hospitalario de Navarra C/Irunlarrea 3 31008 Pamplona E-mail: sgmata@telefonica.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="51" end="56" text="Dylan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="112" end="122" text="Urcuyo Rot" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="172" end="179" text="3193476" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="235" end="254" text="Calle de Ororbia, 6" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="322" end="330" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="379" end="384" text="31015" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="428" end="438" text="16/10/2002" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="446" end="452" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="460" end="467" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="474" end="475" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="495" end="505" text="30/11/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="552" end="571" text="Serafín García Mata" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="579" end="590" text="31 31 65224" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="657" end="662" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="666" end="673" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="4325" end="4344" text="Serafín García Mata" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="4392" end="4424" text="Complejo Hospitalario de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="4425" end="4439" text="C/Irunlarrea 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="4440" end="4445" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4446" end="4454" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="4463" end="4484" text="sgmata@telefonica.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

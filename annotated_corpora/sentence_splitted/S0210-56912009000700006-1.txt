@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Alicia.
+Apellidos: Rocuzzo Paz.
+NHC: 5426445.
+NASS: 43 70856235 09.
+Domicilio: Calle Suescun, 98, 3, B.
+Localidad/ Provincia: Vitoria.
+CP: 1083.
+Datos asistenciales.
+Fecha de nacimiento: 24/08/1953.
+País de nacimiento: España.
+Edad: 7 años  Sexo: M.
+Fecha de Ingreso: 22/12/2017.
+Médico: Ana  González-Gómez  NºCol: 20 20 41127.
+Varón de 69 años, portador de cinturón de seguridad, que conducía su vehículo y tuvo una colisión frontal con otro vehículo sin pérdida de consciencia. Inicialmente presentaba hipotensión (85/60) que se revirtió con cristaloides. Se lo trasladó a la UCI, y se observó traumatismo torácico con contusión pulmonar bilateral, fractura esternal, fracturas costales derechas y fractura abierta tipo II de Gustillo de calcáneo derecho. Presentaba lesión en el cuello por el cinturón. A las 2 horas de su ingreso se efectuó artrodesis subastragalina derecha.
+A las 24 h del accidente se observó bradipsiquia con disfasia motora. La tomografía computarizada (TC) craneal mostró lesión corticosubcortical temporoparietal izquierda, compatible con infarto isquémico agudo en el territorio frontera, así como signos de atrofia cortical moderada. El estudio Doppler de carótida extracraneal reflejó asimetría de flujos, tanto en las arterias carótidas primitivas como en sus ramas internas, los índices de resistencia en el lado izquierdo eran de menor intensidad y estaban aumentados. La angio-TC cervical evidenció una imagen en "doble luz" en la arteria carótida interna (ACI) cervical izquierda, existía contraste puntiforme en la porción más distal de la ACI cervical y se apreciaba ausencia de contraste periférico; se volvió a contrastar de forma normal la ACI a la altura del sifón carotídeo; todo esto era compatible con DTACI. Se inició antiagregación con 200mg de ácido acetilsalicílico (AAS) y se le dio el alta a planta 4 días más tarde con discreta disfasia sensitiva.
+
+Dirección para correspondencia: martalopez@humv.es (M. López-Sánchez)

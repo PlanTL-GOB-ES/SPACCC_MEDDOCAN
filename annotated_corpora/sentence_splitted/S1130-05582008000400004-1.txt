@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Juan.
+Apellidos: Perez Loyola.
+NHC: 7896350.
+NASS: 38 65974897 56.
+Domicilio: Calle Arzobispo Morcillo, 16.
+Localidad/ Provincia: Madrid.
+CP: 28039.
+Datos asistenciales.
+Fecha de nacimiento: 02/05/1920.
+País de nacimiento: España.
+Edad: 73 años Sexo: H.
+Fecha de Ingreso: 06/08/1993.
+Servicio: Medicina Interna.
+Médico: Leonor Barroso Saenz   NºCol: 28 28 29083 .
+Informe clínico del paciente: varón de 73 años ingresó en el servicio de medicina interna con el diagnóstico provisional de metástasis ósea de tumor primario desconocido. Había perdido 15 kg en 18 meses y manifestaba anorexia, estreñimiento, dolor del muslo izquierdo y elevación de las concentraciones sanguíneas de calcio, bilirrubina y las fosfatasas ácida y alcalina. La gammagrafía ósea demostró zonas múltiples de mayor captación y osteoartropatía hipertrófica, sugiriendo enfermedad metastásica.
+La historia personal del paciente no ofrecía nada reseñable, salvo haber sido intervenido por un tumor maxilar a la edad de 18 años (1938). No estaba disponible el diagnóstico histológico de este tumor.
+Durante el ingreso, se encontraron niveles elevados de parathormona urinaria y de calcio sanguíneo. La ecografía cervical demostró aumento del tamaño de la glándula paratiroidea inferior derecha.
+El paciente se sometió a hemitiroidectomía derecha con excisión de la paratiroides agrandada y la glándula ipsilateral; se normalizó inmediatamente la calcemia. El estudio histopatológico demostró carcinoma infiltrante de la paratiroides inferior e hiperplasia de la paratiroides superior.
+Dos años más tarde, se presentó de nuevo dolor óseo y estreñimiento con niveles elevados de calcio y de parathormona en sangre. En una nueva intervención, se hizo una hemitiroidectomía, paratiroidectomía izquierda y timectomía. Se normalizó la calcemia pero el paciente murió dos años más tarde por causas no relacionadas.
+Responsable clínico: Leonor Barroso Saenz. Email: leonorbarroso@netcabo.pt

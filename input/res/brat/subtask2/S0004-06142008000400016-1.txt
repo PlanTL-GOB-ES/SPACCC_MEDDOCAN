@@ -1,0 +1,24 @@
+Nombre:  Pedro.
+Apellidos: Castilblanco Álvarez.
+CIPA: nhc-9764132 3.
+NASS: 89 56421611 13.
+Domicilio: Avda. La Marina 36, 10C.
+Localidad/ Provincia: La Coruña.
+CP: 15001.
+NHC:9764132 3.
+Datos asistenciales.
+Fecha de nacimiento: 08/03/1947.
+País: España.
+Edad: 70 Sexo: H.
+Fecha de Ingreso: 30/09/2017.
+Especialidad: Urgencias.
+Médico: José Manuel Janeiro Pais NºCol: 15 15 96385.
+Motivo de ingreso: lesión exofítica a nivel del glande.
+Antecedentes: gastrectomía por adenocarcinoma gástrico hace 12 años y carcinoma de próstata Gleason VII, (2 cilindros de 6 afectados por el tumor), tratado quirúrgicamente mediante una prostatectomía radical hace diez años, con un ganglio linfático afectado por el tumor y bloqueo androgénico hasta la actualidad, con PSA de 0,06 en la ultima revisión.
+Historia Actual: varón de 70 años con acude al Servicio de Urgencias de nuestro hospital por presentar una lesión exofítica no dolorosa a nivel del glande de unas cinco semanas de evolución. No recordaba haber tenido ninguna lesión previa ni traumatismo en la zona, y refería desde la aparición de la lesión algún episodio de sangrado con el roce.
+Exploración física: En la exploración del paciente observamos en el dorso del glande una lesión redondeada exofítica de color rojizo oscuro de aproximadamente dos centímetros de diámetro, con tendencia al sangrado, consistencia elástica y no dolorosa. No se palpaban linfadenectomías y el resto de la exploración física del paciente fue normal
+Resumen de pruebas complementarias: Se realizó biopsia de la lesión, observándose durante la intervención que se trataba de una tumoración de aspecto macroscópico no infiltrante, asentanda en la mucosa del glande, con áreas de aspecto trombosado y fácilmente friables.
+El análisis anatomopatológico intraoperatorio fue informado como lesión compuesta por células indiferenciadas con hipercromatismo nuclear, pleomorfismo y gran número de mitosis y pigmento negruzco, que sería compatible con el diagnóstico de melanoma.
+Se completó la resección con una penectomía subtotal con cuatro centímetros de margen de seguridad desde el borde de la lesión y una linfadenectomía inguinal superficial bilateral con ganglios no afectados por el tumor. Se realizó TAC tóracoabdominal que mostró ausencia de enfermedad metastásica. El estudio anatomopatológico de la pieza penectomía reflejo una profundidad máxima de invasión de 1,5 mm. El análisis inmunohistoquímico con S-100 y HMB 45 confirmó el diagnóstico de melanoma (1).
+Diagnóstico: Melanoma
+Remitido por: Dr. José Manuel Janeiro Pais. Paseo Lázaro Cárdenas, 23 - 1º E. 15009 La Coruña. (España) janeiropais@canalejo.org

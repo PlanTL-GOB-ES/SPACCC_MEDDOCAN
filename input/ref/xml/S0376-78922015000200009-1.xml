@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Juana.
+Apellidos: De la Ossa Prieto.
+NHC: 3781046.
+NASS: 50 78265780 41.
+Domicilio: Paseo de Rovira 28, 1 D.
+Localidad/ Provincia: Zaragoza.
+CP: 50009.
+Datos asistenciales.
+Fecha de nacimiento: 10/10/1979.
+País de nacimiento: España.
+Edad: 35 años Sexo: H.
+Fecha de Ingreso: 07/07/2014.
+Médico:  Álvaro Bernal Martínez NºCol: 50 50 74020.
+Informe clínico del paciente: Paciente de 35 años de edad con fototipo cutáneo I según la clasificación de Fitzpatrick que acude al Servicio de Cirugía Plástica de nuestro hospital por presentar antecedentes clínicos de mastopatía fibroquística, papilomatosis intracanalicular y cancerofobia por antecedentes familiares de neoplasia de mama. La mamografía mostraba tejido de aspecto micronodular bien distribuido que se clasificó como un patrón mamográfico BIRADS 3. No obstante, ingresa para cirugía profiláctica del cáncer de mama. En el momento de la intervención no presentaba adenopatías axilares palpables.
+Realizamos mastectomía bilateral conservadora de piel, con hallazgo intraoperatorio de una adenopatía axilar izquierda, próxima al tejido subcutáneo, de coloración negra. Ante la posibilidad del descubrimiento intraoperatorio de una metástasis de melanoma, decidimos remitir la muestra para su estudio anatomopatológico de forma diferida. No encontramos otros signos clínicos sugestivos de patología tumoral, por lo que finalizamos la cirugía con la colocación bilateral de prótesis mamarias.
+La exploración exhaustiva de la paciente durante el ingreso postoperatorio no reveló lesiones cutáneas compatibles con melanoma, pero sí la presencia de un tatuaje en la región pectoral izquierda de 10 años de antigüedad. La paciente fue dada de alta hospitalaria a la espera de los resultados del estudio de Anatomía Patológica.
+El estudio histológico diferido de la pieza quirúrgica describió la adenopatía como un fragmento de aspecto bilobulado y color violáceo, de 1,6 x 1,3 x 0,5 cm., de tinte violáceo. Al microscopio describía una hiperplasia linfoide reactiva. La estructura del ganglio estaba conservada, sin presencia de células melanocíticas y con depósito de un pigmento artificial oscuro granular.
+Ya nuevamente en la consulta, la exploración clínica junto con el estudio histológico de la lesión permitió atribuir la causa de los cambios clínicos de la adenopatía al tatuaje de la paciente, con el consecuente resultado de un pronóstico benigno y sin la necesidad de tratamiento o seguimiento posteriores.
+Responsable clínico: Dr. Álvaro Bernal Martínez Hospital Miguel Servet Pso. Isabel La Católica, s/n. 50009 Zaragoza, España e-mail: aj.bernal.martinez@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="33" text="Juana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="46" end="63" text="De la Ossa Prieto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="70" end="77" text="3781046" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="85" end="99" text="50 78265780 41" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="112" end="135" text="Paseo de Rovira 28, 1 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="159" end="167" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="173" end="178" text="50009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="222" end="232" text="10/10/1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="254" end="260" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="268" end="275" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="282" end="283" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="303" end="313" text="07/07/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="324" end="346" text="Álvaro Bernal Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="354" end="365" text="50 50 74020" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T9" start="409" end="416" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="1629" end="1668" text="tatuaje en la región pectoral izquierda" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2519" end="2541" text="Álvaro Bernal Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2542" end="2564" text="Hospital Miguel Servet" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="2565" end="2593" text="Pso. Isabel La Católica, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2595" end="2600" text="50009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2601" end="2609" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2611" end="2617" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="2626" end="2654" text="aj.bernal.martinez@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

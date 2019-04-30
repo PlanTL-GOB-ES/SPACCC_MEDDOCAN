@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: Paola.
+Apellidos: Martinez Espinosa.
+NHC: 4564903.
+NASS: 43 76457565 47.
+Domicilio: Calle del Alcalde Francisco Santero, 3, 1, B.
+Localidad/ Provincia: Madrid.
+CP: 09001 .
+Datos asistenciales.
+Fecha de nacimiento: 20/09/1941.
+País: España.
+Edad: 18 meses  Sexo: H.
+Fecha de Ingreso: 03/01/2016.
+Servicio: Hemedialisis.
+Episodio: 52344562.
+Médico: Jorge Espinoza  NºCol: 40 40 93498 .
+Varón de 46 años con metamorfopsias en su ojo derecho (OD) y refracción subjetiva de -1,25 -2,25 x 60º, con una AV= 1,0 y en OI = +0,25 con AV=1,2, que le provoca diplopía y mareo. El paciente había sido intervenido de un DR en OD tres años antes mediante vitrectomía, cerclaje y taponamiento con gas (SF6). Cursó con reaplicación de la retina. Previamente (7 años antes) había sido operado de LASIK (-6,50 D en ambos ojos) sin complicaciones y con buen resultado refractivo y visual.
+Se adaptó una LC hidrofílica moldeada de bajo espesor (0,1 mm para -3,00 D) de toro interno y sistema de estabilización con prisma balastrado ajustada a su topografía corneal periférica, radio base 8,9 mm, diámetro de 14,5 mm y potencia -1,25 -2,50 x 70° consiguiendo AV de 1,0. Durante la adaptación fue necesario corregir el eje de la lente al estabilizar con un giro de 10° en sentido horario. La adaptación fue satisfactoria con buena tolerancia subjetiva desapareciendo la diplopia y los síntomas astenópicos.
+
+Dirección para correspondencia: Victoria de Juan Herráez Instituto Universitario de Oftalmobiología Aplicada (IOBA) Edificio Ciencias de la Salud Avda. Ramón y Cajal, 7 47005 Valladolid, España E-mail: victoria@ioba.med.uva.es

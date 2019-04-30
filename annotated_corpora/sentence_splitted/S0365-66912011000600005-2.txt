@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Antonio.
+Apellidos: Recines Mohedano.
+NHC: 5458743.
+NASS: 34 78567058 15.
+Domicilio: C/ Agustin de foxá, 27.
+Localidad/ Provincia: Madrid.
+CP: 28039.
+Datos asistenciales.
+Fecha de nacimiento: 24/08//1979.
+País de nacimiento: España.
+Edad: 37 años Sexo: H.
+Fecha de Ingreso: 28/05/2017.
+Médico: Carmen Burgueño Montañés NºCol: 28 28 57810.
+Informe clínico del paciente: Varón de 37 años ex-adicto a drogas por vía parenteral y diagnosticado de hepatitis crónica por virus C genotipo 4 con una baja carga viral (75.754 UI/ml). Se instauró tratamiento con IFN pegilado alpha-2b (100µg/semana) y ribavirina (1g/día).
+A los 2 meses del inicio del tratamiento acudió a la consulta y refirió visión borrosa y «manchas» en el campo visual desde aproximadamente 10 días antes. En la exploración oftalmológica presentó una AV de 0,8 con corrección en ambos ojos y múltiples exudados algodonosos en polo posterior. Se diagnosticó de retinopatía por IFN y se suspendió el tratamiento. En controles sucesivos el cuadro fue mejorando y a los 3 meses presentó una AV de 10/10 en ambos ojos y en el FO únicamente se apreció un exudado algodonoso en reabsorción inferior a fóvea izquierda.
+Responsable clínico: Dra. Carmen Burgueño Montañés. Correo electrónico: casamata@gmail.com

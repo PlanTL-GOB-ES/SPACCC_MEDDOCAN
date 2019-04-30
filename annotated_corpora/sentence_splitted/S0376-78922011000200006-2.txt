@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Hector.
+Apellidos: Muñoz Pascual.
+NHC: 9184594.
+NASS: 23 07563478 93.
+Domicilio: Calle Rivadavia, 32, 5 A.
+Localidad/ Provincia: Zaragoza.
+CP: 46015.
+Datos asistenciales.
+Fecha de nacimiento: 13/08/1987.
+País: España.
+Edad: 72 años  Sexo: M.
+Fecha de Ingreso: 13/06/2016.
+Episodio: 789431641.
+Médico: Estefanía García Camiño  NºCol: 28 28 20943.
+Varón de 21 años de edad con antecedentes de tumoración (osteosarcoma) en rodilla derecha a los 7 años de edad. Tras recibir múltiples tratamientos de elongación ósea, fue necesario colocar una prótesis total de rodilla. Debido a la existencia de múltiples cicatrices, la piel se necrosó y la prótesis resultó expuesta, por lo que fue necesario cubrirla con 2 colgajos de gemelos según la técnica que hemos descrito.
+
+Dirección para correspondencia: Dr. Carlos Márquez Zevallos Hospital Clínica Kennedy Alborada Calle Crotos Av. Rodolfo Baquerizo Nazur (Alborada XII etapa). Guayaquil, Ecuador. e-mail: dr_carlos_marquez@yahoo.com

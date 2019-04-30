@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Tomás.
+Apellidos: Estrada Pañero.
+NHC: 7452911.
+Domicilio: Calle Villanueva, 34, 2B .
+Localidad/ Provincia: Salamanca.
+CP: 37041.
+Datos asistenciales.
+Fecha de nacimiento: 26/06/1995.
+País: España.
+Edad: 14 años Sexo: H.
+Fecha de Ingreso: 10/10/2014.
+Médico: Pilar Fraile Gómez  NºCol: 37 37 58203.
+Informe clínico del paciente: Varón de 14 años en seguimiento por Hematología por trombopenia, el cual es derivado a Neuropediatría por presentar un aumento de CPK (hasta 1864 UI/L), lactatodeshidrogenasa (LDH) (hasta 421 UI/l) y transaminasas (aspartato transaminasa [AST] hasta 490 UI/l, alanina aminotransferasa [ALT] hasta 280 UI/l) en analíticas seriadas. El paciente refería estar previamente asintomático, salvo por una discreta astenia ante la realización de ejercicio moderado, como correr o subir escaleras, asociando ocasionalmente calambres y mialgias. Profundizando en la anamnesis, refirió haber presentado, además, un episodio aislado de hematuria macroscópica tras la realización de ejercicio previo. La exploración era normal.
+Se realizaron un electroencefalograma, un electromiograma y una resonancia magnética muscular de extremidades inferiores, sin mostrar alteraciones en ninguna de dichas pruebas complementarias. Asimismo, se realizó una biopsia muscular donde se evidenció déficit de miofosforilasa, sin otras alteraciones añadidas. El estudio molecular puso en evidencia la presencia de las mutaciones p.R50X (c.148C>T) y p.R490W (c.1468C>T) en heterocigosis compuesta, confirmando el diagnóstico de sospecha de enfermedad de McArdle. Se derivó al paciente a nutrición y dietética, presentando previo al acoplamiento dietético dos episodios de rabdomiólisis que requirieron ingreso en la unidad de cuidados intensivos pediátricos. Actualmente el paciente se encuentra asintomático, con valores de CPK normales, siguiendo pautas de soporte nutricional y con controles ambulatorios en Neuropediatría y Nutrición Pediátrica.
+Remitido por: Pilar Fraile Gómez, Servicio de Nefrología, Hospital Universitario de Salamanca , Paseo de San Vicente 58-182, 37007 Salamanaca pilarfg@usal.es pilarfg9@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="29" end="34" text="Tomás" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="47" end="61" text="Estrada Pañero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="68" end="75" text="7452911" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="88" end="112" text="Calle Villanueva, 34, 2B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="137" end="146" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="152" end="157" text="37041" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="201" end="211" text="26/06/1995" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="219" end="225" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="233" end="240" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="247" end="248" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="268" end="278" text="10/10/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="288" end="306" text="Pilar Fraile Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="315" end="326" text="37 37 58203" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="358" end="363" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="367" end="374" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1990" end="2008" text="Pilar Fraile Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2034" end="2069" text="Hospital Universitario de Salamanca" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2072" end="2099" text="Paseo de San Vicente 58-182" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2101" end="2106" text="37007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2107" end="2117" text="Salamanaca" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2118" end="2133" text="pilarfg@usal.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T1" start="2134" end="2154" text="pilarfg9@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

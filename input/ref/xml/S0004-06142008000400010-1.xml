@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Joaquin  .
+Apellidos: Caldera Gomez.
+NHC: 2405698.
+NASS: 38 79045620 86.
+Domicilio: Paseo de la Armada, 35, 3 D.
+Localidad/ Provincia: Albacete.
+CP: 02524.
+Datos asistenciales.
+Fecha de nacimiento: 24/08/1960.
+País: España.
+Edad: 54 años Sexo: H.
+Fecha de Ingreso: 13/09/2014.
+Servicio: Urgencias.
+Episodio: 04735665.
+Médico: Héctor Pastor Navarro NºCol: 02 02 54630.
+Historia Actual: Paciente varón de 54 años de edad sin antecedentes personales de interés.
+Acude al Servicio de Urgencias de nuestro hospital en septiembre de 2005 por cefalea frontoparietal derecha y diplopia de mirada lateral de 2 semanas de evolución así como edema palpebral derecho desde hace una semana.
+Fue valorado inicialmente por el Servicio de Oftalmología objetivando exoftalmos moderado en ojo derecho, inflamación, hiperemia y tumefacción palpebral superior e inferior derecha moderadas, limitación en todas las posiciones de de la mirada y diplopia. No presentaba alteración de la agudeza visual. La presión intraocular (PIO) del ojo derecho era de 20 mmHg., la PIO del ojo izquierdo fue de 10 mmHg. La exploración del fondo de ojo era normal.
+Se solicitó TAC orbitario objetivándose aumento de tamaño del hueso esfenoides con patrón permeativo e hiperostosis de cara orbitaria con masa de partes blandas que abombaba el músculo recto lateral. Asimismo se producía ocupación de las celdillas etmoidales.
+El paciente ingresó en el Servicio de Neurocirugía solicitándose RMN craneal que era informado como posible meningioma hiperostósico en placa periorbitaria derecha del ala mayor de esfenoides sin poder descartar lesiones fibroóseas esfenoidales.
+Se programó para realizar biopsia quirúrgica de dichas lesiones. El resultado anatomopatológico de la biopsia fue de tejido conectivo, músculo esquelético estriado y aisladas trabéculas óseas con nidos y cordones de células epiteliales con citoplasma amplio que formaban focalmente luces glandulares, en el hueso se apreciaba metástasis de adenocarcinoma con positividad inmunohistoquímica para el Antígeno Prostático Específico (PSA).
+Ante estos hallazgos se consultó con el Servicio de Urología. Realizando una anamnesis dirigida se descubrieron alteraciones en la micción en los últimos meses (polaquiuria y nocturia) y hemospermia.
+Exploración física: Tacto rectal: próstata volumen II/IV, de consistencia pétrea en ambos lóbulos, fija, sospechosa de cáncer de próstata.
+Pruebas complementarias: PSA: 389 ng/ml
+Biopsia de próstata transrrectal: adenocarcinoma prostático Gleason 4+4=8 que afecta extensamente a ambos lóbulos.
+Rastreo óseo con Tc99m: las imágenes mostraban múltiples áreas de hipercaptación que afectan a región cigomática derecha y orbital interna derecha, ambas parrillas costales, columna dorsolumbar, pala ilíaca, región acetabular e isquiopubiana derechas, espina iliaca y región acetabular izquierdas y tercio medio de diáfisis femoral izquierda.
+Evolución y comentarios: Tras la instauración del bloqueo androgénico se produjo una mejoría progresiva de la clínica ocular. Durante los primeros 7 meses de seguimiento el paciente se mantuvo asintomático.
+A los 8 meses el paciente ingresó en el Servicio de Urología con clínica de hematuria, que al no mejorar con lavado vesical continuo, requirió la realización de RTU vesical, apreciándose gran proceso neoformativo prostático que invadía el suelo vesical. Anatomía patológica de los fragmentos de resección: focos de adenocarcinoma prostático con cambios involutivos secundarios a tratamiento hormonal.
+A los 9 meses del diagnóstico inicial el paciente ingresa de nuevo en nuestro servicio por síndrome miccional obstructivo, disminución de la diuresis, deterioro de la función renal y disnea. Se realizó TAC toracoabdominopélvico apreciándose derrame pleural derecho con atelectasia compresiva, múltiples adenopatías mediastínicas, metástasis pulmonares múltiples, dilatación ureteropielocalicial del riñón izquierdo y las ya conocidas múltiples lesiones óseas metastásicas de tipo blástico.
+Se realizó pleurocentesis derecha (la citología del líquido pleural fue positiva para células tumorales malignas). Se desestimó la colocación de nefrostomía percutánea.
+El paciente pasa a ser controlado por la Unidad de Cuidados Paliativos. Falleció 10 meses después del diagnóstico inicial.
+Diagnóstico Principal: Adenocarcinoma de próstata Gleason 4+4=8 con metástasis óseas múltiples.
+Tratamiento
+Se instauró tratamiento con bloqueo hormonal completo (Bicalutamida 50 mg/24h y Goserelina 10,8 mg/12 semanas) y bifosfonatos (Ácido Zoledrónico 4 mg iv /4 semanas).
+Remitido por: Dr. Héctor Pastor Navarro. Av. San Antonio, 47 - 4º Dcha. 02001 Albacete. (España) hektorpn@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="35" text="Joaquin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="50" end="63" text="Caldera Gomez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="70" end="77" text="2405698" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T1" start="85" end="99" text="38 79045620 86" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="112" end="139" text="Paseo de la Armada, 35, 3 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="163" end="171" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="177" end="182" text="02524" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="226" end="236" text="24/08/1960" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="244" end="250" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="258" end="265" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="272" end="273" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="293" end="303" text="13/09/2014" TYPE="FECHAS" comment=""/>
+    <ID id="T14" start="336" end="344" text="04735665" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T13" start="354" end="375" text="Héctor Pastor Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="383" end="394" text="02 02 54630" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="422" end="427" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="431" end="438" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="541" end="559" text="septiembre de 2005" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="4616" end="4637" text="Héctor Pastor Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="4639" end="4668" text="Av. San Antonio, 47 - 4º Dcha" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="4670" end="4675" text="02001" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="4676" end="4684" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="4687" end="4693" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="4695" end="4715" text="hektorpn@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

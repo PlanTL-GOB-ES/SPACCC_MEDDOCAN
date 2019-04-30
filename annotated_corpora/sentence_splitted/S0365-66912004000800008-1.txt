@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Iván.
+Apellidos: Ponce Estrada.
+NHC: 8034756 .
+NASS: 89 26756024 56.
+Domicilio: Calle del pez, 28.
+Localidad/ Provincia: Valencia.
+CP: 28002.
+Datos asistenciales.
+Fecha de nacimiento: 20/12/1954.
+País de nacimiento: España.
+Edad: 57 años  Sexo: M.
+Fecha de Ingreso: 21/12/2016.
+Médico: Alejandro Delgado Gamboa  NºCol: 08-08-25574.
+Mujer de 3 años de edad que acude a la consulta y presenta una lesión en el párpado superior del ojo derecho (OD), rodeada de un gran edema perilesional. Inicialmente fue diagnosticada de chalación. Tras la resolución del edema se descubren múltiples pápulas no pruriginosas de entre 2-5 mm de tamaño que ocupan casi todo el párpado superior. Las lesiones formaban a manera de cordones móviles, indoloros, que no interferían con el cierre del párpado. La agudeza visual era de 1 con E Snellen en ambos ojos. El resto de la exploración ocular y general fue normal. La analítica realizada que incluyó colesterol y glucemia, no mostró ninguna alteración. Un mes después aparecieron unas nuevas placas en forma de anillos con un borde papuloso en los dedos pulgar e índice de la mano derecha. Se realizó entonces una biopsia en sacabocados de las lesiones del dedo pulgar, con anestesia local.
+El resultado anatomopatológico describió la muestra como un infiltrado inflamatorio compuesto por empalizadas de histiocitos y linfocitos que rodeaban un área de colágena degenerada, compatible con GA. Con este diagnóstico se instauró un tratamiento tópico en el párpado con prednisona-neomicina pomada y en la mano con corticoides tópicos nocturnos. Las revisiones realizadas al mes y a los 3 meses mostraron por un lado una progresiva disminución de las lesiones palpebrales, y por otro la aparición de otras nuevas junto a las primeras. Todas ellas continuaron remitiendo y a los 6 meses del diagnóstico apenas podían palparse restos de las lesiones previas palpebrales.
+
+Correspondencia: Álvaro Hermida Ameijeiras. Servicio de Medicina Interna. Hospital Clínico Universitario. Avda. Choupana, s/n. 15706 Santiago de Compostela. e-mail: alvarohermida@tiscali.es

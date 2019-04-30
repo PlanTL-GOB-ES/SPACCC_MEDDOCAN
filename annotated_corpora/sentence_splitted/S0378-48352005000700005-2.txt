@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Borja.
+Apellidos: Pedroza Gutierrez.
+NHC: 4395458.
+NASS: 89 35672561 02.
+Domicilio: C/ Laskorain, 2, 1A.
+Localidad/ Provincia: Madrid.
+CP: 28027.
+Datos asistenciales.
+Fecha de nacimiento: 24/01/14.
+País: España.
+Edad: 73 años  Sexo: F.
+Fecha de Ingreso: 22/08/2015.
+Médico: Jaime Jimenez Rubio   NºCol: 01 15 13642.
+Paciente de 53 años en 1993 momento en el que se le realiza una biopsia diferida previa localización con arpón en mama izquierda por presentar unas microcalcificaciones sospechosas. Se informa como carcinoma ductal infiltrante G II con componente intraductal sólido. Se realiza mastectomía radical tipo Madden no objetivándose tumor residual y 21 ganglios linfáticos sin metástasis. No realiza tratamiento complementario. En 1996 tiene una recidiva local sobre la cicatriz realizándose una exéresis que es informada como recidiva local de carcinoma infiltrante de mama. Se indica tratamiento complementario con radioterapia y tamoxifeno 20 mg diarios. Dos años más tarde, en una revisión rutinaria, se le practica una ecografía vaginal en la que se describe un mioma de 7*8 cm no visto con anterioridad realizándose una histerectomía total con doble anexectomía. Informe anatomopatológico: "Sarcoma del estroma endometrial de bajo grado de malignidad e hiperplasia glandular quística de endometrio. Trompas y ovarios sin lesiones (Estadio I)..
+
+En Enero del 2002 la paciente presenta un cuadro de disnea con derrame pleural que resulta ser positivo para células tumorales, falleciendo a los seis meses por múltiples metástasis pulmonares.
+
+Dirección para correspondencia Dr. J. I. Bermejo Aycart Servicio de Ginecología y Obstetricia Complejo Hospitalario Hospital General de Segovia Carretera de Ávila, s/n E-40002 Segovia

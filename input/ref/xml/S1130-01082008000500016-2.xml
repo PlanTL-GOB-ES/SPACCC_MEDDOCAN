@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[                                           Nombre:  Miguel.
+                                           Apellidos: Gallardón Perez.
+                                           NHC: 8092476.
+                                           NASS: 09 75189670 85.
+                                           Domicilio: Calle Carcelén, 8.
+                                           Localidad/ Provincia: Albacete.
+                                           CP: 02001.
+Datos asistenciales.
+Fecha de nacimiento: 27/06/1951.
+País: España.
+Edad: 66 años Sexo: H.
+Fecha de Ingreso: 13/12/2017.
+Médico: Héctor Pastor Navarro NºCol: 02 02 75921.
+Historia del paciente: Varón de 66 años, fumador activo, con antecedentes de gastrectomía parcial por enfermedad ulcerosa y hepatopatía crónica por VHC en seguimiento periódico. Ingresa por cuadro de hemorragia digestiva en forma de melenas acompañada de dolor en cadera derecha de varias semanas de evolución, irradiado por cara ántero-lateral del muslo hasta rodilla; refería igualmente síndrome constitucional con pérdida ponderal de 6 kg. La exploración física evidenció dolor a la palpación en cabeza femoral derecha y discreta hepatomegalia de 2 cm, en tanto que los datos bioquímicos y hematimétricos básicos resultaron normales, exceptuando discreta anemización; los niveles séricos de αFP fueron de 4,4 ng/ml. La TC abdominal demostró una masa de 8 x 7 x 5 cm en lóbulo hepático derecho con captación heterogénea de contraste, sugerente de CHC; la radiología convencional de pelvis y cadera, por su parte, reveló una imagen lítica de patrón apolillado a nivel de cuello y cabeza femoral derecha. La gammagrafía ósea (99mTc) constató el acúmulo patológico de radiotrazador a dicho nivel, así como en región supraorbitaria izquierda. Finalmente, el estudio histológico mediante biopsia de la lesión en cuello femoral confirmó el diagnóstico de metástasis de CHC. Se procedió a la quimioembolización del tumor primario, asociada a radioterapia paliativa sobre la articulación coxofemoral (dosis total de 2.400 cGy), con evidente mejoría sintomática. Seis meses después el paciente presentó una fractura patológica subtrocantérea que precisó de ostesíntesis mediante clavo PFN, falleciendo a las 20 semanas de la intervención.
+Remitido por: Dr. Héctor Pastor Navarro Servicio de Urología Complejo Hospitalario Universitario de Albacete Hermanos Falcó, s/n - 02006 Albacete Tel.: 967 597 100 E-mail autor: hektorpn@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="52" end="58" text="Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="114" end="129" text="Gallardón Perez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="179" end="186" text="8092476" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="237" end="251" text="09 75189670 85" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="307" end="324" text="Calle Carcelén, 8" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="391" end="399" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="448" end="453" text="02001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="497" end="507" text="27/06/1951" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="515" end="521" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="529" end="536" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="543" end="544" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="564" end="574" text="13/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="584" end="605" text="Héctor Pastor Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="613" end="624" text="02 02 75921" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="649" end="654" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="658" end="665" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2276" end="2297" text="Héctor Pastor Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2319" end="2366" text="Complejo Hospitalario Universitario de Albacete" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2367" end="2386" text="Hermanos Falcó, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2389" end="2394" text="02006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2395" end="2403" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2410" end="2421" text="967 597 100" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="2436" end="2456" text="hektorpn@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

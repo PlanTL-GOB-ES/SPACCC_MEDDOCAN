@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Guillermo .
+Apellidos: Delgado Ortiz.
+NHC: 6670492.
+NASS: 76 96364099 77.
+Domicilio: C/ Carlos Soto, 3, 6 A.
+Localidad/ Provincia: Dos Hermanas, Sevilla.
+CP: 41703.
+Datos asistenciales.
+Fecha de nacimiento: 20/05/1949.
+País de nacimiento: España.
+Edad: 65 años Sexo: H.
+Fecha de Ingreso: 30/07/2014.
+Episodio: 5038894.
+Médico: Isabel Fernández García NºCol: 41 41 92745.
+Informe clínico del paciente: Varón de 65 años, sin antecedentes de interés, politraumatizado tras accidente de automóvil. Es intubado en el escenario, debido a hipoxemia severa y trasladado a la unidad de cuidados críticos donde tras valoración, se encuentra fractura de cigoma izquierdo, pared lateral de la órbita derecha, fractura de huesos propios, fractura de clavícula izquierda, fractura de esternón, fracturas múltiples costales bilaterales con volet costal izquierdo, enfisema subcutáneo, neumomediastino sin neumotórax y fractura de la rama pubiana derecha. Debido a la situación de hipoxemia severa durante la ventilación mecánica y a los hallazgos radiológicos se realizó fibrobroncoscopia a las 72 horas del ingreso encontrando pequeñas lesiones de aspecto ulceroso entre los cartílagos traqueales, retirándose el tubo orotraqueal hasta epiglotis para una mejor visualización traqueal, sin observar otras alteraciones. A los dieciocho días del ingreso se realizó traqueotomía percutánea bajo control endoscópico, colocándose una cánula de 8 mm de diámetro. Dos semanas después, el paciente se hallaba en situación de destete respiratorio procediéndose al cambio de cánula de traqueostomía. A las 48 horas de esta maniobra presenta un nuevo deterioro respiratorio con hallazgo de aire en la bolsa de recogida de la nutrición enteral. Se sospechó una fístula traqueoesofágica que se confirmó endoscópicamente, corrigiéndose el defecto por vía esofágica con prótesis metálica recubierta junto a una gastrostomía percutánea para alimentación. El paciente fallece 7 días después del cambio de la cánula por shock resistente a catecolaminas con acidosis e hipoxemia extremas.
+Responsable clínico: Dra. Isabel Fernández García. Hospital San Agustín. Prolongación Dr. Fleming, s / n, 41700 Dos Hermanas, Sevilla. Correo Electrónico: isabelfernandez81@hotmail.com

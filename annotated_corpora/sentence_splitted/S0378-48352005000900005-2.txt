@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: David .
+Apellidos: Ferrer Paul.
+NASS: 38 457389 65.
+Domicilio: Calle Lirios, 12.
+Localidad/ Provincia: Ciudad Real.
+CP: 28065.
+Datos asistenciales.
+Fecha de nacimiento: 24/01/14.
+País: España.
+Edad: 71 años  Sexo: H.
+Fecha de Ingreso: 30/10/2015.
+Médico: Ana Arillo Crespo   NºCol: 03 03 20150.
+En 1999, a los 66 años, se le practicó mastectomía con disección axilar izquierda. El diagnóstico histológico fue de carcinoma ductal infiltrante moderadamente diferenciado, de 1,5 cm de tamaño (T1c). Se aislaron 8 ganglios, 3 afectados por la enfermedad. Los receptores de estrógenos y de progesterona eran positivos. Se le administró quimioterapia complementaria (seis ciclos de CMF) y, posteriormente, radioterapia y tratamiento hormonal con tamoxifeno.
+En los últimos meses de 2004 comenzó a referir metrorragias en cantidad escasa. En Enero de 2005 se añadieron dolores óseos. La biopsia tomada mediante histeroscopia fue informada como adenocarcinoma mucinoso pobremente diferenciado con células en anillo de sello, compatible con tumor primario de cérvix. Los estudios de extensión mostraron afectación metastásica ósea y hepática. Si bien inicialmente se planteó como un segundo tumor primario de origen endocervical, los datos clínicos y la presencia simultánea de afectación ósea y hepática recomendaron una reevaluación de la histología. En los estudios inmunohistoquímicos se encontró positividad para receptores de estrógeno y de progesterona en la pieza de biopsia endocervical, lo que llevó a interpretar todo el cuadro como diseminación a distancia de su cáncer de mama. En la actualidad recibe tratamiento paliativo con quimioterapia.
+
+Dirección para correspondencia Dr. A. S. Rubiales Oncología Médica Hospital Clínico Universitario C/ Ramón y Cajal, 3 E-47005 Valladolid E-mail: asrubiales@hotmail.com

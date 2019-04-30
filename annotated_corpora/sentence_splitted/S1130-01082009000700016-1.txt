@@ -1,0 +1,18 @@
+Nombre:  Fabricio.
+Apellidos: Espinosa Carrillo.
+NHC: 52476.
+NASS:34 56564457 36.
+Domicilio: Avda Juan Carlos I, 16 3A .
+Localidad/ Provincia: Cuenca.
+CP: 16004.
+Datos asistenciales.
+Fecha de nacimiento: 26/10/1938.
+País: España.
+Edad: 77 años Sexo: H.
+Fecha de Ingreso: 24/11/2015.
+Servicio: Urgencias.
+Médico: Pablo Franquelo Morales  NºCol: 16 16 91023.
+Historia Actual:Presentamos el caso de un paciente de 77, acudió de forma programada a nuestro centro para la realización de una colonoscopia previa preparación intestinal con la solución evacuante de Bohn. Durante el procedimiento sufrió una perforación intestinal a nivel de colon sigmoide, motivo por el cual fue sometido a intervención quirúrgica urgente objetivándose una perforación de 1 centímetro de longitud y de bordes limpios que fue suturada mediante sutura simple dejando un drenaje de penrose. Fue trasladado a la Unidad de Cuidados Intensivos (UCI) en el postoperatorio inmediato.
+Antecedentes: hipertensión arterial y cardiopatía isquémica que se encontraba en estudio por un cuadro de molestias abdominales inespecíficas y una anemia de reciente aparición. 
+Evolución: A su llegada a la UCI se procedió a la administración de antibióticos de amplio espectro previa toma de muestras microbiológicas. Entre las pruebas complementarias realizadas se llevó a cabo una cuantificación seriada de PCT y proteína C reactiva (PCR) observándose unos valores de PCR normales (0,25 mg/dl) y de PCT discretamente elevados (0,6 ng/ml). En las mediciones realizadas a las 2 horas y a las 12 horas del ingreso del paciente en UCI se produjo un importante incremento de los valores de PCT (12,73 y 220 ng/ml) mientras que los de PCR sólo se elevaron ligeramente (0,8 y 15,5 mg/dl). En el cultivo del drenaje abdominal se aisló un Enterobacter cloacae sensible a la pauta antibiótica administrada. La evolución posterior fue favorable siendo dado de alta a las 72 horas de ingreso en la UCI.
+Remitido por: Pablo Franquelo Morales. Servicio de Urgencias, Hospital Virgen de la Luz, C/ Hermandad de Donantes de Sangre nº 2, 16002-Cuenca (España). E-mail: pfranquelo@yahoo.es

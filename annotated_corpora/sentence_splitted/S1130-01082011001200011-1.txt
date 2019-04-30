@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Pedro.
+Apellidos: Soto Betancourt.
+NHC: 743612.
+NASS: 48 36907256 18.
+Domicilio: Avenida de la ilustracion 51, 15 A.
+Localidad/ Provincia: Sevilla.
+CP: 41001.
+Datos asistenciales.
+Fecha de nacimiento: 21/04/2014.
+País: España.
+Edad: 39 años  Sexo: Femenino.
+Fecha de Ingreso: 15/04/2018.
+Médico: Raúl González García  NºCol: 29 29 57889.
+Paciente varón de 95 años que acude al servicio de urgencias por dolor abdominal en fosa iliaca derecha. Como antecedentes personales destacaba una gran cifosis dorsal, sin otros antecedentes de interés. Refería dolor abdominal en fosa iliaca derecha de 24 horas de evolución, de instauración progresiva y carácter intenso, sin náuseas ni vómitos ni otra sintomatología acompañante. A la exploración presentaba dolor intenso a la palpación en fosa iliaca y flanco derechos con defensa y peritonismo. Pruebas complementarias: Rx abdomen: sin hallazgos patológicos; Rx tórax: sin hallazgos patológicos; hemograma: leucocitosis (12.500) con neutrofilia (85%). TC abdomen: colección intraabdominal localizada en FID que asciende por el espacio parietocólico derecho. Con diagnóstico de abdomen agudo compatible con apendicitis aguda complicada se intervino urgente realizando laparotomía media supra- e infraumbilical hallando apéndice normal. Se evidenció un vólvulo de vesícula biliar con vesícula de aspecto edematoso, congestiva y con áreas necróticas. Se realizó desvolvulación de más de 180o y colecistectomía reglada. El postoperatorio cursó sin incidencias procediendo al alta hospitalaria al 7o día postoperatorio. El estudio anatomopatológico fue informado como colecistitis aguda alitásica.
+Dirección para correspondencia: Correo electrónico: handreailla@gmail.com (Andrea Domínguez Gozalo).

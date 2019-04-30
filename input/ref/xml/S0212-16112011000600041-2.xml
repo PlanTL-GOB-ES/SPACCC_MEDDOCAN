@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Vicente.
+Apellidos: Maldonado Enrique.
+CIPA: nhc-87941464.
+NASS: 98 74236146 44.
+Domicilio: Calle San Cosme, 2.
+Localidad/ Provincia: Burgos.
+CP:09001.
+NHC: 87941464.
+Datos asistenciales.
+Fecha de nacimiento: 26/11/1976.
+País: España.
+Edad: 41 años Sexo: H.
+Fecha de Ingreso:20/12/2017.
+Especialidad: Medicina Interna.
+Médico: Alberto Miján de la Torre  NºCol:09 28 94165.
+Historia Actual: Varón de 41 años, con antecedentes personales de tuberculosis pulmonar tratada, sin otros antecedentes personales de interés salvo bebedor moderado de bebidas alcohólicas. Derivado a nuestro centro por presentar desde el mes anterior, aumento paulatino del perímetro abdominal, junto con aparición de edemas en extremidades inferiores. No otra sintomatología acompañante. 
+Resumen de pruebas complementarias: En analítica, destaca una coagulación alterada (tiempo de protrombina 43%), creatinina 0.58 mg/dl, colesterol 77 mg/dl, albúmina 1.610 mg/dl. Se realizó ecografía abdominal donde se confirmó el diagnóstico de esteatosis hepática e hipertensión portal, junto con circulación colateral y ascitis, todo ello en probable relación con consumo excesivo de bebidas alcohólicas (estudio virológico para hepatitis negativo). En la gastroscopia, se objetivaron varices esofágicas grado III, una pequeña hernia de hiato y gastropatía secundaria a la hipertensión portal.
+Evolución y comentarios: Dados los hallazgos clínico-analíticos, se sospechó enfermedad pierde proteínas, por lo que se realizó el aclaramiento de A1AT, siendo de 45 ml/día (> 24 ml/día) [A1AT en sangre: 190 mg/dl; A1AT en heces: 0,38 mg/g; peso heces en 24h: 225 g], siendo diagnosticado de la misma, en relación a su hipertensión portal. Fue tratado con abstinencia de alcohol, complementos nutricionales hiperproteicos orales y diuréticos, mejorando clínica y analíticamente, por lo que fue dado de alta para control en consultas externas en su centro de referencia.
+Remitido por: Alberto Miján de la Torre. Servicio de Medicina Interna. Unidad de Nutrición Clínica. Hospital General Yagüe. Avda. Cid Campeador, 96. 09005 Burgos. E-mail: mijan@hgy.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="16" text="Vicente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="29" end="46" text="Maldonado Enrique" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="58" end="66" text="87941464" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="74" end="88" text="98 74236146 44" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="101" end="119" text="Calle San Cosme, 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="143" end="149" text="Burgos" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="154" end="159" text="09001" TYPE="TERRITORIO" comment=""/>
+    <ID id="T16" start="166" end="174" text="87941464" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="218" end="228" text="26/11/1976" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="236" end="242" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="250" end="257" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="264" end="265" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="284" end="294" text="20/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="336" end="361" text="Alberto Miján de la Torre" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="369" end="380" text="09 28 94165" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="399" end="404" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="408" end="415" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1952" end="1977" text="Alberto Miján de la Torre" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2038" end="2060" text="Hospital General Yagüe" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2062" end="2085" text="Avda. Cid Campeador, 96" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2087" end="2092" text="09005" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2093" end="2099" text="Burgos" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2109" end="2121" text="mijan@hgy.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

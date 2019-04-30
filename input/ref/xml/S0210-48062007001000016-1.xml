@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Montserrat.
+Apellidos: Romero Sabaniego.
+NASS: 78 32128059 55.
+Domicilio: Calle Les Glories 155, 1B. .
+Localidad/ Provincia: Barcelona.
+CP: 08018.
+NHC: 8473310.
+Datos asistenciales.
+Fecha de nacimiento: 13/06/1955.
+País: España.
+Edad: 62 años Sexo: M.
+Fecha de Ingreso: 14/09/2017.
+Especialidad: UROLOGIA.
+Médico:Hugo Martínez Rodríguez NºCol: 08 08 32156.
+Antecedentes: presenta antecedentes personales de hipertensión arterial, hipercolesterolemia e hipertrigliceridemia. Antecedente urológico de tumor vesical infiltrante de alto grado (Carcinoma de células transicionales G3T2 p53+ y Carcinoma in situ en muestra 1 de la biopsia múltiple normatizada).
+Historia Actual: Mujer de 62 años que tras cistectomía radical con reconstrucción vesical tipo Studer (Carcinoma urotelial G3 de patrón sólido, pt3b, ganglios negativos) presenta sepsis de origen urinario ingresando en unidad de semicríticos con tratamiento antibiótico y diurético intensivos.
+A los tres días del ingreso la paciente refiere acúfenos de instauración súbita acompañados de hipoacusia bilateral de grado importante. La paciente no presentaba clínica vertiginosa ni de inestabilidad. No había otalgia ni otodinia ni sensación de plenitud ótica. La movilidad facial estaba conservada.
+Exploración física: La exploración física es estrictamente normal revelando la audiometría hipoacusia profunda del oído derecho y cofosis de oído izquierdo, con impedanciometría normal.
+Evolución y comentarios: Una vez confirmado el carácter neurosensorial de la hipoacusia se realizó una revisión de la historia clínica de la paciente y una nueva anamnesis para realizar el estudio etiológico. Descartada la relación con enfermedades sistémicas, infecciones intracraneales y traumatismos, se atribuyó la hipoacusia a la administración de furosemida intravenosa en el manejo inicial del shock séptico.
+Se suspendió la administración de furosemida, y se proscribió la asociación de otros fármacos ototóxicos. Se procedió según el protocolo de hipoacúsia súbita a tratamiento con corticoides parenterales a altas dosis (Metilprednisolona 120 mg/24) y pentoxifilina por vía oral. (400 mg/ 8 h). Tras 7 días de tratamiento parenteral se continuó el tratamiento corticoideo por vía oral en pauta descendente durante 14 días más (Prednisona 60 mg/día 7 días y 30 mg/día 7 días), manteniendo la pentoxifilina a la misma dosis durante varios meses. La audiometría a las dos semanas del tratamiento evidenciaba mejoría de la audición tonal con aparición de restos auditivos en graves en el oído izquierdo y el ascenso de los umbrales en oído derecho.
+A los 6 meses del tratamiento la paciente ha recuperado la audición del oído derecho hasta un 58%. El oído izquierdo tiene restos auditivos en frecuencias graves, pero no se ha observado una recuperación manifiesta. La paciente sigue controles en nuestro centro, y se le ha recomendado la adaptación de una prótesis acústica en oído derecho. Oncológicamente ha iniciado tratamiento complementario con quimioterapia, sin afectación de sus niveles auditivos.
+Remitido por: Dr. Hugo Martínez Rodríguez Servicio de Urología. Fundació Puigvert. Calle Cartagena, 34. 08025 Barcelona E-mail: hugomar2@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="19" text="Montserrat" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="32" end="48" text="Romero Sabaniego" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="56" end="70" text="78 32128059 55" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="83" end="108" text="Calle Les Glories 155, 1B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="134" end="143" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="149" end="154" text="08018" TYPE="TERRITORIO" comment=""/>
+    <ID id="T17" start="161" end="168" text="8473310" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="212" end="222" text="13/06/1955" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="230" end="236" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="244" end="251" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="258" end="259" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="279" end="289" text="14/09/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="322" end="345" text="Hugo Martínez Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="353" end="364" text="08 08 32156" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="682" end="687" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="691" end="698" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="3080" end="3103" text="Hugo Martínez Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3126" end="3143" text="Fundació Puigvert" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T4" start="3145" end="3164" text="Calle Cartagena, 34" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3166" end="3171" text="08025" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3172" end="3181" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3190" end="3207" text="hugomar2@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

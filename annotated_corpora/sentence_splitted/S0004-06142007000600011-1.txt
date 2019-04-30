@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre:  Sandra.
+Apellidos: Terraza Baeza.
+NHC: 2897564.
+Domicilio: Calle de Nicaragua, 23, 3D.
+Localidad/ Provincia: Alicante.
+CP: 03459.
+Datos asistenciales.
+Fecha de nacimiento: 06/12/1990.
+País: España.
+Edad: 27 años Sexo: M.
+Fecha de Ingreso: 07/06/2018.
+Servicio: Ginecología.
+Médico:  José Antonio Cánovas Ivorra NºCol: 03 08 65748.
+Informe clínico del paciente: Paciente de 27 años de edad sin alergias ni antecedentes de interés. Acude desde la consulta de Ginecología donde se aprecia en un estudio ecográfico una imagen neoformativa en el área retrotrigonal derecha. No presenta ningún síntoma urológico asociado.
+En la urografía intravenosa practicada se confirma el hallazgo ecográfico de defecto de replección en área lateral derecha, así como el estudio mediante T.A.C.
+En la cistoscopia practicada se aprecia un área sobreelevada sin alteración de la mucosa a ese nivel.
+Se practica resección transuretral que confirma el hallazgo de leiomioma vesical.
+La evolución postoperatoria es satisfactoria así como el seguimiento en consultas externas mediantes estudios endoscópicos anuales.
+Remitido por: Dr. José Antonio Cánovas Ivorra Urbanización Montiboli 188 A-6 03570 Villajoyosa. Alicante. (España). jacanovas@hotmail.com

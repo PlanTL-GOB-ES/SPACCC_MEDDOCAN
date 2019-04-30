@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Andrea.
+Apellidos: Pose Diaz.
+NHC: 6509362.
+Domicilio: Pa. De Los Navegantes 22 3A.
+Localidad/ Provincia: Arganda del Rey, Madrid.
+CP: 28500.
+Datos asistenciales.
+Fecha de nacimiento: 27/06/2010.
+País: España.
+Edad: 3 años Sexo: M.
+Fecha de Ingreso: 03/07/2013.
+Servicio: Alergología.
+Episodio:756937462.
+Médico: Maria Pilar López Sáez NºCol: 28 28 54112.
+Motivo de ingreso: lesiones habonosas diseminadas.
+Historia Actual: Niña de tres años de edad, que fue remitida por su pediatra a la consulta de Alergología por presentar, desde hacía un año, episodios recurrentes de lesiones habonosas diseminadas sin angioedema. Los brotes aparecían cada uno o dos meses, solían persistir una semana y a veces se acompañaban de odinofagia. Los padres no relacionaban estos cuadros con ningún posible agente externo desencadenante, entre ellos fármacos o alimentos.
+Antecedentes: sin antecedentes personales ni familiares de interés
+Exploración física: En la exploración física realizada durante su primera visita se objetivó una hipertrofia de las amígdalas palatinas, sin otros hallazgos reseñables.
+Las pruebas cutáneas con una batería estándar de neumoalérgenos habituales de la región (incluidos ácaros del polvo, pólenes, hongos y epitelios de animales), látex, alimentos, panalérgenos vegetales y Anisakis simplex fueron negativas.
+Resumen de pruebas complementarias: La analítica general realizada (bioquímica, hemograma, velocidad de sedimentación globular, hormonas tiroideas y orina) fue normal, así como las clases de inmunoglobulinas séricas IgA, IgM e IgG. La cifra de IgE total fue de 104,5 UI/ml (valores normales de referencia, 100-120 UI/ml). Los niveles de anticuerpos antiestreptolisina O (ASLO) fueron de 1571 UI/ml (valor de referencia del laboratorio, 0-200 UI/ml). En el examen de heces no se observaron parásitos.
+Evolución y comentarios: Tras la instauración de tratamiento con penicilina G-benzatina por vía intramuscular durante cuatro meses (una dosis al mes) la niña quedó asintomática, a la vez que se objetivó un descenso progresivo de las cifras del ASLO hasta su normalización.
+Remitido por: Dra. Maria Pilar López Sáez. Correo electrónico: mpilarlopezsaez@yahoo.es Servicio de Pediatria del Hospital Universitario del Sureste. Ronda del Sur, 10, 28500 Arganda del Rey, Madrid
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="8" end="14" text="Andrea" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="27" end="36" text="Pose Diaz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="43" end="50" text="6509362" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T22" start="63" end="90" text="Pa. De Los Navegantes 22 3A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="114" end="129" text="Arganda del Rey" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="131" end="137" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="143" end="148" text="28500" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="192" end="202" text="27/06/2010" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="210" end="216" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="224" end="230" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="237" end="238" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="258" end="268" text="03/07/2013" TYPE="FECHAS" comment=""/>
+    <ID id="T9" start="302" end="311" text="756937462" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T11" start="321" end="343" text="Maria Pilar López Sáez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="351" end="362" text="28 28 54112" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="432" end="436" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="440" end="449" text="tres años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="743" end="749" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T10" start="2129" end="2151" text="Maria Pilar López Sáez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T6" start="2173" end="2197" text="mpilarlopezsaez@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T5" start="2224" end="2258" text="Hospital Universitario del Sureste" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2260" end="2277" text="Ronda del Sur, 10" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2279" end="2284" text="28500" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2285" end="2300" text="Arganda del Rey" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2302" end="2308" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

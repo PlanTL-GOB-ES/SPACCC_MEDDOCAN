@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Carlos.
+Apellidos: Cerna Rodriguez.
+NHC: 7824395.
+NASS: 89 56421611 13.
+Domicilio: Calle Pinto Nolla, 23, 3C.
+Localidad/ Provincia: OVIEDO.
+CP: 51001.
+Datos asistenciales.
+Fecha de nacimiento: 19/05 /1981.
+País de nacimiento: España.
+Edad: 26 años  Sexo: H.
+Fecha de Ingreso: 19/03/2016.
+Médico: Francisco Javier Alados-Arboledas  NºCol: 30 30 25501.
+Niña de 13 años de edad cuando se diagnosticó de SDRC de extremidad inferior derecha secundario a una fractura de tobillo.
+Fue derivada a la Unidad del Dolor por el Servicio de Traumatología Pediátrica. Se inició tratamiento farmacológico sin resultado analgésico adecuado por lo que se decidió (previa información y obtención del consentimiento por parte de los padres) la implantación, en quirófano y bajo anestesia general, de un catéter epidural lumbar conectado a una bomba externa para administrar una infusión continua de bupivacaína durante dos semanas. Se obtuvo un alivio completo del dolor así como del resto de los síntomas, pero este desapareció una vez retirada la infusión de bupivacaína volviendo a aparecer tanto el dolor como el resto de los síntomas acompañantes.
+Previa información y consentimiento paterno se implantó en quirófano, bajo anestesia general, un electrodo octopolar en cordones medulares posteriores a nivel de T12-T9 y se conectó a un generador de impulsos eléctricos externo. Se programó una vez que la paciente estaba despierta consiguiéndose un buen nivel de parestesias con alivio completo del dolor. Ello permitió que la paciente iniciara la rehabilitación de la extremidad afectada. A las dos semanas se revisó observándose que continuaba el alivio sin que la paciente utilizase el generador de impulsos externo. Ante esta situación se desconectó el generador externo y se continuó con el tratamiento rehabilitador citando a la paciente cuatro semanas más tarde. Ante la persistencia de la ausencia de dolor y la mejoría de los síntomas acompañantes, se decidió (de acuerdo con los padres) explantar el electrodo medular. La paciente continúa con una remisión completa de los síntomas.
+Dirección para correspondencia: Manuel J. Rodríguez-López Unidad de Tratamiento del Dolor Hospital Regional Universitario "Carlos Haya" Avda. Carlos Haya, s/n 29010 Málaga e-mail: maje1946@yahoo.es

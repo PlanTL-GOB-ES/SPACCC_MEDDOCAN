@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Manuel.
+Apellidos: De Miguel RUiz.
+NHC: 136412.
+NASS: 36 74651289 36.
+Domicilio: calle cartagena 19, 3B.
+Localidad/ Provincia: Madrid.
+CP:28036.
+Datos asistenciales.
+Fecha de nacimiento: 29/05/1940.
+País: España.
+Edad: 77 años Sexo: H.
+Fecha de Ingreso: 16/11/2017.
+Servicio: Microbiología.
+Médico: Francisco Javier Candel  NºCol: 28 14 95413.
+Motivo de ingreso: Varón de 77 años, Acude al hospital por un cuadro de 3 días de evolución de tos con expectoración purulenta, mayor dificultad respiratoria y empeoramiento del nivel de conciencia. 
+Antecedentes: alérgico a betalactámicos con antecedentes personales de EPOC corticodependiente con varias reagudizaciones anuales y en tratamiento con oxigeno domiciliario y broncodilatadores a dosis plenas (situación funcional III-IV de NYHA).
+Exploración física: En la exploración física destacó fiebre de 38 ºC, cianosis central y periférica, aumento de la presión venosa yugular, taquicardia a 120 lpm, alargamiento del tiempo espiratorio, sibilancias y roncus espiratorios en ambos campos pulmonares, sobre todo en el derecho. En el abdomen hepatomegalia dolorosa y edemas en ambas piernas. 
+Resumen de pruebas complementarias: La radiografía de tórax mostró un aumento de densidad en lóbulo inferior derecho, de bordes mal definidos. En el hemograma se objetivaron 22.970 leucocitos/mm3 (93N, 3,4L), Hb 13 g/dl, HCT 37%, VCM 90 fl, PLQ 235.000/mm3. Los resultados de la gasometría fueron pH 7.45, pO257, pCO2 36.4, HCO3 25,9, SatO2 90%. Se practicaron cultivos de sangre y esputo en medios generales (agar sangre y chocolate, Biomerieux®) y para el estudio de micobacterias [Bactec 960 MGIT (Mycobacterial Growth Indicator Tube) y Lowenstein (Becton Dickinson®)}. Las tinciones de Gram y Ziehl del esputo no ofrecieron orientación diagnóstica. En el cultivo de esputo a las 24 horas (calidad intermedia, > 25 leucocitos 10-25 células epiteliales) tan sólo se objetivó flora habitual del tracto respiratorio. Se inició tratamiento empírico con Levofloxacino e.v. (500 mg/día), Vancomicina e.v. (1 g/12 h) y Tobramicina e.v. (200 mg/12 h). 
+Evolución y comentarios: El paciente desarrolló un empeoramiento progresivo clínico (hipotensión, disnea y fiebre) y analítico (el hemograma entonces mostró 40.000 leucocitos/mm3), falleciendo al cuarto día del ingreso.
+El mismo día del fallecimiento se observó positividad tanto en el hemocultivo como en el cultivo de esputo, ambos en medio especifico para micobacterias (MGIT). La tinción de Ziehl de ambas mostró marañas de bacilos Ziehl positivos ramificados. Del pase del caldo de MGIT a medio de Mueller-Hinton (Biomerieux®) y Lowenstein, crecieron a las 24 horas unas colonias secas, inicialmente blanquecinas, que a las 48 horas, viraban a asalmonadas, con textura similar al yeso. Se envió la cepa problema al Centro Nacional de Microbiología de Majadahonda. Allí se amplificó por PCR la secuencia 16S rDNA del microorganismo y, con un 100% de homologías, se identificó como Nocardia otitidiscaviarum.
+Remitido por: DR.Francisco Javier Candel. Servicio de Microbiología Clínica. Hospital Clínico San Carlos. C/ Doctor Martín lagos, s/n. 28040 Madrid. e-mail: fj.candel@terra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="15" text="Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="28" end="42" text="De Miguel RUiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="49" end="55" text="136412" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="63" end="77" text="36 74651289 36" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="90" end="112" text="calle cartagena 19, 3B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="136" end="142" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="147" end="152" text="28036" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="196" end="206" text="29/05/1940" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="214" end="220" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="228" end="235" text="77 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="242" end="243" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="263" end="273" text="16/11/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="308" end="331" text="Francisco Javier Candel" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="340" end="351" text="28 14 95413" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="372" end="377" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="381" end="388" text="77 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T7" start="2818" end="2865" text="Centro Nacional de Microbiología de Majadahonda" TYPE="INSTITUCION" comment=""/>
+    <NAME id="T6" start="3028" end="3050" text="rancisco Javier Candel" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3087" end="3114" text="Hospital Clínico San Carlos" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3116" end="3143" text="C/ Doctor Martín lagos, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3145" end="3150" text="28040" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3151" end="3157" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3167" end="3185" text="fj.candel@terra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

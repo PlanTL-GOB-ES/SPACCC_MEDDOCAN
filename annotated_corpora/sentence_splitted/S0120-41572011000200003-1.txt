@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Iñaki .
+Apellidos: Baltodano Gradiz.
+NHC: 9837489.
+NASS: 34 98675816 01.
+Domicilio: Calle de Puig, 34, 5, B.
+Localidad/ Provincia: Madrid.
+CP: 02514.
+Datos asistenciales.
+Fecha de nacimiento: 26/09/1989.
+País: Argentina.
+Edad: 64 años  Sexo: H.
+Fecha de Ingreso: 27/11/2017.
+Médico: Anselmo Guareño Antúnez  NºCol: 28 28 93560.
+Se trata de un paciente de sexo masculino de 41 años de edad, que consultó por un cuadro clínico de dos meses de evolución consistente en urticaria, angioedema en manos y pies, y dificultad respiratoria cuando estaba en una piscina, que cedió espontáneamente; también había presentado urticaria en un antebrazo al contacto con una botella fría. Tenía antecedentes personales de rinitis, asma y conjuntivitis alérgica. Se le practicó la prueba del cubo de hielo, que fue positiva a los cuatro minutos. Fue tratado con fexofenadina, con mejoría total de los síntomas.
+Correspondencia: Jorge Mario Sánchez, Servicio de Alergología Clínica, Clínica León XIII, bloque I, consultorios 111, 112 y 113, Medellín, Colombia.

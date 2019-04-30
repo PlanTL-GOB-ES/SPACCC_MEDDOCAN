@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Pilar.
+Apellidos: Marinez Rodriguez.
+NHC: 784123665.
+NASS: 89 19924674 01.
+Domicilio: Calle Méjico, 16.
+Localidad/ Provincia:Guadalajara.
+CP: 19002.
+Datos asistenciales.
+Fecha de nacimiento: 23/12/1949.
+País: España.
+Edad: 68 años  Sexo:.
+Fecha de Ingreso: 16/10/2017.
+Servicio: Nefrología.
+Episodio:.
+Médico: Gabriel de Arriba NºCol: 19 19 87465.
+Motivo de ingreso: Dolores óseos.
+Antecedentes: hipertensión, diabetes mellitus tipo 2, artrosis generalizada, insuficiencia cardíaca congestiva en estadio II de la NYHA y fibrilación auricular crónica.
+Historia Actual: Mujer de 68 años, estaba siendo tratada con metformina (850 mg/8 horas), glipizida (5 mg/día), lercanidipino (10 mg/día), lisinopril-hidroclorotiazida (20/12,5 mg/día), acenocumarol y, ocasionalmente, ibuprofeno. Dos días antes del ingreso por aumento de dolores óseos recibe ibuprofeno (600 mg/8 horas), comenzando posteriormente con deterioro general, vómitos y disminución del nivel de conciencia.
+En urgencias estaba hipotensa y mal prefundida en coma (Glasgow 6/15) y en la analítica se objetivó creatinina plasmática de 1,79 mg/dl, glucemia de 215 mg/dl y tiempo de protrombina del 7%. La gasometría arterial tenía un pH de 7,03 con bicarbonato de 10 mEq/l y un ácido láctico plasmático de 14 mmol/l. La radiografía de tórax reveló un infiltrado en la base izquierda.
+Evolución y comentarios: Fue trasladada a la unidad de cuidados intensivos (UCI) y se le realizó intubación orotraqueal con ventilación mecánica y administración de fármacos vasoactivos y antibióticos. Se indicó punción lumbar, cuyo resultado fue compatible con meningitis neumocócica. Se realizó hemodiálisis con baño de bicarbonato teniendo posteriormente una mejoría analítica con creatinina (Cr) plasmática de 1,2 mg/dl y bicarbonato sérico de 22 mEq/l. No obstante, la paciente permaneció en coma, con EEG con ondas de bajo voltaje, falleciendo a las 72 horas del ingreso.
+Remitido por: Dr.Gabriel de Arriba, Sección de Nefrología, Hospital Universitario de Guadalajara. Departamento de Medicina. Universidad de Alcalá E-mail: garribad@senefro.org
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="8" end="13" text="Pilar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="26" end="43" text="Marinez Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="50" end="59" text="784123665" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="67" end="81" text="89 19924674 01" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="94" end="110" text="Calle Méjico, 16" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="133" end="144" text="Guadalajara" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="150" end="155" text="19002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="199" end="209" text="23/12/1949" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="217" end="223" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="231" end="238" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="265" end="275" text="16/10/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="318" end="335" text="Gabriel de Arriba" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="343" end="354" text="19 19 87465" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="576" end="581" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T5" start="585" end="592" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="1945" end="1962" text="Gabriel de Arriba" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="1987" end="2024" text="Hospital Universitario de Guadalajara" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T2" start="2052" end="2073" text="Universidad de Alcalá" TYPE="INSTITUCION" comment=""/>
+    <CONTACT id="T1" start="2082" end="2102" text="garribad@senefro.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

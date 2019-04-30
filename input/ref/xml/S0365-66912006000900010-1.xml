@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Ángel.
+Apellidos: Higueras Patiño.
+NHC: 974556.
+NASS: 08 76457156 14.
+Domicilio: Rúa Profesor Filgueira Valverde, 10, 8G.
+Localidad/ Provincia: Pontevedra.
+CP:36004.
+Datos asistenciales.
+Fecha de nacimiento: 03/07/1959.
+País: España.
+Edad: 58 años Sexo: H.
+Fecha de Ingreso: 21/09/2017.
+Servicio: Urgencias.
+Médico: Carmen Blanco-Rivera  NºCol:36 36 79436.
+Motivo de ingreso: dolor ocular intenso con pérdida visual.
+Historia Actual: varón de 58 años que acudió por urgencias con dolor ocular intenso acompañado de pérdida visual progresiva en su ojo izquierdo. 
+Antecedentes: glaucoma agudo secundario a dicha masa presente en cámara anterior.
+Exploración física: La exploración oftalmológica mostró una masa pigmentada en el ángulo iridocorneal que protuía a cámara anterior afectando al iris. 
+Resumen de pruebas complementarias: La oftalmoscopía mostró una masa pigmentada de gran tamaño y aspecto irregular, con zonas más sobreelevadas. Las características que presentó en la ecografía ocular fueron compatibles con un melanoma ocular de gran tamaño y extensión difusa. La Resonancia Nuclear Magnética (RNM) mostró una masa con base de 17 mm discretamente hiperintensa en T1 e hipointensa en T2, compatible con el diagnóstico de melanoma de coroides (1). El Servicio de Oncología realizó un estudio de extensión que descartó diseminación metastásica. Dada la extensión tumoral, la sintomatología del paciente y la ausencia de posibilidad de recuperación visual se planteó el tratamiento mediante enucleación (1,3).
+El examen visual macroscópico del globo ocular, tras su extracción, evidenció la presencia de invasión escleral.
+Evolución y comentarios: El paciente evolucionó favorablemente, conservando la motilidad ocular y un aspecto satisfactorio con la prótesis ocular externa, manteniendo una buena calidad de vida, presentando, únicamente, dificultad para realizar tareas cotidianas que requiriesen una buena visión binocular.
+El examen macroscópico de cortes seriados del globo ocular mostró una masa circunferencial de crecimiento endofítico abarcando prácticamente toda la coroides extendiéndose hasta cuerpo ciliar e iris, correspondiendo histológicamente a una proliferación de células fusiformes y epitelioides con citoplasma amplio, pigmentado, núcleos ovalados con nucleolos prominentes con un grado de atipia significativa. El número de mitosis fue elevado, evidenciándose focos hemorrágicos y necróticos. Estos datos anatomopatológicos confirmaron el diagnóstico de melanoma uveal difuso, con perforación de la pared escleral alcanzando la superficie externa de la misma.
+Remitido por: Carmen Blanco-Rivera Servicio de Oftalmología. Complejo Hospitalario Universitario de Vigo (CHUVI). C/ Pizarro, s/n 36204 Vigo (Pontevedra) España E-mail: mcarmenbr@wanadoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="9" end="14" text="Ángel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="27" end="42" text="Higueras Patiño" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="49" end="55" text="974556" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="63" end="77" text="08 76457156 14" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="90" end="129" text="Rúa Profesor Filgueira Valverde, 10, 8G" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="153" end="163" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="168" end="173" text="36004" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="217" end="227" text="03/07/1959" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="235" end="241" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="249" end="256" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="263" end="264" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="284" end="294" text="21/09/2017" TYPE="FECHAS" comment=""/>
+    <CONTACT id="T13" start="325" end="345" text="Carmen Blanco-Rivera" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <ID id="T12" start="353" end="364" text="36 36 79436" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="443" end="448" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="452" end="459" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="2617" end="2637" text="Carmen Blanco-Rivera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="2664" end="2707" text="Complejo Hospitalario Universitario de Vigo" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="2709" end="2714" text="CHUVI" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="2717" end="2732" text="C/ Pizarro, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="2733" end="2738" text="36204" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2739" end="2743" text="Vigo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2745" end="2755" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2757" end="2763" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2772" end="2792" text="mcarmenbr@wanadoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Luisa.
+Apellidos: Zafra Monedero.
+NHC: 5208756.
+NASS: 43 50259874 90.
+Domicilio: C/ José Cádiz Salvatierra, 3, Bajo A.
+Localidad/ Provincia: Jerez de la Frontera, Cádiz.
+CP: 11405.
+Datos asistenciales.
+Fecha de nacimiento: 13/06/1952.
+País: España.
+Edad: 62 años Sexo: M.
+Fecha de Ingreso: 24/08/2014.
+Episodio: 395866540.
+Médico: Félix Gómez de Rueda  NºCol: 11 11 54870.
+Informe clínico del paciente.
+Presentamos el caso de una paciente de 62 años que en diciembre de 2010 es intervenida por un carcinoma seroso papilar en ovario izquierdo con afectación de un ganglio de la cadena aorto-cava (estadio IIIC). Posteriormente recibió quimioterapia adyuvante con carboplatino y paclitaxel, finalizando en junio de 2011. Más tarde, inició seguimiento permaneciendo asintomática hasta abril 2013, cuando se detectó una elevación de CA 125 de 88.4 U/ml (0-35 U/ml). En el TAC se pudo apreciar una imagen adyacente al colon y se le practicó resección anterior de recto superior con biopsia intraoperatoria de una lesión hepática que confirmó la naturaleza metastásica.
+Se instauró una segunda línea de tratamiento con carboplatino y paclitaxel, evidenciando un valor de CA 125 de 123.3 U/ml. Tras un primer ciclo con buena tolerancia, programamos el segundo y durante los primeros minutos de la infusión de carboplatino, presentó un cuadro brusco de disnea, vómitos, pérdida de conocimiento y TAS/TAD de 70/50 mmHg. Se detuvo la infusión y posteriormente a la administración de corticoides el cuadro comenzó a remitir. La Unidad de Alergología, recomendó esquema de desensibilización5 con enlentecimiento de la velocidad de infusión. Para ello, se utilizaron tres disoluciones con concentraciones de 0,02, 0,2 y 2 mg/ml respectivamente, además de la premedicación la noche anterior y media hora antes de la infusión con:
+- Cetirizina 10 mg - Prednisona 1 mg/kg - Ranitidina 150 mg - Montelukast 10 mg
+A pesar de ello, a los pocos minutos comenzó con disnea, sudoración y tensiones de 85/60 mmHg, obligando a detener la infusión y recomendándose no volver a usar ninguna sal de platino.
+En Septiembre de 2013, se decidió iniciar 3a línea de quimioterapia con trabectedina y adriamicina liposomal pegilada. Tras el tercer ciclo, se normalizaron los marcadores y se completó hasta el sexto, manteniéndose en estos momentos libre de enfermedad.
+Remitido por: Dr. Félix Gómez de Rueda. Hospital General de Jerez. Ronda de Circunvalación, s/n, 11407 Jerez de la Frontera, Cádiz, España. correo electrónico: cardiometa@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T29" start="28" end="33" text="Luisa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T28" start="46" end="60" text="Zafra Monedero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T27" start="67" end="74" text="5208756" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T26" start="82" end="96" text="43 50259874 90" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T25" start="109" end="145" text="C/ José Cádiz Salvatierra, 3, Bajo A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T24" start="169" end="189" text="Jerez de la Frontera" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T23" start="191" end="196" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T22" start="202" end="207" text="11405" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T20" start="251" end="261" text="13/06/1952" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T21" start="269" end="275" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T18" start="283" end="290" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="297" end="298" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T19" start="318" end="328" text="24/08/2014" TYPE="FECHAS" comment=""/>
+    <ID id="T13" start="340" end="349" text="395866540" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T15" start="359" end="379" text="Félix Gómez de Rueda" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="388" end="399" text="11 11 54870" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T17" start="470" end="477" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="485" end="502" text="diciembre de 2010" TYPE="FECHAS" comment=""/>
+    <DATE id="T10" start="732" end="745" text="junio de 2011" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="810" end="820" text="abril 2013" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="2112" end="2130" text="Septiembre de 2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="2382" end="2402" text="Félix Gómez de Rueda" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2404" end="2429" text="Hospital General de Jerez" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="2431" end="2459" text="Ronda de Circunvalación, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2461" end="2466" text="11407" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2467" end="2487" text="Jerez de la Frontera" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2489" end="2494" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2496" end="2502" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2524" end="2543" text="cardiometa@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

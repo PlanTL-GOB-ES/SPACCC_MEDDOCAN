@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Maria Concepcion.
+Apellidos: Montijo Ramos.
+NHC: 436434/875.
+Domicilio: Tlatetilpa 14.
+Localidad/ Provincia: San Lucas, Coyoacan, CDMX.
+CP: 04030.
+Datos asistenciales.
+Fecha de nacimiento: 10/06/1983.
+País: México.
+Edad: 35 años Sexo:Mujer.
+Fecha de Ingreso: 20/05/2018.
+Médico: María Gómez Valcárcel .
+Historia de el/ la paciente: Mujer de 35 años acude a consulta por mala agudeza visual (AV) desde la infancia, sin tratamiento. A la exploración se encontró cabello amarillento, al igual que cejas y pestañas; piel rojiza, sin nevos ; agudeza visual con corrección de 20/400 (-9,50 -5,50 x 135º) en ojo derecho (OD) y 20/200 (-6,50 -5,50 x 20º) en ojo izquierdo (OI); exotropía de 50 dioptrías, nistagmo horizontal; ambos ojos (AO) con presión intraocular de 12 mmHg, conjuntiva normal, córnea con algunos depósitos estromales blanquecinos centrales y anteriores bien circunscritos, cámara anterior sin células ni flare, iris claro con transiluminación, cristalino transparente e hipoplasia foveal. Con los datos clínicos oculares y sistémicos se establecieron los diagnósticos de AOC y DG y se citó a la familia para valoración clínica.
+Se trata de una familia de nueve miembros, con padres de 74 y 64 años. No hay consanguinidad y proceden de localidades diferentes. La DG está presente en la madre, tres hermanos y su hijo, mientras que el AOC aparece en dos de los hermanos pero sin datos de DG.
+Remitido por: María Gómez Valcárcel Hospital Dr. Luis SánchezBulnes Asociación para Evitar la Ceguera en México C/ Vicente García Torres Nº 46 Col. San Lucas Coyoacán 04030 México D.F. México E-mail: maria_01_05@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T36" start="8" end="24" text="Maria Concepcion" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T35" start="37" end="50" text="Montijo Ramos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T34" start="57" end="67" text="436434/875" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T33" start="80" end="93" text="Tlatetilpa 14" TYPE="CALLE" comment=""/>
+    <LOCATION id="T32" start="117" end="126" text="San Lucas" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T31" start="128" end="136" text="Coyoacan" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T30" start="138" end="142" text="CDMX" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T29" start="148" end="153" text="04030" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T28" start="197" end="207" text="10/06/1983" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T27" start="215" end="221" text="México" TYPE="PAIS" comment=""/>
+    <AGE id="T26" start="229" end="236" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T25" start="242" end="247" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T24" start="267" end="277" text="20/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T23" start="287" end="308" text="María Gómez Valcárcel" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T22" start="340" end="345" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T21" start="349" end="356" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="468" end="487" text="cabello amarillento" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="520" end="531" text="piel rojiza" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="1115" end="1122" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T18" start="1164" end="1189" text="familia de nueve miembros" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T4" start="1195" end="1201" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="1205" end="1207" text="74" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T2" start="1210" end="1217" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T17" start="1305" end="1310" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="1312" end="1325" text="tres hermanos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T5" start="1331" end="1335" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="1368" end="1387" text="dos de los hermanos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T15" start="1424" end="1445" text="María Gómez Valcárcel" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T14" start="1446" end="1477" text="Hospital Dr. Luis SánchezBulnes" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T13" start="1478" end="1521" text="Asociación para Evitar la Ceguera en México" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T12" start="1522" end="1552" text="C/ Vicente García Torres Nº 46" TYPE="CALLE" comment=""/>
+    <LOCATION id="T11" start="1553" end="1576" text="Col. San Lucas Coyoacán" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T10" start="1577" end="1582" text="04030" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T8" start="1583" end="1594" text="México D.F." TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T9" start="1595" end="1601" text="México" TYPE="PAIS" comment=""/>
+    <CONTACT id="T7" start="1610" end="1633" text="maria_01_05@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

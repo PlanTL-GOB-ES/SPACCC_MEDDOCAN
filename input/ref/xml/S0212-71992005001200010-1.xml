@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Patricio.
+Apellidos: Villaverde Castillo.
+NHC: 2789354.
+NASS: 28 73561347 15.
+Domicilio: Calle Génova, 23, 1 A.
+Localidad/ Provincia: Madrid.
+CP: 28015.
+Datos asistenciales.
+Fecha de nacimiento: 21/08/1972.
+País de nacimiento: España.
+Edad:42 años Sexo: H .
+Fecha de Ingreso: 13/11/2014.
+Servicio: Oncología .
+Médico: Parham Khosravi Shahi NºCol: 28 28 32110.
+Informe clínico del paciente: varón de 42 años, sin alergias medicamentosas, que presenta como antecedentes personales: mononucleosis infecciosa en la infancia, fractura del brazo izquierdo hace 5 años, obesidad mórbida con esteatosis hepática tratado mediante cirugía bariatrica.
+Acude a las consultas de Otorrolaringología por un cuadro de obstrucción nasal izquierda de unas semanas de evolución, con episodios repetidos de rinorrea purulenta, con sensación de taponamiento nasal izquierdo, que se acompaña de una masa intranasal y tumoración submandibular izquierda. De manera simultánea al paciente se le envía a las consultas de Hematología por una trombocitosis repetida asintomática en las analíticas. Es visto en las consultas de hematología y con la sospecha de trombocitemia esencial se realiza un aspirado/biopsia de médula ósea, presentando en el hemograma una cifra de plaquetas de 487.000/ul.
+El paciente es sometido a una biopsia de la masa intranasal, que es completado con una biopsia incisional de la tumoración submandibular izquierda. La tomografía computerizada cervico-facial evidenciaba una masa de partes balndas en la celda submaxilar izquierda, con áreas de necrosis o abscesificación, de 3 centímetros de diámetro mayor; acompañado de un componente adenopático locorregional adyacente de probable naturaleza inflamatoria. Además existía una segunda lesión en discontinuidad con la anterior, correspondiente a un quiste paralateronasal izquierdo.
+La biopsia de la lesión intranasal consistía en un infiltrado de células neoplásicas de estirpe linfoide con un patrón de crecimiento difuso, sin imágenes 'en cielo estrellado', y con una tasa de mitosis moderada. Las células neoplásicas son de talla intermedia, con núcleos discretamente irregulares y pleomorfismo moderado. El inmunofenotipo de las células neoplásicas determinadas por inmunohistoquímica era: CD45+/cCD3+/Granzime B +/CD56+, CD20-/CD4-/CD8-/LMP1(VEB)-/Perforina-. La biopsia de la tumoración submandibular evidenciaba una infiltración masiva por células neoplásicas de estirpe linfoide de talla intermedia o grande, con irregularidades nucleares y una granulación azurofila tosca, irregular y escasa. Presentando un inmunofenotipo idéntico a la lesión intranasal. La determinación del EBER(VEB) fue positivo, había un reodenamiento policlonal de los genes de la cadena gamma del receptor del linfocito T (TCR) y de los genes de la cadena pesada de las inmunoglobulinas (IgH). Todo ello era compatible con el diagnóstico de Linfoma NK extraganglionar tipo nasal.
+El paciente fue enviado de inmediato al Servicio de Oncología Médica para valoración. El paciente presentaba muy buen estado general con un performance status de 0, sin sintomatología B y asintomático, salvo la clínica propia de la obstrucción nasal izquierda. Se completó el estudio de extensión con tomografía computerizada toraco-abdominal, que no evidenciaba diseminación a distancia, biopsia de médula ósea ya solicitada por sospecha de trombocitemia esencial, bioquímica con perfil renal, hepático, proteinograma, LDH y beta-2-microglobulina séricas.
+El examen de la médula ósea mostraba un parénquima normocelular (3/5), con moderada hiperplasia megacariocítica con elementos en todos los estadios madurativos, algunos de ellos de aspecto hipertrófico, con las series restantes preservadas. No había datos de mielofibrosis, ni parásitos, ni granulomas. Tampoco había infiltración linfomatosa. El estudio de médula ósea no apoya (ni permite descartar de forma absoluta) el diagnóstico de trombocitemia esencial.
+La LDH y la beta-2-microglobulina, así como el resto de los parámetros bioquímicos se mantenían en el rango de la normalidad. La serología para VIH, VHB y VHC eran negativos. Las cifras de hemoglobina y de leucocitos eran normales, con fórmula leucocitaria sin alteraciones, sólo destacaba una trombocitosis de 487.000/ul.
+Con el diagnóstico de Linfoma NK extraganglionar tipo nasal en estadio localizado con trombocitosis reactiva, el paciente inició de inmediato el tratamiento con poliquimioterapia seguido de radioterapia secuencial, decidiéndose realizar un trasplante autólogo de médula ósea en primera línea de tratamiento.
+Responsable clínico: Dr. Parham Khosravi Shahi. Servicio de Oncología Médica. Hospital General Universitario Gregorio Marañón. Doctor Esquerdo, 46. 28007 Madrid. e-mail: drkhosravi@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="36" text="Patricio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="49" end="68" text="Villaverde Castillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="75" end="82" text="2789354" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="90" end="104" text="28 73561347 15" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="117" end="138" text="Calle Génova, 23, 1 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="162" end="168" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="174" end="179" text="28015" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="223" end="233" text="21/08/1972" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="255" end="261" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="268" end="275" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="282" end="283" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="304" end="314" text="13/11/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="346" end="367" text="Parham Khosravi Shahi" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="375" end="386" text="28 28 32110" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="418" end="423" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="427" end="434" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="4617" end="4638" text="Parham Khosravi Shahi" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="4670" end="4717" text="Hospital General Universitario Gregorio Marañón" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="4719" end="4738" text="Doctor Esquerdo, 46" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="4740" end="4745" text="28007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4746" end="4752" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="4762" end="4784" text="drkhosravi@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

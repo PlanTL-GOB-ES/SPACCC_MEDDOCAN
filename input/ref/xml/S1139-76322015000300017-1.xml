@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Aitana.
+Apellidos: Delgado Granada.
+NHC: 5787684.
+Domicilio: Calle del Mercado 1, 2 D.
+Localidad/ Provincia: Benidorm.
+CP: 03698.
+Datos asistenciales.
+Fecha de nacimiento: 28/05/2005.
+País: España.
+Edad: 4 años Sexo: M.
+Fecha de Ingreso: 01/09/2009.
+Médico: Bernat de Pablo Márquez NºCol: 03 03 78784.
+Informe clínico del paciente: Paciente de cuatro años de edad, nacida en Mali y adoptada a los seis meses de edad, sin antecedentes patológicos significativos e inmunizaciones correctas. Consultó por la aparición de lesiones cutáneas papulosas y placas numulares costrosas con tendencia a confluir en la cara anterior del muslo derecho. Inicialmente se prescribió ácido fusídico tópico, sin mejoría clínica y con la aparición de lesiones similares en el tronco, la raíz de las extremidades y en la cara. No tenía afectación palmoplantar ni de mucosas. Las lesiones no eran pruriginosas.
+Al reinterrogar y explorar de nuevo a la paciente, destacó una lesión aislada en dorso del pie derecho, de morfología oval, hiperpigmentada con collarete descamativo perimarginal, que había precedido al resto de lesiones y que se orientó como placa heraldo. El diagnóstico final fue de pitirasis rosada de Gibert en una paciente de raza negra, se inició tratamiento sintomático con buena evolución.
+Remitido por: Bernat de Pablo Márquez. Hospital General Universitario de Alicante. C/ Pintor Baeza, 11, 03010 Alicante. Correo electrónico: bernatdepablo@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="34" text="Aitana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="62" text="Delgado Granada" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="69" end="76" text="5787684" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T20" start="89" end="113" text="Calle del Mercado 1, 2 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="137" end="145" text="Benidorm" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="151" end="156" text="03698" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="200" end="210" text="28/05/2005" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="218" end="224" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="232" end="238" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="245" end="246" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="266" end="276" text="01/09/2009" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="286" end="309" text="Bernat de Pablo Márquez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="317" end="328" text="03 03 78784" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T13" start="372" end="383" text="cuatro años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T8" start="403" end="407" text="Mali" TYPE="PAIS" comment=""/>
+    <AGE id="T7" start="425" end="435" text="seis meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T1" start="1249" end="1259" text="raza negra" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T10" start="1330" end="1353" text="Bernat de Pablo Márquez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1355" end="1397" text="Hospital General Universitario de Alicante" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1399" end="1418" text="C/ Pintor Baeza, 11" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1420" end="1425" text="03010" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1426" end="1434" text="Alicante" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="1456" end="1479" text="bernatdepablo@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

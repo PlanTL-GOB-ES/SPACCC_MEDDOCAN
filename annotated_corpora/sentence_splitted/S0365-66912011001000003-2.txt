@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Liliana.
+Apellidos: Padilla Sotelo.
+NHC: 7834683.
+Domicilio: C/ de Roberto de Agustina.
+Localidad/ Provincia: Madrid.
+CP: 28703.
+Datos asistenciales.
+Fecha de nacimiento: 17/07/2004.
+País de nacimiento: España.
+Edad: 10 años Sexo: M.
+Fecha de Ingreso: 20/10/2014.
+Servicio: Oftalmología.
+Episodio: 79845698.
+Médico: Ángela Muñoz Hernández NºCol: 28 28 78631.
+Informe clínico del paciente: El segundo caso es el de una niña de 10 años que fue derivada desde otro centro por baja visión sin causa orgánica aparente. La paciente presentaba un informe donde constaba una agudeza visual de 0,01 en ambos ojos con una refracción bajo cicloplejia de + 1,00. Todas las exploraciones oftalmológicas fueron normales. En las pruebas complementarias presentadas potenciales evocados visuales (PEV), electrorretinograma (ERG), angiofluoresceingrafía (AFG), tomografía axial computerizada (TAC), resonancia magnética (RM) tampoco se encontró ninguna alteración. Ante la sospecha de simulación, ahondamos en la situación familiar, escolar y social de la paciente. Se trataba de la menor de 4 hermanos, con una gran diferencia de edad, y en los últimos meses había comenzado a tener un mal comportamiento, con bajas notas en el colegio, dificultad en la integración con sus compañeros y, además, un esguince que le obligó a utilizar muletas. Se decidió realizar la prueba de confusión con lentes: se colocó en una montura de pruebas una lente de + 6,00 y a continuación neutralizamos progresivamente con lentes negativas. La AV monocular fue de 0,8 y 0,6, respectivamente; y 0,8 en visión binocular. Los valores de estereopsis fueron normales, de 40". Se habló con los padres  Teresa y Juan Carlos para tranquilizarles sobre la situación de la niña, y fue remitida de nuevo a su centro de referencia para control y seguimiento.
+Responsable clínico: Dra. Ángela Muñoz Hernández. Hospital Universitario Infanta Sofía.  Paseo de Europa, 34, 28703 San Sebastián de los Reyes, Madrid. Correo electrónico: anhumahe@salud.madrid.org

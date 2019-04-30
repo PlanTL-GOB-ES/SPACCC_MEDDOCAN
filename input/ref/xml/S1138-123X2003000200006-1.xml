@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Pedro.
+Apellidos: Ponce de Leon.
+NHC: 3457023.
+Domicilio: Av, Menendez Pelayo, 23.
+Localidad/ Provincia: Murcia.
+CP: 30201.
+Datos asistenciales.
+Fecha de nacimiento: 06/06/1983.
+País: España.
+Edad: 17 años Sexo:H.
+Fecha de Ingreso: 11/09/2000.
+Médico: Carlos García Ballesta  NºCol: 30 30 22503.
+Informe clínico del paciente:  En 1996 acude a consulta un niño de trece años con una fractura del incisivo central superior derecho, de una semana de evolución, sin haber recibido tratamiento dental. A la exploración se observa una fractura complicada de la corona-raíz que llega hasta dos milímetros por debajo del borde marginal gingival. Se optó por la extrusión quirúrgica de la raíz. Previa anestesia con Mepivacaína al 4%, se realizó una incisión en el ligamento periodontal y se luxó la raíz con un elevador, colocado en los lados mesiopalatino y distopalatino, respectivamente. Se extrajo la raíz y se inspeccionó para localizar fracturas adicionales. Se recolocó el fragmento apical, buscando que el diente estuviera estabilizado y la fractura fuera óptimamente expuesta con una mínima extrusión. El diente fue rotado a una posición de 90º de la original, la considerada más estable y posteriormente ferulizado a los dientes adyacentes. Para evitar interferencias durante la oclusión se eliminó parte de la corona.
+Una semana después del tratamiento inicial se realizó la extirpación de la pulpa y se rellenó con Ledermix e hidróxido cálcico a partes iguales, restaurándose provisionalmente la corona con composite. Pasados seis meses, ante la ausencia de signos de reabsorción radicular, el conducto se obturó definitivamente con gutapercha, pero la corona había sufrido una decoloración, adquiriendo un color gris intenso. Se procedió a la técnica de blanqueamiento de dientes no vitales, usando una mezcla de peróxido de carbamida y glicerina (Endoperox®, Septodont Francia). El paciente ha sido controlado durante cuatro años, no evidenciándose signos de reabsorción radicular en este período de tiempo.
+Remitido por: Dr. Carlos García Ballesta Facultad de Odontología. Hospital Morales Meseguer 2ª planta Avda. Marqués de los Vélez s/n 30008 Murcia
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="29" end="34" text="Pedro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="47" end="60" text="Ponce de Leon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="67" end="74" text="3457023" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T21" start="87" end="110" text="Av, Menendez Pelayo, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="134" end="140" text="Murcia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="146" end="151" text="30201" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="195" end="205" text="06/06/1983" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="213" end="219" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="227" end="234" text="17 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="240" end="241" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="261" end="271" text="11/09/2000" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="281" end="303" text="Carlos García Ballesta" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="312" end="323" text="30 30 22503" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <DATE id="T10" start="359" end="363" text="1996" TYPE="FECHAS" comment=""/>
+    <OTHER id="T9" start="384" end="388" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="392" end="402" text="trece años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T7" start="1894" end="1903" text="Septodont" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T6" start="1904" end="1911" text="Francia" TYPE="PAIS" comment=""/>
+    <NAME id="T12" start="2061" end="2083" text="Carlos García Ballesta" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2084" end="2107" text="Facultad de Odontología" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T4" start="2109" end="2134" text="Hospital Morales Meseguer" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="2145" end="2175" text="Avda. Marqués de los Vélez s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="2176" end="2181" text="30008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2182" end="2188" text="Murcia" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

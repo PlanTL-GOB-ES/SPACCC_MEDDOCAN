@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Daniel.
+Apellidos: Miguel Vicente.
+NHC: 3764548.
+NASS: 53 36222562 03.
+Domicilio: Calle de embajadores 76, 6C.
+Localidad/ Provincia: Madrid.
+CP:28030.
+Datos asistenciales.
+Fecha de nacimiento: 13/01/1991.
+País: España.
+Edad: 27 años Sexo: H.
+Fecha de Ingreso: 23/05/2018.
+Médico: Domingo Mederos Catalano  NºCol: 28 45 12470.
+Informe clínico del paciente: Hombre de 27 años que durante una persecución policial recibe un disparo de arma de fuego en el cráneo. Trasladado a un centro asistencial fallece a las 24 horas como consecuencia del agravio encefálico. Entre los hallazgos autópsicos se constatan dos orificios en cuero cabelludo (frontal y parietal derechos) y un único orificio de entrada óseo en hueso parietal derecho sin orificio de salida óseo. El orificio de entrada cutáneo, sin tatuaje ni ahumamiento, es catalogado como "lejano" o a "larga distancia". Rebatido el cuero cabelludo, se observa orificio de entrada óseo en región parietal derecha, alargado, comprobándose biselado externo limitado a la zona más posterior del orificio, con trazo de fractura. Se recupera un fragmento del proyectil en región occipital derecha, deformado, de plomo desnudo, calibre.38, con un sector de su superficie "en espejo". El resto del proyectil produce un orificio de salida cutáneo en región parietal derecha, casi superpuesto al orificio de entrada óseo. El examen histológico confirma la naturaleza de los orificios cutáneos.
+Remitido por: Dr. Domingo Mederos Catalano. dmederos@internet.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="9" end="15" text="Daniel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="28" end="42" text="Miguel Vicente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="49" end="56" text="3764548" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="64" end="78" text="53 36222562 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="91" end="118" text="Calle de embajadores 76, 6C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="142" end="148" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="153" end="158" text="28030" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="202" end="212" text="13/01/1991" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="220" end="226" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="234" end="241" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="248" end="249" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="269" end="279" text="23/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="289" end="313" text="Domingo Mederos Catalano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="322" end="333" text="28 45 12470" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="365" end="371" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="375" end="382" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="1460" end="1484" text="Domingo Mederos Catalano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1486" end="1507" text="dmederos@internet.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

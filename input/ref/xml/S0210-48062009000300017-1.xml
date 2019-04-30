@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Carlos.
+Apellidos: Miguel  Chamoy.
+CIPA: nhc-78912364.
+NASS: 12 36715468 65.
+Domicilio: Av. Cantabria, 11, 1G .
+Localidad/ Provincia: Burgos.
+CP: 09006.
+NHC: 78912364.
+Datos asistenciales.
+Fecha de nacimiento: 27/03/1960.
+País: España.
+Edad: 57 años Sexo: H.
+Fecha de Ingreso:  08/05/2017 .
+Especialidad: UROLOGÍA.
+Médico: Miguel Ángel López Aramburu NºCol: 09 09 64234.
+Motivo de ingreso:.
+Antecedentes: Entre sus antecedentes personales destaca una insuficiencia venosa con alteraciones tróficas en extremidades inferiores. Fumador de 40 cigarrillos diarios desde hace muchos años ha sido diagnosticado en el servicio de urología, hace tres meses, de hiperplasia prostática benigna subsidiaria de tratamiento médico.
+Historia Actual: Paciente de 57 años de edad remitido a urgencias de nuestro hospital por su médico de cabecera por presentar desde hace una semana dolor en glande, con progresiva aparición de una lesión enrojecida que afecta su porción distal, recubierta de fibrina, aspecto necrótico, con gran componente exudativo y que impresiona de proceso trombótico. 
+Durante el balance diagnóstico de la HPB se procedió a TR, determinación de PSA, realización de ecografías etc. sin aportar estos estudios anomalías dignas de mención.
+Exploración física: A la exploración actual se observa que los dos tercios anteriores del glande se encuentras tumefactos, endurecidos, con aspecto necrótico y abundante exudado y fibrina que recubre la zona.
+Resumen de pruebas complementarias: Ante la normalidad de los estudios urológicos y la total desorientación sobre el proceso mórbido se procede a una toma de biopsia mínima de la lesión. Se nos informa de fenómenos de necrosis, denso infiltrado inflamatorio agudo y crónico y trombosis de la dermis. Ante esta situación de desconocimiento del proceso mórbido, pero ante un proceso necrótico que no mejora con los tratamientos sintomáticos instaurados, se indica amputación parcial de pene. Se extirpa glande con una pequeña porción de cuerpos cavernosos. El servicio de anatomía patológica nos informa de la presencia de una trombosis tumoral de cuerpos cavernosos compatible con metástasis por un carcinoma epidermoide.
+Ante esta inusual situación procedemos a la localización del tumor primitivo y estudio de extensión.
+El TAC abdominal descubre a nivel retroperitoneal pequeñas adenopatías subcentimétricas paraaórticas, interaorto-cava y en raíz de mesenterio. Resto dentro de límites de la normalidad.
+Se prosiguen estudios complementarios en busca de la neoplasia primitiva
+Evolución y comentarios:se solicita valoración por parte del Servicio de Traumatología de un dolor en hombro de súbita aparición y severa intensidad. El dolor referido se explica por la existencia de una fractura patológica a nivel del tercio superior de húmero derecho por lesión radiología típica de metástasis ósea. La gammagrafía ósea corrobora el diagnóstico de metástasis ósea a nivel del tercio proximal humeral, sin otros depósitos patológicos a distancia. Los estudios se suceden y la valoración por parte del Servicio de Otorrinolaringología es absolutamente normal. Entra en liza el Servicio de Digestivo que realiza estudio endoscópico y descubre a nivel del cardias masa mamelonada y ulcerada de 3 centímetros de diámetro que se corresponde con infiltración gástrica por un carcinoma escamoso moderadamente diferenciado de esófago.
+Se inicia tratamiento poliquimioterápico pero el estado del paciente empeora progresivamente falleciendo a los pocos meses.
+Remitido por: Dr. Miguel Ángel López Aramburu Servicio de Urología. Hospital Santiago Apóstol Ctra. de Orón, s/n - 09200 Miranda de Ebro. Burgos Tel.: 947 349 000 E-mail: malaramburu@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="15" text="Carlos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="28" end="42" text="Miguel  Chamoy" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="54" end="62" text="78912364" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="70" end="84" text="12 36715468 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="97" end="118" text="Av. Cantabria, 11, 1G" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="143" end="149" text="Burgos" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="155" end="160" text="09006" TYPE="TERRITORIO" comment=""/>
+    <ID id="T17" start="167" end="175" text="78912364" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="219" end="229" text="27/03/1960" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="237" end="243" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="251" end="258" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="265" end="266" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="287" end="297" text="08/05/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="332" end="359" text="Miguel Ángel López Aramburu" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="367" end="378" text="09 09 64234" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T9" start="757" end="764" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3530" end="3557" text="Miguel Ángel López Aramburu" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3580" end="3605" text="Hospital Santiago Apóstol" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="3606" end="3624" text="Ctra. de Orón, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3627" end="3632" text="09200" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3633" end="3648" text="Miranda de Ebro" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3650" end="3656" text="Burgos" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="3663" end="3674" text="947 349 000" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="3683" end="3703" text="malaramburu@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

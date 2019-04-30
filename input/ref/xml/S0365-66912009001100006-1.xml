@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: German.
+Apellidos: Romero Martin.
+NHC: 45764.
+NASS: 45 78960504 77.
+Domicilio: Calle de la Mata, 23.
+Localidad/ Provincia: Cdad. Real.
+CP:13004.
+Datos asistenciales.
+Fecha de nacimiento: 08/09/1980.
+País: España.
+Edad: 37 años Sexo: H.
+Fecha de Ingreso: 26/11/2017.
+Servicio: Oftalmologia.
+Médico: Carmen Ispa Callén NºCol: 13 13 94179.
+Historia del paciente: Varón de 37 años hipermétrope al que, en una exploración rutinaria, se descubrió una presión intraocular (PIO) de 34 mmHg en el ojo derecho (OD) y de 32 mmHg en el ojo izquierdo (OI). La gonioscopía mostró signos de cierre angular en ambos ojos que motivaron la realización de iridotomías bilaterales con láser Nd:YAG. A las dos semanas continuaban signos de cierre angular a pesar de ser permeables las iridotomías y la PIO era de 33 mmHg (OD) y 36 mmHg (OI). Se realizó una biomicroscopía ultrasónica (BMU) que permitió detectar una configuración en iris-plateau con cierre angular secundario a múltiples quistes iridociliares. Los quistes presentaban paredes hiperreflectivas delgadas con contenido líquido hiporreflectivo, sugiriendo el diagnóstico de quistes primarios neuroepiteliales.
+Se decidió tratar el OI mediante iridoplastia con láser argón (tamaño impacto 500 µm, 0,5 segundos de exposición y 500 mW de potencia). Se ofreció la misma actitud para el OD, pero el paciente prefirió un tratamiento conservador con medicación hipotensora (timolol 0,5% cada 12 horas) hasta ver la respuesta al tratamiento láser.
+Tras la iridoplastia se repitió la BMU mostrando el cambio de configuración de la raíz del iris de convexo a cóncavo, así como la desaparición de los quistes. La PIO se redujo a 17 mmHg sin necesidad de tratamiento.
+Al mes se mantuvo una PIO de 18 mmHg en OI sin medicación y de 14 mmHg en OD con Timolol. En la BMU se pudo observar la reaparición de los quistes en el ojo tratado con láser, sin llegar a producir un bloqueo angular secundario. Esta situación se mantuvo durante 6 meses, reapareciendo después la configuración en iris plateau del OI y elevándose la PIO a 28 mmHg. En este momento, se decidió tratar ese ojo con medicación hipotensora como el derecho, ya que éste mantenía una presión intraocular adecuada (14 mmHg). El paciente declinó cualquier otro tratamiento que no fuera médico, ya que toleraba muy bien la medicación y se lograba un adecuado control tensional.
+Actualmente, tras 12 meses de seguimiento, el paciente muestra una PIO de 14 mmHg en ambos ojos con Timolol 0,5% cada 12 horas. En la BMU se siguen observando múltiples quistes neuroepiteliales en ambos ojos, sin mostrar incremento en tamaño ni número ni presentar el paciente clínica de cierre angular.
+Remitido por: Dra. Carmen Ispa Callén. Complejo Hospitalario La Mancha-Centro Avenida de la Constitución 13600 Alcázar de San Juan (Ciudad Real). España E-mail: flarmed@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="8" end="14" text="German" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="27" end="40" text="Romero Martin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="47" end="52" text="45764" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="60" end="74" text="45 78960504 77" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="87" end="107" text="Calle de la Mata, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="131" end="141" text="Cdad. Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="146" end="151" text="13004" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="195" end="205" text="08/09/1980" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="213" end="219" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="227" end="234" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="241" end="242" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="262" end="272" text="26/11/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="306" end="324" text="Carmen Ispa Callén" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="332" end="343" text="13 13 94179" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="368" end="373" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="377" end="384" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2697" end="2715" text="Carmen Ispa Callén" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2717" end="2755" text="Complejo Hospitalario La Mancha-Centro" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="2756" end="2782" text="Avenida de la Constitución" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2783" end="2788" text="13600" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2789" end="2808" text="Alcázar de San Juan" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2810" end="2821" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2824" end="2830" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2839" end="2858" text="flarmed@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

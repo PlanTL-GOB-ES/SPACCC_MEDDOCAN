@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Iker.
+Apellidos: Fernandez Barrios.
+NHC: 7134602.
+NASS: 86 45356636 96.
+Domicilio: C/ Calpe, 34.
+Localidad/ Provincia: Alicante.
+CP: 03550.
+Datos asistenciales.
+Fecha de nacimiento: 07/01/1971.
+País de nacimiento: España.
+Edad:42 años Sexo: H.
+Fecha de Ingreso: 19/10/2013.
+Médico: Itziar Coloma González   NºCol: 03 28 57910.
+Historia Actual: Varón de 42 años remitido a nuestro hospital por episodios recurrentes de conjuntivitis y epiescleritis que no mejoraban con el tratamiento convencional.
+No refería antecedentes personales ni oftalmológicos de interés, tan sólo hábito tabáquico de aproximadamente una cajetilla al día.
+Exploración: A la exploración oftalmológica la agudeza visual (AV) corregida era de la unidad en ambos ojos; los hallazgos biomicroscópicos comprendían inyección y quemosis conjuntival +/+++, edema palpebral superior y un queratitis punteada superficial inferior. No presentaba retracción palpebral ni exoftalmos y la presión intraocular (PIO) era de 13/11 mmHg. Clasificación según el índice NONSPECS de 2-b, 5-a.
+Pruebas complementarias: La analítica básica (bioquímica y hemograma) era normal, las hormonas tiroideas (T3,T4,TSH) estaban elevadas. Se remitió el paciente al endocrinólogo con el diagnóstico de OG leve-moderada en fase activa quien instauró tratamiento antitiroideo junto al tratamiento tópico ocular oftalmológico.
+En revisiones posteriores se apreció la progresión de la oftalmopatía hacia un estadio moderado-severo con empeoramiento de los signos biomicroscópicos, desarrollo de retracción palpebral superior de 3 mm en ambos ojos e inferior de 2 mm en ojo derecho (OD) y 1 mm en el izquierdo (OI), exoftalmometría de Hertel de 25 mm en OD y 24 mm en el OI y aumento de la PIO (24/22 mmHg). Se realizó un octreoscan, que consiste en una inyección de 6 mg de In111-octreótido intravenoso y realización de imágenes planares con estudio mediante tomografía por emisión de fotones a las cuatro y veinticuatro horas. Estas imágenes revelaron la presencia de actividad a nivel orbitario utilizando un método cualitativo de contraste comparando la captación respecto a la de fondo (tejido óseo occipital), por lo que, se inició tratamiento con lanreótido 90 mg cada 3 semanas durante 2 meses, seguido de 60 mg intramuscular cada 15 días durante 2 meses más.
+Evolución: Tras el tratamiento, se repitió la prueba comprobándose un descenso en la captación orbitaria. La AV corregida era de 1 en el OD y 0,9 en el OI, persistiendo una leve epiteliopatía corneal inferior. La PIO era de 17/14 mm Hg con tratamiento tópico hipotensor en OD y trabeculectomía en OI (al mes de iniciar tratamiento) debido a hipertensión mantenida (≈36 mmHg) sin respuesta al tratamiento médico. La exoftalmometría de 22 mm AO y la retracción palpebral superior de 2 mm e inferior de 1 mm AO a la espera de corrección quirúrgica.
+Responsable clínico: Dra. Itziar Coloma González Hospital Universitario San Juan de Alicante Ctra. N-332 Valencia-Alicante, s/n 03550 San Juan (Alicante) España E-mail: icg_ct@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="32" text="Iker" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="45" end="62" text="Fernandez Barrios" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="69" end="76" text="7134602" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="84" end="98" text="86 45356636 96" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="111" end="123" text="C/ Calpe, 34" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="147" end="155" text="Alicante" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="161" end="166" text="03550" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="210" end="220" text="07/01/1971" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="242" end="248" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="255" end="262" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="269" end="270" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="290" end="300" text="19/10/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="310" end="332" text="Itziar Coloma González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="342" end="353" text="03 28 57910" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="372" end="377" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="381" end="388" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2903" end="2925" text="Itziar Coloma González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2926" end="2969" text="Hospital Universitario San Juan de Alicante" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="2970" end="3004" text="Ctra. N-332 Valencia-Alicante, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3005" end="3010" text="03550" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3011" end="3019" text="San Juan" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3021" end="3029" text="Alicante" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3031" end="3037" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3046" end="3061" text="icg_ct@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Alicia.
+Apellidos: Perez Rivera.
+NHC: 235657.
+NASS:22 67134651 89.
+Domicilio: Avenida de la albufera 19, 3 1.
+Localidad/ Provincia: Madrid.
+CP: 28008.
+Datos asistenciales.
+Fecha de nacimiento: 13/01/1992.
+País: España.
+Edad: 26 años Sexo: M.
+Fecha de Ingreso: 10/10/2018.
+Médico: Ricardo Sabaniego Martín  NºCol: 28 28 57554.
+Motivo de ingreso: Paciente mujer de 26 años que acudió a nuestro servicio por edema bilateral de párpados superiores, de 2 años de evolución.
+Exploración física: En la exploración oftalmológica se observaban, en la parte nasal de ambos párpados superiores, lesiones de límites imprecisos (aspecto infiltrante de la epidermis), con tonalidad anaranjada en la zona temporal, de consistencia firme, y que se extendían a lo largo del pliegue palpebral. Eran masas no móviles ni dolorosas, que no superaban el reborde orbitario. El resto de la exploración era normal.
+Resumen de pruebas complementarias: Para intentar realizar diagnóstico diferencial entre entidades como pseudotumor orbitario, enfermedad del colágeno, sarcoidosis, etc., se realizó una exploración sistémica, resultando todos los estudios normales.
+En la Resonancia Nuclear Magnética (RNM) de órbita realizada, dichas masas eran prácticamente simétricas y llegaban a infiltrar el músculo elevador del párpado superior, sin afectación del globo ocular.
+Se instauró tratamiento corticoideo (pensando en un proceso inflamatorio localizado a nivel palpebral), con dosis elevadas de metilprednisolona (1 gr de Urbason®, HOECHST FARMA), que hicieron disminuir el tamaño de las tumoraciones pero con recidiva de las mismas al suspender dicha medicación. Ante esto, y al no haber llegado a un diagnóstico, se realizó una biopsia incisional, obteniendo tres piezas de tejido de coloración rosado-amarillento. El estudio histológico mostró tejido conectivo laxo que en su práctica totalidad se encontraba infiltrado por células histiocitarias características de la xantogranulomatosis, que tendían a formar un patrón granulomatoso. Las tinciones inmunohistoquímicas para células histiocitarias (CD 68) resultaron positivas.
+Evolución y comentarios: Con todo esto se llegó al diagnóstico de xantogranulomatosis palpebral.
+Se realizaron más pruebas para descartar afectación multiorgánica: TC abdomino-torácico, TC craneal y orbitario, Rx torácica, ecografía abdomino-pélvica y Scan óseo con Tc 99m difosfato. Todas fueron normales.
+Es, por tanto, un caso de xantogranulomatosis, o enfermedad de Erdheim-Chester, orbitaria pura sin manifestaciones sistémicas.
+En la actualidad, tras un nuevo ciclo de corticoides (metilprednisolona 80 mg/24 horas, Urbason®) y con una dosis de mantenimiento (metilprednisolona 4 mg/48 horas, Urbason®) de forma continua, el proceso permanece relativamente estable.
+Remitido por: Ricardo Sabaniego Martín. Hospital Beata María Ana Calle del Dr. Esquerdo, 83, 28007 Madrid Email: Risimartin7@hotmail.com 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="15" text="Alicia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="28" end="40" text="Perez Rivera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="47" end="53" text="235657" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="60" end="74" text="22 67134651 89" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="87" end="117" text="Avenida de la albufera 19, 3 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="141" end="147" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="153" end="158" text="28008" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="202" end="212" text="13/01/1992" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="220" end="226" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="234" end="241" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="248" end="249" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="269" end="279" text="10/10/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="289" end="313" text="Ricardo Sabaniego Martín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="322" end="333" text="28 28 57554" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="363" end="368" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="372" end="379" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2799" end="2823" text="Ricardo Sabaniego Martín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2825" end="2849" text="Hospital Beata María Ana" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2850" end="2876" text="Calle del Dr. Esquerdo, 83" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2878" end="2883" text="28007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2884" end="2890" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2898" end="2921" text="Risimartin7@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

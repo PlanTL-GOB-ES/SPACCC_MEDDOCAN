@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Joan.
+Apellidos: Pedrero Loren.
+NHC: 89725.
+NASS: 89 17561457 56.
+Domicilio: Plaça de Llevant, 16, 6D.
+Localidad/ Provincia: Barcelona.
+CP: 08019.
+Datos asistenciales.
+Fecha de nacimiento: 08/05/1949.
+País: España.
+Edad: 69 años Sexo: H.
+Fecha de Ingreso: 17/05/2018.
+Médico: Ignasi Galtés  NºCol: 08 08 94715.
+Informe Clínico: Paciente varón de 69 años, con antecedente de gastrectomía parcial hace 30 años por ulcus gástrico péptico con reconstrucción de tipo Billroth II que ingresa por clínica de ocho días de evolución consistente en dolor abdominal localizado en mesogastrio junto a un leve aumento de las cifras de amilasa y lipasa séricas (amilasa 550 UI/l, lipasa 5976 UI/l). La ecografía abdominal mostró la vesícula biliar distendida junto a una dilatación de las vías biliares intra- y extrahepáticas y una gran formación quística de paredes finas y morfología tubular ocupando desde hipocondrio izquierdo hasta vacío derecho, lo que sugería que se tratase del asa aferente dilatada y replecionada de líquido. La TAC y la RMN confirmaron estos hallazgos. La endoscopia digestiva alta permitió visualizar la existencia de pliegues engrosados en el muñón gástrico que obstruían el asa aferente, lo que sugería infiltración neoplásica que fue confirmada tras el estudio histológico de las biopsias endoscópicas. El paciente fue intervenido quirúrgicamente, con gastrectomía total y anastomosis esófago-yeyunal.
+Remitido por: Dr. Ignasi Galtés. Instituto de Medicina Legal de Cataluña. Ciudad de la Justicia. Barcelona (España). Tel.: + 34 93 693 29 05. Fax: + 34 93 567 22 28. Email: ignasigaltes@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="13" text="Joan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="26" end="39" text="Pedrero Loren" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="46" end="51" text="89725" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="59" end="73" text="89 17561457 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="86" end="110" text="Plaça de Llevant, 16, 6D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="134" end="143" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="149" end="154" text="08019" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="198" end="208" text="08/05/1949" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="216" end="222" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="230" end="237" text="69 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="244" end="245" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="265" end="275" text="17/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="285" end="298" text="Ignasi Galtés" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="307" end="318" text="08 08 94715" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="346" end="351" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="355" end="362" text="69 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="1447" end="1460" text="Ignasi Galtés" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1462" end="1501" text="Instituto de Medicina Legal de Cataluña" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T6" start="1503" end="1524" text="Ciudad de la Justicia" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="1526" end="1535" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1537" end="1543" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="1554" end="1569" text="34 93 693 29 05" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T2" start="1578" end="1593" text="34 93 567 22 28" TYPE="NUMERO_FAX" comment=""/>
+    <CONTACT id="T1" start="1602" end="1624" text="ignasigaltes@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

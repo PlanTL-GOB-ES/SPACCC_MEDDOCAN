@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Juan José.
+Apellidos: Sanchez Fernandez.
+NHC: 24564.
+NASS: 87 98236589 04.
+Domicilio: Calle Gamazo, 16.
+Localidad/ Provincia: Valladolid.
+CP: 47004.
+Datos asistenciales.
+Fecha de nacimiento: 17/05/1985.
+País: España.
+Edad: 33 años Sexo: H.
+Fecha de Ingreso: 21/05/2018.
+Servicio: Urgencias.
+Episodio: 48654543.
+Médico: Carlos Ruiz-Zorrilla López  NºCol:47 28 65123.
+Historia Actual: Varón de 33 años sin antecedentes de interés y sin historia familiar conocida de trombosis que acude a urgencias por un cuadro de dolor abdominal difuso intermitente de varios días de evolución con sensación nauseosa y algún vómito alimenticio-bilioso.
+Exploración física: En la exploración física destacó un dolorimiento difuso a la palpación abdominal sin signos de irritación peritoneal. 
+Resumen de pruebas complementarias: Los datos analíticos más relevantes fueron: glucosa 84 mg/dl, urea 30 mg/dl, creatinina 0,9 mg/dl, amilasa 29 U/l, láctico-dehidrogenasa 241 U/l, aspartato-aminotransferasa 26 U/l, bilirrubina total 0,9 mg/dl, proteína C reactiva 4,1 mg/dl, hemoglobina 14,4 mg/dl, plaquetas 301.000 mm3, leucocitos 6.700 mm3, actividad de protrombina 85%, fibrinógeno 518 mg/dl y dímero-D 5.871 ng/ml. Una ecografía abdominal demostró una vena porta de calibre aumentado (1,6 cm de diámetro), con ausencia de flujo en su interior en el estudio doppler. Una tomografía computerizada abdominal demostró una trombosis de la vena porta y de la vena mesentérica superior, sin otras alteraciones. El paciente recibió tratamiento con enoxaparina (1 mg/kg cada 12 horas) durante 10 días, con una evolución favorable, continuando posteriormente tratamiento con acenocumarol. El estudio de trombofilia identificó una heterocigosis para la mutación G20210A del gen de la protrombina, siendo normales o negativos el factor V de Leiden, la resistencia a la proteína C activada, el anticoagulante lúpico, los anticuerpos anticardiolipina IgG e IgM, las proteínas C y S, la antitrombina y la homocisteína plasmática. 
+Evolución y comentarios: Una angiorresonancia realizada 10 meses después demostró la existencia de una esplenomegalia de 15 cm y una vena porta de calibre aumentado pero permeable con transformación cavernomatosa (con pequeños vasos colaterales periportales). Una endoscopia digestiva oral realizada 14 meses después del cuadro inicial fue normal. Tras 15 meses de seguimiento en tratamiento con acenocumarol, el paciente permanece asintomático.
+Remitido por: Dr. Carlos Ruiz-Zorrilla López, Servicio de Nefrología, Hospital Universitario Río Hortega, Valladolid, España E-mail: carlosruizzorrilla@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="18" text="Juan José" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="31" end="48" text="Sanchez Fernandez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="55" end="60" text="24564" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="68" end="82" text="87 98236589 04" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="95" end="111" text="Calle Gamazo, 16" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="135" end="145" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="151" end="156" text="47004" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="200" end="210" text="17/05/1985" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="218" end="224" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="232" end="239" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="246" end="247" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="267" end="277" text="21/05/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T8" start="310" end="318" text="48654543" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T7" start="328" end="354" text="Carlos Ruiz-Zorrilla López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="362" end="373" text="47 28 65123" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="392" end="397" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="401" end="408" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2471" end="2497" text="Carlos Ruiz-Zorrilla López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2523" end="2557" text="Hospital Universitario Río Hortega" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="2559" end="2569" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2571" end="2577" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2586" end="2616" text="carlosruizzorrilla@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

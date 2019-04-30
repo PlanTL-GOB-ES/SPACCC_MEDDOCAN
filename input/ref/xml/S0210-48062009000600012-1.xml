@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Jaimen.
+Apellidos: Zárate Marín.
+NHC: 756394.
+NASS: 75 70346534 07.
+Domicilio: Calle de José Ortega y Gasset, 24, 3, Izq.
+Localidad/ Provincia: Pamplona.
+CP: 31080.
+Datos asistenciales.
+Fecha de nacimiento: 19/09/1955.
+País de nacimiento: España.
+Edad: 56 años Sexo: H.
+Fecha de Ingreso: 21/12/2011.
+Servicio: Urología.
+Episodio: 7843567.
+Médico: Jorge Rioja Zuazu  NºCol: 31 31 58794.
+Motivo de ingreso: Sintomatología prostática.
+Antecedentes: como antecedentes personales de interés había presentado una tuberculosis pulmonar resuelta; una angina de pecho intervenida con cuatro by-pass aorto-coronario en 1997, y en tratamiento antiagregante, con buen control en la actualidad; una hemorragia digestiva secundaria a un ulcus duodenal por H. Pylori, tratada con triple terapia, en remisión con controles de test del aliento negativos, y en tratamiento con inhibidores de la bomba de protones (Omeprazol); antecedentes de fiebre tifoidea, síndrome prostático en tratamiento con a-bloqueantes, con un episodio de prostatitis aguda, que precisó ingreso en 2002; síndrome de apnea obstructiva de sueño, en tratamiento con CPAP; colelitiasis; y amigdalectomía en la infancia. Recientemente, y a consecuencia de una ecografía abdominal, se diagnostico una adenopatía celíaca, pendiente de filiación. Como antecedentes familiares, su padre había fallecido por cáncer de colón.
+Historia Actual: Se trata de un paciente de 56 años, que acudió a consulta para revisión, presentando una sintomatología prostática con severa afectación de su calidad de vida (IPSS:22; L:4), un PSA de 1,6 ng/ml, una próstata firboelástica, no dolorosa, sin induraciones palpables, por lo que se recomendó la realización de una resección transuretral (RTU.) de próstata. El paciente la demoró porque se realizó una colecistectomía laparoscópica y una biopsia ganglionar para filiar la adenopatía celíaca, con diagnóstico de Hiperplasia Linfoide reactiva.
+Posteriormente se realizo una R.T.U. de próstata que transcurrió sin incidencias. El estudio histológico demostró áreas de tejido prostático normal, con glándulas dilatadas y estroma normal, músculo y tejido, así como alteraciones de la coagulación por RTU. Otras áreas con mayor densidad de glandular y menor densidad estromal, diagnósticas de Hipertrofia Nodular de Próstata. Se vieron otras áreas en las que se visualizaban glándulas prostáticas, ausencia de estroma normal, proliferación celular muy densa en el estroma, que con mayor aumento permitía la visualización de células redondas y pequeñas. Lo que nos planteó un diagnóstico diferencial entre linfoma, ca. de células pequeñas anaplásico, y un tumor neuroectodérmico primitivo. Por lo que se realizaron técnicas de inmunohisoquímica. Resultaron positivos los marcadores CD 20+;CD 10+, BCL2+, BCL6+, típicos de linfocitos B, origen folicular y linfomas no Hodgkin, se realizó un estudio molecular mediante PCR, en la que se observo traslocación 14-18 típica de linfomas B, y otra traslocación característica de los linfomas foliculares.
+Evolución: Con el diagnóstico anatomopatológico de Linfoma difuso de células pequeñas- medias tipo b (CD 20+;CD 10+, BCL2+, BCL6+) e hiperplasia de benigna de próstata. Se completo el estudio mediante biopsia de médula ósea, sin evidenciarse infiltración tumoral. TAC tóraco-abdominal y PET. En la TAC se apreció una adenopatía laterocervical, una masa paravertebral, adenopatía paratraqueal inferior derecha, signos colecistectomía, en la PET existía una captación de la adenopatías mediastínicas (paratraqueales derechas), ganglios inguinales y submandibulares izquierdos, captación a nivel presacro, subpleural (D8) y axilar. Se realizó un cariotipo con resultado de 46XY.
+Con el diagnóstico de Linfoma No Hodgkin folicular Estadio IIIEA de próstata IPI:1 FLIPI:1; se propuso tratamiento con poliquimioterápia de primera linea con FMD 6 ciclos/ 4 semanas (Fludarabin, Mitoxantrone, Dexametasona) asociado con anticuerpos monoclonales anti-CD20 (rituximab), como tratamiento profiláctico del Neumocisti carinii secundario al Fludarabin, siguió tratamiento con Seprin (Trimetropin sulfametoxazol). Por seis ciclos.
+Posteriormente acudió a revisiones sin evidenciar recidiva, presentando buena respuesta al tratamiento. Se ha realizado estudios de imagen de control, mediante TAC y PET, observando la desaparición de las adenopatías. Tras un control de 24 meses el paciente continuo asintomático sin evidencia de recidiva.
+Responsable clínico: Dr. Jorge Rioja Zuazu. Departamento de Urología. Clínica Universitaria de Navarra Av. Pío XII, 36 - 31080 Pamplona Tel.: 948 255 400 E-mail: jriojazu@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="28" end="34" text="Jaimen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="47" end="59" text="Zárate Marín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="66" end="72" text="756394" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T4" start="80" end="94" text="75 70346534 07" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T23" start="107" end="148" text="Calle de José Ortega y Gasset, 24, 3, Izq" TYPE="CALLE" comment=""/>
+    <LOCATION id="T22" start="172" end="180" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="186" end="191" text="31080" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T20" start="235" end="245" text="19/09/1955" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T5" start="267" end="273" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T19" start="281" end="288" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T18" start="295" end="296" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="316" end="326" text="21/12/2011" TYPE="FECHAS" comment=""/>
+    <ID id="T16" start="358" end="365" text="7843567" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T15" start="375" end="392" text="Jorge Rioja Zuazu" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T14" start="401" end="412" text="31 31 58794" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <DATE id="T3" start="637" end="641" text="1997" TYPE="FECHAS" comment=""/>
+    <DATE id="T2" start="1084" end="1088" text="2002" TYPE="FECHAS" comment=""/>
+    <OTHER id="T1" start="1358" end="1363" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="1445" end="1452" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T12" start="4503" end="4520" text="Jorge Rioja Zuazu" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T11" start="4548" end="4580" text="Clínica Universitaria de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T10" start="4581" end="4596" text="Av. Pío XII, 36" TYPE="CALLE" comment=""/>
+    <LOCATION id="T9" start="4599" end="4604" text="31080" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T8" start="4605" end="4613" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T7" start="4620" end="4631" text="948 255 400" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T6" start="4640" end="4658" text="jriojazu@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

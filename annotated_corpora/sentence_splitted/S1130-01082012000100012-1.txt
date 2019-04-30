@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: Sergio.
+Apellidos: Morales Crespo.
+NHC: 7802369.
+NASS: 74 32567045 13.
+Domicilio: Paseo de los Heroes y Martires, 23, 4C.
+Localidad/ Provincia: Zaragoza.
+CP: 41011.
+Datos asistenciales.
+Fecha de nacimiento: 13/05/1952.
+País de nacimiento: España.
+Edad: 47 años  Sexo: M.
+Fecha de Ingreso: 15/06/2018.
+Servicio: Oftalmologia.
+Médico: Elena Martín Pérez  NºCol: 08 08 57989.
+Se trata de una paciente de 94 años de edad, con antecedentes de insuficiencia cardiaca clase funcional III, fibrilación auricular y litiasis vesicular conocida que requirió una esfinterotomía mediante endoscopia por coledocolitiasis a los 88 años. Se desestimó la colecistectomía por la comorbilidad de la paciente. La paciente acudió a nuestro centro por un cuadro de dolor abdominal de un mes de evolución, que se había intensificado en los últimos 7 días. Refería la aparición de una masa en cuadrante superior derecho de crecimiento progresivo desde hacía 48 horas. Negó la aparición de fiebre.
+Una punción de la masa, de 7 x 11,5 cm objetivó la salida de material purulento. En la analítica, presentaba únicamente leucocitosis (17,6.103/μl) con neutrofilia del 88,9%. La radiografía de tórax fue normal.
+Se realizó una tomografía computerizada (TC) que mostró litiasis en la vesícula, la cual contactaba directamente con la pared abdominal adyacente, donde se observaba una colección de unos 10 x 6 x 8,6 cm con aire y calcificaciones en su interior de las mismas características a las del interior de la vesícula correspondiendo a un Empiema necessitatis por colecistitis.
+Dada la comorbilidad de la paciente, se decidió realizar únicamente desbridamiento y colocación de un drenaje en la zona del empiema bajo sedación. La paciente presentó una evolución clínica correcta. Fue dada de alta al noveno día postoperatorio.
+Dirección para correspondencia: Correo electrónico: anagg_82@hotmail.com (A. González-Gómez)

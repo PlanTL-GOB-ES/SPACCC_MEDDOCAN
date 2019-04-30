@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Luis Manuel.
+Apellidos: Suarez Cuenca.
+NHC: 2568575.
+NASS: 84 39275893 88.
+Domicilio: Calle Ancha, 25.
+Localidad/ Provincia: Cádiz.
+CP: 11510.
+Datos asistenciales.
+Fecha de nacimiento: 24/08/1953.
+País: España.
+Edad: 64 años Sexo: H.
+Fecha de Ingreso: 13/10/2017.
+Servicio: Anestesiología y Reanimación.
+Médico: Pablo Mesa Suárez  NºCol: 85412.
+Informe clínico del paciente: Varón de 64 años de edad, diabético e hipertenso. Presenta enfermedad renal crónica severa (estadio 5 con FG 11 ml/min/1,73 m2). Programado para artroplastia total de cadera derecha por coxartrosis severa. Se somete a hemodiálisis el día previo a la intervención, siendo su peso "seco" de 69 kg. A las 9:20 a.m. realizamos anestesia raquídea con aguja tipo sprotte (Pajunk®) de 25 G con 2,5ml de bupivacaína 0,5 % (12,5 mg) obteniendo un bloqueo completo sin incidencias. A las 10:00 a.m. se coloca un parche de fentanilo 25 µg/h (transdermal therapeutic system -TTS). La intervención transcurre sin incidencias. A su llegada a la unidad de recuperación postanestésica (URP) (12:30 a.m.) se comienza una perfusión de 6 gramos de metamizol en 24 horas (en 500 ml de suero fisiológico a ritmo de 21 ml/hora). Se incluye al paciente en la unidad de dolor agudo postoperatorio (UDA) manteniendo el parche de fentanilo 48 horas y rescatando el dolor con fentanilo oral transmucosa de 200 µg (máximo cada 4 horas con un tope de 4 dosis al día). A las 16:00 se da de alta a planta con una puntuación de 2 en la escala visual analógica (EVA). A las 22:00, debido a un pico de dolor, se le administra una dosis de fentanilo oral transmucosa; cede a los 15 minutos. A las 12 horas tras la retirada del parche (60 horas tras la intervención) aparece otro pico de dolor, precisando un segundo fentanilo oral. El EVA los días 2o y 3o fue de 0. Fue este tercer día, coincidiendo con el paso de la cama al sillón, cuando el paciente refirió náuseas que cedieron con ondansetrón 4 mg i.v. Durante su estancia a cargo de la UDA no presentó vómitos ni prurito ni estreñimiento; la calidad del sueño y el descanso nocturno fueron buenos.
+Remitido por: Pablo Mesa Suárez. Servicio de Anestesiología, Reanimación y Tratamiento del Dolor Hospital Universitario Puerto Real Complejo Hospitalario de la Bahía Carretera Nacional IV, km. 665 11510 Puerto Real, Cádiz e-mail: Mesa.pms@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="20" text="Luis Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="33" end="46" text="Suarez Cuenca" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="53" end="60" text="2568575" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="68" end="82" text="84 39275893 88" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="95" end="110" text="Calle Ancha, 25" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="134" end="139" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="145" end="150" text="11510" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="194" end="204" text="24/08/1953" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="212" end="218" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="226" end="233" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="240" end="241" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="261" end="271" text="13/10/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="321" end="338" text="Pablo Mesa Suárez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="347" end="352" text="85412" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="384" end="389" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="393" end="400" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="2117" end="2134" text="Pablo Mesa Suárez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2200" end="2234" text="Hospital Universitario Puerto Real" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="2235" end="2268" text="Complejo Hospitalario de la Bahía" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2269" end="2299" text="Carretera Nacional IV, km. 665" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2300" end="2305" text="11510" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2306" end="2317" text="Puerto Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2319" end="2324" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2333" end="2351" text="Mesa.pms@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Manuel.
+Apellidos: Fernandez Rodriguez.
+NHC: 7863450.
+NASS: 78 37346496 54.
+Domicilio: Avda. de la Albufera, 66, Bajo A.
+Localidad/ Provincia: Madrid.
+CP: 28031.
+Datos asistenciales.
+Fecha de nacimiento: 16/018/1961.
+País de nacimiento: España.
+Edad: 56 años Sexo: H.
+Fecha de Ingreso: 27/11/2017.
+Servicio: Nefrología.
+Médico: Eduardo Hernández NºCol: 28 28 32016.
+Informe clínico del paciente: Varón de 56 años, con antecedentes personales de hepatitis alcohólica, que en 1995 ingresó para estudio de síndrome nefrótico, microhematuria e insuficiencia renal (creatinina 1,5 mg/dl). En la exploración física destacaba la presencia de edemas, hepatomegalia y lesiones purpúricas en los miembros inferiores. En el estudio realizado se observó serología positiva para VHC, resto de las serologías negativas y crioglobulinas positivas. Se realizó una biopsia renal que mostró un parénquima renal con siete glomérulos con una afectación difusa, aumento de la celularidad y matriz mesangial de aspecto lobulillar, membranas basales con imágenes de doble contorno, engrosamientos irregulares de las paredes capilares y fibrosis intersticial. La inmunofluorescencia directa evidenció depósitos glomerulares parietales granulares de C3 y la microscopía electrónica mostró depósitos subendoteliales, endotelios tumefactos y ampliación mesangial. El paciente fue diagnosticado de GNMP asociada al VHC con crioglobulinas positivas.
+Se remitió al paciente a la Consulta de Aparato Digestivo para valorar de forma conjunta el tratamiento del VHC. Se realizó una biopsia hepática que evidenció una cirrosis hepática (P-3, L-2, F-3). Con estos resultados, se instauró tratamiento con interferón alfa, inicialmente sin lograr respuesta viral sostenida, y posteriormente en su forma pegilada durante 48 semanas logrando negativización de la carga viral. Cuatro meses tras la finalización del tratamiento, presentó un episodio de pericarditis aguda con presencia de VHC en el líquido pericárdico coincidiendo con un nuevo incremento de carga viral. El paciente había tenido mala tolerancia clínica a ambos tratamientos previos y se decidió no iniciar nuevas terapias. Como otras complicaciones presentó artritis inflamatoria de grandes articulaciones.
+Desde el punto de vista renal se instauró tratamiento antiproteinúrico con bloqueo del sistema renina-angiotensina-aldosterona, a pesar de lo cual el paciente desarrolló insuficiencia renal progresiva y finalmente inició hemodiálisis en 2007. En noviembre de 2009 recibió su primer trasplante renal de donante fallecido por una hemorragia cerebral espontánea. El donante tenía un tipaje HLA: DR1, DRX, B14, B35, A11, A30 y antecedente de enolismo, con creatinina en el momento de la extracción de 1 mg/dl y proteinuria negativa. Se realizó inmunosupresión con corticoides, ácido micofenólico y tacrolimus. La evolución renal fue excelente y presentó función renal inmediata. Trece meses después del trasplante, el paciente desarrolló proteinuria no nefrótica y microhematuria con cilindros hemáticos, pero manteniendo función renal normal. Se realizó estudio de autoinmunidad, anticuerpos donante específicos, así como antigenemia para citomegalovirus y PCR (reacción en cadena de enzima polimerasa) sérica para el virus BK, que fueron negativas, y el eco-Doppler renal fue normal. Ante la sospecha de recidiva de su enfermedad de base, se decidió realizar biopsia renal. En la microscopía óptica se observó un parénquima renal con diez glomérulos con marcada ampliación mesangial, leve fibrosis y atrofia tubular. La inmunofluorescencia observó depósitos mesangiales granulares de IgA y C3, y la microscopía electrónica mostró ampliación mesangial de células y matriz con abundantes depósitos electrodensos homogéneos. Las técnicas de inmunohistoquímica para C4d resultaron negativas. Se diagnosticó de GN mesangial IgA de novo en el injerto, incrementándose la dosis de corticoides y de ácido micofenólico sin mejoría clínico-bioquímica. Tras el inicio de tratamiento antiproteinúrico, con bloqueo del sistema renina-angiotensina-aldosterona mediante un antagonista del receptor de angiotesina II (ARA II) y la asociación posterior de espironolactona, se consiguió la negativización de la proteinuria, aunque con un discreto deterioro de la función renal, actualmente estabilizada.
+Responsable clínico: Dr. Eduardo Hernández, Servicio de Nefrología, Hospital 12 de Octubre, Avda. de Andalucía, s/n, 28041, Madrid mmgmolina@hotmail.com ehm3871@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="28" end="34" text="Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="47" end="66" text="Fernandez Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="73" end="80" text="7863450" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="88" end="102" text="78 37346496 54" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="115" end="147" text="Avda. de la Albufera, 66, Bajo A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="171" end="177" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="183" end="188" text="28031" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="232" end="243" text="16/018/1961" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="265" end="271" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="279" end="286" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="293" end="294" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="314" end="324" text="27/11/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="356" end="373" text="Eduardo Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="381" end="392" text="28 28 32016" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="424" end="429" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="433" end="440" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="502" end="506" text="1995" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="2499" end="2503" text="2007" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="2508" end="2525" text="noviembre de 2009" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="4371" end="4388" text="Eduardo Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="4414" end="4436" text="Hospital 12 de Octubre" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="4438" end="4461" text="Avda. de Andalucía, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="4463" end="4468" text="28041" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="4470" end="4476" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="4477" end="4498" text="mmgmolina@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T1" start="4499" end="4515" text="ehm3871@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

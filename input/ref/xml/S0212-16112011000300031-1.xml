@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Patricia.
+Apellidos: Llorente Bernal.
+NHC: 5244552.
+NASS: 32 78647580 16.
+Domicilio: C/ Sabariego, 16.
+Localidad/ Provincia: Ourense.
+CP: 32005 .
+Datos asistenciales.
+Fecha de nacimiento: 29/10/1983.
+País de nacimiento: España.
+Edad: 31 años Sexo: M.
+Fecha de Ingreso:02/02/2015.
+Médico: Maria José López Otero  NºCol: 32 32 79140.
+Informe clínico del paciente: Mujer de 31 años que ingresa en 2008 en el Servicio de Medicina Interna de nuestro hospital por pérdida de peso no cuantificada y vómitos de duración incierta. La paciente no refería ninguna otra sintomatología por aparatos. Durante el ingreso se realizó estudio bioquímico completo, hemograma y función tiroidea que fueron normales. Se descartó patología infecciosa, con realización de diversas serologías, determinación de parásitos en heces, etc., resultando todos los estudios negativos. También se descartó la presencia de patología digestiva, y de forma específica cuadros malabsortivos (endoscopia digestiva alta (EDA), anticuerpos antigliadina y antiendomisio, biopsia duodenal: normales). En el estudio gastroesofagoduodenal se objetiva una dilatación de la segunda porción duodenal en relación con comprensión extrínseca, sugestiva de pinza aorto-mesentérica; diagnóstico confirmado con la realización de un angioTAC de la arteria mesentérica. La paciente también fue valorada por Psiquiatría, descartándose la presencia de trastorno del comportamiento alimentario.
+Con el diagnóstico de síndrome de Wilkie es remitida a consulta de Nutrición en Noviembre de 2009. Refería un peso habitual de 56 kg. En ese momento pesaba 43,9 kg y su índice de masa corporal (IMC) era de 16,7 kg/m2. Inicialmente se intentó manejo nutricional con modificaciones dietéticas, medidas posturales y prescripción de suplementos, sin obtener mejoría; aunque en ningún momento de la evolución la paciente presentó estómago de retención ni alteraciones hidroelectrolíticas. En enero de 2010, con 42,6 kg, se le plantea la colocación de sonda de alimentación de forma provisional para intentar recuperación nutricional mediante la administración de nutrición enteral (NE). La tolerancia digestiva fue buena y no presentó síndrome de realimentación, aumentando su peso hasta los 50 kg (IMC: 19). En ese momento se intentó reintroducir alimentos naturales, reapareciendo los vómitos, por lo que se realiza nuevo estudio esofagogastroduodenal, con hallazgos similares al del diagnóstico. Ante esta situación, de acuerdo con la paciente, se consulta con el Servicio de Cirugía General y se plantea tratamiento quirúrgico. Se realiza una duodenoyeyunostomía. La tolerancia oral tras la cirugía fue inicialmente problemática en relación con hipotonía gástrica, siendo necesario el tratamiento con procinéticos. A los dos meses de la intervención la paciente estaba totalmente asintomática, con un peso de 50 kg, la tolerancia oral era buena y el estudio baritado mostraba un estómago con morfología y vaciamiento normales y buen paso de contraste por la duodenoyeyunostomía. A día de hoy la paciente ha vuelto a perder peso (45 kg). Niega la existencia de síntomas digestivos, y afirma verse delgada y desear recuperar el peso perdido; pero rechaza la toma de suplementos nutricionales, así como la realización de cualquier estudio médico y la reevaluación por el Servicio de Psiquiatría.
+Responsable clínico:
+Dirección para correspondencia: Maria José López Otero. Complexo Hospitalario de Ourense. Ramón Puga, 52. 32005 Ourense. España. E-mail: checheotero@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="28" end="36" text="Patricia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="49" end="64" text="Llorente Bernal" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="71" end="78" text="5244552" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="86" end="100" text="32 78647580 16" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="113" end="129" text="C/ Sabariego, 16" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="153" end="160" text="Ourense" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="166" end="171" text="32005" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="216" end="226" text="29/10/1983" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="248" end="254" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="262" end="269" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="276" end="277" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="296" end="306" text="02/02/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="316" end="338" text="Maria José López Otero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="347" end="358" text="32 32 79140" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="390" end="395" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="399" end="406" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="422" end="426" text="2008" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="1546" end="1563" text="Noviembre de 2009" TYPE="FECHAS" comment=""/>
+    <DATE id="T1" start="1953" end="1966" text="enero de 2010" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="3411" end="3433" text="Maria José López Otero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3435" end="3467" text="Complexo Hospitalario de Ourense" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="3469" end="3483" text="Ramón Puga, 52" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3485" end="3490" text="32005" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3491" end="3498" text="Ourense" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3500" end="3506" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="3516" end="3537" text="checheotero@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

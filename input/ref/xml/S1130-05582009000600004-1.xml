@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Yasna.
+Apellidos: Moreno Araya.
+NHC: 7345645/87.
+Domicilio: Av. la VIña. 326 #543.
+Localidad/ Provincia: Santiago.
+Datos asistenciales.
+Fecha de nacimiento: 26/01/2000.
+País de nacimiento: Chie.
+Edad: 15 años Sexo: F.
+Fecha de Ingreso: 20/11/2015.
+Médico: Rodrigo Cruz Castillo.
+Informe clínico del paciente: Se presenta en el Servicio de Cirugía Máxilofacial del Complejo Hospitalario San Borja Arriarán un paciente de sexo femenino de 15 años de edad consultando por asimetría facial derecha, indolora, que ha evolucionado en el tiempo en forma progresiva sin ninguna otra sintomatología.
+En la entrevista, la paciente no refiere antecedentes mórbidos ni quirúrgicos. Tampoco refiere el uso de algún fármaco en forma usual ni alergias. Ningún tipo de parafunción es pesquisada.
+Al examen extraoral se observa un aumento de volumen en la región del ángulo mandibular derecho de límites poco definidos. A la palpación es de consistencia firme, indoloro y no presenta signos inflamatorios ni compromiso ganglionar submandibular o cervical. En el examen de ATM no se detectan signos ni síntomas patológicos.
+Al examen intraoral no se observa nada relevante en relación a los tejidos blandos, dentarios y oclusión. La secreción salival se presentaba normal, especialmente en relación a los conductos de Stenon.
+Se solicitó una radiografía panorámica, observándose un ángulo mandibular derecho mucho más marcado. En la radiografía lateral de cráneo se observó doble contorno mandibular y en la teleradiografía frontal se observó que el sector mandibular derecho presenta un mayor desarrollo, no repercutiendo en el plano oclusal. Además, se realizó una escintigrafía ósea para descartar una hiperplasia condilar y una electromiografía.
+El diagnóstico fue de hipertrofia maseterina unilateral derecha por lo que se decide la resección del ángulo mandibular derecho por vía extraoral.
+Bajo anestesia general, se realiza un acceso subángulo-mandibular derecho hasta exponer el ángulo ipsilateral. Se realiza la resección de dicho ángulo y de una porción del músculo masetero. Se realizó una biopsia del músculo extraído, cuyo informe no reveló ninguna condición patológica de los tejidos.
+El paciente se controló inmediatamente después de la intervención no presentando complicaciones. En el control realizado luego de 6 años, la paciente se encuentra en buenas condiciones no presentando recidivas.
+Responsable clínico:
+Dirección para correspondencia: Dr. Nicolás Yanine Montaner Departamento de Cirugía y Traumatología Máxilofacial Facultad de Odontología, Universidad de Chile. Olivos 973, Independencia, Santiago, Chile. E-mail: nyanine@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="33" text="Yasna" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="46" end="58" text="Moreno Araya" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="65" end="75" text="7345645/87" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="88" end="109" text="Av. la VIña. 326 #543" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="133" end="141" text="Santiago" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="185" end="195" text="26/01/2000" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="217" end="221" text="Chie" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="229" end="236" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="243" end="244" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="264" end="274" text="20/11/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="284" end="305" text="Rodrigo Cruz Castillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="392" end="432" text="Complejo Hospitalario San Borja Arriarán" TYPE="HOSPITAL" comment=""/>
+    <OTHER id="T11" start="453" end="461" text="femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="465" end="472" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="2478" end="2501" text="Nicolás Yanine Montaner" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2555" end="2578" text="Facultad de Odontología" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T6" start="2580" end="2600" text="Universidad de Chile" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T2" start="2602" end="2612" text="Olivos 973" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="2614" end="2627" text="Independencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2629" end="2637" text="Santiago" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2639" end="2644" text="Chile" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="2654" end="2671" text="nyanine@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

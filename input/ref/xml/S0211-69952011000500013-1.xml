@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Raquel.
+Apellidos: Pantoja Losada.
+NHC: 126348975.
+NASS: 77 21412043 36.
+Domicilio: C/ Periodista Jose Antonio Garnendia nº 3.
+Localidad/ Provincia: Sevilla.
+CP:41020.
+Datos asistenciales.
+Fecha de nacimiento: 08/06/1968.
+País: España.
+Edad:48 años  Sexo: M.
+Fecha de Ingreso: 07/09/2016.
+Servicio: Nefrología.
+Médico: Manuel Salgueira  NºCol: 41 41 31846.
+Historia Actual: Presentamos el caso de una mujer de 48 años de edad con insuficiencia renal crónica secundaria a nefropatía túbulo-intersticial. La paciente había recibido tratamiento de sustitución con HD de larga duración y había sido sometida a dos trasplantes renales con trasplantectomías: el primero fue debido a un rechazo humoral agudo y el segundo debido a un rechazo humoral y vascular agudo. Retomó el tratamiento de hemodiálisis en marzo de 2005.
+Los valores séricos de la hormona paratiroidea intacta (iPTH) fueron altos de forma intermitente. Previamente, la paciente había sido tratada con calcitriol durante períodos cortos de tiempo, ya que la administración provocó hipercalcemia e hiperfosfatemia.
+En enero de 2006, presentó HPTS grave (con niveles más elevados de iPTH que los presentados en los meses anteriores). La ecografía paratiroidea reveló una imagen seudonodular hiperecogénica en la zona posteromedial del lóbulo tiroideo izquierdo, que era compatible con una hipertrofia de la glándula paratiroidea. Una serie radiológica mostró signos de hiperparatiroidismo en los huesos de ambas manos y muñecas y CV en las arterias radiales e interdigitales. En la mamografía se observaron múltiples CV lineales en ambas mamas.
+La paciente fue tratada únicamente con carbonato cálcico. Posteriormente, se añadieron a la pauta calcitriol oral y sevelamer (800 mg con las comidas principales), un agente quelante del fosfato (P), y se redujo la dosis de carbonato cálcico. La figura 5 muestra los niveles de Ca, P y iPTH sérica. La hiperfosforemia se logró controlar tras dos meses de tratamiento, y el nivel del producto Ca-P fue adecuado, pero los niveles de iPTH aumentaron hasta los 734 pg/ml, por lo que se cambió el tratamiento. Se sustituyó el calcitriol oral por 30 mg de cinacalcet oral una vez al día y alfacalcidol intravenoso (2 µg) inmediatamente después de la hemodiálisis. Las dosis de carbonato cálcico y sevelamer no se modificaron.
+Dos meses después, la dosis del calcimimético se redujo debido a los niveles de hipocalcemia (7,6 mg/dl). Se mantuvo el tratamiento con vitamina D intravenosa y carbonato cálcico, y se cambió el calcio del dializado de 2,5 a 3 mEq/l.
+Durante los seis meses siguientes, los niveles de todos los parámetros se mantuvieron dentro del intervalo recomendado por las directrices KDOQI. En noviembre de 2006 se observaron una supresión excesiva de la iPTH (138 pg/ml) y una hipercalcemia potencial (9,4 mg/dl), por lo que se suspendió el tratamiento con carbonato cálcico y alfacalcidol. En enero de 2007 se continuó con el tratamiento con sevelamer (800 mg con las comidas principales) y una dosis semanal mínima de calcimimético (30 mg de cinacalcet los lunes y los viernes), lo que dio como resultado un buen control del metabolismo mineral.
+Durante este período, se pudo observar que en la serie radiológica las calcificaciones de la arteria interdigital habían desaparecido y que el hueso presentaba un aspecto más estructurado. También la mamografía mostró una regresión de las CV. Las calcificaciones lineales iniciales fueron sustituidas por calcificaciones irregulares.
+Remitido por: Manuel Salgueira, Servicio de Nefrología, Área Hospitalaria Virgen Macarena, Avda. Dr. Fedriani, 3, 41071, Sevilla E-mail: msalgueira@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="9" end="15" text="Raquel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="28" end="42" text="Pantoja Losada" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="49" end="58" text="126348975" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="66" end="80" text="77 21412043 36" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="93" end="134" text="C/ Periodista Jose Antonio Garnendia nº 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="158" end="165" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="170" end="175" text="41020" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="219" end="229" text="08/06/1968" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="237" end="243" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="250" end="257" text="48 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="265" end="266" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="286" end="296" text="07/09/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="328" end="344" text="Manuel Salgueira" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="353" end="364" text="41 41 31846" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="410" end="415" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="419" end="426" text="48 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="811" end="824" text="marzo de 2005" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="1087" end="1100" text="enero de 2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="2716" end="2733" text="noviembre de 2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="2917" end="2930" text="enero de 2007" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="3519" end="3535" text="Manuel Salgueira" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3579" end="3594" text="Virgen Macarena" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3596" end="3617" text="Avda. Dr. Fedriani, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3619" end="3624" text="41071" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3626" end="3633" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3642" end="3661" text="msalgueira@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

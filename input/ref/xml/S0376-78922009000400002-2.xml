@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Roberto.
+Apellidos: Maeso Quezada.
+NHC: 5875874.
+NASS: 68 93835967 54.
+Domicilio: Calle de Averroes, 40.
+Localidad/ Provincia: Madrid.
+CP: 28007.
+Datos asistenciales.
+Fecha de nacimiento: 07/04/1952.
+País de nacimiento: España.
+Edad: 65 años Sexo: H.
+Fecha de Ingreso: 23/06/2017.
+Servicio: Cirugía Plástica y Reparadora.
+Episodio: 7892563.
+Médico: José María Lasso NºCol: 28 28 54710.
+Informe clínico del paciente: Varón de 65 años con mediastinitis producida por Stafilococcus aureus. Tras cirugía de reconstrucción aórtica con prótesis de Dacron®, presentó exposición de la misma a los 12 días de la intervención, con alto riesgo de diseminación de la infección local y posibilidad de rotura por desecación. Desde que se decidió la apertura de la herida quirúrgica, se hacían lavados con suero fisiológico cada 8 horas y curas con Sulfadiacina argéntica. El paciente precisó intubación continuada desde el día de la intervención, manteniendo estabilidad hemodinámica gracias al uso de drogas vasoactivas.
+Se decidió realizar restitución de la pared torácica con colgajos de músculo pectoral. Tras legrado de esternón en la línea media, se elaboró una ventana en el extremo superior del mismo, (margen izquierdo), a la altura de las costillas 3a y 4a, para envolver con el músculo pectoral izquierdo la prótesis aórtica. El músculo pectoral derecho se avanzó sobre el esternón una vez realizadas nuevas osteosíntesis con alambres y posteriormente cierre directo de los colgajos cutáneos. El paciente permaneció en la UCI durante 2 días con tratamiento antibiótico, y luego fue dado de alta a planta sin incidencias. Dos años después permanece asintomático.
+Responsable clínico: Dr. José María Lasso. Jefe de Sección de Microcirugía. Cirugía Plástica y Reparadora. Hospital Gregorio Marañón. Área 3400. Dr Esquerdo 46, 28007 Madrid. España.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="35" text="Roberto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="48" end="61" text="Maeso Quezada" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="68" end="75" text="5875874" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="83" end="97" text="68 93835967 54" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="110" end="131" text="Calle de Averroes, 40" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="155" end="161" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="167" end="172" text="28007" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="216" end="226" text="07/04/1952" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="248" end="254" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="262" end="269" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="276" end="277" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="297" end="307" text="23/06/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T11" start="360" end="367" text="7892563" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="377" end="393" text="José María Lasso" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="401" end="412" text="28 28 54710" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="444" end="449" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="453" end="460" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1712" end="1728" text="José María Lasso" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1794" end="1819" text="Hospital Gregorio Marañón" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1832" end="1846" text="Dr Esquerdo 46" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1848" end="1853" text="28007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1854" end="1860" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="1862" end="1868" text="España" TYPE="PAIS" comment=""/>
+  </TAGS>
+</MEDDOCAN>

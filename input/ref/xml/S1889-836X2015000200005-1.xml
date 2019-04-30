@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Natalia.
+Apellidos: Gonzalez Garrido .
+NHC:  87083603.
+NASS: 54 70862039 05.
+Domicilio: Calle de Miguel Servet, 33, 4B.
+Localidad/ Provincia: Zaragoza.
+CP: 50002.
+Datos asistenciales.
+Fecha de nacimiento: 29/05/1963.
+País: España.
+Edad: 47 años Sexo: H.
+Fecha de Ingreso: 03/06/2010.
+Servicio: Reumatología.
+Episodio: 25963778.
+Médico: Pilar del Río Martínez  NºCol: 50 28 94763.
+Informe clínico del paciente:.
+Paciente de 47 años en seguimiento por espondiloartritis psoriásica y fibromialgia, en tratamiento con leflunomida, celecoxib y gabapentina, sin antecedentes de interés y que mantiene ciclos menstruales regulares. No refería hábitos tóxicos y su índice de masa corporal (IMC) era normal. En una revision rutinaria, refirió dolor en pies y tobillos, sin antecedente de traumatismo, de ritmo mecánico, que fue aumentando progresivamente hasta producirle claudicación a la marcha, con modificación de la estática de pies por el dolor. A la exploración, destacaba inflamación de tobillos y pies, con dolor a la presión y fóvea bilateral. Se practicó una ecografía en consulta, que puso de manifiesto una inflamación muy marcada de tejido celular subcutáneo (TCS) sin signos de sinovitis ni señal Doppler. Se solicitó una Rx de pies, que no mostró hallazgos patológicos. Debido al importante edema de TCS, la paciente fue derivada a Angiología para valoración. Desde este Servicio, se solicitó una linfografía que confirmó una insuficiencia linfática bilateral severa. Al persistir la clínica de dolor intenso con claudicación, se indicó la realización de RMN de pies, que mostró en el pie derecho callo de fractura en 3er y 4o MTT y edema en 2o MTT ; y en el pie izquierdo una línea de fractura en 1er MTT, y edema en 3er y 4o MTT y en tejido circundante. Dados los hallazgos de la RMN, la paciente fue valorada por el Servicio de Traumatología, indicando tratamiento conservador con descarga y rehabilitación (magnetoterapia). Por el hallazgo de múltiples fracturas por estrés, se procedió a estudio en nuestras consultas, realizándose análisis con función renal, calcio sérico y urinario, calcio iónico, magnesio y PTH, que fueron normales. Se constató únicamente una vitamina D de 19,5 ng/ml, por lo que se indicó tratamiento con suplementos.
+Valorando el caso de esta paciente en conjunto, nos planteamos, como factor predisponente para la aparición de fracturas de estrés, la importante alteración de la estática de pies antiálgica que había desarrollado debido al dolor que le producía la severa insuficiencia linfática que padecía.
+Remitido por: Pilar del Río Martínez. Servicio de Reumatología Hospital Clínico Universitario "Lozano Blesa" Avda. San Juan Bosco, 15 50009 Zaragoza (España) Correo electrónico: psdelrio@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="35" text="Natalia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="48" end="64" text="Gonzalez Garrido" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="73" end="81" text="87083603" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="89" end="103" text="54 70862039 05" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="116" end="146" text="Calle de Miguel Servet, 33, 4B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="170" end="178" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="184" end="189" text="50002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="233" end="243" text="29/05/1963" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="251" end="257" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="265" end="272" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="279" end="280" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="300" end="310" text="03/06/2010" TYPE="FECHAS" comment=""/>
+    <ID id="T8" start="346" end="354" text="25963778" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="364" end="386" text="Pilar del Río Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="395" end="406" text="50 28 94763" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T12" start="451" end="458" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="2588" end="2610" text="Pilar del Río Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2637" end="2682" text="Hospital Clínico Universitario &quot;Lozano Blesa&quot;" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2683" end="2707" text="Avda. San Juan Bosco, 15" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2708" end="2713" text="50009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2714" end="2722" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2724" end="2730" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2752" end="2769" text="psdelrio@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

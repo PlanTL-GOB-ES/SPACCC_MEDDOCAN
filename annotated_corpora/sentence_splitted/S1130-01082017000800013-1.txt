@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Elena.
+Apellidos: Romero Velasco.
+NHC: 3406565.
+NASS: 24 46564730 12.
+Domicilio: Avenida Castilla y leon 25, 3D.
+Localidad/ Provincia: Valencia.
+CP: 28002.
+Datos asistenciales.
+Fecha de nacimiento: 12/09/1968.
+País de nacimiento: España.
+Edad: 43 años  Sexo: M.
+Fecha de Ingreso: 27/11/2017.
+Médico: Inmaculada Bravo Fernández  NºCol: 31 08 51204.
+Presentamos el caso clínico de un varón de 70 años, sin antecedentes de interés, que acude al servicio de Urgencias por un cuadro de cinco semanas de evolución de diarrea acuosa con moco, con más de seis deposiciones diarias. A su llegada, el paciente presenta signos de deshidratación y severas alteraciones hidroelectrolíticas, aunque se mantenía hemodinámicamente estable y sin alteraciones en el nivel de conciencia. Al ingreso destacan los siguientes parámetros analíticos: urea 228 mg/dl, creatinina 1,8 mg/dl, sodio 120 mEq/l, potasio 2,5 mEq/l y cloro 83 mEq/l.
+Tras la reposición de volumen y electrolitos, se realiza una colonoscopia en la que se visualiza un pólipo rectal que ocupa más del 50% de la circunferencia del recto y que se extiende desde la línea pectínea en sentido proximal al menos 10 cm. Las biopsias son compatibles con adenoma velloso.
+Dado que el tumor no es abordable endoscópicamente, el paciente es sometido a una amputación abdominoperineal con colostomía terminal.
+Dirección para correspondencia: J. Enrique Vázquez López E-mail: jevazquez@orange.es

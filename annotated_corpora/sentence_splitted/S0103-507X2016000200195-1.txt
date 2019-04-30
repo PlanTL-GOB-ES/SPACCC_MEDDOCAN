@@ -1,0 +1,19 @@
+﻿Nombre: Laura.
+Apellidos: Salamanca Barrios.
+Domicilio: Calle Via Limite, 45, Bajo C.
+Localidad/ Provincia: Vigo.
+CP: 28047.
+NHC: 7834568.
+Datos asistenciales.
+Fecha de nacimiento: 29/09/1969.
+País: España.
+Edad: 47 años  Sexo: H.
+Fecha de Ingreso: 23/08/2011.
+Especialidad: andrología.
+Médico: Francisco Marcos Sánchez  NºCol: 14 20 81536.
+Sexo masculino, 65 años, portador de enfermedad renal crónica en plan de hemodiálisis por fístula arteriovenosa nativa en brazo izquierdo. Durante el procedimiento dialítico, comienza con malestar general e hipotensión. Consulta en puerta de emergencia donde se encontraba lúcido, febril, polipneico, taquicardia sinusal, presión arterial de 60/40mmHg, frialdad periférica, relleno capilar lento. Fístula arteriovenosa sin frémito ni latido. Examen cardiovascular, respiratorio y abdominal normal.
+En emergencia se inician medidas de reanimación hemodinámica, se extraen dos hemocultivos y se solicita el ingreso a la unidad de terapia intensiva (UTI).
+En la UTI evoluciona con shock séptico, se comienza tratamiento empírico con vancomicina y meropenem con diagnóstico de sepsis grave sin foco clínico evidente. Los exámenes paraclínicos evidenciaron la presencia de acidosis metabólica severa con lactato arterial de 7meq/L, anemia con hemoglobina de 8,1g/dL y leucocitosis de 19000/mL.
+Se solicitó ecocardiograma transesofágico que descartó la presencia de endocarditis y el ecodoppler del brazo izquierdo evidenció la trombosis de la fístula arteriovenosa.
+Al 3º día de evolución, se recibe informe de los hemocultivos y cultivo del agua de diálisis que desarrollan Ralstonia pickettii. Se suspende el tratamiento con vancomicina y se mantiene meropenem durante 14 días. Buena evolución con alta de la UTI al 6º día.
+Dirección para correspondencia: Laura Crespo Pérez. Departamento de Gastroenterología. Hospital Universitario Ramón y Cajal. Ctra. de Colmenar, km 9,100. 28034 Madrid. Fax: 91 336 87 85. e-mail: lcreper@yahoo.es

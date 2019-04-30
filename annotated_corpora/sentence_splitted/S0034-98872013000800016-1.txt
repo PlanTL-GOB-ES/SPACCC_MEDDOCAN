@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Alba .
+Apellidos: Allende Zamora.
+NHC: 9845632.
+NASS: 43 08625098 57.
+Domicilio: C/ Patricio Rico, 36, 1 B.
+Localidad/ Provincia: Rosario.
+CP: 29010.
+Datos asistenciales.
+Fecha de nacimiento: 08/07/1937.
+País de nacimiento: España.
+Edad: 61 años  Sexo: Femenino.
+Fecha de Ingreso: 14/08/2017.
+Médico: Raúl González García  NºCol: 51 51 68420.
+Primigesta de 21 años, sin antecedentes. Cursando un embarazo de 21 semanas, desarrolló en forma brusca edema generalizado sin hipertensión arterial (HTA). Fue hospitalizada y se comprobó un SN con proteinuria de 14 g/día, sin deterioro funcional renal (creatininemia 0,6 mg/dL). El hemograma, la glicemia y el test de tolerancia a la glucosa oral resultaron normales. Colesterol total 387 mg/dL. El sedimento urinario mostró 15-20 glóbulos rojos por campo. Los anticuerpos antinucleares (ANA), contra el citoplasma de neutrófilos (ANCA), anti ADN, anticardiolipinas, anticoagulante lúpico; complemento C3 y C4, VDRL, serología para VIH, hepatitis B y C resultaron todos negativos. Ecotomografía: riñones de aspecto y tamaño normal. Inició reposo, restricción de sal y furosemida. Mantuvo proteinuria masiva sin fundir edemas. Frente a la gravedad del cuadro (albuminemia 1,2 g/dL; proteinemia 3,2 g/dL), los riesgos potenciales de una terapia esteroidal empírica y los casi cinco meses restantes para el término del embarazo, se decidió practicar, previo consentimiento informado, una biopsia renal.
+Correspondencia a: Dr. Antonio Vukusich Covacic Recoleta 464, Recoleta, Santiago. Teléfono: 27308021; E-mail: avukusic@davila.cl

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre: Ramón .
+Apellidos: García Robles.
+CIPA: nhc-2906854.
+NASS: 28 32128591 09.
+Domicilio: Avenida de concha espina 16, 2,1.
+Localidad/ Provincia: Madrid.
+CP: 28001.
+NHC: 2906854.
+Datos asistenciales .
+Fecha de nacimiento: 15/06/1944.
+País: España.
+Edad: 64  Sexo: H.
+Fecha de Ingreso: 26/09/2008.
+Médico: Jesús Ignacio Tornero Ruiz NºCol: 28 28 34615.
+Antecedentes: El paciente sufre un trastorno mental y es alérgico a penicilina .
+Historia Actual: El paciente se presenta acompañado de su esposa quien está a cargo de él ya que está incapacitado para ABVD. El número de móvil de su esposa es el 633 349 565.
+Acude para un recambio valvular aórtico por endocarditis que consultó por aparición de masa peneana de crecimiento progresivo en las últimas semanas,
+Exploración física: la exploración física destacaba una formación excrecente y abigarrada en glande, que deformaba meato, con áreas ulceradas cubiertas de fibrina. Se palpaban adenopatías fijas y duras en ambas regiones inguinales.
+Resumen de pruebas complementarias: La radiografía de tórax y el TAC abdomino-pélvico confirmaron la presencia de adenopatías pulmonares e inguinales de gran tamaño.
+Evolución y comentarios:  Con el diagnóstico de neoplasia de pene, se practicó penectomía parcial con margen de seguridad. La anatomía patológica demostró que se trataba de un sarcoma pleomórfico de pene con diferenciación osteosarcomatosa y márgenes libres de afectación. Se decidió tratamiento con dos líneas de quimioterapia consistente en adriamicina e ifosfamida pero no hubo respuesta. Ingresó de nuevo con recidiva local sangrante de gran tamaño y crecimiento rápido que provocaba obstrucción de meato con insuficiencia renal aguda. Se colocó sonda de cistostomía y se instauró tratamiento con sueroterapia, mejorando la función renal, pero con empeoramiento progresivo del estado general hasta que falleció a los 6 meses del diagnóstico.
+Diagnóstico Principal: neoplasia de pene
+Remitido por: Dr. Jesús Ignacio Tornero Ruiz Hospital Virgen de la Arrixaca Ctra. Madrid - Cartagena s/n 30120 Mucria. (España) ignaciotorne@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="9" end="14" text="Ramón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="28" end="41" text="García Robles" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="53" end="60" text="2906854" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="68" end="82" text="28 32128591 09" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="95" end="127" text="Avenida de concha espina 16, 2,1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="151" end="157" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="163" end="168" text="28001" TYPE="TERRITORIO" comment=""/>
+    <ID id="T19" start="175" end="182" text="2906854" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="227" end="237" text="15/06/1944" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="245" end="251" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="259" end="261" text="64" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="269" end="270" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="290" end="300" text="26/09/2008" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="310" end="336" text="Jesús Ignacio Tornero Ruiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="344" end="355" text="28 28 34615" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T2" start="496" end="502" text="esposa" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="589" end="595" text="esposa" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <CONTACT id="T11" start="602" end="613" text="633 349 565" TYPE="NUMERO_TELEFONO" comment=""/>
+    <NAME id="T10" start="1968" end="1994" text="Jesús Ignacio Tornero Ruiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T9" start="1995" end="2025" text="Hospital Virgen de la Arrixaca" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T8" start="2026" end="2054" text="Ctra. Madrid - Cartagena s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T7" start="2055" end="2060" text="30120" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="2061" end="2067" text="Mucria" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2070" end="2076" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T4" start="2078" end="2102" text="ignaciotorne@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

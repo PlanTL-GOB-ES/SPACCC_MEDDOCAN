@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[                                         Nombre:  Valezka.
+                                         Apellidos: Martinez Ruenes.
+                                         NHC: 534456563.
+                                         Domicilio: Calle La Guairita 3 .
+                                         Localidad/ Provincia: Caracas.
+                                         CP:1061.
+Datos asistenciales.
+Fecha de nacimiento: 13/04/1993.
+País: Venezuela.
+Edad: 25 años Sexo: Femenino.
+Fecha de Ingreso: 24/04/2018.
+Servicio: Obstetricia.
+Médico: Ricardo Sánchez Salas.
+Motivo de ingreso: Paciente colombiana de 25 años de edad, que ingresó en nuestra Sección de Obstetricia por presentar un cuadro de rotura de membranas en gestación de 24 semanas y 5 días.
+Historia Actual:
+Antecedentes: No refería antecedentes familiares ni personales de interés. Antecedentes ginecológicos: menarquia a los 14 años; F.M.: 3-4/32. 
+Exploración física: En una exploración rutinaria de embarazo realizada a las 20 semanas de gestación fue diagnosticada de condilomatosis vaginal. Exploración al ingreso: paciente apirética. En la inspección de los genitales externos se observaban múltiples condilomas vulvoperineales. 
+Resumen de pruebas complementarias: TV: cérvix formado, posterior y cerrado. Fluían abundantes aguas claras. Ecografía: feto en longitudinal cefálica. Placenta posterior, ILA 8 (índice de líquido amniótico). F.C.F. positiva. Estimación de peso fetal: 641 g.
+Evolución y comentarios: Se inició tratamiento con antibióticos intravenosos y se realizaron una serie de pruebas complementarias (analítica completa con P.C.R., serología; cultivos vaginal y rectal y de líquido amniótico; y test de hibridación para HPV), cuyos resultados se reflejan en la tabla 1, y que permitieron llegar al diagnóstico de corioamnionitis.
+Se desencadenó el parto una semana después y debido a la presencia de corioamnionitis y a la inmadurez fetal se dejó evolucionar. El parto fue espontáneo, naciendo un feto vivo de sexo masculino de 690 g, pH de arteria 7,24 y pH de vena 7,48. Test de Apgar al 1-y a los 5-de 5. Placenta de 167 g, hipermadura con signos de corioamnionitis. 
+Tras el alumbramiento se efectuaron biopsias de vagina y periné, cuyos resultados fueron: condiloma acuminado de vagina y condiloma acuminado de periné que respeta bordes.
+El neonato falleció a los 40 días de vida.
+Remitido por: Dr. Ricardo Sánchez Salas. Universidad Central de Venezuela Hospital Universitario de Caracas E-mail autor: sancher1@mskcc.org
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="50" end="57" text="Valezka" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="111" end="126" text="Martinez Ruenes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="174" end="183" text="534456563" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="237" end="256" text="Calle La Guairita 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="322" end="329" text="Caracas" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="375" end="379" text="1061" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="423" end="433" text="13/04/1993" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="441" end="450" text="Venezuela" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="458" end="465" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="472" end="480" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="500" end="510" text="24/04/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="543" end="564" text="Ricardo Sánchez Salas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="594" end="604" text="colombiana" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="608" end="615" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="891" end="898" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="2004" end="2013" text="masculino" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="2335" end="2342" text="neonato" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="2358" end="2365" text="40 días" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="2393" end="2414" text="Ricardo Sánchez Salas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2416" end="2448" text="Universidad Central de Venezuela" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T4" start="2449" end="2482" text="Hospital Universitario de Caracas" TYPE="HOSPITAL" comment=""/>
+    <CONTACT id="T3" start="2497" end="2515" text="sancher1@mskcc.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

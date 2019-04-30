@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Pedro.
+Apellidos: Orozca Puig.
+CIPA: nhc-7964845451.
+NASS: 32 79432246 11.
+Domicilio: Avenida de la Ilustración, 1. .
+Localidad/ Provincia: Valencia.
+CP: 46100.
+NHC: 7964845451.
+Datos asistenciales.
+Fecha de nacimiento: 28/05/1962.
+País: España.
+Edad:54  Sexo: H.
+Fecha de Ingreso: 13/06/2016.
+Especialidad: urología.
+Médico: Marta García Torrelles  NºCol: 46 46 13795.
+Antecedentes: fumador de 30 cigarrillos día. Consulta por primera vez en Urología en mayo de 2000, por cuadro de infección urinaria baja y cólico nefrítico izquierdo.
+Exploración física: Al tacto rectal se palpa una próstata fija, pétrea, e irregular, en ambos lóbulos. La ecografía no muestra alteraciones de interés, excepto un crecimiento prostático para la edad (próstata de aproximadamente 65 gramos). 
+Resumen de pruebas complementarias: El PSA es de 223. La biopsia de próstata detecta 6 cilindros marcadamente infiltrados por un adenocarcinoma Gleason VII. Se realiza gammagrafía ósea de estadiaje que no muestra datos de patología ósea, iniciándose bloqueo androgénico completo con antiandrógenos y análogos LH-RH (agosto de 2000). Durante el seguimiento las cifras de PSA van ascendiendo de forma progresiva (enero 2001: 0.5, agosto 2001: 0.7, febrero 2002: 6.4, abril 2002: 14), sin que el paciente note empeoramiento de su estado general.
+En febrero y abril de 2002 acude a urgencias por dos episodios de hematuria y retención de orina, siendo preciso sondaje vesical durante un mes. Progresivamente va empeorando su clínica obstructiva en dos meses llegando a orinar casi por goteo en junio de 2002. El estudio flujométrico en mayo de 2002 muestra un flujo máximo de 2 ml/seg, con residuo de 80 ml. Debido a este empeoramiento claramente obstructivo de su enfermedad se le propone resección transuretral de la próstata.
+Evolución y comentarios: En julio de 2002, cuando se introduce el resector para efectuar la resección de la próstata, se observa una uretra peneana repleta de formaciones mamelonadas de 0,5-1 cm, polipoideas, que dificultan la entrada hasta vejiga, debido a que reducen el calibre uretral y sangran al roce. El resto de uretra bulbar y prostática es normal, algo desestructurada ésta última. No se realiza R.T.U. por difícil visión.
+En julio de 2002 tras constatar un PSA de 22, se procede a la retirada de antiandrógenos, manteniendo los análogos e incluyendo al paciente en un ensayo con Atrasentan (M00- 244).
+La persistencia de severa clínica obstructiva justificó una resección de los mamelones uretrales y de la próstata, enviándose ambas muestras por separado al departamento de anatomía patológica para obtener la filiación histológica de los primeros. Se le mantuvo sondaje vesical durante 3 semanas. El diagnóstico histológico del tejido uretral fue: masas formadas exclusivamente por un adenocarcinoma Gleason X. En lo que se refiere al tejido prostático propiamente dicho, el diagnóstico fue el mismo. 
+En el momento actual el paciente se encuentra en un excelente estado general acudiendo a las consultas pertinentes según manda el protocolo del ensayo, sin sintomatología derivada de su enfermedad.
+Remitido por: Doctora Marta García Torrelles. Servicio de Urología. Hospital Dr. Peset Av. Gaspar Aguilar, 90. 46017 Valencia. (España). garcia_martor@g.va.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T33" start="9" end="14" text="Pedro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T32" start="27" end="38" text="Orozca Puig" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T31" start="50" end="60" text="7964845451" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T30" start="68" end="82" text="32 79432246 11" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T29" start="95" end="123" text="Avenida de la Ilustración, 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T28" start="149" end="157" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T27" start="163" end="168" text="46100" TYPE="TERRITORIO" comment=""/>
+    <ID id="T26" start="175" end="185" text="7964845451" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T25" start="229" end="239" text="28/05/1962" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T24" start="247" end="253" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T23" start="260" end="262" text="54" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T22" start="270" end="271" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T21" start="291" end="301" text="13/06/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T20" start="335" end="357" text="Marta García Torrelles" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T19" start="366" end="377" text="46 46 13795" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <DATE id="T18" start="464" end="476" text="mayo de 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T17" start="1103" end="1117" text="agosto de 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T16" start="1198" end="1208" text="enero 2001" TYPE="FECHAS" comment=""/>
+    <DATE id="T15" start="1215" end="1226" text="agosto 2001" TYPE="FECHAS" comment=""/>
+    <DATE id="T14" start="1233" end="1245" text="febrero 2002" TYPE="FECHAS" comment=""/>
+    <DATE id="T13" start="1252" end="1262" text="abril 2002" TYPE="FECHAS" comment=""/>
+    <DATE id="T12" start="1333" end="1356" text="febrero y abril de 2002" TYPE="FECHAS" comment=""/>
+    <DATE id="T11" start="1577" end="1590" text="junio de 2002" TYPE="FECHAS" comment=""/>
+    <DATE id="T10" start="1619" end="1631" text="mayo de 2002" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="1840" end="1853" text="julio de 2002" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="2248" end="2261" text="julio de 2002" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="3147" end="3169" text="Marta García Torrelles" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3193" end="3211" text="Hospital Dr. Peset" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3212" end="3234" text="Av. Gaspar Aguilar, 90" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3236" end="3241" text="46017" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3242" end="3250" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3253" end="3259" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3262" end="3283" text="garcia_martor@g.va.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sheila.
+Apellidos: Berrocal Justo.
+NHC: 7356734.
+NASS: 47 56437553 90.
+Domicilio: C/ Hiedra, 8, 9 A.
+Localidad/ Provincia: Puerto de Santa María (Cádiz).
+CP: 11500.
+Datos asistenciales.
+Fecha de nacimiento: 31/05/1977.
+País de nacimiento: España.
+Edad:34 años Sexo: M.
+Fecha de Ingreso: 27/11/2012.
+Médico: Lucía Gutiérrez Bayard  NºCol: 11 11 20310.
+Informe clínico del paciente: Paciente mujer de 34 años con antecedentes de abuelo materno fallecido de Carcinoma pulmón. Sinusitis siete años antes. Consulta con su ORL por una historia clínica de 14 meses de evolución con rinorrea y epístaxis rápidamente progresiva. Mediante rinoscopia se objetiva una masa en fosa nasal derecha de aspecto polipoideo muy sangrante al contacto, que ocupa toda la fosa nasal derecha, parece conectar con el tabique y cornete medio, extendiéndose hasta la coana, y ocupando la nasofaringe. La biopsia fue positiva para estesioneuroblastoma.
+Se realiza TAC de cabeza y cuello donde se aprecia una masa polipoidea de 4 centímetros (cm) con un gran pedículo en fosa nasal derecha y cavum. La RNM de cabeza y cuello objetiva una lesión ocupante de espacio que oblitera de forma llamativa el cavum y se extiende desde el nivel de las fosas nasales hacia atrás, poniéndose en contacto con la musculatura prevertebral, sin infiltrarla, y bien delimitada.
+Se realiza como estudio de extensión un TAC de tórax y una gammagrafía ósea sin patología. Se clasifica como Estadio C de Kadish.
+Es intervenida mediante cirugía funcional endoscópica siendo la Anatomía Patológica de estesioneuroblastoma. En el TAC postoperatorio destaca a nivel del seno maxilar derecho un engrosamiento polipoideo de la mucosa, sin evidencia de características de malignidad, a nivel de seno frontal derecho.
+Se decide como tratamiento adyuvante con Radioterapia externa, mediante Acelerador Lineal con fotones de 6 y 15 MV, con cuñas de compensación tisular tras simulación virtual y planificación 3D sobre TC helicoidal individualizado. El lecho tumoral recibió una dosis global de 60 Gy en 30 fracciones, con esquema de 2 Gy/fracción, 5 fracciones a la semana. La tolerancia fue buena, presentando toxicidad máxima cutánea G1, mucosa G2 y orofaríngea G2. En la actualidad han transcurrido 6 meses de la irradiación, manteniéndose la respuesta completa.
+Responsable clínico: Dra. Lucía Gutiérrez Bayard. Avenida Menesteo, 45 E-11500 Puerto de Santa María (Cádiz)
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="34" text="Sheila" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="61" text="Berrocal Justo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="68" end="75" text="7356734" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="83" end="97" text="47 56437553 90" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="110" end="127" text="C/ Hiedra, 8, 9 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="151" end="172" text="Puerto de Santa María" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="174" end="179" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="186" end="191" text="11500" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="235" end="245" text="31/05/1977" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="267" end="273" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="280" end="287" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="294" end="295" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="315" end="325" text="27/11/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="335" end="357" text="Lucía Gutiérrez Bayard" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="366" end="377" text="11 11 20310" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="418" end="423" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="427" end="434" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T5" start="455" end="469" text="abuelo materno" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2362" end="2384" text="Lucía Gutiérrez Bayard" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2386" end="2406" text="Avenida Menesteo, 45" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2407" end="2414" text="E-11500" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2415" end="2436" text="Puerto de Santa María" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2438" end="2443" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

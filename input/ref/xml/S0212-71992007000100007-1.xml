@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Asunción.
+Apellidos: Coutiño Macias.
+NHC: 5643065.
+NASS: 54 74251387 44.
+Domicilio: Rúa Travesía de Vigo, 16 4 izq..
+Localidad/ Provincia: Vigo.
+CP: 36206.
+Datos asistenciales.
+Fecha de nacimiento: 17/05/1943.
+País: España.
+Edad: 73 años Sexo: M.
+Fecha de Ingreso: 25/07/2016.
+Servicio: Reumatología.
+Episodio:6763855446.
+Médico: Norberto Gómez Rodríguez  NºCol: 36 28 12345.
+Motivo de ingreso: Distensión y dolor abdominal asociado a estreñimiento y febrícula.
+Historia Actual: Paciente de 73 años que acudió al servicio de urgencias a causa de distensión y dolor abdominal asociado a estreñimiento y febrícula. Los síntomas se habían iniciado tres semanas antes y se agravaron durante los cuatro días previos al ingreso. En este periodo se había realizado una fibroendoscopia digestiva alta (esófago, estómago y duodeno) así como una colonoscopia (hasta ángulo esplénico), sin encontrar anomalías.
+Antecedentes: hipertensión arterial y poliartrosis
+Exploración física: En la exploración física destacaba febrícula (37,6º C), un abdomen distendido, difusamente doloroso a la palpación, timpanizado a la percusión, con escasos borborigmos pero sin datos de peritonismo, una auscultación pulmonar con disminución de la ventilación en la mitad inferior del hemitórax derecho y el desencadenamiento de intenso dolor a la palpación y percusión de las tres últimas apófisis espinosas dorsales.
+Resumen de pruebas complementarias: Los análisis mostraron 8,2 x 109 leucocitos / L, hemoglobina de 136 g / L, plaquetas de 186 x 109 / L. Excepto la glucemia (123 mg / dl), los siguientes parámetros de laboratorio fueron normales o negativos: urea, creatinina, bilirrubina, transaminasas, gammaglutamiltranspeptidasa, sodio, potasio, cloro, calcio, fósforo, creatinfosfoquinasa, amilasa, lácticodehidrogenasa (LDH), proteínograma, dosificación de inmunoglobulinas, alfa-fetoproteína, antígenos CA 19.9 y CA 125, así como el análisis general de orina. La VSG y la proteína C reactiva estaban elevadas, con valores de 85 mm / 1ª h y de 133 mg / L (normal < 5 mg / L), respectivamente. La intradermorreacción de Mantoux (10 UI RT-23) fue positiva, con una induración de 25 mm. La radiografía de tórax mostraba una imagen compatible con atelectasia del lóbulo inferior derecho en el contexto de un derrame pleural ipsilateral. No había signos sugestivos de adenopatías ni alteraciones en la silueta cardiopericárdica. Una TAC toracoabdominal confirmó la existencia de un derrame pleural derecho e identificó prominentes cambios degenerativos a lo largo del raquis dorsolumbar pero, sobre todo, erosiones en los platillos vertebrales adyacentes al espacio discal D10-D11. Una resonancia lumbar mostró hiposeñal en las secuencias ponderadas en T1 e hiperseñal en las ponderadas en T2 en dichas vértebras y su correspondiente disco, con alteraciones morfológicas típicas de espondilodiscitis infecciosa D10-D11. Tres hemocultivos seriados fueron negativos. En las muestras obtenidas por punción aspirativa del espacio D10-D11 se observaron cadenas de cocos grampositivos que posteriormente se recuperaron y tipificaron como Streptococcus pneumoniae sensible a penicilina. El análisis del líquido pleural mostró pH: 7,55; leucocitos: 8,4 x 109 / L (58% neutrófilos, 26% eosinófilos, 16% linfocitos), proteínas: 48 g / L (cociente respecto a las proteínas séricas: 0,65), glucosa: 125 mg / dl, ADA: 25,92 UI/ ml, LDH: 362 U/L (Cociente LDH pleural / LDH sérica: 0,8). Tanto la tinción de auramina-rodamina como el cultivo en medio Löwenstein-Jensen del líquido pleural fueron negativos y la citología no evidenció células neoplásicas.
+Evolución y comentarios: La paciente fue tratada inicialmente por vía intravenosa con la asociación de amoxicilina + clavulánico (1 g / 200 mg, cada 8 horas). Transcurridos 21 días se pasó a la vía oral (875 / 125 mg, cada 8 horas) hasta completar 6 semanas. La evolución fue favorable y pudo iniciar la deambulación con corsé dorsolumbar a partir de la cuarta semana. Un mes después de finalizada la antibioterapia, una TAC torácica de control todavía mostraba un discreto derrame pleural, pero la enferma sólo aquejaba dorsalgias mecánicas de escasa intensidad, la VSG había disminuido a 21 mm / 1ª h y la PCR era de 2,4 mg/L. El seguimiento ambulatorio se prolongó tres años más, durante los que la evolución fue favorable y se formó un bloque vertebral D10-D11.
+Remitido por: Norberto Gómez Rodríguez. Unidad de Reumatología Colón-28-Clínica. Colón, 28, 1º. 36201 Vigo. e-mail: ngomez@povisa.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="9" end="17" text="Asunción" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="30" end="44" text="Coutiño Macias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="51" end="58" text="5643065" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="66" end="80" text="54 74251387 44" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="93" end="123" text="Rúa Travesía de Vigo, 16 4 izq" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="148" end="152" text="Vigo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="158" end="163" text="36206" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="207" end="217" text="17/05/1943" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="225" end="231" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="239" end="246" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="253" end="254" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="274" end="284" text="25/07/2016" TYPE="FECHAS" comment=""/>
+    <ID id="T9" start="319" end="329" text="6763855446" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T8" start="339" end="363" text="Norberto Gómez Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="372" end="383" text="36 28 12345" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T6" start="500" end="507" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="4405" end="4429" text="Norberto Gómez Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T1" start="4472" end="4485" text="Colón, 28, 1º" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="4487" end="4492" text="36201" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="4493" end="4497" text="Vigo" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="4507" end="4523" text="ngomez@povisa.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

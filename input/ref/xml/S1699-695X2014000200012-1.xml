@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Emiliano.
+Apellidos: Bazan Castillo.
+NHC: 702345690.
+NASS: 94 75962398 20.
+Domicilio: Calle Puerto de Jarama, 54, 2 B.
+Localidad/ Provincia: Madrid.
+CP: 28038.
+Datos asistenciales.
+Fecha de nacimiento: 03/05/1947.
+País: España.
+Edad: 68 años Sexo: H.
+Fecha de Ingreso: 25/08/2015.
+Médico: Andres Joel Reynoso Heinsen  NºCol: 28 28 36920.
+Informe clínico del paciente: varón de 68 años, fumador de un paquete al día durante los últimos 40 años, sin alergias medicamentosas conocidas. No es hipertenso, ni diabético, ni tiene dislipemia. Intervenido de cataratas.
+Nuestro paciente empezó a ser estudiado en medicina interna, un año antes, por ciatalgia y edemas en miembros inferiores de un mes de evolución. En la exploración clínica se palparon, casualmente, dos masas duras e indoloras en ambas parótidas, motivo por el que se solicita una ecografía de dichas glándulas y una PAAF de las lesiones detectadas en ellas. Su médico de familia asumió la realización de ambas técnicas (ecografía y PAAF).
+• Informe ecográfico: "A nivel del lóbulo superficial de la glándula parótida derecha se identifican dos lesiones nodulares hipoecogénicas de aspecto sólido, una más lateral de 32 mm y de bordes bien definidos y otra más medial y profunda de unos 38 mm. A nivel del lóbulo superficial de la parótida izquierda se identifica una lesión nodular hipoecogénica y heterogénea (sólida/microquística), de contornos mamelonados y con microcalcificaciones en su interior, vascularizada y de unos 32 mm ".
+• Informe de las PAAFs:
+- PAAF de área parotídea izquierda: citología negativa para células malignas, compatible con tumor de Warthin.
+- PAAF de área parotídea derecha: citología negativa para células malignas, compatible con tumor de Warthin. (Bilateral).
+• Informe de la Resonancia Magnética Nuclear: "Se observan múltiples lesiones nodulares heterogéneas, en ambas glándulas parótidas. Algunas de estas lesiones presenta áreas multiquísticas, con contenido hiperintenso, en relación con contenido proteináceo/hemático y todas ellas presentan un realce intenso. Compatible con tumor de Warthin multicéntrico y bilateral".
+El paciente se encuentra pendiente de ser intervenido por el servicio de cirugía maxilofacial de un tumor de Warthin multifocal y bilateral.
+Remitido por: Dr. Andres Joel Reynoso Heinsen. Correo electrónico: wallyjrh@gmail.com.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="29" end="37" text="Emiliano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="50" end="64" text="Bazan Castillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="71" end="80" text="702345690" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="88" end="102" text="94 75962398 20" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="115" end="146" text="Calle Puerto de Jarama, 54, 2 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="170" end="176" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="182" end="187" text="28038" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="231" end="241" text="03/05/1947" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="263" end="270" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="277" end="278" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="298" end="308" text="25/08/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="318" end="345" text="Andres Joel Reynoso Heinsen" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="354" end="365" text="28 28 36920" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="397" end="402" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="406" end="413" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="2308" end="2335" text="Andres Joel Reynoso Heinsen" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2357" end="2375" text="wallyjrh@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

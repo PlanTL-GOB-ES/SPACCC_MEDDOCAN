@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Juan Pablo.
+Apellidos: Jaramillo Pascal.
+NHC: 78623791/784.
+Domicilio: Carrera 43A calle 9.
+Localidad/ Provincia: Medellin, Antioquia.
+CP: 06411.
+Datos asistenciales.
+Fecha de nacimiento: 21/02/1976.
+País: Colombia.
+Edad: 42 años Sexo: H.
+Fecha de Ingreso: 05/05/2018.
+Médico: María Isabel Castañeda Olano.
+Informe clínico del paciente: Paciente de 42 años remitido al Instituto Colombiano del Dolor (INCODOL) con 11 meses de dolor neuropático calificado en la escala visual análoga (EVA) 10/10 y alodinia en la ingle izquierda, posterior a una herniorrafia inguinal ipsilateral, irradiación al testículo y muslo, manejado con acetaminofén. Se inicia tratamiento farmacológico escalonado y multimodal con antiepilépticos, opioides, parches de lidocaína, antidepresivos tricíclicos y duales, en dosis y esquemas adecuados, sin mejoría de al menos un 50 % a los dos meses de seguimiento, decidiéndose realizar un bloqueo guiado por ecografía de los nervios ilioinguinal, iliohipogástrico y genitofemoral izquierdos con anestésico local asociado a esteroide. Cuatro meses después califica el dolor 8/10, con agudización al movimiento, hipersensibilidad en región inguinoescrotal izquierda, reflejo cremastérico positivo, percusión sobre espina iliaca anterosuperior negativa, practicándose un nuevo bloqueo, con el cual el paciente refiere una mejoría mayor al 50 %. Ante esta evolución se decide realizar una radiofrecuencia pulsada con cánula con punta activa de 10 mm en los nervio ilioinguinal, iliohipogástrico y genitofemoral izquierdos, previa prueba sensitiva a 0,2 mV positiva, con los siguientes parámetros: 2 Hz, fase activa de 20 milisegundos, control de temperatura < 42oC, durante 10 minutos, aplicándose además anestésico local y esteroide en cada nervio. A la semana califica el dolor 2/10; al mes es calificado con 1/10, sin efectos adversos, reintegrándose a su actividad laboral y familiar. 
+Mejoría sostenida en los controles a los 6 y 9 meses (EVA 2-3/10).
+Remitido por: María Isabel Castañeda Olano. Anestesiología, Dolor y Cuidados Paliativos Instituto Colombiano del Dolor Medellín, Colombia e-mail: maisacast@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="9" end="19" text="Juan Pablo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="32" end="48" text="Jaramillo Pascal" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="55" end="67" text="78623791/784" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="80" end="99" text="Carrera 43A calle 9" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="123" end="131" text="Medellin" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="133" end="142" text="Antioquia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="148" end="153" text="06411" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="197" end="207" text="21/02/1976" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="215" end="223" text="Colombia" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="231" end="238" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="245" end="246" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="266" end="276" text="05/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="286" end="314" text="María Isabel Castañeda Olano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T10" start="358" end="365" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T6" start="378" end="408" text="Instituto Colombiano del Dolor" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="410" end="417" text="INCODOL" TYPE="INSTITUCION" comment=""/>
+    <NAME id="T7" start="1998" end="2026" text="María Isabel Castañeda Olano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2072" end="2102" text="Instituto Colombiano del Dolor" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T3" start="2103" end="2111" text="Medellín" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2113" end="2121" text="Colombia" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2130" end="2149" text="maisacast@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

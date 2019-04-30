@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Ernesto David.
+Apellidos: Bazán Pérez.
+NHC: 045645634/38.
+NSS: 92-91-90-8443-1.
+Domicilio: Paseo de la Reforma 476, Juárez.
+Localidad/ Provincia: Ciudad de México CDMX.
+CP: 06600.
+Datos asistenciales.
+Fecha de nacimiento: 19/10/1961.
+País: México.
+Edad: 53 años Sexo: H.
+Fecha de Ingreso: 02/11/2014.
+Servicio: Urgencias .
+Episodio: 10541765 .
+Médico: Rodrigo Menéndez Arzac.
+Informe clínico.
+Historia Actual: Varón de 53 años de edad, ciclista veterano de carretera, sin antecedentes médico-quirúrgicos de interés, hábitos tóxicos ni reacción alérgica conocida a medicamentos, que consultó en nuestro servicio de urgencias por fractura de tercio medio de clavícula derecha y fractura de arcos costales derechos producidos en accidente con caída en calzada
+Exploración física: Al ingreso presentó buen estado general, estando hemodinámicamente estable, sin disnea, aquejando dolor a nivel de clavícula y pared costal derechas sin síntomas ni signos de afectación neurovascular del miembro superior derecho.
+Pruebas complementarias y evolución: En el estudio radiológico simple se constató la existencia de fractura de arcos costales derechos cuarto y quinto sin evidencia de hemotórax ni neumotórax, y fractura de tercio medio de la clavícula derecha con tercer fragmento, confirmada en la tomografía axial computarizada (a, 1b).
+Se trató inicialmente con analgesia, antiinflamatorios no esteroideos y colocación de vendaje en ocho, consultando el paciente tres días después en el mismo servicio por edematización del miembro superior derecho sin pérdida de sensibilidad y con pulsos periféricos conservados, normalidad de constantes y auscultación cardiorrespiratoria con ruidos cardíacos normales a frecuencia normal sin soplos ni extratonos, y murmullo vesicular conservado en ambos campos pulmonares, sin estertores ni otros hallazgos patológicos.
+La espirometría, el electrocardiograma y el ecocardiograma fueron normales; la analítica sanguínea mostró valores anormales de CHCM=31.4g/dl, neutrófilos=76.6%, linfocitos=16.4%, eosinófilos=0.9%, fibrinógeno=645mg/dl, GGT=52U/l y D-Dímero positivo. El estudio de eco-Doppler venoso reveló una trombosis venosa de las venas axilar, cefálica y basílica con compresión de la rama cubital del nervio cutáneo braquial medial a nivel del hiato basílico (a, 2b).
+Se sustituyó el vendaje en ocho por cabestrillo sencillo que se mantuvo hasta el inicio de la rehabilitación funcional, y se realizó tratamiento con Tinzapaina sódica, realizándose radiografías y utrasonografía-Doppler seriadas de control hasta la consolidación de la fractura de clavícula y la recanalización completa de las venas trombosadas.
+Remitido por: Dr. Rodrigo Menéndez Arzac. Hospital Ángeles de las Lomas, Consultorio 510 Vialidad de la barranca 22, Colonia Valle de las palmas Huixquilucan, Estado de México. México e-mail: rodrigomenendez@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="41" text="Ernesto David" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="54" end="65" text="Bazán Pérez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="72" end="84" text="045645634/38" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="91" end="106" text="92-91-90-8443-1" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="119" end="150" text="Paseo de la Reforma 476, Juárez" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="174" end="190" text="Ciudad de México" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="191" end="195" text="CDMX" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="201" end="206" text="06600" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="250" end="260" text="19/10/1961" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="268" end="274" text="México" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="282" end="289" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="296" end="297" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="317" end="327" text="02/11/2014" TYPE="FECHAS" comment=""/>
+    <ID id="T8" start="361" end="369" text="10541765" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="380" end="402" text="Rodrigo Menéndez Arzac" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="438" end="443" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="447" end="454" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T7" start="464" end="494" text="ciclista veterano de carretera" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="2700" end="2722" text="Rodrigo Menéndez Arzac" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2724" end="2753" text="Hospital Ángeles de las Lomas" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2771" end="2797" text="Vialidad de la barranca 22" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2799" end="2839" text="Colonia Valle de las palmas Huixquilucan" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2841" end="2857" text="Estado de México" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2859" end="2865" text="México" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2874" end="2901" text="rodrigomenendez@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Verónica.
+Apellidos: Ramos Barcenas.
+NHC: 4922947.
+Domicilio: Calle de Bravo Murillo 16, 1 B.
+Localidad/ Provincia: Madrid.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 19/12/2010.
+País: España.
+Edad: 7 años Sexo: M.
+Fecha de Ingreso: 25/05/2018.
+Servicio: Odontología.
+Médico: Mario Álvarez Maestro NºCol: 28 28 54711.
+Informe clínico del paciente: Paciente de siete años de edad, en etapa de dentición mixta primera fase, con hábito de succión digital. Presentaba las siguientes alteraciones: mordida abierta anterior, protrusión dentoalveolar superior, aumento del resalte, mordida cruzada bilateral posterior, compresión maxilar y rotación del plano oclusal. El patrón de crecimiento tenía tendencia vertical. En la valoración miofuncional se observó incompetencia labial.
+Dado el carácter desfavorable del caso, se optó por un tratamiento combinado que incluía dispositivos ortodóncicos (quad-helix con reja lingual cementado en los primeros molares superiores, para producir la expansión del maxilar superior, arco lingual cementado en el maxilar inferior para impedir la pérdida del espacio de deriva y evitar la extrusión de los molares inferiores y aparatología extraoral (AEO) de tiro alto para favorecer la intrusión de los molares y permitir de este modo a la mandíbula rotar hacia delante y hacia arriba cerrando la mordida abierta), junto con ejercicios de mioterapia, para aumentar la tonicidad labial. La duración del tratamiento fue de un año y medio.
+Remitido por: Dr. Mario Álvarez Maestro. Av. Valderrey, 35 7o dcha. 28039 Madrid. (España). malvarezmaestro@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="8" end="16" text="Verónica" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="29" end="43" text="Ramos Barcenas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="50" end="57" text="4922947" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T17" start="70" end="100" text="Calle de Bravo Murillo 16, 1 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="124" end="130" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="136" end="141" text="28036" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="185" end="195" text="19/12/2010" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="203" end="209" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="217" end="223" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="230" end="231" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="251" end="261" text="25/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="294" end="315" text="Mario Álvarez Maestro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="323" end="334" text="28 28 54711" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T10" start="378" end="388" text="siete años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1503" end="1524" text="Mario Álvarez Maestro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1526" end="1551" text="Av. Valderrey, 35 7o dcha" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1553" end="1558" text="28039" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1559" end="1565" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1568" end="1574" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1577" end="1604" text="malvarezmaestro@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

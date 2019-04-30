@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sebastian.
+Apellidos: Perez Blanco.
+NHC: 7824395.
+Domicilio: Calle Asturias, 34.
+Localidad/ Provincia: Collado Villalba, Madrid.
+CP: 28400.
+Datos asistenciales.
+Fecha de nacimiento:29/12/2017.
+País: España.
+Edad: 3 meses Sexo: H.
+Fecha de Ingreso: 02/04/2018.
+Servicio: Urgencias.
+Médico: María Romeo Donlo NºCol: 28 28 60348.
+Informe clínico del paciente: lactante de tres meses de edad con historia de rechazo de tomas, náuseas, regurgitaciones y vómitos de un mes de evolución. Por este motivo fue derivado desde Atención Primaria al Servicio de Urgencias.
+Fue un recién nacido a término de peso adecuado para la edad gestacional, con un embarazo de curso normal en el que no se objetivaron polihidramnios. El periodo neonatal cursó sin incidencias, presentando un desarrollo psicomotor y ponderoestatural adecuado hasta los dos meses de edad, cuando comenzó con la clínica descrita.
+A su llegada a Urgencias, impresionaba de afectación del estado general, con mucosas secas, ojeroso, relleno capilar mayor de 2 segundos y palidez cutánea, con resto de la exploración física normal. Las constantes vitales fueron: temperatura, 36,6 °C; frecuencia cardiaca, 137 lpm; presión arterial; 88/55 mmHg (p75); saturación de O2, 100%; frecuencia respiratoria, 52 rpm; glucemia, 90 mg/dl. Peso de 5,995 kg (P10), talla de 60,5 cm (P10). Se expandió con suero fisiológico y se realizó analítica sanguínea, con hemograma que fue normal y bioquímica en la que destacaba: Na 151 mEq/l; K 2,2 mEq/L; Cl 130 mEq/l y en la gasometría venosa: pH 7,29, pCO2 27 mmHg, bicarbonato 13 mmol/l y calcio iónico 1,74 mg/dl. Hallazgos compatibles con una acidosis metabólica con anion gap normal. Se realizó tira reactiva en orina de una micción con pH 7, densidad 1015 y resto negativo.
+El paciente precisó sueroterapia intravenosa con aportes máximos de potasio (80 mEq/l) y bicarbonato (3 mEq/kg/día), y fue dado de alta en una semana, manteniendo tratamiento oral con bicarbonato sódico y citrato potásico. En la ecografía renal se objetivó hiperecogenicidad papilar bilateral, compatible con inicio de nefrocalcinosis. Se realizó valoración oftalmológica, serie ósea y potenciales auditivos, que fueron normales.
+Durante el seguimiento hasta los nueve meses de edad el paciente se encuentra asintomático, con mejoría de su desarrollo ponderoestatural (p25 de peso y p50 de talla), por lo que se han ido realizando ajustes en las dosis de tratamiento en función del cambio de peso. La analítica a los seis meses del alta se recoge en la Tabla 2. En la ecografía de control realizada a los seis meses del alta persisten los hallazgos compatibles con nefrocalcinosis.
+Remitido por: Dra. María Romeo Donlo. Correo electrónico:  maria3334@hotmail.com Hospital General de Villalba Carretera de Alpedrete a Moralzarzal M-608 Km 41, 28400 Collado Villalba, Madrid
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="37" text="Sebastian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="50" end="62" text="Perez Blanco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="69" end="76" text="7824395" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T22" start="89" end="107" text="Calle Asturias, 34" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="131" end="147" text="Collado Villalba" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="149" end="155" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="161" end="166" text="28400" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="209" end="219" text="29/12/2017" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="227" end="233" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="241" end="248" text="3 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="255" end="256" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="276" end="286" text="02/04/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="317" end="334" text="María Romeo Donlo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="342" end="353" text="28 28 60348" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T1" start="385" end="393" text="lactante" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="397" end="407" text="tres meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="856" end="865" text="dos meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="2255" end="2266" text="nueve meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T11" start="2693" end="2710" text="María Romeo Donlo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T7" start="2733" end="2754" text="maria3334@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T6" start="2755" end="2783" text="Hospital General de Villalba" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2784" end="2832" text="Carretera de Alpedrete a Moralzarzal M-608 Km 41" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2834" end="2839" text="28400" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2840" end="2856" text="Collado Villalba" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2858" end="2864" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

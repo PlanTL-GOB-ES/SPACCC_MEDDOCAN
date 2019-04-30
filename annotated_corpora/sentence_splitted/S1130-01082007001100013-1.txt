@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Estela.
+Apellidos: Serrat Justo.
+NHC: 7834651.
+Domicilio: Paseo de la Condesa, 13, 2 A.
+Localidad/ Provincia: Badajoz.
+CP: 18001.
+Datos asistenciales.
+Fecha de nacimiento: 27/03/1994.
+País de nacimiento: España.
+Edad: 11 años  Sexo: H.
+Fecha de Ingreso: 20/03/2014.
+Médico: Raquel Santesteban Muruzábal     
+Mujer de 16 años de edad que ingresó por absceso parailiaco que afectaba a región glútea, fosa iliaca derecha, región inguinal y labios mayores. Con el diagnóstico de absceso en fosa iliaca derecha se realizó drenaje quirúrgico, siendo dada de alta por el Servicio de Cirugía con el diagnóstico de absceso parailiaco. Nueve meses después consulta por fiebre y aumento de la supuración a través de la herida quirúrgica. La ecografía y la TAC abdominal mostraron psoas iliaco e íleon engrosados y colección con nivel hidro-aéreo en fosa iliaca derecha. La ileoscopia demostró EC ileal y en el tránsito del intestino delgado se observó estrechamiento de asas de íleon terminal con fistulización. Se inició tratamiento con esteroides, mesasalazina y nutrición parenteral con desaparición del drenaje purulento en los siguientes dos meses. Tres meses después reingresa por dolor en cadera derecha y reapertura de fístula a la piel. Se instauró tratamiento con infliximab con desaparición del drenaje a través de la fístula.
+
+Dirección para correspondencia Francisco J. Alonso Domínguez Calle 48 Nº 1908 Municipio Playa Z.,P. 11300 Ciudad Habana. (Cuba). falonso@manfa.sld.cu

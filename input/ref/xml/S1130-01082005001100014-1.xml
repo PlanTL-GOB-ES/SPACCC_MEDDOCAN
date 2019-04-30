@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Larraitz.
+Apellidos: Barrios Legorreta.
+NHC: 97256.
+NASS:74 75436537 98.
+Domicilio: Calle Artekale, 15, 3G.
+Localidad/ Provincia: Bilbao.
+CP: 48005.
+Datos asistenciales.
+Fecha de nacimiento: 18/03/1949.
+País: España.
+Edad: 67 años Sexo: M.
+Fecha de Ingreso: 14/11/2016.
+Servicio: Urgencias.
+Episodio:761345.
+Médico: Pedro M. Garamendi NºCol: 48 48 65431.
+Historia Actual: Paciente de 67 años de edad, hipertensa sin antecedentes de ulcus gastroduodenal, ni ingesta de fármacos gastrolesivos, que consultó en área de urgencias por melenas y cansancio progresivo de unas dos semanas de evolución. 
+Resumen de pruebas complementarias: En la analítica destacaba la presencia de unas cifras de Hb de 9,8, con palidez a la exploración física, normotensa y aceptable estado general con tacto rectal negativo.
+Se le practicó una endoscopia alta en donde se evidenció una lesión submucosa en fundus gástrico de gran tamaño excavada en su centro por una ulceración de fondo fibrinoso sin signos de sangrado activo actual ni reciente. Se interpretó como lesión submucosa gástrica ulcerada muy probablemente leiomiomatosa responsable del sangrado digestivo.
+Se le aplicó una ecoendoscopia radial que confirmó la naturaleza submucosa de dicha lesión, dependiente de la cuarta capa de la pared gástrica (muscularis propia), hipoecogénica, homogénea, con bordes delimitados y de 4,6 x 3,4 cm de diámetro máximo. Su borde en la cara de la luz gástrica presentaba una excavación secundaria a una úlcera de unos 2 cm de tamaño. No se observaron adenopatías perilesionales ni en tronco celiaco. Se hizo el diagnóstico ecoendoscópico de tumor gástrico submucoso estromal (tumor GIST) de probable estirpe muscular.
+Evolución y comentarios: Con dicho diagnóstico y debido a los criterios ecoendoscópicos de tamaño (mayor de 4 cm) y complicación hemorrágica se sometió a tratamiento quirúrgico electivo mediante la resección y enucleación de la lesión.
+El estudio histológico de la pieza resecada dio como resultado un schwannoma gástrico.
+Remitido por:  Pedro M. Garamendi. IVML. Vizcaya. Servicio de Clínica Médico Forense. C/ Buenos Aires nº 6. 48001 Bilbao. Correo electrónico: garamendi.pm@aju.ej-gv.es 1Médico forense. Especialista en Medicina Legal y Forense. Servicio de Clínica Médico Forense. IVML. Vizcaya
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="9" end="17" text="Larraitz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="30" end="47" text="Barrios Legorreta" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="54" end="59" text="97256" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="66" end="80" text="74 75436537 98" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="93" end="115" text="Calle Artekale, 15, 3G" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="139" end="145" text="Bilbao" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="151" end="156" text="48005" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="200" end="210" text="18/03/1949" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="218" end="224" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="232" end="239" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="246" end="247" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="267" end="277" text="14/11/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="325" end="343" text="Pedro M. Garamendi" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="351" end="362" text="48 48 65431" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T15" start="393" end="400" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T12" start="2041" end="2059" text="Pedro M. Garamendi" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T10" start="2061" end="2065" text="IVML" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T9" start="2067" end="2074" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T7" start="2088" end="2110" text="Clínica Médico Forense" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T8" start="2112" end="2132" text="C/ Buenos Aires nº 6" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="2134" end="2139" text="48001" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2140" end="2146" text="Bilbao" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T4" start="2168" end="2193" text="garamendi.pm@aju.ej-gv.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T3" start="2265" end="2287" text="Clínica Médico Forense" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T2" start="2289" end="2293" text="IVML" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T1" start="2295" end="2302" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

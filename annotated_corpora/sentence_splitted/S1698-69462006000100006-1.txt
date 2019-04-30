@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Inés .
+Apellidos: Romero Saez.
+NHC: 285674576.
+NASS: 25 67809468 56.
+Domicilio: Calle de Francisco Gervás 17, 6 C.
+Localidad/ Provincia: Madrid.
+CP: 28046.
+Datos asistenciales.
+Fecha de nacimiento: 28/05/1978.
+País: España.
+Edad: 40 años Sexo: M.
+Fecha de Ingreso: 03/06/2018.
+Servicio: Cirugía MaxilofaciaL.
+Episodio: 72561473068.
+Médico: José Luis Cebrián Carretero  NºCol: 28 28 75954.
+Motivo de ingreso: somnolencia y despertares nocturnos.
+Historia Actual: paciente mujer de 40 años que acude a su médico de cabecera aquejada de somnolencia diurna y frecuentes despertares nocturnos de meses de evolución a los que ahora se añadía una importante cefalea tensional en regiones occipital y temporal. La paciente fue remitida al neumólogo con la sospecha de síndrome de apnea del sueño, que se descartó mediante las pruebas pertinentes, incluida la polisomnografía. Dado que el componente doloroso iba en aumento, la paciente fue remitida a nuestra Unidad de Dolor Orofacial.
+Exploración: En la exploración clínica se apreciaba una oclusión en clase 2 de Angle, con ligero desgaste oclusal, así como signos y síntomas de dolor muscular masticatorio debido a síndrome miofascial con puntos gatillo en músculos maseteros y esterno-cleido-mastoideos de ambos lados. La paciente refería además dolor de espalda, digestiones pesadas y meteorismo.
+Se instauró tratamiento con AINES y relajantes musculares, así como férula oclusal plana tipo Michigan.
+Pruebas complementarias: Con la sospecha de reflujo gastroesofágico, la paciente fue remitida al gastroenterólogo, que tras realizar las pruebas pertinentes (Ph-metría y endoscopia) confirmó el diagnóstico.
+La paciente fue tratada con dieta, medidas posturales y con inhibidores de la bomba de protones (Omeprazol).
+Evolución y comentarios: A los 3 meses, la paciente acudió a consulta mostrando una mejoría evidente del dolor facial, si bien refería mal descanso nocturno con frecuentes despertares.
+Al examinar la férula de descarga se apreció una tinción-impregnación de color verde oscuro que recordaba al contenido (jugo) gástrico.
+En la nueva revisión, a los 6 meses, la sintomatología había remitido casi totalmente y la paciente continuó el protocolo de tratamiento de su síndrome miofascial.
+Remitido por: Dr. José Luis Cebrián Carretero. Servicio de Cirugía Maxilofacial. Hospital Universitario La Paz. Paseo de la Castellana 246. 28046 Madrid. Telef: 917277336. E-mail: drlopezarcas@tiscali.es.

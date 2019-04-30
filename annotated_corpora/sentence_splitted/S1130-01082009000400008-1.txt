@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Josefa.
+Apellidos: Yurena Valdez.
+NHC: 2567056.
+NASS: 38 47968356 45.
+Domicilio: Calle Tudela, 17.
+Localidad/ Provincia: Madrid.
+CP: 28028.
+Datos asistenciales.
+Fecha de nacimiento: 19/12/2010.
+País de nacimiento: España.
+Edad: 78  Sexo: H.
+Fecha de Ingreso: 08/09/2018.
+Médico: Ernesto Landa Contreras  NºCol: 20 20 57830.
+Mujer de 53 años de edad con antecedentes de apendicectomía y neurinoma en la región cervical izquierda en 1986. Ingresó por astenia y prurito de reciente comienzo, sin dolor abdominal ni alteraciones en la exploración física. En la analítica destacaba FA 1499 UI/l, GGT 1163 UI/l, bilirrubina total 1,62 mg/dl y CA-19.9 533 UI/ml (normal < 37 UI/ml). Se realizó ecografía-doppler y TAC abdominal que mostraban la existencia de una masa de 6 cm de diámetro, situada en la cabeza del páncreas, con dilatación de la vía biliar intra- y extrahepática. La lesión presentaba zonas quísticas, con septos y mamelones sólidos en su interior, alguno de los cuales captaba contraste intensamente ; sin datos de invasión vascular ni adenopatías. Con la impresión diagnóstica de neoplasia quística del páncreas sin contraindicación quirúrgica y resecable, se realizó duodeno-pancreatectomía cefálica. En la pieza quirúrgica se apreciaba una masa sólida de coloración blanquecina y consistencia elástica, localizada en la cabeza del páncreas, no encapsulada pero de contornos bien delimitados, que se separaba con facilidad del páncreas adyacente. El estudio de inmunohistoquímica mostró positividad para el marcador vimentina, y negatividad para citoqueratinas (AE1-AE3), S-100, cromogranina, CD 34, C-KIT y actina, presentando además un índice de proliferación celular (MIB-I) muy bajo ; siendo los hallazgos del estudio histológico sugestivos de un sarcoma fusocelular de bajo grado de malignidad. Tras dos años de seguimiento la paciente permanece asintomática y sin recidiva de la enfermedad.
+
+Dirección para correspondencia: Eugenio Fernández Medina. fdez_medina@hotmail.com

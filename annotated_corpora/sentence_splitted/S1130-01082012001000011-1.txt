@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Dilcia.
+Apellidos: Rianxo Poriña.
+NHC: 7894132.
+NASS: 34 78034596 54.
+Domicilio: Carrer de Nàpols, 231, 3D .
+Localidad/ Provincia: Barcelona.
+CP: 34005.
+Datos asistenciales.
+Fecha de nacimiento: 21/12/1941.
+País de nacimiento: España.
+Edad: 57 años  Sexo: M.
+Fecha de Ingreso: 10/01/2017.
+Médico: Cristina Isabel Blanco Marchite   NºCol: 41 41 26458.
+Mujer de 47 años sin antecedentes de interés que consulta por rectorragia al finalizar la deposición; la paciente niega otra sintomatología acompañante, no dolor abdominal ni alteraciones del hábito intestinal, no pérdida de peso. La exploración física es normal salvo presencia de hemorroides en la exploración rectal. En la analítica tanto la hematimetría como la bioquímica son estrictamente normales. Se le solicita una colonoscopia en la que se observa pólipo submucoso que se extirpa y hemorroides internas. La histopatología de la lesión extirpada dio como resultado granuloma eosinofílico secundario a parásito Anisakis.
+Dirección para correspondencia: Antonio Rosell Camps. Unidad de Gastroenterología Pediátrica. Servicio de Pediatría. Hospital Universitario Son Espases. Ctra. de Valldemossa 79. 07120 Mallorca. Islas Baleares e-mail: antonio.rosell@ssib.es

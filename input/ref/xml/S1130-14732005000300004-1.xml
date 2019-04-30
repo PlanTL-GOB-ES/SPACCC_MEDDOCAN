@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Belen.
+Apellidos: Rodriguez Cuevas.
+NHC: 4357963.
+NASS: 47 39174934 47.
+Domicilio: Carrer de Santa Eugenia, 46.
+Localidad/ Provincia: Girona.
+CP: 17001.
+Datos asistenciales.
+Fecha de nacimiento: 23/06/1944.
+País: España.
+Edad: 61 años Sexo: M.
+Fecha de Ingreso: 16/10/2005.
+Médico: Carlos Juan Domínguez NºCol: 17 45 84112.
+Historia Actual: Mujer de 61 años de edad que presenta en abril 1999 tumoración subcutánea laterocervical derecha a nivel del ángulo de la mandíbula, que inicialmente se relaciona con un cuadro de otitis aguda ocurrido dos meses antes. Desde la aparición del bultoma, refiere dolor cervical moderado que se acentúa con movimientos de rotación.
+En junio del mismo año refiere disestesias en hombro y extremidad superior derecha asociados a dolor cervical, así como neuralgia de C2 ipsilateral.
+Antecedentes: hipertensión arterial controlada farmacológicamente y dos episodios de sinusitis maxilar derecha tratados médicamente cuatro y dos años previos al problema actual. Sin alergias conocidas y sin intervenciones quirúrgicas previas. 
+Exploración física: se aprecia una tumoración de características gomosas bien definida en el ángulo mandibular derecho adherida a planos profundos y moderadamente dolorosa a la palpación. No existe alteración de vías largas y los pares craneales están conservados bilateralmente.
+Resumen de pruebas complementarias: La analítica completa no revela ninguna anormalidad. 
+Se procede a la práctica de una RMN cervical apreciándose una lesión ocupante de espacio, que ocupa el foramen de conjunción derecho de C2-C3 con ampliación del mismo y erosión de la masa lateral del axis, así como de la articulación interapofisaria posterior derecha. Se observa ocupación del receso anterolateral del canal raquídeo pero sin distorsión del cordón medular. Anteriormente distorsiona, desplaza y colapsa la arteria vertebral derecha y contacta con la bifurcación carotídea y la vena yugular interna sin afectarlas. También distorsiona la musculatura laterocervical, pero sin infiltrarla.
+A continuación se realiza un estudio TAC en el que se aprecia, más claramente, una erosión de la masa lateral de C2. Por último, una angiografía de troncos supraórticos demuestra la oclusión del flujo vertebral derecho.
+En abril 2000 se procede conjuntamente con el servicio de ORL, a practicar una resección subtotal de dicha tumoración por vía cervical lateral, con el fin de obtener diagnóstico histológico y reducir la masa tumoral. E1 procedimiento transcurre sin incidentes, dándose el alta cinco días más tarde. La paciente permanece asintomática.
+Una vez obtenido el diagnóstico de condrosarcoma grado I bien diferenciado, se reingresa a la paciente, un mes más tarde, para intentar completar la resección por vía posterior, así como conferir estabilidad a la columna cervical alta por medio de una fijación instrumentada occipito-cervical. Durante el procedimiento que transcurre satisfactoriamente, se aprecia una tumoración que erosiona, insufla e invade los macizos articulares de C2 y C3 derechas así como sus hemiláminas respectivas. También se observa una invasión del hemicuerpo derecho del axis. La arteria vertebral se encuentra trombosada. Las raíces de C2 y C3 derechas quedan indemnes y el saco dural libre. La instrumentación realizada consistió en el atornillado transpedicular de C2 izquierdo electivamente, según la técnica de Goel4, con extensión craneal anclando tres tornillos en la escama occipital bilateralmente, y con extensión caudal con atornillado en masa lateral de C3 izquierda y masa lateral derecha de C4. Se consigue una exéresis subtotal. El curso postoperatorio es totalmente satisfactorio, mostrando la radiografía de control postoperatoria una correcta fijación. Se procede al alta domiciliaria nueve días más tarde, remitiendo al paciente al servicio de radioterapia donde se le administra un curso de 50 Gy como tratamiento coadyuvante.
+Evolución y comentarios: en abril 2002 se constata la presencia de una adenopatía laterocervical derecha. Un nuevo estudio RMN constata la recidiva tumoral. Se practica exéresis de la adenopatía y tras análisis histológico confirma la presencia de recidiva, procediéndose a braquiterapia con 40 Gy.
+En marzo 2003 se comprueba nuevo aumento tumoral; se decide nueva intervención quirúrgica, después de demostrar la no existencia de enfermedad a distancia. En esta ocasión se practica abordaje transcervical lateral suprahioideo con resección subtotal. También se practica traqueostomía electiva. Ambos procedimientos transcurren sin incidencias.
+Desafortunadamente, tres meses más tarde se vuelve a confirmar nuevo crecimiento tumoral coincidiendo con dolor en hemifacies izquierda irradiado a extremidad superior izquierda decidiéndose tratamiento sintomático. En diciembre 2003 coincidiendo con la presencia de dificultad motora en ambas extremidades superiores se confirma radiológicamente nuevo crecimiento tumoral. En esta ocasión se desestima nueva intervención quirúrgica y se decide la administración de quimioterapia siguiendo un esquema de adriamicina + ifosfamida. Tras la administración de dos ciclos se abandona el tratamiento por pobre respuesta y alta toxicidad.
+Remitido por: Dr. Carlos Juan Domínguez. Servicio de Neurocirugía. Hospital Universitari de Girona. Avd. de Franja s/n. 17007 Girona
+]]></TEXT>
+  <TAGS>
+    <NAME id="T27" start="9" end="14" text="Belen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T26" start="27" end="43" text="Rodriguez Cuevas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="50" end="57" text="4357963" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="65" end="79" text="47 39174934 47" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T23" start="92" end="119" text="Carrer de Santa Eugenia, 46" TYPE="CALLE" comment=""/>
+    <LOCATION id="T22" start="143" end="149" text="Girona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="155" end="160" text="17001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="204" end="214" text="23/06/1944" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T20" start="222" end="228" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="236" end="243" text="61 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="250" end="251" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="271" end="281" text="16/10/2005" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="291" end="312" text="Carlos Juan Domínguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="320" end="331" text="17 45 84112" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T14" start="350" end="355" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T16" start="359" end="366" text="61 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="391" end="401" text="abril 1999" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="680" end="685" text="junio" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="2267" end="2277" text="abril 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="3955" end="3965" text="abril 2002" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="4229" end="4239" text="marzo 2003" TYPE="FECHAS" comment=""/>
+    <DATE id="T5" start="4791" end="4805" text="diciembre 2003" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="5222" end="5243" text="Carlos Juan Domínguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="5271" end="5302" text="Hospital Universitari de Girona" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="5304" end="5322" text="Avd. de Franja s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="5324" end="5329" text="17007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="5330" end="5336" text="Girona" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

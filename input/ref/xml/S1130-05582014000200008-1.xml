@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Pablo.
+Apellidos: Alvarado Gonzalez.
+NHC: 4356897.
+NASS:34 76157438 15.
+Domicilio: Calle Pio Xll, 2, 4 C.
+Localidad/ Provincia: Madrid.
+CP: 28014.
+Datos asistenciales.
+Fecha de nacimiento: 14/09/1929.
+País de nacimiento: España.
+Edad: 86 años Sexo: M.
+Fecha de Ingreso: 19/06/2016.
+Médico: Maria Días Mardones NºCol: 28 28 33620.
+Informe clínico del paciente:Paciente de 86 años de edad consulta al equipo de cirugía maxilofacial del Complejo Hospitalario San José por un aumento de volumen asintomático, de evolución indeterminada en la zona anterior mandibular.
+La paciente presentaba como antecedentes personales hipertensión y diabetes tipo 2 controladas mediante tratamiento médico convencional. No presentaba historia de tabaquismo o consumo de alcohol.
+Al examen físico pudo apreciarse un gran aumento de volumen en la zona anterior mandibular de consistencia firme y doloroso a la palpación. La piel y mucosa que recubría la lesión era de características normales, sin linfoadenopatías asociadas. Tampoco se registró compromiso neurológico motor ni sensitivo asociado.
+Se solicitó una tomografía computarizada (TC), donde en sus imágenes axiales se apreció una lesión hipodensa de aspecto multilocular que se extendía desde la región correspondiente a la zona del canino derecho hasta la región contralateral correspondiente al primer molar izquierdo que generaba abombamiento, adelgazamiento y perforación de tablas óseas. Se programó biopsia incisional e instalación de tubo de drenaje con el fin de descomprimir la lesión.
+El estudio histopatológico de la muestra reveló una cavidad quística revestida por un epitelio poliestratificado paraqueratinizado con un estrato basal de células cilíndricas con núcleo hipercromático dispuesto en empalizada. En función de estos hallazgos se diagnosticó la lesión como tumor odontogénico queratoquístico.
+Con este diagnóstico se decidió continuar con la terapia descompresiva y controlar a la paciente. Tras 2 semanas, la paciente presentó dolor e impotencia funcional que fue en aumento hasta impedir su alimentación tras 2 meses de instalado el drenaje. Con esta evolución se solicitó una nueva TC en la cual pudo confirmarse que la terapia descompresiva no cumplía con su objetivo, ya que se observó un aumento del compromiso de los tejidos producto de la lesión, con relación a las condiciones previas, presentando franca destrucción de tablas óseas tanto vestibular como lingual. Luego de 3 semanas de ejecutado el procedimiento de descompresión, y teniendo en cuenta los nuevos hallazgos clínicos y radiofráficos, se realizó la excéresis de la lesión más curetaje y aplicación de solución de Carnoy durante 30 s en el lecho operatorio. El defecto óseo subyacente fue reconstruido mediante la utilización de una placa de reconstrucción mandibular. La pieza quirúrgica se envió a estudio histopatológico el cual informó la presencia de una membrana quística con tejido epitelial anaplásico, observándose pérdida de la estratificación epitelial, pleomorfismo celular y nuclear, pérdida de la relación núcleo/citoplasma, nucléolos prominentes, entre otros. La proliferación neoplásica presentaba un patrón infiltrativo hacia el tejido conjuntivo subyacente. En otros sectores de la muestra se observaron nidos e islotes de proliferación epitelial en el espesor de la pared quística, que mostraron las mismas características anaplásicas. En función de estos hallazgos histopatológicos se emitió el diagnóstico de carcinoma de células escamosas intraóseo moderadamente diferenciado.
+Ante este diagnóstico se solicitaron exámenes imagenológicos, incluyendo radiografía de tórax, escáner total y escintigrafía ósea con los cuales se descartó metástasis y/o posibles tumores primarios.
+La paciente fue derivada para tratamiento oncológico, falleciendo a causa de neumonía.
+Responsable clínico: Maria Días Mardones drmardones@gmail.com 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="33" text="Pablo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="46" end="63" text="Alvarado Gonzalez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="70" end="77" text="4356897" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="84" end="98" text="34 76157438 15" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="111" end="132" text="Calle Pio Xll, 2, 4 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="156" end="162" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="168" end="173" text="28014" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="217" end="227" text="14/09/1929" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="263" end="270" text="86 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="277" end="278" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="298" end="308" text="19/06/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="318" end="337" text="Maria Días Mardones" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="345" end="356" text="28 28 33620" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T7" start="399" end="406" text="86 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T1" start="462" end="492" text="Complejo Hospitalario San José" TYPE="HOSPITAL" comment=""/>
+    <NAME id="T4" start="3870" end="3889" text="Maria Días Mardones" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T2" start="3890" end="3910" text="drmardones@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

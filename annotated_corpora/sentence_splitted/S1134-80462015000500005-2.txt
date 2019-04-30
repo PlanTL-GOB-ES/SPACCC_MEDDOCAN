@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Asunción.
+Apellidos: Diaz Menendez.
+NHC: 7843955.
+NASS: 38 48457868 06.
+Domicilio: Calle de Zapatería, 53.
+Localidad/ Provincia: Oviedo.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 26/11/1947.
+País de nacimiento: España.
+Edad: 34 años  Sexo: M.
+Fecha de Ingreso: 15/12/2016.
+Médico: Gabriel de Arriba  NºCol: 18 18 72150.
+Hombre de 56 años que, desde hace unos dos años, presenta molestias tipo parestesias (no dolor) en la espalda (región dorsal alta en el lado izquierdo) junto con mayor sensibilidad por el roce de la ropa en esa zona (hiperestesia mecánica). En la exploración se objetivaba una zona de hiperestesia en la región escapular izquierda, con hiperestesia cutánea y dinámica, una zona circular delimitada que no correspondía con la zona de hiperpigmentación. La RMN de columna cervical y dorsal mostraba protrusiones discales en la zona de C4, C5, C6 y D1, sin afectación radicular, sin compromiso medular y con un estudio neurofisiológico normal. Se decidió no iniciar tratamiento, ya que al paciente no le molestaban dichos síntomas y tampoco era partidario de ello.
+
+Dirección para correspondencia: José M.a Gómez Argüelles Servicio de Neurología Hospital General Virgen de la Luz C/ Hermandad Donantes de Sangre, s/n 16002 Cuenca e-mail: jmgarguelles@yahoo.es

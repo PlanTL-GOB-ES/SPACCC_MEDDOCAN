@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: Miguel.
+Apellidos: Sandoval Vazquez.
+NHC: 71375421.
+NASS: 78 64375670 15.
+Domicilio: Avenida Zumalácarregui, 20 3A.
+Localidad/ Provincia: Madrid.
+CP: 28003.
+Datos asistenciales.
+Fecha de nacimiento: 13/01/1991.
+País: España.
+Edad: 80 años  Sexo: H.
+Fecha de Ingreso: 24/04/2017.
+Servicio: Urgencias.
+Episodio: 2215183.
+Médico: Sonia Junquera Bañares  NºCol: 28 28 45741.
+Varón de 34 años que acude a la consulta remitido por optometrista para valorar tumoración a nivel iridiano sin repercusión funcional. A la exploración se objetiva una formación sobreelevada de aspecto quístico y contenido lechoso a nivel del iris, cerca del reborde pupilar. No refiere ningún antecedente oftalmológico de interés. Se obtienen imágenes con BMU y OCT y se establece el diagnóstico de quiste estromal primario de iris.
+En todos los casos anteriormente mencionados, el tiempo medio de exploración utilizando ambos instrumentes varío considerablemente, de esta forma, mediante el OCT se lograron exploraciones completas del segmento anterior en tiempos inferiores a 5 minutos. En cambio, la BMU, fundamentalmente debido a la preparación previa que conlleva, así como a la mayor dificultad para localizar la lesiones a estudiar implicó tiempos de exploración superiores a 10 minutos.
+
+Dirección para correspondencia: Francisco Javier Lara Medina Complejo Hospitalario La Mancha-Centro 13600 Alcázar de San Juan ( Ciudad Real) España E-mail: flarmed@hotmail.com

@@ -1,0 +1,19 @@
+                                         Datos del paciente.
+                                         Nombre: Manuel.
+                                         Apellidos: Fernandez de Miguel Rodriguez.
+                                         NHC: 9841264 .
+                                         Domicilio: Calle Sta. Elena 28, 2 A.
+                                         Localidad/ Provincia: Plasencia, Cáceres.
+                                         CP: 10600.
+Datos asistenciales.
+Fecha de nacimiento: 14/11/2009.
+País: España.
+Edad: 8 años Sexo: H.
+Fecha de Ingreso: 19/05/2018.
+Médico: Júlia Morata Alba NºCol:10 10 58743.
+Informe clínico del paciente: Niño de ocho años con molestias abdominales intermitentes difusas en los últimos años, atribuidas a procesos banales agudos. Sin antecedentes personales ni familiares de interés. Sin infecciones de orina ni otra sintomatología urinaria.
+Coincidiendo con un episodio de dolor abdominal en hemiabdomen derecho, se realizó una ecografía abdominal, en la que se objetivó una adenitis mesentérica y una dilatación de pelvis renal derecha leve, con sospecha de estenosis de la UPU. Sedimento de orina y urinocultivo normales.
+Desapareció la clínica de dolor abdominal espontáneamente, pero se remitió a Nefrología Pediátrica para control evolutivo.
+En la ecografía de control, estando asintomático, se seguía visualizando la dilatación de la vía urinaria con dilatación de pelvis renal derecha grado leve-moderada, por lo que se solicitó renograma isotópico (sospecha de estenosis de la unión pieloureteral). El renograma confirmó una ectasia obstructiva en riñón derecho. En el estudio de gammagrafía renal se objetivó aumento del tamaño renal derecho, con evidente hipocaptación en todo el borde medial, signos de dilatación de vía, con una función renal del 58,8% en riñón izquierdo y del 41,2% en riñón derecho.
+Ante la dilatación del tracto urinario de causa obstructiva se remitió a Urología Infantil para intervención quirúrgica. Se colocó un catéter de nefrostomía durante unos meses para recuperar y evitar el deterioro de la función renal5,6. Tras la retirada del catéter de nefrostomía se siguieron realizando controles de imagen, clínicos y analíticos, normalizándose progresivamente.
+Remitido por: Dra. Júlia Morata Alba. Correo electrónico: juliamorataalba@gmail.com Hospital Virgen Del Puerto Plasencia. Av. Paraje Valcorchero, S/N, 10600 Plasencia, Cáceres

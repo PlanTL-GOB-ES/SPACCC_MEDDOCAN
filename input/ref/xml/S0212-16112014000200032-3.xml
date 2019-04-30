@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Alejandro.
+Apellidos: Gutierrez Ramos.
+NASS: 69 74381545 11.
+Domicilio: Av. San Francisco Javier, 16, 3G .
+Localidad/ Provincia: Sevilla.
+CP: 41005.
+NHC: 7412596.
+Datos asistenciales.
+Fecha de nacimiento: 15/05/1937.
+País: España.
+Edad: 73 años Sexo: H.
+Fecha de Ingreso:15/11/2010.
+Médico: Ignacio Jiménez Varo NºCol: 41 41 03264.
+Historia Actual: Varón de 73 años diagnosticado de carcinoma epidermoide infiltrante de orofaringe G1, cT4b cN2, en tratamiento con quimioterapia y radioterapia hasta hacía 3 meses.
+Presentó disfagia secundaria a la radioterapia tanto a sólidos como a líquidos, con pérdida ponderal de 10 kilogramos (kg) en dos meses. Recibió nutrición enteral a través de SNG durante dos años, y finalmente se programó la realización de GEP. Durante la realización de la endoscopia oral, se produjo sangrado al dilatar una estenosis en porción esofágica superior, por lo que se desistió de proseguir el procedimiento y se recurrió a la GRP, que se llevó a cabo sin incidencias.
+Remitido por:Dr: Ignacio Jiménez Varo. Hospital Universitario Virgen del Rocío. Reyes Católicos, 19 - 5o. Sevilla. España. E-mail: ignaciojimenez85@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="18" text="Alejandro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="31" end="46" text="Gutierrez Ramos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="54" end="68" text="69 74381545 11" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="81" end="113" text="Av. San Francisco Javier, 16, 3G" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="138" end="145" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="151" end="156" text="41005" TYPE="TERRITORIO" comment=""/>
+    <ID id="T16" start="163" end="170" text="7412596" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="214" end="224" text="15/05/1937" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="232" end="238" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="246" end="253" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="260" end="261" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="280" end="290" text="15/11/2010" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="300" end="320" text="Ignacio Jiménez Varo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="328" end="339" text="41 41 03264" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="358" end="363" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="367" end="374" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1021" end="1041" text="Ignacio Jiménez Varo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1043" end="1082" text="Hospital Universitario Virgen del Rocío" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1084" end="1108" text="Reyes Católicos, 19 - 5o" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1110" end="1117" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1119" end="1125" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1135" end="1163" text="ignaciojimenez85@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

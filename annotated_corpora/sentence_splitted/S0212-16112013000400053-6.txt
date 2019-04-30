@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Jose Antonio.
+Apellidos: Inurria Bonilla.
+NHC: 7083543.
+NASS: 87 34625756 45.
+Domicilio: Carrer de Luis García-Berlanga Martí, 19, Bajo A.
+Localidad/ Provincia: Granda.
+CP: 24701.
+Datos asistenciales.
+Fecha de nacimiento: 19/04/1963.
+País de nacimiento: España.
+Edad: 55 años  Sexo: H.
+Fecha de Ingreso: 23/09/2016.
+Médico: Jorge Ortega-Carnicer  NºCol: 45 45 69874.
+Varón de 52 años diagnosticado de carcinoma estenosante de células en anillo de sello en unión esófagogástrica. Durante la laparoscopia de estadiaje se procedió a colocación de yeyunostomía. Inicialmente recibió SNE con NE por vía oral, precisando iniciar en un plazo breve el aporte a través del acceso quirúrgico por afagia. Tratado con radioquimioterapia, en este momento está pendiente de cirugía.
+
+Dirección para correspondencia: María Teresa Fernández López. Médico Adjunto del Servicio de Endocrinología y Nutrición. Complexo Hospitalario Universitario de Ourense. C/ Villa Valencia, 20-6o A. 32002 Ourense. España. E-mail: maria.teresa.fernandez.lopez@sergas.es

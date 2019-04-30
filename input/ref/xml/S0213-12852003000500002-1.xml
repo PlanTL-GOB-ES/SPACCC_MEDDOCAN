@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Antonia.
+Apellidos: Machado Rivas.
+NHC: 1378056.
+NASS:54 78926732 74.
+Domicilio: Av. Mar Mediterráneo, 4 bajo A .
+Localidad/ Provincia: Alcalá de Guadaíra, Sevilla.
+CP: 41500.
+Datos asistenciales.
+Fecha de nacimiento: 30/11/1939.
+País: España.
+Edad:76 años Sexo: M.
+Fecha de Ingreso: 27/12/2015.
+Servicio: Urgencias.
+Médico: Carmen Marias Puerto NºCol: 41 41 34641.
+Historia del paciente: Paciente de 76 años de sexo femenino, que consulta en un Servicio de Urgencias hospitalario, por presentar dolor en área mandibular de tres días de evolución.
+Tras la exploración médica, la paciente fue remitida a su domicilio con el diagnóstico de "artrosis mandibular" prescribiéndole analgésicos y recomendándole que acudiera al dentista.
+Horas después la paciente acudió a nuestra consulta, donde le aplicamos el protocolo de estudio a pacientes con desórdenes temporomandibulares (DTM) y como examen complementario le practicamos una ortopantomografía.
+Dentro de los antecedentes médicos personales de la paciente, cabe destacar que padecía hipertensión arterial desde hace 3 años y hipercolesterolemia desde hace un año.
+En la anamnesis acerca de las características temporoespaciales del dolor, la paciente refiere que presenta episodios de dolor en región submandibular bilateral, de tres días de evolución, que ahora se irradia a zona precordial y a la garganta. Los episodios de dolor tienen una duración que oscila entre los cinco y diez minutos, con sensación de falta el aire y sudoración acompañante. En este día ha presentado tres episodios. Este dolor ha sido resistente a los analgésicos que le prescribieron en el servicio de urgencias.
+Tras la realización del examen estomatológico completo, encontramos un "Clic" de apertura en articulación temporomandibular derecha y crepitación en el lado izquierdo. Oclusalmente presentaba mordida cruzada y desviación de la línea media dental. La función mandibular estaba conservada con una apertura máxima de 39 mm.
+En la ortopantomografía se evidenciaban signos de artrosis leve en la articulación temporomandibular izquierda.
+Estos hallazgos no justificaban la clínica del dolor que presenta la paciente, por lo que emitimos el diagnóstico clínico de presunción de "cardiopatía isquémica" y remitimos a la paciente, con carácter urgente, desde nuestra consulta a un centro hospitalario para evaluación y tratamiento.
+La paciente ingresó en el hospital y mientras le realizaban los exámenes clínicos, presento de nuevo varios episodios del dolor mandibular. En el electrocardiograma (ECG) se apreciaban signos de crecimiento y sobrecarga sistólica del ventrículo izquierdo, T negativa en II, III, aVF y de V4 a V6.
+Tras efectuarle los estudios complementarios pertinentes: análisis de sangre, radiografía de tórax, ecocardiograma y cateterismo diagnóstico, se encontró lesión severa en dos vasos coronarios.
+Se le practicó angioplastia y a las tres semanas fue dada de alta con el diagnóstico de angor inestable (Grado III, B1), lesión severa de dos vasos coronarios y doble lesión aórtica degenerativa.
+Remitido por: Dra. Carmen Marias Puerto.C/ Lope de Vega 3, bajo der. 41500 Alcalá de Guadaira, Sevilla, España carmen-ms@supercable.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="16" text="Antonia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="29" end="42" text="Machado Rivas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="49" end="56" text="1378056" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="63" end="77" text="54 78926732 74" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="90" end="120" text="Av. Mar Mediterráneo, 4 bajo A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="145" end="163" text="Alcalá de Guadaíra" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="165" end="172" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="178" end="183" text="41500" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="227" end="237" text="30/11/1939" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="245" end="251" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="258" end="265" text="76 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="272" end="273" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="293" end="303" text="27/12/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="334" end="354" text="Carmen Marias Puerto" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="362" end="373" text="41 41 34641" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T9" start="410" end="417" text="76 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="426" end="434" text="femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3082" end="3102" text="Carmen Marias Puerto" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3103" end="3130" text="C/ Lope de Vega 3, bajo der" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3132" end="3137" text="41500" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3138" end="3156" text="Alcalá de Guadaira" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3158" end="3165" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3167" end="3173" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3174" end="3197" text="carmen-ms@supercable.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

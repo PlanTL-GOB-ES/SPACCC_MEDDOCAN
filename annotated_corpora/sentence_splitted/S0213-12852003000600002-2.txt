@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Luis Manuel.
+Apellidos: Rocuzzo Paz.
+NHC: 270058.
+NASS: 84 24958768 30.
+Domicilio: C/ Principe de Vergara, 98.
+Localidad/ Provincia: Buenos Aires.
+CP: 50009.
+Datos asistenciales.
+Fecha de nacimiento: 24/12/2009.
+País de nacimiento: España.
+Edad: 70 años  Sexo: H.
+Fecha de Ingreso: 17/05/2018.
+Médico: Mikel Rico Osés  NºCol: 28 28 62165.
+Mujer de 53 años de edad que se presenta en consulta por dolor ocasional en hemiarcada inferior izquierda. Manifestó tener que tomar diversos analgésicos y/o antiinflamatorios en momentos de agudización. En la inspección apreciamos un fisura mesio-distal en la corona del 2º molar inferior izquierdo. En la exploración radiográfica no hallamos nada especial. Solucionamos el dolor del momento con apertura cameral de dicho diente, colocación de un medicamento (Cresophene, Septodont) y cierre con un cemento provisional (Cavit, Espe). Propusimos hacer posteriormente una endodoncia y colocación de una corona metal-porcelana. El día que habíamos planificado hacer la endodoncia vino con el diente ya fracturado e hicimos la extracción. El diente observado en sentido distomesial permite apreciar dicha fractura.
+
+Dirección para correspondencia: Beatriz García-Maldonado Servicio de Nefrología Complejo Hospitalario Torrecárdenas Argentina, 5, 04700, Almería bea213@hotmail.com

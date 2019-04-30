@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Antonella.
+Apellidos: Guido Suarez.
+NHC: 96147325.
+Domicilio: Av. Paseo Colón 255 - 1er Piso Contrafrente.
+Localidad/ Provincia: Buenos Aires.
+CP: B1827.
+Datos asistenciales.
+Fecha de nacimiento: 13/04/1987.
+País: Argentina.
+Edad: 29 años Sexo: Mujer.
+Fecha de Ingreso: 27/07/2016.
+Médico:Luis Roberto León .
+Motivo de ingreso: Mujer de 29 años ingresa para hemodiálisis a los 25 años. Tres años después de la hemodiálisis presenta hiperparatiroidismo secundario (HPTS) severo con PTH i >1.000 pg/ml, con dolor óseo, astenia, prurito e hipotensión arterial sintomática persistente. No presenta calcificaciones arteriales ni ecocardiográficas. 
+Historia Actual y pruebas complementarias: Se realiza ecografía de paratiroides sin visualización y centelleo con 99Tc y MIBI con aumento difuso de la fijación del lóbulo paratiroideo inferior izquierdo y derecho. Realiza tratamiento de su HPTS con quelantes del calcio y discontinuo con calcitriol i.v. por hiperfosfatemia. Se indica paratiroidectomía subtotal considerando la edad de la paciente y su aptitud para el trasplante. Los resultados de las pruebas de laboratorio previas fueron: Hcto 37%, Hb 12,1, Ca 9 mg/dl, P 6 mg/dl, K 5 meq/l. Coagulograma normal. Biopsia de paratiroides: hiperplasia bilateral. Durante la cirugía estuvo hipotensa (TApromedio 90/60). Seis días después de la cirugía presenta pérdida parcial de la visión del OD y total del OI, hipo-Ca moderada e hipotensión sintomática. Laboratorio: Hcto 36%, Hb 12, Ca 6,3 Ca i 0,72l, P 3,5, Mg 1,9. Se corrigen valores de hipo-Ca.
+Colagenograma y coagulograma normales, y anticardiolipinas, anticoagulante lúpico, ANCAp y c y serología para toxoplasmosis y sífilis negativas.
+Se realiza consulta con neurología: presenta hemianopsia nasal derecha y visión con bulto del ojo izquierdo. Pupilas discóricas en OD 3 mm, OI 4 mm. Consulta con oftalmología: AV con visión cuenta dedos a 50 cm en OI y dismuncion moderada de la visión en OD.
+Midriasis areactiva en OI, reactiva en OD. Fondo de ojo: retina aplicada, mácula normal y papila congestiva con incipiente edema (OI y D). PO 10/10 mmHg. RMN de cerebro y bulbo normal. Potenciales evocados visuales en OD y OI de mediana amplitud y latencias centrales prolongadas compatibles con compromisos de la vía óptica de grado moderado, compatible con neuropatía óptica. Agudeza visual: 0,5 en OI, 0,8 en OD. Campimetría: fuera de límites normales para el OD con alteración de la sensibilidad relativa y restricción de la mancha ciega (aumentada). En OI hay una reducción total de la sensibilidad.
+En el fondo de ojo a los 2 meses se detectó atrofia casi total del nervio óptico derecho con dilatación y tortuosidad venosa y atrofia total de nervio óptico izquierdo.
+Diagnóstico: IRC secundaria a GEFS
+Tratamiento:Como tratamiento se indican corticoides (prednisona) a dosis de 1 mg/kg/día durante 30 días.
+Remitido por: Dr. Luis Roberto León, DIAVERUM. CERER, S.A., San Justo. Buenos Aires. Argentina E-mail: lleon@intramed.net.ar
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="8" end="17" text="Antonella" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="30" end="42" text="Guido Suarez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="49" end="57" text="96147325" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="70" end="113" text="Av. Paseo Colón 255 - 1er Piso Contrafrente" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="137" end="149" text="Buenos Aires" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="155" end="160" text="B1827" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="204" end="214" text="13/04/1987" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="222" end="231" text="Argentina" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="239" end="246" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="253" end="258" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="278" end="288" text="27/07/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="297" end="314" text="Luis Roberto León" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="336" end="341" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="345" end="352" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="385" end="392" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2891" end="2908" text="Luis Roberto León" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2910" end="2931" text="DIAVERUM. CERER, S.A." TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T4" start="2933" end="2942" text="San Justo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2944" end="2956" text="Buenos Aires" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2958" end="2967" text="Argentina" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2976" end="2997" text="lleon@intramed.net.ar" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

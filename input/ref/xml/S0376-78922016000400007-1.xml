@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Fermín.
+Apellidos: Reyes Moreno.
+NHC: 7834568.
+NASS: 75 83407854 73.
+Domicilio: C/ San Gaspar, 94, Bajo D.
+Localidad/ Provincia: Zaragoza.
+CP: 50009.
+Datos asistenciales.
+Fecha de nacimiento: 14/02/1939.
+País de nacimiento: España.
+Edad: 72 años Sexo: H.
+Fecha de Ingreso: 21/07/2011.
+Servicio: Cirugía Plástica.
+Episodio: 7823463.
+Médico: Álvaro Bernal Martínez NºCol: 50 50 47902.
+Informe clínico del paciente:Varón de 75 años de edad con antecedentes de hipertensión arterial, diabetes mellitus tipo 2, accidente isquémico transitorio, hipotiroidismo autoinmune y deterioro cognitivo leve. Sufrió una quemadura por contacto con llama por inflamación de la ropa al avivar una llama con gasóleo, a consecuencia de la cual presentaba lesiones dérmicas profundas y subdérmicas en ambas extremidades inferiores, con una superficie corporal total quemada del 20%. Las quemaduras eran dérmicas profundas en la superficie posterior de ambos muslos y circunferenciales en ambas piernas, con una placa de afectación subdérmica en la superficie anterior de la pierna izquierda, así como quemaduras dérmicas superficiales en el lateral de los muslos y en la cara.
+La reanimación en las primeras horas tras el accidente se realizó en un hospital de otra región, desde el que se derivó a la Unidad de Cuidados Intensivos de nuestro hospital para continuar con el tratamiento de las lesiones.
+El día del ingreso hospitalario realizamos escarotomías de urgencia en ambas piernas y completamos la reanimación inicial. Durante las primeras 3 semanas de ingreso realizamos 4 sesiones de desbridamiento seriado de las zonas quemadas y cobertura con autoinjerto de piel parcial mallado de la superficie anterior de los muslos en los defectos provocados por la exéresis de las quemaduras más profundas, piernas y muslos posteriores, y con sustitutivos dérmicos (Biobrane®) en las zonas desbridadas de quemaduras superficiales, en el lateral de los muslos y en áreas parcheadas de las piernas A la semana de postoperatorio objetivamos la pérdida del injerto de la superficie anterior de la pierna izquierda.
+En una nueva sesión quirúrgica realizamos desbridamiento de la zona pretibial izquierda, con persistencia bajo el injerto de quemadura que no había sido eliminada durante las cirugías previas. Tras la adecuada eliminación de esta escara objetivamos un defecto pretibial de 20 cm de longitud, con exposición de la tibia. Realizamos escoplado de la totalidad del periostio expuesto e inicio de terapia de vacío sobre el defecto resultante. Aplicamos la terapia de vacío mediante dispositivo VAC® (KCI Clinic Spain SL), en modo continuo, a 125 mmHg. Las curas se realizaron cada 72 horas con jabón de clorhexidina. No fueron necesarios nuevos procesos de desbridamiento en quirófano. Tras 45 días de terapia de vacío comprobamos la cobertura completa del hueso por tejido de granulación y realizamos tratamiento definitivo con autoinjertos de piel parcial tomados de los glúteos, tras lo cual conseguimos el cierre completo de las heridas.
+Durante el periodo de aplicación de la terapia los cultivos microbiológicos del tejido de granulación subyacente fueron positivos para Pseudomonas aeruginosa multirresistente, que previamente el paciente había presentado también en orina. Instauramos tratamiento sistémico con Imipenem y Cilastatina, y practicamos desbridamiento parcial del tejido de granulación más superficial e hipertrófico durante los cambios de cura en la habitación. Una vez completada la terapia de vacío e injertado el defecto, el paciente no volvió a presentar signos de infección de los injertos. A los 100 días de ingreso fue dado de alta hospitalaria, con dificultad para la deambulación y con tratamiento rehabilitador en régimen ambulatorio.
+Responsable clínico: Dr. Álvaro Bernal Martínez Servicio de Cirugía Plástica Hospital Universitario Miguel Servet Paseo Isabel la Católica, 1-3, 50009 Zaragoza, España Correo electrónico: aj.bernal.martinez@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="34" text="Fermín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="47" end="59" text="Reyes Moreno" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="66" end="73" text="7834568" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="81" end="95" text="75 83407854 73" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="108" end="133" text="C/ San Gaspar, 94, Bajo D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="157" end="165" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="171" end="176" text="50009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="220" end="230" text="14/02/1939" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="252" end="258" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="266" end="273" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="280" end="281" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="301" end="311" text="21/07/2011" TYPE="FECHAS" comment=""/>
+    <ID id="T13" start="351" end="358" text="7823463" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T12" start="368" end="390" text="Álvaro Bernal Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="398" end="409" text="50 50 47902" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="440" end="445" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="449" end="456" text="75 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T8" start="2611" end="2630" text="KCI Clinic Spain SL" TYPE="INSTITUCION" comment=""/>
+    <NAME id="T7" start="3802" end="3824" text="Álvaro Bernal Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3854" end="3890" text="Hospital Universitario Miguel Servet" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3891" end="3920" text="Paseo Isabel la Católica, 1-3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3922" end="3927" text="50009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3928" end="3936" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3938" end="3944" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3965" end="3993" text="aj.bernal.martinez@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

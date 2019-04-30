@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Mario .
+Apellidos: Reye Oviedo.
+NHC: 33254784.
+NASS: 73 45673045 64.
+Domicilio: Carrer de Joan Maragall, 26 2B.
+Localidad/ Provincia: Valladolid.
+CP: 39893.
+Datos asistenciales.
+Fecha de nacimiento: 13/06/1975.
+País: España.
+Edad: 74 años  Sexo: M.
+Fecha de Ingreso: 06/06/2012.
+Médico: Maria Lourdes Maldonado Morales  NºCol: 28 28 62256.
+Mujer, 45 años, con antecedente de daño hepático crónico por virus hepatitis C (Child A) y cesárea 3 meses antes. Presentó angina de reposo que cedió espontáneamente. Consultó en servicio de urgencia al tercer día por dolor de mayor intensidad. Al ingreso presentaba signos clínicos de bajo gasto y el electrocardiograma (ECG) mostraba elevación del segmento ST. Hemodinamia de urgencia mostraba aquinesia antero-apical con disminución leve de la función ventricular izquierda, tronco de la coronaria izquierda (TRCI) adelgazado, sin estenosis significativa, similar a una DCE. La sonografía intracoronaria demostró un hematoma disecante que comprometía el TRCI, la descendente anterior, circunfleja y la coronaria derecha desde el tercio medio. La disminución del lumen llegaba hasta 90% en la descendente posterior. Por extensión de la enfermedad se decidió manejo médico con nitroglicerina, anticoagulación con heparina no fraccionada (HNF) y antiagregación plaquetaria. Se mantuvo monitorizada en unidad coronaria. El ecocardiograma posterior informó disfunción sistólica leve del ventrículo izquierdo (FE 46%), sin insuficiencias valvulares. Evolucionó con angina de reposo, pero sin compromiso hemodinámico ni cambios electrocardiográficos. Durante la hospitalización se pesquisó pancitopenia (hematocrito 30%, recuento de glóbulos blancos 1.530 y plaquetas 62.600). Cinco días después se repitió la coronariografía que no mostró cambios, pero ante persistencia de angina de reposo se decidió revascularización miocárdica quirúrgica. En la cirugía se encontraron signos claros de disección coronaria en los tres vasos principales con lechos distales normales. Bajo circulación extracorpórea, con canulación aórtica y venosa estándar, hipotermia moderada y cardioplegia cristaloide, se revascularizan los tres territorios con injertos venosos, sin incidentes. En el postoperatorio inmediato presentó hemorragia que requirió re-exploración, reparando satisfactoriamente una filtración de una anastomosis proximal. No presentó otras complicaciones y fue dada de alta en buenas condiciones. En controles no ha referido angina.
+
+Dirección para correspondencia: José Ramón Sánchez-Crespo Bolaños, C/ Ciudad de la Habana no 57, 47016-Valladolid. Telf.: 669923791, e-mail: joserrabol@ono.com

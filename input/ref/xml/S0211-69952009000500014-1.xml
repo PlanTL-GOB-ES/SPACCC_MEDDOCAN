@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Patricia.
+Apellidos: Gonzalez Perez.
+NHC: 7846523.
+NASS: 98 91329278 42.
+Domicilio: Calle Gral. Rey, 2.
+Localidad/ Provincia: Ciudad Real.
+CP: 13001.
+Datos asistenciales.
+Fecha de nacimiento: 29/08/1984.
+País: España.
+Edad: 33 años Sexo: M.
+Fecha de Ingreso: 13/05/2017.
+Servicio: Nefrologia.
+Episodio: 5486916154.
+Médico: Francisco Rivera Hernández NºCol: 13 13 45698.
+Historia Actual: Mujer de 33 años, sin antecedentes de interés, que presenta un cuadro de dolor abdominal, diarreas y síndrome constitucional, aparecido unas semanas después de su primer parto; la gestación previa había transcurrido sin complicaciones. Es estudiada en la Sección de Aparato Digestivo, siendo diagnosticada de EC al reunir criterios diagnósticos: 1) título elevado de anticuerpos antitransglutaminasa; y 2) biopsia intestinal con atrofia de vellosidades en duodeno e hiperplasia de criptas. Poco después de la clínica comentada, presenta poliartralgias de medianas articulaciones, de predominio en carpos y tarsos, junto con parestesias y lesiones cutáneas con micropápulas pruriginosas. La envían a Nefrología por detectar proteinuria de +++. En la exploración física: tensión arterial 104/76 mmHg, IMC 27, mínimos edemas en miembros inferiores y pápulas en codos y brazos. En la analítica: hemograma y coagulación normales, creatinina 0,9 mg/dl, colesterol total 238 mg/dl, triglicéridos 104 mg/dl, proteínas totales 6,5 g/dl y albúmina 3,6 g/dl. En el estudio inmunológico: ANA, anti-DNA, ANCAS, C3, C4, anticuerpos anticardiolipina, anticoagulante lúpico y crioglobulinas negativos o normales. La serología frente a VHB, VHC y VIH negativa. Los anticuerpos antitransglutaminasa tisular IgA positivos a título 800 U/ml (normal <7 U/ml). En orina: proteínas 4,4 g/día y sedimento con 5 hematíes por campo. La ecografía renal es normal. Ante la persistencia de la proteinuria nefrótica durante varias semanas, se hace biopsia renal percutánea, cuyo resultado es una NM estadio 2, sin lesiones vasculares ni intersticiales. Recibe tratamiento con dieta sin gluten y otras medidas conservadoras con estatina, aspirina a dosis antiagregantes, enalapril y losartán, sin respuesta inicial. No obstante, a los 12 meses de seguimiento, se aprecia de forma simultánea la negativización de los anticuerpos antitransglutaminasa y la remisión completa de la proteinuria, como se indica en la figura 1. Durante este tiempo no ha presentado otros datos de enfermedad sistémica, salvo aumento de los niveles de TSH 6,6 µU/ml, con T4l de 1,1 ng/dl y anticuerpos antitiroglobulina y antimicrosomales negativos.
+Remitido por: Dr.Francisco Rivera Hernández, Sección de Nefrología Hospital General de Ciudad Real, Ciudad Real. friverahdez@senofro.org
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="9" end="17" text="Patricia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="30" end="44" text="Gonzalez Perez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="51" end="58" text="7846523" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="66" end="80" text="98 91329278 42" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="93" end="111" text="Calle Gral. Rey, 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="135" end="146" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="152" end="157" text="13001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="201" end="211" text="29/08/1984" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="219" end="225" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="233" end="240" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="247" end="248" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="268" end="278" text="13/05/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T9" start="312" end="322" text="5486916154" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T8" start="332" end="358" text="Francisco Rivera Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="366" end="377" text="13 13 45698" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="396" end="401" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="405" end="412" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="2608" end="2634" text="Francisco Rivera Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="2658" end="2689" text="Hospital General de Ciudad Real" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T2" start="2691" end="2702" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2704" end="2727" text="friverahdez@senofro.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

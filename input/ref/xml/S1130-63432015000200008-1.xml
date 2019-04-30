@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Joan.
+Apellidos: Carrión Bermudez.
+NHC: 3457805.
+NASS: 38 47534875 01.
+Domicilio: Av. Fuente el saz 15, 1 G.
+Localidad/ Provincia: Barcelona.
+CP: 08564.
+Datos asistenciales.
+Fecha de nacimiento: 15/08/1938.
+País: España.
+Edad: 78 años Sexo: H.
+Fecha de Ingreso: 27/11/2016.
+Médico: Montserrat Carreres Prieto NºCol: 08 08 54963.
+Informe clínico del paciente: Varón de 78 años, carpintero, exfumador desde hace 22 años y con antecedentes de hipertensión, dislipemia y cardiopatía isquémica por infarto agudo de miocardio que precisó de doble bypass coronario. El paciente es intervenido de neoplasia de colon con resultado anatomopatológico de adenocarcinoma estadio III (pT3pN2M0). Dados los antecedentes patológicos del paciente no es recomendable el empleo de fluoropirimidinas. Por este motivo se inicia tratamiento quimioterápico adyuvante según esquema TOMOX a dosis ajustadas (raltitrexed 2.5 mg/m2 y oxaliplatino 100 mg/m2 cada 3 semanas). Se planifican un total de 8 ciclos. La tolerancia es correcta. En la visita de control previa al séptimo ciclo, el paciente refiere haber recibido tratamiento antibiótico los días previos por infección respiratoria de vías bajas diagnosticada por su médico de familia. Se encuentra afebril, con astenia grado II y deterioro leve de la función renal, por lo que se decide aplazar el ciclo. En ese momento, las dosis totales acumuladas de raltitrexed y oxaliplatino son de 26 mg y 1.040 mg respectivamente.
+A las 48 horas de esta última visita, el paciente acude a Urgencias por presentar fiebre de 38.5oC y disnea de mínimos esfuerzos. La gasometría arterial muestra parámetros compatibles con insuficiencia respiratoria grave. La radiografía de tórax evidencia infiltrados pulmonares bilaterales y dudosa condensación en lóbulo inferior derecho. El paciente ingresa bajo sospecha de neumonía grave, iniciándose antibioticoterapia empírica de amplio espectro y ventilación mecánica no invasiva. La ecocardiografía descarta tromboembolismo pulmonar. A las 48h, debido a empeoramiento respiratorio, el paciente es trasladado a la Unidad de Cuidados Intensivos (UCI) precisando intubación endotraqueal. Se orienta como insuficiencia respiratoria grave secundaria a neumonía comunitaria sin germen aislado vs toxicidad pulmonar por citostáticos asociada a síndrome de distrés respiratorio del adulto. Se descartan interacciones con la medicación crónica del paciente. Los resultados de los estudios microbiológicos (sangre y esputo), así como las serologías para microorganismos atípicos fueron todos negativos. La tomografía computarizada de tórax muestra un componente de neumonitis intersticial difusa. Ante estos resultados, y dado el curso clínico del paciente, se decide iniciar tratamiento corticoterápico a dosis altas (prednisona 1mg/kg/día), bajo sospecha de toxicidad pulmonar a citostáticos. La evolución del paciente fue tórpida, siendo éxitus tras 17 días de ingreso en UCI.
+Remitido por:Dra. Montserrat Carreres Prieto Correo electrónico: montsecarrere@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="8" end="12" text="Joan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="25" end="41" text="Carrión Bermudez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="48" end="55" text="3457805" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="63" end="77" text="38 47534875 01" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="90" end="115" text="Av. Fuente el saz 15, 1 G" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="139" end="148" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="154" end="159" text="08564" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="203" end="213" text="15/08/1938" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="221" end="227" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="235" end="242" text="78 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="249" end="250" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="270" end="280" text="27/11/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="290" end="316" text="Montserrat Carreres Prieto" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="324" end="335" text="08 08 54963" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="367" end="372" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="376" end="383" text="78 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <PROFESSION id="T2" start="385" end="395" text="carpintero" TYPE="PROFESION" comment=""/>
+    <NAME id="T4" start="2957" end="2983" text="Montserrat Carreres Prieto" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3004" end="3027" text="montsecarrere@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

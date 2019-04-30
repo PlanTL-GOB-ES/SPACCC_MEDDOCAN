@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Miguel Angel.
+Apellidos: Abbabou.
+NHC: 7840352.
+NASS: 27 18364809 09.
+Domicilio: Calle Horno de los Bizcochos, 5, 3 Der..
+Localidad/ Provincia: Cartagena.
+CP: 26001.
+Datos asistenciales.
+Fecha de nacimiento: 19/03/1940.
+País de nacimiento: España.
+Edad: 58 años  Sexo: M.
+Fecha de Ingreso: 09/07/2017.
+Médico: Ignacio de la Iglesia Fanjul   NºCol: 41 41 89756.
+Se trata de una paciente de sexo femenino de 3 años y 8 meses de edad, que fue llevada a consulta por presentar urticaria y angioedema al contacto con el agua fría. En una ocasión, mientras estaba en una piscina, presentó un episodio de hipotonía generalizada, palidez y pérdida de conciencia, que requirió hospitalización. Con el consumo de bebidas frías presentaba eritema y edema en cuello. Se le practicó la prueba del cubo de hielo, que fue positiva a los seis minutos. Se inició tratamiento con ciproheptadina, consiguiéndose mejoría de la sintomatología. Un mes después del inicio del tratamiento, se hizo una nueva prueba con cubo de hielo, la cual fue negativa a los 10 minutos. La paciente recibió ciproheptadina por seis meses llegando hasta la dosis tope para su peso, pero por persistencia de síntomas asociados al contacto con el frío, se decidió cambiar el tratamiento por cetirizina más montelukast. La paciente ha sido seguida durante cuatro años y en la actualidad todavía presenta urticaria asociada al baño y en piscinas, pero sin afectación respiratoria y de resolución espontánea.
+Correspondencia: Jorge Mario Sánchez, Servicio de Alergología Clínica, Clínica León XIII, bloque I, consultorios 111, 112 y 113, Medellín, Colombia.

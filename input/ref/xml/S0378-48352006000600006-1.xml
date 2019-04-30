@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Fernando.
+Apellidos: Fernandez de Miguel.
+NHC: 3748563.
+NASS: 91 47382493 21.
+Domicilio: C/ Carnicer, 14, 1, 17.
+Localidad/ Provincia: Salamanca.
+CP: 37007.
+Datos asistenciales.
+Fecha de nacimiento: 25/07/1931.
+País de nacimiento: España.
+Edad: 73 años Sexo: H.
+Fecha de Ingreso:10/08/2004.
+Servicio: Oncología.
+Médico: José Ignacio Rodríguez Melcón NºCol: 37 37 51201.
+Informe clínico del paciente: Varón de 73 años en su primera visita a nuestro Servicio, con antecedentes de diabetes mellitus, cardiopatía isquémica, hábito tabáquico hasta 1993, sin alergias conocidas a medicamentos. En Julio de 2001, tras varios meses de molestias rectales, se objetiva en analítica de rutina una cifra de PSA de 16.68 ng/ml. Remitido desde Atención Primaria a Urología, es diagnosticado mediante biopsia de Adenocarcinoma de Próstata en lóbulo derecho, Gleason 3+3 (T1cNxMx, Estadio II).
+Tras instaurarse bloqueo androgénico completo (BAC) con Bicalutamida y Leuprorelina es remitido a nuestro Servicio, donde se solicita TC tóraco-abdominal para completar estadiaje. Pendiente del resultado de dicha prueba debido a la demora en su realización y teniendo en cuenta la edad el paciente y el estadio de la enfermedad, se inicia el tratamiento RT. Se programa una dosis de 70 Gy sobre próstata y vesículas seminales, usando fotones de 18 MV, técnica de 4 campos en caja y fraccionamiento de 2 Gy/día, 5 días por semana.
+Antes de la finalización del tratamiento se recibe la TC (11/10/01), en la que se objetiva una masa sólida mediastínica de 3 cm, paraesofágica izquierda, superior a cayado aórtico, no pudiendo diferenciarse si se trata de una masa adenopática o una neoplasia primitiva. Además se visualiza una masa sólida renal derecha, de aproximadamente 7 cm de diámetro, con necrosis central, sugerente de hipernefroma. No se objetivan alteraciones vasculares, adenopatías retroperitoneales ni alteraciones significativas en la pelvis.
+Tras el resultado de la TC, se decide continuar la irradiación sobre la próstata, finalizándose el tratamiento el 26/11/01. Mientras tanto, y dado que la masa renal no planteaba dudas diagnósticas, se opta por el abordaje de la lesión torácica.
+El 15/11/01 se lleva a cabo una mediastinoscopia con toma de biopsias, con resultado histológico de carcinoma de células claras, compatible con metástasis de Carcinoma Renal.
+De acuerdo con Oncología Médica y Urología, el 21/12/01 se realiza la Nefrectomía (NF), con resultado histológico definitivo de carcinoma de células renales grado II-III, que invade tejido adiposo perirrenal (T3aNxM1, Estadio IV).
+Ante la posibilidad de cirugía sobre la metástasis mediastínica, se realiza nueva TC (30/01/02), en la que se constata la presencia de la masa pulmonar, con un tamaño aproximado de 5 x 3 x 4 cm que infiltra región mediastínica posterior, sin plano de clivaje con estructuras vasculares supraaórticas ni con el cayado aórtico, encontrándose muy próxima a tercio superior esofágico. A nivel abdominal se visualiza la NF derecha sin signos de recidiva ni resto tumoral.
+El 27/02/02 se realiza toracotomía exploradora, con el hallazgo de tumor mediastínico de 5 cm que invade parénquima pulmonar y cara superior del cayado aórtico a nivel de una placa de arterioesclerosis que impide el clampaje lateral, por lo que se considera irresecable. Se toma biopsia y se confirma el diagnóstico.
+Se plantea la posibilidad de tratamiento radioterápico sobre la lesión mediastínica, seguida o no de inmunoterapia, pero el paciente no acepta tal posibilidad y considerando su buen estado general, se adopta una actitud expectante.
+El paciente continúa con BAC y tratamiento sintomático. En Junio de 2002 recibe tratamiento con Acetato de Megestrol por "sofocos" secundarios al BAC, que se interrumpe un mes después al suspenderse el BAC. En Septiembre de 2002 se realiza una gammagrafía ósea, que no evidencia depósitos patológicos del trazador, así como una determinación del PSA (0.10 ng/ml) y una nueva TC. En dicha TC (12/09/02) se aprecia masa en mediastino posterior, por encima del cayado aórtico, de 6 x 4 x 4 cm. que infiltra la arteria subclavia izquierda, la aorta y el pulmón izquierdo, así como imágenes nodulares en língula y lóbulo inferior derecho adyacente a la columna vertebral, sugerentes de metástasis pulmonares. En el abdomen se visualizan múltiples imágenes nodulares en fosa renal derecha sugerentes de recidiva, con probable infiltración del músculo psoas ipsilateral.
+Por lo tanto, y como conclusión tras el último TC (9 meses después de la NF) el paciente presenta una franca progresión de su enfermedad, con nuevas metástasis además de recidiva local.
+En octubre de 2002 ingresa por sospecha clínica de tromboembolismo pulmonar, sin confirmación gammagráfica. Tras el alta es visto de forma ambulatoria en varias ocasiones, manifestando una mejoría progresiva de su estado general.
+En septiembre de 2003, 21 meses tras la NF y encontrándose el paciente asintomático, se realiza TC torácica y abdominal (16/09/03), que muestra únicamente varias adenopatías axilares menores de 1 cm y la NF derecha, sin evidencia de otras lesiones -Respuesta radiológica completa-.
+En la actualidad (36 meses tras NF) dos TC posteriores muestran la persistencia de dicha respuesta y el paciente sigue asintomático. El tumor prostático continúa en respuesta completa, con nadir de PSA de 0,10 ng/ml y sin alteraciones en la gammagrafía ósea.
+Responsable clínico: Dr. José Ignacio Rodríguez Melcón Servicio de Oncología Radioterápica Hospital Universitario de Salamanca Paseo San Vicente, 58-182 E-37007 Salamanca nachorodriguezmelcon@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T36" start="28" end="36" text="Fernando" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T35" start="49" end="68" text="Fernandez de Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T34" start="75" end="82" text="3748563" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T33" start="90" end="104" text="91 47382493 21" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T32" start="117" end="139" text="C/ Carnicer, 14, 1, 17" TYPE="CALLE" comment=""/>
+    <LOCATION id="T31" start="163" end="172" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T30" start="178" end="183" text="37007" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T29" start="227" end="237" text="25/07/1931" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="259" end="265" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="273" end="280" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="287" end="288" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T28" start="307" end="317" text="10/08/2004" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="348" end="377" text="José Ignacio Rodríguez Melcón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="385" end="396" text="37 37 51201" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T13" start="428" end="433" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T15" start="437" end="444" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T27" start="571" end="575" text="1993" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="619" end="632" text="Julio de 2001" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="1494" end="1502" text="11/10/01" TYPE="FECHAS" comment=""/>
+    <DATE id="T26" start="2073" end="2081" text="26/11/01" TYPE="FECHAS" comment=""/>
+    <DATE id="T25" start="2207" end="2215" text="15/11/01" TYPE="FECHAS" comment=""/>
+    <DATE id="T24" start="2426" end="2434" text="21/12/01" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="2696" end="2704" text="30/01/02" TYPE="FECHAS" comment=""/>
+    <DATE id="T23" start="3080" end="3088" text="27/02/02" TYPE="FECHAS" comment=""/>
+    <DATE id="T22" start="3685" end="3698" text="Junio de 2002" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="3836" end="3854" text="Septiembre de 2002" TYPE="FECHAS" comment=""/>
+    <DATE id="T18" start="4018" end="4026" text="12/09/02" TYPE="FECHAS" comment=""/>
+    <DATE id="T21" start="4679" end="4694" text="octubre de 2002" TYPE="FECHAS" comment=""/>
+    <DATE id="T20" start="4909" end="4927" text="septiembre de 2003" TYPE="FECHAS" comment=""/>
+    <DATE id="T19" start="5027" end="5035" text="16/09/03" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="5472" end="5501" text="José Ignacio Rodríguez Melcón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="5538" end="5573" text="Hospital Universitario de Salamanca" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="5574" end="5599" text="Paseo San Vicente, 58-182" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="5600" end="5607" text="E-37007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="5608" end="5617" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="5618" end="5650" text="nachorodriguezmelcon@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

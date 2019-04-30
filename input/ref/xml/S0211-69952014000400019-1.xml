@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Alex.
+Apellidos: Ferrer Paul.
+NHC: 7894312.
+NASS: 15 36985214 74.
+Domicilio: Carrer de Joan Amades i Gelats, 10 1A.
+Localidad/ Provincia: Tarragona.
+CP: 43003.
+Datos asistenciales.
+Fecha de nacimiento: 17/05/1981.
+País: España.
+Edad:31 años Sexo:H.
+Fecha de Ingreso: 01/12/2012.
+Servicio: Nefrologia.
+Episodio: 1245786.
+Médico: Pablo Justo-Ávila NºCol: 43 43 17089.
+Historia Actual: Paciente de 31 años con lesión medular traumática a los 20 años de edad e historia de infecciones urinarias de repetición en relación con vejiga neurógena (autosondaje) y episodios de obstrucción urinaria. En el año 2009 es derivado a consulta de nefrología por enfermedad renal crónica estadio 2, con proteinuria en rango nefrótico (creatinina 1,3mg/dl, proteinuria 20g/24h). El paciente se niega a realizar biopsia renal y en el mismo año deja de acudir a las consultas de nefrología.
+En enero de 2012 comienza con episodios de disminución del nivel de conciencia. Se realiza tomografía axial computarizada craneal y punción lumbar, siendo ambas normales. Electroencefalograma con enlentecimiento difuso. La creatinina en aquel momento es de 3,3mg/dl. Se orienta el cuadro como secundario a infección urinaria.
+En abril de 2012, se repite el mismo cuadro acompañado de desorientación temporo-espacial. Presenta nuevo episodio en el mismo mes, pero esta vez con cambio conductual (infantilismo, nerviosismo, agresividad). Se realiza resonancia magnética nuclear cerebral sin hallazgos de interés. Tras este episodio, se inicia tratamiento con clonazepam.
+En mayo de 2012, por analítica y clínica de insuficiencia renal terminal, se inicia hemodiálisis a través de catéter provisional en la vena yugular derecha.
+El paciente presentaba, aproximadamente una vez al mes, en las dos primeras horas tras el inicio de la hemodiálisis, episodios de disminución del nivel de conciencia, y en otras ocasiones agitación psicomotriz.
+En noviembre de 2012 es valorado por Neurología y Psiquiatría, sin detectarse hallazgos de relevancia. Orientan el cuadro como secundario a encefalopatía hipóxica-metabólica.
+A pesar de presentar KT y Kt/V correctos, aumentamos el número de sesiones de diálisis a 4/semana, sin evidenciarse mejoría clínica.
+En enero de 2013, decidimos suspender el tratamiento con baclofeno (Lioresal®), sustituyéndose por tinazidina y diazepam. Tras dos semanas de tratamiento con tinazidina, el paciente suspendió el fármaco por somnolencia, controlándose la espasticidad únicamente con diazepam.
+A los 10 meses después de la retirada del fármaco, el paciente no ha vuelto a presentar clínica neurológica.
+Remitido por: Dr.Pablo Justo-Ávila, Sección de Nefrología, Hospital de la Santa Creu, Avda. Mossèn Valls, 1, 43590, Tortosa, Tarragona E-mail: nefrotortosa@grupsagessa.com E-mail: pjusto83@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T31" start="8" end="12" text="Alex" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T30" start="25" end="36" text="Ferrer Paul" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T29" start="43" end="50" text="7894312" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T28" start="58" end="72" text="15 36985214 74" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T27" start="85" end="122" text="Carrer de Joan Amades i Gelats, 10 1A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T26" start="146" end="155" text="Tarragona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T25" start="161" end="166" text="43003" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T24" start="210" end="220" text="17/05/1981" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T23" start="228" end="234" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T22" start="241" end="248" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T21" start="254" end="255" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T20" start="275" end="285" text="01/12/2012" TYPE="FECHAS" comment=""/>
+    <ID id="T19" start="319" end="326" text="1245786" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T18" start="336" end="353" text="Pablo Justo-Ávila" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T17" start="361" end="372" text="43 43 17089" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T16" start="403" end="410" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T15" start="447" end="454" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T1" start="603" end="611" text="año 2009" TYPE="FECHAS" comment=""/>
+    <DATE id="T14" start="881" end="894" text="enero de 2012" TYPE="FECHAS" comment=""/>
+    <DATE id="T13" start="1207" end="1220" text="abril de 2012" TYPE="FECHAS" comment=""/>
+    <DATE id="T12" start="1550" end="1562" text="mayo de 2012" TYPE="FECHAS" comment=""/>
+    <DATE id="T11" start="1918" end="1935" text="noviembre de 2012" TYPE="FECHAS" comment=""/>
+    <DATE id="T10" start="2226" end="2239" text="enero de 2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="2624" end="2641" text="Pablo Justo-Ávila" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="2666" end="2691" text="Hospital de la Santa Creu" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="2693" end="2714" text="Avda. Mossèn Valls, 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="2716" end="2721" text="43590" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2723" end="2730" text="Tortosa" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2732" end="2741" text="Tarragona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="2750" end="2778" text="nefrotortosa@grupsagessa.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T2" start="2787" end="2805" text="pjusto83@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

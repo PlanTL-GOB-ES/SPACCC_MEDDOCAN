@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Pratricia.
+Apellidos: Martín RIvera.
+NHC: 1037856.
+NASS: 37 89569705 33.
+Domicilio: Plaza de los molinos, 28, 4, A.
+Localidad/ Provincia: Málaga.
+CP: 29010.
+Datos asistenciales.
+Fecha de nacimiento: 19/11/1979.
+País de nacimiento: España.
+Edad: 38 años Sexo: M.
+Fecha de Ingreso: 07/06/2018.
+Médico: Victoria Ramos Medina NºCol: 29 29 55710.
+Informe clínico del paciente: Mujer de 38 años de edad diagnosticada de esclerosis múltiple en tratamiento con interferón beta y espondilitis anquilosante tratada con ibuprofeno y metamizol. El familiar que convivía con ella refiere que llevaba tres días sin defecar, con dolor y distensión abdominal. Sobre las 01:30 horas se administró un enema de 240 ml (de los denominados laxantes por vía rectal) y se acostó. El referido familiar la encuentra a las 05 horas inconsciente y con restos de vómito verde oscuro en el rostro y en su entorno. Asistió el servicio médico de emergencias, que la encontró con signos de muerte cierta y no aplicó medidas de reanimación.
+Hallazgos de la autopsia: talla,1,54 m; peso: 52 kg; índice de masa corporal, normal (21,9 kg/m2); restos de líquido verde oscuro en orificios nasales, en el interior y alrededor de la boca; distensión abdominal; al abrir el abdomen, gran dilatación del estómago y el duodeno que ocupa la mayor parte de la cavidad abdominal visible, llegando hasta la pelvis menor ; las restantes vísceras abdominales quedan ocultas por el estómago, el cual se encuentra totalmente repleto de líquido verde oscuro (bilis y escasos restos hemáticos en forma de "posos de café"); las paredes del estómago están adelgazadas y con áreas de aspecto hemorrágico en la mucosa ; el estomago contiene 3,5 litros de líquido de coloración verde oscura; contenido gástrico en la vía aérea.
+El estudio histopatológico diagnosticó, en el estómago, congestión en los vasos de la lámina propia y autólisis del epitelio glandular ; en el encéfalo, placas inactivas de esclerosis múltiple ; y además aspiración broncoalveolar.
+El cribado toxicológico sólo detectó concentraciones subterapéuticas de metoclopramida, ibuprofeno y diazepam.
+Responsable clínico: Victoria Ramos Medina Instituto de Medicina Legal, Ciudad de la Justicia Fiscal Luis Portero, 6 29010 Málaga E-mail: valentin.ramos.ius@juntadeandalucia.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="37" text="Pratricia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="50" end="63" text="Martín RIvera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="70" end="77" text="1037856" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="85" end="99" text="37 89569705 33" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="112" end="142" text="Plaza de los molinos, 28, 4, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="166" end="172" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="178" end="183" text="29010" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="227" end="237" text="19/11/1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="259" end="265" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="273" end="280" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="287" end="288" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="308" end="318" text="07/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="328" end="349" text="Victoria Ramos Medina" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="357" end="368" text="29 29 55710" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="400" end="405" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="409" end="416" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="564" end="572" text="familiar" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="797" end="805" text="familiar" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T10" start="2161" end="2182" text="Victoria Ramos Medina" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2183" end="2210" text="Instituto de Medicina Legal" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="2212" end="2233" text="Ciudad de la Justicia" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T4" start="2234" end="2256" text="Fiscal Luis Portero, 6" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2257" end="2262" text="29010" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2263" end="2269" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2278" end="2316" text="valentin.ramos.ius@juntadeandalucia.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

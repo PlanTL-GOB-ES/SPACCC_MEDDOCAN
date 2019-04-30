@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Mateo.
+Apellidos: Reyna Montijo.
+NHC: 78467298/03.
+Domicilio: Colonia EMbajadores, #66 3257.
+Localidad/ Provincia: Monterrey. Nvo León.
+CP: 66260.
+Datos asistenciales.
+Fecha de nacimiento: 20/03/2015.
+País de nacimiento: México.
+Edad: 3 meses Sexo: H.
+Fecha de Ingreso: 04/07/2015.
+Médico: Laura Melloni Magnelli.
+Informe clínico del paciente: Varón de 3 meses de edad producto de quinta gesta, madre de 34 años de edad y padre de 39, no cosanguíneos. Antecedente de tía materna con epilepsia y de hermano mayor de 6 años con autismo. Embarazo normoevolutivo y nacimiento a termino mediante cesárea por presentación pélvica, sin complicaciones postnatales.
+Es referido a la consulta externa de Cirugía Plástica Pediátrica por presentar dificultad respiratoria nasal por obstrucción de la narina derecha por pólipo, así como masa intraoral pediculada en la encía superior entre 2 frenillos labiales. Normocéfalo, sin hipertelorismo, epifora del ojo derecho, paladar alto, úvula y paladar bien formados.
+La tomografía axial computarizada (TAC) de cráneo y macizo facial reveló agenesia de cuerpo calloso aunada a una imagen hipodensa en la línea interhemisférica a nivel de las astas frontales, correspondiente a un lipoma con bordes irregulares de 3,8 x 2,1 x 1,7 cm; espina bífida oculta a nivel de columna cervical y fisura central a nivel de la arcada del maxilar superior.
+El electroencefalograma estuvo dentro de los límites normales para la edad del paciene, sin evidencia de actividad paroxística ni de foco de lesión.
+Practicamos resección quirúrgica en huso tanto del pólipo nasal único (de forma irregular, lobulado que midió 0,9 x 0,7x 0,5 cm) como del pólipo intraoral (de 2 x 1 x 0,7 cm). El estudio anatomopatológico informó de pólipos escamosos queratinizados con presencia de anexos pilosebáceos y de tejido fibroadiposo, con escasas glándulas mucinosas sin componentes inmaduros o malignos.
+El seguimiento del paciente en consulta externa hasta la edad de 1 año y 8 meses en el momento de la publicación de este artículo, ha sido favorable y sin complicaciones. Neurológicamente, a pesar de presentar agenesia del cuerpo calloso, se mantiene alerta con desarrollo sicomotor acorde para su edad y sin crisis convulsivas. El estudio cromosómico fue masculino 46 XY con cariotipo normal.
+Responsable clínico: Dra. Laura Melloni Magnelli Hospital Ángeles Valle Oriente Frida Kahlo 180-317, San Pedro Valle Oricate, San Pedro Garza García CP 66260 Monterrey, Nuevo León, México e-mail: lmelloni@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T29" start="28" end="33" text="Mateo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T28" start="46" end="59" text="Reyna Montijo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T27" start="66" end="77" text="78467298/03" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T26" start="90" end="119" text="Colonia EMbajadores, #66 3257" TYPE="CALLE" comment=""/>
+    <LOCATION id="T25" start="143" end="152" text="Monterrey" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T24" start="154" end="162" text="Nvo León" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T23" start="168" end="173" text="66260" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T22" start="217" end="227" text="20/03/2015" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T20" start="249" end="255" text="México" TYPE="PAIS" comment=""/>
+    <AGE id="T19" start="263" end="270" text="3 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T18" start="277" end="278" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T21" start="298" end="308" text="04/07/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T17" start="318" end="340" text="Laura Melloni Magnelli" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T16" start="372" end="377" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T15" start="381" end="388" text="3 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T4" start="423" end="439" text="madre de 34 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T3" start="450" end="461" text="padre de 39" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="495" end="506" text="tía materna" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="526" end="549" text="hermano mayor de 6 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T14" start="2355" end="2377" text="Laura Melloni Magnelli" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T13" start="2378" end="2408" text="Hospital Ángeles Valle Oriente" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T12" start="2409" end="2428" text="Frida Kahlo 180-317" TYPE="CALLE" comment=""/>
+    <LOCATION id="T11" start="2430" end="2453" text="San Pedro Valle Oricate" TYPE="CALLE" comment=""/>
+    <LOCATION id="T10" start="2455" end="2477" text="San Pedro Garza García" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T9" start="2481" end="2486" text="66260" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T8" start="2487" end="2496" text="Monterrey" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T7" start="2498" end="2508" text="Nuevo León" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="2510" end="2516" text="México" TYPE="PAIS" comment=""/>
+    <CONTACT id="T5" start="2525" end="2545" text="lmelloni@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Emilio.
+Apellidos: Sanchez Maradiaga.
+NHC: 8456704.
+NASS: 34 98675816 01.
+Domicilio: C/ Tribunal, 18, 3B.
+Localidad/ Provincia: Madrid.
+CP: 28001.
+Datos asistenciales.
+Fecha de nacimiento: 03/10/1934.
+País de nacimiento: España.
+Edad: 82 años Sexo: H.
+Fecha de Ingreso: 04/03/2017.
+Médico: Patricia Hidalgo-Collazos NºCol: 28 28 57110.
+Informe clínico del paciente: Varón de 82 años de edad que acude al Servicio de Urgencias por: disnea, aumento de expectoración y somnolencia. Como antecedentes personales relevantes presenta: hipertensión arterial, diabetes mellitus, fibrilación auricular paroxística, síndrome Guillen-Barré y carcinoma epidermoide orofaríngeo T3N0M0 con Síndrome de Secreción Inadecuada de Hormona Antidiurética (SIADH) paraneoplásico asociado, pendiente de inicio de radioterapia radical. Su tratamiento habitual consta de ácido acetilsalicílico 100 mg, lorazepam 1 mg, silidosina 8 mg y omeprazol 20 mg, todos ellos en única toma diaria; (tolvaptan suspendido tras último ingreso).
+El paciente ingresa diagnosticado de neumonía bilo-bar por broncoaspiración asociada a hiponatremia hipoosmolar (sodio: 101 meq/L (rango normalidad (R.N.) 135-145 meq/L), Osmolalidad 210 mOsm/kg (R.N. 280-300 mOsm/kg). Presenta disfagia intensa y sangrado asociado a tumoración faríngea planificándose gastrostomía e iniciando nutrición parenteral por vía periférica, tratamiento antibiótico empírico con meropenem 1000 mg/8 h y reposición de natremia mediante sueroterapia (252 meq de sodio en 500 mL de suero salino fisiológico 0,9% cada 12 horas); posee función renal normal (MDRD-4 IDMS: > 60 ml/min/1,73m2).
+A su ingreso en Medicina Interna, se objetiva mejoría clínica y analítica (sodio: 130 meq/L), y el Servicio de Nefrología valora SIADH paraneoplásico con buena respuesta a reposición natrémica mediante sueroterapia que se suspende. Se reinicia tratamiento a dosis bajas de tolvaptan para evitar corrección en exceso (7,5 mg/24 h) y posteriormente se aumenta a dosis habitual de 15 mg/24 h. Presenta síndrome febril sin foco claro, iniciándose tratamiento empírico con cefepime 2000 mg/12 h, vancomicina 1000 mg/12 h y oseltamivir 75 mg/12 h. Se solicitan hemocultivos que resultan positivos para Streptococcus epidermidis meticilin-resistente, sensible a vancomicina (CMI = 2 mg/L), por lo que se mantiene el tratamiento antibiótico considerando bacteriemia por catéter, que se retira. Se realiza ecocardiograma transtorácico descartando endocarditis. Posteriormente los hemocultivos son negativos.
+Tres días después del inicio del tratamiento, se aumenta dosis de vancomicina a 1250 mg/12 h por persistencia de picos febriles, PCR: 9,6 mg/dL (R.N: 0,0-0,5 mg/dL) y procalcitonina: 4.01 mcg/L (R.N: 0,0-0,5 mcg/L). A los dos días se extraen nuevas concentraciones plasmáticas, siendo aún inferiores (8,4 μg/mL) (se valora la posibilidad de error en la extracción de la muestra o en la exactitud y precisión de la medida), por lo que se realiza estudio farmacocinético para la predicción de dosis mediante estimación bayesiana, utilizando el programa PKS® (Abbott Base Pharmacokinetic System, Abbott Diagnostics), calculando una t1/2 de 6.4 h y realizando un incremento de dosis a 1000 mg/8 h.
+Se añade metronidazol oral 500 mg/8 h al tratamiento debido a persistencia de diarrea por Clostridium difficile, y dos días después se objetiva empeoramiento de la función renal debido a pérdidas digestivas, provocando fallo pre-renal con hiponatremia (sodio: 115 meq/L), que preceden a la elevación de los niveles de creatinina hasta 2,46 mg/dL y elevación de concentraciones plasmáticas predosis de vancomicina hasta 43,1 μg/mL, por lo que se suspende tratamiento. Se desarrolla fallo renal agudo y se alcanzan valores de creatinina de 5,07 mg/dL en los días posteriores a la suspensión del tratamiento con vancomicina intravenosa. Nueve días después de la suspensión, su eliminación sigue siendo muy lenta, con una t1/2 de 132 h y alcanzándose una concentración plasmática de 25,5 μg/mL. No se alcanzan concentraciones por debajo del rango terapéutico hasta 15 días después de suspender el tratamiento antibiótico.
+El Servicio de Nefrología suspende nutrición enteral para evitar favorecer la diarrea, y realiza nueva corrección natrémica, mediante suspensión del tratamiento con tolvaptan, aumento de sueroterapia y forzado de diuresis (aproximadamente 3000 mL/día) para eliminar la vancomicina plasmática. Se administra vancomicina por gastrostomía, por persistencia de diarrea por Clostridium difficile a pesar de tratamiento con metronidazol oral. Posteriormente el paciente presenta hipertensión, con diuresis muy abundante y agua libre muy positiva produciendo situación de hipernatremia (sodio: 157 meq/L) a pesar de suspensión de tolvaptan, por ello se reducen sueros salinos para aumentar el agua libre. Además presenta acidosis metabólica que se corrige con bicarbonato, y alcalosis respiratoria realizándose radiografía de tórax por sospecha de derrame pleural izquierdo. Debido a persistencia de concentraciones plasmáticas elevadas de vancomicina e hipernatremia se reajusta sueroterapia y se añade desmopresina.
+Finalmente se consigue resolución de la bacteriemia asociada a Streptococcus epidermidis meticilin-resistente, fórmula hematológica normal y afebril tras resolución de la intoxicación por vancomicina, resolución paulatina del episodio de diarrea, recuperación de la función renal y natremia, reintroduciéndose dieta enteral por gastrostomía y terapia radioterápica (36 sesiones), suspendiéndose metronidazol y vancomicina oral.
+Responsable clínico: Dra. Patricia Hidalgo Collazos Correo electrónico: phidalgocollazos@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="34" text="Emilio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="47" end="64" text="Sanchez Maradiaga" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="71" end="78" text="8456704" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="86" end="100" text="34 98675816 01" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="113" end="132" text="C/ Tribunal, 18, 3B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="156" end="162" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="168" end="173" text="28001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="217" end="227" text="03/10/1934" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="263" end="270" text="82 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="277" end="278" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="298" end="308" text="04/03/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="318" end="343" text="Patricia Hidalgo-Collazos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="351" end="362" text="28 28 57110" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="394" end="399" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="403" end="410" text="82 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="5623" end="5648" text="Patricia Hidalgo Collazos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="5669" end="5695" text="phidalgocollazos@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

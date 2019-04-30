@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Emilio.
+Apellidos: Morelos Salgado.
+NHC: 9764132 3.
+Domicilio: Calle antracita 7, 4 Izq.
+Localidad/ Provincia: Madrid.
+CP: 15702.
+Datos asistenciales.
+Fecha de nacimiento: 23/01/1976.
+País: España.
+Edad: 45 años  Sexo: H.
+Fecha de Ingreso: 21/09/2016.
+Médico: María Soto Delgado  NºCol: 47 47 63250.
+Mujer obesa de 31 años, consumidora habitual de cocaína y pasta base. Inicia su enfermedad con cefalea y vómitos, secuencialmente dificultad motora de extremidades derechas y disartria, estado confusional y somnolencia invencible. Después de tres semanas de comenzada la enfermedad ingresa en coma reactivo, localizaba estímulos, afebril, sin signos meníngeos, isocórica con pupilas reactivas, hemiparesia derecha, reflejos osteotendíneos exaltados y Babinski. Fondo de ojo normal. Sin otros hallazgos en el examen general. TAC de cerebro con múltiples imágenes hipodensas en substancia blanca. Hemograma, líquido cefalorraquídeo, creatinina, glicemia, protrombina y electrolitos plasmáticos normales. Anticuerpos antinucleares y ANCA no reactivos, VIH negativo. Electroencefalograma muestra actividad lenta simétrica. Dos días después, presenta fiebre por neumonía confirmada radiológicamente. La RM de cerebro (FLAIR, T2), mostró imágenes hiperintensas bilaterales de la substancia blanca cerebral, cerebelo y tronco cerebral. Se inician bolos de 1 g de metilprednisolona. Se observa mayor reactividad, dos días después se aplica segundo bolo. Presenta crisis febril sobre 39°C, y cae en coma profundo. Fallece al día siguiente y se practica autopsia médico-legal.
+
+Correspondencia a: Luis Cartier Rovirosa Departamento de Ciencias Neurológicas, Facultad de Medicina, Universidad de Chile. lcartier@med.uchile.cl

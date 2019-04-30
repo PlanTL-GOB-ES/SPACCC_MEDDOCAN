@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sara.
+Apellidos: San Ramón Perez.
+NHC: 5472452.
+NASS:28 35478635 07.
+Domicilio: Calle Eduardo Videgaray, 66, 3, A.
+Localidad/ Provincia: Madrid.
+CP: 28015.
+Datos asistenciales.
+Fecha de nacimiento: 07/09/1957.
+País de nacimiento: España.
+Edad: 46 años Sexo: M.
+Fecha de Ingreso: 15/11/2003.
+Médico: José Crestanello Nese NºCol: 28 28 61971.
+Informe clínico del paciente: mujer blanca de 46 años de edad, consultó en febrero de 2000 por asimetría facial y dificultad para utilizar su prótesis inferior. Concurrió con un aumento de volumen parasinfisario izquierdo de 1 año de evolución, de crecimiento lento y que en los últimos meses se había estabilizado, y no recordaba antecedentes traumáticos en la zona. El examen bucal, reveló una paciente desdentada completa superior e inferior. En la zona anterior izquierda mandibular se apreció una masa que expandía la cortical vestibular y lingual, cubierta por mucosa sana en la que se observaban telangectasias. A la palpación, los límites eran netos, había crepitación de la cortical vestibular y perforación de la lingual. El examen neurológico objetivo y subjetivo, confirmó que no había compromiso del nervio alveolar inferior, signo de Vincent (-).
+En el examen por imágenes se observó una lesión radiolúcida con áreas radiopacas en su interior, unilocular de aproximadamente 6 cm en su diámetro mayor, con límites definidos y no corticalizados. La lesión se extendía desde aproximadamente la zona de premolares izquierdos hasta la zona incisiva derecha cruzando la línea media. Deformaba y adelgazaba la basal mandibular y desplazaba el conducto alveolar inferior.
+Se implementó el protocolo descrito anteriormente para el tratamiento de las LCG. Se realizaron dos series de corticoides intralesionales. La primer serie se realizó entre Marzo y Abril de 2000 y la 2ª serie comenzó en Septiembre de 2000, 5 meses después de la finalización de la 1ª serie.
+Quince meses después del inicio del tratamiento, en mayo de 2001, debido a que la lesión no había desaparecido y que las corticales óseas no permitían el paso de la aguja para intentar una nueva serie de infiltraciones se decidió realizar la enucleación quirúrgica. Bajo anestesia general y mediante un abordaje bucal se accedió a la lesión. Contrariamente a lo esperado no se encontró una lesión sangrante, friable correspondiente a las características macroscópicas de las LCG, sino que se halló un aumento de volumen óseo sin límites claros con la estructura ósea normal. Se realizó una remodelación quirúrgica de la lesión con fresas.
+Actualmente, la paciente se halla en cura clínica 39 meses después del inicio del tratamiento y 24 meses después de la remodelación quirúrgica, sin desviación de la línea media facial y con un reborde alveolar inferior apto para el uso de la prótesis.
+Responsable clínico: Dr. José Crestanello Nese. Email: jpcresta@adinet.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="32" text="Sara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="45" end="60" text="San Ramón Perez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="67" end="74" text="5472452" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="81" end="95" text="28 35478635 07" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="108" end="141" text="Calle Eduardo Videgaray, 66, 3, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="165" end="171" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="177" end="182" text="28015" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="226" end="236" text="07/09/1957" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="258" end="264" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="272" end="279" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="286" end="287" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="307" end="317" text="15/11/2003" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="327" end="348" text="José Crestanello Nese" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="356" end="367" text="28 28 61971" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="399" end="404" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T6" start="405" end="411" text="blanca" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="415" end="422" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T5" start="444" end="459" text="febrero de 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T4" start="1819" end="1840" text="Marzo y Abril de 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T3" start="1866" end="1884" text="Septiembre de 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T2" start="1989" end="2001" text="mayo de 2001" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="2853" end="2874" text="José Crestanello Nese" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2883" end="2902" text="jpcresta@adinet.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Mario.
+Apellidos: Lopez Muñoz.
+NHC: 7835602.
+NASS: 13 47635097 36.
+Domicilio: Calle Carlos Vázquez, 8, 2, 1.
+Localidad/ Provincia: Ciudad Real.
+CP: 13002.
+Datos asistenciales.
+Fecha de nacimiento: 25/09/1952.
+País de nacimiento: España.
+Edad: 60 años Sexo: H.
+Fecha de Ingreso: 11/12/2012.
+Servicio: Urgencias.
+Médico: Jorge Ortega Carnicer NºCol: 13 13 88998.
+Informe clínico del paciente: Varón de 60 años que acude al hospital por dolor precordial de dos horas de duración. El ECG reveló una corriente de lesión subepicárdica compatible con un IAM inferior, una depresión pronunciada del punto J junto a una D-ST descendente en las derivaciones V1-V2 y una D-ST horizontal en V3 a V5. Se administró tratamiento fibrinolítico con tenecteplasa y lidocaína por taquicardias ventriculares extrasistólicas. Una hora y media después el ECG, registrado sin dolor, reveló una onda J marcada en derivaciones V1-V2 y ausencia de desplazamiento del segmento ST. Un día después el ECG puso de manifiesto una inversión inferior de la onda T, una onda J en las derivaciones V1-V2 y una E-ST cóncava con ondas T positivas en las derivaciones V2 a V4. La creatinquinasa ascendió hasta 1.143 U/l (con una fracción MB de 102). Un ecocardiograma reveló una acinesia inferobasal. La evolución clínica hospitalaria no tuvo incidencias significativas. Cuatro años después del alta el ECG evidencia una onda J en las derivaciones inferiores y anteriores, y una E-ST cóncava con onda T positiva en las derivaciones V2 a V4 sugerente de un SRP.
+Responsable clínico: Dr. Jorge Ortega Carnicer. Los Alisos, 10. 13002 Ciudad Real. Correo electrónico: jortegacar@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="33" text="Mario" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="46" end="57" text="Lopez Muñoz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="64" end="71" text="7835602" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="79" end="93" text="13 47635097 36" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="106" end="135" text="Calle Carlos Vázquez, 8, 2, 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="159" end="170" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="176" end="181" text="13002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="225" end="235" text="25/09/1952" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="257" end="263" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="271" end="278" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="285" end="286" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="306" end="316" text="11/12/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="347" end="368" text="Jorge Ortega Carnicer" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="376" end="387" text="13 13 88998" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="419" end="424" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="428" end="435" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="1576" end="1597" text="Jorge Ortega Carnicer" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="1599" end="1613" text="Los Alisos, 10" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1615" end="1620" text="13002" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1621" end="1632" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1654" end="1674" text="jortegacar@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

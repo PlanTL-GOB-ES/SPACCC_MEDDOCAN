@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Guadalupe.
+Apellidos: Padilla Sotelo.
+NHC: 2386590.
+NASS: 45 67454632 10.
+Domicilio: Calle Medellin, 66, 1 A.
+Localidad/ Provincia: Valladolid.
+CP: 28850.
+Datos asistenciales.
+Fecha de nacimiento: 20/05/2000.
+País: España.
+Edad: 76 años  Sexo: M.
+Fecha de Ingreso: 01/03/2016.
+Servicio: Cirugía Plástica .
+Episodio: 786132456.
+Médico: Verónica Blanco Gil   NºCol: 45 45 19065.
+Paciente de sexo masculino con antecedente de transfusión sanguínea en 1972, en el contexto de sangrado por úlcera duodenal. Además, cáncer testicular a los 15 años y hemicolectomía izquierda por cáncer de colon a los 46 años. El año 1994, a los 51 años, se diagnosticó cirrosis, con estudio que mostró PCR positiva para VHC. Se realizó biopsia hepática que mostraba hepatitis crónica con fibrosis grado III, sin cirrosis. Recibió interferon con persistencia de PCR + de VHC. Evolucionó con complicaciones de la hipertensión portal, iniciando controles en nuestro centro en el 2007. Ese año se diagnosticó hepatocarcinoma que fue quimioembolizado. Se trasplantó en mayo de 2008. Post trasplante se inició inmunosupresión con prednisona y ciclosporina, adicionando micofenolato por falla renal. Se mantuvo con creatinina 1,4-1,5 mg/dl, pero 1 año y medio post trasplante tuvo alza hasta 1,9-2,0 mg/dl. En ese momento se suspendió ciclosporina y se agregó sirolimus. Presentó úlceras orales, suspendiéndose micofenolato. Por estudio de falla renal se solicitó PCR para VHC, la que resultó negativa. Se solicitó carga viral en 2 oportunidades, ambas negativas. Se interpretó como eliminación espontánea de VHC.
+
+Correspondencia a: Jaime Poniachik Teller Santos Dumont 999, Independencia, Santiago de Chile. Teléfono: 29788350 jaime_poniachik@yahoo.es

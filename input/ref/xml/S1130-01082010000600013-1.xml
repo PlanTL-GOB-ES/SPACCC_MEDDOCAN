@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Roberto.
+Apellidos: Ripoll Betanco.
+NHC: 96278.
+NASS: 14 75046789 03.
+Domicilio: C/ Juana de Vega, 7.
+Localidad/ Provincia:  A Coruña.
+CP: 15004.
+Datos asistenciales.
+Fecha de nacimiento: 03/01/1940.
+País: España.
+Edad: 74 años Sexo: M.
+Fecha de Ingreso: 15/11/2014.
+Médico: Eva Tizón Bouzo NºCol: 15 15 61893.
+Historia Actual:Varón de 74 años remitido a consulta de Aparato Digestivo por cuadro de 9 meses de evolución de intensa astenia, anorexia y aumento progresivo de la sudoración, con pérdida de 15 kg de peso, asociado a dolor abdominal difuso y distensión abdominal. 
+Antecedentes: cardiopatía isquémica en tratamiento con betabloqueantes, mononitrato de isosorbida, antiagregantes e inhibidores de bomba de protones. 
+Exploración y pruebas complementarias: Analíticamente se apreció anemia ferropénica. Se solicita entre otras pruebas diagnósticas colonoscopia con sedación.
+Se realiza una primera colonoscopia apreciándose desde recto hasta ciego infinidad de lesiones sesiles de aspecto polipoideo de entre 3-6 mm, más frecuentes en número en colon derecho y que a nivel de válvula ileocecal forman conglomerados, afectando también a íleon terminal. La anatomía patológica de biopsias a distintos niveles fue de colitis inespecífica con hiperplasia folicular linfoide e infiltrado eosinófilo que alcanza el 60% de células inflamatorias.
+Tras los resultados obtenidos y ante el empeoramiento clínico progresivo del enfermo se decide realizar gastroscopia y repetir colonoscopia para nueva toma de biopsias. Se observan múltiples lesiones polipoideas sesiles de diferentes tamaños (mayor 8-9 mm) en mucosa gástrica y duodenal, irregulares, abullonadas con vascularización marcada, algunas erosionadas en su cúspide, disminuyendo en número conforme se avanza hacia duodeno distal, confirmándose además las lesiones descritas en la colonoscopia previa. El resultado histopatológico de las biopsias gástricas, duodenales y de colon fue de denso infiltrado linfoide difuso en mucosa y submucosa con destrucción glandular y lesión linfoepitelial, con linfocitos de talla pequeña y hábito centrocitoide con positividad para CD 20, ciclina D1, y bcl-2 con un Ki-67 del 30% todo ello compatible con infiltración gástrica, de intestino delgado y colon por linfoma del manto.
+Evolución y comentarios: Tras los hallazgos endoscópicos el paciente es remitido al servicio de hematología donde se completan estudios, que confirman el diagnóstico definitivo de linfoma no Hodgkin del manto estadio IVB con afectación gástrica y de intestino delgado y grueso.
+Remitido por: Dra. Eva Tizón Bouzo. Complejo Hospitalario Universitario de Ferrol Avenida de la Residencia, s/n 15405 Ferrol (A Coruña) Tel.: 981 33 40 00 E-mail: eva.tizon.bouza@sergas.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="8" end="15" text="Roberto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="28" end="42" text="Ripoll Betanco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="49" end="54" text="96278" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="62" end="76" text="14 75046789 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="89" end="108" text="C/ Juana de Vega, 7" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="133" end="141" text="A Coruña" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="147" end="152" text="15004" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="196" end="206" text="03/01/1940" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="214" end="220" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="228" end="235" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="242" end="243" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="263" end="273" text="15/11/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="283" end="298" text="Eva Tizón Bouzo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="306" end="317" text="15 15 61893" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="335" end="340" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="344" end="351" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="2581" end="2596" text="Eva Tizón Bouzo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2598" end="2643" text="Complejo Hospitalario Universitario de Ferrol" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="2644" end="2673" text="Avenida de la Residencia, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2674" end="2679" text="15405" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2680" end="2686" text="Ferrol" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2688" end="2696" text="A Coruña" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2704" end="2716" text="981 33 40 00" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="2725" end="2750" text="eva.tizon.bouza@sergas.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

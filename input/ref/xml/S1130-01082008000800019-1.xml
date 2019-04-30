@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Cesar.
+Apellidos: Belmonte Justo.
+NHC: 7345684.
+NASS: 75 65097634 70.
+Domicilio: Ada. Nstra Señora de Montserrat, 6, 2, A.
+Localidad/ Provincia: Barcelona.
+CP: 08916.
+Datos asistenciales.
+Fecha de nacimiento: 26/05/1968.
+País de nacimiento: España.
+Edad: 46 años Sexo: H.
+Fecha de Ingreso: 06/04/2015.
+Servicio: Urgencias.
+Episodio: 4189356.
+Médico: Montserrat Arzoz Fàbregas NºCol: 08 08 57410.
+Historia Actual: Varón de 46 años, con antecedente de síndrome de Down y retraso mental grave, que acudió a urgencias de nuestro hospital por presentar dolor abdominal difuso y distensión abdominal progresiva de 24 horas de evolución. Presentaba una historia de estreñimiento y ausencia de deposiciones en los últimos 2 días. 
+Antecedentes: Como antecedente de interés, el paciente había presentado, 13 años antes, un vólvulo gástrico que fue intervenido de urgencia, realizándose una gastropexia quirúrgica. Durante el acto operatorio se evidenció un dolicocolon, con ausencia de ligamentos de fijación, pero no se realizó ningún procedimiento sobre el mismo.
+Exploración física: En la exploración física actual, únicamente destacaba la distensión y timpanismo abdominales, acompañados de dolor abdominal difuso. El tacto rectal no consiguió demostrar heces en ampolla rectal.
+Pruebas complementarias: El hemograma y la bioquímica fueron normales. La radiografía simple de abdomen demostró una dilatación masiva del colon proximal. Dicha distensión también pudo apreciarse en la tomografía computerizada (TC). El enema de bario realizado posteriormente demostró la típica imagen en "pico de pájaro". Aunque con dificultad, el bario pasaba hacia el segmento dilatado del ángulo esplénico. Se realizó una colonoscopia terapéutica, con la que se consiguió desvolvular el segmento colónico.
+Evolución: El paciente eliminó una gran cantidad de heces y gases, permaneciendo asintomático a las 24-48 horas, por lo que recibió el alta hospitalaria, siendo remitido al servicio de cirugía. Dos días más tarde, reaparecieron los síntomas y fue diagnosticado de recidiva de vólvulo del ángulo esplénico del colon. Se repitió la colonoscopia, resolviéndose nuevamente el proceso urgente. El paciente se sometió a intervención quirúrgica programada, realizándose resección del segmento redundante del colon. El postoperatorio transcurrió sin incidencias.
+Responsable clínico: Dra. Montserrat Arzoz Fàbregas Servicio de Urología. Hospital Universitari Germans Trias i Pujol. Badalona. Ctra. del Canyet, s/n - 08916 Badalona (Barcelona) Tel.: 934 651 200 E-mail autor: 37031maf@comb.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T27" start="28" end="33" text="Cesar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T26" start="46" end="60" text="Belmonte Justo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="67" end="74" text="7345684" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="82" end="96" text="75 65097634 70" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T23" start="109" end="149" text="Ada. Nstra Señora de Montserrat, 6, 2, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T22" start="173" end="182" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="188" end="193" text="08916" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T20" start="237" end="247" text="26/05/1968" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="269" end="275" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="283" end="290" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="297" end="298" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T19" start="318" end="328" text="06/04/2015" TYPE="FECHAS" comment=""/>
+    <ID id="T11" start="361" end="368" text="4189356" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T13" start="378" end="403" text="Montserrat Arzoz Fàbregas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="411" end="422" text="08 08 57410" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T14" start="441" end="446" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T16" start="450" end="457" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="478" end="494" text="síndrome de Down" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T12" start="2393" end="2418" text="Montserrat Arzoz Fàbregas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="2441" end="2484" text="Hospital Universitari Germans Trias i Pujol" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="2486" end="2494" text="Badalona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="2496" end="2517" text="Ctra. del Canyet, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2520" end="2525" text="08916" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2526" end="2534" text="Badalona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2536" end="2545" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2553" end="2564" text="934 651 200" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="2579" end="2595" text="37031maf@comb.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

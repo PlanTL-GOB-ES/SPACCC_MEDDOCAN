@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Borja.
+Apellidos: Mendienta Sanabria.
+NHC: 327485.
+NASS: 78 34560871 46.
+Domicilio: Calle de Josefa Valcárcel, 8.
+Localidad/ Provincia: Pamplona.
+CP: 46006.
+Datos asistenciales.
+Fecha de nacimiento: 14/02/1938.
+País de nacimiento: España.
+Edad: 46 años  Sexo: M.
+Fecha de Ingreso: 14/06/2012.
+Médico: Pablo Cardinal Moraña   NºCol: 28 47 58930.
+Joven de 14 años que refiere historia antigua de cirugías por hipospadias peneano desde el año de edad a la que siguió estenosis uretral y uretroplastia tipo Denis Brown con fístula postoperatoria persistente que debe ser reparada quirúrgicamente, a la que sigue reestenosis que se trata con dilataciones periódicas con mal resultado. Llega a nosotros con estenosis de uretra distal, divertículo sacciforme de uretra peneana habitado por pequeñas litiasis que al exprimir da paso a orina purulenta. Dada la complejidad se decide el tratamiento en varios tiempos con puesta a plano inicial de toda la uretra anterior, posterior reconstrucción uretral y enterramiento en escroto y, finalmente, liberación peneana. A los 20 años de este último tiempo el paciente no ha presentado recidiva del divertículo.
+
+Dirección para correspondencia: Juan José Ballesteros Sampol Bori y Fontestá, 43. 8º - 2ª 08017 Barcelona. (España). jballesteros@imas.imim.es

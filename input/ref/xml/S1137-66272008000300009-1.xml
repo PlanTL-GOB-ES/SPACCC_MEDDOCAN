@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Sofia.
+Apellidos: Guijarro Rivera.
+NHC: 257892.
+NASS: 47 81452346 09.
+Domicilio: Calle Taconera, 1.
+Localidad/ Provincia: Pamplona.
+CP: 31001.
+Datos asistenciales.
+Fecha de nacimiento: 12/11/1978.
+País: España.
+Edad: 39 años Sexo: M.
+Fecha de Ingreso: 26/05/2018.
+Servicio: Medicina Interna.
+Episodio: 7835770.
+Médico: Catalina Isabel González Rodríguez NºCol: 31 28 90616.
+Historia Actual: Mujer de 39 años, acude a urgencias por dolor abdominal cólico junto con distensión abdominal y varias deposiciones líquidas de 48 horas de evolución. La paciente refiere dos episodios similares en el último año, que se resolvieron espontáneamente en unas horas, sin otra sintomatología acompañante. 
+Antecedentes: bocio difuso normofuncionante, mioma uterino calcificado, periodos menstruales normales, un embarazo sin incidencias y con parto por vía vaginal
+Exploración física: En la exploración física presentaba buen estado general, con estabilidad hemodinámica, abdomen sin cicatrices, distendido y timpanizado, doloroso a la palpación en hemiabdomen derecho, sobre todo en cuadrante inferior derecho, sin signos de irritación peritoneal y sin palparse masas ni visceromegalias, peristaltismo disminuido. 
+Resumen de pruebas complementarias: En la analítica solicitada presentaba discreta leucocitosis con predominio granulocítico y PCR 3,7mg/ dl, siendo el resto de la analítica (glucosa, iones, función renal, enzimas hepáticos, amilasa, sistemático de orina...) normal. En las RX abdominales que se le realizaron se aprecia dilatación de asas del intestino delgado (ID), con niveles hidroaéreos y ausencia de gas en colon y ampolla rectal, calcificaciones uterinas sugestivas de mioma. En la ecografía abdominal se observa abundante gas e hiperperistaltismo en ID y mínima cantidad de líquido libre entre las asas intestinales. En la TAC abdominal se evidencia una marcada dilatación de asas de ID que respeta ileon terminal, apreciándose en ileon preterminal, a nivel de FID, cambio del calibre, colon no dilatado con opacificación con el contraste oral, acumulación de líquido libre a nivel del saco de Douglas, útero miomatoso con calcificaciones grumosas.
+Evolución y comentarios: Inicialmente se aplica tratamiento conservador con sonda nasogástrica, fluidoterapia y analgesia, sin evidenciarse mejoría clínica ni radiológica en las horas siguientes, por lo que se decide intervención quirúrgica. El abordaje se realizó a través de laparotomía media infraumbilical, objetivándose moderada cantidad de líquido libre seroso, dilatación de asas de ID y engrosamiento estenosante en ileon terminal, a unos 10 cm de válvula ileocecal, de aspecto tumoral, con retracción de la superficie serosa y adenopatías mesentéricas. En la exploración pélvica destaca útero miomatoso. Se realizó resección ileocecal y anastomosis látero-lateral mecánica, así como drenaje del líquido del fondo de saco de Douglas. Se remiten muestras a Anatomía Patológica para estudio histológico, informándose de que a nivel de ileon terminal y ciego se observan abundantes adherencias y fibrosis en la pared. En profundidad se objetivan islotes y nidos de epitelio glandular de tipo endometrioide así como estroma endometrial. Focalmente se observa un aumento del infiltrado inflamatorio y fibrosis. La pared intestinal muestra hipertrofia de las capas musculares, ganglios linfáticos sin lesión histológica evidente. Con el diagnóstico de endometriosis ileocecal, y tras un curso postoperatorio favorable y sin complicaciones, se remite a la paciente a consultas de Ginecología y Obstetricia para valorar inicio de tratamiento con análogos de la hormona liberadora de gonadotropinas y seguimiento evolutivo.
+Remitido por: Catalina Isabel González Rodríguez. Servicio de Medicina Interna Hospital García Orcoyen Santa Soria, 22 31200 Estella e-mail: katybelgo@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="14" text="Sofia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="27" end="42" text="Guijarro Rivera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="49" end="55" text="257892" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="63" end="77" text="47 81452346 09" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="90" end="107" text="Calle Taconera, 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="131" end="139" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="145" end="150" text="31001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="194" end="204" text="12/11/1978" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="212" end="218" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="226" end="233" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="240" end="241" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="261" end="271" text="26/05/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T7" start="311" end="318" text="7835770" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T9" start="328" end="362" text="Catalina Isabel González Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="370" end="381" text="31 28 90616" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="400" end="405" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="409" end="416" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3705" end="3739" text="Catalina Isabel González Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3770" end="3793" text="Hospital García Orcoyen" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3794" end="3809" text="Santa Soria, 22" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3810" end="3815" text="31200" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3816" end="3823" text="Estella" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3832" end="3850" text="katybelgo@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

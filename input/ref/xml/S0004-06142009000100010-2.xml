@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Miriam .
+Apellidos: Aguilar Mora.
+CIPA: nhc-7984385.
+NASS: 36 73914652 36.
+Domicilio: Paseo Echegaray y Caballero 100, 3,1.
+Localidad/ Provincia: Zaragoza.
+CP: 50001.
+NHC:7984385.
+Datos asistenciales.
+Fecha de nacimiento: 15/01/1974.
+País: España.
+Edad: 43 Sexo: M.
+Fecha de Ingreso: 12/05/2017.
+Especialidad: Hematología.
+Médico: Jorge Subirá Ríos NºCol: 50 50 53214.
+Motivo de ingreso: leucocitosis aislada.
+Antecedentes: histerectomizada y ooferectomizada derecha por endometriosis.
+Historia Actual: Mujer de 43 años de edad, ama de casa, alérgica al contraste yodado y fumadora de 1 paquete diario de cigarrillos, se encuentra en estudio por el Servicio de Hematología por leucocitosis aislada; En el interrogatorio refiere un ingreso de 27 días de duración, cuando tenía 12 años, en otro hospital por dolor lumbar con hematuria sin conocer su diagnóstico. También refiere ocasionales dolores lumbares de tipo mecánico con astenia moderada.
+Exploración física: sin hallazgos
+Resumen de pruebas complementarias: se le realizó ecografía abdominal hallando un riñón izquierdo desestructurado con imágenes quísticas o hidronefrosis.
+hemograma con ligera leucocitosis sin desviación de fórmula leucocitaria siendo el resto normal, bioquímica y coagulación normales.
+Renograma MAG-3-Tc-99m: riñón derecho normal. Captación heterogénea en riñón izquierdo con dilatación calicilar superior, retención en polo superior izquierdo presentando un enlentecimiento excretor de la curva cuya actividad desaparece en imágenes tardías.
+TC sin contraste: masa quística renal polar superior izquierda de aproximadamente 12 cm. de diámetro máximo desplazando páncreas y bazo. Internamente constituida por múltiples quistes de diferentes tamaños y presenta tabiques internos heterogéneos, alguno de ellos grueso e irregular sugestivo de nefroma quístico multinodular o carcinoma de células renales quístico.
+Se decide realizar nefrectomía con linfadenectomía izquierda. En el estudio anatomopatológico de la pieza se informa como riñón que presenta tumoración de 9x10 cm. multiquística que ocupa la mayor parte del riñón. El contenido del quiste es ambarino sin presencia de partes sólidas ni adherencia del tumor en la cápsula. Las cavidades están revestidas de un epitelio simple con presencia de frecuentes células con morfología en "tachuela". El estroma intercelular es fibroso. Lesión bien delimitada del parénquima renal conservado. Diagnóstico anatomopatológico de tumor quístico multilocular benigno de riñón.
+Remitido por: Jorge Subirá Ríos. Calle San Francisco 7, 3D 50006 Zaragoza. (España). kokedoc@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="9" end="15" text="Miriam" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="29" end="41" text="Aguilar Mora" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="53" end="60" text="7984385" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="68" end="82" text="36 73914652 36" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="95" end="131" text="Paseo Echegaray y Caballero 100, 3,1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="155" end="163" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="169" end="174" text="50001" TYPE="TERRITORIO" comment=""/>
+    <ID id="T18" start="180" end="187" text="7984385" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="231" end="241" text="15/01/1974" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="263" end="265" text="43" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="272" end="273" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="293" end="303" text="12/05/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="340" end="357" text="Jorge Subirá Ríos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="365" end="376" text="50 50 53214" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="512" end="517" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="521" end="528" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <PROFESSION id="T1" start="538" end="549" text="ama de casa" TYPE="PROFESION" comment=""/>
+    <AGE id="T8" start="785" end="792" text="12 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2525" end="2542" text="Jorge Subirá Ríos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2544" end="2569" text="Calle San Francisco 7, 3D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2570" end="2575" text="50006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2576" end="2584" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2587" end="2593" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="2596" end="2615" text="kokedoc@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

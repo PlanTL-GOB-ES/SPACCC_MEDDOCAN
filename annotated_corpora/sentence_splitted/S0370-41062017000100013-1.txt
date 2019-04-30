@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Yana.
+Apellidos: Caballero Diaz.
+NHC: 6728965.
+NASS: 27 45673560 31.
+Domicilio: C/ Cruz del Rayo, 16, 1 C.
+Localidad/ Provincia: Zaragoza.
+CP: 37007.
+Datos asistenciales.
+Fecha de nacimiento: 29/05/1951.
+País de nacimiento: España.
+Edad: 25 años  Sexo: M.
+Fecha de Ingreso: 14/06/2017.
+Médico: Carlos García Ballesta   NºCol: 15 15 79436.
+Lactante de un año 8 meses, de sexo femenino, con historia de cuadros respiratorios a repetición asociados a mal incremento pondoestatural desde los 6 meses de vida, disminución progresiva en la velocidad de crecimiento (T/E: 0,5 a –0,4 desviación estándar [DS]) y caída en la relación peso/talla (P/T: –0,8 a –2 DS), con examen físico normal. Por tal motivo se solicitó estudio con hemograma, VHS, perfil bioquímico, test de sudor, perfil hepático y examen de orina, todos los cuales resultaron normales. Un hallazgo que llamó la atención fue una elevación plasmática de las FA (1512 UI/l) ; para completar el estudio al mes se repitieron exámenes que descartaron enfermedad ósea y hepática, destacando la normalización de los niveles plasmáticos de FA a 343 UI/l. Durante el primer año de seguimiento la paciente presentó una evolución clínica favorable con recuperación de la curva pondoestatural y disminución de los cuadros respiratorios.
+Dirección para correspondencia Fernando Marcos Sánchez C/ Gregorio Corrochano, 1 45600 Talavera de la Reina. Toledo.

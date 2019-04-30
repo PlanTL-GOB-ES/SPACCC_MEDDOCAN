@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Carla.
+Apellidos: Jarquin Rivas.
+NHC: 4879563.
+NASS: 72 36470814 15.
+Domicilio: C/ Ontiveros, 19, 4 D.
+Localidad/ Provincia: Madrid.
+CP: 28019.
+Datos asistenciales.
+Fecha de nacimiento: 03/11/1981.
+País de nacimiento: España.
+Edad: 28 años Sexo: M.
+Fecha de Ingreso:17/07/2010 .
+Médico: Natalia del Valle González  NºCol: 28 28 65589.
+Informe clínico del paciente: Paciente varón, de 28 años de edad, visto en consulta de urología por presentar varicocele izquierdo. En el estudio de dicha patología se descubrió una gran masa dependiente de riñón izquierdo, que desplazaba las estructuras abdominales; se observaron la vena renal izquierda y cava desplazadas, pero permeables. Clínicamente, el paciente refería dolor abdominal, astenia y pérdida de peso. No presentaba hematuria ni síndrome miccional. A la exploración física, se palpaba una gran masa abdominal.
+Las pruebas de laboratorio (análisis sistemático de sangre, bioquímica de sangre y de orina, coagulación) estuvieron dentro de la normalidad.
+La ecografía testicular confirmó un importante varicocele izquierdo; la ecografía abdominal, la resonancia magnética y la tomografía computarizada (TC) toracoabdominal demostraron una masa en el riñón izquierdo, de 25 × 20 ×14 cm de diámetro máximo, que comprimía y desplazaba estructuras abdominales, así como a la vena renal y cava. El resto de la exploración fue normal (T2N0).
+Se completó el estudio con una gammagrafía ósea (negativa para metástasis óseas), una punción-aspiración con aguja fina (células atípicas sospechosas de malignidad) y una arteriografía donde se observó desplazamiento y rotación de la aorta abdominal.
+A la vista de los resultados del estudio, se decidió hacer una nefrectomía radical; la intervención transcurrió sin incidencias y el postoperatorio fue favorable; se dio de alta al paciente a los 7 días después de la cirugía. El informe de anatomía patológica describió macroscópicamente una gran masa tumoral encapsulada de 4.960 g, que medía 27 ×23 ×15 cm, donde no se reconoció riñón. La descripción microscópica confirmó el diagnóstico de sarcoma fibromixoide renal.
+Evolución posterior
+Seguido en la consulta ambulatoria por los servicios de urología y oncología (que decide no dar tratamiento complementario), el paciente se encuentra muy bien y todas las exploraciones complementarias realizadas 9 meses después de la intervención (analíticas sangre y orina, TC toracoabdominal) son normales. Tres meses más tarde se detectó en la TC toracoabdominal una recidiva local extensa, una masa en celda renal izquierda con extensión local (aproximadamente, 20 cm) que afectaba al bazo y al páncreas que desplaza pero no parece infiltrar.
+Se decidió tratamiento con cirugía de gran tumoración multiloculada que infiltraba bazo, la cola de páncreas, la curvatura mayor gástrica y el diafragma izquierdo. Se practicó una resección de la tumoración, incluyendo el diafragma afectado, una gastrectomía vertical hasta el ángulo de His, una esplenectomía con resección de la cola del páncreas y una colectomía del ángulo esplénico.
+El informe de anatomía patología confirmó que se trataba de una recidiva abdominal y retroperitoneal de sarcoma de alto grado, compatible con fibrosarcoma, adherido a la pared gástrica, el bazo y el páncreas.
+Se completó el tratamiento con quimioterapia (6 ciclos-adriamicina/ifosfamida/mesna) y radioterapia, que presentó buena tolerancia y respuesta (TC de control dentro de la normalidad).
+Pasados cuatro meses, presentó una nueva recidiva objetivada en la TC abdominal, por lo que recibió tratamiento quimioterápico y 8 meses después el paciente falleció.
+Responsable clínico: Natalia del Valle González Correo electrónico: ndelvallegon@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="33" text="Carla" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="46" end="59" text="Jarquin Rivas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="66" end="73" text="4879563" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="81" end="95" text="72 36470814 15" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="108" end="129" text="C/ Ontiveros, 19, 4 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="153" end="159" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="165" end="170" text="28019" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="214" end="224" text="03/11/1981" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="246" end="252" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="260" end="267" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="274" end="275" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="294" end="304" text="17/07/2010" TYPE="FECHAS" comment=""/>
+    <NAME id="T1" start="315" end="341" text="Natalia del Valle González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="350" end="361" text="28 28 65589" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="402" end="407" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T4" start="412" end="419" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="3672" end="3698" text="Natalia del Valle González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T2" start="3719" end="3740" text="ndelvallegon@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

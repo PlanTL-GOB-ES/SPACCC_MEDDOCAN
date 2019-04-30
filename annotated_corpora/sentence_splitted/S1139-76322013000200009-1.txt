@@ -1,0 +1,15 @@
+Datos del paciente.
+Nombre: Lucia.
+Apellidos: Paz Vega.
+NHC: 3173568.
+Domicilio: Calle Rivadavia, 32, 5 A.
+Localidad/ Provincia: Madrid.
+CP: 28035.
+Datos asistenciales.
+Fecha de nacimiento:30/04/2001.
+País: España.
+Edad: 11 años Sexo: M.
+Fecha de Ingreso: 14/06/2012.
+Médico: Estefanía García Camiño NºCol: 28 28 36250.
+Informe clínico del paciente: Niña de 11 años sin antecedentes familiares ni personales de interés, que acude de urgencia al centro de salud refiriendo presentar, desde la noche anterior, sensación de movimiento de objetos a su alrededor, con temor y ansiedad. La exploración física es normal; otoscopia sin alteraciones. Tensión arterial y glucemia normales. Llama la atención la ausencia de componente vegetativo, inestabilidad, palidez ni otra sintomatología como acúfenos o tinnitus. No se encuentra focalidad neurológica, alteraciones del equilibrio ni de la marcha, ataxia ni otros signos cerebelosos. La paciente tenía el antecedente de una toma de Romilar® (dextrometorfano) la noche anterior y una historia familiar positiva. Con estos datos y una exploración física normal, se la envió en observación a su casa, citándola a la mañana siguiente en la consulta.
+Remitido por: Estefanía García Camiño. estefania.gcamino@gmail.com

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Rebeca.
+Apellidos: Pose Diaz.
+NHC: 54687.
+NASS: 84 93567546 08.
+Domicilio: calle monforte de lemos 141, 7B.
+Localidad/ Provincia: Madrid.
+CP:28028.
+Datos asistenciales.
+Fecha de nacimiento: 10/05/1978.
+País: España.
+Edad: 40 años Sexo: M.
+Fecha de Ingreso: 17/05/2018.
+Servicio: Oftalmología.
+Médico: Roberto Gallego  Pinazo NºCol: 28 28 74965.
+Historia Actual: Mujer de 40 años remitida a nuestro servicio por persistencia durante unos ocho meses de un cuadro de blefaritis anterior de aspecto indolente con aparición de un nódulo indurado en párpado superior derecho filiado como "chalazion refractario a inyección de triamcinolona", asociado a adenopatía preauricular ipsilateral. Se practicó una biopsia del nódulo palpebral que se informó tras el análisis histopatológico como carcinoma sebáceo.
+Se procedió entonces a la exéresis completa del párpado superior derecho incluyendo el tarso, y a la reconstrucción con un injerto libre de mucosa palatina y recubrimiento del mismo mediante un colgajo frontal glabelar pediculado. Se descartó la afectación de los bordes en la pieza quirúrgica resecada. Paralelamente se practicó un vaciamiento cervical radical por la presencia de adenopatías de aspecto necrótico en diversos territorios linfáticos. En el mismo acto quirúrgico se biopsió la conjuntiva en los cuatro cuadrantes además del párpado inferior. El estudio anatomopatológico no mostró infiltración conjuntival, pero sí cambios tumorales en el párpado inferior, por lo que se trató mediante braquiterapia con un total de 94 sesiones con el isótopo iridio 192 y dosis de 0,67 Gy por cada sesión (dosis total de 63,8 Gy). Asimismo, se asoció radioterapia externa sobre la región cervical a fin de completar el tratamiento quirúrgico practicado sobre ella.
+Remitido por: Roberto Gallego  Pinazo Correo electrónico: robertogallego@comv.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="9" end="15" text="Rebeca" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="28" end="37" text="Pose Diaz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="44" end="49" text="54687" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="57" end="71" text="84 93567546 08" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="84" end="115" text="calle monforte de lemos 141, 7B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="139" end="145" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="150" end="155" text="28028" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="199" end="209" text="10/05/1978" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="217" end="223" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="231" end="238" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="245" end="246" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="266" end="276" text="17/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="310" end="333" text="Roberto Gallego  Pinazo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="341" end="352" text="28 28 74965" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T3" start="371" end="376" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T4" start="380" end="387" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="1789" end="1812" text="Roberto Gallego  Pinazo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1833" end="1855" text="robertogallego@comv.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

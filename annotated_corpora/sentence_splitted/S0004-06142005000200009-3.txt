@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Leyre .
+Apellidos: Tarrega Olivas.
+NHC: 206526.
+NASS: 23 47874560 11.
+Domicilio: Av. San Bernardo, 11, 1, 3.
+Localidad/ Provincia: Barcelona.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 14/05/1973.
+País de nacimiento: España.
+Edad: 49 años  Sexo: H.
+Fecha de Ingreso: 19/06/2017.
+Servicio: Urologia.
+Episodio: 04735665.
+Médico: Aritz Bidaguren Urbieta  NºCol: 28 28 35489.
+Paciente de 69 a. de edad con un PSA en el momento de la consulta de 22 ng/ml. El paciente tenía una biopsia previa por sextantes negativa. Se practicó una E-RME que mostró inicialmente un nódulo situado en la base prostática del lóbulo izquierdo, morfológicamente sugestivo de hiperplasia nodular, pero el estudio espectroscópico mostró una alteración metabólica de este nódulo, con una importante elevación de la colina y una disminución del citrato, sugerente de neoplasia.
+
+Dirección para correspondencia: Juan Manuel Ruiz Ruiz. Unidad Clíncia de Gestión de Aparato Digestivo. Hospital Regional Universitario Carlos Haya. Avda. Carlos Haya, s/n. Málaga. España. E-mail: jruizrdos@hotmail.com

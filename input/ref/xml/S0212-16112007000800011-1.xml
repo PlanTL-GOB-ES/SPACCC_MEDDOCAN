@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Andrés.
+Apellidos:Ferrio Martin.
+NHC: 7841394.
+NASS: 36 94257541 44.
+Domicilio: Rúa da Senra, 7 .
+Localidad/ Provincia: Santiago de Compostela.
+CP:15702.
+Datos asistenciales.
+Fecha de nacimiento: 23/10/1972.
+País: España.
+Edad: 44 años Sexo: H.
+Fecha de Ingreso: 15/06/2017.
+Servicio: Endocrinologia.
+Médico: Emma Camarero González NºCol: 15 15 79436.
+Motivo de ingreso: dolor abdominal y diarrea de una semana de evolución.
+Historia Actual: Varón de 44 años con enfermedad de Crohn diagnosticado 15 años antes, que ingresa en el servicio de Cirugía General por un cuadro de dolor abdominal y diarrea de una semana de evolución, compatible con un brote de su enfermedad. 
+Durante el ingreso actual desarrolla una infección perianal polimicrobiana resistente al tratamiento médico con antibióticos, por lo que es sometido a una intervención quirúrgica en la que se le realiza una amputación abdominoperineal, resecándole el recto. 
+Antecedentes: En tratamiento domiciliario con corticoides y mesalazina, el paciente es portador de una ileostomía desde hace 2 años tras realizarle una colectomía subtotal, con muñón rectal cerrado a raíz de un brote de su enfermedad. Previamente se le habían realizado varias operaciones resectivas como la extirpación de los últimos 40 centímetros de íleon, válvula ileocecal y ciego, tras una perforación ileocecal, así como otras intervenciones por fístula anal con absceso en glúteo, para su drenaje correspondiente. 
+Exploración física: A la exploración el paciente pesa 55,1 kg, y talla 172 centímetros (IMC 18,63 kg/m2). Refiere una pérdida de 7 kg de peso en los últimos 6 meses lo que supone un índice de adelgazamiento/tiempo de 15,23%, que implica una desnutrición de grado severo. En la exploración se objetiva una deshidratación cutáneo-mucosa leve y una disminución moderada de masa grasa y muscular, que posteriormente se diagnosticó como malnutrición energético-proteica mixta de grado moderado, según los parámetros antropométricos y bioquímicos de la valoración nutricional clásica. El resto de la exploración física era normal, no presentando signos clínicos de hipocalcemia ni hipomagnesemia como el signo de Trosseau, signo de Chovstek, espasmos musculares, temblor ni hiporreflexia tendinosa.
+Evolución y comentarios: La evolución en el postoperatorio transcurre sin complicaciones hasta que en el décimo día sufre una convulsión tónico-clónica generalizada de 3 minutos de duración, sin incontinencia de esfínteres. Le es realizada una bioquímica general en la que destaca un calcio corregido por la albúmina de 8,42 mg/dl (rn: 8,7-10,6), K 2,6 mg/dl (rn: 3,6-4,9), albúmina 2.5 mg/dl (rn 4-5,2), glucosa y sodio dentro de los valores de referencia. Posteriormente se le realiza un TAC craneal en el que no se aprecian anormalidades. Presenta un electrocardiograma del día del ingreso con un ritmo sinusal normal a 79 lpm, sin alargamiento del espacio QT ni PR. A los dos días presenta de nuevo una convulsión tónico-clónica, generalizada de un minuto de duración. Tras ser valorado por el Servicio de Neurología se le realiza un electroencefalograma que resulta ser un trazado sin hallazgos patológicos y se inicia tratamiento con carbamacepina. Ante la persistencia de las convulsiones de las mismas características a pesar del tratamiento médico, se le realiza un registro electroencefalográfico de 24 horas de duración en el que no se evidencian alteraciones. Dado que el paciente presenta datos de deshidratación y desnutrición, así como disminución de la ingesta y astenia, realizan una interconsulta a la Unidad de Nutrición, para valoración de soporte nutricional en caso necesario.
+En el interrogatorio dirigido, refiere parestesias en miembros inferiores que últimamente percibe más como prurito intenso, sin otra sintomatología. Asimismo, refiere que ha presentado 3 episodios convulsivos de características similares a los actuales desde hace 5 meses, sin repercusión clínica posterior, consultando en una ocasión en el Servicio de Urgencias, donde al ser el primer episodio convulsivo, no fue pautado tratamiento antiepiléptico.
+Al realizarle la historia dietética de los meses previos al ingreso se vio que había presentado una ingesta calórica insuficiente para sus necesidades y que además era deficitaria en determinados grupos de alimentos como lácteos, frutas, verduras y carnes rojas.
+Ante la existencia de deshidratación con balances hídricos negativos debido a un elevado débito de la ileostomía, y cifras bajas de electrolitos en sangre se inicia tratamiento monitorizado por vía parenteral, para reposición de volumen, electrolitos, y otros micronutrientes, entre ellos fósforo y magnesio. Previamente se realizó una extracción de sangre para la determinación de dichos micronutrientes ante la sospecha de un posible déficit. Ese mismo día el paciente sufre una convulsión similar a las previas. En la analítica realizada presenta un magnesio de 0,76 mg/dl (rn: 2,40-5,40) con un fósforo, calcio, potasio y sodio dentro de los valores de referencia. Se pauta una perfusión con altas dosis de sulfato de magnesio con la progresiva normalización de sus niveles en sangre, siendo suficiente para el tratamiento de mantenimiento el aporte de lactato de magnesio en altas dosis por vía oral, como tratamiento de mantenimiento. Tras estabilizar las cifras con aporte vía oral, se le retira la medicación antiepiléptica, no apareciendo más episodios de convulsiones.
+Remitido por: Emma Camarero González. Servicio de Endocrinología y Nutrición. Hospital Clínico Universitario de Santiago. C/ Choupana, s/n. 15706 Santiago de Compostela. E-mail: emm.camarero.gonzalez@sergas.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="15" text="Andrés" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="27" end="40" text="Ferrio Martin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="47" end="54" text="7841394" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="62" end="76" text="36 94257541 44" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="89" end="104" text="Rúa da Senra, 7" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="129" end="151" text="Santiago de Compostela" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="156" end="161" text="15702" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="205" end="215" text="23/10/1972" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="223" end="229" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="237" end="244" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="251" end="252" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="272" end="282" text="15/06/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="318" end="340" text="Emma Camarero González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="348" end="359" text="15 15 79436" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="451" end="456" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="460" end="467" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="5462" end="5484" text="Emma Camarero González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="5526" end="5568" text="Hospital Clínico Universitario de Santiago" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="5570" end="5586" text="C/ Choupana, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="5588" end="5593" text="15706" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="5594" end="5616" text="Santiago de Compostela" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="5626" end="5657" text="emm.camarero.gonzalez@sergas.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

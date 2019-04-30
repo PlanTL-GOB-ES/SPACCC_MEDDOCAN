@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Esperanza.
+Apellidos: Garcia Chavero.
+NHC: 298564.
+NASS: 47 45708560 85.
+Domicilio: Rúa da Virxe do Camiño, 55.
+Localidad/ Provincia: Pontevedra.
+CP: 36001.
+Datos asistenciales.
+Fecha de nacimiento: 27/11/1946.
+País: España .
+Edad: 69 años Sexo: M.
+Fecha de Ingreso: 25/06/2016.
+Servicio: Neumología.
+Médico: Francisco Javier González Barcala  NºCol: 36 28 14785.
+Informe clínico del paciente: Mujer de 69 años que acude a la consulta por presentar infecciones respiratorias de repetición. La paciente no refiere alergias ni hábitos tóxicos, es hipertensa a tratamiento con amlodipino y presenta hipotiroidismo tratado con levotiroxina. Histerectomizada con doble anexectomía 20 años antes. Refiere una historia clínica de 10 años de evolución de infecciones respiratorias frecuentes, de predominio invernal aunque también presentes en verano, consistentes en tos, disnea, sibilancias y expectoración purulenta. Refiere, además, ortopnea. En la exploración física presenta una auscultación cardíaca rítmica, sin soplos ni extratonos y una auscultación pulmonar con algún roncus aislado. En las extremidades se aprecian edemas perimaleolares. Se realiza espirometría con el siguiente resultado: FVC 67%; FEV1 56%; PEF 73%; FEV1/FVC 68%, prueba broncodilatadora positiva. La difusión pulmonar de gases está discretamente reducida, siendo del 72,6% del valor de referencia. En la radiografía de tórax se observa cifoescoliosis sin otras alteraciones. En la tomografía computarizada se observan áreas de enfisema y bronquiectasias en ambas bases, más evidentes en lóbulo medio. En el estudio analítico sanguíneo solamente se aprecia un déficit de AAT (30 mg/dl). Se realiza fibrobroncoscopia sin hallazgos significativos. Con estos resultados se realiza un fenotipo de AAT, que demuestra el tipo ZZ. Diagnosticada de asma y D-AAT, se instaura tratamiento para el asma con importante mejoría. Inicialmente no se realiza tratamiento sustitutivo del D-AAT, por mantener una función pulmonar aceptable.
+Remitido por: Francisco Javier González Barcala. Servicio de Neumología Hospital de Pontevedra Loureiro Crespo, 2 36002 Pontevedra Tfno. 34-607819141 E-mail: fjgbarcala@telefonica.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="18" text="Esperanza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="31" end="45" text="Garcia Chavero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="52" end="58" text="298564" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="66" end="80" text="47 45708560 85" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="93" end="119" text="Rúa da Virxe do Camiño, 55" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="143" end="153" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="159" end="164" text="36001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="208" end="218" text="27/11/1946" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="226" end="232" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="241" end="248" text="69 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="255" end="256" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="276" end="286" text="25/06/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="318" end="351" text="Francisco Javier González Barcala" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="360" end="371" text="36 28 14785" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="403" end="408" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="412" end="419" text="69 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2018" end="2051" text="Francisco Javier González Barcala" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2076" end="2098" text="Hospital de Pontevedra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2099" end="2117" text="Loureiro Crespo, 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2118" end="2123" text="36002" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2124" end="2134" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2141" end="2153" text="34-607819141" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="2162" end="2187" text="fjgbarcala@telefonica.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

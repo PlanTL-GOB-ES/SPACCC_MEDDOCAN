@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre:  Gonzalo.
+Apellidos: Dávila Bolaños.
+NHC:  9834752.
+NASS: 74 83067120 58.
+Domicilio: Paseo Miguel Galvan, 35, Bajo A.
+Localidad/ Provincia: Bilbao.
+CP: 20563.
+Datos asistenciales.
+Fecha de nacimiento: 15/03/1995.
+País: España.
+Edad:23 años Sexo: H.
+Fecha de Ingreso: 05/05/2018.
+Médico: Roberto Llarena Ibarguren NºCol: 20 20 57830.
+Informe clínico del paciente: Varón de 23 años que consultó por masa adyacente al polo superior de teste izquierdo, como hallazgo casual y en ausencia de traumatismo o cuadro inflamatorio. No refería antecedentes de maldescenso testicular. A la exploración los testes se presentaban normales, notándose un nódulo de 2 cm, duro e indoloro en relación al polo superior de teste izquierdo. Analíticamente nada a destacar, con cifras normales de marcadores tumorales germinales. Ecográficamente no existía hidrocele, presentándose el teste normoecógeno y de tamaño normal en torno a los 35 mm de longitud, asociándose un nódulo homogéneo y de igual ecogenicidad que el testículo, de 20 mm de tamaño en relación a la cabeza del epidídimo.
+Se decidió intervención quirúrgica, durante la que se halló una masa de 2 cm de tamaño, bien definida, de sorprendente color rojo, que se disecó fácilmente del polo superior testicular y epididimario, conservándose el teste.
+Histológicamente se diagnosticó de tejido esplénico sin alteraciones microscópicas, con arquitectura conservada y presencia de pulpa blanca con centros germinales, pulpa roja con senos venosos y cordones de Billroth.
+A los 16 meses el paciente se encuentra asintomático con una exploración física dentro de la normalidad.
+Remitido por: Dr. Roberto Llarena Ibarguren Apartado de correos 20134 48080 Bilbao. (España) rllarena@euskalnet.net

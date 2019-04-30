@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Iris.
+Apellidos: Barrios Morente.
+NHC: 7634893.
+NASS: 89 34573646 98.
+Domicilio: Av/ Puertollano, 9, 3 A.
+Localidad/ Provincia: Valladolid.
+CP: 47001.
+Datos asistenciales.
+Fecha de nacimiento: 14/09/1998.
+País de nacimiento: España.
+Edad: 16 años Sexo: H.
+Fecha de Ingreso: 21/08/2013.
+Médico: Víctor Asensio Sánchez  NºCol: 47 47 58970.
+Historia Actual:  Mujer de 16 años remitida a la consulta de oftalmología por un cuadro de dificultad visual, «como una parte del encerado que no veo, especialmente desde hace 3 semanas». Su madre refiere que «ha pasado de ser una niña activa a estar enlentecida, con dificultad para pensar, hablar y ahora ve mal». Desde los 7 años presenta crisis epilépticas de difícil control. Su tratamiento era carbamazepina, hidantoína y desde hacía 3 meses Topamax 125 mg al día. La última exploración oftalmológica realizada un año antes fue normal. 
+Exploración: En la exploración realizada la agudeza visual (AV) espontánea era de 1 en ambos ojos, con una biomicroscopía anterior normal. Las pupilas eran isocóricas y normorreactivas. 
+Pruebas complementarias: El estudio fundoscópico no presenta alteraciones. En la campimetría computerizada se aprecia una hemianopsia homónima izquierda no congruente. El test de colores no presentaba alteraciones en ningún ojo. Una resonancia magnética nuclear (RMN) cerebral con gadolinio fue normal así como una RMN por difusión. El resto de la exploración neurológica fue normal. 
+Evolución: Ante la sospecha de un fenómeno tóxico por Topamax se suspendió de forma progresiva, con mejoría subjetiva del paciente y recuperación parcial del campo visual.
+Responsable clínico: Dr. Víctor Asensio Sánchez Hospital General Servicio Castellano-Leonés de Salud Servicio de Oftalmología Medina del Campo (Valladolid) España E-mail: vasensio@hmdc.sacyl.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="28" end="32" text="Iris" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="45" end="60" text="Barrios Morente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="67" end="74" text="7634893" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="82" end="96" text="89 34573646 98" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="109" end="132" text="Av/ Puertollano, 9, 3 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="156" end="166" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="172" end="177" text="47001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="221" end="231" text="14/09/1998" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="253" end="259" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="267" end="274" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="281" end="282" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="302" end="312" text="21/08/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="322" end="344" text="Víctor Asensio Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="353" end="364" text="47 47 58970" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="384" end="389" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="393" end="400" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="557" end="562" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="597" end="601" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="692" end="698" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1678" end="1700" text="Víctor Asensio Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1701" end="1717" text="Hospital General" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1718" end="1753" text="Servicio Castellano-Leonés de Salud" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T4" start="1779" end="1795" text="Medina del Campo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1797" end="1807" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1809" end="1815" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1824" end="1846" text="vasensio@hmdc.sacyl.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

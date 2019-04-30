@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre:  Valeria.
+Apellidos: Casado Vinuesa.
+NHC: 3096502.
+Domicilio: Paseo de los Heroes y Martires, 23, 4C.
+Localidad/ Provincia: Zaragoza.
+CP: 50468.
+Datos asistenciales.
+Fecha de nacimiento: 15/01/2009.
+País: España.
+Edad: 9 años Sexo: M.
+Fecha de Ingreso: 15/06/2018.
+Servicio: Pediatria.
+Médico: Jorge Subirá Ríos NºCol: 50 50 97563.
+Historia Actual: Niña de 9 años de edad ingresa en el servicio de pediatría procedente de urgencias por segundo episodio de hematuria macroscópica en 20 días.
+No presenta antecedentes familiares de interés, antecedentes personales de hemihipertrofia facial por tortícolis congénito, varicela, mononucleosis infecciosa, enúresis nocturna hasta los 7 años, neumonía a los 9 meses y traumatismo en cóccix.
+Exploración física: Exploración física: ligera palidez cutánea, peso dentro de percentil 25-50 y talla percentil 50-75. Sin más hallazgos.
+Pruebas complementarias: hemograma, bioquímica, coagulación, urocultivo, función renal, enolasa, alfa feto proteína, radiografía de tórax y ECG normales.
+Sedimento urinario: hematuria macroscópica.
+Ecografía abdominal: masa de 5cm de diámetro en riñón izquierdo, compleja con áreas quísticas/necrosis.
+Evolución y comentarios: El servicio de pediatría realiza interconsulta a nuestro servicio decidiéndose realizar tras hallazgo ecográfico, una TC abdominal con contraste con el hallazgo de masa dependiente del riñón izquierdo, en cara anterior, de contenido quístico con engrosamientos irregulares endoluminales. Presenta un tabique grueso e irregular de densidad similar a la obtenida en las irregularidades internas descritas. No se observan adenomegalias inter-cavoaórticas ni periaórticas.
+La masa es compatible con tumor de Wilms o adeno-carcinoma.
+Se decide realización de nefrectomía izquierda: la masa mide 4.5 cm. de diámetro.
+La niña está pendiente de una nueva revision, debera pedir cita al telefono de cita previa del servicio de pediatria 901 598 663.
+Diagnóstico Principal: El diagnóstico anatomopatológico es de nefroma meso-blástico quístico (quiste renal multilocular).
+Remitido por: Dr.Jorge Subirá Ríos. Plaza San Francisco 7, 3D 50006 Zaragoza. (España). kokedoc@hotmail.com

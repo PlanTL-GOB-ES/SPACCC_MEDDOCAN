@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Rebeca .
+Apellidos: Moncada Sevilla.
+NHC: 8934589.
+NASS: 01 85763968 56.
+Domicilio: Calle Pancasinos, 14, #63462 6 A.
+Localidad/ Provincia: Santiago .
+Datos asistenciales.
+Fecha de nacimiento: 28/02/1963.
+País de nacimiento: Chile.
+Edad: 47 años Sexo: M.
+Fecha de Ingreso: 27/06/2010.
+Médico: Carla Cristián Palma.
+Informe clínico del paciente: Mujer de 47 años de edad, sin antecedentes de interés, que consulta por un cuadro de dolor persistente en fosa iliaca derecha tras la realización de un estudio esofagogastroduodenal con bario un año antes por sintomatología de reflujo gastroesofágico. La analítica es rigurosamente normal. Aporta una colonoscopia que alcanza hasta íleon terminal, con una mucosa y calibre normal; una radiografía y ecografía abdominal realizadas a los nueve meses del estudio baritado objetivan la presencia de bario en el interior del apéndice, sin datos de apendicitis aguda. Debido a la persistencia de la sintomatología se realizó una laparoscopia exploradora donde se encontró, como único hallazgo, un apéndice de tamaño normal y ligeramente congestivo en su superficie, por lo que se realizó la apendicectomía. La paciente evolucionó de forma satisfactoria con desaparición de la sintomatología. El estudio anatomopatológico mostró un apéndice de seis centímetros de longitud con una superficie congestiva y un material hiperdenso en su interior (bario). Al microscopio se observó una hiperplasia linfoide de la submucosa con fibrosis de la mucosa y submucosa, todo ello compatible con una apendicitis crónica fibrosa.
+Responsable clínico: Dr. Carla Cristián Palma. Servicio de Urología del Hospital Clínico Universidad de Chile y Hospital San José. Santiago, Chile. E-mail autor: palmaceppi@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="34" text="Rebeca" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="48" end="63" text="Moncada Sevilla" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="70" end="77" text="8934589" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="85" end="99" text="01 85763968 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="112" end="144" text="Calle Pancasinos, 14, #63462 6 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="168" end="176" text="Santiago" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="221" end="231" text="28/02/1963" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="253" end="258" text="Chile" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="266" end="273" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="280" end="281" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="301" end="311" text="27/06/2010" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="321" end="341" text="Carla Cristián Palma" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="373" end="378" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="382" end="389" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1607" end="1627" text="Carla Cristián Palma" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1654" end="1691" text="Hospital Clínico Universidad de Chile" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1694" end="1711" text="Hospital San José" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="1713" end="1721" text="Santiago" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1723" end="1728" text="Chile" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1744" end="1766" text="palmaceppi@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

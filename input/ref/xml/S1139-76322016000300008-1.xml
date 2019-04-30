@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Fanny Martina .
+Apellidos: Iglesias Flores.
+NHC: 8576744/322.
+Domicilio: Av. Américo Vespucio Norte 1630 - Vitacura.
+Localidad/ Provincia: Santiago De Chile.
+CP: 7591538.
+Datos asistenciales.
+Fecha de nacimiento: 06/06/2018.
+País: Chile.
+Edad: 5 meses Sexo: Femenino.
+Fecha de Ingreso: 26/05/2018.
+Servicio: Urgencias.
+Médico: Víctor Tomicic Flores.
+Motivo de ingreso: Irritabilidad progresiva.
+Historia Actual: lactante de cinco meses, que consulta por irritabilidad progresiva de diez días de evolución. Asocia algún vómito aislado, sin fiebre ni cambios en la orina o las deposiciones. En los últimos días inicia distensión abdominal y el mismo día de la consulta presenta una expulsión de exudado purulento por el ombligo, motivo por el que fue derivada desde la consulta de Atención Primaria al Servicio de Urgencias.
+Se trataba de una recién nacida a término con un peso adecuado para la edad gestacional. Cursó un embarazo controlado, sin factores de riesgo infeccioso. El periodo neonatal transcurrió sin incidencias.
+Antecedentes:Destaca onfalorrexis a los 14 días de vida, con un pequeño granuloma residual que precisó cauterización con nitrato de plata en dos ocasiones. No había antecedentes de ombligo húmedo.
+Exploración física: en la exploración física destaca una tumoración roja con expulsión espontánea de pus en el ombligo. Zona adyacente brillante y distendida, sin eritema ni otros signos inflamatorios. El resto de la exploración era compatible con la normalidad. Presentaba constantes vitales con: temperatura 36,1 °C, frecuencia cardiaca 139 lpm, presión arterial de 98/51 mmHg y saturación de oxígeno del 100% en aire ambiente.
+Resumen de pruebas complementarias: Se realizó un control analítico con hemograma, donde presentaba leucocitosis con fórmula normal y bioquímica con proteína C reactiva (PCR) de 44 mg/l. Se recogió muestra de exudado umbilical para cultivo y se inició tratamiento antibiótico intravenoso con cloxacilina y gentamicina.
+A las 24 horas de ingreso se realizó una ecografía de abdomen, donde se visualiza adyacente a la zona superior de la vejiga hacia el ombligo una colección heterogénea de 5,5 × 2,5 × 2,4 cm, con diagnóstico de probable quiste de uraco infectado. 
+Evolución y comentarios: se aísla en cultivo de exudado Staphycoccus aureus, manteniendo el tratamiento con cloxacilina con buena evolución, desaparición de los signos inflamatorios y de la secreción purulenta. Es dada de alta a los seis días de ingreso, con seguimiento por Cirugía Pediátrica.
+Remitido por: Dr. Victor Tomicic Flores. Avda. Vitacura, 5951. Santiago de Chile. Chile. Correo electrónico: vtomicic@alemana. Correo electrónico: vtomicic@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="41" text="Fanny Martina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="55" end="70" text="Iglesias Flores" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="77" end="88" text="8576744/322" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T17" start="101" end="143" text="Av. Américo Vespucio Norte 1630 - Vitacura" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="167" end="184" text="Santiago De Chile" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="190" end="197" text="7591538" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="241" end="251" text="06/06/2018" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="259" end="264" text="Chile" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="272" end="279" text="5 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="286" end="294" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="314" end="324" text="26/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="355" end="376" text="Víctor Tomicic Flores" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T1" start="440" end="448" text="lactante" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="452" end="463" text="cinco meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T21" start="1094" end="1101" text="14 días" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2559" end="2580" text="Victor Tomicic Flores" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2582" end="2602" text="Avda. Vitacura, 5951" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2604" end="2621" text="Santiago de Chile" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2623" end="2628" text="Chile" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="2650" end="2666" text="vtomicic@alemana" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T2" start="2688" end="2706" text="vtomicic@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: David.
+Apellidos: Fernandez de la Torre.
+NHC: 1526987.
+NASS: 66 39121543 55.
+Domicilio: Plaza de Los Ferroviarios 16, 6 D.
+Localidad/ Provincia: Oviedo.
+CP: 33003.
+Datos asistenciales.
+Fecha de nacimiento: 30/07/1962.
+País: España.
+Edad: 53 años Sexo:H.
+Fecha de Ingreso: 09/12/2015.
+Servicio: Nefrología.
+Médico: Gerardo Armando Latino NºCol:33 02 45123.
+Historia Actual: Varón de 53 años, jubilado, que vive en área rural. Fue diagnosticado hace 10 años de enfermedad inflamatoria intestinal, que se controla únicamente con dosis altas de esteroides. Dos años antes había ingresado en Unidad de Vigilancia Intensiva por sepsis de origen intestinal con fracaso multiorgánico; desde entonces está en hemodiálisis periódica al no haber recuperación funcional. La biopsia renal mostraba nefropatía tubulointersticial.
+Desde un mes antes del ingreso presenta lesiones cutáneas, eritematosas, sobre zonas induradas, pruriginosas y dolorosas, en dorso del pie derecho y cara interna de los muslos, con mala respuesta al tratamiento antibiótico (iniciado de forma empírica por sospecha de celulitis), que fueron evolucionando hacia la descamación y posterior ulceración. Se realizó biopsia cutánea que es informada como criptococosis. Al examen directo con tinta china y tinción de Gram se observan abundantes levaduras esféricas, de gran tamaño, con gemación marcada y encapsuladas. El cultivo da hongo levaduriforme, ureasa positivo, compatible con criptococo neoformans, variedad neoformans. Criptolátex en suero positivo 1/2048. Se descartó afectación pulmonar y neurológica por tomografía axial computarizada y punción lumbar.
+Iniciamos tratamiento con voriconazol 200 mg/12 horas, presentando al cabo de 10 días una llamativa alteración de los test hepáticos (bilirrubina total: 9,59 mg/dl; directa: 9,41 mg/dl; transaminasa glutámico-oxalacética [TGO] 176 U/l; transaminasa glutámico-pirúvica [TGP]: 226 U/l) que obligó a su sustitución por anfotericina B a dosis de 100 mg/día. Además de esto, se disminuyó la dosis de prednisona. Con ello, al cabo de 2 semanas presentaba una notable mejoría de las lesiones con casi total desaparición de las ulceraciones y normalización de los test hepáticos.
+Remitido por: Dr.Gerardo Armando Latino, Servicio de Nefrología, Hospital Universitario Central de Asturias, Celestino Villamil, 33006, Oviedo E-mail: galatinog@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="8" end="13" text="David" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="26" end="47" text="Fernandez de la Torre" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="54" end="61" text="1526987" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="69" end="83" text="66 39121543 55" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="96" end="129" text="Plaza de Los Ferroviarios 16, 6 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="153" end="159" text="Oviedo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="165" end="170" text="33003" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="214" end="224" text="30/07/1962" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="232" end="238" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="246" end="253" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="259" end="260" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="280" end="290" text="09/12/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="322" end="344" text="Gerardo Armando Latino" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="351" end="362" text="33 02 45123" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="381" end="386" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="390" end="397" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2223" end="2245" text="Gerardo Armando Latino" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2271" end="2313" text="Hospital Universitario Central de Asturias" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2315" end="2333" text="Celestino Villamil" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2335" end="2340" text="33006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2342" end="2348" text="Oviedo" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2357" end="2378" text="galatinog@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

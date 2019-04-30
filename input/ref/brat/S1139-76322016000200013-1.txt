@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre:  Tomás.
+Apellidos: Estrada Pañero.
+NHC: 7452911.
+Domicilio: Calle Villanueva, 34, 2B .
+Localidad/ Provincia: Salamanca.
+CP: 37041.
+Datos asistenciales.
+Fecha de nacimiento: 26/06/1995.
+País: España.
+Edad: 14 años Sexo: H.
+Fecha de Ingreso: 10/10/2014.
+Médico: Pilar Fraile Gómez  NºCol: 37 37 58203.
+Informe clínico del paciente: Varón de 14 años en seguimiento por Hematología por trombopenia, el cual es derivado a Neuropediatría por presentar un aumento de CPK (hasta 1864 UI/L), lactatodeshidrogenasa (LDH) (hasta 421 UI/l) y transaminasas (aspartato transaminasa [AST] hasta 490 UI/l, alanina aminotransferasa [ALT] hasta 280 UI/l) en analíticas seriadas. El paciente refería estar previamente asintomático, salvo por una discreta astenia ante la realización de ejercicio moderado, como correr o subir escaleras, asociando ocasionalmente calambres y mialgias. Profundizando en la anamnesis, refirió haber presentado, además, un episodio aislado de hematuria macroscópica tras la realización de ejercicio previo. La exploración era normal.
+Se realizaron un electroencefalograma, un electromiograma y una resonancia magnética muscular de extremidades inferiores, sin mostrar alteraciones en ninguna de dichas pruebas complementarias. Asimismo, se realizó una biopsia muscular donde se evidenció déficit de miofosforilasa, sin otras alteraciones añadidas. El estudio molecular puso en evidencia la presencia de las mutaciones p.R50X (c.148C>T) y p.R490W (c.1468C>T) en heterocigosis compuesta, confirmando el diagnóstico de sospecha de enfermedad de McArdle. Se derivó al paciente a nutrición y dietética, presentando previo al acoplamiento dietético dos episodios de rabdomiólisis que requirieron ingreso en la unidad de cuidados intensivos pediátricos. Actualmente el paciente se encuentra asintomático, con valores de CPK normales, siguiendo pautas de soporte nutricional y con controles ambulatorios en Neuropediatría y Nutrición Pediátrica.
+Remitido por: Pilar Fraile Gómez, Servicio de Nefrología, Hospital Universitario de Salamanca , Paseo de San Vicente 58-182, 37007 Salamanaca pilarfg@usal.es pilarfg9@hotmail.com

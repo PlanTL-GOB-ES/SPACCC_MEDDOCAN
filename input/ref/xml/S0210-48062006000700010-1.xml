@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[                                                    Nombre:  Daniel Alejandro.
+                                                    Apellidos: Campos Espinosa.
+                                                    Domicilio: Teatinos 180.
+                                                    Localidad/ Provincia: Santiago.
+                                                    CP: 1650000.
+                                                    NHC: 1375648.
+Datos asistenciales.
+Fecha de nacimiento: 13/12/1955.
+País: Chile.
+Edad: 56 Sexo: H.
+Fecha de Ingreso: 31/05/2012.
+Médico: Ignacio Manuel Castillo.
+Historia Actual: Paciente masculino de 56 años de edad con antecedentes de serologia positiva para HIV y Hepatitis B que presenta cuadro de colecistitis aguda por la cual se le realiza colecistectomia laparoscopica de urgencia.
+Durante el post-operatorio tardío, al mes de la cirugía, el paciente presenta un bilioma el cual es evacuado en forma percutánea. A su vez también se realiza una derivación biliar mediante colangiografia endoscopica.
+Producto de la anterior el paciente presenta una pancreatitis aguda asociándose a ésta una colección peri-pancreática. Dicha colección se evacua mediante un drenaje percutáneo inicial, el cual prueba ser insuficiente presentando el paciente una importante colección retroperitoneal. Sin presentar mejoría, y con un débito persistente por el drenaje asociado a fiebre y deterioro del estado general, se realiza tomografía computada de abdomen y pelvis. Ésta informa líquido encapsulado con nivel hidroaéreo en el flanco derecho adyacente a la pared abdominal extendiéndose 17 cm en el sentido cráneo-caudal y 11 x 3 cm en diámetro transverso.
+Con diagnostico de absceso parietocólico derecho extraperitoneal se realizo drenaje mediante lumboscopia, evacuando abundante material necrotico y purulento.
+Se colocaron dos drenajes de silicona pura enfrentados, confeccionando un sistema de lavado continuo, utilizando solución fisiológica a goteo lento.
+El paciente evolucionó en forma favorable con escasos registros febriles. Presentó un cultivo positivo para Pseudomona Aureaginosa, la cual fue tratada con Meropenem durante la hospitalización. Al cuarto día postoperatorio se reemplazó el lavado continuo por un sistema de hemosuctor y fue dado de alta.
+Durante los controles, el paciente continuó afebril retirándose el drenaje tras cesar el debito del mismo.
+Remitido por: Dr. Ignacio Manuel Castillo. Santiago de Chile E-mail: ignaciocastillo@vtr.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="61" end="77" text="Daniel Alejandro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="142" end="157" text="Campos Espinosa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T15" start="222" end="234" text="Teatinos 180" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="310" end="318" text="Santiago" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="376" end="383" text="1650000" TYPE="TERRITORIO" comment=""/>
+    <ID id="T12" start="442" end="449" text="1375648" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="493" end="503" text="13/12/1955" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="511" end="516" text="Chile" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="524" end="526" text="56" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="533" end="534" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="554" end="564" text="31/05/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="574" end="597" text="Ignacio Manuel Castillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="625" end="634" text="masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T4" start="638" end="645" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2422" end="2445" text="Ignacio Manuel Castillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T1" start="2447" end="2464" text="Santiago de Chile" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2473" end="2496" text="ignaciocastillo@vtr.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Iván.
+Apellidos: Nuñez Ruenes.
+NHC: 8347852.
+NASS: 28 95634756 04.
+Domicilio: Avda. Los Vientos, 44.
+Localidad/ Provincia: Reocín.
+CP: 39539.
+Datos asistenciales.
+Fecha de nacimiento: 12/02/1978.
+País de nacimiento: España.
+Edad: 37 años Sexo: H.
+Fecha de Ingreso: 04/08/2015.
+Médico: Noemí Ruiz del Río NºCol: 39 39 54710.
+Informe clínico del paciente: Paciente varón de 37 años de edad en tratamiento psiquiátrico por trastorno psicótico, esquizofrenia paranoide, que consulta por disminución de agudeza visual. A través de la anamnesis se desvela que en el contexto de un episodio de delirio de interpretación no sistematizado, esto es, leyendo un libro de iridología, el paciente interpretó que con la luz del sol podría cambiar el color del iris de sus ojos, lo cual no constaba en el texto. El paciente se lesionó ambos ojos concentrando los rayos solares con ayuda de una lupa durante varias sesiones consecutivas buscando un fin estético. Asimismo se autoinduce unas quemaduras de segundo y tercer grado en la piel de la cara y los brazos para hacer desaparecer unos supuestos quistes.
+Como consecuencia, las lesiones que presenta en los ojos son las siguientes: atrofia masiva de iris con destrucción de la función de esfínter, maculopatía solar, con abundante líquido subretiniano en el área macular y atrofia coriorretiniana periférica con depósito de pigmento, lo que equivale a lesiones fotocoagulativas. En un período de ocho semanas se resolvieron espontáneamente las lesiones maculares, aunque la pérdida de agudeza visual ha sido permanente. La agudeza visual era 0,5 en el ojo derecho y 0,6 en el ojo izquierdo. Tanto las lesiones del iris como de la retina periférica se han mantenido estables.
+Responsable clínico: Dra. Noemí Ruiz del Río C/. La Dreda 167 Villapresente. Reocín 39539 Cantabria España E-mail: noeruizdelrio@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="32" text="Iván" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="45" end="57" text="Nuñez Ruenes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="64" end="71" text="8347852" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="79" end="93" text="28 95634756 04" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="106" end="127" text="Avda. Los Vientos, 44" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="151" end="157" text="Reocín" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="163" end="168" text="39539" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="212" end="222" text="12/02/1978" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="244" end="250" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="258" end="265" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="272" end="273" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="293" end="303" text="04/08/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="313" end="331" text="Noemí Ruiz del Río" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="339" end="350" text="39 39 54710" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="391" end="396" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="400" end="407" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1768" end="1786" text="Noemí Ruiz del Río" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1787" end="1803" text="C/. La Dreda 167" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="1804" end="1817" text="Villapresente" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="1819" end="1825" text="Reocín" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1826" end="1831" text="39539" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1832" end="1841" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1842" end="1848" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1857" end="1879" text="noeruizdelrio@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

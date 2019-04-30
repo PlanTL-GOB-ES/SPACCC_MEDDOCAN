@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sergio.
+Apellidos: Rianxo Poriña.
+NHC: 4875623.
+NASS: 38 457389 65.
+Domicilio: Avda. de el Ferrol, 27, 1 D.
+Localidad/ Provincia: Santiago de Compostela.
+CP: 15706.
+Datos asistenciales.
+Fecha de nacimiento: 18/03/1979.
+País de nacimiento: España.
+Edad: 39 años Sexo: M.
+Fecha de Ingreso: 03/01/2018.
+Servicio: Aparato Digestivo .
+Médico: Susana Seijo Ríos NºCol: 15 15 42013.
+Informe clínico del paciente: varón de 39 años de edad remitido a nuestra Unidad de Ecoendoscopia para filiar la naturaleza de una lesión submucosa localizada en la vertiente gástrica de la unión esófago-gástrica. El paciente inicia su estudio médico en el Servicio de Otorrinolaringología donde consulta por molestias faríngeas. Tras las exploraciones llevadas a cabo por este servicio se decide la realización de una endoscopia digestiva alta, donde se evidencia, a 36 cm de arcada dentaria, una lesión redondeada, con mucosa conservada de un diámetro mayor aproximado de 1,5 cm. Se toman biopsias mediante endoscopia, siendo el resultado histológico no concluyente. Ante la presencia de una lesión submucosa, cuya naturaleza no es posible filiar mediante la imagen endoscópica ni tras el estudio histológico de las biopsias se remite al paciente a nuestro centro para la realización de una ecoendoscopia (USE).
+La USE se realiza de forma ambulatoria, bajo monitorización de constantes vitales y sedación consciente a base de midazolam y petidina. Se emplea un ecoendoscopio lineal Pentax EG3830UX acoplado a un ecógrafo Hitachi 8500. A 36 cm de arcada dentaria se identifica una pequeña lesión anecoica, bien delimitada, de aspecto quístico, que parece depender de la submucosa, de 14 x 6 mm de diámetros máximos. Mediante el estudio ultrasonográfico no se identifica la presencia de adenopatías abdominales ni mediastínicas y se demuestra la integridad del eje vascular. Una vez identificada la lesión a puncionar se realiza un estudio ecográfico con doppler color para evitar formaciones vasculares e identificar el trayecto más adecuado para realizar la punción. Para dicha punción se emplea la aguja Echotip Wilson-Cook de 19 G. En primer lugar se extrae la vaina de la aguja unos centímetros a través del canal de trabajo hasta ser visualizada bien gastroscópica- o ecoendoscópicamente; seguidamente se procede a puncionar la lesión mediante la aguja situada en el interior de la vaina. Una vez verificada su posición en el interior de la lesión, se retira el estilete (el cual se emplea para prevenir una posible contaminación de la muestra) y se realizan maniobras de avance de la aguja con el fin de extraer la mayor cantidad de material posible de la lesión. En nuestro caso hemos empleado una jeringa de aspiración para aumentar la celularidad de la muestra. Se realizan dos pases sobre la lesión hasta que el patólogo, presente en la sala de exploraciones, confirma la suficiencia de la muestra.
+Se utiliza la tinción de Diff-Quick (Merck) para evaluar la muestra en la sala de exploraciones y se completa el estudio citológico con la tinción Papanicolau (Merck). En el examen citológico se evidencian abundantes histiocitos espumosos y escaso epitelio cilíndrico indicativo de quiste benigno compatible con quiste de duplicación gástrico.
+Responsable clínico: Dra. Susana Seijo Ríos. Servicio de Aparato Digestivo. Hospital Clínico Universitario. C/ Choupana, s/n. 15706 Santiago de Compostela, A Coruña. e-mail: susanaseijo@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="34" text="Sergio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="47" end="60" text="Rianxo Poriña" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="67" end="74" text="4875623" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="82" end="94" text="38 457389 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="107" end="134" text="Avda. de el Ferrol, 27, 1 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="158" end="180" text="Santiago de Compostela" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="186" end="191" text="15706" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="235" end="245" text="18/03/1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="267" end="273" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="281" end="288" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="295" end="296" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="316" end="326" text="03/01/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="366" end="383" text="Susana Seijo Ríos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="391" end="402" text="15 15 42013" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="434" end="439" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="443" end="450" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T2" start="2951" end="2956" text="Merck" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T1" start="3074" end="3079" text="Merck" TYPE="INSTITUCION" comment=""/>
+    <NAME id="T10" start="3284" end="3301" text="Susana Seijo Ríos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="3334" end="3364" text="Hospital Clínico Universitario" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="3366" end="3382" text="C/ Choupana, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="3384" end="3389" text="15706" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="3390" end="3412" text="Santiago de Compostela" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3414" end="3422" text="A Coruña" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="3432" end="3455" text="susanaseijo@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

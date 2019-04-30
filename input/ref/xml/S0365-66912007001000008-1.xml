@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Carlos.
+Apellidos: Montero Benitez.
+NHC: 8327428.
+Domicilio: C/ Fernando Higueras, 25, 7 D.
+Localidad/ Provincia: Madrid.
+CP: 28009.
+Datos asistenciales.
+Fecha de nacimiento: 21/08/1997.
+País de nacimiento: España.
+Edad: 10 años Sexo: H.
+Fecha de Ingreso: 20/12/2007.
+Médico: Diego Puertas Bordallo NºCol: 28 28 56930.
+Informe clínico del paciente: Varón de diez años en la actualidad, que en 2001, sufrió, bruscamente, una cefalea intensa asociada a vómitos y refractaria a ibuprofeno. En la exploración de fondo de ojo, se advirtió un papiledema derecho incipiente. En la TC se objetivó una hemorragia occipital parasagital derecha.
+Posteriormente se llevaron a cabo estudios angiográficos hallándose dos nidos malformativos, uno, en la cara medial del lóbulo temporal derecho, de 7,5 cc de volumen, y otro más posterior, localizado en el lóbulo occipital derecho, de 8 cc de volumen, demostrándose asimismo angiogénesis periférica en ambos lóbulos La parte occipital de la MAV presentaba un mayor flujo que la porción anterior.
+En la exploración neurológica se descubrió, por confrontación, una hemianopsia homónima izquierda sin otros hallazgos. El examen de fondo de ojo, ya alejados del episodio agudo de sangrado, era normal en ambos ojos.
+Entre 2001 y 2005, el niño fue intervenido con embolizaciones selectivas de sus dos componentes malformativos, disminuyendo el flujo sanguíneo de las aferencias de las MAV y el tamaño de éstas. Posteriormente se realizó radiocirugía con Gamma Knife.
+El paciente no ha sufrido recurrencia de la hemorragia pero presenta crisis epilépticas sintomáticas fotosensoriales en tratamiento médico con ácido valproico.
+Su estudio electroencefalográfico muestra asimetría interhemisférica a expensas del hemisferio cerebral derecho, compatible con afectación cerebral estructural parieto-occipital derecha donde se han observado esporádicas anomalías epileptiformes localizadas en estas regiones.
+En la actualidad, se ha incrementado la dosis farmacológica de su tratamiento médico por reagudización de las crisis y acude a nuestro servicio, remitido por el servicio de neurología, para valoración de diplopía intermitente, de cuatro meses de evolución, que en un principio se atribuyó a sus crisis epilépticas pero que no ha remitido pese al incremento farmacológico de ácido valproico.
+En la exploración oftalmológica, el paciente tiene AV de 0,6 (OD) y 0,5 (OI). Los reflejos pupilares son normales. Presenta ortoforia, con ducciones y versiones normales. En la prueba del Cover Test, se demuestra una exoforia de -3º -5º de cerca y -5º -7º de lejos. El fondo de ojo de ambos ojos es aparentemente normal. El defecto refractivo evidencia miopía de -0,75 dioptrías en ambos ojos. Se lleva a cabo estudio campimétrico (Humphrey, prueba de umbral 24-2) demostrándose defecto hemianópsico homónimo izquierdo altamente congruente en ambos ojos, y con mayor densidad del defecto en el cuadrante inferior izquierdo y respeto macular. Se prescribe corrección óptica al paciente con la finalidad de mejorar su agudeza visual y controlar su foria.
+Responsable clínico: Diego Puertas Bordallo Sección de Oftalmología/Estrabología. Hospital Infantil Universitario Niño Jesús. Avenida Menéndez Pelayo, 65 28009 Madrid España E-mail: dpuertas.hnjs@salud.madrid.org
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="28" end="34" text="Carlos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="47" end="62" text="Montero Benitez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="69" end="76" text="8327428" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T23" start="89" end="118" text="C/ Fernando Higueras, 25, 7 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T22" start="142" end="148" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="154" end="159" text="28009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T20" start="203" end="213" text="21/08/1997" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T19" start="235" end="241" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T18" start="249" end="256" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T17" start="263" end="264" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="284" end="294" text="20/12/2007" TYPE="FECHAS" comment=""/>
+    <NAME id="T15" start="304" end="326" text="Diego Puertas Bordallo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T14" start="334" end="345" text="28 28 56930" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T13" start="377" end="382" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="386" end="395" text="diez años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="421" end="425" text="2001" TYPE="FECHAS" comment=""/>
+    <DATE id="T10" start="1281" end="1285" text="2001" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="1288" end="1292" text="2005" TYPE="FECHAS" comment=""/>
+    <OTHER id="T8" start="1297" end="1301" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3127" end="3149" text="Diego Puertas Bordallo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3188" end="3230" text="Hospital Infantil Universitario Niño Jesús" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3232" end="3259" text="Avenida Menéndez Pelayo, 65" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3260" end="3265" text="28009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3266" end="3272" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3273" end="3279" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3288" end="3318" text="dpuertas.hnjs@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Cesar.
+Apellidos: Belmonte Justo.
+NHC: 7345684.
+NASS: 75 65097634 70.
+Domicilio: Ada. Nstra Señora de Montserrat, 6, 2, A.
+Localidad/ Provincia: Barcelona.
+CP: 08916.
+Datos asistenciales.
+Fecha de nacimiento: 26/05/1968.
+País de nacimiento: España.
+Edad: 46 años Sexo: H.
+Fecha de Ingreso: 06/04/2015.
+Servicio: Urgencias.
+Episodio: 4189356.
+Médico: Montserrat Arzoz Fàbregas NºCol: 08 08 57410.
+Historia Actual: Varón de 46 años, con antecedente de síndrome de Down y retraso mental grave, que acudió a urgencias de nuestro hospital por presentar dolor abdominal difuso y distensión abdominal progresiva de 24 horas de evolución. Presentaba una historia de estreñimiento y ausencia de deposiciones en los últimos 2 días. 
+Antecedentes: Como antecedente de interés, el paciente había presentado, 13 años antes, un vólvulo gástrico que fue intervenido de urgencia, realizándose una gastropexia quirúrgica. Durante el acto operatorio se evidenció un dolicocolon, con ausencia de ligamentos de fijación, pero no se realizó ningún procedimiento sobre el mismo.
+Exploración física: En la exploración física actual, únicamente destacaba la distensión y timpanismo abdominales, acompañados de dolor abdominal difuso. El tacto rectal no consiguió demostrar heces en ampolla rectal.
+Pruebas complementarias: El hemograma y la bioquímica fueron normales. La radiografía simple de abdomen demostró una dilatación masiva del colon proximal. Dicha distensión también pudo apreciarse en la tomografía computerizada (TC). El enema de bario realizado posteriormente demostró la típica imagen en "pico de pájaro". Aunque con dificultad, el bario pasaba hacia el segmento dilatado del ángulo esplénico. Se realizó una colonoscopia terapéutica, con la que se consiguió desvolvular el segmento colónico.
+Evolución: El paciente eliminó una gran cantidad de heces y gases, permaneciendo asintomático a las 24-48 horas, por lo que recibió el alta hospitalaria, siendo remitido al servicio de cirugía. Dos días más tarde, reaparecieron los síntomas y fue diagnosticado de recidiva de vólvulo del ángulo esplénico del colon. Se repitió la colonoscopia, resolviéndose nuevamente el proceso urgente. El paciente se sometió a intervención quirúrgica programada, realizándose resección del segmento redundante del colon. El postoperatorio transcurrió sin incidencias.
+Responsable clínico: Dra. Montserrat Arzoz Fàbregas Servicio de Urología. Hospital Universitari Germans Trias i Pujol. Badalona. Ctra. del Canyet, s/n - 08916 Badalona (Barcelona) Tel.: 934 651 200 E-mail autor: 37031maf@comb.es

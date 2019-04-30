@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Samantha.
+Apellidos: Ferrer Andrade.
+NHC: 5893676.
+NASS: 28 23756365 89.
+Domicilio: Calle Ginzo de Limia, 21.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 13/08/1987.
+País de nacimiento: España.
+Edad: 30 años Sexo: F.
+Fecha de Ingreso: 21/11/2017.
+Médico: Alejandro Silver Boltero  NºCol: 28 28 91023.
+Informe clínico del paciente: paciente femenina de 30 años de edad que acude a la consulta de emergencia de CBMF-HGO en regulares condiciones generales presentando disnea, disfagia, odinofagia, taquipnea, disfonía, limitación de la apertura bucal a 15 mm, aumento del volumen en la región submandibular que se extiende a la región cervical anterior y supraclavicular derecha dolorosa a la palpación y con hipertermia local.
+En el examen clínico intrabucal se observa edentulismo parcial maxilomandibular, unidad 4,8 con caries avanzada, mala higiene bucal y moderado aumento del volumen del piso de la boca que produce glosoptosis. Los paraclínicos de ingreso reportaban leucocitosis con 22.800 U/mm3 a expensas de neutrófilos (80%), hemoglobina de 12 g/dl, hematocrito en 35,3% y glicemia en 123 g/dl.
+Se indica tomografía computarizada que muestra múltiples imágenes hipodensas a nivel del espacio sublingual, submandibular bilateral y submentoniano comunicado con la región supraclavicular derecha y retrosternal, disminución de la luz de las vías aéreas de la región cervical y torácica con desplazamiento mediastínico hacia la izquierda.
+Diagnóstico definitivo: angina de Ludwig complicada con mediastinitos. Interconsultando con los servicios de Infectología y Medicina Interna se inicia un tratamiento antibiótico por vía intravenosa con vancomicina de 1 gr cada 12 h, clindamicina de 600 mg cada 8 h y meropenem de 1 g cada 8 horas. Se realiza un drenaje quirúrgico de los espacios submandibulares, sublingual bilateral y submentoniano, comunicándolos y procediendo a la colocación de un drenaje pasivo de tipo penrose. Dada la extensión cervicotorácica el equipo de Cirugía General complementó el acto de drenaje quirúrgico en la región supraclavicular derecha dejando de igual forma un dren penrose. Se realizan 3 lavados diarios con 1.000 cc de solución salina.
+En las evoluciones posteriores al acto quirúrgico y la terapéutica implementada en el paciente logró su mejoría clínica, evidenciando una disminución del aumento del volumen y evidenciándose en tomografías control el reestablecimiento de la luz de la vía aérea. Dos semanas tras el drenaje quirúrgico, al presentar valores de laboratorio de glóbulos blancos con 6.580 U/mm3, hemoglobina de 12,8 g/dl, hematocrito en 39,6% y mejoría clínica de los síntomas iniciales, se decide el alta por la Unidad de Cirugía Bucal y Maxilofacial.
+Responsable clínico: Alejandro Silver Boltero Correo electrónico: Silverbolt86@gmail.com 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="28" end="36" text="Samantha" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="49" end="63" text="Ferrer Andrade" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="70" end="77" text="5893676" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="85" end="99" text="28 23756365 89" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="112" end="136" text="Calle Ginzo de Limia, 21" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="160" end="166" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="172" end="177" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="221" end="231" text="13/08/1987" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="253" end="259" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="267" end="274" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="281" end="282" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="302" end="312" text="21/11/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="322" end="346" text="Alejandro Silver Boltero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="355" end="366" text="28 28 91023" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="407" end="415" text="femenina" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="419" end="426" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T2" start="476" end="484" text="CBMF-HGO" TYPE="INSTITUCION" comment=""/>
+    <NAME id="T4" start="2794" end="2818" text="Alejandro Silver Boltero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2839" end="2861" text="Silverbolt86@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

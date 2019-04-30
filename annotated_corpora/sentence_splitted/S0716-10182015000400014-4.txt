@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Alexandra.
+Apellidos: Perez Perez.
+NHC: 897345.
+NASS: 60 45846754 36.
+Domicilio: Calle del Ferrol, 2, 4 D.
+Localidad/ Provincia: Madrid.
+CP: 28905.
+Datos asistenciales.
+Fecha de nacimiento: 21/09/1961.
+País: España.
+Edad: 77 años  Sexo: M.
+Fecha de Ingreso: 30/04/2010.
+Servicio: .
+Episodio: 1874560.
+Médico: Juan Martínez Torres   NºCol: 15 15 47866.
+Paciente de 34 años de edad, originario de Zacatecas y residente de Tijuana B.C., era policía, sin antecedentes de importancia. Ocho meses después de la picadura de una araña presentó lesiones diseminadas en cabeza, cuello, tronco anterior, posterior y abdomen. Se observaron como placas verrugosas mal delimitadas, confluentes, algunas con costras melicéricas y otras sanguíneas, sobre una base eritematosa. En el abdomen tenían el aspecto zosteriforme. La histología y cultivo fueron postivos para Coccidioides spp. Se descartó una enfermedad sistèmica, y recibió tratamiento con itraconazol 300 mg al día por seis meses con resolución del cuadro.
+
+Correspondencia a: Gabriela Moreno-Coutino gmorenocoutino@gmail.com

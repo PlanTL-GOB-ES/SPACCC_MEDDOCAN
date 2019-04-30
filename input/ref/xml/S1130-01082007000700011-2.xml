@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Rosa.
+Apellidos: Medina Narvaez.
+NHC: 34895.
+NASS: 07 82356475 36.
+Domicilio: Calle Muñoz León, 13, 1C.
+Localidad/ Provincia: Sevilla.
+CP: 41009.
+Datos asistenciales.
+Fecha de nacimiento: 15/03/1948.
+País: España.
+Edad: 68 años Sexo: M.
+Fecha de Ingreso: 24/03/2016.
+Médico: Alejandro Liñán Padilla  NºCol: 41 41 26458.
+Historia Actual: Mujer de 68 años, estudiada dos años atrás en consultas de digestivo por una disfagia moderada a sólidos, sin otra sintomatología acompañante, se realiza endoscopia digestiva alta con hallazgo de una hernia de hiato, recomendándose tratamiento con inhibidores de la bomba de protones, con mejora considerable de los síntomas. Posteriormente y durante el periodo de revisión en consultas, presenta un cuadro de dolor epigástrico intenso de unos meses de evolución, por lo que se repite una segunda endoscopia en la que se evidencia una lesión a nivel de tercio medio de esófago, biopsiada e informada como carcinoma de célula pequeña tipo “oat-cell” ulcerado e infiltrante. Ante estos hallazgos, se procede a completar estudios en la paciente realizándose distintas exploraciones con el objetivo fundamental de encontrar el tumor primario (pensando en un origen pulmonar dado la especie histológica de la neoplasia) y estadiar la enfermedad.
+Antecedentes: como antecedentes personales de interés refiere ser fumadora de 20 cigarrillos/día desde hace 40 años, y como intervenciones quirúrgicas: colecistectomía, amigdalectomía y anexectomía bilateral (por polimiomatosis uterina). 
+Exploración física: A la exploración la paciente presentaba un estado general conservado, afebril, sin hallazgos de adenopatías, ni datos relevantes en la auscultación cardiopulmonar, con abdomen normal salvo la cicatriz subcostal derecha e infraumbilical continentes y sin presentar alteraciones a nivel neurológico.
+Resumen de pruebas complementarias: A nivel analítico no presentaba alteración alguna relevante. El estudio esofagogastroduodenal baritado mostró a 5 cm de la unión esofagogástrica una lesión plana y ulcerada de unos 5 cm de longitud que reducía discretamente la luz del mismo, siendo el resto del estudio normal.
+En la TAC toraco-abdominal se observa una neoplasia a nivel del tercio medio esofágico, que provoca disminución de su luz, con adenopatías en el área subcarinal, supraclavicular izquierda (1,5 cm); en abdomen adenopatías en retroperitoneo, área retrocrural y cadena iliaca derecha; imágenes sugestivas de metástasis hepáticas bilobulares y un gran quiste esplénico. No se evidencia lesión ocupante de espacio a nivel pulmonar. En la fibrobroncoscopia no se encontraron hallazgos patológicos. Se realizó un aspirado de punción transtorácica con positividad para carcinoma tipo oat-cell, que podría indicar invasión pleural.
+La ecoendoscopia mostró una tumoración esofágica vegetante y ulcerada, que se extendía desde los 30 a 35 cm y que infiltraba las 2/3 partes de sus caras, pero que permitía el paso del endoscopio. Entre los 28 y 32 cm había una masa extrínseca retrocardiaca bien delimitada y que no infiltraba esófago. Se hallaron múltiples adenopatías celiacas. Y la biopsia de la lesión se informa como carcinoma de células pequeñas tipo oat-cell. La TAC craneal no demostró ningún hallazgo patológico.
+Evolución y comentarios: Dada la extensión de la neoplasia, se desestima la cirugía, pensándose en la quimioterapia como principal opción terapéutica estando, a la finalización del presente trabajo, en tratamiento en la Unidad de Oncología de nuestro hospital (esquema con CDDP más etopósido)
+Responsable clínico: Alejandro Liñán Padilla. C/Antonio Filpo Rojas, 14 1º izda. 41008 Sevilla E-mail: linan_alejandro@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="9" end="13" text="Rosa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="26" end="40" text="Medina Narvaez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="47" end="52" text="34895" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="60" end="74" text="07 82356475 36" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="87" end="111" text="Calle Muñoz León, 13, 1C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="135" end="142" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="148" end="153" text="41009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="197" end="207" text="15/03/1948" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="215" end="221" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="229" end="236" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="243" end="244" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="264" end="274" text="24/03/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="284" end="307" text="Alejandro Liñán Padilla" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="316" end="327" text="41 41 26458" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="346" end="351" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="355" end="362" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="3583" end="3606" text="Alejandro Liñán Padilla" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="3608" end="3641" text="C/Antonio Filpo Rojas, 14 1º izda" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3643" end="3648" text="41008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3649" end="3656" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3665" end="3692" text="linan_alejandro@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

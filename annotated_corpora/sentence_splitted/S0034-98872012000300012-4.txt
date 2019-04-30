@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: Ignacio .
+Apellidos: Perez Rivera.
+NHC: 8975674.
+NASS: 28 13465656 52.
+Domicilio: C/ Cobre, 5, 3, Izq..
+Localidad/ Provincia: Madrid.
+CP: 19002.
+Datos asistenciales.
+Fecha de nacimiento: 21/12/1957.
+País de nacimiento: España.
+Edad: 42 años  Sexo: H.
+Fecha de Ingreso: 02/04/2018.
+Servicio: Urgencias.
+Episodio: 1330431.
+Médico: Saturnino Suárez Ortega.  NºCol: 28 28 57180.
+Escolar de 13 años, sexo masculino con residencia rural en la IX región, sin antecedentes mórbidos. Consultó por presentar déficit motot progresivo (hemiparesia braquiocrural izquierda) y cefalea progresiva. La TC cerebral mostró un quiste intraxial temporal derecho de 60 mm de diámetro, bien delimitado, isodenso respecto al LCR, sin captación de contraste. Significativo efecto de masa con desviación de línea media de 7 mm y herniación uncal. Se planteó el diagnóstico de quiste hidatídico temporal derecho; se realizó la exéresis intacta del quiste y el estudio anatomopatológico confirmó la etiología hidatídica. El estudio con Rx de tórax y ecotomografía abdominal no mostró lesiones quísticas.
+El paciente evolucionó favorablemente, sin complicaciones quirúrgicas ni déficit neurológico.
+
+Dirección para correspondencia: esecadioe_69@hotmail.com Financiación: Ninguna Conflictos de interés: No declarados

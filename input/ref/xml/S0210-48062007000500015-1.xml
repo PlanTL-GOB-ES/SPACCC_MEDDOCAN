@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Carla .
+Apellidos: Santamaria Roque.
+NHC: 7861345.
+NASS: 72 37654757 05.
+Domicilio: Avda. Estrella, 66.
+Localidad/ Provincia: Madrid.
+CP: 28034.
+Datos asistenciales.
+Fecha de nacimiento: 21/07/1939.
+País de nacimiento: España.
+Edad: 65 años Sexo: M.
+Fecha de Ingreso: 11/02/2005.
+Servicio: Urología.
+Médico: Celia Quicios Dorado  NºCol: 28 28 28902.
+Historia Actual: Mujer de 65 años sin antecedentes personales de interés que ingresa por cuadro de fiebre elevada sin foco aparente de 1 semana de evolución, motivo por el que se realiza TC toracoabdominal observando masa de gran tamaño (9x8x7 cm) en polo superior renal derecho, en íntimo contacto con el hígado. No refiere otra sintomatología salvo dolor e impotencia funcional en miembro inferior izquierdo de meses de evolución en seguimiento por Servicio de Neurocirugía y con diagnóstico, tras realización de TC de columna y Resonancia Magnética Nuclear (RMN) de patología degenerativa, estenosis de canal L4-L5 y espondiloartrosis. No presenta síndrome constitucional ni dolor abdominal.
+Exploración física: En la exploración física presenta abdomen blando y depresible, globuloso, sin palpación de masas ni megalias. No dolor a la exploración. Puño-percusión renal bilateral negativa.
+Pruebas complementarias: Analíticamente presenta bioquímica sin alteraciones con perfil hepático, proteínas totales y calcio en rango normal. Hemograma con hemoglobina de 9,4 g/dL, y 22.500 leucocitos (N: 72,9%). Hemostasia sin hallazgos. Hemocultivos estériles y urocultivos <10.000UFC/ml.
+Se instaura tratamiento antibiótico de amplio espectro y antitérmico a pesar de lo cual presenta picos febriles diarios con repercusión clínica en forma de astenia.
+Ante los hallazgos en TC se decide realizar RMN confirmando masa sólida en polo superior derecho de 14X10X10 cm de diámetro, con gran heterogeneidad de señal y necrosis en su interior. La lesión se extiende en sentido ascendente hacia el hígado con signos de infiltración hepática. La vena renal derecha y vena cava se encuentran libres. Existen adenopatías retrocavas, derrame pleural y engrosamiento diafragmático.
+Evolución: Dada la afectación hepática se comenta el caso con el servicio de Cirugía General y Digestivo acordando realizar TAC Multicorte para delimitar con mayor exactitud el nivel de afectación de dicho órgano y planificación de la intervención quirúrgica, apreciando masa heterogénea de aspecto necrótico y diámetro máximo de 11 cm en mitad superior de riñón derecho sin plano de separación de los segmentos postero-superiores de lóbulo hepático derecho, existiendo afectación por contigüidad de los mismos.
+Previa embolización renal se realiza intervención quirúrgica a través de laparotomía media supra e infraumbilical. La exploración muestra tumoración renal que infiltra el hígado (segmento VII) y diafragma, apreciando adenopatías patológicas en hilio renal y líquido peritoneal libre sin evidencia de implantes peritoneales. Se toman muestras de líquido peritoneal para cultivo, citología y gram con resultado negativo. Se practica nefrectomía radical derecha incluyendo en bloque el segmento hepático VII, adrenal derecha y porción de diafragma. Colecistectomía y linfadenectomía.
+El análisis anatomopatológico revela un cáncer de células renales tipo convencional de alto grado citológico (grado 4 de Fuhrman), con focos de transformación sarcomatoide y extensas áreas de necrosis tumoral. Dos nódulos satélites en superficie peritoneal de diafragma y metástasis en un ganglio linfático del hilio renal. No afectación del sistema venoso ni excretor renal ni de la glándula suprarrenal. Estadio pT4G3N1 según la UICC.
+Tras un postoperatorio satisfactorio con disminución progresiva de leucocitosis comienza tratamiento quimioterápico oral con inhibidores de la angiogénesis. En el segundo TC de control realizado dos meses después de la intervención se evidencia derrame pleural derecho con lesiones nodulares pleurales basales y posteriores. La citología del líquido pleural es compatible con adenocarcinoma.
+Responsable clínico: Dra. Celia Quicios Dorado Servicio de Urología. Hospital Universitario Ramón y Cajal Ctra. de Colmenar Viejo, Km 9,100 - 28034 Madrid. Tel.: 913 368 000 Email autora: cquicios@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="33" text="Carla" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="63" text="Santamaria Roque" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="70" end="77" text="7861345" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="85" end="99" text="72 37654757 05" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="112" end="130" text="Avda. Estrella, 66" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="154" end="160" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="166" end="171" text="28034" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="215" end="225" text="21/07/1939" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="247" end="253" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="261" end="268" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="275" end="276" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="296" end="306" text="11/02/2005" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="336" end="356" text="Celia Quicios Dorado" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="365" end="376" text="28 28 28902" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="395" end="400" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="404" end="411" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="4092" end="4112" text="Celia Quicios Dorado" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="4135" end="4171" text="Hospital Universitario Ramón y Cajal" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="4172" end="4205" text="Ctra. de Colmenar Viejo, Km 9,100" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="4208" end="4213" text="28034" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="4214" end="4220" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="4228" end="4239" text="913 368 000" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="4254" end="4271" text="cquicios@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

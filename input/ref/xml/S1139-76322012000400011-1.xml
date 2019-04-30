@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Ebrime.
+Apellidos: Muhamadou.
+NHC: 9546415.
+Domicilio: Calle de Emilia 46, Bajo C .
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 21/11/2005.
+País: Gambia.
+Edad: 11 años Sexo: H.
+Fecha de Ingreso: 14/03/2017.
+Servicio: Pediatría.
+Médico: José Galbe Sánchez-Ventura NºCol: 28 28 57898.
+Historia Actual: varón de 11 años original de Gambia que consulta por hematuria macroscópica de predominio al final de la micción y disuria de un año de evolución; sin antecedentes de fiebre. Al realizar la anamnesis refiere un viaje reciente a su país de origen y en el transcurso del mismo varios baños en lagos de la región. 
+Exploración física: La exploración física es anodina.
+Resumen de pruebas complementarias: Ante la sospecha clínica de bilharzhiasis, se contacta con el Servicio de Microbiología del hospital de referencia, donde indican recogida de orina de tres días consecutivos, preferentemente del mediodía y del final de la micción (momento en que es máxima la excreción de huevos) y se solicita estudio mediante ecografía renovesical. El estudio microbiológico demostró huevos de Schistosoma haematobium.
+Evolución y comentarios: La ecografía vesical practicada puso de manifiesto un engrosamiento parietal que llegaba a alcanzar un grosor máximo de 9 mm en un radio de 20 mm, lo que sugiere esquistosomiasis, por lo que se prescribió tratamiento con prazicuantel.
+Remitido por: Dr. José Galbe Sánchez-Ventura. Correo electronico: galbester@gmail.com Servicio de pediatría del Hospital Universitario La Paz. Paseo de la Castellana, 261, 28046 Madrid Teléfono: 917 27 00 83
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="8" end="14" text="Ebrime" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="27" end="36" text="Muhamadou" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="43" end="50" text="9546415" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T20" start="63" end="89" text="Calle de Emilia 46, Bajo C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="114" end="120" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="126" end="131" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="175" end="185" text="21/11/2005" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="193" end="199" text="Gambia" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="207" end="214" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="221" end="222" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="242" end="252" text="14/03/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="283" end="309" text="José Galbe Sánchez-Ventura" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="317" end="328" text="28 28 57898" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="347" end="352" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="356" end="363" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T7" start="376" end="382" text="Gambia" TYPE="PAIS" comment=""/>
+    <NAME id="T9" start="1431" end="1457" text="José Galbe Sánchez-Ventura" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T6" start="1479" end="1498" text="galbester@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T5" start="1525" end="1554" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1556" end="1583" text="Paseo de la Castellana, 261" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1585" end="1590" text="28046" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1591" end="1597" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1608" end="1620" text="917 27 00 83" TYPE="NUMERO_TELEFONO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

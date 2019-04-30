@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Guillermo .
+Apellidos: Delgado Ortiz.
+NHC: 6670492.
+NASS: 76 96364099 77.
+Domicilio: C/ Carlos Soto, 3, 6 A.
+Localidad/ Provincia: Dos Hermanas, Sevilla.
+CP: 41703.
+Datos asistenciales.
+Fecha de nacimiento: 20/05/1949.
+País de nacimiento: España.
+Edad: 65 años Sexo: H.
+Fecha de Ingreso: 30/07/2014.
+Episodio: 5038894.
+Médico: Isabel Fernández García NºCol: 41 41 92745.
+Informe clínico del paciente: Varón de 65 años, sin antecedentes de interés, politraumatizado tras accidente de automóvil. Es intubado en el escenario, debido a hipoxemia severa y trasladado a la unidad de cuidados críticos donde tras valoración, se encuentra fractura de cigoma izquierdo, pared lateral de la órbita derecha, fractura de huesos propios, fractura de clavícula izquierda, fractura de esternón, fracturas múltiples costales bilaterales con volet costal izquierdo, enfisema subcutáneo, neumomediastino sin neumotórax y fractura de la rama pubiana derecha. Debido a la situación de hipoxemia severa durante la ventilación mecánica y a los hallazgos radiológicos se realizó fibrobroncoscopia a las 72 horas del ingreso encontrando pequeñas lesiones de aspecto ulceroso entre los cartílagos traqueales, retirándose el tubo orotraqueal hasta epiglotis para una mejor visualización traqueal, sin observar otras alteraciones. A los dieciocho días del ingreso se realizó traqueotomía percutánea bajo control endoscópico, colocándose una cánula de 8 mm de diámetro. Dos semanas después, el paciente se hallaba en situación de destete respiratorio procediéndose al cambio de cánula de traqueostomía. A las 48 horas de esta maniobra presenta un nuevo deterioro respiratorio con hallazgo de aire en la bolsa de recogida de la nutrición enteral. Se sospechó una fístula traqueoesofágica que se confirmó endoscópicamente, corrigiéndose el defecto por vía esofágica con prótesis metálica recubierta junto a una gastrostomía percutánea para alimentación. El paciente fallece 7 días después del cambio de la cánula por shock resistente a catecolaminas con acidosis e hipoxemia extremas.
+Responsable clínico: Dra. Isabel Fernández García. Hospital San Agustín. Prolongación Dr. Fleming, s / n, 41700 Dos Hermanas, Sevilla. Correo Electrónico: isabelfernandez81@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="37" text="Guillermo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="51" end="64" text="Delgado Ortiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="71" end="78" text="6670492" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="86" end="100" text="76 96364099 77" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="113" end="135" text="C/ Carlos Soto, 3, 6 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="159" end="171" text="Dos Hermanas" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="173" end="180" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="186" end="191" text="41703" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="235" end="245" text="20/05/1949" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="267" end="273" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="281" end="288" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="295" end="296" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="316" end="326" text="30/07/2014" TYPE="FECHAS" comment=""/>
+    <ID id="T10" start="338" end="345" text="5038894" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T9" start="355" end="378" text="Isabel Fernández García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="386" end="397" text="41 41 92745" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="429" end="434" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="438" end="445" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2109" end="2132" text="Isabel Fernández García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2134" end="2154" text="Hospital San Agustín" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2156" end="2187" text="Prolongación Dr. Fleming, s / n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2189" end="2194" text="41700" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2195" end="2207" text="Dos Hermanas" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2209" end="2216" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2238" end="2267" text="isabelfernandez81@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

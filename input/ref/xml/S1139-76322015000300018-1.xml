@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Fabiola.
+Apellidos: Gabilondo Nuñez.
+NHC: 2684020.
+Domicilio: C/ Principe de Vergara94, 5, E.
+Localidad/ Provincia: Madrid.
+CP: 28023.
+Datos asistenciales.
+Fecha de nacimiento:17/08/2015.
+País: España.
+Edad: 1 Mes y medio Sexo: M.
+Fecha de Ingreso: 02/09/2015.
+Médico: Paola Catalina Morales Betancourt  NºCol: 28 28 21009.
+Informe clínico del paciente: Niña de un mes y medio de vida que acude a consulta acompañada de su madre Carmen y su hermano Juan de 2 años de edad. presenta fiebre (38 °C) de 48 horas de evolución e irritabilidad, mucosidad nasal asociada; a la exploración presentaba exantema eritematoso de pequeños elementos y el resto de la exploración normal.
+En una analítica inicial: leucocitos 6310/µl (segmentados 67%, cayados 6%, linfocitos 19%, monocitos 8%), hemoglobina (Hb) 10,9 g/dl, hematocrito (Hto) 29,6%, plaquetas 492 000/µl, proteína C reactiva (PCR) 8,9 mg/l. Se realiza punción lumbar: glucosa 51,3 mg/dl, proteínas 133,9 mg/dl (líquido hemorrágico).
+Dada la sospecha de infección bacteriana grave, se ingresa para tratamiento antibiótico intravenoso con cefotaxima y ampicilina (200 mg/kg/día), agregando en las siguientes 24 horas aciclovir (60 mg/kg/día) para cubrir el virus herpes simple. Febril a las 48 horas. Al cuarto día presenta irritabilidad, mal color y estado general, con persistencia de exantema evanescente, y dificultad respiratoria; se realiza analítica de control con hallazgo de: leucocitos 2670/µl (segmentados 31%, cayados 3%, linfocitos 47%, linfocitos atípicos 5%, monocitos 11%), reticulocitos 0,66%, Hb 8,0 g/dl, Hto 25,3%, plaquetas 131 000/µl. Gasometría capilar: pH 7,32, PCO2 43,3 y HCO3 21,8 mmol/l. Radiografía de tórax : infiltrados alveolointersticiales bilaterales, más llamativos en el lado izquierdo, sugestivos de edema agudo de pulmón. Ante el hallazgo de pancitopenia, se extraen muestras para serología de parvovirus y enterovirus, así como de gripe A. Se inicia oxigenoterapia de alto flujo y se traslada a la unidad de cuidados intensivos pediátricos de un hospital terciario, donde permaneció cinco días.
+Los anticuerpos inmunoglobluina M (IgM) para parvovirus B19 son positivos e IgG negativos, con lo cual se hace diagnóstico de infección por parvovirus B19, insuficiencia respiratoria y pancitopenia asociada. La paciente presenta mejoría progresiva al quinto día de ingreso, y se da el alta al duodécimo día sin complicaciones posteriores. El hermano de la niña presenta posteriormente eritema infeccioso.
+Remitido por: Paola Catalina Morales Betancourt kticamorales@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="29" end="36" text="Fabiola" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="49" end="64" text="Gabilondo Nuñez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="71" end="78" text="2684020" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T16" start="91" end="121" text="C/ Principe de Vergara94, 5, E" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="145" end="151" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="157" end="162" text="28023" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="205" end="215" text="17/08/2015" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="223" end="229" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="237" end="250" text="1 Mes y medio" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="257" end="258" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="278" end="288" text="02/09/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="298" end="331" text="Paola Catalina Morales Betancourt" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="340" end="351" text="28 28 21009" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="383" end="387" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="391" end="405" text="un mes y medio" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T20" start="452" end="457" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T21" start="458" end="464" text="Carmen" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T22" start="470" end="477" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T23" start="478" end="482" text="Juan" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T24" start="486" end="492" text="2 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T3" start="2452" end="2459" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="2466" end="2470" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="2529" end="2562" text="Paola Catalina Morales Betancourt" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2563" end="2585" text="kticamorales@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Gloria.
+Apellidos: Cruz Castro.
+NHC: 36908274/85.
+Domicilio: 416 Paseo de Martí.
+Localidad/ Provincia: La Habana.
+CP: 85100.
+Datos asistenciales.
+Fecha de nacimiento: 14/06/2017.
+País: Cuba.
+Edad: 11 meses Sexo: Femenino.
+Fecha de Ingreso: 29/05/2018.
+Médico: Manuel Estrada Sarmiento.
+Informe Médico: Paciente femenina que al nacimiento presentó mancha azulada en la región nasoorbitaria derecha, la cual creció rápidamente durante el siguiente mes.
+Cuando fue vista por nosotros a la edad de 6 meses, presentaba una masa pedunculada de 4 cm, que interesaba el surco nasoorbitario y dorso nasal, la niña había adquirido el hábito de mirarse la lesión y presentaba estrabismo.
+Cinco días más tarde se comenzó a tratar con inyecciones de Betametazona 4 mg intralesional, luego de 4 sesiones a intervalos de cuatro semanas, se realizo la exéresis del hemangioma fibrosado, utilizándose una incisión supracilial.
+La evolución postoperatoria fue sastifactoria.
+Remitido por: Dr. Manuel Estrada Sarmiento. Máximo Gómez 6/ Maceo y Canducha Figueredo. 85100 Bayamo, Granma, Cuba. Email: mesarmiento.grm@infomes.sld.cu
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="8" end="14" text="Gloria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="27" end="38" text="Cruz Castro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="45" end="56" text="36908274/85" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="69" end="87" text="416 Paseo de Martí" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="111" end="120" text="La Habana" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="126" end="131" text="85100" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="175" end="185" text="14/06/2017" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="193" end="197" text="Cuba" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="205" end="213" text="11 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="220" end="228" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="248" end="258" text="29/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="268" end="292" text="Manuel Estrada Sarmiento" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="319" end="327" text="femenina" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="502" end="509" text="6 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="608" end="612" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="983" end="1007" text="Manuel Estrada Sarmiento" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1009" end="1051" text="Máximo Gómez 6/ Maceo y Canducha Figueredo" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1053" end="1058" text="85100" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1059" end="1065" text="Bayamo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1067" end="1073" text="Granma" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1075" end="1079" text="Cuba" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1088" end="1118" text="mesarmiento.grm@infomes.sld.cu" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

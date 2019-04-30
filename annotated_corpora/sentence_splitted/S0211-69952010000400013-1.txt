@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Candela .
+Apellidos: Gallego Caballero.
+NHC: 6047591.
+NASS: 55 40538848 26.
+Domicilio: Calle Cuba, 2, 5 ,A.
+Localidad/ Provincia: Málaga.
+CP: 29013.
+Datos asistenciales.
+Fecha de nacimiento: 16/10/1958.
+País de nacimiento: España.
+Edad: 56 años Sexo: H.
+Fecha de Ingreso: 14/12/2014.
+Servicio: Nefrología.
+Episodio: 3906202.
+Médico: Remedios Toledo Rojas NºCol: 29 29 18749.
+Historia Actual: Mujer de 56 años, diagnosticada de SSp 13 años antes. Presentaba síndrome seco, astenia y frecuentes episodios de poliartritis. Durante este tiempo, siguió tratamiento prolongado con antiinflamatorios no esteroideos (AINE) y esteroides. Además, en los últimos meses, se había asociado metrotexato con escasa mejoría de los síntomas.
+Tres meses después de haber iniciado tratamiento odontológico con implantes dentales, ingresa con edema facial, síndrome febril y disminución de diuresis.
+Exploración física: En la exploración física destacaban deterioro del estado general, tensión arterial (TA) de 160/90 mmHg, fiebre y edematización submandibular con evidencia de infección activa en arcada dentaria inferior. No presentaba edemas distales ni lesiones cutáneas.
+Pruebas complementarias: En el estudio analítico se detectaron Hb 9,2 g/dl, creatinina 2,9 mg/dl, urea 110 mg/dl, perfil hepático, lipídico, ANCA e inmunoglobulinas normales. ANA positivos, anti-ADN negativos. C3 y C4 bajos, 46 y 1,6 mg/dl, respectivamente. Serología para VHB, VHC y VIH negativa. Hemocultivos negativos. Los ANA, anticuerpos anti-Ro, anti-LA y factor reumatoide (FR) se mantuvieron positivos desde que fuera diagnosticado el SSp. También había presentado, ocasionalmente, hipocomplementemia. En orina se observaron proteinuria (2 g/l) y microhematuria. La ecografía renal fue normal. 
+Evolución: Evolucionó con febrícula vespertina, a pesar de antibioterapia, y oliguria, siendo preciso iniciar tratamiento con diálisis.
+Sospechando una glomerulonefritis (GN) aguda,probablemente postinfecciosa, dado el antecedente del proceso infeccioso mandibular e hipocomplementemia, se realizó biopsia renal con los siguientes resultados:
+El cilindro para microscopia óptica contenía 8 glomérulos que presentaban oclusión capilar difusa por trombos de material proteináceo PAS positivo. Se acompañaban, en algunos glomérulos, de infiltración segmentaria de células inflamatorias. El intersticio mostraba focos aislados de inflamación linfoplasmocitaria y las arterias no presentaban alteraciones.
+En el estudio de inmunofluorescencia directa (IFd) se observó una intensa positividad en los trombos de IgG, IgM, kappa y lambda, siendo más débil para C3 e IgA. C1q y fibrinógeno fueron negativos. El estudio ultraestructural se realizó con posterioridad.
+Diagnóstico Anatomopatológico: Glomérulos con masivos trombos intracapilares de inmunoglobulinas sospechoso de glomerulopatía crioglobulinémica asociada a SS.
+Responsable clínico: Dra. Remedios Toledo Rojas, Servicio de Nefrología, Hospital Regional Universitario Carlos Haya, Avda. Carlos Haya, 82, 2010, Málaga Tel: 951 29 11 74 E-mail: remedios.toledorojas@gmail.com

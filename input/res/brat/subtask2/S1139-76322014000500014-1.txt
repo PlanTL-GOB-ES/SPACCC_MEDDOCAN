@@ -1,0 +1,19 @@
+Nombre: Mateo.
+Apellidos: Simón Garcia.
+NHC: 7856231.
+Domicilio: Av. del Ejército 8, 4 Izq..
+Localidad/ Provincia: Arganda del Rey, Madrid.
+CP: 28500.
+Datos asistenciales.
+Fecha de nacimiento: 10/06/2010.
+País: España.
+Edad: 5 años Sexo: H.
+Fecha de Ingreso: 28/09/2018.
+Servicio: Atencion primaria.
+Médico: Raquel Plácido Paias  NºCol: 28 28 56324.
+Informe clínico del paciente: Niño de cinco años derivado por su pediatra de Atención Primaria para estudio por deformidad craneal frontoparietotemporal derecha que se había hecho más evidente en los últimos meses. Había presentado vómitos ocasionales con los malos olores, de un año de evolución, y cefalea acompañada de sonofobia y fonofobia, de frecuencia variable e intensidad leve que nunca le había despertado por la noche desde los tres años y medio. La exploración neurológica fue normal (incluido el fondo de ojo), excepto la macrocefalia con 55 cm de perímetro cefálico (>percentil 99).
+El único antecedente familiar significativo es un QA frontal izquierdo intervenido en el abuelo paterno.
+Nacido de embarazo controlado, con ecografías prenatales normales y parto eutócico sin complicaciones. No tenía otros antecedentes personales de interés. El desarrollo psicomotor fue normal, con marcha libre a los 13 meses, lenguaje y sociabilidad adecuada a la edad, y está escolarizado con dificultades de aprendizaje de la lectoescritura.
+En la TC cranealse visualiza un QA de gran tamaño en la fosa craneal media derecha con desplazamiento de la línea media y colapso de las astas ventriculares adyacentes, que se confirma en RM craneal mostrando en la región frontoparietotemporal derecha un contenido hipointenso en secuencias de T1 e hiperintensas en T2; que no se modifica tras el contraste con gadolinio.
+Se deriva a Neurocirugía, donde se monitorizan las presiones intracraneales con un sensor epidural neumático, mediante trépano frontal precoronal, encontrando patológicas solo las nocturnas. Ante una hipertensión intracraneal crónica, se decide tratamiento con cistocisternostomía, comunicando el QA con la cisterna óptico-carotídea, mediante endoscopio angulado 30° y un catéter con doble balón de ventriculostomía, para favorecer la comunicación de los espacios y la circulación libre del LCR.
+Remitido por: Dra. Raquel Plácido Paias Email: raquelpaias@gmail.com Hospital del Sureste Ronda del Sur, 10, 28500 Arganda del Rey, Madrid

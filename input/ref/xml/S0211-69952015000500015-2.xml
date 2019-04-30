@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Pedro.
+Apellidos: Pineda Rivera .
+NHC: 7348056.
+NASS: 74 35613653 01.
+Domicilio: C/ Los Cantos, 29, 5 A.
+Localidad/ Provincia: El Ejido.
+CP: 04700.
+Datos asistenciales.
+Fecha de nacimiento: 18/06/1964.
+País de nacimiento: España.
+Edad: 51 años Sexo: M.
+Fecha de Ingreso: 20/12/2016.
+Médico: María Adoración Martín Gómez NºCol: 04 04 58930.
+Informe clínico del paciente: Varón de 51 años. ERCA de etiología no filiada, hipertenso y en hemodiálisis desde 2005, con primer trasplante renal inmediatamente fallido por trombosis arterial no inmunológica en octubre de 2007, recibiendo en dicho ingreso transfusión de 2 unidades de hematíes. Aumento esporádico de transaminasas en 2009, hasta hacerse persistente desde diciembre de 2010 (cifra máxima 28/40 UI/l GOT/GPT). Se diagnostica VHC oculto 14.700 copias/µg RNA total en CMSP (RNA en suero por ultracentrifugación y anticuerpo anti-VHC core de alta sensibilidad, negativos). Ecografía y FibroScan® normales. No manifiesta posibilidad externa de contagio, realizándose PCR y serología viral al resto de pacientes de la unidad, así como al personal sanitario sin detectar nuevos casos de infección clásica por el VHC. Recibe segundo trasplante renal en octubre de 2013, tratándose con timoglobulina (TG), tacrolimus (FK), micofenolato (MMF) y corticoides. Tras 17 meses del trasplante, la carga viral en CMSP se halla indetectable, y persisten negativos el RNA por ultracentrifugación en suero y el anticuerpo anti-VHC core de alta sensibilidad.
+Responsable clínico: Dra. María Adoración Martín Gómez Unidad de Nefrología, Hospital de Poniente, Ctra. Málaga n.o 119, 04700, El Ejido, Almería, España. doritamg@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T29" start="28" end="33" text="Pedro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T28" start="46" end="59" text="Pineda Rivera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T27" start="67" end="74" text="7348056" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T26" start="82" end="96" text="74 35613653 01" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T25" start="109" end="131" text="C/ Los Cantos, 29, 5 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T24" start="155" end="163" text="El Ejido" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T23" start="169" end="174" text="04700" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T22" start="218" end="228" text="18/06/1964" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T21" start="250" end="256" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T20" start="264" end="271" text="51 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T19" start="278" end="279" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="299" end="309" text="20/12/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T17" start="319" end="347" text="María Adoración Martín Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T16" start="355" end="366" text="04 04 58930" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T15" start="398" end="403" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="407" end="414" text="51 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="481" end="485" text="2005" TYPE="FECHAS" comment=""/>
+    <DATE id="T12" start="580" end="595" text="octubre de 2007" TYPE="FECHAS" comment=""/>
+    <DATE id="T11" start="703" end="707" text="2009" TYPE="FECHAS" comment=""/>
+    <DATE id="T10" start="741" end="758" text="diciembre de 2010" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="1230" end="1245" text="octubre de 2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="1549" end="1577" text="María Adoración Martín Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1600" end="1620" text="Hospital de Poniente" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="1622" end="1642" text="Ctra. Málaga n.o 119" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1644" end="1649" text="04700" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1651" end="1659" text="El Ejido" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1661" end="1668" text="Almería" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1670" end="1676" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1678" end="1696" text="doritamg@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

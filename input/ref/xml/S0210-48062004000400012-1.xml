@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan .
+Apellidos: José Riera Cabrera.
+NHC: 2142411 .
+NASS:91 94143087 49.
+Domicilio: Calle Cuba, 1, 3 B.
+Localidad/ Provincia: Málaga.
+CP: 29013.
+Datos asistenciales.
+Fecha de nacimiento: 17/04/1949.
+País de nacimiento: España.
+Edad: 66 años Sexo: H.
+Fecha de Ingreso: 20/12/2015.
+Servicio: Medicina Intensiva.
+Episodio: 4405819.
+Médico: Dolores Fernández Zamora  NºCol: 29 29 27386.
+Historia Actual: Varón de 66 años remitido por el Servicio de Gastroenterología ante el hallazgo de masa retroperitoneal de 25 cm, en ecografía abdominal realizada para estudio de dispepsia. Entre sus antecedentes personales destacaban: tuberculosis pulmonar antigua y enfermedad pulmonar obstructiva crónica. 
+Exploración física: En la inspección física se observaba una gran masa que deformaba hemiabdomen anterior derecho, extendiéndose desde el área subcostal hasta el pubis. A la palpación, dicha masa era indolora, de consistencia firme, sin signos de irritación peritoneal y con matidez a la percusión. Al tacto rectal se palpaba una próstata de tamaño II/V, adenomatosa, lisa y bien delimitada. La analítica sanguínea, el sedimento y el cultivo de orina, eran normales, y la cifra de PSA de 1,2 ng/ml.
+Pruebas complementarias: La ecografía abdominal mostraba una lesión quística de 25 cm de diámetro, con abundantes ecos internos, que se extendía desde el borde inferior del hígado hasta la ingle.
+En la urografía i.v. (UIV) se observaba distorsión de la silueta y la pelvis renales derechas, con un importante desplazamiento del segmento lumbo-ilíaco del uréter derecho, que sobrepasaba la línea media abdominal, así como ligera ectasia del tracto urinario superior ipsilateral.
+El TAC abdomino-pélvico realizado con contraste oral e intravenoso, ponía de manifiesto una masa quística polilobulada retroperitoneal derecha de 25 cm de diámetro cráneo-caudal, que se extendía desde la región subhepática hasta la ingle, comprimiendo y desplazando el riñón derecho, el músculo psoas ilíaco y el colon ascendente, en sentido posterior y medial. Se observaban asimismo calcificaciones puntiformes en la pared quística. En la porción medial e inferior de dicha masa se evidenciaba una estructura tubular de 2 cm de diámetro y 7 cm de longitud, con afilamiento progresivo en sentido caudal, finalizando en stop completo. El riñón derecho se mostraba funcionalmente normal. Los hallazgos del TAC eran interpretados como un posible hemirriñón inferior derecho displásico con agenesia parcial del uréter.
+Evolución: Ante las dudas diagnósticas existentes con los estudios radiológicos efectuados, se decidía efectuar una punción-biopsia percutánea, que era informada como pared de lesión quística, y citología de orina, que no evidenciaba células malignas.
+Posteriormente se realizaba intervención quirúrgica mediante abordaje pararrectal derecho, observando una masa quística relacionada en su extremo craneal con el lóbulo hepático derecho y el polo inferior del riñón, y en su extremo caudal con el espacio de Retzius y el orificio inguinal interno. No se observaba infiltración de ningún órgano intra-abdominal. Se efectuó resección cuidadosa de la masa quística y del apéndice cecal, que se hallaba en íntima relación con la porción caudal de la misma.
+En el estudio anatomopatológico de la pieza se apreciaba un apéndice dilatado, revestido por un epitelio mucinoso citológicamente benigno, que formaba estructuras de tipo papilar. Dichos hallazgos resultaban diagnósticos de cistoadenoma mucinoso de apéndice.
+El post-operatorio cursaba con normalidad. En la UIV efectuada a los tres meses de la intervención quirúrgica se observaba una buena función renal bilateral, con hipercorrección lateral del trayecto ureteral derecho y desaparición de la distorsión renal derecha.
+En la revisión efectuada a los 20 meses, el paciente se encuentra asintomático desde el punto de vista urológico, y en el TAC de control no se evidencian lesiones abdominales sugestivas de pseudomixoma peritoneal.
+Responsable clínico: Dra. Dolores Fernández Zamora. Servicio de Medicina Intensiva. Hospital Regional Carlos Haya. Avda. Carlos Haya, s/n. 29010 Málaga. Correo electrónico: lolaferza@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="32" text="Juan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="46" end="64" text="José Riera Cabrera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="71" end="78" text="2142411" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="86" end="100" text="91 94143087 49" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="113" end="131" text="Calle Cuba, 1, 3 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="155" end="161" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="167" end="172" text="29013" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="216" end="226" text="17/04/1949" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="248" end="254" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="262" end="269" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="276" end="277" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="297" end="307" text="20/12/2015" TYPE="FECHAS" comment=""/>
+    <ID id="T11" start="349" end="356" text="4405819" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="366" end="390" text="Dolores Fernández Zamora" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="399" end="410" text="29 29 27386" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="429" end="434" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="438" end="445" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="4031" end="4055" text="Dolores Fernández Zamora" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="4089" end="4118" text="Hospital Regional Carlos Haya" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="4120" end="4142" text="Avda. Carlos Haya, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="4144" end="4149" text="29010" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4150" end="4156" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="4178" end="4196" text="lolaferza@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

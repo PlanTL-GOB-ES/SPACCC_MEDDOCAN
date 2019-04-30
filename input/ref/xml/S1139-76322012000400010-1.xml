@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[                                                     Nombre: Sergio.
+                                                     Apellidos: Jurado Nuñez.
+                                                     NHC: 2141203.
+                                                     Domicilio: Calle de Serrano 61, 4D.
+                                                     Localidad/ Provincia: Madrid.
+                                                     CP:28006.
+Datos asistenciales.
+Fecha de nacimiento: 14/08/2004.
+País: España.
+Edad: 13 años Sexo: H.
+Fecha de Ingreso: 14/10/2017.
+Servicio: Pediatría.
+Médico: Vicente José López Pérez NºCol: 28 28 57812.
+Informe clínico del paciente: Paciente de 13 años sin antecedentes de interés, que, tras una patada contra resistencia jugando al fútbol, sufrió dolor e impotencia funcional en la ingle y el muslo derecho. El paciente presentaba buen estado general, sin fiebre, y no refería haber padecido enfermedades infecciosas en los días previos. No presentaba alteraciones rotacionales ni acortamiento de las extremidades, refería dolor que aumentaba con la palpación local de la EIAI, la cadera se encuentra libre a la movilización pasiva, pero los movimientos activos están limitados por dolor.
+Se realizó una radiografía anteroposterior de la pelvis y axial de la cadera derecha, en las que se objetivó una fractura-avulsión de la EIAI. Se indicó reposo articular, carga parcial con muletas y analgesia con ibuprofeno 400 mg cada ocho horas por vía oral. A las tres semanas se citó para control ecográfico que evidenció una correcta evolución de la lesión. Tras la realización de fisioterapia, a los dos meses se reincorporó paulatinamente a la actividad deportiva, dándose de alta a los tres meses de la lesión inicial.
+Remitido por: Vicente José López Pérez. Correo electronico:  vxlopez@yahoo.com Servicio de pediatría del Hospital Universitario de La Princesa. Calle de Diego de León, 62, 28006 Madrid. Teléfono: 915 20 22 00
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="61" end="67" text="Sergio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="133" end="145" text="Jurado Nuñez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="205" end="212" text="2141203" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="278" end="301" text="Calle de Serrano 61, 4D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="378" end="384" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="442" end="447" text="28006" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="491" end="501" text="14/08/2004" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="509" end="515" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="523" end="530" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="537" end="538" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="558" end="568" text="14/10/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="599" end="623" text="Vicente José López Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="631" end="642" text="28 28 57812" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T11" start="686" end="693" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1772" end="1796" text="Vicente José López Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T6" start="1819" end="1836" text="vxlopez@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T5" start="1863" end="1900" text="Hospital Universitario de La Princesa" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1902" end="1928" text="Calle de Diego de León, 62" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1930" end="1935" text="28006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1936" end="1942" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1954" end="1966" text="915 20 22 00" TYPE="NUMERO_TELEFONO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

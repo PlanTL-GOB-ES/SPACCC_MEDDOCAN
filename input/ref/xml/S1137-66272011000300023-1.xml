@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[                                                 Nombre: Guisselle.
+                                                 Apellidos: Plank.
+                                                 NHC: 4739825.
+                                                 Domicilio: Calle San Pablo, 19, 5 1.
+                                                 Localidad/ Provincia: Zaragoza.
+                                                 CP: 50003.
+                                                 .
+Datos asistenciales.
+Fecha de nacimiento: 31/01/1991.
+País: España.
+Edad: 27 años Sexo: M.
+Fecha de Ingreso: 25/05/2018.
+Servicio: Medicina Familiar y Comunitaria.
+Médico: María Victoria Villaverde Royo NºCol: 50 50 11945.
+Historia Actual: mujer de 27 años de nacionalidad Alemana, que no comprendía castellano, sin alergias medicamentosas conocidas, ni antecedentes médico-quirúrgicos de interés y correctamente vacunada durante la infancia en su país de origen. La paciente acudió por primera vez a urgencias del centro de salud por una reacción urticariforme pruriginosa de veinticuatro horas de evolución. En esta primera consulta se le pautó un antihistamínico intramuscular y corticoide de liberación retardada siendo diagnosticada de urticaria.
+Un día más tarde la paciente acude de nuevo a urgencias por presentar aumento de las lesiones, refiriendo intenso picor en cara, cuero cabelludo, tronco, extremidades superiores y genitales. 
+Exploración: Se observan varias lesiones polimorfas de distribución dispersa generalizada, con lesiones costrosas hemorrágicas y otras vesículo-pustulosas de dos a cinco milímetros de diámetro, alguna de ellas umbilicadas en zona central. En la región centro-abdominal presenta lesión costrosa necrótica que la paciente refiere haber manipulado. 
+Evolución y comentarios: Tras la exploración, fue diagnosticada de varicela. 
+Se procedió a descartar complicaciones mediante auscultación y petición de radiografía de tórax que resultó completamente normal, por lo que tras la toma de frotis de lesiones fue derivada a su domicilio explicándole las medidas de aislamiento respiratorio que era conveniente tomar con sus convivientes no inmunizados. Se pautó aciclovir oral 800 mg cada cuatro horas, cinco veces al día, con descanso nocturno siete días y antihistamínicos.
+A los siete días, nuestra paciente acudió al servicio de Urgencias de nuestro hospital de referencia por astenia intensa de 24 horas de evolución sin otra sintomatología. La exploración fue completamente normal, por lo que ante la ausencia de alteraciones tanto analíticas como radiológicas se decidió el alta domiciliaria.
+A las doce horas, acude de nuevo a urgencias por dolor suprapúbico y astenia. En la anamnesis refiere disuria de dos días de evolución así como oligoanuria, sin proceso febril concomitante. La auscultación cardiopulmonar fue totalmente normal. La exploración abdominal presentó dolor a nivel suprapúbico palpándose globo vesical con sucusión positiva en ambas fosas renales. Ante la sospecha de retención aguda de orina se procedió a realizar un sondaje vesical comprobando un vaciamiento de 1.200 cc. Se realizaron analíticas sanguíneas y de orina con resultados dentro de los parámetros normales. En la radiografía de abdomen practicada destacaba la presencia de abundantes restos fecales retenidos.
+Durante su reevaluación en la sala de observación, el acompañante-traductor refiere una clara mejoría del dolor abdominal y expresa que la paciente aquejaba pérdida de fuerza y debilidad progresiva de extremidades inferiores desde hacía cuatro días. Se le reevalúa destacando rigidez cervical marcada, pares craneales normales, balance motor 5/5 distal y proximal en extremidades superiores. En extremidades inferiores aparición de una para-paresia flácida con balance motor 3/5 proximal y 4/5 distal. Reflejos osteotendinosos con hiporreflexia rotuliana bilateral y abolición de reflejos aquíleos. Reflejo cutáneo plantar en flexión bilateral. Hipo-sensibilidad en metámeras por debajo de D5 (mama).
+Ante la presencia de alteraciones neurológicas se le indicó la realización de una tomografía axial computarizada (TAC) craneoencefálica donde no se apreciaron lesiones focales intracraneales y los espacios de líquido cefalorraquídeo, así como la diferenciación de sustancia gris y sustancia blanca fueron normales.
+Posteriormente, se le realizó punción lumbar donde se apreció líquido claro y se cursaron muestras para estudio de laboratorio ingresando en el servicio de Neurología con el diagnóstico de sospecha de mielitis transversa incompleta postinfecciosa.
+Durante su ingreso se le realizó una resonancia nuclear magnética (RNM) medular, donde se apreció un área de hiperseñal en T2 localizada a nivel del cordón medular cervical (C5-D1) con una pequeña dilatación del conducto ependimario, muy probablemente relacionada con mielopatía infecciosa. La lesión mostró leve hipointensidad en T1. Todo ello ratificó el diagnóstico de mielitis infecciosa en cordón medular cervical.
+Los resultados de la serología de LCR para Borrelia, Brucella, sífilis, virus de Epstein Barr (VEB), Citomegalovirus (CMV), virus Herpes simple (VHS) y virus Varicela zóster (VVZ) fueron negativos. Los resultados de la serología en suero fueron congruentes con los de LCR, excepto para virus Varicela zóster que resultó positiva. Se pidió también serología Virus Inmunodeficiencia Humano con resultado negativo. Por lo que su diagnóstico etiológico de alta probabilidad fue de mielitis aguda por infección virus Varicela zóster (VVZ).
+Desde su ingreso ante la alta sospecha de mielitis aguda por VVZ, se inició tratamiento con aciclovir i.v. durante los primeros diez días asociando corticoide i.v.
+La paciente experimentó una lenta aunque constante mejoría, finalmente y tras un mes de ingreso, se le retiró la sonda sin presentar en los días posteriores ningún episodio de retención aguda de orina. Al alta continuó tratamiento rehabilitador.
+Remitido por: María Victoria Villaverde Royo Unidad Docente Medicina Familiar y Comunitaria Centro de Salud José Ramón Muñoz Paseo Sagasta, 52 50006 Zaragoza E-mail: vickyvillaverde@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="57" end="66" text="Guisselle" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="128" end="133" text="Plank" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="189" end="196" text="4739825" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="258" end="282" text="Calle San Pablo, 19, 5 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="355" end="363" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="418" end="423" text="50003" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="518" end="528" text="31/01/1991" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="536" end="542" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="550" end="557" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="564" end="565" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="585" end="595" text="25/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="648" end="678" text="María Victoria Villaverde Royo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="686" end="697" text="50 50 11945" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="716" end="721" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="725" end="732" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T6" start="749" end="756" text="Alemana" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="5957" end="5987" text="María Victoria Villaverde Royo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="6035" end="6067" text="Centro de Salud José Ramón Muñoz" TYPE="CENTRO_SALUD" comment=""/>
+    <LOCATION id="T4" start="6068" end="6085" text="Paseo Sagasta, 52" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="6086" end="6091" text="50006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="6092" end="6100" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="6109" end="6136" text="vickyvillaverde@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

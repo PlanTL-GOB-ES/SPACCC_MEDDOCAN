@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Fabricio.
+Apellidos: Gonzalez Gonzalez.
+NHC: 8724684.
+NASS: 15 78963965 90.
+Domicilio: Calle Abenarabí, 3, 4, Der.
+Localidad/ Provincia: A Coruña.
+CP: 15006.
+Datos asistenciales.
+Fecha de nacimiento: 08/09/1965.
+País de nacimiento: España.
+Edad: 52 años Sexo: H.
+Fecha de Ingreso: 04/03/2018.
+Médico: Pedro José Marcos Rodríguez NºCol: 15 15 27803.
+Informe clínico del paciente: Varón de 52 años que como antecedentes personales destacaba que era un exfumador de 10 cigarrillos/día y había sido diagnosticado de válvula aórtica bicúspide con función sistólica normal. Un año antes fue intervenido de diverticulitis de sigma aguda con perforación y peritonitis y a los 4 meses de la intervención presentó una trombosis venosa profunda (TVP) fémoro-poplítea derecha, recibiendo desde entonces tratamiento con acenocumarol. El estudio realizado a los 3 meses del episodio para descartar un síndrome de hipercoagulabilidad mostraba un tiempo de protrombina (TP) de 12,67 seg (VN 9-12 seg) un tiempo de tromboplastina parcial activada (TPTA) de 66,23 seg (VN 26-39 seg), las plaquetas 140.000 /dL, anticuerpos anticardiolipina de tipo Ig G 127 GPL/ml (VN 3,2-16,5) y anticuerpos anticardiolipinas de tipo IgM de 9,2 GPL/ml (VN 3,9-41). Los niveles séricos de antitrombina III, proteína S y proteína C fueron normales.
+Consulta por un cuadro de astenia y fiebre intermitente de 38ºC desde un mes antes y que en los 4 días previos al ingreso había comenzado con expectoración hemoptoica, disnea de moderados esfuerzos y la fiebre se había echo persistente. En la exploración física presentaba un buen estado general, destacando únicamente una temperatura de 38ª C y sin otras alteraciones relevantes salvo la colostomía.
+La analítica mostraba una hemoglobina de 14,5 g/dl, hematíes 4.650.000/mm3, volumen corpuscular medio 89,7 µmc, el número de leucocitos 8170/ dl y el recuento de leucocitos era normal. La VSG era de 50 mm la primera hora. El INR era de 2,5, ajustado a la toma de acenocumarol. La bioquímica, los iones y transaminasas eran normales. El sedimento urinario no mostraba alteraciones. Factor reumatoide, crioglobulinas, anticuerpos antinucleares (ANA), anticuerpos anticitoplasma del neutrófilo (ANCA), antimembrana basal glomerular, antiperoxidasa, antihistona, anti-Ro, anti-SSA y antiSM fueron normales o negativos. Gasometría arterial FiO2 0,21: pH 7,53, pO2 65 mmHg, pCO2 39 mmHg. El electrocardiograma fue normal y en el ecocardiograma se confirmaba una válvula aórtica bicúspide sin otras alteraciones. La radiografía de tórax presentaba infiltrados alveolares bilaterales con silueta cardiaca normal. Los hemocultivos y el cultivo de esputo para bacterias y mycobacterias fueron negativos.
+La gammagrafía de ventilación/perfusión y el estudio con angiotomografia computada no mostraron datos de tromboembolismo pulmonar por lo que se suspendió el tratamiento anticoagulante y se inicio tratamiento con amoxicilina/ácido clavulánico con mejoría clínica y desaparición de la fiebre, pero persistiendo los esputos hemoptoicos y los infiltrados en la radiografía de tórax. Se realizó una broncoscopia en la que no se encontraron anomalías endoscópicas. El cultivo del broncoaspirado no mostró crecimiento para bacterias, hongos ni mycobacterias y en la citología no se observaron células malignas. La espirometría, volúmenes pulmonares y difusión fueron normales.
+Tras el alta hospitalaria, el paciente continúa presentando esputos hemoptoicos. Una nueva tomografía axial computada con cortes de alta resolución (TACAR) refleja la presencia de infiltrados pulmonares bilaterales y vidrio deslustrado. Una nueva broncoscopia no mostró alteraciones intrabronquiales y el lavado broncoalveolar (LBA) mostró 512 células/ml: polimorfonucleares neutrófilos 1%, polimorfonucleares eosinófilos 1% e histiocitos 98%. La tinción con azul de Prusia mostró un 80% de hemosiderófagos.
+En sangre periférica persistían elevados los niveles de anticuerpos anticardiolipina y anticoagulante lúpico. Con los hallazgos descritos el paciente fue diagnosticado de síndrome antifosfolípido primario y hemorragia pulmonar secundaria, reiniciándose tratamiento con acenocumarol y ácido acetilsalicílico. Durante un año de seguimiento ha presentado esputos hemoptoicos ocasionales, pero la radiografía de tórax y la función pulmonar (espirometría, difusión y gases arteriales) se mantuvo normal y únicamente en el TACAR se observan algunas áreas de vidrio deslustrado.
+Responsable clínico: Dr. Pedro José Marcos Rodríguez. Servicio de Neumología. Complejo Hospitalario Universitario Juan Canalejo. As Xubias de Arriba, 84. 15006 A Coruña. E-mail: pedrojmarcos@canalejo.org
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="36" text="Fabricio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="49" end="66" text="Gonzalez Gonzalez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="73" end="80" text="8724684" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="88" end="102" text="15 78963965 90" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="115" end="141" text="Calle Abenarabí, 3, 4, Der" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="165" end="173" text="A Coruña" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="179" end="184" text="15006" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="228" end="238" text="08/09/1965" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="260" end="266" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="274" end="281" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="288" end="289" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="309" end="319" text="04/03/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="329" end="356" text="Pedro José Marcos Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="364" end="375" text="15 15 27803" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="407" end="412" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="416" end="423" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="4511" end="4538" text="Pedro José Marcos Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="4564" end="4613" text="Complejo Hospitalario Universitario Juan Canalejo" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="4615" end="4638" text="As Xubias de Arriba, 84" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="4640" end="4645" text="15006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4646" end="4654" text="A Coruña" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="4664" end="4689" text="pedrojmarcos@canalejo.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

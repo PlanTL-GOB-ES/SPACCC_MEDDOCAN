@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Jedet.
+Apellidos: Cuesta Parada.
+NHC: 78946531.
+NASS: 56 75063476 31.
+Domicilio: Av. Mirasierra, 16,1 C.
+Localidad/ Provincia: Sevilla.
+CP: 06789.
+Datos asistenciales.
+Fecha de nacimiento: 27/03/2007.
+País: España.
+Edad: años  Sexo: H.
+Fecha de Ingreso: 17/05/2018.
+Servicio: Oftalmologia.
+Médico: Elvio Martínez Vera Mayor   NºCol: 08 20 52485.
+Mostramos el caso de una mujer de 44 años que presenta clínica de oclusión intestinal. En la entero-resonancia se observa una imagen de aproximadamente 14 cm de longitud con morfología de diana en su sección, con una lesión nodular en su extremo, de probable localización submucosa. Se realiza resección quirúrgica de la lesión. Veinticinco meses después la paciente permanece sin recidiva.
+El análisis patológico demostró una tumoración polipoidea submucosa de 2,5 cm que ulceraba la mucosa. Estaba formada por nidos de células de aspecto epitelioide, con algunas células dispersas de tipo ganglionar. En el estudio inmunohistoquímico se demostró positividad para S-100 en la mayoría de las células, y positividad para enolasa y sinaptofisina en las células de tipo ganglionar. El índice de proliferación fue menor de un 10%.
+Correspondencia a: Dr. Fernando Saldías Peñafiel. Departamento de Enfermedades Respiratorias, Pontificia Universidad Católica de Chile. Marcoleta 352 - 1er Piso, Santiago, Chile. Teléfonos: 6331541 - 3543242. Fax: 6335255. E mail: fsaldias@med.puc.cl

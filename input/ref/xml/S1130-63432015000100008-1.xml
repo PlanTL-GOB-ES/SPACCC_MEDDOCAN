@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Francisca.
+Apellidos: Pardo Nuñez.
+NHC: 2986453.
+NASS: 34 69518475 31.
+Domicilio: Calle de finisterre 15.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 01/01/1933.
+País: España.
+Edad: 82 años Sexo: M.
+Fecha de Ingreso: 24/07/2015.
+Médico: Pedro Suárez Artime NºCol: 20 20 58558.
+Informe clínico del paciente: Mujer de 82 años con antecedentes de neoplasia de mama tratada con cirugía y terapia hormonal hace 20 años, miocardiopatía hipertensiva en ritmo sinusal, hipercolesterolemia e hiponatremia crónica moderada alrededor de 133 mmol/L. Recibía tratamiento con torasemida 5 mg/24h, mononitrato de isosorbida 50 mg/24h, ácido acetilsalicílico 100 mg/24h, pravastatina 20 mg/24h, candesartan 32 mg/24h, hidroclorotiazida 12,5 mg/24h, atenolol 50 mg/24h y espironolactona 25 mg/24h.
+Inició tratamiento con sertralina 50 mg/24h, teniendo sus cifras de natremia habituales, por sospecha de síndrome depresivo, seis semanas antes del ingreso. Tras dos semanas, empeoró su estado general, con náuseas, vómitos, necesidad de ayuda para actividades cotidianas y alteraciones del comportamiento. Un mes después se detectó hiponatremia de 119 mmol/L, se suspendió sertralina y se inició restricción hídrica en su domicilio durante tres días sin remitir la sintomatología. Ingresó en Medicina Interna con el diagnóstico de síndrome confusional secundario a infección urinaria y/o hiponatremia.
+Se diagnosticó de hiponatremia, probablemente secundaria a sertralina. La analítica al ingreso fue compatible con SIADH. Los valores de hormonas tiroideas (TSH: 4.04 mUI/L, T4 libre: 1.72 ng/dL, T3 libre: 3.13 pg/mL) y cortisol (19.7 μg/dL) estaban dentro del rango de normalidad. La hiponatremia se trató el primer día con suspensión de sertralina, torasemida, hidroclorotiazida y espironolactona, restricción hídrica oral, fluidoterapia (1500 mL de NaCl 0,9%/24h i.v.) y furosemida 20 mg/12h i.v. con mejoría inicial de natremia. El resto del tratamiento domiciliario se mantuvo durante el ingreso.
+Se continuó el tratamiento durante 4 días con restricción hídrica a menos de 500 mL diarios, mejorando la natremia hasta 132 mmol/L, pero dos días después disminuyó nuevamente, lo que motivó a utilizar tolvaptan 15 mg/24h vo durante dos días y 30 mg un día más, consiguiéndose restaurar la natremia y obteniendo el alta hospitalaria. Se ratificó que la natremia se mantuvo aceptablemente en controles posteriores al alta hospitalaria.
+El tratamiento al alta fue losartan 100 mg/24h, atenolol 50 mg/12h, trazodona 50 mg/24h, pravastatina 10 mg/24h, ácido alendrónico 70 mg/7 días, carbonato cálcico/colecalciferol 1250 mg/400UI/24h y dieta baja en sodio.
+Remitido por: Dr. Pedro Suárez Artime Correo electrónico: pedrosuartime@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="9" end="18" text="Francisca" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="31" end="42" text="Pardo Nuñez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="49" end="56" text="2986453" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="64" end="78" text="34 69518475 31" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="91" end="113" text="Calle de finisterre 15" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="137" end="143" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="149" end="154" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="198" end="208" text="01/01/1933" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="216" end="222" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="230" end="237" text="82 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="244" end="245" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="265" end="275" text="24/07/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="285" end="304" text="Pedro Suárez Artime" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="312" end="323" text="20 20 58558" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="355" end="360" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="364" end="371" text="82 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2704" end="2723" text="Pedro Suárez Artime" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2744" end="2769" text="pedrosuartime@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

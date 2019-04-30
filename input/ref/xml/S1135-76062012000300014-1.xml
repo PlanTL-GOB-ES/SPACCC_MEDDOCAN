@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Miguel.
+Apellidos: Hernando Jarquin.
+NHC: 2847043.
+NASS: 32 58067938 45.
+Domicilio: Calle Genova, 23, 4 A.
+Localidad/ Provincia: Madrid.
+CP: 28016.
+Datos asistenciales.
+Fecha de nacimiento: 27/01/2000.
+País de nacimiento: España.
+Edad: 17 años Sexo: H.
+Fecha de Ingreso: 15/03/2017.
+Médico: Melayne Zanetti NºCol: 28 28 57815.
+Informe clínico del paciente: Varón de 17 años con antecedentes de paraplejia secundaria a herida por proyectil de arma de fuego a nivel de vértebra T1. Fallece en el domicilio sin asistencia médica por lo que fue ordenada una autopsia judicial.
+a) Examen externo: atrofia de las cuatro extremidades y anquilosis de las manos, úlceras de decúbito con tejido necrótico a nivel bitrocantéreo y sacro. Cánula de traqueostomía a nivel cervical. Portaba catéter urinario conectado a bolsa colectora que contenía orina con un llamativo color púrpura.
+b) Examen interno: encéfalo con notable aumento de peso (1.875 g) con patrón de edema cerebral (aplanamiento de giros y circunvoluciones). Corazón de peso normal (325 g) con discreta dilatación de cavidades cardiacas derechas y presencia de trombos murales. Adherencias pleurales e interlobulares derechas y tromboembolismo pulmonar en la rama izquierda de la arteria pulmonar. Pulmones de peso discretamente elevado (D: 640 g; I: 600 g) con patrón de congestión y edema de moderado a severo. No se puso de manifiesto la presencia de infarto pulmonar. Riñones de peso normal (D: 180 g; I: 130 g) con escasa diferenciación córtico-medular, hemorragia en el área medular y áreas de coloración violácea con salida de material purulento a través de la pelvis renal. En la vejiga urinaria se cuantificaron 400 cc de orina turbia, olor fétido asociado a sedimento en su fondo de coloración crema verdoso con aspecto purulento.
+c) Exploraciones complementarias:
+- Análisis toxicológico negativo en muestras de sangre, orina y humor vítreo.
+- Análisis microbiológico. En el cultivo del sedimento urinario se observó crecimiento de Proteus vulgaris.
+d) Causa de la muerte: se consideró que el tromboembolismo pulmonar fue la causa inmediata de la muerte, la infección de vías urinarias como causa intermedia y la paraplejia como causa fundamental.
+Responsable clínico: Dra. Melayne Zanetti E-mail: melyzanetti@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="34" text="Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="47" end="63" text="Hernando Jarquin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="70" end="77" text="2847043" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="85" end="99" text="32 58067938 45" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="112" end="133" text="Calle Genova, 23, 4 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="157" end="163" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="169" end="174" text="28016" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="218" end="228" text="27/01/2000" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="250" end="256" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="264" end="271" text="17 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="278" end="279" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="299" end="309" text="15/03/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="319" end="334" text="Melayne Zanetti" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="342" end="353" text="28 28 57815" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="385" end="390" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="394" end="401" text="17 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2265" end="2280" text="Melayne Zanetti" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2289" end="2312" text="melyzanetti@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

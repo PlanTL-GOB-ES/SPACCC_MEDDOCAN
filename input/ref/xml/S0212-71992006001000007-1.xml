@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Maria Asuncion .
+Apellidos: Garcia Perez.
+NHC: 7864592.
+NASS: 28 63756027 02.
+Domicilio: C/ de la Fuente, 1.
+Localidad/ Provincia: León.
+CP: 24701.
+Datos asistenciales.
+Fecha de nacimiento: 24/06/1960.
+País de nacimiento: España.
+Edad: 51 años Sexo: M.
+Fecha de Ingreso: 16/06/2012.
+Médico: Ignacio de la Iglesia Fanjul  NºCol: 24 24 57810.
+Informe clínico del paciente: Mujer de 51 años sin antecedentes de interés que ingresa por ictus con disnomia y paresia derecha, demostrándose por scanner y resonancia magnética múltiples focos isquémicos, que sugieren origen embólico.
+Al ingreso estaba afebril, con tensión arterial 120/60 mmHg,destacaba en la exploración neurológica, fluencia verbal reducida con parafasias frecuentes, facial central derecho, un déficit motor braquio-crural derecho y una respuesta plantar derecha indiferente. La exploración sistémica era normal salvo petequias en región tibial de extremidad inferior derecha y hemorragias en astilla en varios dedos de ambas manos.
+La analítica era normal salvo un aumento de los reactantes de fase aguda. El electrocardiograma, doppler transcraneal, doppler continuo carotídeo y fondo de ojo eran normales. La ecografía cardiaca, transtorácica y transesofágica, mostraba un foramen ovale permeable, prolapso mitral y una verruga de 15 milimetros sobre el velo posterior de la mitral con una insuficiencia mitral (IM) ligera. Con la sospecha de endocarditis bacteriana subaguda se inició tratamiento antibiótico empírico con Vancomicina y Gentamicina previa extracción de hemocultivos estando la paciente afebril, situación en la que se mantuvo durante el ingreso.
+En la radiografia de tórax se observaba un nódulo en lóbulo inferior izquierdo (LII) que posteriormente se confirma en scanner como una masa de 3,5 centimetros en LII, nódulos satélites, adenopatías contralaterales y linfangitis carcinomatosa sugerentes de proceso neoplásico.
+A los 7 días del inicio del tratamiento antibiótico, tras conocer los resutados negativos de los cultivos, se realizó un ecocardiograma de control en el que se observó la aparición de nueva verruga (5,7 mm) y disminución de tamaño de la verruga previa (9,1 mm) Se realizan nuevos hemocultivos para incidir en el diagnostico diferencial de endocarditis con cultivos negativos (HACEK, hongos) y serologías para Legionella, Bartonella, Coxiella, Chlamidias, Mycoplasma...
+Al 8º día del inicio del tratamiento, presentó un dolor inespecífico en el hipocondrio izquierdo, realizándose una ecografía abdominal con la sospecha de embolia esplénica no encontrándose patología alguna.
+Al 9º día presentó un cuadro sincopal en el contexto de un accidente isquémico transitorio (debilidad transitoria de extremidad superior izquierda).
+Al 11º día presentó un deterioro clínico importante por cuadro ictal con afectación total de la circulación anterior de la arteria cerebral media izquierda (afasia global, inatención visual y hemiplejía derecha). En el ecocardiograma de control se observó progresión de las lesiones previas y nueva verruga en la cara auricular de la mitral.
+Dada la mala evolución clínica y ecocardiográfica se plantea el diagnóstico de ETNB realizándose biopsia de la masa pulmonar siendo está un adenocarcinoma. Se inició tratamiento con heparina intravenosa (i.v.) dada la asociación de ETNB e hipercoagulabilidad, observándose el inicio de una coagulación intravascular diseminada (CID) con aumento del fibrinógeno y del PDF
+Los estudios de hipercoagulabilidad, marcadores de crioglobulinemia, antifosfolípido, VIH, VHB, VHC y ANA fueron negativos así como las 12 muestras de hemocultivos y las distintas serologías anteriormente citadas.
+La edad, el sexo de la paciente y la presencia de unos marcadores tumorales CA 12,5 y CA 15,3 altos nos llevaron a la búsqueda de un adenocarcinoma primario en mama y ovario sin encontrarse hallazgos.
+No se objetivó mejoría clínica y sí empeoramiento radiológico pese a haberse iniciado tratamiento con heparina i.v.
+La paciente fue diagnosticada de adenocarcinoma de pulmón en estadio IV con fenómenos embolígenos en el contexto de paraneoplasia. La situación de la paciente con un PS4 contraindicaba cualquier tratamiento de quimioterapia con intención paliativa, siendo únicamente subsidaria de tratamiento sintomático paliativo. En este contexto la paciente es trasladada a Unidad de Paliativos.
+Responsable clínico: Dr. Ignacio de la Iglesia Fanjul Servicio de Medicina Interna C/ Altos de Nava, s/n 24071 Leon Fax: 987 23 73 92 e-mail: iglai@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="42" text="Maria Asuncion" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="56" end="68" text="Garcia Perez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="75" end="82" text="7864592" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="90" end="104" text="28 63756027 02" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="117" end="135" text="C/ de la Fuente, 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="159" end="163" text="León" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="169" end="174" text="24701" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="218" end="228" text="24/06/1960" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="250" end="256" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="264" end="271" text="51 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="278" end="279" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="299" end="309" text="16/06/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="319" end="347" text="Ignacio de la Iglesia Fanjul" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="356" end="367" text="24 24 57810" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="399" end="404" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="408" end="415" text="51 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="4411" end="4439" text="Ignacio de la Iglesia Fanjul" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="4469" end="4490" text="C/ Altos de Nava, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="4491" end="4496" text="24071" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="4497" end="4501" text="Leon" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="4507" end="4519" text="987 23 73 92" TYPE="NUMERO_FAX" comment=""/>
+    <CONTACT id="T1" start="4528" end="4545" text="iglai@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Rebeca .
+Apellidos: Morales Perez.
+NHC: 4378563.
+NASS: 73 45623705 65.
+Domicilio: C/ Los Vientos, 8, 5, A.
+Localidad/ Provincia: Valencia.
+CP: 46009.
+Datos asistenciales.
+Fecha de nacimiento: 21/11/1947.
+País de nacimiento: España.
+Edad: 62 años Sexo: M.
+Fecha de Ingreso:19/04/2010.
+Médico: María José Gómez Maestra NºCol: 46 46 78910  .
+Historia Actual: Mujer de 62 años que refiere, desde hace 13 años, múltiples episodios de visión borrosa en ambos ojos con recuperación posterior completa de la agudeza visual. Los diversos brotes que presentó fueron tratados con corticoterapia oral, suspendiéndose los mismos tras las respectivas remisiones. Fue diagnosticada de coroiditis serpiginosa por los hallazgos clínicos y angiográficos.
+Antecedentes: Como antecedentes familiares presenta una hermana gemela de su madre con un cuadro similar. No presenta antecedentes personales de interés.
+En la última revisión oftalmológica la enfermedad permanecía inactiva y la agudeza visual (AV) era de la unidad en ambos ojos a pesar de la importante atrofia y cicatrización coriorretiniana que presentaba en el polo posterior, incluyendo la mácula. El segmento anterior no mostraba hallazgos relevantes y la presión intraocular era de 14 mmHg en ambos ojos.
+Exploración: El fondo de ojo presentaba múltiples lesiones de forma geográfica cicatriciales, con atrofia e hipertrofia variable del EPR en todo el polo posterior.
+La angiografía fluoresceína mostraba múltiples lesiones de aspecto moteado debido a atrofia e hiperpigmentación, con tinción en fases tardías.
+Cuatro meses antes comenzó un cuadro de dispepsia flatulenta, vómitos y prurito. En los estudios de laboratorio realizados presenta un aumento de las transaminasas (GOT 110 y GPT 90), GGT (gammaglutamiltranspeptidasa) 110, hipergamma-globulinemia (IgG 1620), ANA (Anticuerpos antinucleares) 1/320, AMA (Anticuerpos antimitocondriales) negativos.
+Antígeno de superficie VHB, Anticuerpo anti-HBs, Anticuerpo anti-HBc y Anticuerpo anti-VHC negativos. Se realizó una ecografía hepática que fue normal.
+El cuadro tuvo una buena respuesta a los ácidos biliares calculolíticos. El diagnóstico de sospecha fue de hepatitis autoinmune. Se decidió no realizar pruebas diagnósticas agresivas como una biopsia hepática debido a la actividad leve del cuadro digestivo.
+Responsable clínico: Dra. María José Gómez Maestra Hospital Universitario La Fe Servicio de Oftalmología Avda. Campanar, 19 46009 Valencia España E-mail: yesigomezmaestra@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="34" text="Rebeca" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="48" end="61" text="Morales Perez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="68" end="75" text="4378563" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="83" end="97" text="73 45623705 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="110" end="133" text="C/ Los Vientos, 8, 5, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="157" end="165" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="171" end="176" text="46009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="220" end="230" text="21/11/1947" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="252" end="258" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="266" end="273" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="280" end="281" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="300" end="310" text="19/04/2010" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="320" end="344" text="María José Gómez Maestra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="352" end="363" text="46 46 78910" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="384" end="389" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="393" end="400" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="821" end="828" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2367" end="2391" text="María José Gómez Maestra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2392" end="2420" text="Hospital Universitario La Fe" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="2446" end="2464" text="Avda. Campanar, 19" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2465" end="2470" text="46009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2471" end="2479" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2480" end="2486" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="2495" end="2523" text="yesigomezmaestra@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

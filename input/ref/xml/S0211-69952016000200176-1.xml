@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Victor.
+Apellidos: Nuñez Hernandez.
+NHC: 874963.
+Domicilio: Col, 1 de Mayo, 3 Andén casa 213.
+Localidad/ Provincia: Managau.
+Datos asistenciales.
+Fecha de nacimiento: 26/11/1953.
+País de nacimiento: Nicaragua.
+Edad: 60 años Sexo: H.
+Fecha de Ingreso: 22/09/2014.
+Médico: Mendieta Espinosa.
+Informe clínico del paciente: Varón de 60 años diagnosticado en otro hospital en el año 2000 de glomerulonefritis extracapilar tipo iii asociada a C-ANCA. Fue tratado con 5 bolos intravenosos de 6-metilprednisolona seguidos de corticoides por vía oral en pauta descendente asociados a ciclofosfamida por vía oral (no hemos podido recabar la dosificación exacta). En su momento la ciclofosfamida fue suspendida por mielotoxicidad.
+En el año 2002 fue incluido en programa de hemodiálisis periódica.
+En septiembre de 2006, en otro centro trasplantador, recibió un injerto renal de cadáver. El paciente recibía tacrolinus en monoterapia, aunque no podemos asegurar si previamente había recibido alguna otra combinación de inmunosupresores. Sus creatininas séricas oscilaban entre 1,5 y 1,7 mg/dl.
+En diciembre de 2013, con motivo de la implantación de una válvula aórtica percutánea en nuestro hospital, se realizó en nuestro servicio una valoración pre- y postintervención. En ese momento su situación clínica era buena, con creatinina sérica de 1,5 mg/dl y proteinuria 0,3 g/día, con sedimento urinario normal.
+En octubre de 2014, ante la aparición de síntomas respiratorios con fiebre y deterioro de la función renal, el paciente decide trasladar a nuestro hospital su control clínico. El cuadro febril y los síntomas respiratorios, sin evidencia microbiológica ni radiológica, mejoraron con tratamiento empírico con levofloxacino. Sin embargo, la función renal empeoró en pocos días hasta alcanzar creatininas séricas de 4 mg/dl, con proteinuria de 6,8 g/día y hematuria. La determinación de C-ANCA fue 74,2 UI/ml (valores normales: 0-5 UI/ml) y P-ANCA 8,4 UI/ml (valores normales: 0-6 UI/ml). El resto de los parámetros de autoinmunidad (ANA, anticuerpos anti-MBG, complemento, crioglobulinas, etc.) fueron negativos. La serología HIV, VHC, VHB y viremia CMV y BK fueron también negativos.
+Se realizó una biopsia del injerto renal en la que los hallazgos más relevantes fueron : de los 19 glomérulos valorables, 3 presentaban esclerosis glomerular global, 12 glomérulos presentaban semilunas celulares. Algunos de ellos presentaban disrupción de la cápsula de Bowman que provoca reacción inflamatoria pseudogranulomatosa de células mononucleadas. En 2 glomérulos había lesiones compatibles con necrosis fibrinoide. Encontramos necrosis tubular en un 15%, atrofia tubular en un 20% y algunos cilindros hemáticos, además de infiltrado intersticial en un 25% con algún eosinófilo y focos de hemorragia intersticial reciente y hialinosis arteriolar, con alguna imagen de degeneración mucoide de la pared sin infiltrado transmural. El estudio de inmunofluorescencia fue negativo. El estudio inmunohistoquímico para C4d fue negativo.
+Ante la evidencia de una recidiva de la enfermedad de base, el paciente recibió 3 bolos intravenosos de 500 mg de 6-metilprednisolona (el paciente era diabético) en días consecutivos, seguidos por prednisona oral a dosis de 0,5 mg/kg/día en pauta descendente. Así mismo, se le aplicaron 8 sesiones de plasmaféresis y se inició tratamiento con micofenolato mofetil (1 g/12 h, vía oral) asociado a tacrolimus.
+A los 12 días del ingreso, el paciente fue dado de alta con una creatinina sérica de 2,9 mg/dl. En un control ambulatorio un mes más tarde, la creatinina era de 2,3 mg/dl y la proteinuria de 3,6 g/día.
+Responsable clínico:  Dr. Mauricio Mendieta Espinosa Ofiplaza El Retiro Edificio No.7, Suite 737 Managua, Nicaragua Correo electrónico: drmauriciomendieta@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="34" text="Victor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="47" end="62" text="Nuñez Hernandez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="69" end="75" text="874963" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="88" end="120" text="Col, 1 de Mayo, 3 Andén casa 213" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="144" end="151" text="Managau" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="195" end="205" text="26/11/1953" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="227" end="236" text="Nicaragua" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="244" end="251" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="258" end="259" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="279" end="289" text="22/09/2014" TYPE="FECHAS" comment=""/>
+    <OTHER id="T12" start="348" end="353" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="357" end="364" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="402" end="410" text="año 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="754" end="762" text="año 2002" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="818" end="836" text="septiembre de 2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="1114" end="1131" text="diciembre de 2013" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="1430" end="1445" text="octubre de 2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="3683" end="3709" text="Mauricio Mendieta Espinosa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="3710" end="3753" text="Ofiplaza El Retiro Edificio No.7, Suite 737" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3754" end="3761" text="Managua" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3763" end="3772" text="Nicaragua" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3793" end="3821" text="drmauriciomendieta@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

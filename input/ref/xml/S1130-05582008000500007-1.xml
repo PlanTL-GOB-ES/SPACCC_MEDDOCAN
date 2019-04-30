@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Marcos.
+Apellidos: Mejía Rosales.
+NHC: 5689039.
+Domicilio: C/ de Tui, 3, 1, C.
+Localidad/ Provincia: La Coruña.
+CP: 15006 .
+Datos asistenciales.
+Fecha de nacimiento: 27/11/1999.
+País de nacimiento: España.
+Edad: 18 años Sexo: H.
+Fecha de Ingreso: 03/06/2018.
+Médico: Jose Luis Crespo Escudero NºCol: 15 15 28971.
+Informe clínico del paciente:  varón de 18 años remitido al Hospital 12 de Octubre por el SAMUR, tras sufrir una herida por asta de toro en la región cérvicofacial izquierda durante los encierros de San Sebastián de Los Reyes en Agosto de 2005. Se realiza traslado inminente a quirófano, donde se evidencia la correcta intubación orotraqueal que había sido realizada in situ por el personal sanitario de la plaza de toros. Se comprueba la ausencia de alteraciones respiratorias y cardiovasculares, así como una situación hemodinámica estable.
+A continuación, bajo anestesia general, se procede a la realización de traqueotomía reglada y canalización de vía central y periféricas correspondientes. Posteriormente, se procede a una exploración inicial y diagnóstica, donde se evidencia una herida incisocontusa y anfractuosa desde la región supraclavicular izquierda alta hasta la comisura labial ipsilateral. Se objetiva la existencia de una fractura de cuerpo mandibular derecho, fractura conminuta de ángulo mandibular izquierdo, avulsión dental del sector incisal del maxilar superior, así como laceración severa de la musculatura lingual y suelo de boca. Asimismo, se observa una exposición del paquete yugulo-carotídeo izquierdo comprobándose la integridad total del mismo. Se realiza sutura interdental a nivel de los focos de fractura y de las partes blandas adyacentes, con objeto de restaurar provisionalmente la anatomía, y se traslada al paciente al Servicio de Radiología para la realización de TC craneofacial diagnóstico y con el objetivo de descartar la existencia de lesiones del sistema nervioso central y cervicales asociadas. Posteriormente y una vez en quirófano, se realiza laringoscopia directa que excluye la presencia de lesiones laringoesofágicas. Se realiza lavado meticuloso con cepillo quirúrgico y solución antiséptica de toda la cavidad oral y tejidos afectos. Se administra vacuna antitetánica y gammaglobulina, y se inicia el tratamiento sistémico intravenoso con amoxilina-clavulánico y metronidazol.
+Tras una correcta exposición de los focos de fractura a nivel del cuerpo mandibular derecho y ángulo mandibular izquierdo, favorecido por las características de la propia herida, se realiza reducción y osteosíntesis empleando para ello placas de reconstrucción mandibular 2.4 Synthes®, dada la presencia de conminución en una de ellas y el alto potencial de infección del lecho quirúrgico. Se procede a la exodoncia de los restos radiculares remanentes en el sector incisal superior y regularización ósea correspondiente. Se realiza sutura y restauración anatómica de la musculatura cervical, suelo de boca y lengua. Se realiza anastomosis microquirúrgica del nervio mentoniano derecho y lingual izquierdo. Se realiza sutura de piel y mucosa oral. Posteriormente el paciente es traladado al Servicio de UVI-Politrauma donde permanece 36 horas no presentando en este tiempo complicaciones neurológicas ni sistémicas. Tras la derivación a planta, se prosigue con el tratamiento antibiótico durante 10 días, realizándose curas diarias con solución antiséptica de la herida, tanto intraoral como cutánea. No se evidenció patología infecciosa en dicho territorio, presentando una evolución posterior favorable, siendo dado de alta al undécimo día.
+Responsable clínico: Dr. Jose Luis Crespo Escudero Servicio de Cirugía Oral y Maxilofacial Hospital Juan Canalejo C/ Xubias de Arriba 84 15006 La Coruña. España
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="34" text="Marcos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="47" end="60" text="Mejía Rosales" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="67" end="74" text="5689039" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T22" start="87" end="105" text="C/ de Tui, 3, 1, C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="129" end="138" text="La Coruña" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="144" end="149" text="15006" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="194" end="204" text="27/11/1999" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T19" start="226" end="232" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="240" end="247" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="254" end="255" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="275" end="285" text="03/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="295" end="320" text="Jose Luis Crespo Escudero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="328" end="339" text="15 15 28971" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T13" start="372" end="377" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T15" start="381" end="388" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T9" start="401" end="423" text="Hospital 12 de Octubre" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T8" start="431" end="436" text="SAMUR" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T7" start="540" end="566" text="San Sebastián de Los Reyes" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T6" start="570" end="584" text="Agosto de 2005" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="3642" end="3667" text="Jose Luis Crespo Escudero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3708" end="3730" text="Hospital Juan Canalejo" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3731" end="3753" text="C/ Xubias de Arriba 84" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3754" end="3759" text="15006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3760" end="3769" text="La Coruña" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="3771" end="3777" text="España" TYPE="PAIS" comment=""/>
+  </TAGS>
+</MEDDOCAN>

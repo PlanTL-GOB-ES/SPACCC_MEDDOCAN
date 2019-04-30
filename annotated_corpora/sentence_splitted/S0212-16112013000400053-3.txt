@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Yago.
+Apellidos: Herrera Andrade.
+NHC: 8973589.
+NASS: 58 67895656 88.
+Domicilio: Calle 28 No. 13A - Piso 15.
+Localidad/ Provincia: Madrid.
+CP: 39893.
+Datos asistenciales.
+Fecha de nacimiento: 13/03/1996.
+País de nacimiento: España.
+Edad: 53 años  Sexo: H.
+Fecha de Ingreso: 28/12/2017.
+Médico: Ignacio de la Iglesia Fanjul   NºCol: 29 29 70367.
+Varón de 77 años diagnosticado de adenocarcinoma gástrico estenosante. Se realizó laparotomía exploradora objetivándose exteriorización de la neoplasia con extensión a raíz de mesenterio y múltiples implantes en mesocolon, por lo que se desestimó cirugía oncológica. En el mismo acto quirúrgico se colocó yeyunostomía de alimentación. Tras descartar colocación de endoprótesis, el paciente fue dado de alta con NED por yeyunostomía. Posteriormente se inició tratamiento quimioterápico.
+
+Dirección para correspondencia: María Teresa Fernández López. Médico Adjunto del Servicio de Endocrinología y Nutrición. Complexo Hospitalario Universitario de Ourense. C/ Villa Valencia, 20-6o A. 32002 Ourense. España. E-mail: maria.teresa.fernandez.lopez@sergas.es

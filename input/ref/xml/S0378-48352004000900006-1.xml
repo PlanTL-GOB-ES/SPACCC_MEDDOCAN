@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Dorleta.
+Apellidos: Berkaitz Aduri.
+NHC: 784645.
+NASS: 08 75845765 45.
+Domicilio: Avenida Zumalácarregui, 20 3A.
+Localidad/ Provincia: Donostia.
+CP: 20008.
+Datos asistenciales.
+Fecha de nacimiento: 25/05/1935.
+País: España.
+Edad:79 años Sexo: M.
+Fecha de Ingreso: 06/11/2014.
+Servicio: Oncología.
+Médico: Karra Amillano Párraga NºCol: 20 20 98745.
+Historia Actual: Se trata de una mujer de 79 años que acude a nuestro centro tras notarse una tumoración no dolorosa en la mama izquierda, que refiere de un mes de evolución aproximadamente. 
+Antecedentes: hipertensión arterial y arritmia cardíaca no filiada
+Exploración física: A la exploración se palpa en cuadrante ínfero-interno de mama izquierda una tumoración sólida de unos 4 cm de diámetro, dura, mal delimitada, fija y adherida a planos profundos.
+Resumen de pruebas complementarias: Se realiza estudio mamográfico de ambas mamas sin poder apreciar claramente la masa por encontrarse en plano profundo.
+En el estudio ecográfico se aprecia una masa hipoecogénica y heterogénea de aproximadamente 28 x 30 mm con signos de malignidad, bordes irregulares y sombra acústica posterior.
+Se realiza una microbiopsia clínica tipo tru-cut de la lesión, mostrando la histología una neoformación infiltrativa maligna de carácter fusocelular y que rodea a estructuras ducto acinares no neoplásicas.
+Las neoplasias malignas de células fusiformes de la mama plantean el diagnóstico diferencial principalmente entre carcinomas metaplásicos de células fusiformes y sarcomas, por lo que se indica la extirpación completa de la lesión y se difiere el diagnóstico definitivo al estudio histológico de la misma.
+Evolución y comentarios: Dada la edad de la paciente y tras valorar sus deseos y las posibilidades terapéuticas, se decide tratamiento quirúrgico, realizándose una cuadrantectomía ínfero-medial sin linfadenectomía axilar.
+El tamaño histológico de la neoplasia es 5 x 4,8 x 3,5 cm, con infiltración de la piel y del músculo esquelético y muestra microscópicamente una proliferación neoplásica infiltrante constituida por células fusiformes dispuestas en fascículos irregulares con abundantes áreas de necrosis y variable densidad celular. Las células neoplásicas presentan marcada atipia nuclear, hipercromasia y abundantes mitosis. En ninguna de las zonas estudiadas se aprecia epitelio ductolobulillar neoplásico o formando parte de la lesión y los escasos ductos observados parecen corresponder a estructuras no neoplásicas infiltradas por el tumor.
+En el estudio inmunohistoquímico las células neoplásicas son intensamente positivas con queratinas AE1-AE3, citoqueratina 22, vimentina, actina músculo liso, Cerb-2 y CD10 y negativas con queratina 903, EMA, citoqueratina 7, CD31, CD34, p63, actina total, desmina, miosina, CD68, proteína S-100 y HMB45. Los receptores hormonales de estrógenos y de progesterona son negativos.
+Con todos estos datos se establece el diagnóstico de carcinoma metaplásico de células fusiformes.
+La paciente no presenta signos de tumor residual y se decide tratamiento coadyuvante radioterápico a dosis de 60 Gy, a 2 Gy por fracción, en 5 fracciones por semana.
+Actualmente la paciente se encuentra asintomática, dos meses después de finalizar el tratamiento.
+Remitido por: Dr. Karra Amillano Párraga. Instituto Oncológico de Guipúzcoa Aldaconea, 44 E-20012 San Sebastián (Guipúzcoa) E-mail: kamillano@oncologico.org
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="16" text="Dorleta" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="29" end="43" text="Berkaitz Aduri" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="50" end="56" text="784645" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T1" start="64" end="78" text="08 75845765 45" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="91" end="120" text="Avenida Zumalácarregui, 20 3A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="144" end="152" text="Donostia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="158" end="163" text="20008" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="207" end="217" text="25/05/1935" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="225" end="231" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="238" end="245" text="79 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="252" end="253" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="273" end="283" text="06/11/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="314" end="336" text="Karra Amillano Párraga" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="344" end="355" text="20 20 98745" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="390" end="395" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="399" end="406" text="79 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T12" start="3266" end="3288" text="Karra Amillano Párraga" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="3290" end="3323" text="Instituto Oncológico de Guipúzcoa" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T7" start="3324" end="3337" text="Aldaconea, 44" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="3338" end="3345" text="E-20012" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="3346" end="3359" text="San Sebastián" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3361" end="3370" text="Guipúzcoa" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="3380" end="3404" text="kamillano@oncologico.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

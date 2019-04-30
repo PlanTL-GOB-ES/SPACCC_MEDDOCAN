@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Maria Asuncion.
+Apellidos: Fernandez Garcia.
+NHC: 754765.
+NASS: 89 27568927 65.
+Domicilio: Calle Maspalomas 56, 16 C.
+Localidad/ Provincia: Madrid.
+CP: 28035.
+Datos asistenciales.
+Fecha de nacimiento: 23/04/1982.
+País: España.
+Edad: 35 años Sexo: M.
+Fecha de Ingreso: 11/08/2017.
+Médico: Alejandro Thomas Santamaría NºCol: 28 28 56484.
+Historia del paciente: Se trata de una mujer de 35 años, con antecedentes familiares de enfermedad de Crohn y sin antecedentes patológicos de interés ni hábitos tóxicos que comenzó con clínica de dolor abdominal en FID más pérdida de peso. Se la estudió de forma ambulatoria llegando al diagnóstico de enfermedad de Crohn con afectación ileal y de la válvula ileocecal (A1L1B2, Viena 1998), según criterios clínicos, endoscópicos e histológicos.
+Se inició tratamiento con mesalazina y esteroides con buena respuesta. Debido a la corticodependencia, se inició tratamiento con azatioprina, manteniéndose libre de esteroides y en completa remisión clínica, volviendo a presentar sintomatología dos años despúes. Se indicó la administración de infliximab, llegándose a administrar 2 dosis. Los anticuerpos antinucleares, radiografía de tórax y serología viral fueron negativos.
+A las 2 semanas, ingresó por cuadro de fiebre de 39 ºC, dolor y dificultad para movilizar el cuello. La semana previa había presentado afectación del estado general y fiebre, realizando durante tres días tratamiento ambulatorio con azitromicina. A la exploración física destacaba la delgadez (IMC 17), temperatura 37 ºC, tensión arterial 105/60, se encontraba consciente y orientada, con exploración neurológica completa normal, muguet oral y exploración cardiorrespiratoria y abdominal normales. En las pruebas realizadas destacaba una anemia normocítica (9,9 g/dl de Hb), leucocitos 6.700 con 84% de segmentados, plaquetas 363.000. La velocidad de sedimentación era de 68. Los parámetros bioquímicos en sangre eran normales salvo la GOT 87, GPT 51, gamma-GT 67 y las proteínas totales que eran de 5,8 g/dl con albúmina de 1.400 mg/dl. El elemental de orina y sedimento eran normales, así como las radiografías de tórax y abdomen al ingreso. Se realizó punción lumbar, detectando en el examen del líquido una glucorraquia normal, proteinorraquia de 102 mg/dl, 960 células/mm3 un 90% de las cuales se correspondían a polinucleares, tinción de Gram en la que no se observaron gérmenes y cultivo positivo a Listeria monocytogenes, por lo que se llegó al diagnóstico de meningitis por Listeria, iniciando tratamiento antibiótico y suspendiendo toda medicación inmunosupresora.
+A los 5 días de su hospitalización presentó un cuadro de abdomen agudo objetivándose peritonitis intestinal secundaria a perforación de íleon preterminal y estenosis ileal, resto de intestino delgado y colon normales. Se realizó resección íleo-cecal e ileostomía terminal con fístula mucosa de colon ascendente. Se confirmó por anatomía patológica inflamación granulomatosa compatible con enfermedad de Crohn.
+La evolución fue favorable, completando la antibioterapia con ampicilina y gentamicina durante tres semanas, con LCR negativo al alta. Se restableció azatioprina una vez estable y superado el cuadro infeccioso, siendo dada de alta a los 21 días de su ingreso.
+Remitido por: Dr. Alejandro Thomas Santamaría. Correo electrónico alejthoms@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="9" end="23" text="Maria Asuncion" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="36" end="52" text="Fernandez Garcia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="59" end="65" text="754765" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="73" end="87" text="89 27568927 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="100" end="125" text="Calle Maspalomas 56, 16 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="149" end="155" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="161" end="166" text="28035" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="210" end="220" text="23/04/1982" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="228" end="234" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="242" end="249" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="256" end="257" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="277" end="287" text="11/08/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="297" end="324" text="Alejandro Thomas Santamaría" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="332" end="343" text="28 28 56484" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="384" end="389" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="393" end="400" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T2" start="723" end="728" text="Viena" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="729" end="733" text="1998" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="3281" end="3308" text="Alejandro Thomas Santamaría" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3329" end="3347" text="alejthoms@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

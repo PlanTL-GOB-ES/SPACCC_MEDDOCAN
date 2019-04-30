@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  David.
+Apellidos: Pedroche Muñoz.
+NHC: 943579.
+Domicilio: Calle Pedraza 18, 3B.
+Localidad/ Provincia: Madrid.
+CP: 28002.
+Datos asistenciales.
+Fecha de nacimiento: 24/02/2009.
+País: España.
+Edad: 9 años Sexo: H.
+Fecha de Ingreso: 15/05/2018.
+Médico: Andrés Rodríguez Lorenzo NºCol: 28 28 95632.
+Historia del paciente: Varón de 9 años de edad que presenta tras un accidente de tráfico, un defecto complejo postraumático en pie y tobillo izquierdos que incluye una pérdida de sustancia de 7 x 10 cm con exposición de maleolo tibial, astrágalo y articulación subastragalina, sección de tendón tibial posterior y tendón flexor largo de los dedos y avulsión de nervio tibial y de la arteria tibial posterior con un defecto de 5 cm. El pie permanece vascularizado a través de la arteria tibial anterior.
+Tras el pertinente desbridamiento de tejido desvitalizado, se plantea la reconstrucción del defecto a los 5 días del traumatismo, mediante la reparación de los tendones afectados, reconstrucción del nervio tibial con injertos de nervio sural y cobertura del defecto con un colgajo de perforantes ALM. Preoperatoriamente se diseña un colgajo de 7 x 10 cm en el muslo izquierdo basado en una perforante localizada con Doppler. Tras una disección subfascial estándar del colgajo siguiendo la descripción hecha por Wei et al. (4), localizamos una perforante con un trayecto intramuscular muy largo y de pequeño diámetro; se decide entonces explorar proximalmente la rama transversa de la arteria circunfleja femoral lateral (ACFL) con el fin de buscar una mejor perforante. Se localiza una perforante de mayor calibre a ese nivel y se rediseña el colgajo para convertirlo en un colgajo de perforantes de TFL, dibujando una isla de piel más proximalmente con centro en la nueva perforante; se incluye en el colgajo el nervio femorocutáneo lateral del muslo para proporcionarle sensibilidad. Tras la reparación del nervio tibial con 3 injertos de nervio sural de 5cm cada uno, se lleva a cabo la transferencia y fijación del colgajo. Las anastomosis se realizan termino-terminalmente a la arteria tibial posterior y a dos venas, una vena comitante tibial posterior y a la vena safena mayor. El nervio femorocutáneo lateral del colgajo se conecta término-lateralmente al cabo proximal del nervio tibial. Finalmente, se realiza un cierre directo de la zona dadora. El tiempo total de la intervención fue de 7 horas y 30 minutos. El postoperatorio transcurrió sin complicaciones y el paciente recibió el alta hospitalaria a los 18 días de la intervención quirúrgica.
+El programa de fisioterapia comenzó desde la primera semana de postoperatorio, apoyando parcialmente el pie (con ayuda de muletas y férula de protección) al mes de la cirugía y deambulando con total apoyo del pie a las 6 semanas. A los 4 meses de la cirugía el contorno del pie era adecuado, lo que permitió al paciente usar un calzado normal, con un rango de movilidad del tobillo de 45 º de flexión plantar y 15º de flexión dorsal y una sensibilidad de protección (detectada con test de monofilamento) plantar y del colgajo.
+Remitido por: Dr. Andrés Rodríguez Lorenzo 333, Medical Village, Paseo de la castellana 206. Madrid. e-mail: a.rodriguez.ps@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="9" end="14" text="David" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="27" end="41" text="Pedroche Muñoz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="48" end="54" text="943579" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T17" start="67" end="87" text="Calle Pedraza 18, 3B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="111" end="117" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="123" end="128" text="28002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="172" end="182" text="24/02/2009" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="190" end="196" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="204" end="210" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="217" end="218" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="238" end="248" text="15/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="258" end="282" text="Andrés Rodríguez Lorenzo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="290" end="301" text="28 28 95632" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="326" end="331" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="335" end="341" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T5" start="3109" end="3137" text="Andrés Rodríguez Lorenzo 333" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3139" end="3154" text="Medical Village" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T3" start="3156" end="3182" text="Paseo de la castellana 206" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="3184" end="3190" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3200" end="3224" text="a.rodriguez.ps@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

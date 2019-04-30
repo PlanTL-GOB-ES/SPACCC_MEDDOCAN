@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Santiago.
+Apellidos: Obregon Ortega.
+NHC: 7892365.
+Domicilio: Calle Profesor Wasman, 14.
+Localidad/ Provincia: Madrid.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento:27/08/2009.
+País: España.
+Edad: 9 años Sexo: H.
+Fecha de Ingreso: 10/10/2018.
+Médico:  Alba Fernández Gómez  NºCol: 28 28.
+Informe clínico del paciente: Niño de nueve años que acude a consulta con una lesión eritematosa circinada, con bordes sobreelevados, eritematosos, notablemente más activos que el centro de la lesión, de unos 10 cm, situada en el muslo derecho. Tratada con hidratación desaparece en unas semanas. Sin embargo, a los meses presenta lesiones similares de menor tamaño dispersas en tórax, cuello y muslo.
+Se realiza un cultivo de las lesiones, con resultado negativo. Dado el prurito intenso y la resolución espontánea con hidratación, el dermatólogo responde que la etiología más probable es eccema atópico. Por ello, aconseja tratamiento con corticoide tópico.
+Remitido por: Dra. Alba Fernández Gómez. Correo electrónico: albafgo90@gmail.com

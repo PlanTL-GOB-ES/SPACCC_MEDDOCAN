@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Renata.
+Apellidos: Reyes Moreno.
+NHC: 7846283.
+NASS: 89 46587920 56.
+Domicilio: Calle de Andrés Antón, 27.
+Localidad/ Provincia: Sevilla.
+CP: 46023.
+Datos asistenciales.
+Fecha de nacimiento: 14/01/1996.
+País: España.
+Edad: 33 años  Sexo: H.
+Fecha de Ingreso: 27/09/2014.
+Médico: Armando Rincón Mayans  NºCol: 20 28 97163.
+Mujer de 55 años con polivalvulopatía reumática que presenta dolor en epigastrio irradiado hacia la espalda en cinturón de 48 horas de evolución, ictericia, coluria, acolia y fiebre (38,2 oC). En analítica muestra amilasa 2.126 U/l, ALT 124 U/l, AST 169 U/l, GGT 3.548 U/l, FA 1.516 U/l, BrT 12,2 mg/dl y BrD 9,1 mg/dl. En ecografía y tomografía computarizada (TAC) abdominal se evidencia colelitiasis con leve dilatación de vía biliar (DVB) extrahepática y cambios compatibles con PAL. Ingresa con diagnóstico de colangitis aguda y PAL, iniciándose tratamiento empírico con piperazilina-tazobactam. Al segundo día aparecen en ambas piernas nódulos subcutáneos dolorosos y eritematosos, compatibles histológicamente con PP. Los hemocultivos fueron positivos para R. planticola sensible al tratamiento instaurado. En colangio-resonancia magnética (RNM) se descartan DVB y coledocolitiasis. Ante la mejoría de los parámetros de colestasis y ausencia de patología obstructiva, y asumiendo la salida espontánea de coledocoliatiasis, se decide no realizar CPRE. Al decimoprimer día se da de alta por buena evolución.
+Dirección para correspondencia: Victoria Martín-Yuste. Servicio de Cardiología. Instituto del Tórax. Hospital Clínic. c/ Villarroel, 170. 08036 Barcelona e-mail: vmartiny@clinic.ub.es

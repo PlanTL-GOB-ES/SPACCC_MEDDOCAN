@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: David.
+Apellidos: Moreno Ruiz .
+NHC: 96147325.
+NASS: 20 36598396 53.
+Domicilio: Calle de Averroes, 40.
+Localidad/ Provincia: Madrid.
+CP: 28034.
+Datos asistenciales.
+Fecha de nacimiento: 08/11/1924.
+País de nacimiento: España.
+Edad: 38 años  Sexo: H.
+Fecha de Ingreso: 24/04/2017.
+Servicio: Reumatología.
+Episodio: 8349623.
+Médico: Asier Gómez Ibáñez  NºCol: 04 04 58930.
+Se trata de una mujer de 71 años con cirrosis hepática criptogenética sin confirmación histológica (MELD 6; Child-Pugh A6) con varios episodios previos de hemorragia varicosa en los dos años anteriores atribuida a VE con prolongaciones subcardiales clásicas. El recorrido endoscópico previo consiguió la erradicación variceal mediante la combinación secuencial de ligadura con bandas y esclerosis con N-butil-2-cianoacrilato (NBC). Bajo tratamiento médico optimizado, el gradiente de presión venosa hepática fue de 15 mmHg. El eje esplenoportal estuvo siempre permeable en las ecografías semestrales con Doppler.
+Presentó un episodio hemorrágico adicional, esta vez secundario a la rotura de una VG, no descrita previamente, que fue tratada de forma urgente con NBC (2 cc) previa a la inserción diferida de un TIPS. Durante el procedimiento se detectó -a radioscopia y en la esplenoportografía indirecta- una trombosis portal (TP) parcial, radioopaca, que se confirmó mediante portografía directa; el TIPS permitió la resolución de la TP y el gradiente de presiones descendió a 8 mmHg. En los controles ecográficos periódicos la velocidad promediada del flujo en la vena porta (40 cm/s) y en el interior del TIPS (100 cm/s) se mantuvieron correctos tras 12 meses de seguimiento.
+Correspondencia a: Julián L. García julianlgarcia87@gmail.com

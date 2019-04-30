@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Fátima.
+Apellidos: Moreno Herrera.
+NHC: 2906854.
+NASS: 79 13491346 77.
+Domicilio: Ignacio L. Vallarta 24, Tabacal.
+Localidad/ Provincia: Madrid.
+CP: 28023.
+Datos asistenciales.
+Fecha de nacimiento: 07/08/1956.
+País: España.
+Edad: 9 años  Sexo: H.
+Fecha de Ingreso: 21/05/2018.
+Servicio: Oncología.
+Médico: Carlos Ruiz-Zorrilla López   NºCol: 08 20 52485.
+Hombre de 34 años que consultó por dolor suprapúbico, polaquiuria y nicturia. Sin hallazgos de laboratorio. En la cistoscopía se evidencian glomerulaciones a la distención vesical. Una biopsia vesical randomizadas revela mucosa vesical con infiltrado perivascular y múltiples eosinófilos. Se diagnóstica cistitis eosinofílica. Inicialmente se trató con instilaciones vesicales de heparina y corticoides, sin embargo persistió con frecuencia miccional de 20/6. Posteriormente se uso amitriptilina, oxibutinina y teltoridona sin respuesta. Estudio urodinamico revela vejiga inestable sensitiva durante fase de continencia. Se repite cistoscopía sin hallazgos significativos. Una nueva biopsia revela inflamación inespecífica. Se inicia tratamiento con Hidroxicina 20 mg cada 8 horas más Diclofenaco sódico 50 mg. cada 8 h, con buena respuesta. El dolor cedió y la frecuencia miccional disminuyó a 6/0, con mayor volumen miccional. Por somnolencia se cambió antihistamínico a Cetirizina, con igual respuesta.
+Dirección para correspondencia: Dr. Luis F. Ebel Sepulveda Servicio de Urología. Hospital Regional de Valdivia Departamento de Urología. Universidad de Chile E-mail autor: luisebel@uach.cl Información artículo: Nota clínica

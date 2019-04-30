@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Patricia .
+Apellidos: Jaime Robles.
+NHC: 2689756.
+NASS: 49 01482264 19.
+Domicilio: Av. Valdes, 51.
+Localidad/ Provincia: Madrid.
+CP: 15679.
+Datos asistenciales.
+Fecha de nacimiento: 16/018/1961.
+País: España.
+Edad: 60 años  Sexo: H.
+Fecha de Ingreso: 08/06/2018.
+Servicio: Oncología.
+Médico: Mario Álvarez Maestro  NºCol: 28 28 45987.
+Paciente de 62 años de edad con discretas molestias miccionales irritativas, tacto rectal no sugestivo de neoplasia. El valor de PSAt era 29,5 ng/ml. Los valores previos de PSA total /PSA libre/ índice fueron de 14,2 / 0,80/ 5,6% y 12,0/ 0,69/ 5,7% respectivamente. El paciente había sido sometido a 5 biopsias previas por sextantes, todas ellas negativas. Se practicó entonces una E-RME que mostró, en imágenes axiales y coronales, la presencia de una amplia zona hipo intensa a nivel del ápex de la zona central prostática, que en la espectroscopia presentaba áreas sugestivas de neoplasia. A pesar de tener unos índices elevados de creatina-colina/citrato sugestivos de neoplasia, los voxels 36 y 45 son poco valorables puesto que corresponden a la zona de uretra prostática. En los voxels 46, 52, 53 y 55 se observan unas curvas elevadas de citrato con unos picos de colina menos acentuados, y unos índices poco sugestivos de neoplasia (<0,75). En el resto de gráficos, se observa una disminución generalizada de los metabolitos, con unos índices sospechosos de neoplasia, que se confirmó mediante biopsia de dicha zona.
+
+Dirección para correspondencia: Manuel Romero Gómez UGMQ Enfermedades Digestivas y CIBERehd Hospital Universitario de Valme. Avda. de Bellavista, s/n 41014 Sevilla e-mail: mromerogomez@us.es

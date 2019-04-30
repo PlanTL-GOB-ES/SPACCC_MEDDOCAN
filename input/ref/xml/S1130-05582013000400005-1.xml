@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Borja.
+Apellidos: Recamal Tercero.
+NHC: 3892568.
+NASS: 80 72568907 56.
+Domicilio: Av/ pio XII 67, 3B.
+Localidad/ Provincia: Madrid.
+CP: 28038.
+Datos asistenciales.
+Fecha de nacimiento: 26/05/1964.
+País: España.
+Edad: 53 años Sexo: H.
+Fecha de Ingreso: 23/08/2017.
+Médico: Luis Sarra Dominguez.
+Informe clinico del paciente: Hombre caucásico de 53 años, sin antecedentes importantes que comienza en febrero de 2007 con obstrucción nasal izquierda y epistaxis. Consulta en junio por tumoración azulada en fosa nasal izquierda visible por narina. Se realizó una biopsia quirúrgica de la masa que fue informada como "melanoma nodular". En la tomografía axial computarizada (TAC) se observa un tumor que desplazaba el tabique extendiéndose hasta las celdillas etmoidales izquierdas. No se palpaban adenomegalias en el cuello y se descartó patología regional y alejada mediante estudios de imágenes (TAC) y de laboratorio.
+Se interviene en agosto de 2007. Se realiza como primera maniobra quirúrgica una cervicotomía para ligar la arteria carótida externa izquierda con el objetivo de minimizar la hemorragia intraoperatoria. Se efectuó biopsia por congelación intraoperatoria de un ganglio hallado aisladamente en la bifurcación carotídea durante la maniobra de la ligadura arterial descripta. La misma fue informada como negativa. Se continuó con una rinotomía horizontal con sección de la columela y sección vertical del labio superior. Se resecó el tabique óseo y cartilaginoso avanzando con el escoplo paralelo al paladar duro. Se completó la resección en bloque del septum con el tumor que se originaba en el cornete inferior izquierdo. Finalizada la resección se comprobó una persistencia tumoral de 5 mm. de diámetro a nivel de la lámina cribosa del etmoides, que no se resecó por no contarse con equipo de Neurocirugía. Se suturó por planos la herida, previo taponamiento con "pack" de gasa del lecho quirúrgico. El paciente evolucionó con parálisis del nervio motor ocular común izquierdo que remitió espontáneamente en 3 semanas.
+Anatomía Patológica: el estudio diferido informa: melanoma mucoso epitelioide infiltrante con áreas de melanoma in situ. Resección incompleta en margen superior. Ganglio cervical con infiltración de melanoma.
+Se indicó radioterapia con reconstrucción tridimensional (6.500 cGy) y 6 ciclos de quimioterapia con dacarbacina. La evolución fue favorable y no presenta evidencias de enfermedad tras un seguimiento de 4 años.
+Remitido por: Luis Sarra Dominguez. Email: lsarra@intramed.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="8" end="13" text="Borja" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="26" end="41" text="Recamal Tercero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="48" end="55" text="3892568" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="63" end="77" text="80 72568907 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="90" end="108" text="Av/ pio XII 67, 3B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="132" end="138" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="144" end="149" text="28038" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="193" end="203" text="26/05/1964" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="211" end="217" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="225" end="232" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="239" end="240" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="260" end="270" text="23/08/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="280" end="300" text="Luis Sarra Dominguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="332" end="338" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T5" start="339" end="348" text="caucásico" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="352" end="359" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T4" start="406" end="421" text="febrero de 2007" TYPE="FECHAS" comment=""/>
+    <DATE id="T3" start="479" end="484" text="junio" TYPE="FECHAS" comment=""/>
+    <DATE id="T2" start="942" end="956" text="agosto de 2007" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="2477" end="2497" text="Luis Sarra Dominguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2506" end="2525" text="lsarra@intramed.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

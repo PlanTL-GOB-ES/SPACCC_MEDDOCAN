@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Ignacio .
+Apellidos: Iglesias Garay.
+NHC: 8975674.
+NASS: 57 14365706 31.
+Domicilio: C/ Virgen de la Cabeza, 62,3 A.
+Localidad/ Provincia: Granada.
+CP: 18014.
+Datos asistenciales.
+Fecha de nacimiento: 07/09/1995.
+País de nacimiento: España.
+Edad: 20 años Sexo: H.
+Fecha de Ingreso: 16/06/2016.
+Médico: Carmen Miguel Cabrera NºCol: 18 18 54789.
+Informe clínico del paciente: Paciente de 20 años de edad que acude a urgencias, con dolor lumbar y fiebre. Al paciente se le realizan urocultivos, hemocultivos, y estudio de marcadores tumorales (pruebas que resultan negativas), por tomografía axial computerizada (TAC) se le detecta una masa tumoral que afecta al polo superior del riñón derecho. Tras lo cual se realiza la resección quirúrgica del tumor.
+La pieza de resección quirúrgica estaba constituida por una masa tumoral de 14 cm de diámetro mayor, con infiltración del polo superior y segmento medio renales, y afectación del seno y sistema pielocalicial. Se observó presencia de invasión vascular linfática tumoral en el tejido renal y grasa adyacente. Metástasis medular de glándula suprarrenal, invasión de la grasa perirrenal y nódulos de la cadena interaórtico cava.
+Mediante la realización de técnicas de inmunohistoquímica sobre secciones de parafina con diferentes anticuerpos monoclonales (Dako) se encontró el siguiente patrón de tinción compatible con un tumor desmoplásico de células pequeñas y redondas: citoqueratinas 8, 18 y 19 (+), proteína ácida fibrilar glial (-), desmina (+), vimentina (+), sinaptofisina (+), cromogranina (-), actina (débilmente +), y S-100 (débilmente +).
+Se realizó igualmente el estudio citogenético de la translocación t(11;22) (p13;q12) que implica a los genes EWS1 y WT1 mediante hibridación in situ fluorescente (FISH), para ello se utilizó el kit LSI EWSR1 (22q12) Dual Color Break Apart Rearrangement Probe (VYSIS). El cual está constituido por una mezcla de dos sondas que flanquean completamente el locus del gen EWS1, la sonda más centromérica está marcada con Spectrum-Orange y las más telomérica con Spectrum-Green. Como resultado de este diseño cualquier translocación en la que esté implicado el locus EWS1 produce la separación de la señal de fusión rojo-verde en una señal roja y otra verde. El patrón observado en nuestro caso se corresponde con el patrón de normalidad, con presencia de dos señales de fusión roja-verde por cada célula tumoral, confirmando por tanto la ausencia de translocación en el paciente.
+El paciente fue tratado con tres ciclos de CAV, cuatro ciclos de Ifosfamida/VP-16, y posteriormente CTX, ADR, y VCR. Como resultado de este tratamiento no se detecta infiltración tumoral en médula ósea. Sin embargo posteriormente se le detectó por TAC reaparición del tumor y metástasis hepática. Tras lo cual no se produce respuesta al tratamiento y el paciente fallece a los dos años del diagnóstico inicial.
+Responsable clínico: Dra. Carmen Miguel Cabrera Hospital Universitario Virgen de las Nieves Servicio de Anatomía Patológica Edificio de Gobierno - 4ª Planta Avenida Fuerzas Armadas, 2 E-18014 Granada E-mail: mcabrm@fundacionhvn.org
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="35" text="Ignacio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="49" end="63" text="Iglesias Garay" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="70" end="77" text="8975674" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="85" end="99" text="57 14365706 31" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="112" end="142" text="C/ Virgen de la Cabeza, 62,3 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="166" end="173" text="Granada" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="179" end="184" text="18014" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="228" end="238" text="07/09/1995" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T9" start="260" end="266" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="274" end="281" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="288" end="289" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="309" end="319" text="16/06/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="329" end="350" text="Carmen Miguel Cabrera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="358" end="369" text="18 18 54789" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T11" start="413" end="420" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2939" end="2960" text="Carmen Miguel Cabrera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2961" end="3004" text="Hospital Universitario Virgen de las Nieves" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3070" end="3096" text="Avenida Fuerzas Armadas, 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3097" end="3104" text="E-18014" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3105" end="3112" text="Granada" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3121" end="3144" text="mcabrm@fundacionhvn.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

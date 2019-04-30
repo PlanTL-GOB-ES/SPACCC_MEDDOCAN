@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Natalia.
+Apellidos: Rivas Ibarra.
+NHC: 7892657.
+NASS: 73 46509365 65.
+Domicilio: C/ Ramon Rubio Fernandez, 23.
+Localidad/ Provincia: Toledo.
+CP: 45826.
+Datos asistenciales.
+Fecha de nacimiento: 23/05/1986.
+País: España.
+Edad: 29 años Sexo: M.
+Fecha de Ingreso: 04/08/2015.
+Médico: Ernesto Landa Contreras NºCol: 45 45 12563.
+Historia Actual: Mujer de 29 años, soltera, vive con sus padres en la calle Ramon Rubio Fernandez, 23, sin antecedentes de patología orgánica, psiquiátrica o abuso de tóxicos, ingresada en neurología por alteraciones de conducta, desorientación y falta de conexión con el medio. La familia refería que era el primer episodio de estas características, que desde hacía 2 semanas veían a la paciente desanimada, poco comunicativa (no identificaban ningún desencadenante ni factor descompensatorio, la relación con la paciente era buena, tenía buena red social de apoyo, buen desempeño laboral, etc.), a veces se quedaba con la mirada perdida, llegando a hablar incoherencias ("las venas de la cabeza secas"), no había alteración de los ritmos biológicos. Todo ello era motivo de gran agobio familiar, por lo que acudieron al médico de familia, siendo tratada como un cuadro depresivo y pautándosele sertralina 50 mg/día (1 semana antes del ingreso). La evolución fue tórpida, presentado episodios de agitación psicomotriz y desorientación, motivo por el que la familia decide llevar a la paciente a las urgencias de medicina. No había antecedentes familiares de enfermedad psiquiátrica u orgánica importante. En el examen, aparte de la desorientación espacio-temporal y la agitación, no se encontró nada llamativo, no presentando focalidad neurológica.
+Exploración y pruebas complementarias: Las analíticas (hemograma, coagulación, pruebas de función hepática, renal, tiroidea, orina, ácido fólico y vitamina B12) y tomografía cerebral fueron normales. Los tóxicos en orina fueron negativos. La punción lumbar (PL) mostró 26 leucocitos/mm3. 
+Evolución: En urgencias presentó una convulsión tónico-clónica generalizada, siendo ingresada con el diagnóstico presuntivo de encefalitis vírica, iniciándose tratamiento con aciclovir y ácido valproico.
+Durante su ingreso fue evaluada por Psiquiatría. La familia nuevamente refirió que la paciente se encontraba apática desde hacía 2 semanas, repitiendo que tenía "las venas de la cabeza secas". Se la catalogó como una depresión psicótica y se pautó venlafaxina 75 mg/día. La serología para VIH, Brucella, Citomegalovirus, Herpes Simple, Sífilis, Toxoplasmosis y Epstein Barr fueron negativas.
+Durante la primera semana de hospitalización la paciente estaba confusa, presentaba soliloquios y risas inmotivadas. Se repitió la PL (34 leucocitos/mm3, linfocitos 100 %, la serología y cultivo del líquido cefalorraquídeo (LCR) para Brucella, Lúes y Borrellia fueron negativos). La resonancia magnética (RM) cerebral fue normal. Se suspendió el antidepresivo y se pautó tiapride.
+Durante la segunda semana, el electroencefalograma (EEG) mostró signos de encefalopatía lenta difusa de grado moderado. La paciente no respondía a órdenes simples, estaba mutista, estuporosa, por lo que se suspendió el tiapride, dejándola con haloperidol intramuscular en caso de agitación. Debido a la evolución tórpida se la ingresó en UCI suspendiéndose el ácido valproico e iniciando levetirazepam. La paciente comenzó a presentar movimientos involuntarios y distonías. La ecocardiografía transtorácica fue normal. Se añadieron megadosis de corticoides y hemina (por sospecha de porfiria aguda intermitente). Debido a las crisis tónicas complejas más frecuentes se decide sedación e intubación endotraqueal. No se detectaron uroporfirinas, las coproporfirinas y el zinc estaban en límites normales (por lo que se suspendió la hemina). Se repitió PL, siendo la reacción en cadena de polimerasas para micoplasma y micobacterias normales.
+Durante la cuarta semana, se retiró la sedación: respondía a órdenes sencillas, presentaba mioclonías faciales y movimientos bucolinguales, procediéndose a la extubación. El EEG siguió mostrando signos de encefalopatía difusa. Se descartó enfermedad por priones (negativo a proteína en LCR). La ecografía ginecológica mostró un ovario ligeramente aumentado de tamaño.
+Durante la sexta semana, la ceruloplasmina, cobre sérico y ecografía abdominal fueron normales. La paciente estaba más consciente y reactiva. Se planteó la posibilidad de encefalitis con relación a teratoma no objetivado. Se repitió la PL buscando la presencia de anticuerpos paraneoplásicos (anti-Hu, anti-Yo, anti-Ri, anti-CV2, antifisina, anti-Tr y anti-canales de calcio), que fueron negativos, excepto los anticuerpos anti-NMDA. Se llamó nuevamente a Psiquiatría por agitación psicomotriz e ideas delirantes autorreferenciales, iniciándose ziprasidona 40 mg/día, llegando hasta 160 mg/día con mejoría progresiva, siendo el diagnóstico final el de encefalitis contra los receptores N-metil-D-aspartato (ECR-NMDA) y trastorno psicótico secundario a patología orgánica (ECR-NMDA).
+Remitido por: Dr. Ernesto Landa Contreras Avda. Purísima Concepción 6, 1o A C.P. 45006. Toledo (España) Correo electrónico: cabiros@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T28" start="28" end="35" text="Natalia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T27" start="48" end="60" text="Rivas Ibarra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T26" start="67" end="74" text="7892657" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="82" end="96" text="73 46509365 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T24" start="109" end="137" text="C/ Ramon Rubio Fernandez, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T23" start="161" end="167" text="Toledo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T22" start="173" end="178" text="45826" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T21" start="222" end="232" text="23/05/1986" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T20" start="240" end="246" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T19" start="254" end="261" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T18" start="268" end="269" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="289" end="299" text="04/08/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T16" start="309" end="332" text="Ernesto Landa Contreras" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T15" start="340" end="351" text="45 45 12563" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T14" start="370" end="375" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="379" end="386" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T12" start="388" end="395" text="soltera" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="410" end="416" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T10" start="423" end="454" text="calle Ramon Rubio Fernandez, 23" TYPE="CALLE" comment=""/>
+    <OTHER id="T3" start="635" end="642" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="1411" end="1418" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="2248" end="2255" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="5078" end="5101" text="Ernesto Landa Contreras" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="5102" end="5135" text="Avda. Purísima Concepción 6, 1o A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T7" start="5141" end="5146" text="45006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="5148" end="5154" text="Toledo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="5156" end="5162" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T4" start="5184" end="5201" text="cabiros@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Josefino.
+Apellidos: Moreno Gutierrez.
+NHC: 4378906.
+NASS: 47 563597 36.
+Domicilio: Calle Monte de la Villa, 13, 4 A .
+Localidad/ Provincia: Albacete.
+CP: 02019.
+Datos asistenciales.
+Fecha de nacimiento: 21/02/1972 .
+País de nacimiento: España.
+Edad: 40 años Sexo: H.
+Fecha de Ingreso: 10/04/2012.
+Servicio: Urología.
+Médico: Héctor Pastor Navarro NºCol: 02 02 59236.
+Informe clínico del paciente: Varón de 40 años con antecedentes personales de Leoch en 4 ocasiones anteriores. 5ª Leoch de litiasis renal izquierda, pielocalicial inferior úrica, de 2,5 cm. Portador de catéter doble J por hidronefrosis. Se aplicaron 5.000 impactos, a intensidad 3-4.
+No HTA previa, ni mientras permaneció el hematoma, ni después de su evacuación.
+Ingresa desde urgencias 9 días después de la Leoch por dolor lumbar, Hto de 27 y Hb de 9.
+En ecografía y TAC se demuestra hematoma subcapsular de 15x9 cm.
+Se transfundieron 3 concentrados de hematíes.
+Evacuación del hematoma por vía lumbar 12 días después del ingreso, por dolor y persistencia del tamaño del hematoma en Tac de control. Al 4º día postoperatorio fue alta con buena evolución clínica. Posteriormente se trató con alcalinizantes urinarios hasta desaparecer los restos litiásicos que persistían tras la litotricia; varios controles posteriores con eco y UIV normales.
+Responsable clínico: Dr. Héctor Pastor Navarro Servicio de Urología Complejo Hospitalario Universitario de Albacete Hermanos Falcó, s/n - 02006 Albacete Tel.: 967 597 100 E-mail: hektorpn@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="36" text="Josefino" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="49" end="65" text="Moreno Gutierrez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="72" end="79" text="4378906" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="87" end="99" text="47 563597 36" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="112" end="144" text="Calle Monte de la Villa, 13, 4 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="169" end="177" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="183" end="188" text="02019" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="232" end="242" text="21/02/1972" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T1" start="265" end="271" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="279" end="286" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="293" end="294" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="314" end="324" text="10/04/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="354" end="375" text="Héctor Pastor Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="383" end="394" text="02 02 59236" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="426" end="431" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="435" end="442" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1366" end="1387" text="Héctor Pastor Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1409" end="1456" text="Complejo Hospitalario Universitario de Albacete" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="1457" end="1476" text="Hermanos Falcó, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1479" end="1484" text="02006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1485" end="1493" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="1500" end="1511" text="967 597 100" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T2" start="1520" end="1540" text="hektorpn@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

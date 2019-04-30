@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Martin.
+Apellidos: Gomez Rodriguez.
+NHC: 34276452.
+NASS: 23 45867456 51.
+Domicilio: Calle de la villa de marin 6, 10 E.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 22/02/1987.
+País: España.
+Edad: 30 años Sexo: H.
+Fecha de Ingreso: 13/11/2017.
+Médico: Paola Maldonado Cid NºCol: 28 28 62256.
+Historia Actual: Varón de 30 años con ceguera legal desde la infancia, afiliado a la ONCE, que acude a la consulta diagnosticado de tumor intraocular. 
+Antecedentes:Entre los antecedentes destaca hipoacusia, no existía ninguna evidencia de neurofibromatosis. Estaba intervenido de cataratas en ambos ojos y glaucoma en el ojo izquierdo (OI) hacía 10 años.
+Exploración física:A la exploración oftalmológica la agudeza visual era de cuenta dedos en el ojo derecho (OD) y amaurosis en el OI. Presentaba un nistagmus pendular. En el estudio del segmento anterior destaca en el OD un coloboma de iris, pseudofaquia y en el OI seclusión pupilar y la ampolla de filtración de la trabeculectomia previa. La presión intraocular era de 14 en el OD y 45 mm Hg en el OI. 
+Resumen de pruebas complementarias:En el fondo de ojo se observaba en el OD un coloboma de retina y nervio óptico (NO); no fue posible visualizar fondo en el OI, en la ecografía se observaba un desprendimiento de retina y la presencia de una masa en temporal inferior. Se solicitaba una RNM que fue informada como aumento del diámetro del globo ocular del OD 32 x 26 mm y dilatación de la salida del NO; en el OI éste tenía un tamaño de 23 x 22, y se detectaba una lesión polipoidea en temporal inferior del globo isointensa en T1 e hipointensa en T2 con realce tras contraste, pudiendo estar en relación con melanoma amelanótico, asociada a un leve engrosamiento de las cubiertas; además una lesión extraocular a la salida del NO quística hiperintensa en secuencia T2 sin captación de contraste.
+Evolución y comentarios: Con la sospecha de un tumor intraocular y del NO se realiza enucleación, que precisó de orbitotomía lateral. Microscópicamente se observa un globo ocular que presentaba en uno de sus polos una tumoración grisácea de consistencia blanda y NO engrosado. El estudio anatomopatológico describe una proliferación en el interior del globo y debajo de la retina formado por células enlongadas con núcleos ovoides y estroma fibroso con vasos de paredes gruesas, abundantes fibras gliales, fibras de Rosenthal y áreas microsquísticas. Se encontraba también una imagen de morfología similar con cambios quísticos y calcificaciones en el filete óptico. La inmunohistoquímica fue positiva para S100, enolasa neuronal específica, vimentina y GFAP, Ki67 fue positivo en baja proporción.
+Remitido por: Paola Maldonado Cid, Hospital Universitario La Paz, Servicio de Dermatología, Paseo de la Castellana no 261, 28046 - Madrid, España. E-mail: pmaldonadocid@gmail.com.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="15" text="Martin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="28" end="43" text="Gomez Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="50" end="58" text="34276452" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="66" end="80" text="23 45867456 51" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="93" end="127" text="Calle de la villa de marin 6, 10 E" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="151" end="157" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="163" end="168" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="212" end="222" text="22/02/1987" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="230" end="236" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="244" end="251" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="258" end="259" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="279" end="289" text="13/11/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="299" end="318" text="Paola Maldonado Cid" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="326" end="337" text="28 28 62256" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="356" end="361" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="365" end="372" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T8" start="424" end="428" text="ONCE" TYPE="INSTITUCION" comment=""/>
+    <NAME id="T7" start="2708" end="2727" text="Paola Maldonado Cid" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2729" end="2758" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2786" end="2815" text="Paseo de la Castellana no 261" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2817" end="2822" text="28046" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2825" end="2831" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2833" end="2839" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2849" end="2872" text="pmaldonadocid@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

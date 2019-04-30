@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[                                         Datos del paciente.
+                                         Nombre: Manuel.
+                                         Apellidos: Fernandez de Miguel Rodriguez.
+                                         NHC: 9841264 .
+                                         Domicilio: Calle Sta. Elena 28, 2 A.
+                                         Localidad/ Provincia: Plasencia, Cáceres.
+                                         CP: 10600.
+Datos asistenciales.
+Fecha de nacimiento: 14/11/2009.
+País: España.
+Edad: 8 años Sexo: H.
+Fecha de Ingreso: 19/05/2018.
+Médico: Júlia Morata Alba NºCol:10 10 58743.
+Informe clínico del paciente: Niño de ocho años con molestias abdominales intermitentes difusas en los últimos años, atribuidas a procesos banales agudos. Sin antecedentes personales ni familiares de interés. Sin infecciones de orina ni otra sintomatología urinaria.
+Coincidiendo con un episodio de dolor abdominal en hemiabdomen derecho, se realizó una ecografía abdominal, en la que se objetivó una adenitis mesentérica y una dilatación de pelvis renal derecha leve, con sospecha de estenosis de la UPU. Sedimento de orina y urinocultivo normales.
+Desapareció la clínica de dolor abdominal espontáneamente, pero se remitió a Nefrología Pediátrica para control evolutivo.
+En la ecografía de control, estando asintomático, se seguía visualizando la dilatación de la vía urinaria con dilatación de pelvis renal derecha grado leve-moderada, por lo que se solicitó renograma isotópico (sospecha de estenosis de la unión pieloureteral). El renograma confirmó una ectasia obstructiva en riñón derecho. En el estudio de gammagrafía renal se objetivó aumento del tamaño renal derecho, con evidente hipocaptación en todo el borde medial, signos de dilatación de vía, con una función renal del 58,8% en riñón izquierdo y del 41,2% en riñón derecho.
+Ante la dilatación del tracto urinario de causa obstructiva se remitió a Urología Infantil para intervención quirúrgica. Se colocó un catéter de nefrostomía durante unos meses para recuperar y evitar el deterioro de la función renal5,6. Tras la retirada del catéter de nefrostomía se siguieron realizando controles de imagen, clínicos y analíticos, normalizándose progresivamente.
+Remitido por: Dra. Júlia Morata Alba. Correo electrónico: juliamorataalba@gmail.com Hospital Virgen Del Puerto Plasencia. Av. Paraje Valcorchero, S/N, 10600 Plasencia, Cáceres
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="110" end="116" text="Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="170" end="199" text="Fernandez de Miguel Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="247" end="254" text="9841264" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T21" start="309" end="333" text="Calle Sta. Elena 28, 2 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="398" end="407" text="Plasencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="409" end="416" text="Cáceres" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="463" end="468" text="10600" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="512" end="522" text="14/11/2009" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="530" end="536" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="544" end="550" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="557" end="558" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="578" end="588" text="19/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="598" end="615" text="Júlia Morata Alba" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="622" end="633" text="10 10 58743" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="665" end="669" text="Niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="673" end="682" text="ocho años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="2275" end="2292" text="Júlia Morata Alba" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T7" start="2314" end="2339" text="juliamorataalba@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T6" start="2340" end="2366" text="Hospital Virgen Del Puerto" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2367" end="2376" text="Plasencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2378" end="2405" text="Av. Paraje Valcorchero, S/N" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2407" end="2412" text="10600" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2413" end="2422" text="Plasencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2424" end="2431" text="Cáceres" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Elio.
+Apellidos: Manzanarez de Córdoba.
+NHC: 7438563.
+NASS: 67 23657035 16.
+Domicilio: Calle Almonte, 28, 3 E.
+Localidad/ Provincia: Cádiz.
+CP: 11001.
+Datos asistenciales.
+Fecha de nacimiento: 26/01/1999.
+País de nacimiento: España.
+Edad: 16 años Sexo: H.
+Fecha de Ingreso: 15/09/2015.
+Médico: Antonio Hernandez Maradiaga  NºCol: 11 11 21501.
+Informe clínico del paciente: Varón de 16 años de edad, en tratamiento quimioterápico por enfermedad de Hodgkin de carácter recidivante. En el curso de dicho tratamiento, el paciente mostró signos de hemorragia digestiva (melenas), acompañados de una intensa elevación de las transaminasas y una importante alteración en las pruebas de coagulación sanguínea (actividad de protombina). Dicho paciente falleció a los pocos días, por un cuadro de insuficiencia hepática aguda, con signos de encefalopatía y hemorragia digestiva masiva.
+En la necropsia se observó un daño hepático difuso, acompañado de lesiones focales en el tercio inferior del esófago. El estudio histológico demostró, en ambos órganos, una lesión inflamatoria de carácter necrotizante, evidenciándose cambios citopáticos propios de infección herpética, consistentes en imágenes de multinucleación y presencia de cuerpos de Cowdry tipo A.
+Remitido por: Dr. Antonio Hernandez Maradiaga. Clínica Médico Forense. Edificio Juzgados. c/ Los Balbos, s/n. Cádiz. Tfno. 956 013 059 y 956 013 060.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="32" text="Elio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="45" end="66" text="Manzanarez de Córdoba" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="73" end="80" text="7438563" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="88" end="102" text="67 23657035 16" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="115" end="137" text="Calle Almonte, 28, 3 E" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="161" end="166" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="172" end="177" text="11001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="221" end="231" text="26/01/1999" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="253" end="259" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="267" end="274" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="281" end="282" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="302" end="312" text="15/09/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="322" end="349" text="Antonio Hernandez Maradiaga" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="358" end="369" text="11 11 21501" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="401" end="406" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="410" end="417" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1293" end="1320" text="Antonio Hernandez Maradiaga" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1322" end="1344" text="Clínica Médico Forense" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T1" start="1346" end="1363" text="Edificio Juzgados" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="1365" end="1383" text="c/ Los Balbos, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1385" end="1390" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="1398" end="1409" text="956 013 059" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T2" start="1412" end="1423" text="956 013 060" TYPE="NUMERO_TELEFONO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

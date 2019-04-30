@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Pilar.
+Apellidos: Romero Sabaniego.
+NHC: 19547865.
+NASS: 24 55346435 15.
+Domicilio: Plaza de Tuy, 18.
+Localidad/ Provincia: Madrid.
+CP: 08005.
+Datos asistenciales.
+Fecha de nacimiento: 16/018/1961.
+País: España.
+Edad: 76 años  Sexo: H.
+Fecha de Ingreso: 20/12/2013.
+Médico: Ana González-Gómez  NºCol: 27 27 89578.
+Mujer de 44 años de edad que presentó dolor abdominal constante de tipo punzada en fosa iliaca derecha de un mes de evolución, acompañado de melenas y episodios de hematoquexia 24 horas antes del ingreso. Al examen físico presentó dolor a la palpación en fosa iliaca derecha, sin signos de irritación peritoneal. Se realizó colonoscopia que mostró masa de aspecto neoplásico en colon derecho, la cual sangraba fácilmente, y tomaron biopsia que evidenció colitis crónica ulcerada severa. Luego realizaron tomografía axial computarizada (TAC) de abdomen que demostró lesión tumoral en ciego y colon ascendente, cuyas densidades estaban en relación con un lipoma ; el antígeno carcinoembrionario fue de 0,50. La paciente continuó con deposiciones melénicas, y por la sospecha clínica de carcinoma de colon, se realizó hemicolectomía derecha con anastomosis terminolateral ileotransversa. En la pieza quirúrgica se identificó masa a nivel cecal de 4,5 x 3,5 cm de diámetro, cubierta por mucosa ulcerada. Al estudio histopatológico se observó una lesión neoplásica, compuesta por gran cantidad de adipositos maduros, dispuestos sobre un estroma finamente colagenizado y vascularizado, la cual se originaba a nivel submucoso y protruía a la luz intestinal. Esta lesión estaba cubierta por mucosa colónica inflamada con un epitelio reactivo y ulcerado. Actualmente la paciente se encuentra asintomática.
+
+Dirección para correspondencia: Fernando Alberca-de-las-Parras. Servicio de Aparato Digestivo. Hospital Clínico Universitario "Virgen de la Arrixaca". Ctra. Madrid-Cartagena, s/n. 30120 El Palmar, Murcia e-mail: alberca.fernando@gmail.com

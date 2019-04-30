@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Sofia.
+Apellidos: Armada Navalón.
+NHC: 1526104.
+Domicilio: Calle Gutenberg, 11, 3 C.
+Localidad/ Provincia: Estella.
+CP: 31250.
+Datos asistenciales.
+Fecha de nacimiento: 20/10/2013.
+País: España.
+Edad: 4 años Sexo: M.
+Fecha de Ingreso: 21/11/2017.
+Médico:  Francisco José Gil Sáenz  NºCol: 31 31 25060.
+Informe clínico del paciente: niña de 4 años que consultó por un exantema eritrósico y doloroso en región cervical de 12 horas de evolución. La paciente tenía malestar general, no presentaba fiebre, síntomas respiratorios ni otros síntomas añadidos. Había sido valorada hacía 6 horas como un posible prúrigo, habiendo iniciado tratamiento con corticoide y antihistamínico por vía sistémica. A la exploración física presentaba eritema cutáneo en cuello, axilas, tórax y nalgas, con áreas de despegamiento cutáneo en zona axilar y cervical y alguna lesión costrosa amarillenta en región cervical. También mostraba eritema e inflamación palpebral y conjuntival, siendo el resto de la exploración física normal. Las constantes de frecuencia cardiaca, respiratoria y presión arterial fueron normales. Se realizó analítica de sangre que mostraba leucocitosis (12.300 leucocitos/µL, fórmula normal) sin elevación de reactantes de fase aguda.
+Con diagnóstico presuntivo de SPEE ingresó e inició tratamiento con cloxacilina i.v, mupirocina tópica, antihistamínico i.v, fluidoterapia i.v, y analgesia. La evolución fue inicialmente desfavorable, con generalización de las lesiones y extensión de la eritrodermia. Al tercer día se asocia empíricamente al tratamiento clindamicina i.v, constatando a las 24 horas una evolución muy favorable de las lesiones. Posteriormente el hemocultivo fue informado como negativo y el cultivo de frotis cutáneo y nasal fue positivo para S. aureus (resistente a penicilina, sensible a cloxacilina, amoxicilna-clavulánico y clindamicina). Tras seis días de ingreso con tratamiento parenteral se decide alta para continuar el tratamiento antibiótico de manera ambulatoria.
+Remitido por: Dr. Francisco José Gil Sáenz Hospital García Orcoyen Servicio de Pediatría C/Santa Soria 22 31200 Estella (España). E-mail: fj.gil.saenz@cfnavarra.es

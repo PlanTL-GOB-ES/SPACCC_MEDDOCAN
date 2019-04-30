@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Pablo.
+Apellidos: Herrera Maradiaga.
+NHC: 2349874.
+NASS: 74 35639561 23.
+Domicilio: C/ Vitruvio, 2..
+Localidad/ Provincia: Madrid.
+CP: 28013.
+Datos asistenciales.
+Fecha de nacimiento: 13/05/1965.
+País de nacimiento: España.
+Edad: 51 años Sexo: H.
+Fecha de Ingreso: 21/08/2016.
+Médico: Julia Álvarez NºCol: 28 28 57180.
+Informe clínico del paciente: Varón de 51 años con enfermedad de Crohn ileocólica de larga evolución, con múltiples complicaciones por brotes y que precisó cirugía de resección intestinal quedando con una ileostomía terminal en 2009. Este año se inicia NPD mediante un dispositivo intravascular totalmente implantado. Se encontraba en tratamiento con Infliximab y corticoides.
+El año siguiente ingresa en varias ocasiones por síndrome febril asociado a dolor abdominal, sin un foco evidente y considerándose el origen la propia enfermedad. En tales hospitalizaciones se aisló Staphylococcus epidermidis en varios hemocultivos. También se sustituyó el catéter por rotura, retirándose solamente el reservorio y la porción proximal del catéter al encontrarse la porción distal fijada al tejido, por lo que un fragmento quedó alojado en el interior de la vena cava superior.
+En febrero de 2011, presenta un cuadro de similares características con fiebre de 11 días de evolución y dolor abdominal que evoluciona hacia shock séptico por lo que ingresa en UCI.
+Al realizar una radiografía de tórax se comprobó que el fragmento abandonado del catéter estaba situado desde la vena cava superior hasta el ventrículo derecho. El estudio se completó con un ecocardiograma que mostró vegetaciones sobre el catéter protuyendo desde la aurícula hacia el ventrículo. Con el diagnóstico de endocarditis sobre catéter se inició tratamiento antibiótico con Daptomicina y Rifampicina teniendo en cuenta los aislamientos previos de Staphylococcus epidermidis, y se sometió a cirugía cardiaca para extraer ambos catéteres.
+Inicialmente el paciente desarrolló una disfunción multiorgánica sin control del cuadro séptico a pesar del tratamiento antibiótico. Se realizó un TC craneal y toraco-abdominal en busca de otros focos de infección con los siguientes hallazgos: hemorragia subaracnoidea, condensaciones parcheadas en pulmón derecho y varios infartos esplénicos, todo compatible con émbolos sépticos múltiples.
+En la pieza quirúrgica hubo varios aislamientos: Staphylococcus epidermidis en el catéter funcionante y crecimiento polimicrobiano en el catéter con la vegetación. En este caso se aislaron Staphylococcus epidermidis, Ochrobactrum anthropi y un hongo identificado en el Centro Nacional de Microbiología de Majadahonda como Trichorderma longibrachiatum. Con estos resultados se modificó el tratamiento antibiótico quedando con Linezolid, Imipenem y Caspofungina controlándose finalmente el cuadro séptico.
+El enfermo tuvo una evolución tórpida con necesidad de ventilación mecánica prolongada y traqueostomía, neumonía asociada a ventilación mecánica por Acinetobacter baumannii y polineuropatía del paciente crítico. Tras una estancia en UCI de 45 días se resolvieron todos estos procesos y pudo ser trasladado a planta donde completó su recuperación.
+Responsable clínico: Dra. Julia Álvarez. E-mail: julia.alvarez@telefonica.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="33" text="Pablo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="46" end="63" text="Herrera Maradiaga" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="70" end="77" text="2349874" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="85" end="99" text="74 35639561 23" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="112" end="126" text="C/ Vitruvio, 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="151" end="157" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="163" end="168" text="28013" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="212" end="222" text="13/05/1965" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="244" end="250" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="258" end="265" text="51 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="272" end="273" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="293" end="303" text="21/08/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="313" end="326" text="Julia Álvarez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="334" end="345" text="28 28 57180" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="377" end="382" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="386" end="393" text="51 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T5" start="575" end="579" text="2009" TYPE="FECHAS" comment=""/>
+    <DATE id="T4" start="1221" end="1236" text="febrero de 2011" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T3" start="2609" end="2656" text="Centro Nacional de Microbiología de Majadahonda" TYPE="INSTITUCION" comment=""/>
+    <NAME id="T2" start="3217" end="3230" text="Julia Álvarez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3240" end="3268" text="julia.alvarez@telefonica.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

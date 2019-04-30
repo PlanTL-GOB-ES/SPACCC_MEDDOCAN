@@ -1,0 +1,15 @@
+Datos del paciente.
+Nombre: Gabriel.
+Apellidos: Fletes Castillo.
+NHC: 8347852.
+Domicilio: Av. del Rocío, 2.
+Localidad/ Provincia: Santiago.
+CP: 23001.
+Datos asistenciales.
+Fecha de nacimiento: 13/09/1972.
+País de nacimiento: España.
+Edad: 29 años  Sexo: M.
+Fecha de Ingreso: 23/06/2017.
+Médico: Sara Leyva Martínez  NºCol: 28 28 57489.
+Un varón asiático de 62 años ingresó por hepatomegalia e ictericia (bilirrubina 23,6 mg/dl), con GPT/GOT 1.301/506 UI/l y GGT 527 UI/l. Se excluyeron entidades vasculares, obstructivas, infecciosas y autoinmunes. La biopsia hepática fue compatible con EVOH. El paciente confesó el consumo previo, habitual y hasta el mismo ingreso, de cápsulas no etiquetadas de "laxantes", de venta libre y obtenidas en China sin control sanitario. Un análisis realizado en el Departamento de Inspección y Control de Medicamentos demostró que contenían prolina, antraquinonas y otros compuestos no identificables. Tras el alta, asintomático, solo persistía una discreta colestasis (GGT 170 UI/l, Bb 1,9 mg/dl).
+Dirección para correspondencia: Dr. Federico Vélez B. Calle 7 No. 39-197 of 16-10 Medellín, Colombia e-mail: fedevelez@hotmail.com

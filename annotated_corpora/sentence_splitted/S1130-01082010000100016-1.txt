@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Gabriel.
+Apellidos: Renedo Guerra.
+NHC: 5643065.
+NASS: 54 78356340 76.
+Domicilio: Av. De las Provincias, 86, 3 C .
+Localidad/ Provincia: Livorno.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 24/06/1960.
+País: España.
+Edad: 27 años  Sexo: M.
+Fecha de Ingreso: 03/01/2018.
+Servicio: Neurocirugía.
+Médico: Javier González Lagunas  NºCol: 33 28 56221.
+Hombre de 73 años con hallazgo radiológico casual de una lesión quística pancreática. La exploración física y analítica sanguínea resultaron normales a excepción del incremento en los niveles sanguíneos de CA19-9 y CEA. La TC abdominal (TC) y la resonancia magnética (RM) mostraban una lesión multilocular de 5,2 cm de diámetro en el cuerpo-cola de páncreas con alta sospecha de malignidad (cistoadenoma vs. cistoadenocarcinoma mucinoso) por lo que se decidió intervenir quirúrgicamente al paciente. Se realizó una esplenopancreatectomía distal incluyendo la masa tumoral, analizándose intra-operatoriamente el margen de resección que resultó libre de enfermedad. El diagnóstico histopatológico definitivo fue: quiste polilobulado amarillento-blanquecino, bien delimitado, ocupado por abundante material amorfo y granular correspondiente a escamas córneas, células escamosas superficiales, material proteináceo y cristales de colesterol. Tapizado internamente por epitelio escamoso estratificado queratinizado sin atipias por debajo del cual se halla tejido linfoide con agregados foliculares con centros germinales reactivos, diagnóstico de QLEP.
+Dirección para correspondencia: Correo electrónico: luisfarina@yahoo.com (L.A. Fariña).

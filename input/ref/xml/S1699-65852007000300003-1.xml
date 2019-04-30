@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Martina.
+Apellidos: Fernandez Fletes.
+NHC: 4502567.
+NASS: 47 68526394 05.
+Domicilio: Calle MIguel Galvan, 36, 3D.
+Localidad/ Provincia: Sevilla.
+CP: 41201.
+Datos asistenciales.
+Fecha de nacimiento: 21/05/1966.
+País: España.
+Edad: 50 años Sexo: M.
+Fecha de Ingreso: 17/07/2016.
+Médico: Rafael Flores Ruiz NºCol: 28 28.
+Informe clínico del paciente: paciente de 50 años de edad sin antecedentes patológicos médicos de interés, acudió remitida por su odontólogo a la consulta del Servicio de Cirugía Oral y Maxilofacial del Hospital Universitario Virgen del Rocío de Sevilla, para la extracción de un canino superior izquierdo incluido. La paciente refería que hacía 6 meses se le había exfoliado el canino superior caduco espontáneamente. Tras realizar una radiografía panorámica y una radiografía lateral, se comprobó la situación del canino incluido en el cuadrante superior izquierdo, impactado entre el incisivo lateral y central, con el desarrollo radicular y del foramen apical completo. A la exploración intraoral, se observó la ausencia del segundo premolar superior derecho y el primer molar inferior izquierdo, de largo tiempo de evolución. Presentaba diastemas en el sector anterior y una distancia del tramo edéntulo inferior a 5 mm. Tras valorar las distintas opciones terapéuticas, se le planteó a la paciente realizar en primer lugar un tratamiento ortodóncico con el que disponer del espacio necesario para la reposición protésica en la región canina, y en un segundo lugar tras la inserción de un implante osteointegrado en el mismo tiempo quirúrgico que la extracción del canino incluido proceder a la restauración protésica.
+En una primera fase se llevó a cabo el tratamiento ortodóncico para conseguir un espacio mesiodistal de 7 mm y cierre de diastemas. Una vez finalizado éste se planificó la extracción del canino incluido y la inserción de un implante. Mediante anestesia local, se levantó un colgajo mucoperióstico por palatino para acceder al canino incluido. Tras llevar a cabo la mínima osteotomía, se realizó la odontosección del diente, su extracción y legrado del lecho. A continuación se levantó un colgajo mucoperióstico vestibular para exponer la cresta y la cortical vestibular. Se colocó un implante cilíndrico de hidroxiapatita de 3,25 mm de diámetro y 15 mm de longitud, procurando el anclaje crestal hasta el suelo de las fosas nasales, consiguiendo muy buena fijación de éste. Se colocó una membrana reabsorbible de colágeno y se procedió a una regeneración ósea guiada del defecto con hueso de banco desmineralizado. También en la misma sesión se insertaron de forma convencional implantes en la posición del segundo premolar superior derecho y primer molar inferior izquierdo. La evolución postoperatoria cursó sin complicaciones.
+Tras un periodo de osteointegración de 6 meses, se llevó a cabo la segunda cirugía y colocación del pilar transepitelial sin incidencias. La reconstrucción protésica se realizó con una corona implantosoportada cementada. A partir de este momento la paciente fue remitida al ortodoncista para finalizar el tratamiento de ortodoncia. Tras siete años de evolución, la evolución es favorable sin haber presentado pérdida ósea periimplantaria y con mantenimiento de la estética y funcionalidad.
+Remitido por: Dr. Rafael Flores Ruiz Av. Kansas City 92, 8ºB 41007 SEVILLA E-mail: rafaelfloresruiz@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="35" text="Martina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="48" end="64" text="Fernandez Fletes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="71" end="78" text="4502567" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="86" end="100" text="47 68526394 05" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="113" end="140" text="Calle MIguel Galvan, 36, 3D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="164" end="171" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="177" end="182" text="41201" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="226" end="236" text="21/05/1966" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="244" end="250" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="258" end="265" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="272" end="273" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="293" end="303" text="17/07/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="313" end="331" text="Rafael Flores Ruiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="339" end="344" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T8" start="388" end="395" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T7" start="549" end="588" text="Hospital Universitario Virgen del Rocío" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="592" end="599" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <NAME id="T5" start="3308" end="3326" text="Rafael Flores Ruiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="3327" end="3350" text="Av. Kansas City 92, 8ºB" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3351" end="3356" text="41007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3357" end="3364" text="SEVILLA" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3373" end="3398" text="rafaelfloresruiz@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

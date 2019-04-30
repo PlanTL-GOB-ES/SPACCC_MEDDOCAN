@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Rafael.
+Apellidos: Zarate Gómez.
+NHC: 3743527.
+NASS: 54 28907656 95.
+Domicilio: Av. Brasil 34, 1G.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 30/05/1951.
+País: España.
+Edad: 64 años Sexo: H.
+Fecha de Ingreso: 15/10/2015.
+Servicio: Atencion primaria.
+Médico: María Castro Rebollo NºCol: 28 28 54112.
+Motivo de ingreso: tos seca.
+Historia Actual: Varón de 64 años de edad que acudió a la consulta de AP por tos seca de dos meses de evolución y ocasionalmente sensación descrita por el paciente: como si se le "cerrara el píloro" y no pudiera comer. 
+Antecedentes: Como antecedentes familiares destacaban la muerte de su madre y su padre por tuberculosis (TB). Como antecedentes personales destacaban: poliomielitis en la infancia que dejó como secuela una leve deformidad en ambos miembros inferiores, ulcus duodenal a los 35 años sin clínica péptica posterior y herniorrafia inguinal en 1997. Exfumador desde hacía 9 años. 
+Anamnesis y exploración física: En la anamnesis inicialmente refería pirosis retroesternal ocasional de minutos de duración que cedía espontáneamente o con antiácidos, y además sensación de plenitud gástrica. 
+En la exploración física presentaba un hábito asténico. Estaba afebril, eupnéico y normocoloreado. La exploración de cabeza, cuello, tórax y abdomen era normal. 
+Resumen de pruebas complementarias: En la primera visita su médico de familia solicitó analítica básica (hemograma y bioquímica) y radiografía (Rx) de tórax y pautó tratamiento empírico con omeprazol 20 mg/día. Los resultados de las pruebas complementarias fueron rigurosamente normales y el tratamiento empírico no fue eficaz. Simultáneamente el paciente consultó por propia iniciativa a un otorrinolaringólogo que le solicitó una Rx de senos paranasales donde se encontraron hallazgos compatibles con sinusitis que fue tratada por el especialista con un ciclo de Cefuroxima-axetilo 500 mg/12 h (6 días). Posteriormente, un mes después, ante la persistencia de la tos y reciente aparición de una discreta pérdida de peso, su médico de familia solicitó interconsulta al neumólogo, realizó una analítica ampliada y un test de sangre oculta en heces, buscando patología pulmonar y digestiva. El neumólogo realizó como pruebas complementarias: mantoux, que resultó positivo (12 mm) con Ziehl de esputo y orina repetidamente negativos, gasometría arterial basal, pruebas de función pulmonar (PFP) y test de provocación con metacolina, fibrobroncoscopia, tomografía computadorizada (TC) torácica. Todas esta pruebas no dieron hallazgos patológicos. El tratamiento empírico con broncodilatadores pautado por el neumólogo tampoco fue efectivo. Las nuevas pruebas complementarias realizadas por el médico de familia, dieron como resultado una anemia leve (Hb: 11,7 g/dl) normocítica normocrómica con índice de distribución eritrocitaria elevado, trombocitosis, aumento de globulinas, descenso de albúmina y elavación de la velocidad de sedimentación globular: 88 mm/hora. El estudio de sangre oculta en heces fue positivo. Con este nuevo hallazgo su médico de familia solicitó, de forma consecutiva, interconsulta con el gastroenterólogo el cual realiza una colonoscopia y un enema opaco en los que presenta como único hallazgo significativo una diverticulosis colónica, sin evidenciarse otra patología digestiva. Simultáneamente al seguimiento del cuadro digestivo, 3 semanas después de la interconsulta con el neumólogo, el paciente comienza, con astenia por lo que su médico de familia solicitó interconsulta con el Servicio de Medicina Interna hospitalario. En este servicio se realizan una TC abdominal en la que se observa una gran tumoración abdominal con probable organodependencia gástrica y afectación local que aconsejan confirmar mediante gastroscopia y biopsia. Al hacer la panendoscopia oral encuentran una úlcera gástrica prepilórica de aspecto benigno que posteriormente se confirma por anatomía patológica de una pieza de biopsia. En el Servicio de Cirugía General y Digestivo realizaron una laparotomía exploradora encontrándose una gran tumoración, probablemente retroperitoneal, adherida a cara posterior gástrica a nivel de fundus y múltiples nódulos extraperitoneales. Extirparon varios de estos nódulos para biopsia y realizaron una gastrectomía parcial con gastroyeyunostomía. La biopsia se informa como sarcoma fusocelular de grado intermedio (grado II) encuadrable en un sarcoma del estroma de la pared gastrointestinal. Con este diagnóstico fue remitido a las consultas de Medicina Interna para valoración de tratamiento adyuvante que fue desestimado.
+Evolución y comentarios: Tras el alta hospitalaria, el paciente recibió atención domiciliaria con tratamiento paliativo por su médico de familia hasta su fallecimiento, catorce meses después del diagnóstico.
+Remitido por: Dra. María Castro Rebollo C/. Gabriela Mistral, 14 28035 Madrid. España E-mail: mariarebollo@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="8" end="14" text="Rafael" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="27" end="39" text="Zarate Gómez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="46" end="53" text="3743527" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="61" end="75" text="54 28907656 95" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="88" end="105" text="Av. Brasil 34, 1G" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="129" end="135" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="141" end="146" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="190" end="200" text="30/05/1951" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T19" start="208" end="214" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="222" end="229" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="236" end="237" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="257" end="267" text="15/10/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="306" end="326" text="María Castro Rebollo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="334" end="345" text="28 28 54112" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T13" start="393" end="398" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T15" start="402" end="409" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="666" end="671" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="677" end="682" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="869" end="876" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T6" start="934" end="938" text="1997" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="4841" end="4861" text="María Castro Rebollo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="4862" end="4886" text="C/. Gabriela Mistral, 14" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="4887" end="4892" text="28035" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="4893" end="4899" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4901" end="4907" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="4916" end="4937" text="mariarebollo@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

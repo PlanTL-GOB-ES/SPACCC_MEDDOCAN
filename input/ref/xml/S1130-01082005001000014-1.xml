@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Carlos.
+Apellidos: Allende Rivas.
+NHC: 8568934.
+NASS:34 57305740 23.
+Domicilio: C/ Calle Espíritu Santo, 4.
+Localidad/ Provincia: Madrid.
+CP: 28051.
+Datos asistenciales.
+Fecha de nacimiento: 12/07/1940.
+País de nacimiento: España.
+Edad: 70 años Sexo: H.
+Fecha de Ingreso: 12/11/2010.
+Médico: Juan de Dios Beas Jiménez NºCol: 28 28 56789.
+Historia Actual:Varón de 70 años que ingresa por deterioro del estado general, astenia, anorexia y pérdida de peso de 1 mes de evolución. Intervenido de adenocarcinoma de próstata, recibió posteriormente varias sesiones de radioterapia (dosis total 70 Gy), la última de ellas 12 meses antes de su ingreso, en tratamiento con hormonoterapia. Desde que comenzó tratamiento radioterápico el paciente refiere cambio del ritmo intestinal, con alternancia de diarrea y estreñimiento y dolores cólicos frecuentes, acompañados de urgencia y tenesmo defecatorio. 
+Exploración física: De la exploración física únicamente cabe reseñar un abdomen blando, depresible, no doloroso, con ruidos muy aumentados no patológicos, sin signos obstructivos, masas ni megalias. No adenopatías, fiebre ni otros hallazgos reseñables.
+Pruebas complementarias: En la analítica se evidenciaron leucocitosis de 21.720 /mm3 (17,2% neutrófilos, 4,1% linfocitos, 2,4% monocitos y 75,3% eosinófilos), VSG 60 mm en la primera hora, PCR 38,80 mg/L, ferritina 481 ng/mL, factor reumatoide 800 como reactantes de fase aguda, hipoalbuminemia de 2,2 g/dL sin alteración de otros marcadores de malabsorción. Transaminasas y enzimas de colestasis dentro de la normalidad. Los anticuerpos anti-nucleares, anti-mitocondriales y anti-músculo liso fueron negativos y el PSA de 0 ng/mL. El estudio parasitológico en heces en 3 muestras convenientemente recogidas también resultó negativo. La radiografía de tórax no mostró alteraciones significativas. Se realizó colonoscopia evidenciándose la mucosa de los 30 cm explorados de aspecto fibrótico tubular con punteado eritematoso, con estenosis regular fibrótica a dicho nivel que impidió la progresión. Se tomaron múltiples biopsias que mostraron inflamación aguda y crónica inespecífica, sin evidenciarse la presencia de eosinófilos a ningún nivel, siendo el diagnóstico de presunción el de colitis actínica.
+La TC abdominopélvica con contraste intravenoso mostró un engrosamiento difuso de asas de intestino delgado a nivel de yeyuno distal e íleon, sin otras alteraciones. No se evidenciaron adenopatías a ningún nivel ni masas abdominales, con prostatectomía radical y engrosamiento de la grasa perirrectal, pared vesical y de recto en probable relación con radioterapia previa.
+Por las alteraciones en las asas se realizó un tránsito intestinal que objetivó un discreto engrosamiento de las válvulas conniventes a nivel de yeyuno, con asas de íleon pélvico de calibre disminuido, con separación de las mismas tanto del yeyuno como del resto del íleon por engrosamiento parietal, todo ello compatible como primera posibilidad con enteritis actínica, y siendo la última asa ileal de calibre normal con pliegues conservados.
+Evolución: Dado que las exploraciones realizadas orientaban hacia la radioterapia como origen del cuadro abdominal, y habiéndose descartado razonablemente otras causas de eosinofilia periférica secundaria, de forma empírica se pautó tratamiento con corticoides (metilprednisolona 1 mg/kg/día, durante 1 semana, con posterior pauta descendente durante 3 meses) y nutrición parenteral, dado el deterioro progresivo del estado general del paciente. Dicho tratamiento resolvió de forma total tanto el cuadro clínico como las alteraciones analíticas, lo cual descartó el origen central de la eosinofilia.
+Tratamiento: Una semana después del inicio del tratamiento, el paciente fue dado de alta con una analítica que mostró 5.280 leucocitos/mm3 con 1% de eosinófilos, VSG 27 mm en la primera hora y PCR 0,76 mg/L, con el diagnóstico por exclusión de enteritis actínica y eosinofilia periférica secundaria. Permanece asintomático y con controles analíticos normales.
+Responsable clínico: Dr. Juan de Dios Beas Jiménez Correo electrónico: juand.beas@juntadeandalucia.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="34" text="Carlos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="47" end="60" text="Allende Rivas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="67" end="74" text="8568934" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="81" end="95" text="34 57305740 23" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="108" end="134" text="C/ Calle Espíritu Santo, 4" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="158" end="164" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="170" end="175" text="28051" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="219" end="229" text="12/07/1940" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T9" start="251" end="257" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="265" end="272" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="279" end="280" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="300" end="310" text="12/11/2010" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="320" end="345" text="Juan de Dios Beas Jiménez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="353" end="364" text="28 28 56789" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="382" end="387" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="391" end="398" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="4081" end="4106" text="Juan de Dios Beas Jiménez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="4127" end="4157" text="juand.beas@juntadeandalucia.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

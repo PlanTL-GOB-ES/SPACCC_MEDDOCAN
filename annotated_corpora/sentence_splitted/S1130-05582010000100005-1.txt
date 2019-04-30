@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Ernesto David.
+Apellidos: Vargas Castro.
+NHC: 3742851.
+Domicilio: C/ Telémaco, 4, 2 D.
+Localidad/ Provincia: Barcelona.
+CP: 20101.
+Datos asistenciales.
+Fecha de nacimiento: 03/05/1947.
+País: España.
+Edad: 70 años  Sexo: M.
+Fecha de Ingreso: 15/08/2017.
+Médico: Maria Antonia Rodríguez Navarro  NºCol: 28 28 54711.
+Se trata de un paciente de 15 años, sin antecedentes de relevancia. Al examen clínico-radiográfico se observa un aumento de volumen en región preauricular derecha de 4 meses de evolución, asintomático. Se realiza toma de biopsia incisional de la región retromandibular con el diagnóstico de fibroma desmoplásico, el cual fue corroborado con el estudio de toda la lesión.
+
+Radiográficamente existe una zona radiolúcida multilocular a nivel de la rama ascendente de la mandíbula y en la tomografía axial computarizada (TAC) con expansión a tejidos blandos.
+
+Las pruebas de laboratorio se encuentran en parámetros normales. En el procedimiento quirúrgico se realiza resección en bloque con abordaje submandibular, abarcando hasta la región del cóndilo ; posteriormente se coloca clavo de Kirchner para mantener el espacio de la zona del tumor.
+
+La lesión es enviada a estudio, que corrobora el diagnóstico de fibroma desmoplásico similar a la biopsia previa. El paciente se encuentra hasta la fecha en control de dos años con favorable evolución y sin datos de recidiva.
+
+Dirección para correspondencia: Correo electrónico: dr_velazquez2001@hotmail.com (G. Velázquez Gracia).

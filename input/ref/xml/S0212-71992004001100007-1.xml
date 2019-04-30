@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Andres.
+Apellidos: Dias Almeida.
+NHC: 8936493.
+NASS: 27 86305765 14.
+Domicilio: Calle Nolla, 23, 1 C.
+Localidad/ Provincia: Torremolinos.
+CP: 29620.
+Datos asistenciales.
+Fecha de nacimiento: 17/09/1956.
+País de nacimiento: España.
+Edad: 60 años Sexo: H.
+Fecha de Ingreso: 13/10/2016.
+Médico: Ángel Muñoz Morente  NºCol: 29 29 63057.
+Informe clínico del paciente: .
+Paciente varón de 60 años de edad, con prótesis mitral metálica tipo Björk-Shilley y anuloplastia tricuspídea 20 años atrás por valvulopatía reumática, fibrilación auricular crónica (FAC), HTA, insuficiencia cardiaca congestiva (ICC) con un Grado Funcional NYHA I/IV. Recibía tratamiento con acenocumarol. Ingresa en nuestro servicio por cuadro de fiebre, escalofríos, y empeoramiento de su disnea habitual, apareciendo ortopnea y edemas en MMII. La exploración clínica era compatible con una ICC (venas yugulares ingurgitadas, pulso arritmico a 100 lpm, ritmo de galope, crepitantes basales bilaterales pulmonares, hepatomegalia de 2 traveses con reflejo hepatoyugular positivo y edemas pretibiales con fóvea en los MMII). En la analítica presentaba una hemoglobina de 12,4 g/L, leucocitos 17.810/ml, con un 87% de neutrófilos, estando el resto de los parámetros habituales dentro de la normalidad. La radiografía de tórax mostraba signos de ICC. Se realizaron hemocultivos seriados en los que se aisló de forma persistente Neisseria Sicca, por lo que se inició tratamiento con Penicilina G sódica intravenosa 24 millones de unidades en perfusión contínua y Gentamicina 80 mg I.V. cada 8 horas (2 primeras semanas), quedando el paciente afebril al tercer día de comenzar el tratamiento. En el transcurso del ingreso aparecieron unas lesiones rojizas y dolorosas en los pulpejos de los dedos de ambas manos compatibles con fenómenos vasculíticos, realizándose, por tanto, el diagnóstico de Endocarditis Infecciosa (EI) según los criterios clínicos de Durack (4). La Ecocardiografia Transtorácica (ETT) y Transesofágica (ETE) demostró una prótesis mitral normofuncionante y ausencia de vegetaciones. Al 9º día de tratamiento el paciente presentó un episodio brusco de pérdida de fuerza en hemicuerpo izquierdo, visualizándose en TAC craneal 3 imagénes hiperdensas a nivel temporalparietal y occipital de ambos hemisferios compatibles con focos hemorrágicos. En ese momento en I.N.R. era de 2,45, a pesar de lo cual, la anticoagulación fue suspendida. Cuatro días después, y la tras estabilización del paciente, se decidió reiniciar anticoagulación con heparina sódica iv completándose 6 semanas de tratamiento antibiótico y heparina. En el TAC cerebral de control tras el tratamiento, persistía el hematoma occipitoparietal, habiendo desaparecido los otros focos hemorrágicos. Ante éstos hallazgos y la posibilidad de resangrado, el paciente fue dado de alta con bemiparina 10.000 U.I. subcutánea una vez al día, durante 3 meses, tras los cuales se realizó nuevo estudio ecocardiográfico y TAC craneal que demostraron la normalidad de la válvula mitral y la práctica resolución del hematoma cerebral, por lo que nuevamente se inició anticoagulación oral con acenocumarol, encontrándose a los tres meses de la misma, asintomático.
+Responsable clínico: Ángel Muñoz Morente. C/ Hotel pontinental, 16. Residencial El Limonar. 3º A. Playamar. 29620 Torremolinos (Málaga). e-mail: amcubo@telefonica.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="34" text="Andres" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="59" text="Dias Almeida" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="66" end="73" text="8936493" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="81" end="95" text="27 86305765 14" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="108" end="128" text="Calle Nolla, 23, 1 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="152" end="164" text="Torremolinos" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="170" end="175" text="29620" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T1" start="219" end="229" text="17/09/1956" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="251" end="257" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="265" end="272" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="279" end="280" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="300" end="310" text="13/10/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="320" end="339" text="Ángel Muñoz Morente" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="348" end="359" text="29 29 63057" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="402" end="407" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="411" end="418" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3243" end="3262" text="Ángel Muñoz Morente" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3264" end="3318" text="C/ Hotel pontinental, 16. Residencial El Limonar. 3º A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="3320" end="3328" text="Playamar" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="3330" end="3335" text="29620" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3336" end="3348" text="Torremolinos" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3350" end="3356" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="3367" end="3388" text="amcubo@telefonica.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

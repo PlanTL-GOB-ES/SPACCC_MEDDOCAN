@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Demetrio.
+Apellidos: Sanchez Alvarado.
+NHC: 3415673.
+NASS: 78 45603471 31.
+Domicilio: C/ Cañizarez, 29, 3 A.
+Localidad/ Provincia: Madrid.
+CP: 46014.
+Datos asistenciales.
+Fecha de nacimiento: 21/11/1934.
+País de nacimiento: España.
+Edad: 77 años Sexo: H.
+Fecha de Ingreso: 04/03/2012.
+Médico: Fernando Godoy Herrera  NºCol: 46 46 57890.
+Informe clínico del paciente: Varón de 77 años de edad, sin hábitos tóxicos, con antecedentes personales de alergia a contraste yodado, adenocarcinoma de próstata con metástasis vertebral en 1998, tratado con radioterapia y hormonoterapia. Hipertensión arterial, hipercolesterolemia, cardiopatía isquémica, cólicos nefríticos de repetición y temblor intencional.
+En la tomografía axial computerizada (TAC) de control de su patología prostática, se detectó masa parespinal derecha. Se le practicó biopsia que reveló la presencia de un sarcoma mixoide de partes blandas, de 16 x 6 cm de diámetro, que se extendía desde T12 a L3, sin infiltración de tejido subcutáneo.
+El paciente fue intervenido por el Servicio de Traumatología y Ortopedia conjuntamente con el Servicio de Cirugía Plástica, realizándose exéresis en bloque del compartimento muscular erector de la columna afecto, quedando un defecto residual que se muestra en la Fig.1. El tumor no afectaba microscópicamente a la piel o al tejido subcutáneo. Las pruebas de imagen preoperatorias también sugerían que el tumor respetaba planos superficiales, por lo que optamos por la colocación de un expansor tisular rectangular, de 20 x 7 cm de diámetro, modelo SRV2007 (Allergan®, Irvine, California, EE.UU.), de 750 cc de volumen. El cierre se hizo por planos (tejido celular subcutáneo y piel). Tunelizamos el reservorio para llenado del expansor en un plano subcutáneo, craneal y lateralmente hasta su ubicación final en la línea media axilar derecha.
+Llevamos a cabo llenado intraoperatorio del expansor con suero fisiológico hasta la puesta a plano de la piel respecto a las regiones adyacentes, con un total de 680 cc.
+Practicamos profilaxis antibiótica perioperatoria con cefuroxima intravenosa, mantenida luego durante 5 días en el postoperatorio, que cursó sin incidencias, salvo anemia postoperatoria en la fase inmediata que precisó transfusión de 2 concentrados de hematíes. El ingreso hospitalario se prolongó 20 días, y el paciente pudo deambular al alta de forma autónoma, con soporte de corsé como única medida ortopédica.
+Tras la intervención, el Servicio de Ortopedia llevó a cabo seguimiento periódico sin apreciar lumbalgia, escoliosis, ni déficit neurológico en los primeros 10 meses. También realizamos controles semanales en consulta externa de Cirugía Plástica hasta cumplir 2 meses desde la cirugía, posteriormente 1 vez al mes durante 3 meses, y luego ya cada 3 meses en adelante. Pudimos comprobar una buena calidad de la cicatriz, sin déficits funcionales significativos. No se presentó extrusión del expansor, y en las pruebas de imagen no apreciamos ninguna migración ni depleción de volumen del expansor. Las radiografías de control a los 4 meses de la cirugía mostraron una mínima convexidad lumbar derecha, sin repercusión clínica, con una excelente recuperación funcional del paciente y un buen resultado estético, sin depresión alguna en la zona de resección.
+El estudio anatomopatológico informó sobre la pieza tumoral resecada como sarcoma de la vaina neural de bajo grado, con resección incompleta en borde profundo.
+Decidimos, en sesión conjunta en el Comité de Tumores de nuestro centro hospitalario, no llevar a cabo una reintervención quirúrgica dada la edad del paciente y sobre todo su estado general y sus patologías previas. Indicamos el seguimiento de controles periódicos mediante resonancia nuclear magnética (RNM) y TAC seriados.
+El paciente estuvo libre de enfermedad durante 9 meses. A partir de ese momento, detectamos progresión local de la enfermedad que afectó a los músculos psoas iliaco y cuadrado lumbar, y diseminación linfática regional, con mala tolerancia clínica al tratamiento mediante quimioterapia, El paciente falleció por este proceso 2 años después de la cirugía.
+Responsable clínico: Dr. Fernando Godoy Herrera Servicio de Cirugía Plástica Hospital Clínico Universitario de Valencia C/ de la Casa Misericordia, 12 46014 Valencia, España. Correo electrónico: fergh81@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T28" start="28" end="36" text="Demetrio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T27" start="49" end="65" text="Sanchez Alvarado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T26" start="72" end="79" text="3415673" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="87" end="101" text="78 45603471 31" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T24" start="114" end="135" text="C/ Cañizarez, 29, 3 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T23" start="159" end="165" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T22" start="171" end="176" text="46014" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T21" start="220" end="230" text="21/11/1934" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T19" start="252" end="258" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T18" start="266" end="273" text="77 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T17" start="280" end="281" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T20" start="301" end="311" text="04/03/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T16" start="321" end="343" text="Fernando Godoy Herrera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T15" start="352" end="363" text="46 46 57890" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T14" start="395" end="400" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="404" end="411" text="77 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="556" end="560" text="1998" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T1" start="1588" end="1596" text="Allergan" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T11" start="1599" end="1605" text="Irvine" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T10" start="1607" end="1617" text="California" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T9" start="1619" end="1625" text="EE.UU." TYPE="PAIS" comment=""/>
+    <NAME id="T8" start="4177" end="4199" text="Fernando Godoy Herrera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="4229" end="4271" text="Hospital Clínico Universitario de Valencia" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="4272" end="4302" text="C/ de la Casa Misericordia, 12" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="4303" end="4308" text="46014" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="4309" end="4317" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="4319" end="4325" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="4347" end="4364" text="fergh81@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

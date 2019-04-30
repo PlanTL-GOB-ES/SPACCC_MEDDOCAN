@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Adela.
+Apellidos: Pérez Soler.
+NHC: 87946.
+NASS: 54 28907656 95.
+Domicilio: C/ Orcasur, 6, Bajo A.
+Localidad/ Provincia: Murcia.
+CP: 15679.
+Datos asistenciales.
+Fecha de nacimiento: 19/05/2001.
+País de nacimiento: Perú.
+Edad: 6 años  Sexo: H.
+Fecha de Ingreso: 07/06/2010.
+Médico: Sonia Junquera Bañares  NºCol: 28 28 62301.
+Varón de 56 años con diagnóstico de liposarcoma retroperitoneal de bajo grado de malignidad y de 15 años de evolución, intervenido en nuestro centro en 8 ocasiones con diversas recidivas de diferentes patrones de agresividad. En la primera intervención en el año 1990 le fue extirpado un liposarcoma grado I.
+El paciente ingresó en el servicio de medicina interna de otro hospital con clínica de infección respiratoria. A la exploración física mostraba asimetría abdominal con una masa en hemiabdomen izquierdo no dolorosa. Como pruebas complementarias se realizaron una radiografía de tórax que mostraba elevación del hemidiafragma izquierdo y una analítica donde destacó una anemia microcítica e hipocrómica compatible con ferropenia. Tras estas exploraciones se decidió la realización de una tomografía computerizada abdominal donde se observó una masa en hemiabdomen izquierdo de 26 x 20 x 13 cm que asentaba sobre el mesenterio y contactaba con el peritoneo, de aspecto heterogéneo con áreas de densidad grasa y polos densos, encapsulada y que desplazaba todas las estructuras de su vecindad, así como otra masa en lecho renal izquierdo de 6 x 4 cm de similares características y una tercera incipiente a nivel del área suprarrenal derecha.
+El paciente fue remitido a nuestro servicio de cirugía para valoración del tratamiento quirúrgico. Con diagnóstico de liposarcoma gigante recidivante, el paciente fue intervenido, confirmándose intraoperatoriamente la presencia de una masa retroperitoneal que ocupaba la casi totalidad del hemiabdomen izquierdo. Se realizó exéresis del tumor y esplenectomía por invasión locorregional. Durante el postoperatorio, el paciente presentó febrícula que, tras descartar otras causas, se atribuyó a la esplenectomía, y fue dado de alta. El informe anatomopatológico fue de masa de 5,35 kg de peso, clasificada como liposarcoma con áreas de desdiferenciación de bajo grado (lipoma like) y de alto grado (fibrohistiocitoma maligno, rabdomiosarcoma, fibrosarcoma) sin afectación ganglionar ni esplénica aunque sí con áreas de tejido pancreático incluido en la masa.
+Dirección para correspondencia: Dra. V. Ovalles Servicio de Medicina Interna. Hospital Central Miguel Pérez Carreño, Instituto Venezolano del Seguro Social Esquina El Pescozón El Paraíso. Caracas (Venezuela)

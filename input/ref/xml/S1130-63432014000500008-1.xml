@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Alvaro.
+Apellidos: Rubio Benito.
+NHC: 3496345.
+NASS: 46 38264865 44.
+Domicilio: Avenida del planetario 66, 4D.
+Localidad/ Provincia: Madrid.
+CP: 28034.
+Datos asistenciales.
+Fecha de nacimiento: 21/12/1979.
+País: España.
+Edad: 38 años Sexo: H.
+Fecha de Ingreso: 15/03/2018.
+Médico: Noelia Rubio Álvaro  NºCol: 28 28 55478.
+Informe clínico del paciente: Paciente de 38 años, sin antecedentes de interés, diagnosticado de síndrome depresivo y en tratamiento con venlafaxina (75 mg- 150 mg - 150 mg v.o.) y alprazolam (1-2 mg v.o. /8 h). Acude al médico de Atención Primaria tras un episodio de dolor torácico opresivo, no irradiado y sin cortejo vegetativo, que oscila de intensidad durante el día pero que no cede a pesar del reposo. Se le realiza electrocardiograma (ECG) en el que se aprecia taquicardia sinusal en torno a 120 lpm con alteraciones en la repolarización.
+Trasladado al hospital es ingresado en la Unidad de Cuidados Intensivos, donde un nuevo ECG confirma taquicardia sinusal persistente con alteraciones muy difusas en la repolarización, así como ondas T negativas en la cara anterior y una prolongación del espacio QT en torno a 500 msg. Se diagnostica como un Síndrome Coronario Agudo y se inicia tratamiento convencional con doble antiagregación (ácido acetilsalicílico 100 mg v.o./24 h y clopidogrel 75 mg v.o. /24 h), anticoagulación (enoxaparina 80 mg s.c./24 h) e infusión intravenosa de nitroglicerina a 10 ml/hora. Al continuar con taquicardia sinusal se inicia tratamiento con dosis bajas de betabloqueantes (atenolol 25 mg v.o./12 h).
+La ausencia de alteraciones de marcadores cardíacos fue motivo de un nuevo ECG que indicó alteraciones regionales en la contractilidad. La realización de un estudio angiográfico coronario mostró un ventrículo izquierdo normal con una fracción de eyección del 65% y un análisis segmentario normal, mostrando unas arterias coronarias epicárdicas sin estenosis angiográficas significativas, descartando la existencia de enfermedad coronaria activa.
+Ante la sospecha de que los efectos cardiovasculares puedan ser producidos por la venlafaxina, se retira el fármaco y se instaura tratamiento con sertralina 50 mg v.o./ día, disminuyendo la dosis de nitroglicerina a 5 ml/h hasta su posterior suspensión. El paciente progresó adecuadamente y continuó en tratamiento con sertralina y atenolol, acortándose el intervalo QT y manteniendo unas frecuencias cardíacas de alrededor de 80 lpm, con evolución del ECG hacia la normalización de la repolarización.
+Remitido por: Dra. Noelia Rubio Álvaro Correo electrónico: noerual@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="9" end="15" text="Alvaro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="28" end="40" text="Rubio Benito" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="47" end="54" text="3496345" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T14" start="62" end="76" text="46 38264865 44" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T13" start="89" end="118" text="Avenida del planetario 66, 4D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T12" start="142" end="148" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T11" start="154" end="159" text="28034" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T9" start="203" end="213" text="21/12/1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="221" end="227" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T7" start="235" end="242" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T5" start="249" end="250" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="270" end="280" text="15/03/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="290" end="309" text="Noelia Rubio Álvaro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="318" end="329" text="28 28 55478" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T6" start="373" end="380" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2538" end="2557" text="Noelia Rubio Álvaro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2578" end="2597" text="noerual@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

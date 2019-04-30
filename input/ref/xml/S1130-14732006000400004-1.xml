@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Elvira.
+Apellidos: Rivera Bueno.
+NHC: 8435745.
+Domicilio: Avenida Melquiades Xll, 23, 4 D.
+Localidad/ Provincia: Badajoz.
+CP: 06120.
+Datos asistenciales.
+Fecha de nacimiento: 20/08/2002.
+País de nacimiento: España.
+Edad: 14 años Sexo: M.
+Fecha de Ingreso: 15/11/2016.
+Médico: Marta Ortega MartínezNºCol: 06 06 85940.
+Informe clínico del paciente: Adolescente de 14 años, que ingresa para tratamiento de una hernia discal cervical a nivel C4-C5. Un mes antes había comenzado a sufrir cervicobraquialgia derecha y contracturas musculares cervicales, sin déficits neurológicos. El dolor mejoró con tratamiento conservador, pero días después comenzó con dificultad para la abducción del miembro superior derecho. En la exploración física destacaba una pérdida de fuerza en el deltoides y bíceps derechos (grados 2/5 y 4/5 respectivamente). No se apreciaron alteraciones sensitivas, ni piramidalismo en miembros inferiores. Las radiografías de columna cervical mostraban pérdida de altura en los cuerpos vertebrales de C4-C5-C6, así como una calcificación a nivel del disco C4-C5. La RM cervical ponía de manifiesto una voluminosa hernia discal C4-C5 derecha que comprometía la raíz ipsilateral. Una tomografía computarizada (TC) cervical demostró que la hernia estaba calcificada. Se realizó un estudio analítico completo, no apreciándose alteraciones en el hemograma, en la velocidad de sedimentación globular (VSG), o en el metabolismo fosfocálcico. Una gammagrafía descartó captaciones patológicas.
+Esta paciente había sido diagnosticada a la edad de 10 años de calcificaciones intervertebrales idiopáticas a raíz de un estudio radiográfico motivado por dolor cervical. Dicho estudio mostró la existencia de una calcificación a nivel de C4-C5 y varias calcificaciones a nivel dorsal. Una RM descartó cualquier herniación discal. Hasta el episodio actual había permanecido asintomática, salvo ocasionales dolores de espalda.
+Dado el déficit neurológico que presentaba la paciente, se optó por el tratamiento quirúrgico de la hernia discal por vía anterolateral. Durante la cirugía se observó la existencia de un disco intervertebral con calcificaciones finas. Al abrir el ligamento vertebral común posterior se produjo la salida de un material blanquecino y pastoso, que se encontraba a moderada tensión. El informe patológico del material obtenido fue de fibrocartílago con focos de calcificación. Un mes después la paciente se había recuperado por completo de sus déficits.
+Responsable clínico:  Dra. Marta Ortega Martínez. Servicio de Neurocirugía. Hospital Infanta Cristina. Avda de Elvas s/n. Badajoz.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="29" end="35" text="Elvira" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="48" end="60" text="Rivera Bueno" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="67" end="74" text="8435745" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T17" start="87" end="118" text="Avenida Melquiades Xll, 23, 4 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="142" end="149" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="155" end="160" text="06120" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="204" end="214" text="20/08/2002" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="236" end="242" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="250" end="257" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="264" end="265" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="285" end="295" text="15/11/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="305" end="326" text="Marta Ortega Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="333" end="344" text="06 06 85940" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="376" end="387" text="Adolescente" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="391" end="398" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T4" start="1579" end="1586" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2530" end="2551" text="Marta Ortega Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="2579" end="2604" text="Hospital Infanta Cristina" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T2" start="2606" end="2623" text="Avda de Elvas s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="2625" end="2632" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

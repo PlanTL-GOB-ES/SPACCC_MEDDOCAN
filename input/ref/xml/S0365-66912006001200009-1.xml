@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Santiago.
+Apellidos: Rosa Martinez.
+NHC: 2345645.
+NASS:67 54364236 57.
+Domicilio: Calle Cadenas de San Gregorio, 12 1A.
+Localidad/ Provincia:Valladolid.
+CP: 47010.
+Datos asistenciales.
+Fecha de nacimiento: 13/01/1960.
+País: España.
+Edad: 58 años Sexo: H.
+Fecha de Ingreso: 17/05/2018.
+Servicio: Oftalmologia.
+Médico: Victor Asensio Sánchez  NºCol: 47 47 67912.
+Motivo de ingreso: Paciente de 58 años Acude a urgencias por «pérdida y distorsión de la visión» en el ojo izquierdo (OI) de varios días de evolución. 
+Historia Actual: La agudeza visual máxima en el ojo derecho (OD) era de 1 y en el OI de 0,125, la motilidad ocular extrínseca e intrínseca fueron normales, el estudio con lámpara de hendidura no presentaba patología. 
+Antecedentes: sin antecedentes familiares de interés y con antecedentes personales de hipertensión arterial controlada farmacológicamente durante 6 años y sinusitis maxilar de 10 días de evolución sin tratamiento específico.
+Exploración física y pruebas complementarias: La exploración fundoscópica en el OD fue normal pero en el OI había un desprendimiento seroso macular que se extendía hasta los vasos temporales superiores e inferiores, el nervio óptico y el resto del parénquima retiniano no presentaban alteraciones. Refiere el arañazo de un gato en el muslo de la pierna izquierda dos semanas antes de la pérdida de visión. Siete días después de ser explorada por nosotros, desarrolló unas lesiones eritematosas dolorosas limitadas a las extremidades inferiores compatibles con eritema nodoso que en el plazo de 20-25 días se ulceraron. Se realizó interconsulta al servicio de medicina interna para estudio compartido. La radiografía de tórax fue normal, la radiografía de senos paranasales determinó un ligero velamiento en el seno maxilar izquierdo. Los estudios serológicos: ANA, ANCA, ac antifosfolípidos fueron normales. La serología CMV, VEB, Rickettsias, Toxoplasma, VIH, Lyme y la serología luética fueron negativas. El Mantoux también fue negativo. Hemograma: Leucocitos 20.670, VSG 64 mm 1.ª h, PCR 16,4 mg/L. Los niveles serológicos de IgM frente a B. Henselae por ELISA fueron positivos a un título de 1:812. La paciente fue tratada con ciprofloxacino 1 gramo al día durante 14 días. A las cuatro semanas del tratamiento el cuadro sistémico empezó a regresar y el oftalmológico se resolvió alcanzando el OI una agudeza visual de la unidad.
+Remitido por: Victor Asensio Sánchez. Hospital General Servicio Castellano-Leonés de Salud Servicio de Oftalmología Medina del Campo (Valladolid) España E-mail: vasensio@hmdc.sacyl.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="9" end="17" text="Santiago" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="30" end="43" text="Rosa Martinez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T3" start="50" end="57" text="2345645" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T4" start="64" end="78" text="67 54364236 57" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T2" start="91" end="127" text="Calle Cadenas de San Gregorio, 12 1A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="150" end="160" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="166" end="171" text="47010" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="233" end="239" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="247" end="254" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="261" end="262" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T5" start="282" end="292" text="17/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="326" end="348" text="Victor Asensio Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="357" end="368" text="47 47 67912" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T12" start="401" end="408" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T11" start="2413" end="2435" text="Victor Asensio Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="2437" end="2453" text="Hospital General" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="2454" end="2489" text="Servicio Castellano-Leonés de Salud" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T6" start="2515" end="2531" text="Medina del Campo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T10" start="2533" end="2543" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2545" end="2551" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T9" start="2560" end="2582" text="vasensio@hmdc.sacyl.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Leticia.
+Apellidos: Santana Rot.
+NHC: 7645745.
+NASS: 84 39678906 15.
+Domicilio: Calle Virgen de la Cabeza, 34, 1 C.
+Localidad/ Provincia: Salamanca.
+CP: 28822.
+Datos asistenciales.
+Fecha de nacimiento: 03/05/1947.
+País: España.
+Edad: 13 años  Sexo: M.
+Fecha de Ingreso: 30/04/2010.
+Médico: Josep Rubio Palau   NºCol: 25 25 89135.
+Varón de 37 años, con antecedentes de úlceras orales de repetición e intervenido por absceso perianal. Refería desde hacía dos años molestias abdominales en zona periumbilical y deposiciones blandas con moco. En los últimos meses la clínica era más intensa y se acompañó de pérdida de 10 kg de peso y astenia. Consultó en urgencias por dolor abdominal intenso y fiebre de 38ºC. A la exploración física presentaba un abdomen distendido y signos de irritación peritoneal, se palpaba una masa dolorosa, de límites mal definidos, en hemiabdomen derecho. La analítica mostraba una anemia normocítica con aumento de reactantes de fase aguda. En la TC abdominal se apreciaba un engrosamiento (13 cm) concéntrico de la pared del colon ascendente que se extendía hasta ángulo hepático, con afectación del íleon terminal y adenopatías retroperitoneales, sugerente de enfermedad inflamatoria intestinal o, menos probable, de proceso neoplásico complicado.
+
+Dirección para correspondencia: Francisco Javier Saldívar Alarcón Centro de Salud de Porzuna 13120 - Porzuna, Ciudad Real, España Correo electrónico: pacsal@gmail.com

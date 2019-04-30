@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Iñigo.
+Apellidos: Larrea Barrios.
+CIPA: nhc-79469851.
+NASS: 12 97648531 22.
+Domicilio: Avenida Federico Soto 2.
+Localidad/ Provincia: Pamplona.
+CP: 31001.
+NHC: 79469851.
+Datos asistenciales.
+Fecha de nacimiento: 25/06/1970.
+País: España.
+Edad: 47 años  Sexo: Varón.
+Fecha de Ingreso: 23/12/2017.
+Médico: Luis Ripa Saldías NºCol: 31 31 55689.
+Motivo de ingreso: aumento moderado de volumen escrotal izquierdo.
+Antecedentes:Paciente de 47 años con antecedentes de ulcus gástrico, fumador de 10 cigarrillos/día, vasectomizado.
+Historia Actual: El paciente consulta por aumento moderado de volumen escrotal izquierdo desde hace años pero con incremento durante el último mes, acompañado de molestias sordas, sin dolor agudo. No síntomas miccionales ni fiebre.
+Exploración física: A la exploración física destaca la presencia de hidrocele de mediano tamaño que impide la exploración de testículo y epidídimo.
+Resumen de pruebas complementarias: Los análisis generales de sangre y orina fueron normales. Se realizó ecografía escrotal informada como imagen nodular intratesticular izquierda de bordes bien definidos, sugestiva de neoplasia testicular e hidrocele de contenido anecoico. Marcadores tumorales (AFP y ß-HCG) normales.
+Se practicó orquiectomía inguinal izquierda con colocación de prótesis testicular siliconada. 
+Evolución y comentarios: Tras un postoperatorio inmediato normal se realizó TAC abdominal que fue normal. La pieza quirúrgica mostraba macroscópicamente una zona de testículo infartada alternando con otra aparentemente normal, confirmando la presencia de infarto testicular en el estudio microscópico con ausencia de tumor.
+Remitido por: Dr. Luis Ripa Saldías. Avenida Lezaun, 14, 31620 Gorraiz (Navarra) E-mail: luiripasal@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="14" text="Iñigo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="27" end="41" text="Larrea Barrios" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="53" end="61" text="79469851" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="69" end="83" text="12 97648531 22" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="96" end="119" text="Avenida Federico Soto 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="143" end="151" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="157" end="162" text="31001" TYPE="TERRITORIO" comment=""/>
+    <ID id="T15" start="169" end="177" text="79469851" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="221" end="231" text="25/06/1970" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="239" end="245" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="253" end="260" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="268" end="273" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="293" end="303" text="23/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="313" end="330" text="Luis Ripa Saldías" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="338" end="349" text="31 31 55689" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T7" start="443" end="450" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1670" end="1687" text="Luis Ripa Saldías" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1689" end="1707" text="Avenida Lezaun, 14" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1709" end="1714" text="31620" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1715" end="1722" text="Gorraiz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1724" end="1731" text="Navarra" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1741" end="1760" text="luiripasal@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

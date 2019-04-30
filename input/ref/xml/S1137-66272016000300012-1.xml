@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Ramón .
+Apellidos: Charro Rodrigo.
+NHC: 6529585.
+NASS: 56 35654584 02.
+Domicilio: Calle de Francisco Berkal 12, 4 izq.  .
+Localidad/ Provincia: Pamplona.
+CP: 31003.
+Datos asistenciales.
+Fecha de nacimiento: 06/07/1965.
+País: España.
+Edad: 49 años Sexo: M.
+Fecha de Ingreso: 04/05/2014.
+Servicio: Urgencias .
+Episodio: 3658924568.
+Médico: Silvia Goñi Esarte NºCol: 31 20 45646.
+Motivo de ingreso: Disnea.
+Historia Actual: Varón de 49 años, fumador de 12 cigarrillos al día y ex-bebedor desde hacía 3 años. Acude al servicio de Urgencias por presentar en los días previos disnea progresiva hasta hacerse de mínimos esfuerzos, acompañada de edemas, mareo y síncope, sin dolor torácico ni ortopnea acompañantes. 
+Antecedentes: Como antecedente relevante destacaba un cuadro de endocarditis infecciosa sobre una válvula mitral mixoide, complicado con perforación valvular e insuficiencia mitral severa, tratada inicialmente con antibióticos y posteriormente con la sustitución de la válvula mitral por una prótesis mecánica mediante esternotomía. Fue dado de alta 10 días antes del ingreso actual en tratamiento con acenocumarol, bisoprolol, furosemida y amiodarona. 
+Exploración física: En la exploración destacaba un regular estado general, hipotensión arterial (TAS 90 mmHg), ingurgitación yugular y hepatomegalia de 3 traveses de dedo.
+Resumen de pruebas complementarias: En la analítica se objetivó una importante elevación de transaminasas (AST: 5.550 U/L; ALT: 3.826 U/L) y de LDH (10.375 U/L), con cifras de bilirrubina ligeramente elevadas (2 mg/dL). Asimismo presentaba anemia (Hb: 9,2 g/dL), deterioro de la función renal (Cr: 1,76 mg/dl; urea 88 mg/dl) y un I.N.R. de 9,86. Las serologías para VHA, VHB, VHC, VIH, VEB, CMV y la autoinmunidad fueron negativas. Se descartó la ingesta de fármacos y otros productos hepatotóxicos.
+El electrocardiograma no mostraba alteraciones de interés y en la ecografía se objetivó una hepatomegalia marcada con alteración difusa de la ecogenicidad en relación a esteatosis, siendo el estudio vascular hepático normal.
+Ante la sospecha de un posible origen cardíaco del cuadro clínico se realizó un ecocardiograma que confirmó la presencia de derrame pericárdico masivo, de predominio en pared libre del ventrículo derecho, donde alcanzaba 60 mm de espesor, y en ventrículo izquierdo con 29 mm de espesor. El ventrículo derecho así como la porción inicial de la arteria pulmonar aparecían completamente colapsados, datos de taponamiento ecocardiográfico grave.
+Evolución y comentarios: Ante estos hallazgos el paciente fue trasladado a la Unidad Coronaria donde se realizó pericardiocentesis diagnóstica y evacuadora utilizando abordaje anterior (3o espacio intercostal paraesternal izquierdo) con extracción de 600 cc de líquido hemorrágico, quedando ligero derrame localizado a nivel apical (encapsulado). Se enviaron muestras para bioquímica, microbiología y citología, confirmándose un derrame hemático con un hematocrito superior al plasmático, siendo el estudio microbiológico y la citología normales. Al mismo tiempo se inició tratamiento con corticoides con buena respuesta clínica. Analíticamente se objetivó una normalización de las cifras de creatinina (0,72 mg/dL) y un descenso progresivo de los valores de las transaminasas (AST: 304 U/L; ALT: 227 U/L) y de LDH (568 U/L). Previo al alta se realizó un ecocardiograma de control que mostró derrame pericárdico leve de aspecto fibrinoso, loculado, de distribución asimétrica, predominantemente localizado a nivel anterior y ápex de ventrículo derecho, sin datos de compromiso hemodinámico. Ante la buena evolución clínica y analítica, la biopsia hepática no fue necesaria y fue diagnosticado de hepatitis isquémica por situación de bajo gasto en relación a taponamiento cardiaco secundario a síndrome postpericardiotomía con transformación hemorrágica.
+Diagnóstico Principal: hepatitis isquémica
+Otros diagnósticos: taponamiento cardiaco, síndrome postpericardiotomía con transformación hemorrágica.
+Remitido por: Dra. Silvia Goñi Esarte. Servicio de Aparato Digestivo Complejo Hospitalario de Navarra. C/ Irunlarrea, 3 31008 Pamplona (Navarra) E-mail: sgesarte@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="8" end="13" text="Ramón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="27" end="41" text="Charro Rodrigo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="48" end="55" text="6529585" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="63" end="77" text="56 35654584 02" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="90" end="126" text="Calle de Francisco Berkal 12, 4 izq." TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="152" end="160" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="166" end="171" text="31003" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T5" start="215" end="225" text="06/07/1965" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="233" end="239" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T2" start="247" end="254" text="49 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T3" start="261" end="262" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T4" start="282" end="292" text="04/05/2014" TYPE="FECHAS" comment=""/>
+    <ID id="T16" start="326" end="336" text="3658924568" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T14" start="346" end="364" text="Silvia Goñi Esarte" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T15" start="372" end="383" text="31 20 45646" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T1" start="429" end="434" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="438" end="445" text="49 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T13" start="4030" end="4048" text="Silvia Goñi Esarte" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T11" start="4080" end="4112" text="Complejo Hospitalario de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T10" start="4114" end="4130" text="C/ Irunlarrea, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T9" start="4131" end="4136" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T8" start="4137" end="4145" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T7" start="4147" end="4154" text="Navarra" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T6" start="4164" end="4184" text="sgesarte@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

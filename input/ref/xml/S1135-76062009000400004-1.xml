@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Carmen.
+Apellidos: Bautista Romero.
+NHC: 435784.
+NASS:45 345665.
+Domicilio: Paseo de Ramirez 77, 2B.
+Localidad/ Provincia: Zaragoza.
+CP: 50015.
+Datos asistenciales.
+Fecha de nacimiento: 15/11/1964.
+País: España.
+Edad: 53 años Sexo: M.
+Fecha de Ingreso: 17/12/2017.
+Médico: José Aso Escario NºCol: 50 50 32174.
+Informe clínico del paciente: mujer de 53 años, con antecedentes de migrañas. Presentaba ciática refractaria a tratamiento y hernia discal L5-S1.
+Tras consentimiento informado y estudio preoperatorio sin contraindicaciones, se practicó microdiscectomía L5-S1.
+La técnica operatoria, incluyendo preparación y posicionamiento, fue como sigue:
+- Anestesia
+Se practicó una anestesia general, con intubación orotraqueal. La inducción se realizó mediante Propofol, la analgesia con Renifentanilo (agonista de los receptores m opioides, con una potencia analgésica similar al fentanilo), y la relajación con Besilato de atracurio (agente bloqueador neuromuscular, competitivo o no despolarizante). Se utilizó Sevofluorano como anestésico volátil. Durante la intervención se administraron 100 mg de Tramadol (Analgésico de acción central, agonista puro no selectivo de los receptores opioides, µ, delta y kappa ) y 25 mg de Dexketoprofeno trometamol. La duración de la anestesia fue de 1 hora 50 minutos sin registrar, durante la misma, complicaciones de ningún tipo.
+- Colocación
+Se intervino en posición mahometana, con la región pectoral y las crestas ilíacas apoyadas en sendas almohadas especiales, con escotaduras centrales para evitar decúbitos de abdomen y mamas.
+La cabeza fue apoyada en un sistema almohadillado en forma de rosco abierto cranealmente. Para evitar apoyo ocular, los ojos se protegieron con lubricante y sendas almohadillas oculares sujetas mediante una venda colocada circularmente sobre la cabeza a la altura de ambos ojos.
+Las extremidades inferiores se almohadillaron en las regiones de decúbito (ambas rodillas). Se comprobó la presencia de pulso pedio y tibial posterior en ambos lados. La posición del dorso del paciente fue paralela al suelo.
+- Técnica quirúrgica
+Se realizó mediante microcirugía convencional con incisión de dos traveses de dedo en la línea media, sección de aponeurosis común sacro-lumbar, retracción de musculatura paravertebral, flavectomía, disección de la raíz y escisión de hernia discal extraída. La pérdida hemática fue mínima y no se administró sangre. Se utilizó una pequeña cantidad de agua oxigenada como hemostático (alrededor de 5 cc).
+- Postoperatorio inmediato
+Al despertar de la anestesia, la paciente comunicó que no veía absolutamente nada por ninguno de los dos ojos. Se solicitó colaboración a Oftalmología, sin hallar patología. La tensión ocular fue normal. El reflejo fotomotor y consensual estaban conservados.
+Se practicó TC cerebral de urgencia, en el que se apreció una imagen en circulación coroidea intraventricular derecha compatible con burbuja de gas. Otra imagen yuxtaósea occipital derecha, se consideró dudosa.
+Se realizó una RNM craneal, que mostró un incremento difuso de la señal en secuencias T2 en áreas posteriores de ambos lóbulos occipitales. La angio-RNM fue normal.
+El cuadro fue interpretado como de origen vascular, bien posicional, o bien derivado de los antecedentes migrañosos de la paciente, siendo sometida empíricamente a tratamiento con dexametasona y vasodilatadores.
+A las 6 horas refirió percibir formas cromáticas indistinguibles y tenues, apareciendo reflejo de amenaza.
+A la mañana siguiente (12 horas tras la intervención), refería haber recuperado la visión, si bien percibía halos cromáticos alrededor de las figuras que se le presentaban. Estas discromatopsias desaparecieron en 24 horas. Una RNM de control mostró mejoría importante de las imágenes occipitales vistas en la RNM previa.
+Los controles posteriores (al mes de la cirugía) mostraron normalidad visual.
+Remitido por: Dr. José Aso Escario. Servicio de Neurocirugía. Hospital MAZ. Avenida de la Academia General Militar, 74. 50015 Zaragoza. E-mail: jaso@maz.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="15" text="Carmen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="28" end="43" text="Bautista Romero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="50" end="56" text="435784" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="63" end="72" text="45 345665" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="85" end="108" text="Paseo de Ramirez 77, 2B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="132" end="140" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="146" end="151" text="50015" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="195" end="205" text="15/11/1964" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="213" end="219" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="227" end="234" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="241" end="242" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="262" end="272" text="17/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="282" end="298" text="José Aso Escario" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="306" end="317" text="50 50 32174" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="349" end="354" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="358" end="365" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3910" end="3926" text="José Aso Escario" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3954" end="3966" text="Hospital MAZ" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3968" end="4010" text="Avenida de la Academia General Militar, 74" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="4012" end="4017" text="50015" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4018" end="4026" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="4036" end="4047" text="jaso@maz.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

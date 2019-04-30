@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Elvira.
+Apellidos: Lopez Ramos.
+NHC: 2547916.
+Domicilio: Calle Pedro Gonu, 28, Bajo A.
+Localidad/ Provincia: Madrid.
+CP: 28009.
+Datos asistenciales.
+Fecha de nacimiento:06/01/2016.
+País: España.
+Edad: 5 Meses Sexo: Femenino.
+Fecha de Ingreso: 10/06/2016.
+Médico: Alberto Palacios Hernández NºCol: 28 28 09867.
+Informe clínico del paciente: Lactante, de raza caucasiana, de 5 meses, la primera hija de padres jóvenes (madre de 28 años y padre de 30 años) sanos y no consanguíneos, sin historia de patología heredo-familiar, renal ni hipertensión conocida. Gestación correctamente vigilada y sin alteraciones. Parto eutócico a las 37 semanas sin complicaciones, presentando un test de Apgar de 9/10. Antropometría al nacimiento, peso de 2.760 gramos, con diámetro céfalo-caudal de 48,5 cm y perímetro cefálico de 34,7 cm. VDRL, AntHBs, VIH negativos, Toxoplasmosis no inmune y rubéola inmune. Detectados apéndices auriculares bilaterales, baja implantación del pabellón auditivo, granulomas cutáneos, micrognatismo con hipoplasia mandibular, coloboma localizado en el ojo izquierdo y tumefacción escrotal sólida aparentemente no dolorosa a la palpación. Calendario de vacunas actualizado.
+El lactante es transferido de otro hospital a los 19 días de vida con el diagnóstico de urosepsis. Internado inicialmente en la Unidad de Cuidados Intensivos Neonatales para estabilizar el cuadro, mediante medidas de soporte y antibioterapia con ampicilina, gentamicina y cefotaxima.
+Realiza ecografia reno-pélvica- escrotal que revela uretero-hidronefrosis bilateral y vejiga de paredes espesadas, tumefacción escrotal derecha, con aparente imágenes hipo e hiperecogénicas con septos y aparente destrucción testicular.
+Una vez que se estabilizan los parámetros y con urocultura negativa, realizamos una cistouretrografía miccional seriada presentando una dilatación de la uretra posterior, vejiga trabeculada y sin presencia de reflujo vésico-ureteral, sospechando cuadro de válvulas de la uretra posterior.
+Las radiologías óseas de cuerpo entero no detectan alteraciones óseas, ni alteraciones vertebrales.
+Realizamos fulguración de las válvulas de la uretra posterior y orquidectomía inguinal derecha. El postoperatorio transcurre sin complicaciones. Retiramos la sonda al séptimo día del postoperatorio. Es dado de alta con función renal normal, urocultura negativa y correcta diuresis.
+Al cuarto mes de vida es internado con el diagnóstico de infección respiratoria en el contexto de bronquiolitis, con uroculturas positivas para flora polimicrobiana es medicado con antibioterapia, y dado de alta con profilaxia antibiótica con trimetroprim-sufametoxazol.
+Al quinto mes teniendo una orina aséptica, realizamos urografía endovenosa y cintilograma renal con MAG-3 y prueba de furosemida, presentando dilatación ureteral bilateral, bifidez renal derecha, con capacidad vesical normal y con vaciado completo de la vejiga, uretra aparentemente sin alteraciones, la función renal bilateral está conservada, respondiendo a la prueba de furosemida. Llegamos al diagnóstico de dilataciones ureterales bilaterales no obstructivos asociados a bifidez piélica. Decidimos efectuar controles cada 6 meses.
+En el último control el niño con 15 meses de edad, presenta función renal normal, buena diuresis y sedimentos urinarios sin alteraciones.
+Remitido por: Alberto Palacios Hernández Residente de 5° año de Urología. Hospital Universitario La paz.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T27" start="29" end="35" text="Elvira" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T26" start="48" end="59" text="Lopez Ramos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="66" end="73" text="2547916" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T24" start="86" end="114" text="Calle Pedro Gonu, 28, Bajo A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T23" start="138" end="144" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T22" start="150" end="155" text="28009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T21" start="198" end="208" text="06/01/2016" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T20" start="216" end="222" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T19" start="230" end="237" text="5 Meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T18" start="244" end="252" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="272" end="282" text="10/06/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T16" start="292" end="318" text="Alberto Palacios Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T15" start="326" end="337" text="28 28 09867" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="369" end="377" text="Lactante" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="402" end="409" text="5 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="414" end="426" text="primera hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="430" end="444" text="padres jóvenes" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T4" start="446" end="451" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T3" start="455" end="462" text="28 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="465" end="470" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="474" end="481" text="30 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T5" start="1219" end="1227" text="lactante" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="1266" end="1273" text="19 días" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T28" start="2410" end="2420" text="cuarto mes" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="3247" end="3255" text="15 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T11" start="3366" end="3392" text="Alberto Palacios Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="3393" end="3412" text="Residente de 5° año" TYPE="ID_EMPLEO_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T10" start="3426" end="3455" text="Hospital Universitario La paz" TYPE="HOSPITAL" comment=""/>
+  </TAGS>
+</MEDDOCAN>

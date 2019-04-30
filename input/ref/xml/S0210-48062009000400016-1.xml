@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Amanda.
+Apellidos: Nájera López.
+NHC: 3849675.
+NASS: 28 93464897 03.
+Domicilio: Calle Juan Manuel Acevedo, 1 F.
+Localidad/ Provincia: Calahorra.
+CP: 26500.
+Datos asistenciales.
+Fecha de nacimiento: 27/03/1945.
+País de nacimiento: España.
+Edad: 65 años Sexo: H.
+Fecha de Ingreso: 12/12/2010.
+Médico: Daniel Sánchez Zalabardo  NºCol: 26 26 56890.
+Informe clínico del paciente: Paciente de 65 años diagnosticado de adenocarcinoma de próstata Gleason 6/10 en ambos lóbulos prostáticos (Estadio TNM 2003 T1c). PSA en el momento del diagnóstico de 9,43 ng/ml. En enero de 2006 el paciente se realiza una prostatectomía radical retorpúbica (Informe anatomía patológica: Adenocarcinoma de próstata Gleason 6/10 pT2c con márgenes libres de tumor). Durante la disección de la cara posterior de la próstata apertura de 2 cm en la cara anterior del recto. Cierre directo de la pared rectal con puntos sueltos. No otras complicaciones intraoperatorias. El quinto día postoperatorio, el paciente presenta fiebre (37,6 ºC), dolor abdominal, fístula urinaria, fecaluria y signos de peritonitis en exploración física. Se realizó CT abdominal evidenciando líquido libre retrohepático por lo que se practicó laparotomía urgente, visualizando peritonitis fecaloidea secundaria a perforación en sigma y abundante orina y heces en pelvis. Se realizó nueva sutura vésico-uretral, resección de segmento de sigma perforado y colostomía de descarga.
+Tras la cirugía urgente, el paciente presenta cuadro séptico por lo que requiere ingreso en UCI para soporte respiratorio. Durante el cuadro séptico, el paciente presenta fístula urinaria con abundante salida de orina a través del drenaje e infección de herida quirúrgica.
+Evolución: Tras estabilización respiratoria y hemodinámica el paciente es dado de alta de la UCI presentando colostomía permeable. Orina clara. Posteriormente, desaparición de fístula urinaria y necrosis grasa en el tercio distal de la herida quirúrgica observando musculatura abdominal como fondo de la úlcera.
+En Marzo de 2006 se realiza cistografía, observándose paso de contraste desde la unión uretrovesical a la ampolla rectal. Con el diagnóstico de fístula vésico-rectal se indica tratamiento conservador mediante sondaje vesical hasta resolución de infección de herida quirúrgica y cierre por segunda intención.
+En Octubre de 2006 ante la persistencia del orificio fistuloso, se practica cierre de fístula uretro-rectal y plastia de avance mucoso por vía transanal. Un mes después de la cirugía se realiza cistografía no observándose fuga del contraste fuera de la vía urinaria, por lo que se retira la sonda vesical.
+En Marzo de 2007 se practica cierre de colostomía y eventroplastia de la pared abdominal con malla.
+En Junio de 2007 el paciente presenta micción espontánea confortable y deposición normal. Ausencia de incontinencia urinaria. Disfunción eréctil tratada con inhibidores de la fosfodiesterasa y PSA menor de 0,15 ng/ml.
+Responsable clínico: Dr. Daniel Sánchez Zalabardo Servicio de Urología. Fundación Hospital de Calahorra Ctra. de Logroño, s/n - 26500 Calahorra (La Rioja) Tel.: 941 151 000 E-mail: dsanchez@fhcalahorra.com Información artículo: Nota clínica
+]]></TEXT>
+  <TAGS>
+    <NAME id="T28" start="28" end="34" text="Amanda" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T27" start="47" end="59" text="Nájera López" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T26" start="66" end="73" text="3849675" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T1" start="81" end="95" text="28 93464897 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T25" start="108" end="138" text="Calle Juan Manuel Acevedo, 1 F" TYPE="CALLE" comment=""/>
+    <LOCATION id="T24" start="162" end="171" text="Calahorra" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T23" start="177" end="182" text="26500" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T22" start="226" end="236" text="27/03/1945" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T21" start="258" end="264" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T20" start="272" end="279" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T19" start="286" end="287" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="307" end="317" text="12/12/2010" TYPE="FECHAS" comment=""/>
+    <NAME id="T17" start="327" end="351" text="Daniel Sánchez Zalabardo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T16" start="360" end="371" text="26 26 56890" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T15" start="415" end="422" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="585" end="598" text="enero de 2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T13" start="2040" end="2053" text="Marzo de 2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T12" start="2348" end="2363" text="Octubre de 2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T11" start="2654" end="2667" text="Marzo de 2007" TYPE="FECHAS" comment=""/>
+    <DATE id="T10" start="2754" end="2767" text="Junio de 2007" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="2994" end="3018" text="Daniel Sánchez Zalabardo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="3041" end="3072" text="Fundación Hospital de Calahorra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="3073" end="3094" text="Ctra. de Logroño, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="3097" end="3102" text="26500" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="3103" end="3112" text="Calahorra" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3114" end="3122" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="3130" end="3141" text="941 151 000" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T2" start="3150" end="3174" text="dsanchez@fhcalahorra.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

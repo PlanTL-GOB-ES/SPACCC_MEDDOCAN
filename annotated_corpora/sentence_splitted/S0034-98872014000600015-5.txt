@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Bibiana Sofia.
+Apellidos: Ponce de Leon.
+NHC: 8574869.
+NASS: 99 78136524 77.
+Domicilio: Calle Cartagena, 30 .
+Localidad/ Provincia: Ciudad Real.
+CP: 31001.
+Datos asistenciales.
+Fecha de nacimiento: 15/07/1977.
+País de nacimiento: España.
+Edad: 39  Sexo: M.
+Fecha de Ingreso: 27/06/2014.
+Médico: Manuel Javier Rodríguez López  NºCol: 51 51 68420.
+Mujer, 71 años. Ingresó al hospital por dolor lumbar, flanco y fosa ilíaca izquierda que presentaba desde hacía 6 meses. Se asociaba a constipación. El laboratorio mostró evidencias de infamación. Existían adenopatías retroperitoneales y mediastínicas, que hicieron sospechar un linfoma. La biopsia quirúrgica del tejido retroperitoneal diagnosticó una FRP sin células tumorales. Se prescribió prednisona 30 mg/día y colchicina 1,0 mg/día, reduciéndose rápidamente el dolor. Fue hospitalizada nuevamente por reaparición del dolor y baja de peso. Existía aumento de tamaño de la masa retroperitoneal, compromiso del psoas izquierdo y erosión de una vértebra. La biopsia del tejido retroperitoneal reveló células neoplásicas indiferenciadas. Se efectuó radioterapia paliativa. La paciente falleció 10 meses después del diagnóstico de FRP.
+
+Correspondencia a: Dr. Jorge Vega Stieb 5 norte 1035, Viña del Mar. Teléfono 56-32-2974237 Fax 56-32-2970050 jvegastieb@gmail.com

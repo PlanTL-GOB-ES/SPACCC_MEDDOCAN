@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Lara.
+Apellidos: Campos Martin.
+NHC: 3746742.
+NASS: 89 46725655 03.
+Domicilio: C/ Gran Vía, 66, 2 A.
+Localidad/ Provincia: Madrid.
+CP: 28008.
+Datos asistenciales.
+Fecha de nacimiento: 25/04/1992.
+País de nacimiento: España.
+Edad: 25 años Sexo: M.
+Fecha de Ingreso: 07/02/2018.
+Médico: Alfonso Vidal Casariego  NºCol: 28 28 57890.
+Informe clínico del paciente: paciente de 25 años acude a la Consulta de Nutrición para monitorización de su estado nutricional; siete meses antes había sido diagnosticada de Colitis Ulcerosa (CU), y durante ese periodo había recibido tratamiento con corticoides: metilprednisolona 1,5 mg/kg/24 h IV durante dos meses de ingreso y 30 mg/24 h de prednisona por vía oral en pauta descendente durante los restantes cinco meses. Refería artralgias en ambas rodillas, y en la exploración mostraba dolor a la rotación posterior en las dos cabezas femorales, más evidente en la derecha, cadera que además presentaba una rotación interna limitada; la rodilla izquierda tenía el movimiento de flexión reducido, y al explorar la marcha se observaba claudicación hacia el lado derecho.
+En los análisis realizados no se detectaron marcadores de autoinmunidad, y las concentraciones plasmáticas de calcio, fósforo y vitamina D estaban dentro del rango de nornialidad. La densitometría ósea (DMO) mostró osteoporosis en la columna lumbar (T score - 3, 1) y osteopenia en el cuello femoral (T score - 1,5). Las radiografias simples mostraron datos sugestivos de NA de grado II en ambas cabezas femorales, más evidentes en el lado derecho; en las rodillas se observaba una lesión osteocondral en el cóndilo femoral interno de la rodilla izquierda con irregularidades en su superficie articular. La resonancia nuclear magnética confirmó las lesiones de necrosis en ambas cabezas femorales y en ambas rodillas, tanto en su cara tibial como en la femoral. En la siguiente RNM, realizada tan sólo 3 meses más tarde, ya se evidenciaban datos de hundimiento en la cadera derecha.
+La paciente fue tratada con alendronato y suplementos de calcio y vitamina D por su osteoporosis, se suspendieron los corticoides y se aconsejó la descarga de peso de las articulaciones afectadas.
+Responsable clínico: Dr. Alfonso Vidal Casariego Unidad de Nutrición Clínica y Dietética Hospital General Universitario Gregorio Marañón C/ Dr. Esquerdo, 46 28008 Madrid E-mail: avcyo@mixmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="32" text="Lara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="45" end="58" text="Campos Martin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="65" end="72" text="3746742" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="80" end="94" text="89 46725655 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="107" end="127" text="C/ Gran Vía, 66, 2 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="151" end="157" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="163" end="168" text="28008" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="212" end="222" text="25/04/1992" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="244" end="250" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="258" end="265" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="272" end="273" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="293" end="303" text="07/02/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="313" end="336" text="Alfonso Vidal Casariego" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="345" end="356" text="28 28 57890" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T7" start="400" end="407" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2238" end="2261" text="Alfonso Vidal Casariego" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2302" end="2349" text="Hospital General Universitario Gregorio Marañón" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2350" end="2369" text="C/ Dr. Esquerdo, 46" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2370" end="2375" text="28008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2376" end="2382" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2391" end="2408" text="avcyo@mixmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

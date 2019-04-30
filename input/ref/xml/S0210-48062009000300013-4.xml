@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: David.
+Apellidos: Melquiades Ramos.
+NHC: 7625431.
+NASS: 37 45637632 02.
+Domicilio: Av. Castilla La Mancha, 36.
+Localidad/ Provincia: Albacete.
+CP: 02841.
+Datos asistenciales.
+Fecha de nacimiento: 06/09/1981.
+País de nacimiento: España.
+Edad: 34 años Sexo: H.
+Fecha de Ingreso: 15/04/2016.
+Médico: Héctor Pastor Navarro  NºCol: 02 02 54780.
+Informe clínico del paciente: Paciente varón de 34 años, con antecedentes Personales: Hepatitis en la infancia. Ureterolitectomía derecha 10 años antes. Cistinuria. UIV previa a la Leoch con normal función renal bilateral pero con riñón derecho de menor tamaño que el izquierdo. No HTA.
+Leoch de litiasis de 1 cm en cáliz inferior de riñón derecho.3.500 impactos, intensidad 3. A las 5-6 horas del tratamiento presentó dolor intenso en flanco derecho diagnosticándose con ecografía de discreto hematoma subcapsular. En TAC tres días después, hematoma de 12 cm. Se transfundieron dos concentrados de hematíes.
+14 días después de la litotricia drenaje del hematoma con cirugía abierta. Alta hospitalaria 7 días después. Los controles mediante ecografía y UIV posteriores son similares a los previos a la Leoch.
+Responsable clínico: Dr. Héctor Pastor Navarro Servicio de Urología Complejo Hospitalario Universitario de Albacete Hermanos Falcó, s/n - 02006 Albacete Tel.: 967 597 100 E-mail: hektorpn@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="33" text="David" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="46" end="62" text="Melquiades Ramos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="69" end="76" text="7625431" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="84" end="98" text="37 45637632 02" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="111" end="137" text="Av. Castilla La Mancha, 36" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="161" end="169" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="175" end="180" text="02841" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="224" end="234" text="06/09/1981" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="270" end="277" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="284" end="285" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T1" start="305" end="315" text="15/04/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="325" end="346" text="Héctor Pastor Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="355" end="366" text="02 02 54780" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="407" end="412" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="416" end="423" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1202" end="1223" text="Héctor Pastor Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1245" end="1292" text="Complejo Hospitalario Universitario de Albacete" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="1293" end="1312" text="Hermanos Falcó, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1315" end="1320" text="02006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1321" end="1329" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="1336" end="1347" text="967 597 100" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T2" start="1356" end="1376" text="hektorpn@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

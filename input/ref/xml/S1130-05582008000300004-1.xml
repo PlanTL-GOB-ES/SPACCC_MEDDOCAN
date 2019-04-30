@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Javier.
+Apellidos: Gomez Martin.
+NHC: 7245653.
+NASS: 37 61456895 97.
+Domicilio: C/ Guzman el Bueno, 34, 6 A.
+Localidad/ Provincia: Madrid.
+CP: 28009.
+Datos asistenciales.
+Fecha de nacimiento: 21/10/1980.
+País de nacimiento: España.
+Edad: 37 años Sexo: H.
+Fecha de Ingreso: 05/05/2018.
+Médico: Juan García de Marcos  NºCol: 28 28 89710.
+Informe clínico del paciente: Paciente varón, de 37 años de edad, que acude a la consulta por presentar un nódulo paramandibular derecho, de 6 años de evolución, que en el último año ha aumentado de tamaño. Refiere que la lesión apareció tras la exodoncia de un molar inferior.46.
+A la exploración el paciente presentaba un nódulo de 1,5 cm de diámetro, en el fondo del vestíbulo, a la altura del 45 y del teórico 46. La lesión era móvil, bien delimitada, de consistencia elástica y dolorosa a la palpación. La mucosa suprayacente era normal. Se realizó una ortopantomografía en la que no se apreció patología mandibular. Bajo anestesia local se realizó la resección de la lesión, localizando previamente la salida del nervio mentoniano para preservarlo.1
+Macroscópicamente se trataba de una lesión nodular, bien delimitada, blanquecina, de 2 x 1,5 x 1 cm de tamaño. Microscópicamente la lesión estaba formada por células uniformes fusiformes, con límites citoplasmáticos mal definidos, núcleos ovales o redondos, sin mitosis ni pleomorfismo nuclear. Las células se disponían al azar entremezcladas con fibras de colágeno y vasos sanguíneos aislados. No había áreas de necrosis, ni patrón hemangiopericitoide. En la periferia la lesión estaba delimitada por un ribete de tejido conectivo.
+Inmunohistoquimicamente las células de la lesión eran: intensamente positivas para: vimentina, CD34 y bcl2 ; débilmente positivas para: factor XIIIa y actina músculo específica (1A4); y negativas para: proteina S-100, citoqueratinas (CAM 5,2;AE1-3), desmina y actina muscular (HHF35).
+El postoperatorio evolucionó sin complicaciones, y tras un año de la cirugía no hay signos de recidiva local o regional.
+Responsable clínico: Juan García de Marcos. C/ Antonio Acuña. Nº 10 5ºA izq. 28009 Madrid, España. Email: pepio2@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="34" text="Javier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="47" end="59" text="Gomez Martin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="66" end="73" text="7245653" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="81" end="95" text="37 61456895 97" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="108" end="135" text="C/ Guzman el Bueno, 34, 6 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="159" end="165" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="171" end="176" text="28009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="220" end="230" text="21/10/1980" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="252" end="258" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="266" end="273" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="280" end="281" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="301" end="311" text="05/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="321" end="342" text="Juan García de Marcos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="351" end="362" text="28 28 89710" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="403" end="408" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="413" end="420" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2080" end="2101" text="Juan García de Marcos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2103" end="2134" text="C/ Antonio Acuña. Nº 10 5ºA izq" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2136" end="2141" text="28009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2142" end="2148" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2150" end="2156" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2165" end="2183" text="pepio2@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

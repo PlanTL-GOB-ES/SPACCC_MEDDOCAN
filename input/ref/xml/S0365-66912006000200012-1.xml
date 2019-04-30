@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Elisa.
+Apellidos: Ordoñez Romero.
+NHC: 41245.
+NASS: 23 45897614 05.
+Domicilio: Paseo de la Castellana 86. 13 A.
+Localidad/ Provincia: Madrid.
+CP: 28020.
+Datos asistenciales.
+Fecha de nacimiento: 12/06/1941.
+País: España.
+Edad: 76 años Sexo: M.
+Fecha de Ingreso: 11/12/2017.
+Servicio: Urgencias.
+Médico: Enrique Santos Bueso  NºCol: 28 28 67942.
+Historia Actual:Paciente de 76 años de edad que acudió a urgencias por TCE frontal derecho con pérdida de conciencia, producido por una caída casual en su domicilio. La paciente refería pérdida de visión por el ojo derecho (OD) al recuperar el nivel de conciencia.
+Antecedentes:Entre los antecedentes destacaban diabetes mellitus tipo 2 en tratamiento con antidiabéticos orales y artrosis. No refería otros antecedentes personales ni familiares de interés.
+Exploración física: En la exploración presentaba una herida inciso-contusa infraciliar y un hematoma difuso fronto-orbitario derechos. La agudeza visual (AV) era de no percepción de luz con un defecto pupilar aferente relativo (DPAR) en el OD y de 0,6 en el ojo izquierdo. El polo anterior estaba dentro de la normalidad, así como la presión intraocular y el fondo de ojo.
+Resumen de pruebas complementarias: La tomografía computarizada (TC) de cráneo con cortes orbitarios fue normal y en la resonancia magnética nuclear (RMN) se apreciaba un aumento de líquido perineural en la vaina del NO derecho.
+Evolución y comentarios: Ante la persistencia de la sintomatología se realizó una reconstrucción sagital del canal óptico del TC helicoidal, apreciándose fractura lineal del techo de la órbita derecha que se extendía al ala menor del esfenoides derecho, en la región del CO, con mínimo hundimiento del fragmento lateral que reducía el diámetro interno del CO.
+Se realizaron potenciales visuales evocados utilizando estímulo monocular (Medelec® Synergy. Oxford. Instruments, England) con Googles a 2 ciclos por segundo evidenciándose una gran asimetría en la morfología de las respuestas a la estimulación de ambos ojos, sugiriendo ausencia de conducción del estímulo visual en el NO derecho.
+La paciente fue diagnosticada de neuropatía óptica traumática (NOT) de mecanismo de producción mixto al tratarse de un traumatismo frontal cerrado que se transmitió indirectamente hacia el CO y una lesión directa del NO al desplazarse el ala menor del esfenoides en el interior del CO.
+Se instauró tratamiento con megadosis de corticoides (1 g de metilprednisolona seguido de 250 mg cada 6 horas durante 48 horas), sin presentar mejoría.
+Remitido por: Enrique Santos Bueso Servicio de Oftalmología. USIO. Hospital Clínico San Carlos Avda. Prof. Martín Lagos, s/n 28040 Madrid España E-mail: esbueso@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="9" end="14" text="Elisa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="27" end="41" text="Ordoñez Romero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="48" end="53" text="41245" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="61" end="75" text="23 45897614 05" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="88" end="119" text="Paseo de la Castellana 86. 13 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="143" end="149" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="155" end="160" text="28020" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T1" start="204" end="214" text="12/06/1941" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="222" end="228" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="236" end="243" text="76 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="250" end="251" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="271" end="281" text="11/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="312" end="332" text="Enrique Santos Bueso" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="341" end="352" text="28 28 67942" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T12" start="382" end="389" text="76 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T2" start="1848" end="1864" text="Medelec® Synergy" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T3" start="1866" end="1872" text="Oxford" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T11" start="1887" end="1894" text="England" TYPE="PAIS" comment=""/>
+    <NAME id="T10" start="2557" end="2577" text="Enrique Santos Bueso" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T9" start="2610" end="2637" text="Hospital Clínico San Carlos" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T8" start="2638" end="2667" text="Avda. Prof. Martín Lagos, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T7" start="2668" end="2673" text="28040" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="2674" end="2680" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2681" end="2687" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T4" start="2696" end="2715" text="esbueso@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

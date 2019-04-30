@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Diana.
+Apellidos: Martinez Santana.
+NHC: 5678306.
+NASS: 79 83268953 05.
+Domicilio: Av. Las Rozas, 34, 3, 1.
+Localidad/ Provincia: Cuenca.
+CP: 16221.
+Datos asistenciales.
+Fecha de nacimiento: 21/12/1971.
+País de nacimiento: España.
+Edad: 42 años Sexo: M.
+Fecha de Ingreso: 20/03/2014.
+Servicio: Neurología.
+Episodio: 7834564.
+Médico: José M.a Gómez Argüelles  NºCol: 16 16 52330.
+Informe clínico del paciente: Mujer de 42 años que refiere que desde un año antes de acudir a la consulta presenta dolor tipo escozor en la zona del omóplato izquierdo y poco tiempo después observó que tenía una mancha hiperpigmentada en la espalda, en la zona dorsal media, pero que no coincidía con la zona pruriginosa. La sensación de picor era constante, a veces incluso con sensación de "descargas eléctricas". Le molestaba cualquier estímulo mecánico sobre esa zona, lo que le impedía llevar ropa ajustada e incluso evitaba cualquier mínimo roce. Se realizó una biopsia de la lesión hiperpigmentada, siendo compatible con el diagnóstico de notalgia parestésica. En la exploración se objetivaba una zona de hiperestesia en la región escapular izquierda, con alodinia cutánea y dinámica, más hiperestesia al pinchazo en una zona claramente delimitada. El estudio de resonancia magnética nuclear (RMN) de columna completa no mostró anomalías. Se intentaron diferentes tratamientos (ebastina, capsaícina en crema, corticoide tópico, pregabalina oral, lidocaína en parche al 5%, capsaicina en parche al 8%, infiltración con toxina botulínica), sin ninguna eficacia sobre los síntomas descritos y sin observarse mejoría de la clínica.
+Responsable clínico: José M.a Gómez Argüelles Servicio de Neurología Hospital General Virgen de la Luz C/ Hermandad Donantes de Sangre, s/n 16002 Cuenca e-mail: jmgarguelles@yahoo.es

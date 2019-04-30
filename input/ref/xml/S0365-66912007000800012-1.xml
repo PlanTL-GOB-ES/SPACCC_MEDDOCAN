@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Maialen.
+Apellidos: Aizpurua Izaguirre.
+NHC: 41877.
+NASS:45 76557866 03.
+Domicilio: Avenida libertad 46, 4D.
+Localidad/ Provincia: San Sebastian.
+CP: 20009.
+Datos asistenciales.
+Fecha de nacimiento: 15/04/1973.
+País: España.
+Edad: 45 años Sexo: M.
+Fecha de Ingreso: 21/09/2018.
+Servicio: Oftalmologia.
+Médico: Aritz Bidaguren Urbieta NºCol: 20 20 86795.
+Historia Actual: Paciente mujer, vista por primera vez en el servicio de oftalmología de nuestro hospital en el año 1992 por disminución de la agudeza visual de su ojo derecho.
+La exploración oftalmológica inicial Maialen mostró una agudeza visual (AV) de 0,2 en ojo derecho (OD) y de 0,6 en ojo izquierdo (OI), con -5,0 y -4,0 dioptrías esféricas respectivamente. En el examen biomicroscópico de polo anterior se apreciaba un embriotoxon posterior marcado y la presión intraocular era de 12 mmHg en ambos ojos. El fondo de ojo de la paciente mostraba las siguientes características OD: Atrofia geográfica circumpapilar del EPR y coroides con límites precisos que abarca todo el área macular y permite visualizar los vasos coroideos subyacentes. OI: Lesiones difusas de características similares a las del OD, con semiluna de atrofia que afecta parcialmente el área macular. Ante esta situación se realizó una angiografía fluoresceínica (AFG) que mostraba la atrofia del EPR y coriocapilar ya descrita, sin claros signos de actividad. Ante la posibilidad de que se tratara de una coroiditis serpiginosa, se inició tratamiento inmunosupresor con Corticoides y Ciclosporina, además de suplementos vitamínicos por un posible déficit nutricional, sin que se objetivara respuesta favorable. Con posterioridad, y debido a la evolución desfavorable, se reinstauró tratamiento inmunosupresor con Azatioprina y Metotrexate sin presentar, en ningún momento, signo alguno de mejoría.
+En el año 2003, y debido a sus antecedentes familiares (2 sobrinos diagnosticados genéticamente de Síndrome de Alagille sin manifestaciones oftalmológicas asociadas), se realiza estudio genético a la paciente, descubriendo la mutación 2785+3 del AAGT en el intrón 19 del gen Jagged 1 y confirmando así la sospecha de Síndrome de Alagille.
+Su hermana mayor Maite no es portadora de la mutación identificada.
+En la actualidad, y tras 14 años de seguimiento, la paciente presenta una agudeza visual de percepción de luz en OD y 0,1 con fijación excéntrica en OI. En el fondo de ojo se objetiva el crecimiento de las lesiones atróficas coriorretinianas que abarcan completamente el área macular sin haber mostrado evidencia alguna de signos angiográficos de actividad en los controles periódicos realizados a lo largo del seguimiento en nuestro servicio.
+Remitido por: Aritz Bidaguren Urbieta. Paseo Dr. Marañón, 14, 3.º C 20009 San Sebastián (Guipúzcoa) España E-mail: aritzbidaguren@kaixo.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="9" end="16" text="Maialen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="29" end="47" text="Aizpurua Izaguirre" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="54" end="59" text="41877" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="66" end="80" text="45 76557866 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="93" end="116" text="Avenida libertad 46, 4D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="140" end="153" text="San Sebastian" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="159" end="164" text="20009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="208" end="218" text="15/04/1973" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="226" end="232" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="240" end="247" text="45 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="254" end="255" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T1" start="275" end="285" text="21/09/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="319" end="342" text="Aritz Bidaguren Urbieta" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="350" end="361" text="20 20 86795" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="389" end="394" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="475" end="483" text="año 1992" TYPE="FECHAS" comment=""/>
+    <NAME id="T26" start="577" end="584" text="Maialen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="1842" end="1850" text="año 2003" TYPE="FECHAS" comment=""/>
+    <OTHER id="T9" start="1892" end="1902" text="2 sobrinos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T28" start="2178" end="2191" text="hermana mayor" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T27" start="2192" end="2197" text="Maite" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <NAME id="T8" start="2701" end="2724" text="Aritz Bidaguren Urbieta" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2726" end="2754" text="Paseo Dr. Marañón, 14, 3.º C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="2755" end="2760" text="20009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2761" end="2774" text="San Sebastián" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2776" end="2785" text="Guipúzcoa" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2787" end="2793" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="2802" end="2826" text="aritzbidaguren@kaixo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,15 @@
+Datos del paciente.
+Nombre: Dolores.
+Apellidos: Altamirano Turcios.
+NHC: 8263401.
+Domicilio: Av. de Jaén, 28.
+Localidad/ Provincia: Málaga.
+CP: 28040.
+Datos asistenciales.
+Fecha de nacimiento: 26/10/1938.
+País: España.
+Edad: 72 años  Sexo: M.
+Fecha de Ingreso: 17/05/2018.
+Médico: María Inés Pérez Flores  NºCol: 02 02 45618.
+Varón de 67 años con cirrosis hepática de origen enólico y sin antecedentes cardiopulmonares que ingresa por un cuadro de encefalopatía hepática secundario a estreñimiento. En radiografía de tórax se observó una lesión radiopaca, redondeada y con bordes regulares en hemitórax izquierdo que no existía en controles previos iniciándose tratamiento antibiótico empírico ante la sospecha de una neumonía. En la TC torácica la colección era de bordes lisos y regulares y con contenido de densidad "agua" planteándose la posibilidad de una ascitis intratorácica loculada. El paciente mejoró rápidamente de sus síntomas, pero al alta persistía la lesión anteriormente descrita, la cual desapareció al cabo de un mes con terapia diurética.
+Dirección para correspondencia: Correo electrónico: jrubio.hpth@salud.madrid.org (J.J. Rubio)

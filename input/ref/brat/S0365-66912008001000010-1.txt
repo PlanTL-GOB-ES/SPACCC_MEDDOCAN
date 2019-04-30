@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Joaquín.
+Apellidos: Díaz Madrid.
+NHC: 8957344.
+NASS: 78 63756739 30.
+Domicilio: Calle de Alejandro Martín Ortega, 7, 6 A.
+Localidad/ Provincia: Alcobendas.
+CP: 28100.
+Datos asistenciales.
+Fecha de nacimiento: 17/01/1982.
+País de nacimiento: España.
+Edad: 35 años Sexo: H .
+Fecha de Ingreso: 14/06/2017.
+Médico: Carolina Arruabarrena Sánchez  NºCol: 28 28 57489.
+Historia Actual: Paciente varón de 35 años que acude a urgencias por presentar cefalea bifrontoparietal de gran intensidad y 8 horas de duración, que no variaba con maniobras de Valsalva ni con la postura, y cedía parcialmente con analgésicos.
+Antecedentes: Como antecedente personal refería un episodio de HII tratado con acetazolamida oral y naproxeno con recuperación clínica y desaparición del papiledema.
+Exploración: La exploración general y neurológica fue normal, presentando un índice de masa corporal de 22 Kg/m2. La exploración oftalmológica presentaba una agudeza visual corregida de 0,7 en ambos ojos. La motilidad ocular intrínseca, exploración del segmento anterior y la presión intraocular (PIO) eran normales.
+Pruebas complementarias: El examen funduscópico demostró un papiledema bilateral. En la angiografía fluoresceínica se observó fuga peripapilar bilateral desde tiempos precoces. El estudio de la capa de fibras nerviosas (estrategia fast RNFL) mediante tomografía de coherencia óptica (Stratus OCT; Carl Zeiss Meditec, Dublin, CA), demostró engrosamiento de la capa de fibras en el ojo derecho (OD) y grosor en límites altos de la normalidad en el ojo izquierdo (OI).
+La ecografía orbitaria, la tomografía axial computerizada y la perimetría automática fueron normales.
+Se efectuó punción lumbar, observándose una presión de apertura de 30 cm de agua, siendo la composición y serología del LCR normales.
+El estudio analítico, de coagulación y la determinación de ANCAs, ANAs, PCR, FR, ASLO, hormonas tiroideas y anticuerpos antitiroideos fueron negativos.
+Evolución:Tras la realización de una resonancia magnética nuclear (RMN) y fleborresonancia se descartó la presencia de trombosis de senos craneales, encontrándose una estenosis segmentaria del seno lateral derecho.
+El paciente fue tratado con acetazolamida y naproxeno observándose mejoría clínica. Tras la realización de venografía y manometría de senos craneales se observó una estenosis larga del seno transverso derecho con gradiente de presión de 7 mmHg, de escasa cuantía y similar al del contralateral. Por este motivo y ante la mejoría clínica se desestimó la dilatación por angioplastia y colocación de stent.
+Responsable clínico: Dra. Carolina Arruabarrena Sánchez C/. Pintor Goya, 1, 3.º B 28100 Alcobendas (Madrid) España E-mail: carruabarrena@eresmas.com

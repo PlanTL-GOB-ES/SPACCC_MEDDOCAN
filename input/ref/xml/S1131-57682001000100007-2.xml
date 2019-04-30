@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Laura.
+Apellidos: Pérez Godín.
+NHC: 43561584.
+Domicilio: Av. Valdes, 51.
+Localidad/ Provincia: León.
+CP: 24400.
+Datos asistenciales.
+Fecha de nacimiento: 17/05/2005.
+País: España.
+Edad: 13 años Sexo: M.
+Fecha de Ingreso: 12/05/2018.
+Servicio: Pediatría.
+Médico: María Teresa González Martínez NºCol: 24 24 58745.
+Historia Actual: Paciente de trece años, que presenta un cuadro de fiebre de 12 días de evolución acompañado de adenopatía axilar izquierda.
+Exploración física:  La exploración inicial fue negativa a excepción de arañazos en mano izquierda.
+Pruebas complementarias: Los datos de laboratorio iniciales incluyeron: leucocitos 4.700 (32% linfocitos; 9% monocitos y 51% granulocitos); VSG 14 mm/h; PCR 2,4 mg/dl; hemocultivo negativo. 
+Evolución y comentarios: Ante la persistencia de la fiebre y la presencia de la adenopatía se sospecha Enfermedad por Arañazo de Gato, se realiza serología a Bartonella henselae y se inicia tratamiento con rifampicina, desapareciendo la fiebre después de 3 días de iniciado el tratamiento. Posteriormente se confirma el diagnóstico al resultar positiva la serología a Bartonella henselae.
+Remitido por: Dra. María Teresa González Martínez Servicio de Pediatría. Hospital del Bierzo C/ La Dehesa s/n. 24411 Ponferrada León e-mail: teglez@inicia.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="9" end="14" text="Laura" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="27" end="38" text="Pérez Godín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="45" end="53" text="43561584" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="66" end="80" text="Av. Valdes, 51" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="104" end="108" text="León" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="114" end="119" text="24400" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="163" end="173" text="17/05/2005" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="181" end="187" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="195" end="202" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="209" end="210" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="230" end="240" text="12/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="271" end="301" text="María Teresa González Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="309" end="320" text="24 24 58745" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T11" start="351" end="361" text="trece años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1162" end="1192" text="María Teresa González Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1216" end="1235" text="Hospital del Bierzo" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1236" end="1252" text="C/ La Dehesa s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1254" end="1259" text="24411" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1260" end="1270" text="Ponferrada" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1271" end="1275" text="León" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1284" end="1300" text="teglez@inicia.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

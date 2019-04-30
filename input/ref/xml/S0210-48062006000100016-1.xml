@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Montserrat.
+Apellidos: Intxaurrondo.
+NHC: 368503.
+NASS: 26 63514095.
+Domicilio: Calle Francisco Silvela 7.
+Localidad/ Provincia: Madrid.
+CP: 28028.
+Datos asistenciales.
+Fecha de nacimiento: 02/01/2013.
+País: España.
+Edad: 13 días Sexo: M.
+Fecha de Ingreso: 15/01/2013.
+Médico: Antonio Hernández NºCol: 28 28 70977.
+Informe clínico del paciente: Recién nacida hembra, con embarazo y parto normales. 
+En la exploración clínica se apreció una tumoración de 1 cm de diámetro en el introito, dura a la palpación situada ligeramente a la derecha del meato uretral, desplazando este al igual que el introito vaginal. La lesión tenía aspecto quístico de color levemente amarillento. 
+Con el diagnóstico de sospecha de Ureterocele se pidió una ecografía: no hallando ni duplicidad ni dilatación urinaria. 
+En la ecografía perineal se confirmó la naturaleza quística de la lesión confirmándose el diagnóstico de quiste parauretral de Skene. 
+Se decidió actitud expectante, en el seguimiento del paciente la lesión fue disminuyendo de tamaño, siendo de 5 mm a las 2 semanas, desapareciendo completamente la tumoración al mes de vida. 
+No fue descrita ninguna secuela en la paciente.
+Remitido por: Dr. A. Parente Hernández. C/ Maiquez, 9 - 4º F 11 28009 Madrid e-mail: parente80@hotmail.com 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="38" text="Montserrat" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="51" end="63" text="Intxaurrondo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="70" end="76" text="368503" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="84" end="95" text="26 63514095" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="108" end="133" text="Calle Francisco Silvela 7" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="157" end="163" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="169" end="174" text="28028" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="218" end="228" text="02/01/2013" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="236" end="242" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="250" end="257" text="13 días" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="264" end="265" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="285" end="295" text="15/01/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="305" end="322" text="Antonio Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="330" end="341" text="28 28 70977" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T7" start="373" end="386" text="Recién nacida" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="387" end="393" text="hembra" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T22" start="1138" end="1141" text="mes" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="1218" end="1238" text="A. Parente Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="1240" end="1263" text="C/ Maiquez, 9 - 4º F 11" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1264" end="1269" text="28009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1270" end="1276" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1285" end="1306" text="parente80@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan.
+Apellidos: Fernandez Estrada.
+NHC: 3478534.
+Domicilio: Calle Provincias, 23.
+Localidad/ Provincia: Santa Cruz de Tenerife.
+CP: 38560.
+Datos asistenciales.
+Fecha de nacimiento: 07/01/1999.
+País de nacimiento: España.
+Edad: 5 años Sexo: H.
+Fecha de Ingreso: 21/08/2004.
+Médico: Jaime Domínguez NºCol: 38 38 56899.
+Informe clínico del paciente: Paciente de 5 años y 7 meses de edad, sin antecedentes personales o familiares de interés, ingresó en nuestro hospital el 12 de junio de 2002 por presentar un cuadro de 10 días de evolución consistente en cefalea de predominio vespertino, al que se añade posteriormente estrabismo convergente del ojo izquierdo y diplopia. En la exploración neurológica nos encontramos con una niña despierta, colaboradora y conectada ambientalmente, que presentaba estrabismo convergente de ojo izquierdo con motilidad ocular conservada y nistagmo horizontal a la mirada forzada hacia la derecha.
+La analítica de sangre, bioquímica y radiografía de tórax resultaron normales. La TAC y RM de cráneo mostraron una masa bien delimitada localizada en el interior del ventrículo lateral derecho a nivel del atrio y asta temporal, de densidad homogénea y de 6 por 2,5 cms, con importante edema perilesional y que mostraba intensa captación tras la administración de contraste intravenoso.
+La paciente fue intervenida mediante abordaje trans-temporal a través de la circunvolución temporal media con extirpación macroscópicamente completa de la tumoración.
+El estudio histopatológico evidenció una proliferación neoplásica meningotelial con patrón predominantemente meningoteliomatoso y elevada celularidad, tipificándose el tumor como meningioma atípico. Llamaba la atención la presencia de una elevada actividad mitótica que, en alguna zona, llegaba a ser de 2-3-mitosis en 10 campos de gran aumento, presentando las células proliferantes núcleos más voluminosos y nucleolo prominente. La actividad del anticuerpo Ki-67, medida de forma aleatoria en la totalidad del tumor, oscilaba en torno al 18-20%.
+La evolución clínica de la niña fue favorable, siendo dada de alta hospitalaria a los diez días de la intervención quirúrgica con un mínimo estrabismo convergente de ojo derecho. A pesar de no haber sido sometida a tratamientos complementarios, en la actualidad, la paciente se encuentra asintomática y no se han evidenciado signos de recidiva en los estudios de imagen de control.
+Responsable clínico: Jaime Domínguez. Servicio de Neurocirugía. Hospital Universitario Nuestra Señora de Candelaria. Carretera del Rosario S/N. 38010 Santa Cruz de Tenerife.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="32" text="Juan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="45" end="62" text="Fernandez Estrada" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="69" end="76" text="3478534" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="89" end="109" text="Calle Provincias, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="133" end="155" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="161" end="166" text="38560" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="210" end="220" text="07/01/1999" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="242" end="248" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="256" end="262" text="5 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="269" end="270" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="290" end="300" text="21/08/2004" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="310" end="325" text="Jaime Domínguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="333" end="344" text="38 38 56899" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T12" start="388" end="404" text="5 años y 7 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="498" end="517" text="12 de junio de 2002" TYPE="FECHAS" comment=""/>
+    <OTHER id="T6" start="753" end="757" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T5" start="2085" end="2089" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="2461" end="2476" text="Jaime Domínguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2504" end="2555" text="Hospital Universitario Nuestra Señora de Candelaria" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="2557" end="2582" text="Carretera del Rosario S/N" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="2584" end="2589" text="38010" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2590" end="2612" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

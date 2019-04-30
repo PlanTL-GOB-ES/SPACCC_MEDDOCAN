@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Ernesto.
+Apellidos: Molina Ontivero.
+NHC: 8734953.
+NASS: 75 31465703 56.
+Domicilio: Calle Alameda Tercera, Bajo A.
+Localidad/ Provincia: Madrid.
+CP: 28109.
+Datos asistenciales.
+Fecha de nacimiento: 05/01/1972.
+País de nacimiento: España.
+Edad: 42 años Sexo: H.
+Fecha de Ingreso: 20/11/2014.
+Médico: Isabel Dapena Sevilla NºCol: 28 28 57894.
+Informe clínico del paciente: Varón de 42 años, asintomático, fue valorado oftalmológicamente para revisión de su diabetes tipo II de 3 años de evolución. En la exploración física la agudeza visual corregida fue de 1.0 en ambos ojos. El polo anterior estaba dentro de la normalidad y la presión intraocular fue de 16 mmHg en ambos ojos. La motilidad intrínseca y extrínseca fue normal. La oftalmoscopia indirecta mostró un nervio óptico derecho con atrofia en banda o en «pajarita» y papila izquierda que se describió como pálida; no había signos de retinopatía diabética.
+Se realizó un campo visual (Humphrey 30-2 test Allergan Humphrey, San Leandro, California, USA) donde se apreció una hemianopsia homónima derecha. Ante la sospecha de lesión ocupante de espacio intracraneal, se realizó una Tomografía computerizada (TC) cerebral en el que se observó una calcificación de 2 cm de diámetro en relación con amígdala y cabeza del hipocampo izquierdo. La resonancia magnética cerebral mostró una lesión heterogénea en la cabeza del hipocampo izquierdo, con calcificación y un área hemorrágica adyacente.
+El test de colores fue normal. En la arteriografía cerebral y mapeo vascular prequirúrgico, el paciente presentó una reacción alérgica al contraste con manifestaciones cutáneas, que cedió tras el tratamiento con antihistamínicos.
+Se intervino quirúrgicamente mediante craneotomía y se realizó una resección completa de la lesión. El estudio anatomopatológico de la misma reveló un subependimoma. El diagnóstico definitivo fue de subependimoma de asta temporal de ventrículo lateral izquierdo con afectación de vía retroquiasmática y atrofia óptica en banda izquierda.
+En la última exploración oftalmológica sigue sin cambios, mantiene la hemianopsia homónima derecha en la campimetría, los nervios ópticos con el mismo grado de atrofia y el resto de la exploración es normal.
+Responsable clínico: Dra. Isabel Dapena Sevilla C/. Camino Sur, 18 28109 Madrid España E-mail:isadap@terra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="28" end="35" text="Ernesto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="48" end="63" text="Molina Ontivero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="70" end="77" text="8734953" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="85" end="99" text="75 31465703 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="112" end="141" text="Calle Alameda Tercera, Bajo A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="165" end="171" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="177" end="182" text="28109" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="226" end="236" text="05/01/1972" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="258" end="264" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="272" end="279" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="286" end="287" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="307" end="317" text="20/11/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="327" end="348" text="Isabel Dapena Sevilla" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="356" end="367" text="28 28 57894" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <OTHER id="T12" start="399" end="404" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="408" end="415" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T10" start="989" end="1006" text="Allergan Humphrey" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T9" start="1008" end="1019" text="San Leandro" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T8" start="1021" end="1031" text="California" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T7" start="1033" end="1036" text="USA" TYPE="PAIS" comment=""/>
+    <NAME id="T6" start="2276" end="2297" text="Isabel Dapena Sevilla" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2298" end="2316" text="C/. Camino Sur, 18" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="2317" end="2322" text="28109" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2323" end="2329" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2330" end="2336" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="2344" end="2359" text="isadap@terra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

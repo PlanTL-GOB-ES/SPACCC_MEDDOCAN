@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Carlos José.
+Apellidos: Rodriguez Miranda.
+NHC: 7348564.
+NASS: 45 61378056 56.
+Domicilio: Calle del Alcalde Pablo Durán y Pérez de Castro, 6, 11, A.
+Localidad/ Provincia: Oviedo.
+CP: 33006.
+Datos asistenciales.
+Fecha de nacimiento: 15/08/1986.
+País de nacimiento: España.
+Edad: 29 años Sexo: H.
+Fecha de Ingreso: 25/11/2015.
+Médico: Luis Rodrigo NºCol: 33 33 26092.
+Informe clínico del paciente: Varón de 29 años. Hijo mediano de tres hermanos (los otros dos, están sanos). Casado y sin hijos. No bebedor, ni fumador. Amigdalitis de repetición en la infancia, siendo operado a los 6 años. Asintomático. Hábito intestinal normal. Analítica normal con ligera elevación persistente de las transaminasas. TTG positiva (2,46). DQ2 (-) y DQ8 (+). La biopsia duodenal mostró atrofia moderada de las vellosidades intestinales, acompañada de infiltrado inflamatorio importante, a nivel de la lámina propia (estadio 3b de Marsh). Está con DSG desde hace 2 años, con buena respuesta clínica y analítica.
+Responsable clínico: Dr. Luis Rodrigo. Servicio de Digestivo. Hospital Universitario Central de Asturias. C/ Celestino Villamil, s/n. 33006 Oviedo. Fax: 985-27-36-14. e-mail: lrodrigos@terra.es

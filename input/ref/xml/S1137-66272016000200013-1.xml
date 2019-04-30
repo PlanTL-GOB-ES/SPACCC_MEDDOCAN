@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Felipe.
+Apellidos: Rianxo Paz.
+NHC: 3827464.
+NASS: 48 57613958 03.
+Domicilio: Plaza de Verín, 4, 3, B.
+Localidad/ Provincia: A Coruña.
+CP: 15238.
+Datos asistenciales.
+Fecha de nacimiento: 28/02/1962.
+País: España.
+Edad: 54 años Sexo: M.
+Fecha de Ingreso: 13/11/2016.
+Médico: Eduardo Valdivielso Cortázar NºCol:15 15 22057.
+Historia Actual: a mujer de 54 años, colecistectomizada a los 23 años y con varios episodios de coledocolitiasis residual resueltos endoscópicamente como antecedentes de interés. La paciente ingresa por un cuadro de dolor epigástrico irradiado a espalda, acompañado de náuseas y vómitos, de horas de evolución, sin fiebre ni sensación distérmica. La paciente había sido dada de alta el día anterior por una coledocolitiasis residual resuelta endoscópicamente, sin haberse objetivado otros hallazgos patológicos en la colangio pancreatografía retrógada endoscópica (CPRE).
+Exploración física: A la exploración presentaba dolor en hipocondrio derecho y epigastrio a la palpación, sin signos de peritonismo, y con el abdomen levemente distendido. 
+Pruebas complementarias: Analíticamente presentaba leucocitosis con neutrofilia, hiperbilirrubinemia y leve elevación de transaminasas, con amilasa normal, así como una marcada elevación de VSG 1o hora. Los anticuerpos anticélulas parietales eran positivos y la IgG4 sérica era negativa. Se tomaron hemocultivos al ingreso, sin aislarse microorganismos.
+Se realizó una ecografía en la que se apreciaban varias lesiones ocupantes de espacio sugestivas de abscesos hepáticos, de modo que se decidió completar el estudio mediante una resonancia magnética. Ésta mostraba múltiples lesiones en ambos lóbulos hepáticos, de entre 1 y 7 centímetros de diámetro, hiperintensamente mal definidas en secuencias potenciadas en T2 con supresión grasa, y con realce homogéneo o periférico durante el estudio dinámico con contraste endovenoso, siendo así compatibles con abscesos hepáticos. Asimismo, se apreciaba dilatación de la vía biliar principal con defectos de replección a nivel de colédoco distal y en el hepático común, junto con una estenosis a nivel de la confluencia hiliar, sin objetivarse causa aparente y que no se había apreciado previamente. 
+Evolución: Se intentó realizar drenaje percutáneo guiado por ecografía, no siendo posible por la ausencia de licuefacción significativa. Con tratamiento antibiótico endovenoso la paciente se tornó asintomática y se mantuvo afebril. Se realizó una nueva resonancia magnética de control, apreciándose una disminución significativa de las lesiones hepáticas, pero sin poder descartar un origen neoplásico de las mismas, así como irregularidad en el origen de la rama hepática izquierda que plantea la duda de origen inflamatorio o tumoral, además de coledocolitiasis. Se llevó a cabo una CPRE de la que se extrajeron dos microcálculos, confirmando la estenosis de la rama hepática izquierda, y tomándose muestras de la misma para estudio citológico, que fueron negativas para malignidad. Finalmente, se decidió realizar una biopsia guiada por ecografía de las lesiones, sin incidencias. En el estudio histológico correspondiente a la lesión se apreciaba una proliferación de células miofibroblásticas con núcleo y citoplasma alargados, positivas para actina y desmina con técnicas inmunohistoquímicas. Asimismo se apreciaba una población incrementada de células plasmáticas IgG4 positivas, que en algunas zonas sobrepasaban el número de 30 por campo de gran aumento, con un cociente IgG4/IgG mayor del 40%. Todos estos hallazgos eran sugestivos de pseudotumor inflamatorio hepático de tipo linfoplasmocítico, probablemente relacionado con enfermedad sistémica relacionada con IgG4. Además, en el hígado no correspondiente a la lesión se apreciaba daño del ducto biliar y cierta fibrosis concéntrica periductal sin células IgG4 a dicho nivel.
+La paciente, tras haber recibir tratamiento antibiótico por la posible sobreinfección de las lesiones dado el antecedente de CPRE, fue dada de alta con tratamiento esteroideo en pauta descendente, con buena evolución clínico-radiológica.
+Remitido por: Eduardo Valdivielso Cortázar Servicio de Aparato Digestivo (CHUAC) Av. As Xubias, 84 15006 A Coruña E-mail: eduardovaldi@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="34" text="Felipe" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="57" text="Rianxo Paz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="64" end="71" text="3827464" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="79" end="93" text="48 57613958 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="106" end="129" text="Plaza de Verín, 4, 3, B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="153" end="161" text="A Coruña" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="167" end="172" text="15238" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="216" end="226" text="28/02/1962" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="234" end="240" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="248" end="255" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="262" end="263" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="283" end="293" text="13/11/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="303" end="331" text="Eduardo Valdivielso Cortázar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="338" end="349" text="15 15 22057" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="370" end="375" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="379" end="386" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="413" end="420" text="23 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="4133" end="4161" text="Eduardo Valdivielso Cortázar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="4193" end="4198" text="CHUAC" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="4200" end="4217" text="Av. As Xubias, 84" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="4218" end="4223" text="15006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4224" end="4232" text="A Coruña" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="4241" end="4265" text="eduardovaldi@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Patricia .
+Apellidos: Castellar Ramos.
+NHC: 5468973.
+NASS: 43 87963875 60.
+Domicilio: C/ Monforte de lemos, 129 .
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 21/02/1958.
+País de nacimiento: España.
+Edad: 60 años Sexo: M.
+Fecha de Ingreso: 13/06/2018.
+Médico: Maria Vicente Sallais NºCol: 28 28 36982.
+Informe clínico del paciente: mujer de 60 años de edad, no fumadora ni bebedora de alcohol, sin antecedentes clínicos de interés, que no refiere procedimientos médicos ni quirúrgicos relevantes y que acude a nuestro servicio para realizarse una exodoncia del primer premolar inferior izquierdo. En el momento del examen clínico intraoral se observa una lesión tumoral asintomática de 15 mm de diámetro en la mucosa bucal izquierda. Su color es rosa pálido similar al de la mucosa y de superficie lisa. En la mucosa bucal derecha se observa una lesión tumoral de 10 mm de diámetro. Esta lesión es hipocrómica comparada con la mucosa bucal y de superficie lisa. El diagnóstico provisional para ambas lesiones es un fibroma traumático asociado a una prótesis mal adaptada. En el momento de realizar la historia clínica la paciente no relató haber sido sometida a un tratamiento de infiltraciones faciales con biopolímeros. El método diagnóstico es una biopsia excisional y el tratamiento es la remoción quirúrgica. La escisión se realiza anestesiando la zona. Se efectuó la incisión con una hoja de bisturí número 15 y la posterior sutura con seda negra 3-0. El cierre de la lesión derecha se realizó con Vicryl y luego seda negra 3-0. En el momento de la escisión quirúrgica de la lesión izquierda el aspecto macroscópico supone un lipoma debido a su coloración interna y a que está encapsulado.
+Para la lesión izquierda el estudio microscópico indica una lesión reactiva tapizada por un epitelio de revestimiento plano estratificado de espesor variable. Debajo del epitelio se observa una lesión conformada por abundantes fibras colágenas dispuestas al azar entremezcladas con fibroblastos y algunos vasos sanguíneos delineados por el endotelio de aspecto normal. Esto confirma que se trata de un fibroma traumático. El estudio histopatológico de la lesión de la mucosa derecha revela la presencia de abundantes espacios redondeados vacíos rodeados por numerosos histiocitos de aspecto espumoso, lo cual indica que se encuentran fagocitando lípidos y tienen ese aspecto. Tras la obtención de las imágenes del examen microscópico la paciente indica que 10 años antes había sido sometida a un tratamiento de infiltraciones faciales con biopolímeros en la frente y en las comisuras. La paciente no refirió ningún síntoma asociado a los efectos adversos.
+Responsable clínico: Dra. Maria Vicente Sallais Correos electrónicos: marvisallais@gmail.com, m.allais@me.com 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="28" end="36" text="Patricia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="50" end="65" text="Castellar Ramos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="72" end="79" text="5468973" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="87" end="101" text="43 87963875 60" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="114" end="139" text="C/ Monforte de lemos, 129" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="164" end="170" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="176" end="181" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="225" end="235" text="21/02/1958" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="257" end="263" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="271" end="278" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="285" end="286" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="306" end="316" text="13/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="326" end="347" text="Maria Vicente Sallais" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="355" end="366" text="28 28 36982" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="398" end="403" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="407" end="414" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="2744" end="2765" text="Maria Vicente Sallais" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T2" start="2788" end="2810" text="marvisallais@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T1" start="2812" end="2827" text="m.allais@me.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

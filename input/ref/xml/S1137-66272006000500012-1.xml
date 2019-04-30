@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Mireia .
+Apellidos: HIdalgo Mas.
+NHC: 7302856.
+NASS: 40 95672890 23.
+Domicilio: Av/ Gran Via, 12, 5 C.
+Localidad/ Provincia: Santa Coloma de Gramenet .
+CP: 08210.
+Datos asistenciales.
+Fecha de nacimiento: 27/08/1964.
+País de nacimiento: España.
+Edad: 50 años Sexo: M.
+Fecha de Ingreso: 03/05/2015.
+Médico: Lluís Valerio Unidad  NºCol: 08 08 36923.
+Informe clínico del paciente: mujer de 50 años fumadora ocasional. Entre sus antecedentes personales de interés, destacaba la realización de un viaje turístico de nueve días de duración a la Rivera Maya (Caribe mexicano), quince días antes del inicio de los síntomas. Durante el viaje la paciente, según refería, sufrió numerosas picaduras de mosquitos. En las 48 horas previas a la consulta, la paciente se autotrató con ácido acetil-salicílico (AAS) como antipirético y como tratamiento sintomático de la cefalea.
+En la exploración física la paciente estaba consciente, orientada y febricular (37,6ºC), TA=110/70. Existía rubor facial e inyección conjuntival bilateral así como la presencia de un exantema hemorrágico, simétrico, máculo-papular en tronco y extremidades, especialmente en las inferiores, donde era confluente, y que no se modificaba a la vitropresión. En el resto de exploración por aparatos sólo se identificó la presencia de numerosas adenopatías latero y retrocervicales así como preauriculares. No se observaba la presencia de meningismo ni de hepatoesplenomegalia.
+La prueba del lazo (Rumpell-Leade) mostró la aparición de más de 30 petequias en la fosa antecubital derecha. Se realizó un examen hematológico que mostró: hematíes 4,90x106/microL con hematocrito de 43% y plaquetas normales. En la serie blanca, el recuento determinó 7.700 leucocitos con linfopenia relativa (22%) y presencia de numerosos linfocitos activados. La VSG era de 28 mm a la primera hora, con PCR=6,62 mg/dL. Las pruebas de coagulación fueron normales para ambas vías. En la bioquímica destacaba una creatinina de 1,28 mg/dl con transaminitis de ALT= 78 U/L. La gota gruesa y la extensión sanguínea fue negativa. Finalmente en el análisis inmunológico se determinaron: AcIgM contra CMV negativos, AcHBc, AgHBs y AgHBs negativos, AcIgM contra P. falciparum negativo y AcIgM contra dengue (IFI) que resultaron positivos. En el estudio de gota gruesa y extensión sanguínea no se detectó la presencia de parásitos hemáticos.
+La paciente fue diagnosticada de dengue clásico con probables criterios de dengue hemorrágico grado 1 inducido por el AAS. Después se su retirada, la paciente se restableció completamente en 10 días.
+Responsable clínico: Dr. Lluís Valerio Unidad de Salud Internacional BniM ABS Sta Coloma de Gramenet 6 - Fondo C/ Jacint Verdaguer 118 08923 Santa Coloma de Gramenet E-mail: lvalerio.bnm.ics@gencat.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="34" text="Mireia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="48" end="59" text="HIdalgo Mas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="66" end="73" text="7302856" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="81" end="95" text="40 95672890 23" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="108" end="129" text="Av/ Gran Via, 12, 5 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="153" end="177" text="Santa Coloma de Gramenet" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="184" end="189" text="08210" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="233" end="243" text="27/08/1964" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="265" end="271" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="279" end="286" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="293" end="294" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="314" end="324" text="03/05/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="334" end="354" text="Lluís Valerio Unidad" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="363" end="374" text="08 08 36923" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="406" end="411" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="415" end="422" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T7" start="567" end="578" text="Rivera Maya" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="580" end="595" text="Caribe mexicano" TYPE="TERRITORIO" comment=""/>
+    <NAME id="T9" start="2622" end="2642" text="Lluís Valerio Unidad" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T1" start="2646" end="2707" text="Salud Internacional BniM ABS Sta Coloma de Gramenet 6 - Fondo" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="2708" end="2731" text="C/ Jacint Verdaguer 118" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2732" end="2737" text="08923" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2738" end="2762" text="Santa Coloma de Gramenet" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2771" end="2798" text="lvalerio.bnm.ics@gencat.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Sebastian.
+Apellidos: Jaime Robles.
+NHC: 3894742.
+NASS: 02 56706357 34.
+Domicilio: Colonia Benavente 86 APD #514 .
+Localidad/ Provincia: Madrid.
+CP: 24002.
+Datos asistenciales.
+Fecha de nacimiento: 15/04/1955.
+País de nacimiento: España.
+Edad: 43 años  Sexo: H.
+Fecha de Ingreso: 20/05/2018.
+Médico: Miguel Cordero-Coma  NºCol: 08 08 36923.
+Niño de 3 meses con lesiones eritematosas, redondeadas, de bordes definidos, con centro más pálido en el rostro, los miembros superiores, de aspecto reticulado en miembros inferiores y dorso de 1 mes de evolución. Hepatoesplenomegalia.
+
+Madre y abuela materna con diagnóstico de Lupus Eritematoso sistémico (LES)
+Exámenes complementarios: Hb 10g/dl, Hto 30%, GPT 78 UI/L, C3 53 mg/dl y C4 3mg/dl, FAN+ 1/100, acs. anti Ro, anti La, anti Sm y anti U1RNP negativos.
+Estudio histopatológico: hiperqueratosis, atrofia epidérmica, vacuolización de queratinocitos basales e infiltrado difuso mononuclear en dermis superficial. Inmunofluorescencia directa (IFD): banda segmentaria dermoepidérmica de disposición granular fina IgG+ y C3+.
+Valoración cardiológica normal.
+Tratamiento: hidrocortisona 1% crema.
+Resolución de las lesiones cutáneas, negativización del FAN y normalización del hepatograma a los 6 meses de vida.
+Dirección para correspondencia: Maria Fernanda Perez Godoy Cruz 3150 3 C Ciudad autónoma de Buenos Aires. Argentina. 1425 E-mail: mfperez@fibertel.com.ar

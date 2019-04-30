@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Belen.
+Apellidos: Bordonaba Esposito.
+NHC: 8327428.
+NASS: 73 64507235 06.
+Domicilio: Avenida de concha espina 16, 2,1.
+Localidad/ Provincia: Sevilla.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 27/08/1964.
+País de nacimiento: España.
+Edad: 88 años  Sexo: H.
+Fecha de Ingreso: 12/06/2018.
+Médico: Luz Belén Zambrano Centeno  NºCol: 41 41 50236.
+Paciente de 19 años sin antecedentes de importancia. Consultó en el Servicio de Urgencias tras quemadura por descarga eléctrica de alto voltaje y posterior precipitación desde una altura de 4 metros. A su llegada a Urgencias, el ABCD mostró un paciente con vía aérea permeable, hematoma laterocervical derecho no pulsátil, eupneico, saturación basal de 97%, sin deformidad, crepitación ni dolor a la palpación torácica, tensión arterial de 124/63 mmHg, frecuencia cardiaca de 77 lpm, Glasgow 15 y exploración neurológica normal. Se apreciaban quemaduras de segundo grado en mano derecha, correspondiente a la puerta de entrada de la descarga eléctrica, y de tercer grado en la cara interna inferior del muslo izquierdo y en cara interna inferior del mismo muslo (correspondientes a la puerta de salida de la descarga) con alternancia de anestesia e hiperestesia en la quemadura de la cara interna superior del mismo. La analítica mostró CK de 2.517 UI/l, leucocitos de 14.9x103/ml, siendo el resto normal. El ECG de entrada mostró ritmo nodal a 72 lpm. Radiografía de tórax y pelvis sin alteraciones. TAC-body: imagen laminar que rodea la cara externa del esternocleidomastoideo derecho de 5 mm de diámetro máximo y pequeña área de enfisema subcutáneo que coincide con la laceración externa de la puerta de salida de la descarga eléctrica. Se procedió a monitorización del paciente objetivándose paso espontáneo a ritmo sinusal al cabo de cuatro horas. El paciente permaneció en observación durante 24 h, persistiendo en ritmo sinusal, tras lo cual ingresó en Unidad de Hospitalización convencional para tratamiento de las quemaduras e hidratación, pudiendo ser dado de alta a los tres días del ingreso.
+
+Correspondencia a: Dr. August Supervía Servicio de Urgencias. Hospital Universitario del Mar. Ps. Marítim 25-29, 08003 Barcelona. Teléfono: 34932483017. Teléfono: 34606092778 Fax: 34932483016 E-mail: Asupervia@hospitaldelmar.cat

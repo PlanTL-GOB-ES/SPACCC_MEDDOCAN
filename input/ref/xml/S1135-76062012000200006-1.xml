@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Aida .
+Apellidos:Pascual Ferrer.
+NHC: 3240756.
+NASS: 31 45673590 03.
+Domicilio: Paseo de Domenech, 13.
+Localidad/ Provincia: Barcelona.
+CP: 08014.
+Datos asistenciales.
+Fecha de nacimiento: 19/11/1951.
+País de nacimiento: España.
+Edad: 66 años Sexo: M.
+Fecha de Ingreso: 25/04/2018.
+Médico: Maria Subirana Domènech NºCol: 08 08 55791.
+Informe clínico del paciente: Al servicio de patología forense llegó el caso de una mujer de 66 años con antecedentes de hipertensión arterial, fibromialgia y miastenia gravis diagnosticada 20 años antes. Seguía tratamiento crónico antihipertensivo con amlodipino (10 mg/24 h), furosemida (40 mg/24 h) y losartán postásico (50 mg/24 h), ansiolítico - antidepresivo con duloxetina (30 mg/24 h) e hidorcloruro de amytriptilina (10 mg/24 h), tratamiento para la osteoporosis con calcifediol (800 mg/24 h) y protección gástrica con omeprazol (20 mg/24 h). Una semana antes del fallecimiento consultó en urgencias por cuadro catarral que se trató con ciprofloxacino y carbocisteína con mejoría del cuadro respiratorio. Dos días antes de morir consultó nuevamente en el servicio de urgencias ya que refería un cuadro de debilidad general que se atribuyó al tratamiento antibiótico y se indicó la suspensión del mismo. No constaba en su historial clínico síntomas de cefalea y/o otros síntomas de focalidad neurológica.
+La paciente murió de forma súbita presenciada y su marido refirió disnea como el único síntoma previo a la muerte.
+Durante la autopsia los hallazgos más destacables fueron los siguientes:
+Talla de 149 cm, peso de 80 Kg e Índice de Masa Corporal de 36 Kg/m2, que se correspondía con una obesidad tipo II. Otros hallazgos destacables del examen externo fueron hirsutismo, cicatriz de toracotomía media como consecuencia de timectomía para el tratamiento de la miastenia gravis y edema de extremidades inferiores. Como signos externos de causa violenta se encontró un hematoma glúteo derecho reciente compatible con la caída que sufrió durante el período perimortal y con la posición sentada en el suelo en la que se encontró durante el acto de levantamiento del cadáver.
+Los hallazgos más relevantes del examen interno fueron hemopericardio coagulado de 200 g, el corazón pesaba 400 g (peso esperado 320 g) y apreciamos una rotura de 0,5 cm en la parte anterior media de ventrículo izquierdo por infarto transmural secundario a ateromatosis coronaria de los tres vasos, más marcada en tercio medio de descendente anterior donde obstruía la luz vascular en más de un 75%.
+En el cráneo destacó la presencia de hiperostosis frontal interna, menos marcada en la zona parietal. El grosor del díploe no afectado era de 8 mm mientras que en las zonas de hiperostosis los grosores eran de entre 1,5 mm a 2,3 mm. Además se encontraron múltiples meningiomas calcificados siguiendo el seno longitudinal superior, la mayoría de ellos de forma nodular y algunos de ellos de menor tamaño, espiculados y con forma de placa. A nivel cerebral se apreció una ligera depresión de la superficie de ambos lóbulos frontales.
+El resto de hallazgos de autopsia no fueron significativos y los resultados del estudio analíticos toxicológicos fueron negativos. El estudio histopatológico fue concordante con los datos macroscópicos de hiperostosis frontal interna y los meningiomas eran psamomatosos calcificados.
+Responsable clínico: Maria Subirana Domènech Institut de Medicina Legal de Catalunya Servei de Patologia Forense Edifici G, 5a planta Gran Vía, 111. Barcelona 08014 E-mail: 25402msd@comb.cat
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="32" text="Aida" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="45" end="59" text="Pascual Ferrer" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="66" end="73" text="3240756" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="81" end="95" text="31 45673590 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="108" end="129" text="Paseo de Domenech, 13" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="153" end="162" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="168" end="173" text="08014" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="217" end="227" text="19/11/1951" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="263" end="270" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="277" end="278" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="298" end="308" text="25/04/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="318" end="341" text="Maria Subirana Domènech" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="349" end="360" text="08 08 55791" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="446" end="451" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="455" end="462" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="1426" end="1432" text="marido" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3381" end="3404" text="Maria Subirana Domènech" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3405" end="3444" text="Institut de Medicina Legal de Catalunya" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T4" start="3494" end="3507" text="Gran Vía, 111" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3509" end="3518" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3519" end="3524" text="08014" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3533" end="3550" text="25402msd@comb.cat" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

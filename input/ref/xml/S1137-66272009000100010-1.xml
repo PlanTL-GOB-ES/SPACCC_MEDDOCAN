@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Maialen.
+Apellidos: Garay Pozo.
+NHC: 7834503.
+Domicilio: Av. Pasabán, 33, 5 D.
+Localidad/ Provincia: Vitoria-Gasteiz.
+CP: 01009.
+Datos asistenciales.
+Fecha de nacimiento: 20/05/2016.
+País de nacimiento: España.
+Edad: 30 meses Sexo: M.
+Fecha de Ingreso: 07/01/2018.
+Servicio: Urgencias.
+Médico: Sergio Aguilera Albesa NºCol: 01 31 52628.
+Historia Actual:  niña de 30 meses que acudió al servicio de urgencias por presentar en los últimos dos días una ligera inestabilidad en la marcha y temblor intencional. Los padres referían que tres semanas antes había aparecido un exantema generalizado leve sin fiebre que se resolvió espontáneamente en pocos días. 
+Antecedentes: Entre sus antecedentes personales no existían alergias conocidas ni traumatismos previos y su calendario vacunal estaba actualizado, incluida la varicela. Su desarrollo psicomotor seguía un curso normal. Fue reevaluada 48 horas después, destacando un empeoramiento de la ataxia que impedía bipedestación, asociando irritabilidad severa y sueño irregular. 
+Exploración física: En la exploración física al ingreso la paciente presentaba un buen estado nutricional y no se constataron signos meníngeos, signos externos de traumatismos ni otros hallazgos patológicos. En la exploración neurológica destacaba un habla escandida pero inteligible y adecuada al contexto, ataxia de características cerebelosas, y temblor intencional intenso y generalizado. Los pares craneales, fuerza, tono muscular y reflejos osteotendinosos eran normales y simétricos.
+Pruebas complementarias: Al ingreso se realizó electroencefalograma (EEG) y tomografía (TC) cerebral con contraste iodado, que no revelaron anomalías electroencefalográficas ni estructurales. Los tóxicos en orina resultaron negativos. La punción lumbar mostró una linforraquia leve con bioquímica y cultivos negativos, incluidos grupo Herpes, virus neurotropos y Borrelia. Las serologías para virus Herpes simple, Epstein-Barr, Varicela-zóster, enterovirus, Salmonella sp., Streptococcus pyogenes y Borrelia burgdoferi no aportaron hallazgos patológicos.
+Evolución: Al quinto día tras iniciar los síntomas presentaba temblor intencional y ataxia de predominio troncal severa que le dificultaba la sedestación. El temblor estaba agravado por probables mioclonias de refuerzo intencional y la irritabilidad era extrema. Aparecieron entonces movimientos oculares rápidos, sacádicos, multidireccionales, caóticos aunque conjugados, que se apreciaban también con los ojos cerrados, y que disminuían al lograr fijar la mirada. Ante el diagnóstico clínico de opsoclono (SOMA) se inició la búsqueda de un posible tumor. Se solicitó una ecografía abdominal, con resultado normal, y una radiografía simple de tórax en la que se observó una masa torácica paraesternal izquierda. Se realizó una TC torácica que mostró una masa intratorácica paravertebral izquierda, compatible con TCN, confirmado tras la cirugía como ganglioneuroblastoma localizado. Se solicitó además enolasa neuronal específica en sangre y catecolaminas en orina de 24 horas, que fueron normales.
+El opsoclono disminuyó tras el inicio de prednisona oral a dosis altas (2 mg/kg/día), y quince días tras la cirugía ya no se observaba. La ataxia y la irritabilidad mejoraron notablemente, pero un año después aún precisa tratamiento con prednisona oral a dosis mínimas diarias por recaídas de leve inestabilidad de la marcha e irritabilidad, sin evidencias de recidiva tumoral hasta la actualidad. Su desarrollo psicomotor continúa progresando dentro de la normalidad.
+Responsable clínico: Sergio Aguilera Albesa Unidad de Neuropediatría. Servicio de Pediatría Hospital de Txagorritxu José Achotegui s/n 01009 Vitoria-Gasteiz Álava. España Tfno.+34 945007000 Fax: +34 945007359 E-mail: saguileraa@alumni.unav.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="29" end="36" text="Maialen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="49" end="59" text="Garay Pozo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="66" end="73" text="7834503" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T23" start="86" end="106" text="Av. Pasabán, 33, 5 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T22" start="130" end="145" text="Vitoria-Gasteiz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="151" end="156" text="01009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="200" end="210" text="20/05/2016" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T20" start="232" end="238" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="246" end="254" text="30 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="261" end="262" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="282" end="292" text="07/01/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="323" end="345" text="Sergio Aguilera Albesa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="353" end="364" text="01 31 52628" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T14" start="384" end="388" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T16" start="392" end="400" text="30 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="540" end="546" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T12" start="3590" end="3612" text="Sergio Aguilera Albesa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T9" start="3661" end="3684" text="Hospital de Txagorritxu" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T8" start="3685" end="3703" text="José Achotegui s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T7" start="3704" end="3709" text="01009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="3710" end="3725" text="Vitoria-Gasteiz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="3726" end="3731" text="Álava" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3733" end="3739" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="3746" end="3758" text="34 945007000" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T2" start="3765" end="3777" text="34 945007359" TYPE="NUMERO_FAX" comment=""/>
+    <CONTACT id="T1" start="3786" end="3811" text="saguileraa@alumni.unav.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

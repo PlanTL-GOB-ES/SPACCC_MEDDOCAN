@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Héctor .
+Apellidos: Hernandez Soto.
+CIPA: nhc-9874512.
+NASS: 36 23456891 12.
+Domicilio: Calle Eusebio Sempere, 20, 10A.
+Localidad/ Provincia: Alicante.
+CP:  03003.
+NHC: 9874512.
+Datos asistenciales.
+Fecha de nacimiento:25/03/1938.
+País: España.
+Edad: 78 Sexo: H.
+Fecha de Ingreso: 21/12/2016.
+Médico:José Antonio Cánovas Ivorra  NºCol:24 24 09325.
+Motivo de ingreso: síndrome miccional irritativo con polaquiuria.
+Antecedentes: litiasis renal y cólicos nefríticos de repetición, y con neoplasia maligna de cuello tratada mediante RT dos meses antes
+Historia Actual: Paciente varón de 78 años de edad, diabético en tratamiento con antidiabéticos orales, acude a urgencias por un síndrome miccional irritativo con polaquiuria, tenesmo vesical y disuria de dos meses de evolución. Dos días antes estuvo en un servicio de urgencias donde fue diagnosticado de ITU instaurándose tratamiento antibiótico con Amoxicilina-clavulánico sin mejoría.
+Exploración física:A la exploración física presentaba una temperatura axilar de 38,2º C.  exploración completamente normal, incluido el tacto rectal que evidenció una próstata de tamaño III/IV, no indurada y ligeramente dolorosa a la palpación. 
+Resumen de pruebas complementarias:En el análisis de sangre que se realizó llamaba la atención una leucocitosis importante de 41800 con neutrofilia (93%), una glucemia de 337 mg/dl, una cifra de plaquetas de 394000, un fibrinógeno de 771 y un descenso del Índice de Quick (68%). En el sedimento de orina se evidenció piuria y microhematuria y en las radiografías simples de tórax y abdomen practicadas no apareció patología. Se realizó también en Puertas de Urgencia una ecografía de abdomen que no evidenció patología. siendo el resto de la Con la sospecha de ITU ingresó en el Servicio de Urología instaurándose tratamiento antibiótico intravenoso tras obtención de urinocultivo. La pauta elegida en este caso fue la asociación de ceftriaxona 1 g más tobramicina 100 mg cada 12 horas. Al tercer día del ingreso y ante la mejoría clínica y analítica del paciente se decidió pasar la antibioterapia intravenosa a oral, continuando con cefuroxima-axetilo. Al séptimo día, y coinciendo con la llegada de los hemocultivos y urinocultivo cursados al ingreso y que fueron informados como negativos, el paciente presentó un pico febril de 39º C. y una nueva elevación de la cifra de leucocitos. Decidimos reinstaurar la antibioterapia intravenosa y realizar una ecografía vésico-prostática en la que llama la atención la gran próstata (400 cc.) que presentaba el paciente.
+Ante la sospecha de que pudiera tratarse de una prostatitis aguda en el contexto de una HBP. se decidió continuar con la antibioterapia intravenosa y programar una Adenomectomía tipo Millin cuando remitiera la clínica infecciosa. A pesar de la antibioterapia la evolución continuó siendo desfavorable, persistiendo los picos febriles, por lo que se cambió la pauta de tratamiento introduciendo levofloxacino i.v. en lugar de ceftriaxona y se solicitó un cultivo fraccionado de orina. Pese al cambio del tratamiento antibiótico el paciente continuó presentando fiebre y empeoramiento del estado general por lo que se decidió realizar una ecografía transrectal para descartar la presencia de alguna complicación, en la que apareció un área mal delimitada en la periferia medial y craneal del lóbulo derecho, de ecogenicidad heterogénea, aunque de predominio hipoecogénico, y con ausencia de flujo en el método doppler sugestiva de absceso prostático.
+Ante los hallazgos ecográficos se decidió realizar una punción transrectal ecodirigida del absceso, obteniendo unos 20 ml. de material purulento que se mandó a microbiología. El cultivo del exudado prostático y del pus fueron positivos a E. coli. Pese a la realización de la punción el paciente continuó con clínica séptica y sin referir mejoría por lo se decidió realizar una TC para confirmar el diagnóstico y descartar complicaciones del absceso. En la TC apareció un aumento del tamaño de la glándula prostática con una colección líquida multitabicada, localizada caudalmente a la propia glándula.
+Ante los hallazgos de la TC, y habiendo fracasado la punción transrectal, se decidió realizar una prostatectomía transvesical. En la intervención pudimos apreciar tras la apertura de la cápsula la total desestructuración de la glándula, con presencia de multiloculaciones y material purulento en su interior así como extensas zonas de necrosis tisular que comprometían toda la uretra prostática a nivel apical.
+La anatomía patológica mostró dos pequeños focos de adenocarcinoma microacinar, muy alejados de los límites de resección, con un Gleason 2 + 3 y prostatitis crónica y aguda abscesificada con amplias áreas de necrosis junto con hiperplasia nodular.
+Evolución y comentarios: La evolución postoperatoria fue satisfactoria, con una rápida mejoría clínica y analítica, procediéndose al alta hospitalaria a los 21 días de la intervención. A los 15 días del alta el paciente fue visto en nuestra consulta externa presentando una incontinencia urinaria de esfuerzo. Tras seis meses de la intervención, el paciente continúa con incontinencia leve-moderada y precisa de absorbentes para su higiene diaria.
+Remitido por: Dr. José Antonio Cánovas Ivorra. Av. Montiboli 188 A-6 03570 Villajoyosa. Alicante. (España) jacanovas@hotmail.com.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="8" end="14" text="Héctor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="28" end="42" text="Hernandez Soto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="54" end="61" text="9874512" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="69" end="83" text="36 23456891 12" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="96" end="126" text="Calle Eusebio Sempere, 20, 10A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="150" end="158" text="Alicante" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="165" end="170" text="03003" TYPE="TERRITORIO" comment=""/>
+    <ID id="T17" start="177" end="184" text="9874512" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="227" end="237" text="25/03/1938" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="245" end="251" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="259" end="261" text="78" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="268" end="269" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="289" end="299" text="21/12/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="308" end="335" text="José Antonio Cánovas Ivorra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="343" end="354" text="24 24 09325" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="583" end="588" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="592" end="599" text="78 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="5235" end="5262" text="José Antonio Cánovas Ivorra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="5264" end="5285" text="Av. Montiboli 188 A-6" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="5286" end="5291" text="03570" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="5292" end="5303" text="Villajoyosa" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="5305" end="5313" text="Alicante" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="5316" end="5322" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="5324" end="5345" text="jacanovas@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

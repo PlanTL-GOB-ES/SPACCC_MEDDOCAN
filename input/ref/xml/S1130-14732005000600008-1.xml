@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Manuel.
+Apellidos: Obrador Peña.
+NHC: 4356713.
+NASS: 37 28476584 77.
+Domicilio: Rúa da Senra, 7, 10A.
+Localidad/ Provincia: Santiago de Compostela, A Coruña.
+CP: 15702.
+Datos asistenciales.
+Fecha de nacimiento: 23/10/1973.
+País: España.
+Edad: 45 años Sexo: H.
+Fecha de Ingreso: 30/04/2018.
+Médico: José Miguel Carreira  NºCol: 15 15 22287.
+Informe clinico del paciente:  Paciente de 45 años valorado en septiembre del año 2000 por hemiparesia izquierda. Tras la realización de TC y RM, en una angiografía cerebral se diagnosticó una oclusión de la arteria carótida interna derecha y estenosis del 60% asociada a pseudoaneurisma en el trayecto cervical de la izquierda, con signos de disección en la RM.
+Se comprobó que había suplencia contralateral. Mediante abordaje femoral común derecho se realizó un implante de una endoprótesis metálica monorraíl (Carotid wallstent, Boston Scientific Co.) en la zona de la estenosis que se extendía también sobre la zona pseudoaneurismática del trayecto cervical de la arteria carótida interna izquierda.
+A través de la malla de la endoprótesis se introdujo un microcatéter con el que se liberaron espirales GDC (Boston Scientific Co.) sin riesgo de migración.
+Un control angiográfico post-procedimiento evidenció la recuperación de la luz en la zona estenótica y la ausencia de relleno del pseudoaneurisma. Durante el procedimiento se administraron 5000UI de heparina sódica. Se realizó tratamiento anticoagulante secuencial en la fase aguda con heparina sódica en perfusión continua, seguido por dicumarinicos y, posteriormente, antiagregantes plaquetarios.
+Tras tres años de evolución, los controles angiográficos y ecográficos demostraron permeabilidad de la arteria tratada sin recidiva del pseudoaneurisma; el paciente no ha presentado síntomas neurológicos en territorio carotídeo izquierdo.
+Remitido por: Dr. José Miguel Carreira. Facultad de Medicina. Departamento de Radiología. C/ San Francisco n° 1. 15704 Santiago de Compostela.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="15" text="Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="28" end="40" text="Obrador Peña" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="47" end="54" text="4356713" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="62" end="76" text="37 28476584 77" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="89" end="109" text="Rúa da Senra, 7, 10A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="133" end="155" text="Santiago de Compostela" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="157" end="165" text="A Coruña" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="171" end="176" text="15702" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T1" start="220" end="230" text="23/10/1973" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="238" end="244" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="252" end="259" text="45 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="266" end="267" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="287" end="297" text="30/04/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="307" end="327" text="José Miguel Carreira" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="336" end="347" text="15 15 22287" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T13" start="392" end="399" text="45 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T2" start="412" end="435" text="septiembre del año 2000" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T8" start="881" end="901" text="Boston Scientific Co" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T7" start="1161" end="1181" text="Boston Scientific Co" TYPE="INSTITUCION" comment=""/>
+    <NAME id="T10" start="1865" end="1885" text="José Miguel Carreira" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1887" end="1907" text="Facultad de Medicina" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="1937" end="1958" text="C/ San Francisco n° 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1960" end="1965" text="15704" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1966" end="1988" text="Santiago de Compostela" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

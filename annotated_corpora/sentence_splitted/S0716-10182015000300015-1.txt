@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: Aida.
+Apellidos: Martos Rodriguez.
+NHC: 436434/875.
+NASS: 89 45698395 62.
+Domicilio: Calle Virgen del Puerto, 45, 7D.
+Localidad/ Provincia: Mexico DF.
+CP: 02400.
+Datos asistenciales.
+Fecha de nacimiento: 15/05/1937.
+País de nacimiento: España.
+Edad: 59 años  Sexo: H.
+Fecha de Ingreso: 06/04/2018.
+Médico: Manuel Fernandez Arjona   NºCol: 28 28 41473.
+Paciente de sexo femenino de 84 años, nacionalidad chilena, dueña de casa. Consultó en el policlínico de Dermatología tras presentar un cuadro de dos meses de evolución de nódulos cutáneos eritematosos ulcerados, asintomáticos, en región palmar del dedo meñique derecho y zona ventral de antebrazo derecho, siguiendo un patrón de disposición lineal a lo largo del trayecto de vasos linfáticos ; sin otros síntomas acompañantes. La paciente tenía antecedentes de hipertensión arterial esencial, insuficiencia cardíaca congestiva, hipotiroidis-mo y anemia hemolítica secundaria a crioaglutininas. No presentaba historia previa de tuberculosis, uso de corticoides, inmunosupresión ni trauma reciente en las zonas afectadas. No existían antecedentes familiares de relevancia ni viajes en el último tiempo.
+
+Se planteó el diagnóstico diferencial de micosis subcutánea, micobacteriosis tuberculosa y micobacteriosis atípica, realizándose biopsia y estudio microbiológico de las lesiones cutáneas. El análisis histopatológico reveló una paniculitis granulomatosa supurativa sin caseificación. Las tinciones de PAS, Grocott, Ziehl-Neelsen y Gram no revelaron la presencia de microorganismos en la muestra. Sin embargo, la reacción de polimerasa en cadena (RPC) y el cultivo de tejido fueron positivos para M. tuberculosis. Dentro el estudio se realizaron hemograma, velocidad de sedimentación, serología para VIH, perfil bioquímico, función renal, análisis de orina, función hepática y radiografía de tórax, los que resultaron todos normales. La determinación de Quantiferon TB gold® resultó positivo. No se realizó PPD.
+
+Basado en los resultados, se estableció el diagnóstico de tuberculosis cutánea y se inició tratamiento con esquema primario de cuatro fármacos: isoniacida, pirazinamida, rifampicina y etambutol. Durante dos meses de seguimiento la paciente continuó con el esquema de terapia antituberculosa de acuerdo a los protocolos establecidos, demostrando una mejoría clínicamente significativa con regresión de las lesiones ulcerativas y sin efectos secundarios reportados.
+Correspondencia a: Romina Andino N. rominaandino@gmail.com

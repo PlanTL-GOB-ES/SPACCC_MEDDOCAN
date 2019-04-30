@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre:  Elena.
+Apellidos: Rivera Martinez.
+NHC: 7809456.
+NASS: 84 29487573 93.
+Domicilio: Calle Finisterra, 18.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 19/10/1951.
+País: España.
+Edad:62 años Sexo: Femenino.
+Fecha de Ingreso: 14/04/2014.
+Médico: Tristán Dellavedova Ramos NºCol: 28 28 20357.
+Informe clínico del paciente: Paciente de sexo femenino, de 62 años, diabética mal controlada, obesa, con antecedentes de litiasis coraliforme izquierda no resuelta. Consulta por fiebre y lumbalgia izquierda de 7 días de evolución, con micosis oral y franco deterioro del estado general. Presenta leucocitosis con marcada neutrofilia, hiperglucemia con cetoacidosis y cifras elevadas de urea y creatinina. Al examen físico, presenta abdomen blando, con dolor a nivel de flanco izquierdo y puño percusión renal izquierda positiva. Se realiza ecografía abdominal y radiografía directa de abdomen que orientan al diagnóstico al identificar aire en la fosa renal izquierda. La TAC abdómino-pelviana evidencia aire en el riñón izquierdo y tejidos perirrenales, que infiltra la pared abdominal. Por el rápido deterioro de su estado general, se realiza drenaje de fosa renal por lumbotomía, para evitar contaminación de cavidad peritoneal, evacuando el gas y debridando tejido necrótico. Tras una mejoría inicial, reaparecen signos de sepsis, siendo necesario realizar nefrectomía simple una semana más tarde. Buena evolución postoperatoria, a los 14 días nueva sepsis de origen respiratorio. Comienza con secreción purulenta a través de la herida, se le realiza "toilette", pero fallece a las 48 hs. por disfunción orgánica múltiple con neumonía nosocomial.
+Remitido por: Dr. Tristán Dellavedova. Email: trisdellavedova@hotmail.com

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre: Mikel .
+Apellidos: Gonzalez Bravo.
+CIPA: nhc/976421.
+NASS: 37 86974135 55 .
+Domicilio: C BIZKARRETA, 1. Bajo A.
+Localidad/ Provincia: Miranda de Ebro.
+CP:09200.
+NHC: 976421.
+Datos asistenciales.
+Fecha de nacimiento: 03/03/1943.
+País: España.
+Edad: 73 Sexo: H.
+Fecha de Ingreso: 15/08/2016.
+Especialidad:.
+Médico: Miguel Ángel López Aramburu      NºCol: 34 09 15684.
+Motivo de ingreso:cirugía programada de hiperplasia prostática benigna.
+Antecedentes: antecedentes de brucelosis, hiperuricemia e hipercolesterolemia
+Historia Actual: Paciente varón de 73 años de edad con que ingresa en nuestro Servicio para cirugía programada de hiperplasia prostática benigna. En el estudio diagnóstico presentó un tacto rectal que evidenció una próstata de características adenomatosas, muy aumentada de tamaño (G III/IV). Se practica adenomectomía retropúbica según técnica de T. Millin, enucleándose un gran adenoma de 170 gramos de peso. A los seis días se retira la sonda, el paciente reanuda micciones confortables y es dado de alta.
+Exploración física: La exploración general y urológica se encuentra dentro de los límites de la normalidad. Se descarta orquiepididimitis. Analíticamente se observa marcada disminución de los valores de la serie roja, no se demuestra leucocitosis. 
+Evolución y comentarios: Transcurridos once días de la intervención, y apenas cuatro del alta, reingresa el paciente en nuestro servicio por presentar en las últimas 24 horas dolor abdominal (hipogástrico), dolor en testículo derecho y raíz de muslo del mismo lado y un mal estado general inespecífico. Por el orificio donde llevó el drenaje de la adenomectomía drena liquido sero-purulento en escasa cantidad. Herida quirúrgica minimamente empastada. Ingresa en urología con el diagnóstico de infección de herida operatoria y se instaura tratamiento antibiótico empírico.
+El paciente es tratado de forma sintomática pero no mejora. Se acentúa el dolor en zona pubiana, por lo que se realiza gammagrafía ósea, que informa del hallazgo de hipercaptación patológica del radiotrazador en tercio superior de ambos pubis en relación con posible osteopatía púbica, como único dato de interés. El paciente sigue sin mejorar, los tratamientos (basados en antibioterapia empírica y analgesia) no logran disminuir el dolor que se localiza ahora en raíz de muslo, y el deterioro general se acentúa. El paciente presenta anemia severa, elevación de VSG, fibrinógeno y PCR. La exploración del muslo es anodina, con dolor inespecífico a la presión en cara interna del mismo. Se achaca el dolor a afectación Con el diagnóstico de sospecha de posible absceso pélvico (el cuadro séptico nos pareció indudable) en relación al antecedente quirúrgico se solicita TAC abdominal. Este informa de normalidad absoluta de órganos abdominales... pero cortes efectuados por debajo de sínfisis pubiana a nivel de muslo derecho descubren un gran absceso en la zona de músculos aductores. Ante este hallazgo se solicita colaboración del servicio de traumatología que advierte que la cara interna del muslo derecho se presenta ahora ligeramente enrojecida, tumefacta, dolorosa a la palpación pero sin clara fluctuación. Articulación coxofemoral libre. Transcurridos siete días desde el ingreso y con carácter de urgencia se procede a intervención quirúrgica: se practica amplia incisión longitudinal en la cara interna del tercio proximal del muslo y mediante disección roma digital se penetra en profundidad a través de la musculatura abductora hasta llegar a una gran colección purulenta que proximalmente se dirige hacia el pubis. Se obtiene abundantísimo pus maloliente (se realizan tomas para su estudio microbiológico). Tras lavado de la cavidad con abundante suero y agua oxigenada se cierra parcialmente la herida quirúrgica y se dejan drenajes tipo Penrose. La exploración de la herida quirúrgica de la adenomectomía y la zona donde estuvo el drenaje en el momento actual se encuentran absolutamente normales y no se identifican cavidades, ni colección alguna. Se colocan drenajes y se da por concluida la intervención. El paciente precisó cuidados intensivos, transfusión de hemoderivados, largo periodo de ingreso hospitalario, curas locales minuciosas etc. El paciente presenta una lenta pero excelente evolución hacia la curación total. Todos los controles posteriores (analíticos, radiológicos, ecográficos...) corroboran la buena evolución. El servicio de microbiología nos informa de que en los cultivos efectuados se obtienen los siguientes resultados: en cultivo puro de líquido seropurulento de la herida operatoria de la adenomectomía: Staphilococo coagulasa negativo (sin poder concretar la especie). Cultivo de pus obtenido en el acto operatorio del drenaje del absceso en muslo: crecen dos cepas Staphilococo coagulasa negativo (identificado como Staphylococcus epidermidis y Streptococcus alfa hemolítico).
+neurológica, ya que la exploración es normal, y a que también el dolor se extiende por la zona inguinal y testículo derecho.
+Diagnóstico Principal: sospecha de posible absceso pélvico
+Emitido por: Miguel Ángel López Aramburu  Av. Camino San Juan del Monte, 18 09200 Miranda de Ebro. Burgos. (España) malaramburu@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="14" text="Mikel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="28" end="42" text="Gonzalez Bravo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="54" end="60" text="976421" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="68" end="82" text="37 86974135 55" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="96" end="119" text="C BIZKARRETA, 1. Bajo A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="143" end="158" text="Miranda de Ebro" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="163" end="168" text="09200" TYPE="TERRITORIO" comment=""/>
+    <ID id="T17" start="175" end="181" text="976421" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="225" end="235" text="03/03/1943" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="243" end="249" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="257" end="259" text="73" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="266" end="267" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="287" end="297" text="15/08/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="322" end="349" text="Miguel Ángel López Aramburu" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="362" end="373" text="34 09 15684" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="551" end="556" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="560" end="567" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="5080" end="5107" text="Miguel Ángel López Aramburu" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="5113" end="5142" text="Camino San Juan del Monte, 18" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="5143" end="5148" text="09200" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="5149" end="5164" text="Miranda de Ebro" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="5166" end="5172" text="Burgos" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="5175" end="5181" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="5183" end="5203" text="malaramburu@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

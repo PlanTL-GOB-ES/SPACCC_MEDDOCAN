@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Encarnación de Jesus.
+Apellidos: Moreno Quintana.
+CIPA: nhc-79436164.
+NASS: 99 64151865 21.
+Domicilio: Calle Alcalá Zamora, 19.
+Localidad/ Provincia: Córdoba.
+CP: 14001.
+NHC: 79436164.
+Datos asistenciales.
+Fecha de nacimiento: 13/09/1978.
+País: España.
+Edad: 39 años Sexo: H.
+Fecha de Ingreso: 30/11/2017.
+Especialidad: Endocrinología.
+Médico: Carmen Tenorio Jiménez NºCol: 14 14 79841.
+Historia Actual: Paciente de 39 años con antecedentes personales de diabetes mellitus tipo 2 de 3 años de evolución con mal control metabólico, trombofilia por mutación del gen de la protrombina, obesidad supermórbida (índice de masa corporal [IMC] 52 kg/m2) y Colitis Ulcerosa (CU). Se encontraba en seguimiento en las consultas de endocrinología desde el diagnóstico de su diabetes. Como tratamiento, se le había recomendado dieta y ejercicio físico regular, insulina premezclada en 2 dosis, metformina, ácidos grasos omega 3, fenofibrato, mesalazina y omeprazol. La paciente acudió a una clínica privada para realización de cirugía bariátrica, siendo sometida allí a derivación bilio-pancreática laparoscópica sin colecistectomía un mes después del último brote de su CU, cursando el postoperatorio sin incidencias relevantes. La paciente precisó ingreso hospitalario 10 meses tras la cirugía por edematización de miembros inferiores secundaria a desnutrición proteica y agravada por un cuadro de gastroenteritis aguda.
+Ingresa de nuevo a nuestro cargo un mes más tarde procedente de consultas externas por hipoalbuminemia severa persistente. Desde la cirugía, no había presentado ningún brote de CU. Refería 2-3 deposiciones semiblandas y negaba vómitos o intolerancias alimentarias. Había suspendido su tratamiento antidiabético y presentaba datos de remisión según la Asociación Americana de Diabetes. A la exploración física, aceptable estado general con palidez mucocutánea, tensión arterial 99/62, frecuencia cardiaca 57 latidos/minuto, peso 63 kilogramos (porcentaje de sobrepeso perdido 92,4%), talla 1,61 metros e IMC 24,32 kg/m2. Extremidades inferiores con edemas con fóvea hasta rodillas.
+En la analítica al ingreso destacaban proteínas totales: 4,4 g/dl (Rango Normal [RN] 6,4-8,3); albúmina: 1,4 g/dl (RN 3,4-5,0) y prealbúmina de 5 mg/dl (RN 20-40). Presentaba asimismo anemia sin ferropenia con una hemoglobina de 9,8 g/dl (RN 12,0-18,0).
+Con el diagnóstico de desnutrición calórico-proteica severa, se inició tratamiento con dieta hipercalórica e hiperproteica, administrando además módulos proteicos en polvo (60 gramos al día). Durante su estancia hospitalaria, que se prolongó durante 3 semanas, la paciente evolucionó favorablemente, manteniéndose estable y con desaparición de los edemas. Al alta la paciente presentaba buen estado general y mejoría analítica de parámetros nutricionales. La densitometría ósea realizada durante su ingreso fue normal.
+Remitido por: Carmen Tenorio Jiménez. servicio de Endocrinología y Nutrición. Hospital Universitario Reina Sofía. Avenida Menéndez Pidal, s/n. 14004 Córdoba, España. E-mail: carmentenoriojimenez@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T2" start="9" end="29" text="Encarnación de Jesus" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T1" start="42" end="57" text="Moreno Quintana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="69" end="77" text="79436164" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="85" end="99" text="99 64151865 21" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="112" end="135" text="Calle Alcalá Zamora, 19" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="159" end="166" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="172" end="177" text="14001" TYPE="TERRITORIO" comment=""/>
+    <ID id="T18" start="184" end="192" text="79436164" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="236" end="246" text="13/09/1978" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="254" end="260" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="268" end="275" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="282" end="283" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="303" end="313" text="30/11/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="353" end="375" text="Carmen Tenorio Jiménez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="383" end="394" text="14 14 79841" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T10" start="425" end="432" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="2887" end="2909" text="Carmen Tenorio Jiménez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="2951" end="2985" text="Hospital Universitario Reina Sofía" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="2987" end="3014" text="Avenida Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="3016" end="3021" text="14004" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="3022" end="3029" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3031" end="3037" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="3047" end="3079" text="carmentenoriojimenez@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

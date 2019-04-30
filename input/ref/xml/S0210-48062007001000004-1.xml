@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: David.
+Apellidos: Simón García.
+NHC: 7840352.
+NASS: 87 565306 30.
+Domicilio:  Avenida Arroyo de Trofas, 8, 5 D.
+Localidad/ Provincia: Valencia.
+CP: 46017.
+Datos asistenciales.
+Fecha de nacimiento: 19/03/1986.
+País de nacimiento: España.
+Edad: 25 años Sexo: H.
+Fecha de Ingreso: 18/06/2011.
+Servicio: Medicina Interna.
+Episodio: 7845673.
+Médico: Jorge Planelles Gómez  NºCol: 46 46 87901.
+Historia Actual: Paciente de 25 años que, durante ingreso en el servicio de Medicina Interna (MI) por fiebre vespertina de 3 días de evolución, se le descubre incidentalmente mediante estudio ecográfico tumoración en testículo derecho.
+Antecedentes: Como antecedentes personales, refiere no tener alergias medicamentosas. Herniorrafia inguinal bilateral.
+Refiere tumoración indolora de un año de evolución que ha ido aumentando progresivamente.
+Exploración física: A la exploración física se palpa aumento del testículo derecho con tumoración indolora en polo superior.
+Pruebas complementarias: Ante la sospecha de tumor testicular se le realizan diferentes pruebas complementarias. En la Ecografía testicular, se aprecia tumoración en testículo derecho de 78 mm x 57 mm x 61 mm heterogénea, sólida compatible con tumor testicular primario. Teste izquierdo normal. Tomografía axial computerizada (TAC): tumoración testicular derecha con adenopatías retrocavas y paraaórticas > 2 y <5 cm. Lactato deshidrogenasa (LDH): 1890 UI/I; alfafetoproteína (AFP): 51 ng/ml; beta-gonadotropina coriónica (Beta-HCG): 23 mUI/ml.
+Se sometió a orquiectomia inguinal derecha con informe de Anatomía Patológica de Carcinoma Embrionario de 7 cm que sustituye parénquima y epidídimo con implantes en cordón y alcanza albugínea. Diagnosticado de carcinoma embrionario de testículo derecho T3N2M0, estadio II con riesgo intermedio por elevación de LDH, completó el tratamiento con quimioterapia según el esquema BEP (bleom<icina, etopósido y cisplatino) de 4 ciclos.
+Evolución: A los 4 años, y estando libre de enfermedad en las revisiones de control, acude a Urgencias por tumoración dolorosa en testículo izquierdo.
+A la exploración física se aprecia, monorquio izquierdo, tumoración indurada a nivel del polo inferior del epidídimo izquierdo.
+Dentro de las exploraciones complementarias destaca: Lactato deshidrogenasa (LDH): 347 UI/I; alfafetoproteína (AFP): 2,4 ng/ml; beta-gonadotropina coriónica (Beta-HCG): 0,1 mUI/ml. Radiografía de tórax: Sin hallazgos patológicos. Ecografía testicular: Tumoración testicular de 51x19x22 mm de tamaño, con ecoestructura heterogénea y con flujo doppler color, que afecta además a cuerpo y cola de epidídimo. Calcificación en vertiente anteroinferior de testículo. Tomografía Axial Computerizada toraco-abdomino-pélvico: Hígado, bazo y páncreas normales. Riñones de morfología y densidad normales. No adenopatías ni cadenas ganglionares.
+Bajo la sospecha de segundo tumor de células germinales se le realiza orquiectomía radical izquierda vía inguinal, siendo le resultado de la Anatomía Patológica de Seminoma clásico de 3,2 cm de diámetro que infiltra parénquima testicular extendiéndose a epidídimo y cordón espermático.
+El postoperatorio cursó sin complicaciones.
+Se remite al Servicio de Oncología para valoración de tratamiento adyuvante y control. Dado que el diámetro máximo del tumor es de 3,2 cm y no afecta a la rete testis, se opta por el tratamiento conservador de control.
+Tres meses después, en Tomografía Axial Computerizada de control, se detecta adenopatía retroperitoneal izquierda aumentada de tamaño (3,5 cm), con mal plano de separación con el psoas que atrapa el tercio medio del uréter causando hidronefrosis grado I. En las analíticas sanguíneas de control: hemograma, bioquímica y hemostasia dentro de los parámetros de la normalidad excepto por Creatinina de 1,2 mg/dl; lactato deshidrogenasa=552 UI/I, alfafetoproteína y beta-gonadotropina coriónica dentro de la normalidad.
+Se diagnostica de recidiva retroperitoneal y se somete a tratamiento con quimioterapia (etopósido y cisplatino de 4 ciclos).
+Actualmente el paciente lleva 3 años libre de enfermedad en los controles periódicos que se le realizan en los servicios de Urología y Oncología.
+Responsable clínico: Dr. Jorge Planelles Gómez Servicio de Urología Hospital Universitario Doctor Peset Avda. Gaspar Aguilar, 90 - 46017 Valencia Tel.: 963 862 500 E-mail autor: jorge_planelles@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="33" text="David" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="46" end="58" text="Simón García" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="65" end="72" text="7840352" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="80" end="92" text="87 565306 30" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="106" end="138" text="Avenida Arroyo de Trofas, 8, 5 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="162" end="170" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="176" end="181" text="46017" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="225" end="235" text="19/03/1986" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="257" end="263" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="271" end="278" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="285" end="286" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="306" end="316" text="18/06/2011" TYPE="FECHAS" comment=""/>
+    <ID id="T12" start="356" end="363" text="7845673" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T8" start="373" end="394" text="Jorge Planelles Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="403" end="414" text="46 46 87901" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T10" start="445" end="452" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T1" start="1978" end="1984" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="4235" end="4256" text="Jorge Planelles Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="4278" end="4313" text="Hospital Universitario Doctor Peset" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="4314" end="4338" text="Avda. Gaspar Aguilar, 90" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="4341" end="4346" text="46017" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="4347" end="4355" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="4362" end="4373" text="963 862 500" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T2" start="4388" end="4412" text="jorge_planelles@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

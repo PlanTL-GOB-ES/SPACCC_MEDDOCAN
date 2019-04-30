@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Pablo.
+Apellidos: Pila Fernandez.
+NHC: 2554764.
+Domicilio: C/ Arjona, 23, 4 A.
+Localidad/ Provincia: Huelva.
+CP: 21071.
+Datos asistenciales.
+Fecha de nacimiento:10/10/2005.
+País de nacimiento: España.
+Edad: 5 años Sexo: H.
+Fecha de Ingreso: 21/06/2010.
+Médico: Pedro Miguel Garamendi. NºCol: 21 21 97013.
+Informe clínico del paciente: Varón de 5 años de edad con antecedentes personales anodinos y con adecuado control pediátrico. Los padres destacan únicamente que era un niño que no comía mucho. Una semana antes de los hechos presenta un catarro de vías superiores sin fiebre u otros signos asociados. Refieren los padres que presentaba, además, una molestia abdominal inespecífica, acompañada de aumento de ruidos intestinales y sensación nauseosa sin vómitos. Es valorado por su pediatra de zona, quien no aprecia patología específica y le pauta dieta blanda. A las 0 horas del día del óbito, el niño se despierta con dolor abdominal no focalizado. En el curso de las horas siguientes tiene sensación de nausea y varios episodios de vómito primero alimenticios y finalmente mucosos sin trazas hemáticas o biliosas. A las 5.00 horas le notan débil y frío y le dan un baño caliente, comprobando en el baño que no responde a estímulos. Se solicita la asistencia de un equipo de emergencias que le encuentra en situación de parada cardiorrespiratoria e inicia maniobras de RCPA sin éxito.
+Se practica la autopsia judicial. Se trata de un niño varón normoconstituido de 1.17 mts de estatura, sin signos de obesidad o malnutrición, con palidez de piel y mucosas. Se practica la autopsia completa con apertura de las tres cavidades y el plano cervical anterior, siguiendo las recomendaciones del Consejo de Europa [1]. No se aprecian alteraciones patológicas significativas o anomalías del desarrollo.
+Destaca durante la autopsia en el examen de la cavidad abdominal una colección de líquido serohemático en cantidad aproximada de 0,5 litros. El estómago presenta escasos restos alimenticios sin trazas hemáticas, posos de café o restos biliosos. El duodeno presenta paredes de aspecto conservado y contenido de papilla intestinal normal. A unos 20 cms del ángulo duodeno-yeyunal, el color de las paredes intestinales se torna rojo oscuro, manteniendo este cambio de coloración hasta unos 5 cms de la válvula ileo-cecal. Este último segmento del íleon se halla netamente estrechado con cambios fibrosos. En el interior del segmento de intestino delgado con cambios parietales, se encuentra contenido de aspecto hemático en cantidad aproximada de 1,5 litros.
+La posición de las asas intestinales está alterada por la presencia de una anomalía en el cierre del mesenterio del ciego. Este presenta un ojal de unos 3 cms de diámetro localizado inmediatamente junto al ciego, por el que se aprecia el paso extenso de las asas del intestino delgado y de parte del colon descendente, que se halla dilatado y lateralizado hacia la derecha e interrumpido en su trayecto por el paso a través del ojal, prosiguiendo hacia el recto desde dicho ojal.
+La causa de la muerte se estima debida a un shock hemorrágico secundario a obstrucción mecánica y necrosis del intestino delgado por hernia transmesocólica con herniación interna del intestino delgado y del intestino grueso.
+Responsable clínico: Dr. Pedro Miguel Garamendi. Servicio de Patología Forense. IML de Huelva. Plaza Isabel La Católica s/n. 21071 Huelva. Email: imanolgaramendi@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T28" start="28" end="33" text="Pablo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T27" start="46" end="60" text="Pila Fernandez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T26" start="67" end="74" text="2554764" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T1" start="87" end="105" text="C/ Arjona, 23, 4 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T25" start="129" end="135" text="Huelva" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T24" start="141" end="146" text="21071" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T22" start="189" end="199" text="10/10/2005" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T23" start="221" end="227" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T20" start="235" end="241" text="5 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T18" start="248" end="249" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T21" start="269" end="279" text="21/06/2010" TYPE="FECHAS" comment=""/>
+    <NAME id="T16" start="289" end="311" text="Pedro Miguel Garamendi" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T14" start="320" end="331" text="21 21 97013" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T17" start="363" end="368" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T19" start="372" end="378" text="5 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="463" end="469" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="501" end="505" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="646" end="652" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="929" end="933" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="1467" end="1471" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="1472" end="1477" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T7" start="1722" end="1739" text="Consejo de Europa" TYPE="INSTITUCION" comment=""/>
+    <NAME id="T15" start="3314" end="3336" text="Pedro Miguel Garamendi" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3369" end="3382" text="IML de Huelva" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="3384" end="3412" text="Plaza Isabel La Católica s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3414" end="3419" text="21071" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3420" end="3426" text="Huelva" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="3435" end="3460" text="imanolgaramendi@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Verónica.
+Apellidos: Garzón Ramos.
+NHC: 567537.
+NASS: 35 47654787 08.
+Domicilio: Calle Pacífico, 44 1B.
+Localidad/ Provincia: Málaga.
+CP: 29004.
+Datos asistenciales.
+Fecha de nacimiento: 10/01/1957.
+País: España.
+Edad: 59 años Sexo: M.
+Fecha de Ingreso: 15/06/2016.
+Médico: Inmaculada Santos Amaya NºCol: 29 29 46698.
+Historia del paciente: Mujer de 59 años sin antecedentes de interés que ingresó por dolor en epigastrio-hipocondrio derecho irradiado a la escápula junto con ictericia e intolerancia alimenticia de 5 días de evolución. A la exploración estaba con una frecuencia cardiaca de 80 lpm, afebril (36,3º), con ictericia de piel y mucosas y a la palpación el abdomen era blando, depresible y no doloroso. La analítica de urgencias mostró una bilirrubina total de 11,63 a expensas sobre todo de la directa (7,12), amilasa de 135, GPT 221, LDH 557, leucocitosis de 14.400 y eosinofilia de 5.480 (valor normal: 0-0,8). Se realizó la ecografía abdominal que evidenció en el lóbulo hepático derecho una lesión quística bien delimitada de 6,9 x 6 cm compatible con quiste hidatídico, junto a múltiples litiasis biliares. Vesícula, cuerpo de páncreas, riñones, bazo y vejiga normales. No líquido libre peritoneal. Ante los hallazgos la paciente comenzó en tratamiento con albendazol. Tras un día de ingreso la paciente presentó un episodio de shock anafiláctico con disnea y desaturación (pO2 50 mmHg, SatO2 86,9), fiebre (38º), sibilancias bilaterales, lesiones cutaneas eritematosas y eosinofilia. La TC abdominal de urgencias no evidenció datos nuevos respecto a la ecografía y tras administrarle 80 mg i.v. de urbasón y 1 ampolla i.v. de Polaramine®, fue intervenida de urgencias por anafilaxia con los siguientes hallazgos: quiste hidatídico parcialmente calcificado en segmento V-VII y VIII, íntimamente adherido a diafragma. La ecografía intraoperatoria mostró un quiste en contacto con vena cava inferior y vena suprahepática derecha. Se le realizó punción, aspiración y esterilización con salino hipertónico además de colecistectomía y coledocotomía. Tras mejoría clínica y analítica a los 15 días la paciente fue dada de alta en tratamiento con albendazol.
+Remitido por: Inmaculada Santos Amaya Departamento de Anatomía y Medicina Legal. Facultad de Medicina. Universidad de Málaga Boulevard Louis Pasteur, 32. 29071 Málaga. E-mail: isantos@uma.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="17" text="Verónica" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="30" end="42" text="Garzón Ramos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="49" end="55" text="567537" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="63" end="77" text="35 47654787 08" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="90" end="111" text="Calle Pacífico, 44 1B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="135" end="141" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="147" end="152" text="29004" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="196" end="206" text="10/01/1957" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="214" end="220" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="228" end="235" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="242" end="243" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="263" end="273" text="15/06/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="283" end="306" text="Inmaculada Santos Amaya" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T1" start="314" end="325" text="29 29 46698" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="350" end="355" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="359" end="366" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2193" end="2216" text="Inmaculada Santos Amaya" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2260" end="2280" text="Facultad de Medicina" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T6" start="2282" end="2303" text="Universidad de Málaga" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="2304" end="2331" text="Boulevard Louis Pasteur, 32" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2333" end="2338" text="29071" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2339" end="2345" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2355" end="2369" text="isantos@uma.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

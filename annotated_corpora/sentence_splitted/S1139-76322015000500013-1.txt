@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Fernando.
+Apellidos: Navarro Fernandez.
+NHC: 7823609.
+NASS: 74 35613653 01.
+Domicilio: Av. Pasabán, 33, 5 D.
+Localidad/ Provincia: Huelva.
+CP: 36004.
+Datos asistenciales.
+Fecha de nacimiento: 29/06/1949.
+País de nacimiento: España.
+Edad: 53 años  Sexo: H.
+Fecha de Ingreso: 12/07/2011.
+Médico: Alejandro Cabarcos Ortiz de Barrón  NºCol: 50 50 98653.
+Lactante de una semana de vida que consulta para primera visita de control del recién nacido. Varón, fruto de una segunda gestación a término sin complicaciones y parto eutócico sin incidencias. La madre refiere una lesión de aproximadamente 1 cm de diámetro en el vértice del cuero cabelludo desde el momento del nacimiento.
+La exploración física evidencia la lesión de 1 cm de diámetro, de bordes limpios, sin signos de sobreinfección. Ante la sospecha de aplasia cutis congénita (ACC) se realizó una radiografía de cráneo y una ecografía cerebral transfontanelar, que fueron normales. El genograma no evidenció enfermedades genéticas, pero el padre también presentaba una zona de alopecia cicatricial en el vértice del cuero cabelludo, que refiere desde la infancia.
+
+Dirección para correspondencia: Bernat de Pablo Márquez bernatdepablo@gmail.com

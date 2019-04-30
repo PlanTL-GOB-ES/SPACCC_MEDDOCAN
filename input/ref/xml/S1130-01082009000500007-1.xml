@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Estela.
+Apellidos: Alvarez Gamez.
+NHC: 7846987.
+NASS: 74 57806576 15.
+Domicilio: C/ La Masó, 3.
+Localidad/ Provincia: Pamplona.
+CP: 31008.
+Datos asistenciales.
+Fecha de nacimiento: 10/05/1959.
+País de nacimiento: España.
+Edad: 56 años Sexo: H.
+Fecha de Ingreso: 21/07/2015.
+Médico: Ramón Saiz Mendiguren NºCol: 31 31 25890.
+Informe clínico del paciente: Mujer de 56 años con retraso mental moderado congénito, dislipemia e hipotiroidismo, que acude a la consulta por estreñimiento progresivo, aumento del perímetro abdominal y pérdida de 8 kg de peso en los últimos 4 meses. En la exploración física destaca la palpación de una masa hipogástrica central, dura, mal delimitada, de aproximadamente 10 x 8 cm. Las determinaciones analíticas, incluidos reactantes de fase aguda y marcadores tumorales digestivos y ginecológicos, así como la ecografía ginecológica, son normales. Se realiza TAC abdominopélvico objetivándose una dilatación gigante del recto y el colon izquierdo, ocupados en toda la luz por restos fecales compactados, que produce desplazamiento de todos los órganos abdominales e hidronefrosis bilateral sin insuficiencia renal asociada. La colonoscopia hasta ciego con biopsias y la RMN pélvica son normales. Se realiza manometría anorrectal que demuestra conservación del reflejo rectoanal inhibitorio. Se inicia tratamiento con polietilenglicol oral y enemas de lactulosa, con notable mejoría clínica y actualmente sigue terapia de mantenimiento con lactulosa oral a dosis altas con ganancia ponderal y una deposición cada 24-48 horas.
+Responsable clínico: Dr. Ramón Saiz Mendiguren Servicio de Radiología Clínica Universidad de Navarra Avda. Pío XII No 36 31008-Pamplona. España e-mail: saiz.ramon@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="34" text="Estela" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="60" text="Alvarez Gamez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="67" end="74" text="7846987" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="82" end="96" text="74 57806576 15" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="109" end="122" text="C/ La Masó, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="146" end="154" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="160" end="165" text="31008" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="209" end="219" text="10/05/1959" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="241" end="247" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="255" end="262" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="269" end="270" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="290" end="300" text="21/07/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="310" end="331" text="Ramón Saiz Mendiguren" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="339" end="350" text="31 31 25890" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="382" end="387" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="391" end="398" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1605" end="1626" text="Ramón Saiz Mendiguren" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1650" end="1680" text="Clínica Universidad de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1681" end="1700" text="Avda. Pío XII No 36" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1701" end="1706" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1707" end="1715" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1717" end="1723" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1732" end="1752" text="saiz.ramon@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

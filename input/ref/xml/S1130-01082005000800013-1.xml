@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Rocio.
+Apellidos: Duque Herrera.
+NHC: 5647049.
+NASS: 85 67945679 30.
+Domicilio: C/ Altos de Nava, 34, 9, A.
+Localidad/ Provincia: Cartagena, Murcia.
+CP: 30202.
+Datos asistenciales.
+Fecha de nacimiento: 10/11/1987.
+País de nacimiento: España.
+Edad: 25 años Sexo: M.
+Fecha de Ingreso: 20/01/2013.
+Servicio: Nefrología.
+Episodio: 8567589.
+Médico: Gracia Álvarez Fernández NºCol: 30 30 57256.
+Informe clínico del paciente: Mujer de 25 años, sin antecedentes de interés, que es estudiada por presentar una historia de dolor abdominal de predominio en hipocondrio derecho. Tanto la exploración física como los exámenes de laboratorio, incluyendo un perfil hepático, fueron normales. Se le realizó una ecografía abdominal, en la que se detectó una lesión quística hepática de 8 centímetros, multiloculada, hipoecoica con áreas hiperecoicas y calcio, localizada en los segmentos 4-5 hepáticos y con proyecciones papilares hacia el hilio hepático. Dada la imposibilidad de descartar malignidad se recomendó tratamiento quirúrgico. La paciente fue intervenida, encontrando una lesión quística de unos 10 centímetros de diámetro, sobre el hilio hepático, en los segmentos 4 y 5, sobre la bifurcación portal y la vena suprahepática media. Se realizó una quistoperiquistectomía con control vascular, sin exclusión. El postoperatorio evolucionó favorablemente, siendo la paciente dada de alta al cabo de una semana. El diagnóstico histológico definitivo mostró un quiste hepático ciliado.
+Responsable clínico: Dra. Gracia Álvarez Fernández Servicio de Nefrología Hospital General Universitario Santa Lucía Mezquita, Paraje Los Arcos 30202, Cartagena, Murcia E-mail: alvarez.gracia@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="33" text="Rocio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="46" end="59" text="Duque Herrera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="66" end="73" text="5647049" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="81" end="95" text="85 67945679 30" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="108" end="134" text="C/ Altos de Nava, 34, 9, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="158" end="167" text="Cartagena" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="169" end="175" text="Murcia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="181" end="186" text="30202" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="230" end="240" text="10/11/1987" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="262" end="268" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="276" end="283" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="290" end="291" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="311" end="321" text="20/01/2013" TYPE="FECHAS" comment=""/>
+    <ID id="T10" start="355" end="362" text="8567589" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T9" start="372" end="396" text="Gracia Álvarez Fernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="404" end="415" text="30 30 57256" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="447" end="452" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="456" end="463" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1529" end="1553" text="Gracia Álvarez Fernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1577" end="1619" text="Hospital General Universitario Santa Lucía" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1620" end="1646" text="Mezquita, Paraje Los Arcos" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1647" end="1652" text="30202" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1654" end="1663" text="Cartagena" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1665" end="1671" text="Murcia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1680" end="1704" text="alvarez.gracia@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

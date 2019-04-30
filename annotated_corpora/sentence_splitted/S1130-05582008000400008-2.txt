@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Marc.
+Apellidos: Romero Saez.
+NHC: 94646874.
+Domicilio: Av. Beniarda, 13.
+Localidad/ Provincia: Hellín, Albacete.
+CP: 31001.
+Datos asistenciales.
+Fecha de nacimiento: 31/05/1977.
+País: España.
+Edad: 76 años  Sexo: M.
+Fecha de Ingreso: 0/10/2017 .
+Servicio: Medicina Interna.
+Episodio: 3373153.
+Médico: Ángel Muñoz Morente   NºCol: 08 08 57910.
+Varón de 40 años ingresado con fractura de ángulo mandibular izquierdo y cuerpo mandibular derecho asociada a una larga lesión radiolúcida. Esta fue enucleada por vía intraoral al igual que las raíces dentarias asociadas, seguido de estabilización de fragmentos mediante bloqueo intermaxilar utilizando ligaduras Ivy. La histología confirmó su naturaleza de quiste radicular.
+
+Dirección para correspondencia: Dr. L. Córdova Jara Facultad de Odontología. Universidad de Chile Calle Olivos 943, Independencia, Santiago de Chile. Email: luiscordovajara@vtr.net

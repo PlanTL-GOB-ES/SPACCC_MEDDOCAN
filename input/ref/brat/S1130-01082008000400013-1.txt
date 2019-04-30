@@ -1,0 +1,20 @@
+Nombre:  Juan José.
+Apellidos: Sanchez Fernandez.
+NHC: 24564.
+NASS: 87 98236589 04.
+Domicilio: Calle Gamazo, 16.
+Localidad/ Provincia: Valladolid.
+CP: 47004.
+Datos asistenciales.
+Fecha de nacimiento: 17/05/1985.
+País: España.
+Edad: 33 años Sexo: H.
+Fecha de Ingreso: 21/05/2018.
+Servicio: Urgencias.
+Episodio: 48654543.
+Médico: Carlos Ruiz-Zorrilla López  NºCol:47 28 65123.
+Historia Actual: Varón de 33 años sin antecedentes de interés y sin historia familiar conocida de trombosis que acude a urgencias por un cuadro de dolor abdominal difuso intermitente de varios días de evolución con sensación nauseosa y algún vómito alimenticio-bilioso.
+Exploración física: En la exploración física destacó un dolorimiento difuso a la palpación abdominal sin signos de irritación peritoneal. 
+Resumen de pruebas complementarias: Los datos analíticos más relevantes fueron: glucosa 84 mg/dl, urea 30 mg/dl, creatinina 0,9 mg/dl, amilasa 29 U/l, láctico-dehidrogenasa 241 U/l, aspartato-aminotransferasa 26 U/l, bilirrubina total 0,9 mg/dl, proteína C reactiva 4,1 mg/dl, hemoglobina 14,4 mg/dl, plaquetas 301.000 mm3, leucocitos 6.700 mm3, actividad de protrombina 85%, fibrinógeno 518 mg/dl y dímero-D 5.871 ng/ml. Una ecografía abdominal demostró una vena porta de calibre aumentado (1,6 cm de diámetro), con ausencia de flujo en su interior en el estudio doppler. Una tomografía computerizada abdominal demostró una trombosis de la vena porta y de la vena mesentérica superior, sin otras alteraciones. El paciente recibió tratamiento con enoxaparina (1 mg/kg cada 12 horas) durante 10 días, con una evolución favorable, continuando posteriormente tratamiento con acenocumarol. El estudio de trombofilia identificó una heterocigosis para la mutación G20210A del gen de la protrombina, siendo normales o negativos el factor V de Leiden, la resistencia a la proteína C activada, el anticoagulante lúpico, los anticuerpos anticardiolipina IgG e IgM, las proteínas C y S, la antitrombina y la homocisteína plasmática. 
+Evolución y comentarios: Una angiorresonancia realizada 10 meses después demostró la existencia de una esplenomegalia de 15 cm y una vena porta de calibre aumentado pero permeable con transformación cavernomatosa (con pequeños vasos colaterales periportales). Una endoscopia digestiva oral realizada 14 meses después del cuadro inicial fue normal. Tras 15 meses de seguimiento en tratamiento con acenocumarol, el paciente permanece asintomático.
+Remitido por: Dr. Carlos Ruiz-Zorrilla López, Servicio de Nefrología, Hospital Universitario Río Hortega, Valladolid, España E-mail: carlosruizzorrilla@hotmail.com

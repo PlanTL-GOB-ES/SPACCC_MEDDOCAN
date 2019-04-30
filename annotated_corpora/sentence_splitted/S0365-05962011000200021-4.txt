@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Sara.
+Apellidos: Gonzalez Pedroza.
+NHC: 7356284.
+NASS: 34 98675816 01.
+Domicilio: Av. embajadores 23, 5D.
+Localidad/ Provincia: Ciudad Real.
+CP: 1089.
+Datos asistenciales.
+Fecha de nacimiento: 14/04/2014.
+País: España.
+Edad: 6 años  Sexo: M.
+Fecha de Ingreso: 23/10/2017.
+Médico: Victor Manuel Asensio Sánchez 
+Niña de 3 meses con lesión eritematosa en antifaz, pequeñas placas redondeadas, ligeramente atróficas en región temporooccipital bilateral y cuello y finas telangiectasias en su superficie. En región genital, lesión eritematosa, atrófica, de bordes definidos de 2 meses de evolución.
+
+Madre con alopecia cicatrizal, ojo seco, boca seca y anemia, sin diagnóstico de su enfermedad al momento de la consulta.
+Exámenes complementarios: Hb 11,2g/dl, Hto 33%, TGO 265 UI/L, TGP 212 UI/L, FAL 927 UI/L, C3 54 mg/dl, C4 2 mg/dl, FAN + 1/1000 patrón moteado grueso y anti La positivo (paciente), FAN + 1/2000 patrón homogéneo y anti La y anti Ro positivos (madre)
+Estudio histopatológico: capa córnea engrosada, epidermis adelgazada, intensa vacuolización de queratinocitos basales, en dermis infiltrado mononuclear difuso. Membrana basal engrosada. IFD negativa.
+
+Valoración cardiológica normal.
+Tratamiento: Hidrocortisona 1% tópico, Pimecrolimus 1%. Desaparición de las lesiones eritematosas a los 15 días y persistencia de lesiones atróficas con puntillado petequial en cuero cabelludo, normalizando las enzimas hepáticas a los 10 meses de vida.
+Luego, a la madre de la paciente se le realizó diagnóstico de Síndrome (Sme.) de Sjögren.
+
+Dirección para correspondencia: Maria Fernanda Perez Godoy Cruz 3150 3 C Ciudad autónoma de Buenos Aires. Argentina. 1425 E-mail: mfperez@fibertel.com.ar

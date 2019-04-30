@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Mateo.
+Apellidos: Simón Garcia.
+NHC: 7856231.
+Domicilio: Av. del Ejército 8, 4 Izq..
+Localidad/ Provincia: Arganda del Rey, Madrid.
+CP: 28500.
+Datos asistenciales.
+Fecha de nacimiento: 10/06/2010.
+País: España.
+Edad: 5 años Sexo: H.
+Fecha de Ingreso: 28/09/2018.
+Servicio: Atencion primaria.
+Médico: Raquel Plácido Paias  NºCol: 28 28 56324.
+Informe clínico del paciente: Niño de cinco años derivado por su pediatra de Atención Primaria para estudio por deformidad craneal frontoparietotemporal derecha que se había hecho más evidente en los últimos meses. Había presentado vómitos ocasionales con los malos olores, de un año de evolución, y cefalea acompañada de sonofobia y fonofobia, de frecuencia variable e intensidad leve que nunca le había despertado por la noche desde los tres años y medio. La exploración neurológica fue normal (incluido el fondo de ojo), excepto la macrocefalia con 55 cm de perímetro cefálico (>percentil 99).
+El único antecedente familiar significativo es un QA frontal izquierdo intervenido en el abuelo paterno.
+Nacido de embarazo controlado, con ecografías prenatales normales y parto eutócico sin complicaciones. No tenía otros antecedentes personales de interés. El desarrollo psicomotor fue normal, con marcha libre a los 13 meses, lenguaje y sociabilidad adecuada a la edad, y está escolarizado con dificultades de aprendizaje de la lectoescritura.
+En la TC cranealse visualiza un QA de gran tamaño en la fosa craneal media derecha con desplazamiento de la línea media y colapso de las astas ventriculares adyacentes, que se confirma en RM craneal mostrando en la región frontoparietotemporal derecha un contenido hipointenso en secuencias de T1 e hiperintensas en T2; que no se modifica tras el contraste con gadolinio.
+Se deriva a Neurocirugía, donde se monitorizan las presiones intracraneales con un sensor epidural neumático, mediante trépano frontal precoronal, encontrando patológicas solo las nocturnas. Ante una hipertensión intracraneal crónica, se decide tratamiento con cistocisternostomía, comunicando el QA con la cisterna óptico-carotídea, mediante endoscopio angulado 30° y un catéter con doble balón de ventriculostomía, para favorecer la comunicación de los espacios y la circulación libre del LCR.
+Remitido por: Dra. Raquel Plácido Paias Email: raquelpaias@gmail.com Hospital del Sureste Ronda del Sur, 10, 28500 Arganda del Rey, Madrid
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="8" end="13" text="Mateo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="26" end="38" text="Simón Garcia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="45" end="52" text="7856231" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T21" start="65" end="91" text="Av. del Ejército 8, 4 Izq." TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="115" end="130" text="Arganda del Rey" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="132" end="138" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="144" end="149" text="28500" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="193" end="203" text="10/06/2010" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="211" end="217" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="225" end="231" text="5 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="238" end="239" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="259" end="269" text="28/09/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="308" end="328" text="Raquel Plácido Paias" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="337" end="348" text="28 28 56324" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="380" end="384" text="Niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="388" end="398" text="cinco años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="1036" end="1050" text="abuelo paterno" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="2281" end="2301" text="Raquel Plácido Paias" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T6" start="2309" end="2330" text="raquelpaias@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T5" start="2331" end="2351" text="Hospital del Sureste" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2352" end="2369" text="Ronda del Sur, 10" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2371" end="2376" text="28500" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2377" end="2392" text="Arganda del Rey" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2394" end="2400" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

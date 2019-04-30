@@ -1,0 +1,26 @@
+Nombre:  Marc.
+Apellidos: Jimenez Diez.
+NHC: 5276432.
+NASS:23 45896345 78.
+Domicilio: Travessera de les Corts, 279 4D.
+Localidad/ Provincia: Barcelona.
+CP: 08014.
+Datos asistenciales.
+Fecha de nacimiento: 13/07/1972.
+País: España.
+Edad: 45 años Sexo: H.
+Fecha de Ingreso: 10/09/2017.
+Médico: Ramón Alcubierre NºCol: 08 08 64855.
+Motivo de ingreso:dolor ocular bilateral, fotofobia intensa y disminución de la agudeza visual (AV).
+Historia Actual:Paciente de 45 años con dolor ocular bilateral, fotofobia intensa y disminución de la agudeza visual (AV), quince días antes había sido diagnosticado de queratoconjuntivitis probablemente adenovírica, en tratamiento con colirios de tobramicina (Tobrex, Alcon Cusi, Barcelona) y ciclopentolato clorhidrato (Cicloplegic, Llorens, Barcelona). Refiere escozor, fotofobia y enrojecimiento de 3 meses de evolución, concomitante con astenia, caquexia y pérdida de 16 kilogramos (kg) de peso.
+Se ingresa para iniciar estudio y comenzar tratamiento con prednisona oral 1 mg/kg/día (Dacortin 30 mg, Merck, Barcelona), doxiciclina oral 100 mg/12 h (Vibracina 100, Pfizer, Madrid), colirios de atropina1%/8 h (Atropina 1%, Alcon Cusí), tobramicina y dexametasona/4 h (Tobradex, Alcon Cusí) y carmelosa sódica 0,5/h (Viscofresh 0,5%, Allergan, Madrid).
+Siete días después desapareció el hifema, apareciendo un nivel de hipopión en OI, por lo que se asociaron colirios de vancomicina a concentración de 50 mg/ml/h (Diatracin Inyectable 500 mg, Lilly y Dista, Madrid), y de gentamicina 14 mg/ml/h (Gevramycin 40 mg inyectable, Schering-Plough, Madrid), con cultivos corneales negativos para bacterias, hongos, virus y parásitos. Se realizó una excisión conjuntival superior OD diagnóstico-terapéutica, que descartó lesiones vasculíticas o la presencia de virus herpes simple (VHS 1 y 2) por inmunohistoquímica, mostrando una intensa acantosis y una ausencia de las células caliciformes.
+Antecedentes:Entre sus antecedentes personales destacan una pancreatitis crónica alcohólica, diabetes mellitus no insulinodependiente, hábito tabáquico y una colecistostomía con derivación percutánea realizada 11 meses antes. Entre los antecedentes oftalmológicos, destacan la excisión de pterigión en el OD asociado a betaterapia 5 años antes y un injerto lamelar esclerocorneal posterior por un traumatismo.
+Exploración física: En la exploración presenta una AV de cuenta dedos (cd) a 3 metros en el OD y de percepción y proyección de luz en el OI. El OD muestra una intensa inyección vascular, edema epitelial microquístico, queratitis ulcerativa periférica (QUP) superior, tyndall de 4 cruces y una sinequia posterior, con presión intraocular (PIO) de 16 mmHg y fondo de ojo (FO) no relevante. El OI presenta una inyección muy severa de la vascularización conjuntival, ciliar y epiescleral, pannus 360º, pterigión, una úlcera corneal central con necrosis estromal, nivel de hifema que ocupa la mitad de la cámara anterior (CA) y sinequias posteriores 360º, con PIO de 26 mmHg y FO inexplorable. La sensibilidad corneal es normal en ambos ojos (AO).
+Resumen de pruebas complementarias: 
+La exploración sistémica descartó cualquier signo de afectación reumática, con serología de enfermedades infecciosas y marcadores de enfermedades reumáticas y vasculitis negativos, salvo una proteína C reactiva y velocidad de sedimentación globular elevadas. En la analítica destacó una anemia macrocítica e hipocrómica, un patrón de desnutrición lipoproteica severa, hiperglucemia y elevación de las enzimas hepáticas. Los estudios de malabsorción revelaron una malabsorción leve y una disminución de las vitaminas liposolubles [vitamina A: 0,24 mg/ml (microgramos/mililitro) (N:0,4-0,8)], y de las proteínas transportadoras de la vitamina A [proteína ligadora de retinol (RBP) y prealbúmina].
+La radiografía tórax, la tomografía axial computerizada (TAC) craneal y tóraco-abdominal fueron normales. En el TAC orbitario se apreció un engrosamiento mucoso del seno maxilar derecho con exploración otorrinolaringológica normal. La ecografía ocular descarta la afectación vítreo-retiniana del OI.
+Evolución y comentarios: La evolución fue favorable, con resolución del cuadro AO a los 2 meses y una AV de 1 OD y de cd a 1 m OI. El OI presenta un leucoma central limitado inferiormente por una queratopatía lipídica y sinequias posteriores, que siguen impidiendo ver el FO.
+Diagnóstico Principal: desnutrición calórico-proteica con déficit de vitamina A
+Tratamiento: dieta hiperproteica e hipercalórica sin azúcar, enzimas pancreáticas y vitaminas por vía oral.
+Remitido por: Dr. Ramon Alcubierre. Correo electronico: Alcubierre@bellvitgehospital.cat (R.)

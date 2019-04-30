@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Pedro.
+Apellidos: De Miguel Rivera.
+NHC: 2569870.
+Domicilio: Calle Carmen Romero, 23, 1D.
+Localidad/ Provincia: Madrid.
+CP: 28035.
+Datos asistenciales.
+Fecha de nacimiento: 10/10/1963.
+País: España.
+Edad: 53 años Sexo: H.
+Fecha de Ingreso: 17/06/2016.
+Médico: Estefanía Romero Selas  NºCol: 28 28 20943.
+Informe clínico del paciente: varón de 53 años sin antecedentes de interés que ingresa procedente de urgencias con un cuadro de tromboembolismo pulmonar.
+Ante la sospecha de neoplasia oculta y la presencia de hematuria no evidenciada previamente se procede a la realización de Ecografía abdominal donde se evidencia una masa renal derecha y se completa el estudio con TAC y RM..
+Ambos estudios confirman la presencia de una tumoración heterogénea que infiltra los dos tercios inferiores del riñón derecho de aproximadamente 10x10 cms. con afectación del seno e hilio renal objetivándose también trombosis tumoral de la vena renal derecha y cava infrahepática. No se evidenciaban adenopatías ni metástasis.
+Es intervenido quirúrgicamente realizándosele por vía anterior, una nefrectomía radical con cavotomía para la exéresis del trombo y una extensa linfadenectomía aorto-cava derecha.
+El resultado anatomo-patológico fue de carcinoma de células renales claras grado 2 de Fuhrman de 9 cm. con invasión de hilio renal, grasa perinéfrica y vena renal, sin afectación metastásica de ganglios ni de los bordes de dicha grasa ni del hilio, así como uréter libres. (Estadio III, T3N0M0). El paciente fue dado de alta hospitalaria al sexto día.
+A los 3 meses de la intervención el paciente refiere leve dolor e induración en el pene de reciente aparición. A la palpación se objetiva una masa indurada.
+Se le realiza RM de pelvis que nos informa de la existencia de una masa que ocupa y expande el cuerpo cavernoso izquierdo, compatible con metástasis de carcinoma renal previo..
+Se toma biopsia de dicha lesión, cuyo resultado nos confirma la sospecha evidenciándose en los cortes histológicos nidos aislados de células tumorales compatibles con metástasis de carcinoma de células claras.
+Ante este diagnóstico, nos planteamos cuál sería la mejor actitud terapéutica para el paciente, y tuvimos en cuenta para ello, el incremento progresivo del dolor local, la edad del paciente y su buen estado general. Por ello, se optó por una penectomía total hasta confirmar intraoperatoriamente un borde quirúrgico libre de enfermedad.
+Una semana después del alta ingresa en el servicio de Oncología con un cuadro de obnubilación y alteración motora y sensitiva, y presenta en el TC craneal lesiones en cerebelo y hemisferio cerebral derecho compatible con metástasis. Se realiza un TC torácico y aparecen también múltiples nódulos pulmonares y microadenopatías paratraqueales bilaterales en relación con metástasis.
+El paciente fallece a los nueve meses de la primera intervención de su carcinoma renal, es decir seis meses después del diagnóstico de las metástasis en pene.
+Remitido por: Dra. Estefanía Romero Selas. Email: eromeroselas@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="29" end="34" text="Pedro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="47" end="63" text="De Miguel Rivera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="70" end="77" text="2569870" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T14" start="90" end="117" text="Calle Carmen Romero, 23, 1D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="141" end="147" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="153" end="158" text="28035" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="202" end="212" text="10/10/1963" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T8" start="220" end="226" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="234" end="241" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="248" end="249" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="269" end="279" text="17/06/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="289" end="311" text="Estefanía Romero Selas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="320" end="331" text="28 28 20943" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T2" start="363" end="368" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="372" end="379" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="3011" end="3033" text="Estefanía Romero Selas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3042" end="3063" text="eromeroselas@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Alvaro.
+Apellidos: Guillen Gomez.
+NHC: 7803410.
+NASS: 70 33744569 30.
+Domicilio: P/ de Llanos, 23.
+Localidad/ Provincia: Murcia.
+CP: 30512.
+Datos asistenciales.
+Fecha de nacimiento: 21/11/1982.
+País: España.
+Edad: 34 años Sexo: H.
+Fecha de Ingreso: 04/07/2016.
+Médico: Mariano Valdés Mas NºCol: 30 30 25896.
+Informe clínico del paciente:Varón de 34 años que consultó por dolor con parestesias en el borde cubital de la mano y dedos cuarto y quinto derechos de dos semanas de evolución, después de un campeonato de tenis.
+Presentaba edema difuso en cara volar de la zona cubital de la muñeca y mano, con Tinnel positivo sobre el pisiforme.
+La radiología y la ecografía fueron normales. Tras infiltrarle un corticoide con anestésico local, fue inmovilizado con muñequera en posición neutra. El estudio neurofisiológico mostró una neuropatía compresiva del nervio cubital en el canal de Guyon. El paciente recibió tratamiento sintomático con crioterapia, ortesis, analgésicos complejo vitamínico B y fisioterapia.
+En la Tomografía Axial Computerizada (TAC) de muñeca, solicitada por persistencia de dolor a los nueve meses, mostró una pseudoartrosis de la apófisis unciforme del ganchoso, con fragmento de gran tamaño. Fue intervenido mediante abordaje palmar, disección de paquete neurovascular cubital, cruentado del lecho de pseudoartrosis y osteosíntesis con dos tornillos de titanio de 1.5mm de diámetro Compact Hand (Synhes®).
+Mantuvo una férula antebraquial, incluyendo los dedos, durante tres semanas, al cabo de las cuales comenzó la fisioterapia.
+A los cuatro meses de la cirugía, el paciente estaba libre de síntomas, salvo hipoestesia del cuarto dedo, con movilidad completa, fuerza recuperada y reincorporación a su actividad laboral (de fuerza) y deportiva.
+La TAC a los dos meses, y la radiografía a los tres, mostraron una fusión parcial. Una nueva TAC a los cuatro meses demostró la unión completa.
+Remitido por: Dr. Mariano Valdés Mas. Unidad de Hepatología. Hospital Universitario Virgen de la Arrixaca. Ctra. Madrid-Cartagena, s/n. 30120 El Palmar, Murcia. e-mail: marianovaldesmas@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="34" text="Alvaro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="60" text="Guillen Gomez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="67" end="74" text="7803410" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="82" end="96" text="70 33744569 30" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="109" end="125" text="P/ de Llanos, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="149" end="155" text="Murcia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="161" end="166" text="30512" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="210" end="220" text="21/11/1982" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="228" end="234" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="242" end="249" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="256" end="257" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="277" end="287" text="04/07/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="297" end="315" text="Mariano Valdés Mas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="323" end="334" text="30 30 25896" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="365" end="370" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="374" end="381" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1959" end="1977" text="Mariano Valdés Mas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2002" end="2046" text="Hospital Universitario Virgen de la Arrixaca" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2048" end="2075" text="Ctra. Madrid-Cartagena, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2077" end="2082" text="30120" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2083" end="2092" text="El Palmar" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2094" end="2100" text="Murcia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2110" end="2135" text="marianovaldesmas@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

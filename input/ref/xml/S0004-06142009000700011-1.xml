@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Clemente.
+Apellidos: Massotti Fernandez.
+CIPA: nhc-786159.
+NASS: 23 79134652 89.
+Domicilio:  Avenida de la Marina nº2A. .
+Localidad/ Provincia: A Coruña.
+CP: 15001.
+NHC: 786159.
+Datos asistenciales.
+Fecha de nacimiento: 23-febrero-1931.
+País: España.
+Edad: 85 Sexo: H.
+Fecha de Ingreso: 27-octubre-2016.
+Especialidad: Urología.
+Médico: Luis Busto Castañón NºCol:01 15 13642.
+Historia Actual: varón de 85 años, con antecedentes de adenocarcinoma de próstata tratado con análogos de la LHRH, manteniendo un adecuado control bioquímico de la enfermedad, y que consulta por un cuadro de 2 meses de evolución consistente en aumento de tamaño de hemiescroto izquierdo, estando ausentes el dolor, la fiebre u otra clínica.
+Exploración física: A la exploración física, se objetiva un hemiescroto izquierdo mayor de lo normal, a tensión, con una masa que impide identificar el testículo izquierdo.
+Resumen de pruebas complementarias: Se solicitaron análisis de sangre, comprobándose beta-HCG y alfafetoproteína dentro de los rangos de referencia, y ecografía escrotal, informada como: "gran masa quística a nivel de escroto izquierdo, de 10x8,3 cm., que comprime y desplaza el testículo, compatible con un gran quiste dependiente del epidídimo, aunque no se puede descartar otras posibilidades, como cistoadenoma". Con los datos clínicos, y valorando los diagnósticos diferenciales y la situación del paciente, se le oferta orquiectomía bilateral, la derecha subalbugínea y la izquierda inguinal, que acepta.
+La pieza quirúrgica tenía un peso de 550 g., medía 11x11x9 cm. y presentaba una coloración parduzco-hemorrágica; al corte se evidenció una cavidad quística que comprimía el parénquima testicular.
+Evolución y comentarios: El estudio patológico microscópico, incluyó secciones de pared de quiste y del resto del teste y reveló una lesión quística tapizada de epitelio plano, con zonas de ulceración, hemorragia y tejido necrótico; el parénquima testicular tenía intensos signos de atrofia, fibrosis y congestión vascular, con una ausencia casi total de células germinales en los túbulos seminíferos.
+Diagnóstico: El diagnóstico anátomo-patológico fue: quiste testicular benigno compatible con dilatación quística de la rete testis.
+Remitido por: Dr: Luis Busto Castañón. Hospital San Rafael La Coruña. Email: lbman@urologiabusto.com Teléfono:981 221 822
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="8" end="16" text="Clemente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="29" end="47" text="Massotti Fernandez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="59" end="65" text="786159" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="73" end="87" text="23 79134652 89" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="101" end="126" text="Avenida de la Marina nº2A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="152" end="160" text="A Coruña" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="166" end="171" text="15001" TYPE="TERRITORIO" comment=""/>
+    <ID id="T14" start="178" end="184" text="786159" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="228" end="243" text="23-febrero-1931" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="251" end="257" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="265" end="267" text="85" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="274" end="275" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="295" end="310" text="27-octubre-2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="344" end="363" text="Luis Busto Castañón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="370" end="381" text="01 15 13642" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="400" end="405" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T5" start="409" end="416" text="85 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="2256" end="2275" text="Luis Busto Castañón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="2277" end="2306" text="Hospital San Rafael La Coruña" TYPE="HOSPITAL" comment=""/>
+    <CONTACT id="T2" start="2315" end="2338" text="lbman@urologiabusto.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T1" start="2348" end="2359" text="981 221 822" TYPE="NUMERO_TELEFONO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

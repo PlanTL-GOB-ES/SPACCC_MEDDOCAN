@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Sancha.
+Apellidos: Pinell Castillo.
+NHC: 3082365.
+NASS: 83 56740786 47.
+Domicilio: C/ Monforte de Lemos, 129, 2 A.
+Localidad/ Provincia: Marbella.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 13/05/1953.
+País de nacimiento: México.
+Edad: 4 años  Sexo: M.
+Fecha de Ingreso: 30/11/2013.
+Servicio: AP.
+Médico: Francisco Javier Repáraz Padrós   NºCol: 50 50 57970.
+Mujer de 62 años, diestra, hipertensa y tabáquica que consultó por disartria y debilidad del hemicuerpo izquierdo de 2 h de evolución. Ingresó con un índice NIHSS (National Institute of Health Stroke Scale), con TC cerebral normal. Se indicó trombolisis endovenosa, suspendida por epistaxis. La inmediata AngioTAC de cerebro permitió definir oclusión en el segmento M1 de la ACM derecha. Se procedió a trombectomía mecánica logrando una revascularización satisfactoria (TICI 3). Al tercer día mantenía los ojos cerrados, aparentemente dormida, estimulada intenta abrir los ojos sin lograrlo. Tenía preservado el lenguaje y estaba orientada. La elevación mecánica de los párpados mostró oculomotilidad voluntaria y refleja normales. Al día siguiente se observó apertura ocular impersistente y asimétrica, ptosis mayor a izquierda. La PC se recuperó al noveno día con apertura completa y persistente.
+Dirección para correspondencia: Serafín García Mata Servicio de Cirugía Ortopédica y Traumatología Hospital Virgen del Camino Pamplona. España E-mail: sgarcima@cfnavarra.es

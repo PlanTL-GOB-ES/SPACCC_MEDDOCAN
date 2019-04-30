@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Martin.
+Apellidos: Araguaney Robles.
+NHC: 3745685.
+NASS:65 67557465 71.
+Domicilio: calle de Virués, 6, 8D.
+Localidad/ Provincia: Valencia.
+CP: 46002.
+Datos asistenciales.
+Fecha de nacimiento: 15/05/1953.
+País: España.
+Edad: 64 años Sexo: H.
+Fecha de Ingreso: 27/11/2017.
+Servicio:Urgencias.
+Episodio: 546753467.
+Médico: José Ferrando Marco NºCol: 46 46 85023.
+Motivo de ingreso: Varón de 64 años ingresado a través del servicio de urgencias por presentar ictericia, coluria y acolia progresiva.
+Antecedentes: antecedentes personales de diabetes mellitus insulindependiente, dislipemia y cólicos renales de repetición. Refería diarrea, con episodios de esteatorrea, síndrome constitucional y epigastralgia de dos meses de evolución. 
+Exploración física: A la exploración física mostraba buen estado general, afebril, normohidratado y con ictericia cutáneo-mucosa. En la exploración abdominal se palpaba la vesícula biliar, con molestias a dicho nivel y sin signos de peritonismo, el resto del abdomen era anodino. 
+Resumen de pruebas complementarias: Analíticamente presentó una hiperbilirrubinemia de 17 mg/dl, con aumento de FFAA (2522 U/l) y γGT (107 U/l). No leucocitosis. Los marcadores de hepatitis vírica eran negativos y existía una elevación del CEA (7,6 ng/dl). La aFP y el CA19.9 fueron normales. La ecografía mostró una dilatación mínima de la vía biliar intrahepática y discreta del colédoco; la vesícula biliar era hidrópica y sin litiasis. Se apreciaba una masa redondeada hipoecoica en cabeza de páncreas de aproximadamente 2 cm, que no se confirmó en el TAC, el cual como información adicional describía dilatación del conducto de Wirsung y ausencia de adenopatías. La colangiorresonancia mostró hallazgos similares con sospecha clínica de ampuloma que no se evidenciaba en la gastroscopia, siendo esta rigurosamente normal. Con el diagnóstico de ictericia obstructiva de probable origen maligno, se intervino quirúrgicamente a la semana del ingreso, comprobándose una masa en cabeza de páncreas de aspecto neoplásico, por lo que se realizó duodenopancreatectomía cefálica con preservación pilórica y pancreatogastrostomía.
+En el estudio anatomopatológico la pieza quirúrgica mostró dos áreas de aspecto tumoral, nítidamente diferenciadas. Una de 1 cm y de límites bien definidos en pared duodenal, y otra de bordes indefinidos de 3 cm en cabeza pancreática.
+En el examen microscópico, la tumoración duodenal estaba constituida por cordones de células poliédricas y uniformes que infiltraban los fascículos musculares de la pared. Mostraban núcleos con bajo grado de atipicidad y muy escasa actividad mitótica. La tumoración pancreática estaba formada por estructuras glandulares atípicas que llegaban a infiltrar pared duodenal y que estaban tapizadas por células columnares de núcleos muy atípicos y con elevado índice mitótico.
+Evolución y comentarios: Una vez orientado el diagnóstico. Para confirmar la distinta naturaleza de ambos tumores, se aplicaron técnicas inmunohistoquímicas. El inmunofenotipo resultante permitió diferenciar claramente ambos tumores, dado que el tumor duodenal fue negativo para CEA y positivo para cromogranina, STH y glucagón y el adenocarcinoma pancreático sólo fue positivo para el CEA.
+Tras discurrir el postoperatorio inmediato en UCI, el paciente fue trasladado a la planta de Cirugía donde se recuperó favorablemente y fue dado de alta a los 19 días de la intervención pasando a consulta de oncología. Se le administró una pauta de quimioterapia adyuvante a base gencitabina 1 g/m2, en cuatro ciclos, uno de siete semanas y tres de tres semanas intercalando una de descanso. Evolucionó bien los primeros meses pero inicia posteriormente un cuadro de dolor persistente en hipocondrio derecho, náuseas y vómitos. Dado que las exploraciones radiológicas son anodinas se reintervino nueve meses después de la primera intervención, confirmándose la recidiva neoplásica, que era irresecable. El paciente sufrió un progresivo deterioro del estado general y falleció 14 meses después de la primera intervención.
+Remitido por: Dr. José Ferrando Marco. Servicio de Anatomía Patológica. Hospital de Sagunto. C/ Ramón y Cajal, s/n. 46520 Puerto de Sagunto. Valencia. e-mail: ferrando_josmar@gva.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="15" text="Martin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="28" end="44" text="Araguaney Robles" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="51" end="58" text="3745685" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="65" end="79" text="65 67557465 71" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="92" end="114" text="calle de Virués, 6, 8D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="138" end="146" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="152" end="157" text="46002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="201" end="211" text="15/05/1953" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="219" end="225" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="233" end="240" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="247" end="248" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="268" end="278" text="27/11/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T10" start="310" end="319" text="546753467" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T9" start="329" end="348" text="José Ferrando Marco" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="356" end="367" text="46 46 85023" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="388" end="393" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="397" end="404" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="4086" end="4105" text="José Ferrando Marco" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="4140" end="4159" text="Hospital de Sagunto" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="4161" end="4182" text="C/ Ramón y Cajal, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="4184" end="4189" text="46520" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="4190" end="4207" text="Puerto de Sagunto" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4209" end="4217" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="4227" end="4249" text="ferrando_josmar@gva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

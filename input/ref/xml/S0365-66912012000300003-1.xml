@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Javier.
+Apellidos: Andamios Herrera.
+NHC: 7834652.
+NASS: 72 65710623 10.
+Domicilio: C/ Jacinto Benavente, 4, 3, D.
+Localidad/ Provincia: Madrid.
+CP: 28041.
+Datos asistenciales.
+Fecha de nacimiento: 19/10/1947.
+País de nacimiento: España.
+Edad: 69 años Sexo: H.
+Fecha de Ingreso: 10/07/2017.
+Médico: Pilar Méndez Cepeda NºCol: 28 28 13026.
+Informe clínico del paciente: Varón de 69 años de edad con antecedentes personales de LMA M1 (mieloblástica sin diferenciación), en remisión completa (RC) desde hace 11 meses tras tratamiento quimioterápico según protocolo PETHEMA-LAM 99. En febrero de 2008 ingresa por cuadro respiratorio catarral, con importante congestión nasal, sin respuesta a antibiótico. Presenta, a su vez, pápulas eritematosas en espalda, adenopatías supraclaviculares y submaxilares.
+El paciente es remitido por el hematólogo por presentar ojo rojo de dos días de evolución, sin otra sintomatología ocular. En la exploración presentaba una agudeza visual con corrección de 20/20 en OD y 18/20 en OI. Los reflejos, motilidad y tonometría oculares se encontraban dentro de la normalidad. En la biomicroscopía de polo anterior se observó en OD una lesión carnosa sobreelevada de color salmón en el tarso superior e inferior. En el OI se encontró una lesión similar en conjuntiva tarsal inferior. En el fondo de ojo no se apreciaron alteraciones.
+Se consideró la posibilidad de afectación leucémica de la conjuntiva por lo que se procedió a realizar una biopsia de la lesión. En el estudio histológico se observó una proliferación difusa de células de hábito mieloide dispuestas bajo el epitelio conjuntival, que mostraron positividad inmunohistoquímica para mieloperoxidasa y CD43, siendo negativas para marcadores de células B y T (CD20, CD3, CD5), así como para TdT, CD34 y CD117, por lo que se diagnosticó el caso como sarcoma granulocítico.
+Nuevas biopsias confirmaron la afectación de mucosa nasal y piel. Con estos hallazgos el diagnóstico fue de SM que afectaba a conjuntiva, piel y mucosa nasal. Sin embargo, no se observaba recaída en frotis de sangre periférica y en médula, por lo que se consideró que a este nivel persistía en RC. La punción lumbar así como el resto de exploraciones resultaron normales.
+Tras el diagnóstico de recidiva extramedular en forma de SM de la LMA, se inicia tratamiento de segunda línea según protocolo FLAG-IDA con buena respuesta de las lesiones infiltrativas. El paciente fallece en mayo de 2008, tres meses después del diagnóstico de SM, por un fallo multiorgánico.
+Responsable clínico: Dra. Pilar Méndez Cepeda. Correos Electrónicos: pmendezcepeda@gmail.com, pili.mendez.cepeda@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="34" text="Javier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="47" end="63" text="Andamios Herrera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="70" end="77" text="7834652" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="85" end="99" text="72 65710623 10" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="112" end="141" text="C/ Jacinto Benavente, 4, 3, D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="165" end="171" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="177" end="182" text="28041" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="226" end="236" text="19/10/1947" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="258" end="264" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="272" end="279" text="69 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="286" end="287" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="307" end="317" text="10/07/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="327" end="346" text="Pilar Méndez Cepeda" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="354" end="365" text="28 28 13026" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="397" end="402" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="406" end="413" text="69 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T5" start="609" end="624" text="febrero de 2008" TYPE="FECHAS" comment=""/>
+    <DATE id="T4" start="2467" end="2479" text="mayo de 2008" TYPE="FECHAS" comment=""/>
+    <NAME id="T3" start="2577" end="2596" text="Pilar Méndez Cepeda" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T2" start="2620" end="2643" text="pmendezcepeda@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T1" start="2645" end="2675" text="pili.mendez.cepeda@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

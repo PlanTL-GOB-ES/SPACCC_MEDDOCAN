@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Ernesto.
+Apellidos: Gonzalez Espinosa.
+NHC: 3897628.
+NASS: 26 63514095.
+Domicilio: Calle Melchor Fernandez 8, 13 B.
+Localidad/ Provincia: Bilbao.
+CP: 28002.
+Datos asistenciales.
+Fecha de nacimiento: 23/03/1942.
+País de nacimiento: España.
+Edad: 11 años  Sexo: M.
+Fecha de Ingreso: 08/05/2017 .
+Médico: Miguel Jiménez Peñalba  NºCol: 28 28 56320.
+Varón de 45 años, fumador de larga data. En mayo del año 2011 ingresa por cuadro de dolor torácico opresivo retroesternal con síntomas neurovegetativos, de inicio súbito y moderada intensidad. Presenta ECG evolutivo, principalmente por infradesnivel en precordiales izquierdas, y elevación enzimática. Ante el antecedente de alergia a la aspirina relatado por el paciente (eritema generalizado luego de dos dosis), se decide previo al estudio invasivo realizar protocolo de desensibilización, que se completa sin incidentes durante monitorización en Unidad Coronaria. Posteriormente, se realiza coronariografía que muestra lesión significativa en arteria circunfleja, que se trató con angioplastía e implante de stent.
+Evoluciona favorablemente sin complicaciones del procedimiento ni reacciones adversas a la aspirina mientras estuvo hospitalizado. Al cabo de 9 meses de seguimiento no ha presentado efectos adversos y se ha mantenido con buena adherencia a la terapia, sin angina y sin evidencias de HAAS.
+Dirección para correspondencia: Cristina Montero Fernández (monterofernandez.cristina@gmailcom)

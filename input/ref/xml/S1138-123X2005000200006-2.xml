@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Izan.
+Apellidos: Herrero de Pablo.
+NHC: 3847562.
+Domicilio: Calle Miraflores, 34.
+Localidad/ Provincia: Zaragoza.
+CP: 50232.
+Datos asistenciales.
+Fecha de nacimiento:24/12/2009.
+País: España.
+Edad: 8 años Sexo: H.
+Fecha de Ingreso: 06/06/2018.
+Médico: Concha Germán Bes NºCol: 50 50 98220.
+Informe clínico del paciente: Paciente con labio leporino y fisura palatina bilateral. La premaxila estaba protruida y rotada hacia la derecha, y los segmentos laterales se habían colapsado. Esta protrusión dificultaba la cirugía labial porque aumentaba la tensión de los tejidos blandos.
+Tras la toma de impresiones se diseñó un ECPR que se colocó bajo anestesia general. Los padres activaban el aparato en casa para lograr la expansión y una vez por semana nosotros modificábamos la tensión de las cadenetas para lograr la retrusión de la premaxila.
+Tras seis semanas la premaxila se había retruido y los segmentos estaban alineados con lo que pudo realizarse la queiloplastia con técnica de Mulliken.
+Remitido por: Concha Germán Bes. Facultad de Ciencias de la Salud. C/ Domingo Miral s/n, 50009 Zaragoza, España. cgerman@unizar.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="32" text="Izan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="45" end="61" text="Herrero de Pablo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="68" end="75" text="3847562" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="88" end="108" text="Calle Miraflores, 34" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="132" end="140" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="146" end="151" text="50232" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="194" end="204" text="24/12/2009" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="212" end="218" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="226" end="232" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="239" end="240" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="260" end="270" text="06/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="280" end="297" text="Concha Germán Bes" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="305" end="316" text="50 50 98220" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="695" end="701" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="1036" end="1053" text="Concha Germán Bes" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1055" end="1087" text="Facultad de Ciencias de la Salud" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="1089" end="1109" text="C/ Domingo Miral s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1111" end="1116" text="50009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1117" end="1125" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1127" end="1133" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1135" end="1152" text="cgerman@unizar.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

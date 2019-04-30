@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Marc .
+Apellidos: Orozca Puig.
+NHC: 7062827.
+NASS: 35 61051794 56.
+Domicilio: C/ Arnaiz, 4, 3 A.
+Localidad/ Provincia: Madrid.
+CP: 19002.
+Datos asistenciales.
+Fecha de nacimiento: 15/08/1944 .
+País: España.
+Edad: 22 años  Sexo: M.
+Fecha de Ingreso: 13/12/2017.
+Médico: Ricardo Cañones Zafra   NºCol: 02 02 54710.
+Paciente varón de 38 años de edad sin alergias conocidas, y antecedentes de exeresis de fibroma en la espalda, amidgalectomía y apendicectomía, que consulta por nódulo de consistencia dura en teste derecho de 3 meses de evolución sin signos inflamatorios asociados.
+Mediante estudio ecográfico se demuestra una lesión hipoecoica de 2 cm. de diámetro mayor. Los niveles séricos de testosterona y LH fueron normales. Los marcadores ALPHA-FP y BETTA-HCG fueron normales. No se apreciaron signos androgénicos. La radiografía de tórax y la T.A.C. no mostraron alteraciones significativas
+Se interviene practicándose orquiectomía radical vía inguinal y la pieza fue informada como un tumor de células de Leydig.
+
+Al tipificarse como T1N0M0 no recibió tratamiento posterior con quimioterapia ni radioterapia.
+Tras 5 años de seguimiento no se ha evidenciado recidiva.
+
+Dirección para correspondencia: José Antonio Cánovas Ivorra. Urbanización Montiboli 188 A-6 03570 Villajoyosa. Alicante. (España) jacanovas@hotmail.com.

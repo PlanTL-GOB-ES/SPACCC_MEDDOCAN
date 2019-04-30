@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Mario.
+Apellidos: Alvarez Hernandez.
+NHC: 5247894.
+NASS: 78 37346496 54.
+Domicilio: Calle de la aviacion española 63, 4 Izq.
+Localidad/ Provincia: Madrid.
+CP: 31080.
+Datos asistenciales.
+Fecha de nacimiento: 23/10/1948.
+País de nacimiento: España.
+Edad: 10 años  Sexo: H.
+Fecha de Ingreso: 20/12/2017.
+Médico: Remedios Toledo Rojas  NºCol: 02 28 57496.
+Varón de 63 años de edad, que presentaba tras resección de carcinoma escamocelular en ceja izquierda, un defecto alopécico de 3 x 4 cm. Realizamos reconstrucción de la subunidad de la ceja con un colgajo en isla temporal y posterior depilación láser para simetrización de ambas cejas.
+
+Dirección para correspondencia: Dra. Jennifer Gaona Silva Carrera 7 A No. 127 A 69 Apto 505 Bogota - Colombia j.gaona.s@gmail.com

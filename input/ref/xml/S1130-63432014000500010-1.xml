@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Leonor.
+Apellidos: Mejide Alvarado.
+NHC: 7982604.
+NASS: 43 76897467 38.
+Domicilio: Av. Estrecho, 34, 2, H.
+Localidad/ Provincia: Madrid.
+CP: 28004.
+Datos asistenciales.
+Fecha de nacimiento: 08/02/1957.
+País de nacimiento: España.
+Edad: 60 años Sexo: M.
+Fecha de Ingreso: 27/05/2017.
+Médico: Lourdes Gómez Rodríguez NºCol: 28 28 98746.
+Informe clínico del paciente: paciente con 60 años de edad, fumadora, diagnosticada de hipotiroidismo posablación tiroidea con yodo radiactivo y OG severa con neuropatía óptica bilateral, clasificándose según los criterios de Actividad Clínica (CAS) con una puntuación de 5 sobre 7: pseudofaquia en ambos ojos, punctata inferior OD, edema palpebral, hiperemia y quemosis conjuntival e hiperemia y edema de carúncula. También se midió la Agudeza Visual (AV), a pesar de no estar incluido en los criterios CAS para evaluar la capacidad del sistema visual, obteniendo una AV de 0.4 en Ojo Derecho (OD) y AV de 0.5 en Ojo Izquierdo (OI). La AV normal es igual a 1. Comenzó con los síntomas oculares 1 año antes del diagnóstico.
+El objetivo del tratamiento fue restablecer el eutiroidismo, dejar el hábito tabáquico y controlar la enfermedad mediante la administración de corticoides a dosis altas vía intravenosa intermitente (6 dosis de metilprednisolona 500 mg/semana, seguido de otras 6 dosis de metilprednisolona 250 mg/semana). A pesar de ello, se obtuvo escasa respuesta, por lo que fue necesario realizar descompresión orbitaria bilateral debido al empeoramiento de la AV.
+Sin embargo, la orbitopatía continuó progresando hasta alcanzar una AV de cuenta dedos en OD y AV menor a 0.05 en OI, siendo necesario realizar una segunda descompresión orbitaria.
+Al haber agotado todas las posibilidades terapéuticas, se solicitó a la Comisión de Farmacia y Terapéutica de nuestro hospital la autorización para el uso de Tocilizumab "off-label" en esta paciente. Después de obtener la autorización y el consentimiento informado correspondiente, se inició tratamiento con Tocilizumab intravenoso a dosis de 8 mg/ Kg de peso corporal, una vez cada 4 semanas, administrándose un total de 5 dosis.
+Tras 2 semanas desde el inicio del tratamiento, la paciente comenzó a mostrar una mejora en los signos y síntomas de la patología, tanto subjetivos como objetivos, siendo la AV en el OI en este momento igual a 0.05. A las 9 semanas continuó la mejoría, mostrando una AV en el OI igual a 0.1, casi sin signos de edema y eritema conjuntival y palpebral. A las 18 semanas la AV en el OI fue igual a 0.6 y tras 20 semanas de tratamiento la AV en el OI alcanzó el valor de 1 (AV normal). En el OD no pudo cuantificarse la mejoría en ese momento debido al estrabismo presente tras las descompresiones realizadas, quedando pendiente de intervención quirúrgica para solventar dicha patología.
+Tras 5 sesiones con Tocilizumab, la paciente se encuentra sin actividad inflamatoria y con una AV de 0,1 en OD y AV de 1 en OI sin presentar efectos adversos, con una puntuación CAS de 0 sobre 7.
+Responsable clínico: Dra. Lourdes Gómez Rodríguez. Correo electrónico: lou_hst15@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="28" end="34" text="Leonor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="47" end="62" text="Mejide Alvarado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="69" end="76" text="7982604" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T14" start="84" end="98" text="43 76897467 38" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T13" start="111" end="133" text="Av. Estrecho, 34, 2, H" TYPE="CALLE" comment=""/>
+    <LOCATION id="T12" start="157" end="163" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T11" start="169" end="174" text="28004" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T9" start="218" end="228" text="08/02/1957" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="250" end="256" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T7" start="264" end="271" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T5" start="278" end="279" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="299" end="309" text="27/05/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="319" end="342" text="Lourdes Gómez Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="350" end="361" text="28 28 98746" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T6" start="406" end="413" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="3058" end="3081" text="Lourdes Gómez Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3103" end="3124" text="lou_hst15@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

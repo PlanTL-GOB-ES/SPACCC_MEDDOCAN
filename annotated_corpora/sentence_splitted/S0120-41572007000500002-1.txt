@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Idoia.
+Apellidos: Higueras Patiño.
+NHC: 3173568.
+NASS: 13 80800902 84.
+Domicilio: Avda. Las Lomas, 4, 1 E.
+Localidad/ Provincia: Barcelona.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 15/06/1994.
+País de nacimiento: España.
+Edad: 20 años  Sexo: H.
+Fecha de Ingreso: 19/08/2010.
+Médico: Maria Isabel Fuente García  NºCol: 14 20 81536.
+Niña de seis meses, natural y procedente de zona rural del municipio de Puerto Guzmán, Putumayo, llevada a consulta por una lesión supurante en cuello presente desde el nacimiento, la cual no cedió con antibióticos. En el examen físico se encontró una lesión que sugería una fístula, según lo referido en la historia clínica. Con este diagnóstico se programó para cirugía. En exámenes prequirúrgicos se reportó la presencia de tripomastigotes de T. cruzi en extendido de sangre periférica. Se prescribió tratamiento etiológico con benzonidazol por 60 días. El diagnóstico fue confirmado mediante aislamiento, cultivo, isoenzimas, inoculación en ratón y PCR.
+Dirección para correspondencia: laurivillanueva@hotmail.com (L. Villanueva-Alcojol)

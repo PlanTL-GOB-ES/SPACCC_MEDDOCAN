@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Jaime.
+Apellidos: Miguel Aznar.
+NHC: 4765849.
+NASS: 37 56347560 15.
+Domicilio: C/ Buenafuente, 4, 10, A.
+Localidad/ Provincia: Santiago de Compostela.
+CP: 15706.
+Datos asistenciales.
+Fecha de nacimiento: 27/03/1989.
+País de nacimiento: España.
+Edad: 29 años Sexo: H.
+Fecha de Ingreso: 21/06/2018:.
+Médico: Fernando Lado Lóez  NºCol:15 15 34760.
+Informe clínico del paciente: varón de 29 años con antecedentes de dos ingresos por síndrome febril en los últimos dos años. En una ocasión, en junio de 1999 fue diagnosticado de mononucleosis infecciosa con serología positiva para VEB (VCA IgG, VCA IgM y EBNA positivas). En la otra, en septiembre de 2000 tras presentar cuadro clínico de 10 días de evolución de fiebre con escalofríos, astenia y malestar general con persistencia de serología positiva para VEB, y se apreció, en la ecografía abdominal el hallazgo de esplenomegalia con lesión hipoecoica que, tras responder favorablemente al tratamiento antibiótico (cobertura de amplio espectro), fue dado de alta con el diagnóstico de absceso esplénico. Desde entonces se mantuvo asintomático hasta que reingresó en junio de 2001 por un cuadro febril, de una semana de evolución, acompañado de escalofrios, cefalea, odinofagia y pérdida de peso, sin otra sintomatología acompañante. En la exploración física destacaba Tª 39 ºC, afectación del estado general, palidez cutáneo mucosa y esplenomegalia. En la analítica presentaba datos de anemia normocítica (Hb 11,9 g/dl, Hto 35,8% y VCM 91,8 fl), trombopenia (44.000 plaquetas/mm3), leucocitos normales (7.440/mm3) con neutrofilia (77%) y desviación izquierda (7%Cay), ligera elevación de transaminasas (GPT 48 UI/L) y enzimas de colestasis (GGT 88 UI/L, FA 232 UI/L). El resto de los parámetros bioquímicos, el estudio de la coagulación y el análisis elemental de orina fueron normales. El proteínograma, la determinación de inmunoglobulinas y el estudio inmunológico fueron normales. Se realizaron diversos estudios microbiológicos que incluyeron serologías de virus de la hepatitis (A, B y C), retrovirus (VIH-1 y 2), tifo-paratíficas, brucella, mycoplasma, legionella (con la determinación de antígeno en orina), herpes, CMV, y toxoplasma que fueron negativas. Los resultados de la serología para VEB fue de IgG anti VCA IgG e IgG antiEBNA positivas e IgM antiVCA negativa. El resto de estudios microbiológicos (hemocultivos, cultivos de esputo y urinocultivos, que abarcaron el estudio de mycobacterias) resultaron negativos. En las pruebas de imagen, concretamente en la TAC abdominal, se evidenció una lesión focal esplénica (que se relacionó con absceso o infarto), ganglios aumentados en número a nivel paraórtico y adenopatías mesentéricas. En otros estudios, los resultados (microbiológicos e histopatológicos) obtenidos de biopsia hepática y de médula ósea dieron negativos.
+Ante la sospecha diagnóstica inicial de absceso intraabdominal se inició tratamiento antibiótico con ceftazidima, metronidazol y vancomicina, evolucionando con leve mejoría clínica. Posteriormente, dados los antecedentes y el cuadro clínico comentado, y con el fin de descartar, entre otras posibilidades diagnósticas, un proceso linfoproliferativo, se procedió a la realización de laparotomía diagnóstica bajo anestesia general. En dicha intervención, se encontró una importante esplenomegalia, engrosamiento focal de la cápsula hepática de lóbulo hepático izquierdo, un pequeño nódulo peritoneal en el mesenterio del ileon distal así como múltiples y pequeñas adenopatías al mismo nivel obteniéndose muestras de todas ellas y efectuándose esplenectomía.
+El estudio histológico de los ganglios indicó una linfadenitis reactiva en los ganglios linfáticos, de granuloma calcificado en nódulo peritoneal y sin hallazgos relevantes en la muestra de lóbulo hepático izquierdo. La pieza de esplenectomía, que pesaba 442 gramos y medía 15 x 11 cm de diámetros mayores, presentaba un nódulo subcapsular de 2 cm. de diámetro mayor, homogéneo y blanquecino. El tejido esplénico restante era de aspecto congestivo sin mostrar patología alguna. El análisis microscópico fue revelador de una proliferación de células fusocelulares y miofibroblásticas, con positividad en los estudios inmunohistoquímicos para actina y negatividad para ALK 1 y VEB, siendo el diagnóstico anatomopatológico de pseudotumor inflamatorio del bazo. El paciente evolucionó de forma favorable permaneciendo, desde entonces, asintomático.
+Responsable clínico: Dr. Fernando Lado Lóez. Servicio de Medicina Interna. Hospital Clínico Universitario. 15706 Santiago de Compostela. A Coruña. e-mail: flladol@usc.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="33" text="Jaime" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="46" end="58" text="Miguel Aznar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="65" end="72" text="4765849" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="80" end="94" text="37 56347560 15" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="107" end="131" text="C/ Buenafuente, 4, 10, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="155" end="177" text="Santiago de Compostela" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="183" end="188" text="15706" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="232" end="242" text="27/03/1989" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="264" end="270" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="278" end="285" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="292" end="293" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="313" end="323" text="21/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="334" end="352" text="Fernando Lado Lóez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="360" end="371" text="15 15 34760" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="403" end="408" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="412" end="419" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="517" end="530" text="junio de 1999" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="661" end="679" text="septiembre de 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="1143" end="1156" text="junio de 2001" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="4489" end="4507" text="Fernando Lado Lóez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="4539" end="4569" text="Hospital Clínico Universitario" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="4571" end="4576" text="15706" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="4577" end="4599" text="Santiago de Compostela" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4601" end="4609" text="A Coruña" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="4619" end="4633" text="flladol@usc.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

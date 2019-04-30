@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Vicente.
+Apellidos: Lopez Requena.
+NHC: 7436834.
+NASS: 78 63457846 04.
+Domicilio: Av. Nicaragua, 45, 1 D.
+Localidad/ Provincia: Valencia.
+CP: 46021.
+Datos asistenciales.
+Fecha de nacimiento: 29/06/1963.
+País de nacimiento: España.
+Edad: 50 años Sexo: H.
+Fecha de Ingreso: 18/08/2013.
+Médico: Francisco Delgado Oliva  NºCol: 46 46 25700.
+Informe clínico del paciente: Varón de 50 años con antecedente de fijación en la columna lumbar por hernias discales, que presenta litiasis coraliforme en pelvis renal derecha escasamente radiopaca, con dilatación pielocalicial y retraso de la eliminación en la UIV. Se procede a administrar un tratamiento alcalinizante con citrato potásico (Acalka) a dosis de un comprimido cada 8 horas durante 3 meses y a la colocación de un catéter doble J derecho. Posteriormente se programan tres sesiones de litotricia extracorpórea con ondas de choque y se solicita UIV tras el tratamiento objetivando una anulación funcional de la unidad renal afecta a pesar de la colocación de catéter doble J.
+Para valorar el estado funcional del riñón derecho se realiza un renograma isotópico y gammagrafía renal con escasa captación isotópica del riñón derecho y curva plana y obstructiva tras la administración del diurético en el renograma. La función renal total del riñón derecho es del 9%.
+Se realiza una ureteroscopia derecha con anestesia para intentar filiar el origen de la anulación renal apreciando durante el procedimiento una estenosis ureteral lumbar e ilíaca de gran longitud (8-10 cm) sin litiasis apreciable. Se asciende guía estándar (Cordis, de 150 cm de largo y 0,90 mm de ancho con un revestimiento de politetrafluoroetileno) hasta riñón y se dilata repetidamente con balón neumático de alta presión (18 atmósferas) sin conseguir resolver la estenosis ureteral, dado que durante las dilataciones la guía de trabajo es arrastrada con el balón hasta una posición más distal se decide colocar además una guía de seguridad y se procede a ascenderla hasta la pelvis renal para evitar su desplazamiento. Una vez finalizados los intentos de dilatación ureteral se decide la colocación de un catéter doble J que asciende sin problemas por la guía de trabajo. Sin embargo al intentar retirar dicha guía se observa que el bucle intrapiélico ha formado un nudo que impide retirarla.
+En este momento se le plantean al paciente dos opciones terapéuticas: abordaje percutáneo para extracción del bucle o nefrectomía, dada la escasa funcionalidad del riñón derecho y la estenosis ureteral de gran longitud y difícil resolución con medidas conservadoras.
+El paciente adoptó por la segunda opción realizando nefrectomía derecha si incidencias operatorias significativas, y estando el paciente asintomático en sucesivas visitas a consulta externa.
+Responsable clínico: Dr. Francisco Delgado Oliva. Avda. del Puerto, 1-8º puerta 14 - 46021 Valencia E-mail: frandelgol@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="35" text="Vicente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="48" end="61" text="Lopez Requena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="68" end="75" text="7436834" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="83" end="97" text="78 63457846 04" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="110" end="132" text="Av. Nicaragua, 45, 1 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="156" end="164" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="170" end="175" text="46021" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="219" end="229" text="29/06/1963" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="251" end="257" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="265" end="272" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="279" end="280" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="300" end="310" text="18/08/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="320" end="343" text="Francisco Delgado Oliva" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="352" end="363" text="46 46 25700" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="395" end="400" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="404" end="411" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="2824" end="2847" text="Francisco Delgado Oliva" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2849" end="2881" text="Avda. del Puerto, 1-8º puerta 14" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2884" end="2889" text="46021" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2890" end="2898" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2907" end="2929" text="frandelgol@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

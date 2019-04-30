@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Roberto.
+Apellidos: Maeso Quezada.
+NHC: 5875874.
+NASS: 68 93835967 54.
+Domicilio: Calle de Averroes, 40.
+Localidad/ Provincia: Madrid.
+CP: 28007.
+Datos asistenciales.
+Fecha de nacimiento: 07/04/1952.
+País de nacimiento: España.
+Edad: 65 años Sexo: H.
+Fecha de Ingreso: 23/06/2017.
+Servicio: Cirugía Plástica y Reparadora.
+Episodio: 7892563.
+Médico: José María Lasso NºCol: 28 28 54710.
+Informe clínico del paciente: Varón de 65 años con mediastinitis producida por Stafilococcus aureus. Tras cirugía de reconstrucción aórtica con prótesis de Dacron®, presentó exposición de la misma a los 12 días de la intervención, con alto riesgo de diseminación de la infección local y posibilidad de rotura por desecación. Desde que se decidió la apertura de la herida quirúrgica, se hacían lavados con suero fisiológico cada 8 horas y curas con Sulfadiacina argéntica. El paciente precisó intubación continuada desde el día de la intervención, manteniendo estabilidad hemodinámica gracias al uso de drogas vasoactivas.
+Se decidió realizar restitución de la pared torácica con colgajos de músculo pectoral. Tras legrado de esternón en la línea media, se elaboró una ventana en el extremo superior del mismo, (margen izquierdo), a la altura de las costillas 3a y 4a, para envolver con el músculo pectoral izquierdo la prótesis aórtica. El músculo pectoral derecho se avanzó sobre el esternón una vez realizadas nuevas osteosíntesis con alambres y posteriormente cierre directo de los colgajos cutáneos. El paciente permaneció en la UCI durante 2 días con tratamiento antibiótico, y luego fue dado de alta a planta sin incidencias. Dos años después permanece asintomático.
+Responsable clínico: Dr. José María Lasso. Jefe de Sección de Microcirugía. Cirugía Plástica y Reparadora. Hospital Gregorio Marañón. Área 3400. Dr Esquerdo 46, 28007 Madrid. España.

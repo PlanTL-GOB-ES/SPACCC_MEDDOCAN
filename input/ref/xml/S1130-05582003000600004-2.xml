@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Renata.
+Apellidos: Zarate Cruz.
+NHC: 6758690.
+NASS: 43 75643964 56.
+Domicilio: Av. Diego de León, 13, 2, 1.
+Localidad/ Provincia: Madrid.
+CP: 28014.
+Datos asistenciales.
+Fecha de nacimiento: 27/08/1966.
+País de nacimiento: España.
+Edad: 38 años Sexo: M.
+Fecha de Ingreso: 13/01/2005.
+Médico: Juan Crestanello Nese NºCol: 28 28 62165.
+Informe clínico del paciente: Mujer blanca de 38 años de edad que, consultó en Septiembre de 2000, por asimetría y dolor facial. Presentaba una tumoración de crecimiento progresivo de hemimaxilar izquierdo de 9 meses de evolución. Al examen facial se observó, un aumento de volumen en región infraorbitaria izquierda, que elevaba levemente el párpado inferior. No presentaba desviación de la pirámide nasal, pero sí obstrucción subjetiva de la narina izquierda. El examen ocular no mostró alteraciones. El examen bucal se observó, caries en pieza 23 y obturaciones en piezas 21, 22, 24, 26 y 27 y ausencia de la pieza 25. Una gran masa de límites difusos, cubierta por mucosa sana, y eritematosa, deformaba el vestíbulo látero superior izquierdo. A la palpación, la lesión presentaba zonas crepitantes y otras blandas, era asintomática y presentaba límites netos. La masa, se extendía hacia palatino deformando levemente el reborde alveolar y la bóveda palatina. La rinoscopia anterior no mostró alteraciones del suelo o de las paredes nasales.
+La radiografía de Waters mostró una masa radiolúcida homogénea unilocular de 5 cm de diámetro mayor, que ocupaba todo el maxilar izquierdo, desplazando el seno maxilar y llegando hasta el reborde infraorbitario, de límites netos, pero no corticalizados.
+En la tomografía axial computerizada, se observó, una masa esférica, que se extendía desde el pilar canino o anterior hasta la apófisis pterigoides, que expandía y afinaba las corticales y en alguna zona las perforaba. Había destrucción del tabique intersinuso-nasal y compromiso del cornete inferior. Era una imagen radiolúcida con elementos radiopacos en su interior haciendo pensar en trabeculaciones.
+Se implementó el protocolo descrito anteriormente para el tratamiento de las LCG. La anestesia regional se realizó mediante un bloqueo del nervio maxilar superior izquierdo a través del agujero palatino posterior según la técnica de Carrea.19
+Se realizaron dos series de corticoides intralesionales. La primer serie, comenzó en septiembre de 2000 y culminó en octubre del mismo año. Luego, a mediados de diciembre de 2000 se realizó la 2ª serie, 2 meses después de la finalización de la 1ª. En esta segunda serie hubo un intervalo de 2 semanas en la que la paciente no recibió tratamiento ya que faltó a las citas marcadas por lo que se decidió realizarle las infiltraciones en su domicilio.
+En marzo de 2001, después de 2 meses de finalizada la 2ª serie y tras considerar que la lesión no iba a reducir más su tamaño se decidió realizar la enucleación bajo anestesia general mediante un abordaje bucal a través del vestíbulo superior. Macroscopicamente la lesión correspondió a una lesión fibrosa, encapsulada, no friable, no sangrante que fue fácilmente enucleada de la cavidad ósea.
+El diagnóstico histológico correspondió a una LCG. En la descripción de la anatomía patológica se destacó que la lesión era predominantemente fusocelular con sectores colagenizados y se observó además la presencia de trabéculas óseas y de osteoide revestidas por osteoblastos.
+En suma, la paciente recibió 12 infiltraciones de corticoides en 2 series y luego se le realizó la enucleación de la lesión. Desde el punto de vista clínico y radiográfico, a los 22 meses de seguimiento no hay evidencias de lesión residual o recurrencia.
+La paciente no presentó efectos adversos al tratamiento con corticoides.
+Responsable clínico: Dr. Juan Crestanello Nese Email: jpcresta@adinet.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="34" text="Renata" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="47" end="58" text="Zarate Cruz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="65" end="72" text="6758690" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="80" end="94" text="43 75643964 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="107" end="134" text="Av. Diego de León, 13, 2, 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="158" end="164" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="170" end="175" text="28014" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="219" end="229" text="27/08/1966" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="251" end="257" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="265" end="272" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="279" end="280" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="300" end="310" text="13/01/2005" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="320" end="341" text="Juan Crestanello Nese" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="349" end="360" text="28 28 62165" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="392" end="397" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T7" start="398" end="404" text="blanca" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="408" end="415" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T6" start="441" end="459" text="Septiembre de 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T5" start="2394" end="2412" text="septiembre de 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T4" start="2426" end="2433" text="octubre" TYPE="FECHAS" comment=""/>
+    <DATE id="T3" start="2470" end="2487" text="diciembre de 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T2" start="2761" end="2774" text="marzo de 2001" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="3782" end="3803" text="Juan Crestanello Nese" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3811" end="3830" text="jpcresta@adinet.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

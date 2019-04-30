@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Alejandra.
+Apellidos: Llumiquinga Puchaicela.
+NHC: 7236750.
+NASS: 37 67234567 05.
+Domicilio: C/ Marques de Viana,  86.
+Localidad/ Provincia: Valladolid.
+CP: 47010.
+Datos asistenciales.
+Fecha de nacimiento: 21/12/1950.
+País de nacimiento: Ecuador.
+Edad:  65 años Sexo: M.
+Fecha de Ingreso: 28/05/2016.
+Médico: Vicente Asensio Sánchez  NºCol: 28 28.
+Informe clínico del paciente: Mujer ecuatoriana de 65 años, sin antecedentes personales y familiares de interés, que acude a la consulta externa de oftalmología por disminución indolora de la visión en el ojo derecho (OD ) de 3 a 4 meses de evolución. La agudeza visual (AV) máxima en el OD era de 0,5 y en el ojo izquierdo (OI) de 1. La motilidad extrínseca e intrínseca fue normal. En el OD se apreció un edema de papila con algún exudado subretiniano. La TAC y RNM órbito-cerebral, serología luética, enzima convertidor de la angiotensina, serología Lyme y la radiografía de tórax fueron negativas. El estudio sistémico por aparatos no era significativo. El mantoux (PPD), ya en las primeras 24 horas, tenía una induración de 25 mm con zonas de necrosis dérmica. Se repitió la radiografía de tórax siendo igualmente negativa. En la punción de LCR la presión de salida fue de 16 cm H2O con bioquímica normal y cultivo negativo. Se realizó electroforesis del LCR no detectándose bandas oligoclonales. El urocultivo y el cultivo de esputo también fueron negativos para el crecimiento de mycobacterium tuberculosis. Ante la sospecha de tuberculosis ocular se realizó una prueba con 300 mg/día de isoniacida durante 3 semanas con mejoría subjetiva en la visión del OD aunque la visión máxima seguía siendo 0,5. Se trató con isoniacida 300 mg (9 meses) junto a rifampicina 600 mg (9 meses), pirazinamida 15 mg/kg (2 meses) y etambutol 15 mg/kg (2 meses). Un año después de la primera consulta la agudeza visual del OD era de 0,9 y su exploración normal.
+Responsable clínico: Dr. Vicente Asensio Sánchez Hospital General Servicio Castellano-Leonés de Salud Servicio de Oftalmología 47010 Medina del Campo (Valladolid) España E-mail: vasensio@hmdc.sacyl.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="37" text="Alejandra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="50" end="72" text="Llumiquinga Puchaicela" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="79" end="86" text="7236750" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="94" end="108" text="37 67234567 05" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="121" end="145" text="C/ Marques de Viana,  86" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="169" end="179" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="185" end="190" text="47010" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="234" end="244" text="21/12/1950" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="266" end="273" text="Ecuador" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="282" end="289" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="296" end="297" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="317" end="327" text="28/05/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="337" end="360" text="Vicente Asensio Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="369" end="374" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="406" end="411" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T10" start="412" end="423" text="ecuatoriana" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="427" end="434" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1952" end="1975" text="Vicente Asensio Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1976" end="1992" text="Hospital General" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="1993" end="2028" text="Servicio Castellano-Leonés de Salud" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="2054" end="2059" text="47010" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2060" end="2076" text="Medina del Campo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2078" end="2088" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2090" end="2096" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2105" end="2127" text="vasensio@hmdc.sacyl.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Miguel.
+Apellidos: Inurria Bonilla.
+NHC: 8726589.
+NASS: 28 94587849 35.
+Domicilio: Calle, General Yagüe, 28.
+Localidad/ Provincia: Sevilla.
+CP: 41092.
+Datos asistenciales.
+Fecha de nacimiento: 19/03/1967.
+País de nacimiento: España.
+Edad: 47 años Sexo: H.
+Fecha de Ingreso: 20/01/2015.
+Médico: Noelia Gros Herguido NºCol: 41 41 57489 .
+Informe clínico del paciente: Varón de 47 años, que nos remiten desde Servicio de Rehabilitación en febrero 2011, para valoración de su obesidad. El paciente presentaba como antecedente personal una lesión medular tras accidente laboral en el año 2004, con fractura vertebral y paraplejia incompleta a nivel de L1. Fumador de más de 20 cigarros al día y tiene una hipertensión arterial que trata con enalapril 20/hidroclorotiazida 12,5 cada 24 horas y una hipertrigliceridemia sin tratamiento.
+En la anamnesis dirigida, refería mucha dificultad para su vida diaria (precisa silla de ruedas para desplazarse y utiliza la bipedestación para las transferencias). Reconocía tener mucho apetito y picotear entre horas. Desde el 2006 ha intentado en varias ocasiones perder peso, sin éxito. A la exploración presentaba peso 135 kg y una talla 1,72 cm, IMC 46,62 kg/m2. tA 145/92. En analítica destacaba colesterol 222 mg/dl y triglicéridos 260 mg/dL con Colesterol HDL 41 mg/dl.
+Tras ser valorado por equipo multidisciplinar de nuestro hospital, y descartar contraindicaciones para la cirugía, su caso fue aprobado y se sometió a un Bypass gástrico en Y de Roux por vía laparoscópica en Enero 2014.
+Un mes después de la cirugía el paciente se encuentra bien, no presentó complicaciones en el postoperatorio inmediato; y niega vómitos en la actualidad. Tiene menos apetito y toma dieta líquida fraccionada. Su peso actual es de 120 kg. Desde el punto de vista de sus cormobilidades, ha dejado el tratamiento hipotensor y el control de TA en su domicilio es óptimo (110/90). Analíticamente no ha presentado déficit vitamínico, con suplementación de un complejo vitamínico al día.
+Responsable clínico: Dra. Noelia Gros Herguido. Hospital Universitario Virgen del Rocío. Sevilla. E-mail: ngros.h@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="34" text="Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="47" end="62" text="Inurria Bonilla" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="69" end="76" text="8726589" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="84" end="98" text="28 94587849 35" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="111" end="135" text="Calle, General Yagüe, 28" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="159" end="166" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="172" end="177" text="41092" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="221" end="231" text="19/03/1967" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="253" end="259" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="267" end="274" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="281" end="282" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="302" end="312" text="20/01/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="322" end="342" text="Noelia Gros Herguido" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="350" end="361" text="41 41 57489" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="394" end="399" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="403" end="410" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="464" end="476" text="febrero 2011" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="607" end="615" text="año 2004" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="1087" end="1091" text="2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T5" start="1545" end="1555" text="Enero 2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="2062" end="2082" text="Noelia Gros Herguido" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="2084" end="2123" text="Hospital Universitario Virgen del Rocío" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T2" start="2125" end="2132" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2142" end="2159" text="ngros.h@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sebastian.
+Apellidos: Perez Garcia.
+NHC: 8264597.
+NASS: 27 67805270 54.
+Domicilio: Calle Rivera, 23, 1 C.
+Localidad/ Provincia: Madrid.
+CP: 28004.
+Datos asistenciales.
+Fecha de nacimiento: 06/12/1957.
+País de nacimiento: España.
+Edad: 53 años Sexo: H.
+Fecha de Ingreso: 15/07/2011.
+Médico: Angel García Escudero NºCol: 28 28 61394.
+Informe clínico del paciente: Paciente varón de 53 años, diagnosticado de espondilitis anquilopoyética (HLA B27), amiloidosis secundaria e insuficiencia renal crónica terminal en tratamiento sustitutivo con hemodiálisis. Presentó un cuadro de hematuria indolora y en la cistoscopia se apreció una masa vesical, excrecente pero no papilar y sangrante. Se procedió a una resección transuretral (RTU), siendo el diagnóstico histológico de amiloidosis vesical. El paciente evolucionó satisfactoriamente y a los 11 meses reingresó con un dolor intenso abdominal, epigástrico y fijo, al que se añadió a las dos horas un vómito repentino, abundante y hemático, que se complicó con una parada cardiorrespiratoria, que le condujo al exitus (11/04/1995). En el diagnóstico anatomopatológico realizado post mortem se puso de manifiesto en el aparato digestivo una necrosis isquémica de territorio irrigado por la arteria mesentérica superior, depósito amiloideo en vasos de la submucosa. La afectación de órganos y sistemas era generalizada, incluyendo atrofia renal bilateral por amiloidosis. Amiloidosis vesical (AA), sobre todo perivascular y amiloidosis en los vasos prostáticos.
+Responsable clínico: Dr. Angel García Escudero Correo electrónico: agareslo@telefonica.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="28" end="37" text="Sebastian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="50" end="62" text="Perez Garcia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="69" end="76" text="8264597" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="84" end="98" text="27 67805270 54" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="111" end="132" text="Calle Rivera, 23, 1 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="156" end="162" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="168" end="173" text="28004" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="217" end="227" text="06/12/1957" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="263" end="270" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="277" end="278" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="298" end="308" text="15/07/2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="318" end="339" text="Angel García Escudero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="347" end="358" text="28 28 61394" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="399" end="404" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T4" start="408" end="415" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T3" start="1092" end="1102" text="11/04/1995" TYPE="FECHAS" comment=""/>
+    <NAME id="T2" start="1558" end="1579" text="Angel García Escudero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1600" end="1623" text="agareslo@telefonica.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

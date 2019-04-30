@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Carmen.
+Apellidos: Soto Betancourt.
+NHC: 4896750.
+NASS: 54 79065097 05.
+Domicilio: Calle Fermin Caballero, 23, 5 A.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 24/08/1954.
+País de nacimiento: España.
+Edad: 61 años Sexo: M.
+Fecha de Ingreso: 13/09/2015.
+Médico: Víctor Asensio Sánchez NºCol: 28 28 56994 .
+Informe clínico del paciente: Mujer de 61 años con antecedentes sistémicos de obesidad, hipertensión arterial, fallo renal con buen control en la actualidad y diabetes mellitus tipo 2 de 7 años de evolución en tratamiento con insulina desde hace 2 años y en los últimos 3 meses se asoció rosiglitiazona 4mg día (Avandia®, Glaxosmithkline) con lo que se consiguió un buen control glucémico. Como antecedentes oftalmológicos destaca un edema macular bilateral difuso tratado con láser seis meses antes y con visiones máximas de 0,3 en ojo derecho y 0,250 en ojo izquierdo. Acude al servicio de oftalmología refiriendo pérdida de visión severa que le impide realizar su trabajo diario en los últimos dos meses. En la exploración sistémica destaca un aumento de peso de 7 kilos (dato informado por su médico de Atención Primaria) con edemas periféricos en las extremidades. La agudeza visual es de 0,05 en ambos ojos. En el fondo de ojo se observa un edema macular difuso severo bilateral. Debido a la retención generalizada de fluidos se realizó una exploración sistémica, descartando patología renal y/o cardíaca estableciendo la asociación con la rosiglitazona. Se retiró este fármaco y a los dos meses la paciente había perdido 5kg y los edemas de las piernas habían desaparecido. El edema macular no disminuyó y la agudeza visual a los tres meses seguía en 0,05 en ambos ojos.
+Responsable clínico: Victor Asensio Sánchez. Correo Electrónico:  victor_asensio@orangemail.es

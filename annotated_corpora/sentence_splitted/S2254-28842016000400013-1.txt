@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Alvaro.
+Apellidos: Puig Romero.
+NHC: 9654845.
+NASS: 28 76426578 78.
+Domicilio: Calle del Alcalde Pablo Durán y Pérez de Castro, 6, 11, A.
+Localidad/ Provincia: Pamplona.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 08/05/1949.
+País de nacimiento: España.
+Edad: 68 años  Sexo: H.
+Fecha de Ingreso: 14/08/2016.
+Médico: Raquel Salazar Mendez   NºCol: 15 15 28971.
+Los datos que se exponen en la descripción de este caso, se obtuvieron de los cursos clínicos de médicos y enfermeras de la paciente. Además, se solicitó consentimiento informado de la paciente.
+Dirección para correspondencia: Cristina Herrera Morales Servicio de Nefrología. Hospital del Mar Parc de Salut Mar Passeig Maritim 25-29. 08003 Barcelona. España E-mail: cherrera@parcdesalutmar.cat

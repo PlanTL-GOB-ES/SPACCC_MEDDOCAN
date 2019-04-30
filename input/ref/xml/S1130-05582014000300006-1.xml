@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Mélida.
+Apellidos: Bartra Pujol.
+NHC: 7834690.
+NASS: 89 24756564 03.
+Domicilio: Avenida de pastrana 66, 6A.
+Localidad/ Provincia: Barcelona .
+CP: 08226.
+Datos asistenciales.
+Fecha de nacimiento: 09/07/1975.
+País: España.
+Edad: 43años Sexo: M.
+Fecha de Ingreso: 27/09/2018.
+Médico: Ramona Villar Puchero NºCol: 08 08 54712.
+Informe clinico del paciente: Paciente mujer de 43 años tratada previamente por tumoración parotídea en lóbulo profundo de 26 mm de diámetro mayor y con PAAF previa diagnosticada de adenoma de células basales. Se realizó una parotidectomía parcial conservadora y la histología definitiva demostró un carcinoma adenoide quístico pT2N0M0, con un patrón histológico variable en su mayor parte tubular con áreas sólidas, otras trabeculares y escasas cribiformes, con focos de invasión perineural e intraneural, contactando con el límite quirúrgico.
+En el caso de afectación de márgenes quirúrgicos positivos o próximos en el carcinoma adenoide quístico tras la cirugía no existe una actitud estándar; siendo válidas tanto la ampliación de márgenes como la radioterapia postoperatoria o la ampliación de márgenes seguida de radioterapia postoperatoria3. Se realizó un PET-TAC observando un ligero incremento metabólico a nivel parotídeo sin poder descartar enfermedad maligna. Se remitió al Servicio de Cirugía Maxilofacial y se realizó una parotidectomía total junto con exéresis de las ramas cigomática, bucal y marginal del nervio facial que se encontraban englobadas en masa tumoral. Se realizó una reconstrucción inmediata con injerto de nervio sural y relleno del defecto posparotidectomía con colgajo de fascia temporo-parietal. Las biopsias intraoperatorias de los extremos nerviosos resecados resultaron negativas para neoplasia, la anatomía patológica definitiva de la parotidectomía demostró invasión perineural e intraneural adyacente al tumor. Se administró radioterapia postoperatoria por el patrón sólido histológico, la invasión perineural y la afectación de márgenes en la primera cirugía. Durante el seguimiento clínico se ha conseguido una buena función en reposo al cierre ocular y a la sonrisa, con tan solo un leve déficit al soplido al año de la intervención. Se realizó un estudio electroneurofisiológico a los 6 meses y al año de la intervención, demostrándose en este último una restitución "quasi ad integrum". En el electroneurograma obtuvimos a los 6 meses una amplitud de 0,33 mV y una latencia de 5,52 ms; y al año los valores fueron una amplitud de 1,6 mV y una latencia de 2,85 ms. Respecto al electromiograma, tanto del músculo orbicular de los ojos como el orbicular de los labios, se observaron datos de denervación-reinervación con mayor número de unidades motoras polifásicas al año de la intervención.
+Remitido por: Ramona Villar Puchero Correo electrónico: ravipuc@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="8" end="14" text="Mélida" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="27" end="39" text="Bartra Pujol" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="46" end="53" text="7834690" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="61" end="75" text="89 24756564 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="88" end="114" text="Avenida de pastrana 66, 6A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="138" end="147" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="154" end="159" text="08226" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="203" end="213" text="09/07/1975" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="221" end="227" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="235" end="241" text="43años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="248" end="249" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="269" end="279" text="27/09/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="289" end="310" text="Ramona Villar Puchero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="318" end="329" text="08 08 54712" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="370" end="375" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="379" end="386" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2781" end="2802" text="Ramona Villar Puchero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2823" end="2842" text="ravipuc@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

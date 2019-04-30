@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Valeria.
+Apellidos: Casado Vinuesa.
+NHC: 3096502.
+Domicilio: Paseo de los Heroes y Martires, 23, 4C.
+Localidad/ Provincia: Zaragoza.
+CP: 50468.
+Datos asistenciales.
+Fecha de nacimiento: 15/01/2009.
+País: España.
+Edad: 9 años Sexo: M.
+Fecha de Ingreso: 15/06/2018.
+Servicio: Pediatria.
+Médico: Jorge Subirá Ríos NºCol: 50 50 97563.
+Historia Actual: Niña de 9 años de edad ingresa en el servicio de pediatría procedente de urgencias por segundo episodio de hematuria macroscópica en 20 días.
+No presenta antecedentes familiares de interés, antecedentes personales de hemihipertrofia facial por tortícolis congénito, varicela, mononucleosis infecciosa, enúresis nocturna hasta los 7 años, neumonía a los 9 meses y traumatismo en cóccix.
+Exploración física: Exploración física: ligera palidez cutánea, peso dentro de percentil 25-50 y talla percentil 50-75. Sin más hallazgos.
+Pruebas complementarias: hemograma, bioquímica, coagulación, urocultivo, función renal, enolasa, alfa feto proteína, radiografía de tórax y ECG normales.
+Sedimento urinario: hematuria macroscópica.
+Ecografía abdominal: masa de 5cm de diámetro en riñón izquierdo, compleja con áreas quísticas/necrosis.
+Evolución y comentarios: El servicio de pediatría realiza interconsulta a nuestro servicio decidiéndose realizar tras hallazgo ecográfico, una TC abdominal con contraste con el hallazgo de masa dependiente del riñón izquierdo, en cara anterior, de contenido quístico con engrosamientos irregulares endoluminales. Presenta un tabique grueso e irregular de densidad similar a la obtenida en las irregularidades internas descritas. No se observan adenomegalias inter-cavoaórticas ni periaórticas.
+La masa es compatible con tumor de Wilms o adeno-carcinoma.
+Se decide realización de nefrectomía izquierda: la masa mide 4.5 cm. de diámetro.
+La niña está pendiente de una nueva revision, debera pedir cita al telefono de cita previa del servicio de pediatria 901 598 663.
+Diagnóstico Principal: El diagnóstico anatomopatológico es de nefroma meso-blástico quístico (quiste renal multilocular).
+Remitido por: Dr.Jorge Subirá Ríos. Plaza San Francisco 7, 3D 50006 Zaragoza. (España). kokedoc@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="29" end="36" text="Valeria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="49" end="63" text="Casado Vinuesa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="70" end="77" text="3096502" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T22" start="90" end="128" text="Paseo de los Heroes y Martires, 23, 4C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="152" end="160" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="166" end="171" text="50468" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="215" end="225" text="15/01/2009" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="233" end="239" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="247" end="253" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="260" end="261" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="281" end="291" text="15/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="322" end="339" text="Jorge Subirá Ríos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="347" end="358" text="50 50 97563" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="377" end="381" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="385" end="391" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T2" start="707" end="713" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T1" start="730" end="737" text="9 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T3" start="1843" end="1847" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <CONTACT id="T11" start="1957" end="1968" text="901 598 663" TYPE="NUMERO_TELEFONO" comment=""/>
+    <NAME id="T10" start="2109" end="2126" text="Jorge Subirá Ríos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T9" start="2128" end="2153" text="Plaza San Francisco 7, 3D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T8" start="2154" end="2159" text="50006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T7" start="2160" end="2168" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="2171" end="2177" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T5" start="2180" end="2199" text="kokedoc@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

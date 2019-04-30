@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Abdul.
+Apellidos: Ahaharrar.
+CIPA: nhc-56789516.
+NASS: 78 12546278 12.
+Domicilio: Crta. Feguerido, 3. .
+Localidad/ Provincia: Pontevedra.
+CP: 36004.
+NHC: 56789516.
+Datos asistenciales.
+Fecha de nacimiento: 01/01/1960.
+País: España.
+Edad: 58 Sexo: H.
+Fecha de Ingreso: 13/04/2018.
+Especialidad: Urgencias.
+Médico:Pablo L. Guzmán Martínez-Valls  NºCol: 36 36 09523.
+Motivo de ingreso: sudoración y fiebre con dolor lumbar izquierdo, pesadez en flanco de dicho lado y disuria de unos 15 días.
+Antecedentes: Dentro de sus antecedentes personales no destaca ninguna patología trascendente: No DM. No HTA. No alergias conocidas. Ex fumador de 8 años. No hematuria. No cólicos. No ITUs.
+Historia Actual:Paciente de origen subsahariano que acude a Urgencias relata que en las últimas dos semanas presenta febrícula ocasional, sudoración, pesadez en flanco izquierdo con dolor lumbar del mismo lado y clínica miccional con chorro aceptable, disuria, no entrecortado, no goteo, no urgencia con frecuencia miccional nocturna de una vez y diurna cada 3-4 horas con sensación de vacuidad completa.
+Exploración física:A la exploración física se aprecia a nivel abdominal, efecto masa en flanco izquierdo a la palpación profunda, Tacto Rectal: próstata grado I-II sin lesiones sospechosas.
+Resumen de pruebas complementarias: Las pruebas complementarias presentaban: Hemograma normal con signos de Eosinofilia. Bioquímica normal. Resto normal, analítica de orina negativa. Rx aparato genito urinario presentaba efecto masa en flanco izquierdo que borraba la línea del psoas de dicho lado. Ecografía renal: múltiples quistes en riñón izquierdo. Se realiza TC abdominopélvico : con lesiones quísticas con vesículas hijas, compatible con enfermedad hidatídica renal.
+Se solicita serología de Anticuerpos Echinococcus/Hemag que es POSITIVO a cifras superiores 1/2.621.440.
+Se completa estudio con RMN para tener una iconografía mas completa y valorar relaciones con estructuras adyacentes.
+Ante la sospecha diagnóstica, se decide cirugía sobre la unidad renal afecta, siendo imposible durante el acto quirúrgico realizar cirugía conservadora practicándole al paciente una nefroureterectomía izquierda completa por sospecha de comunicación del quíste hidatídico con la vía ante el grosor de la misma. Previo al tratamiento quirúrgico el paciente recibe un ciclo de Albendazol y otro tras la cirugía.
+El paciente tras el tratamiento presenta caída de las cifras de titulación de anticuerpos y a tres años del procedimiento el paciente está asintomático y analíticamente sin enfermedad.
+Responsable clinico: Pablo L. Guzmán Martínez-Valls Pz de Pontevedra,2, Ed.ICA, Esc.2a,5ºC 30009 Murcia. (España). pabloguzman@terra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="9" end="14" text="Abdul" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="27" end="36" text="Ahaharrar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="48" end="56" text="56789516" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="64" end="78" text="78 12546278 12" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="91" end="109" text="Crta. Feguerido, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="135" end="145" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="151" end="156" text="36004" TYPE="TERRITORIO" comment=""/>
+    <ID id="T14" start="163" end="171" text="56789516" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="215" end="225" text="01/01/1960" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="233" end="239" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="247" end="249" text="58" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="256" end="257" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="277" end="287" text="13/04/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="321" end="351" text="Pablo L. Guzmán Martínez-Valls" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="360" end="371" text="36 36 09523" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <NAME id="T6" start="2595" end="2625" text="Pablo L. Guzmán Martínez-Valls" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2626" end="2664" text="Pz de Pontevedra,2, Ed.ICA, Esc.2a,5ºC" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2665" end="2670" text="30009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2671" end="2677" text="Murcia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2680" end="2686" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2689" end="2709" text="pabloguzman@terra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

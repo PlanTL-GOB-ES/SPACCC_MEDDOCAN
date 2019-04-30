@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Maritza.
+Apellidos: Bordonaba Esposito.
+NHC: 2087565/89.
+Domicilio: Rambla Gran Bretaña, 473.
+Localidad/ Provincia: Montevideo.
+CP: 11000.
+Datos asistenciales.
+Fecha de nacimiento: 25/11/1980.
+País: Uruguay.
+Edad: 22 años Sexo: Femenino.
+Fecha de Ingreso: 09/01/2003.
+Médico: Juan Pascual Crestanello Nese.
+Informe médico: mujer negra de 22 años de edad, que consultó en Noviembre de 2000, por asimetría facial, dolor y sensación de crepitación a nivel infraorbitario izquierdo. Presentaba una tumoración de crecimiento progresivo de hemimaxilar izquierdo de 5 meses de evolución. Al examen facial se observó un aumento de volumen en región infraorbitaria izquierda, que elevaba de forma marcada el párpado inferior, dificultándole la mirada hacia abajo y a la derecha. Presentaba deformación de la pirámide nasal y obstrucción de la narina izquierda por disminución de la permeabilidad producto de la elevación del piso nasal y de la deformación del tabique intersinuso nasal.
+La paciente no presentaba alteraciones oculares, relataba que sentía crecer a la lesión y que presentaba corrimiento nasal anterior que no fue objetivado.
+El examen bucal mostró, una oclusión estable y repetible, caries en pieza 24 y movilidad y desplazamiento de la pieza 22. Una gran masa de límites difusos, cubierta por mucosa sana y eritematosa, deformaba el vestíbulo látero superior izquierdo y la bóveda palatina. A la palpación, la lesión presentaba zonas crepitantes y otras blandas, era asintomática y presentaba límites netos.
+La ortopantomografía mostró una masa radiolúcida homogénea unilocular de aproximadamente 5,5 cm de diámetro mayor, ubicada en una forma correspondiente a una lesión en posición glóbulo maxilar20 desplazando las raíces de las piezas 22 y 23 y con rizólisis de ambas raíces. Desplazaba, además, el seno maxilar y llegaba hasta el reborde infraorbitario, de límites netos, pero no corticalizados.
+En la TC, en los cortes axiales y coronales se observó, una masa radiolúcida con trabeculaciones en su interior, que se extendía desde el reborde alveolar hasta el reborde infraorbitario, elevando el piso suelo izquierdo y en la parte inferior destruía la pared intersinuso-nasal, poniéndose en contacto con el tabique nasal. Expandía y adelgazaba las corticales y en alguna zona las perforaba.
+Se implementó el protocolo descrito anteriormente para el tratamiento de las LCG. Se realizó una serie infiltraciones entre Diciembre de 2000 y Enero de 2001. Al finalizar la misma, la paciente comunicó que estaba embarazada por lo que se suspendió todo tratamiento hasta la finalización del embarazo.
+En octubre de 2001, casi un mes después del parto, la paciente regresó, relataba que ya no sentía más la crepitación. Al examen físico se observó una mayor localización de la lesión y a la palpación toda la lesión era de consistencia ósea.
+En la TC, en los cortes axiales y coronales se observó, una imagen que, a diferencia de la lesión en las tomografías iniciales, era radiopaca con un núcleo central radiolúcido. Sus límites no se diferenciaban del hueso sano.
+Frente a estos hallazgos, 11 meses después del inicio del tratamiento, se decidió realizar la enucleación quirúrgica. Bajo anestesia general y mediante un abordaje bucal se accedió a la lesión. Al igual que en el caso 1, se hallo un aumento de volumen óseo sin límites claros con la estructura ósea normal. Se realizó una remodelación quirúrgica de la lesión con fresas. Fue necesario remodelar el reborde infraorbitario y la escotadura piriforme.
+Desde el punto de vista clínico y radiográfico, a 22 meses de seguimiento no hay evidencias de lesión residual o recurrencia. No se realizó el tratamiento de conductos de las piezas 22 y 23, que se encuentran sanas. Actualmente, la paciente se halla en cura clínica 28 meses después del inicio del tratamiento y 17 meses después de la remodelación quirúrgica.
+Remitido por: Dr. Juan Pascual Crestanello Nese. C/ Alfredo Navarro 3102, Apto. 116 Montevideo 11600, Uruguay. jpcresta@adinet.com.uy
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="8" end="15" text="Maritza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="28" end="46" text="Bordonaba Esposito" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="53" end="63" text="2087565/89" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T22" start="76" end="100" text="Rambla Gran Bretaña, 473" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="124" end="134" text="Montevideo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="140" end="145" text="11000" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="189" end="199" text="25/11/1980" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T19" start="207" end="214" text="Uruguay" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="222" end="229" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="236" end="244" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="264" end="274" text="09/01/2003" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="284" end="313" text="Juan Pascual Crestanello Nese" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T13" start="331" end="336" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T10" start="337" end="342" text="negra" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T15" start="346" end="353" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="379" end="396" text="Noviembre de 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="2438" end="2455" text="Diciembre de 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="2458" end="2471" text="Enero de 2001" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="2619" end="2634" text="octubre de 2001" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="3907" end="3936" text="Juan Pascual Crestanello Nese" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3938" end="3972" text="C/ Alfredo Navarro 3102, Apto. 116" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3973" end="3983" text="Montevideo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3984" end="3989" text="11600" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3991" end="3998" text="Uruguay" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="4000" end="4022" text="jpcresta@adinet.com.uy" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

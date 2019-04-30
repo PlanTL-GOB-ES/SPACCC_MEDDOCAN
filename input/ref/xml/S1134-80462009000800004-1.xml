@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Mario.
+Apellidos: Cuervo Benavides.
+NHC: 4357894.
+NASS: 73 56073569 03.
+Domicilio: Calle Valdeacedera, 32, 5, B.
+Localidad/ Provincia: Madrid.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 21/07/1965.
+País de nacimiento: España.
+Edad: 65 años Sexo: H.
+Fecha de Ingreso: 20/12/2011.
+Médico: Martín Mayo Nicaragua  NºCol: 28 28 91322.
+Informe clínico del paciente: Varón de 65 años, portador de un sistema de electrodo de estimulación medular (EEM) para control del dolor secundario a isquemia por arteriopatía periférica e inducción de vasodilatación. Pese a los esfuerzos terapéuticos, la mala evolución de la enfermedad obligó a la realización de una amputación de miembro inferior derecho en noviembre de 1998. Al mes siguiente, el paciente empezó a referir sintomatología compatible con dolor en miembro fantasma.
+Se comenzó con doble terapia anticonvulsionante, antidepresivos y analgésicos menores y ajuste de los parámetros del EEM. Se controló el dolor parcialmente, pero persistían episodios de dolor lancinante con escala visual analógica (EVA) = 8.
+En 2005, el paciente es remitido a la consulta de manera preferente por el servicio de medicina digestiva, por ser portador de EEM y la posible implicación para el manejo de bisturí con diatermia para polipectomía endoscópica.
+Siguiendo las especificaciones de la casa suministradora, se indica al servicio de digestivo la imposibilidad de usar diatermia de onda corta y diatermia de microonda, ya que podría causar el calentamiento del interfaz del electrodo en el tejido pudiendo causarle daño. Entonces, se recomendó el uso de electrocoagulación bipolar. El servicio de digestivo comentó que no se puede realizar la polipectomía endoscópica con electrocauterización bipolar; además, tras consulta con el servicio de cirugía general, se consideró que sólo se debe practicar una colectomía total previa biopsia y filiación anatomopatológica de sus lesiones.
+Ante esta situación clínica, se decidió valorar la efectividad real del EEM tras 7 años de funcionamiento y, en caso de ineficacia, proceder a su retirada para poder realizar la polipectomía endoscópica mediante diatermia habitual. Para ello se apagó el EEM y se citó al paciente para valoración después de 1 mes.
+En esta cita el paciente evaluó su dolor de base con una EVA = 4 con episodios de dolor paroxístico de EVA = 7. Su grado de incapacidad era similar estando el electrodo encendido o apagado. Tras 6 meses de seguimiento con el electrodo apagado y sin cambios en la situación clínica, se decidió la retirada del EEM y proceder a la polipectomía endoscópica.
+El dolor del miembro fantasma fue empeorando a lo largo de los años y con respuesta parcial a los anticonvulsionantes y antidepresivos. El paciente siguió con una EVA basal de 4 y episodios cada vez más frecuentes de dolor lancinante de 10. Respecto a su calidad de vida, el índice de Lattinen ofrecía un valor de 12 y, además, el paciente estaba deprimido y con afectación de su vida familiar.
+Ante esta situación, se decidió, tras revisar la bibliografía, citarlo para perfusión continua de ketamina a una dosis de 0,4 mg/kg en 60 min, en sesiones diarias durante 1 semana. Se administró como premedicación 1 mg de midazolam.
+Los únicos efectos adversos referidos por el paciente durante las perfusiones fueron mareo y somnolencia.
+Se evaluó al paciente a la semana, a los 3 y a los 6 meses, con una EVA a los 6 meses de 0 en reposo y con disminución de los episodios de dolor lancinante de menos de 2 a la semana, con un EVA en estos episodios de 6 y que le duran un máximo de 10 s, Lattinen de 5 y mejoría del estado de animo muy importante. Es dado de alta de la unidad al año de seguimiento, dada la abolición casi completa del cuadro sin medicación.
+Responsable clínico: Martín Mayo Nicaragua Correo electrónico: mmayonica@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="33" text="Mario" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="46" end="62" text="Cuervo Benavides" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="69" end="76" text="4357894" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="84" end="98" text="73 56073569 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="111" end="139" text="Calle Valdeacedera, 32, 5, B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="163" end="169" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="175" end="180" text="28036" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="224" end="234" text="21/07/1965" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="270" end="277" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="284" end="285" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="305" end="315" text="20/12/2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="325" end="346" text="Martín Mayo Nicaragua" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="355" end="366" text="28 28 91322" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="398" end="403" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="407" end="414" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T3" start="729" end="746" text="noviembre de 1998" TYPE="FECHAS" comment=""/>
+    <DATE id="T2" start="1097" end="1101" text="2005" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="3800" end="3821" text="Martín Mayo Nicaragua" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3842" end="3863" text="mmayonica@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

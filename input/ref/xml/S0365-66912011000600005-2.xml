@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Antonio.
+Apellidos: Recines Mohedano.
+NHC: 5458743.
+NASS: 34 78567058 15.
+Domicilio: C/ Agustin de foxá, 27.
+Localidad/ Provincia: Madrid.
+CP: 28039.
+Datos asistenciales.
+Fecha de nacimiento: 24/08//1979.
+País de nacimiento: España.
+Edad: 37 años Sexo: H.
+Fecha de Ingreso: 28/05/2017.
+Médico: Carmen Burgueño Montañés NºCol: 28 28 57810.
+Informe clínico del paciente: Varón de 37 años ex-adicto a drogas por vía parenteral y diagnosticado de hepatitis crónica por virus C genotipo 4 con una baja carga viral (75.754 UI/ml). Se instauró tratamiento con IFN pegilado alpha-2b (100µg/semana) y ribavirina (1g/día).
+A los 2 meses del inicio del tratamiento acudió a la consulta y refirió visión borrosa y «manchas» en el campo visual desde aproximadamente 10 días antes. En la exploración oftalmológica presentó una AV de 0,8 con corrección en ambos ojos y múltiples exudados algodonosos en polo posterior. Se diagnosticó de retinopatía por IFN y se suspendió el tratamiento. En controles sucesivos el cuadro fue mejorando y a los 3 meses presentó una AV de 10/10 en ambos ojos y en el FO únicamente se apreció un exudado algodonoso en reabsorción inferior a fóvea izquierda.
+Responsable clínico: Dra. Carmen Burgueño Montañés. Correo electrónico: casamata@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="35" text="Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="48" end="64" text="Recines Mohedano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="71" end="78" text="5458743" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="86" end="100" text="34 78567058 15" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="113" end="135" text="C/ Agustin de foxá, 27" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="159" end="165" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="171" end="176" text="28039" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="220" end="231" text="24/08//1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="253" end="259" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="267" end="274" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="281" end="282" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="302" end="312" text="28/05/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="322" end="346" text="Carmen Burgueño Montañés" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="354" end="365" text="28 28 57810" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="397" end="402" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="406" end="413" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="1227" end="1251" text="Carmen Burgueño Montañés" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1273" end="1291" text="casamata@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

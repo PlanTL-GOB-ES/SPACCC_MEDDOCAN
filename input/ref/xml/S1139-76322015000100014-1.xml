@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Angi.
+Apellidos: Vals Cardona.
+NHC: 9816345.
+Domicilio: Av. de Jacquard 48, 9A.
+Localidad/ Provincia: Terrassa, Barcelona.
+CP: 08222.
+Datos asistenciales.
+Fecha de nacimiento: 15/07/2007.
+País: España.
+Edad: 9 años Sexo:.
+Fecha de Ingreso: 19/04/2017.
+Servicio: Urgencias.
+Episodio: 354364.
+Médico: Irene Cebrián García  NºCol: 08 08 45187.
+Informe clínico.
+Historia Actual: Niña de siete años que acude a Urgencias en época primaveral por un episodio de crisis compleja generalizada con desconexión del medio y caída al suelo mientras caminaba, junto con hipertonía, sialorrea y movimientos de la comisura labial de unos tres minutos de duración, con recuperación espontánea. Los días previos la niña había presentado un cuadro de mialgias, cefalea y fiebre de hasta 39 °C, pero llevaba ya afebril 24 horas.
+Se trataba de una niña sin antecedentes fisiológicos relevantes: embarazo, parto y periodo perinatal sin interés, tampoco presentaba antecedentes patológicos de interés y como antecedentes familiares, únicamente el tratamiento materno con litio por trastorno bipolar de años de evolución. 
+Exploración y pruebas complementarias: La paciente, a su llegada a Urgencias, presentaba un estado poscrítico con un Glasgow de 10, pero el resto de exploración, tanto neurológica como por sistemas, fue normal. La analítica sanguínea destacaba en la bioquímica y en el hemograma:
+• Bioquímica:
+— Transaminasa glutámico-oxalacética (GOT): 93 UI/l.
+— Transaminasa glutámico-pirúvica (GPT): 44 UI/l.
+— Proteína C reactiva (PCR): 2 mg/l.
+• Hemograma:
+— Leucocitos de aspecto activado: 6000 (N: 30% L: 66% M: 4%).
+— Plaquetas 125 000.
+— Serie roja normal.
+Ante el cuadro de convulsión afebril, se decide su ingreso para completar el estudio. A las dos horas tras el ingreso, presenta una nueva convulsión que cede con la administración de midazolam intravenoso a 0,15 mg/kg, pero sufre una parada respiratoria que precisa ventilación con pieza en T, por lo que se decide su ingreso en cuidados intensivos para vigilancia y monitorización estrecha.
+A su llegada a cuidados intensivos presenta estado poscrítico, con Glasgow de 7 y el resto de constantes normales salvo una temperatura axilar en este caso de 38 °C. A la exploración neurológica se objetiva una marcada hiperreflexia de miembros inferiores, con signos meníngeos negativos. Se realiza tomografía computarizada (TC) craneal urgente, punción lumbar, tóxicos en orina y litemia (por el antecedente materno), con resultados normales. Se realiza electroencefalograma (EEG) urgente donde se informa como lentificación global la actividad compatible como cuadro de meningoencefalitis. Se extrae serología en líquido cefalorraquídeo (LCR) para enterovirus y herpes virus, resultando ambas negativas. También se obtienen serologías para múltiples agentes como toxoplasma, rubeola, lúes, herpes simple 1 y 2, virus varicela-zóster, Mycoplasma, adenovirus, parotiditis, parvovirus, sarampión, Coxsackie, virus ECHO y Borrelia, también negativos.
+Evolución y comentarios: En las siguientes horas tras el ingreso, la paciente presenta episodios de agitación con somnolencia y presenta de nuevo dos episodios convulsivos generalizados, por lo que se inicia levetiracetam de mantenimiento a 40 mg/kg/día, previo bolo de 20 mg/kg, junto con aciclovir profiláctico a 60 mg/kg/día, pese a la serología negativa. Se solicita resonancia magnética (RM) cerebral urgente con resultado normal y sin observarse lesiones de sangrado o hiperdensidad.
+Ante el antecedente de mialgias y fiebre de los días previos y la escasa recuperación de la clínica neurológica, se decide determinar antígenos de influenza A en el exudado nasal, resultando positivo, por lo que se inicia tratamiento con oseltamivir 5 mg/kg/día que se mantuvo un total de cinco días, suspendiéndose el aciclovir. De manera progresiva la paciente presenta mejoría, pero sufre un nuevo episodio convulsivo y se decide ampliar serología a citomegalovirus (CMV), virus de Ebstein-Barr (VEB), herpes e influenza A negativos, y se repite RM cerebral que persiste normal. Se solicitan en LCR bandas oligoclonales que resultan negativas y el estudio de autoinmunidad con anti-ADN, anti-Ro, anti-La, anti-histonas, anti-Sm, anti-RNP, anti-SCL70, anti-Jo, anticuerpos anticitoplasma de neutrófilos (ANCA) negativos. Se asocia valproico a dosis de 40 mg/kg/día, cediendo por completo las convulsiones.
+La paciente en total presenta cinco episodios convulsivos y al alta se observa una mejoría del EEG, aunque no normalidad completa. Se continúa el tratamiento con valproico 40 mg/kg/día y levetiracepam 60 mg/kg/día.
+Actualmente la paciente sigue controles en consultas de Neuropediatría, ya sin medicación anticomicial y se mantiene asintomática, con EEG normal en la última visita.
+Remitido por: Dra. Irene Cebrián García. Correo electrónico: icegar@gmail.com Hospital de Terrassa Raval de Montserrat, 48, 08221 Terrassa, Barcelona
+]]></TEXT>
+  <TAGS>
+    <NAME id="T27" start="28" end="32" text="Angi" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T26" start="45" end="57" text="Vals Cardona" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="64" end="71" text="9816345" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T24" start="84" end="106" text="Av. de Jacquard 48, 9A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T23" start="130" end="138" text="Terrassa" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T22" start="140" end="149" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="155" end="160" text="08222" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="204" end="214" text="15/07/2007" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T20" start="222" end="228" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="236" end="242" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="268" end="278" text="19/04/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T1" start="311" end="317" text="354364" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T14" start="327" end="347" text="Irene Cebrián García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="356" end="367" text="08 08 45187" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T17" start="403" end="407" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T15" start="411" end="421" text="siete años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="725" end="729" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="855" end="859" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="1064" end="1071" text="materno" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="2480" end="2487" text="materno" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T13" start="4819" end="4839" text="Irene Cebrián García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T7" start="4861" end="4877" text="icegar@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T6" start="4878" end="4898" text="Hospital de Terrassa" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="4899" end="4922" text="Raval de Montserrat, 48" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="4924" end="4929" text="08221" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="4930" end="4938" text="Terrassa" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4940" end="4949" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

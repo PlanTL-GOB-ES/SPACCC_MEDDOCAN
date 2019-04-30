@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Manuel.
+Apellidos: Garcia Espinosa.
+NHC: 257567.
+NASS: 07 81545702 87.
+Domicilio: Calle Cronista Juan de la Torre.
+Localidad/ Provincia: Úbeda, Jaén.
+CP: 23400.
+Datos asistenciales.
+Fecha de nacimiento: 13/05/1969.
+País: España.
+Edad: 32 años Sexo: H.
+Fecha de Ingreso: 25/05/2001.
+Servicio: urgencias.
+Médico: Mariano Urdiales Viedma NºCol: 23 28 64841.
+Motivo de ingreso: Varón de 32 años, de edad, acude a urgencias del hospital, en febrero de 2000, por presentar dolor en hombro izquierdo y columna lumbar.
+Exploración física: El examen físico y analítica de rutina fue irrelevante. 
+Resumen de pruebas complementarias: El estudio radiológico mostró lesiones óseas líticas generalizadas. TAC torácico abdominal no muestra imágenes sugerentes de neoplasia a nivel visceral. Gastroscopia, enema opaco, ecografía abdominal, testicular y prostática normales. A fin de establecer un diagnóstico, se practicó una biopsia de médula ósea, en cresta ilíaca. Microscópicamente, la médula ósea presentaba una sustitución parcial de su celularidad habitual, por una neoplasia constituida por nidos epiteliales, en un estroma fibroso en unas zonas, mientras en otras áreas dichos nidos están rodeados por la celularidad habitual de la médula ósea y están formados por células poligonales, con núcleos redondeados u ovales, de aspecto blando sin nucleolos prominentes y mitosis muy escasas. El estudio inmunohistoquímico mostró negatividad a receptores estrogénicos, proteína S-100, HMB45, p53, bc1-2 y sinaptofisina. Positividad en el 25% de los núcleos con MIB-1 y en el 90% de los núcleos con p27 y positividad difusa y fuerte a receptores de progesterona, cromogranina A, enolasa neuronal específica, antígeno carcinoembrionario y en menos del 50% de las células a calcitonina, no se detectó amiloide con tinción de Rojo Congo. Con estos elementos se emitió un diagnóstico compatible con metástasis ósea de Carcinoma Medular de Tiroides. La determinación sérica de calcitonina fue de 3.500 pg/ml (normal de 15-100) y de CEA de 231 ng/ml (normal de 0,01-5), siendo los niveles séricos de Ca 125, Ca 19.9 y PSA normales.
+Evolución y comentarios: Dadas las malas condiciones físicas del paciente, éste fue enviado a Oncología de nuestro hospital de referencia en Jaén, donde se le encontró ecográficamente un pequeño nódulo tiroideo sólido, con calcio, en lóbulo izquierdo, que no se extirpa. Investigada la familia no se han encontrado antecedentes de patología tiroidea.
+Se le administra una primera línea de quimioterapia (CDDP-ADR-VP16) durante 6 meses, sin respuesta. También se da radioterapia paliativa a la columna dorso lumbar. A principios de febrero de 2001, se inicia una segunda línea de quimioterapia, (CTX-DTIC), que se suspende a los pocos días por mal estado del paciente, progresión de metástasis a nivel óseo y aparición de metástasis pulmonar. El paciente fallece el 21 de febrero de 2002. La familia no autoriza la necropsia.
+Remitido por: Dr. Mariano Urdiales Viedma. Unidad de Anatomía Patológica Hospital San Juan de la Cruz E-23400 Ubeda (Jaén) E-mail: mariano.urdiales.sspa@juntadeandulucia.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T28" start="9" end="15" text="Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T27" start="28" end="43" text="Garcia Espinosa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T26" start="50" end="56" text="257567" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="64" end="78" text="07 81545702 87" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T24" start="91" end="122" text="Calle Cronista Juan de la Torre" TYPE="CALLE" comment=""/>
+    <LOCATION id="T23" start="146" end="151" text="Úbeda" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T22" start="153" end="157" text="Jaén" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="163" end="168" text="23400" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="212" end="222" text="13/05/1969" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T21" start="230" end="236" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="244" end="251" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="258" end="259" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="279" end="289" text="25/05/2001" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="320" end="343" text="Mariano Urdiales Viedma" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="383" end="388" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="392" end="399" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="445" end="460" text="febrero de 2000" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T9" start="2263" end="2267" text="Jaén" TYPE="TERRITORIO" comment=""/>
+    <OTHER id="T2" start="2408" end="2415" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="2653" end="2668" text="febrero de 2001" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="2887" end="2908" text="21 de febrero de 2002" TYPE="FECHAS" comment=""/>
+    <OTHER id="T1" start="2913" end="2920" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T12" start="2965" end="2988" text="Mariano Urdiales Viedma" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3020" end="3048" text="Hospital San Juan de la Cruz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="3049" end="3056" text="E-23400" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="3057" end="3062" text="Ubeda" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3064" end="3068" text="Jaén" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="3078" end="3119" text="mariano.urdiales.sspa@juntadeandulucia.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

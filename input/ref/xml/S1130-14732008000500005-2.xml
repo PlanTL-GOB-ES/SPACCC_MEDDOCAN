@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Noelia.
+Apellidos: Benitez Breton.
+NHC: 4358970.
+NASS: 38 69730405 22.
+Domicilio: Av. De las Provincias, 86, 3 C .
+Localidad/ Provincia: Badajoz.
+CP: 06233.
+Datos asistenciales.
+Fecha de nacimiento: 06/01/1938.
+País de nacimiento: España.
+Edad: 77 años Sexo: M.
+Fecha de Ingreso: 21/08/2015.
+Médico: Luis Miguel Bernal García NºCol: 06 06 22856.
+Informe clínico del paciente: Mujer de 77 años de edad con único antecedente de hipertensión arterial. Presentaba un cuadro clínico consistente en ataxia de la marcha, incontinencia de esfínteres y trastorno de funciones superiores. Los estudios de neuroimagen mostraron dilatación del sistema ventricular, por lo que, ante la sospecha de una HCA, se procedió a la colocación de un DLE. A las 30 horas de su colocación comenzó, bruscamente, a presentar cefaleas y vómitos no asociados a ortostatismo. No hubo deterioro del nivel de consciencia. En la bolsa de drenaje había 510 ml de LCR. Una TC craneal, mostró un hematoma en el hemisferio cerebeloso izquierdo, de disposición transversal, con escaso efecto de masa. Ante los hallazgos y la situación clínica de la paciente, se decidió la retirada del DLE y tratamiento conservador. En la RM cerebral realizada previa al ingreso se había descartado patología subyacente. A los cinco días la paciente fue dada de alta con recuperación hasta su estado premórbido.
+No se le implantó válvula de derivación al no objetivarse mejoría con la colocación de DLE.
+Responsable clínico: Dr. Luis Miguel Bernal García. S. de Neurocirugía. Hospital Infanta Cristina. Avenida de Elvas s/n. Badajoz.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="34" text="Noelia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="47" end="61" text="Benitez Breton" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="68" end="75" text="4358970" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="83" end="97" text="38 69730405 22" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="110" end="140" text="Av. De las Provincias, 86, 3 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="165" end="172" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="178" end="183" text="06233" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="227" end="237" text="06/01/1938" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="259" end="265" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="273" end="280" text="77 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="287" end="288" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="308" end="318" text="21/08/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="328" end="353" text="Luis Miguel Bernal García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="361" end="372" text="06 06 22856" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="404" end="409" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="413" end="420" text="77 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="1504" end="1529" text="Luis Miguel Bernal García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="1551" end="1576" text="Hospital Infanta Cristina" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T2" start="1578" end="1598" text="Avenida de Elvas s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="1600" end="1607" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

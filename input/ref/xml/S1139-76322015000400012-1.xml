@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Natalia.
+Apellidos: Aguilar Nieto.
+NHC: 1107256.
+Domicilio: Calle La Bañeza, 12.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 26/06/2014.
+País: España.
+Edad: 18 meses Sexo: M.
+Fecha de Ingreso: 29/12/2015.
+Médico:  Felicidad Sanantonio Valdearcos  NºCol: 28 28 95102.
+Informe clínico del paciente:Niña de 18 meses que consultó por una picadura de garrapata en la cabeza detectada 24 horas antes. La madre cree que pudo suceder 3-4 días antes, pues hicieron una salida al campo (mes de abril). No convivían con ellos animales domésticos (perros ni otras mascotas). La garrapata la retiraron manualmente, y era de unos 5 mm de diámetro. El día de la consulta inició fiebre y le notan unos bultos en la cabeza.
+En la consulta, a la exploración presentaba buen estado general, aunque estaba irritable y algo decaída. En región parietoccipital izquierda se apreciaba una escara negruzca de unos 7 mm de diámetro con eritema leve. En el cráneo presentaba múltiples adenopatías mastoideas y cervicales posteriores de pequeño tamaño entre 1 y 1,5 cm de diámetro, ligeramente dolorosas a la palpación. El resto de exploración era normal y no presentaba exantemas.
+En un primer momento se solicitó una analítica para estudio de picadura de garrapata y se recomendó tratamiento con amoxicilina-clavulánico pensado en una posible sobreinfección de la picadura.
+Controlada una semana después, persistía la escara, las adenopatías y la fiebre, los resultados de los análisis mostraron una leucocitosis con aumento de la velocidad de sedimentación globular (VS) hasta 20 mm/h y proteína C reactiva (PrCR) de 10 mg/dl, las serologías de Borrelia burgdorferri y Rickettesia connori fueron negativas. Ante la mala evolución del cuadro y por sospecha de rickettsiosis, se consultó el caso con los especialistas en enfermedades infecciosas de nuestro hospital de referencia y se decide tratamiento con ciprofloxacino oral, solicitándose nueva analítica con serología.
+La paciente es controlada una semana más tarde, estando ya afebril y con buena evolución de las adenopatías, que regresan lentamente, solo persiste una pequeña zona de alopecia de unos 2 cm de diámetro. En la analítica de control se apreciaba una disminución de la leucocitosis y la VS.
+El segundo control serológico diez días después mostraba un título de R. connori: IgG ≤ 1:40 e IgM 1:320. No se pudo remitir muestra para estudio de R. slovaca.
+A los dos meses la niña estaba asintomática y la serología mostraba títulos en descenso frente a R. connori IgG 1:40 e IgM ≤ 1:40.
+Remitido por: Dra.  Felicidad Sanantonio Valdearcos: feli1855@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="35" text="Natalia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="48" end="61" text="Aguilar Nieto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="68" end="75" text="1107256" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="88" end="107" text="Calle La Bañeza, 12" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="131" end="137" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="143" end="148" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T9" start="192" end="202" text="26/06/2014" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="210" end="216" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="224" end="232" text="18 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="239" end="240" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="260" end="270" text="29/12/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="281" end="312" text="Felicidad Sanantonio Valdearcos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="321" end="332" text="28 28 95102" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="363" end="367" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="371" end="379" text="18 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T5" start="465" end="470" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T4" start="544" end="556" text="mes de abril" TYPE="FECHAS" comment=""/>
+    <AGE id="T1" start="2468" end="2477" text="dos meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T3" start="2481" end="2485" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2613" end="2644" text="Felicidad Sanantonio Valdearcos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T2" start="2646" end="2664" text="feli1855@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

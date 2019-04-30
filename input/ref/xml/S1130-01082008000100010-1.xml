@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Iván.
+Apellidos: Lozano Puebla.
+NHC: 3478564.
+NASS: 20 36598396 53.
+Domicilio: Paseo de la Alameda de Osuna, 48, 5, A.
+Localidad/ Provincia: Madrid.
+CP: 28040.
+Datos asistenciales.
+Fecha de nacimiento: 13/08/1945.
+País de nacimiento: España.
+Edad: 65 años Sexo: M.
+Fecha de Ingreso:19/11/2010.
+Médico: Jaime Zuloaga Bueno  NºCol: 28 28 96835.
+Informe clínico del paciente: Paciente varón de 65 años, fumador de 20-40 cigarrillos/día y con antecedente de ulcus duodenal. Había sido intervenido 5 años previamente por neoplasia estenosante de unión recto-sigmoidea (adenocarcinoma estadio B de Dukes, T3N0M0, estadio III-A AJCC), practicándosele resección anterior, seguida de anastomosis término-terminal mediante sutura mecánica utilizando la técnica del doble grapado. El postoperatorio de dicha intervención cursó sin complicaciones y el paciente fue seguido en consulta cada 6 meses, realizándose anualmente colonoscopia y ecografía. La imagen endoscópica de la región perianastomótica resultó normal en todas las revisiones, incluyendo la última, realizada el año anterior (a los 4 años de la intervención).
+A los 5 años de la intervención, el paciente comienza con deposiciones blandas, dolorimiento abdominal intermitente en hipogastrio y posteriormente rectorragias, por lo que es ingresado en el servicio de medicina interna, realizándosele un TAC abdominal, que no reveló hallazgos patológicos, y colonoscopia, en la que se observa una estenosis a 10 cm del margen anal que impide el paso del endoscopio. Se realiza biopsia en la que no se aprecian signos histopatológicos de enfermedad maligna y que es informada como úlcera inespecífica.
+Dado que los marcadores tumorales séricos estaban en niveles normales, y ante la ausencia de otros signos de neoplasia, se decidió repetir la endoscopia y realizar un enema opaco. La nueva endoscopia y biopsia mostraron idénticos hallazgos a los previos. En el enema opaco se observó estenosis de colon de aspecto irregular y de 8 cm de longitud, no pudiendo descartarse con dicha imagen la posibilidad de una estenosis maligna. Ante la falta de pruebas conclusivas de recidiva tumoral, se decide un periodo de tratamiento con enemas de corticoides (budesonida, 2 mg en enema, 2 veces al día), con el fin de reducir la inflamación y poder así completar la exploración endoscópica.
+Pasado un mes, con el paciente asintomático, se repite la endoscopia, encontrándose una mucosa inflamatoria y ulcerada, tapizando una estenosis de 6-8 cm de longitud que ya se logra atravesar con el endoscopio, sin observarse signos de neoplasia y siendo el resto del colon de aspecto normal. Las biopsias que se tomaron mostraron signos inflamatorios inespecíficos.
+La estenosis es juzgada como de origen isquémico y, dado que el paciente está totalmente asintomático, se decide seguimiento periódico.
+A los 6 meses de seguimiento, se detectan alteraciones electrocardiográficas, por las cuales se solicita consulta al cardiólogo. Por ergometría y coronariografía se encuentran irregularidades en descendente anterior proximal media, grave afectación del ostium del ramo diagonal, estenosis del 80% del ramo obtuso marginal y estenosis del 80% en coronaria derecha media. Se decide dilatación e implantación de un doble stent coronario, tras lo cual desaparecieron las alteraciones electrocardiográficas.
+Tras 16 meses de seguimiento, el paciente presenta tránsito normal y se encuentra asintomático.
+Responsable clínico: Dr. Jaime Zuloaga Bueno. Servicio de Cirugía 2. Hospital Clínico San Carlos. C/ Doctor Martín Lagos, s/n. 28040 Madrid. e-mail: zulprada@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="32" text="Iván" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="45" end="58" text="Lozano Puebla" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="65" end="72" text="3478564" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="80" end="94" text="20 36598396 53" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="107" end="145" text="Paseo de la Alameda de Osuna, 48, 5, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="169" end="175" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="181" end="186" text="28040" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="230" end="240" text="13/08/1945" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="262" end="268" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="276" end="283" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="290" end="291" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="310" end="320" text="19/11/2010" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="330" end="349" text="Jaime Zuloaga Bueno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="358" end="369" text="28 28 96835" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="410" end="415" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="419" end="426" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3485" end="3504" text="Jaime Zuloaga Bueno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3529" end="3556" text="Hospital Clínico San Carlos" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3558" end="3585" text="C/ Doctor Martín Lagos, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3587" end="3592" text="28040" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3593" end="3599" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3609" end="3626" text="zulprada@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

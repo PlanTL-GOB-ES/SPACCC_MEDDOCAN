@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[                                                Nombre: Victor.
+                                                Apellidos: Herrero Casado.
+                                                NHC: 9521025.
+                                                NASS: 84 526908 56.
+                                                Domicilio: Av. Marcelo Celayeta, 35 10C.
+                                                Localidad/ Provincia: Pamplona.
+                                                CP: 31014.
+Datos asistenciales.
+Fecha de nacimiento: 27/01/1976.
+País: España.
+Edad: 33 años Sexo: H.
+Fecha de Ingreso: 26/05/2009.
+Unidad/ Sección:Unidad de Aparato Digestivo.
+Episodio: 635467.
+Médico: David Remedios Clavijo  NºCol: 31 31 85978.
+Historia Actual: Paciente de 33 años de edad sin antecedentes de interés, diagnosticado de enfermedad de Crohn ileal a principios de 2005. Siguió tratamiento con claversal 500 mg/8 h y azatioprina a dosis de 150 mg/día desde diciembre de 2005 por corticodependencia. Asimismo estaba en tratamiento con hierro oral en tandas trimestrales, vitamina B12 intramuscular mensual y ácido fólico dos días a la semana. Desde entonces el paciente se encontraba asintomático. En enero de 2007 se objetivó un aumento de las enzimas de colestasis mantenido en el tiempo, decidiendo ampliar el estudio de forma ambulatoria y retirar la azatioprina.
+Exploración física: Tensión arterial: 100/60 mm/seg; Pulso: 70 lpm; Temperatura: 36oC; Peso: 80 kg; Talla: 180 cm; Buen estado general. Consciente y orientado. Auscultación cardiopulmonar normal. Abdomen blando, depresible, no doloroso, no masas, ni megalias. Extremidades inferiores sin alteraciones.
+Resumen de pruebas complementarias: Ante la persistencia de la colestasis se realizan:
+Analítica. Hemograma y coagulación normal. Plaquetas: 108.000/ml. Perfil hepático: Transaminasas normales. FA: 248U/L. GGT: 390U/L. Perfil férrico y autoinmunidad negativos. Serologías virus de hepatitis B y C negativas.
+Ecografía abdominal. Hígado aumentado difusamente de tamaño, con contorno liso y parénquima difusamente tosco, heterogéneo e hiperecogénico, sin lesiones ocupacionales. Leve esplenomegalia. Calibre y permeabilidad de la porta normal. Resto de estructuras sin alteraciones.
+RMN abdominal. Hígado aumentado difusamente de tamaño, contorno capsular liso y parénquima homogéneo en las secuencias T1 de nivel medio, en las secuencias T2 aparece hipointenso, con áreas parcheadas difusas, discretamente hiperintensas, sin lesiones ocupacionales. Leve esplenomegalia. Resto de estructuras sin alteraciones.
+Gastroscopia. En tercio inferior de esófago se observan 3 cordones varicosos pequeños que desaparecen con la insuflación.
+Evolución y comentarios: Ante la persistencia de colestasis disociada a pesar de la retirada de la azatioprina se decidió realizar una biopsia hepática en la que se aprecia una arquitectura general conservada. Algunos espacios porta están ensanchados con puenteo incompleto porto-portal. Venas centrolobulillares aisladas. No se aprecia colestasis ni hemosiderosis. No macrófagos. PAS diastasa positivo. Algunos espacios porta presentan un ligero infiltrado de células redondas que no desborda la placa limitante. Las trabéculas de hepatocitos irregulares presentan un patrón en zonas regenerativo y en zonas pavimentoso. Aparecen frecuentes células binucleadas, estructuras vasculares y zonas sinusoidales dilatadas con patrón peliótico. Se aprecia un armazón de reticulina irregular con áreas de colapso. La histología descrita anteriormente es compatible con hiperplasia nodular regenerativa..
+La evolución posterior, tanto analítica como de datos de hipertensión portal, fue buena con normalidad analítica y desaparición de las varices esofágicas.
+Responsable clínico: David Remedios Clavijo. Sección de Aparato Digestivo B Complejo Hospitalario de Navarra Irunlarrea, 4 31008 Pamplona E-mail: davidruizcla@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="56" end="62" text="Victor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="123" end="137" text="Herrero Casado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="192" end="199" text="9521025" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="255" end="267" text="84 526908 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="328" end="356" text="Av. Marcelo Celayeta, 35 10C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="428" end="436" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="490" end="495" text="31014" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="539" end="549" text="27/01/1976" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="557" end="563" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="571" end="578" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="585" end="586" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="606" end="616" text="26/05/2009" TYPE="FECHAS" comment=""/>
+    <ID id="T10" start="673" end="679" text="635467" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T12" start="689" end="711" text="David Remedios Clavijo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="720" end="731" text="31 31 85978" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T14" start="762" end="769" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="866" end="870" text="2005" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="958" end="975" text="diciembre de 2005" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="1201" end="1214" text="enero de 2007" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="3773" end="3795" text="David Remedios Clavijo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3828" end="3860" text="Complejo Hospitalario de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3861" end="3874" text="Irunlarrea, 4" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3875" end="3880" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3881" end="3889" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3898" end="3920" text="davidruizcla@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

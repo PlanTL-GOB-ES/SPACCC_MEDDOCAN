@@ -1,0 +1,17 @@
+Nombre: Cesar.
+Apellidos: Navarro Buenafuente.
+NHC: 350678.
+NASS: 28 76245689 56.
+Domicilio: Plaza del Valle, Av Nereo Rodríguez Barragán 1380.
+Localidad/ Provincia: Valladolid.
+CP: 28046.
+Datos asistenciales.
+Fecha de nacimiento: 18/03/1949.
+País: España.
+Edad: 12 meses  Sexo: M.
+Fecha de Ingreso: 04/04/2018.
+Episodio: 234456.
+Médico: Lucrecia Sánchez-Rubio Ferrández  NºCol: 32 32 56457.
+Mujer de 16 años, sometida a nefrectomía radical derecha, en diciembre de 2001, por presentar una masa renal de 8 cm de tamaño máximo, dependiente de polo inferior, de contornos lobulados, y densidad homogénea, diagnosticada por cuadro inespecífico de dolor abdominal, en ausencia de antecedentes hematúricos. La anatomía patológica informó de nefroblastoma multifocal de componente mixto, blastematoso y epitelial. Ante la inexistencia de afectación local extracapsular o ganglionar regional, así como la ausencia de metástasis a distancia se estadió como I, siendo sometida según protocolo SIOP a 26 ciclos de quimioterapia sistémica con vincristina y actinomicina C. En la actualidad, a los 58 meses del diagnóstico se encuentra libre de enfermedad.
+
+Dirección para correspondencia: Roberto llarena Ibarguren Apartado de correos 20134 48080 Bilbao. Vizcaya. (España). rllarena@hcru.osakidetza.net

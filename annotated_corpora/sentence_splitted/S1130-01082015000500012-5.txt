@@ -1,0 +1,15 @@
+Datos del paciente.
+Nombre: Gonzalo .
+Apellidos: Recamal Chavez.
+NHC: 40765356.
+Domicilio: Hipolito Yrigoyen 1592, Capital Federal.
+Localidad/ Provincia: Lleida.
+CP: 15001.
+Datos asistenciales.
+Fecha de nacimiento: 25/04/1992.
+País de nacimiento: España.
+Edad: 75 años  Sexo: H.
+Fecha de Ingreso: 26/12/2011.
+Médico: Jose Luis Crespo Escudero  NºCol: 50 50 98220.
+Mujer de 68 años con antecedentes de insuficiencia renal crónica, con clínica de disfagia progresiva a sólidos y líquidos de dos años de evolución y episodios de broncoaspiración. El EGD sugería la presencia de contracciones terciarias en tercio medio inferior, así como un divertículo en cara posterior derecha inferior de 2,9x2,8 cm diámetro que se confirmó en el estudio endoscópico.
+Dirección para correspondencia: Constanza Ciriza de los Ríos. Servicio de Gastroenterología. Hospital Universitario 12 de Octubre. Avenida de Córdoba, s/n. 28041 Madrid e-mail: constanzacarpa@gmail.com

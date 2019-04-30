@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Hugo.
+Apellidos: Fernandez Rodriguez.
+NHC: 7483590.
+Domicilio: Calle Principe de Asturias, 3, 2, A.
+Localidad/ Provincia: Albacete.
+CP: 02356.
+Datos asistenciales.
+Fecha de nacimiento: 28/05/1995.
+País: España.
+Edad: 13 años Sexo: H.
+Fecha de Ingreso: 15/09/2008.
+Médico: Emilio García García NºCol: 02 02 52320.
+Informe clínico del paciente: Varón de 13 años sin antecedentes de interés que consultó por cefalea frontal y nicturia en los meses previos. En la exploración presentó talla y peso normales para su edad, ginecomastia bilateral de 2 cm de diámetro, pubarquia y testes de 3 ml. La exploración oftalmológica era normal.
+La tomografía computarizada (TC) descubrió un proceso expansivo intraselar (emergía desde el interior de la silla turca) con crecimiento supraselar, bien delimitado, de unos 3 cm de diámetro máximo, isodenso respecto al parénquima, de aspecto quístico con polo sólido y anillo periférico hipercaptantes tras la inyección de contraste. La resonancia magnética (RM) definió la porción quística supraselar de contenido proteináceo (ligeramente hiperintensa en T1 e hipointensa en T2) y la porción sólida intraselar isointensa a la sustancia gris en ambas secuencias y que realzaba intensamente tras gadolinio. Con el diagnóstico radiológico de craneofaringioma se indicó un tratamiento quirúrgico (no se había determinado el nivel de prolactina), y por abordaje transciliar derecho se realizó una exéresis macroscópicamente completa. La anatomía patológica diagnosticó adenoma hipofisario con inmunohistoquímica positiva para prolactina y cromogranina A.
+Tras la intervención, el paciente presentó una hemianopsia bitemporal con extensión mayor en el campo visual derecho y panhipopituitarismo, y fue derivado a endocrinología. Los niveles de prolactina tras la intervención eran de 83 ng/ml, sin restos del adenoma en la RM, y se inició tratamiento con cabergolina. La calcemia era normal (9,5 y 8,8 mg/dl), por lo que no existe sospecha de hiperparatiroidismo ni de otros tumores propios de la neoplasia endocrina múltiple (MEN 1).
+Remitido por: Dr. Emilio García García ggej@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="29" end="33" text="Hugo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="46" end="65" text="Fernandez Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="72" end="79" text="7483590" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T14" start="92" end="127" text="Calle Principe de Asturias, 3, 2, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="151" end="159" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="165" end="170" text="02356" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="214" end="224" text="28/05/1995" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="232" end="238" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="246" end="253" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="260" end="261" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="281" end="291" text="15/09/2008" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="301" end="321" text="Emilio García García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="329" end="340" text="02 02 52320" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="372" end="377" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="381" end="388" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2108" end="2128" text="Emilio García García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2129" end="2145" text="ggej@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Martina .
+Apellidos: Diaz Saez.
+NHC: 2386590.
+NASS: 94 26075685 39.
+Domicilio: Avenida de la Paz 98, 5 B.
+Localidad/ Provincia: Barcelona.
+CP: 08010.
+Datos asistenciales.
+Fecha de nacimiento: 30/09/1949.
+País: España.
+Edad: 67 años Sexo: M.
+Fecha de Ingreso: 08/04/2017.
+Médico: Javier González Lagunas NºCol: 08 08 57496.
+Historia Actual: Mujer de 67 años de edad que consulta a nuestro servicio por tumefacción en la región posterior del hemipaladar derecho. Se practicó una biopsia bajo anestesia local con el diagnóstico de PLGA. 
+Antecedentes: Como antecedente más relevante existía un tratamiento con radioterapia en la infancia por una patología no catalogada en la región de cabeza y cuello.
+Exploración física: En la exploración cervical presentaba una adenopatía a nivel submandibular derecho.
+Pruebas complementarias: La ortopantomografía era normal. Se solicitó una tomografia computerizada cervicofacial que se informa como lesión a nivel de fosa nasal derecha en estadio IV (T4N2CMx). Se realiza una punción citológica de la adenopatía submandibular que informa de probable PLGA. La RM muestra una lesión bien delimitada a nivel de fosa nasal con extensión hacia la región pterigoidea.
+Evolución y comentarios: Se decide intervención quirúrgica bajo anestesia general. El tumor fue abordado mediante una maxilotomía tipo Lefort I. Se realizó también un vaciamiento cervical ganglionar suprahomohioideo unilateral. Se llevó a cabo la resección tumoral y la reposición ósea del maxilar mediante miniplacas preconformadas de 1,5 mm.
+El resultado definitivo de la anatomía patológica confirmó el diagnóstico de PLGA, con invasión de márgenes quirúrgicos a nivel del área pterigomaxilar derecha. En el vaciamiento se detectaron adenopatías metastásicas (2/16) en el lado derecho (5).
+Se presentó a la paciente en la sesión de Cirugía Maxilofacial - Oncología decidiéndose radioterapia coadyuvante en la región pterigomaxilar derecha y seguir controles de imagen mediante resonancia. Dada la persistencia de restos tumorales se decide ampliación de márgenes quirúrgicos a nivel pterigomaxilar derecho y reconstrucción del defecto mediante bola adiposa bucal de Bichat.
+Dos años después, la paciente sigue controles periódicos y está libre de enfermedad.
+Remitido por: Dr. Javier González Lagunas. Clinica Gnation C/ Casanova 101, Principal. 08011 Barcelona. Teléfono : 948537965 Fax : 934514480 Email: glagunas@terra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="29" end="36" text="Martina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="50" end="59" text="Diaz Saez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="66" end="73" text="2386590" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="81" end="95" text="94 26075685 39" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="108" end="133" text="Avenida de la Paz 98, 5 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="157" end="166" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="172" end="177" text="08010" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="221" end="231" text="30/09/1949" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="239" end="245" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="253" end="260" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="267" end="268" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="288" end="298" text="08/04/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="308" end="331" text="Javier González Lagunas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="339" end="350" text="08 08 57496" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="369" end="374" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="378" end="385" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2309" end="2332" text="Javier González Lagunas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2334" end="2349" text="Clinica Gnation" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T6" start="2350" end="2376" text="C/ Casanova 101, Principal" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2378" end="2383" text="08011" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2384" end="2393" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="2406" end="2415" text="948537965" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T2" start="2422" end="2431" text="934514480" TYPE="NUMERO_FAX" comment=""/>
+    <CONTACT id="T1" start="2439" end="2456" text="glagunas@terra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

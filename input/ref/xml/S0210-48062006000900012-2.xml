@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Francisco.
+Apellidos: Losada Losada.
+NHC: 3894742.
+NASS: 74 67567656 87.
+Domicilio: C/ del Planetario, 28, 2, 3.
+Localidad/ Provincia: Madrid.
+CP: 28023.
+Datos asistenciales.
+Fecha de nacimiento: 21/09/1949.
+País de nacimiento: España.
+Edad: 63 años Sexo: H.
+Fecha de Ingreso: 04/12/2013.
+Médico: Ramiro Cabello Benavente  NºCol: 28 28 74102.
+Informe clínico del paciente: Varón de 63 años. Consultó por hematuria macroscópica monosintomática. Se solicitó una ecografía donde se apreció una masa de 5 cm en cara lateral izquierda de la vejiga que producía una ureterohidronefrosis en el riñón izquierdo. Realizamos una RTU-biopsia, objetivando un tumor vesical infiltrante de alto grado. El estudio de extensión resultó negativo. La creatinina del paciente era de 2,5 mg/dl. Se realizó una cistoprostatectomía radical laparoscópica con derivación urinaria tipo Bricker en marzo 2005 (pT2b No Mo de alto grado, afectando a zona trigonal y cara posterior).
+El curso operatorio evolucionó favorablemente. En la revisión postoperatoria al mes de la cirugía, se redujo la ureterohidronefrosis izquierda manteniendo cierto grado de atrofia cortical, y mejoró la función renal (creatinina de 1,65 mg/dl).
+El paciente presentaba muy mala tolerancia al estoma, insistiendo en su conversión en una derivación continente. Situación que nos planteamos por la mejoría de su función renal. A los dos meses realizamos una laparotomía exploradora, logrando una buena disección pélvica e identificación del muñón uretral. Construimos una neovejiga ileal con 45 cm de íleon. El tiempo quirúrgico fue de 180 minutos, con un sangrado menor de 80 cc. El paciente fue dado de alta al sexto día postoperatorio sin presentar complicaciones.
+A los 5 meses de la cirugía, está continente durante el día y la noche, con buen vaciamiento del reservorio.
+Ambos pacientes fueron concienzudamente informados de los riesgos de la cirugía y de sus posibles complicaciones, así como de las potenciales secuelas en términos de trastornos metabólicos, diarrea persistente e incontinencia y/o necesidad de autocateterismos por alto residuo post-miccional. En ambos, el asa de Bricker se liberó de la pared abdominal y tras acortarlo se anastomosó a la chimenea de la neovejiga, no precisando de reimplante ureteral. La sonda vesical se retiró a las 3 semanas, logrando ambos la continencia en corto espacio de tiempo. Los dos pacientes están muy satisfechos con la derivación ortotópica.
+Responsable clínico: Dr. Ramiro Cabello Benavente Av. Galaxia 6, esc. 2, 2ºb 28023. Madrid E-mail: ramirocabello@telefonica.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="37" text="Francisco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="50" end="63" text="Losada Losada" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="70" end="77" text="3894742" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T2" start="85" end="99" text="74 67567656 87" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="112" end="139" text="C/ del Planetario, 28, 2, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="163" end="169" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="175" end="180" text="28023" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="224" end="234" text="21/09/1949" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="270" end="277" text="63 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="284" end="285" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="305" end="315" text="04/12/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="325" end="349" text="Ramiro Cabello Benavente" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T1" start="358" end="369" text="28 28 74102" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="401" end="406" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="410" end="417" text="63 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="900" end="910" text="marzo 2005" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="2504" end="2528" text="Ramiro Cabello Benavente" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2529" end="2555" text="Av. Galaxia 6, esc. 2, 2ºb" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2556" end="2561" text="28023" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2563" end="2569" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="2578" end="2606" text="ramirocabello@telefonica.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

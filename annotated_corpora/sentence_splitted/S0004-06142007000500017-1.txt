@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Juan.
+Apellidos: Casado Casado.
+NHC: 5347986.
+NASS: 28 23748589 45.
+Domicilio: Calle puente cesures, 16.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 26/11/1947.
+País: España.
+Edad: 67 años Sexo: H.
+Fecha de Ingreso: 21/05/2015.
+Médico:  NºCol: 28 28.
+Informe clínico del paciente: Paciente varón de 67 años, sin antecedentes de interés, que acude a consulta de urología por primera vez, derivado por su médico de atención primaria, por síntomas de prostatismo. En el examen físico se encuentra una próstata de consistencia adenomatosa y de tamaño aumentado (III/IV). En la ecografia transrectal se observa un parénquima heterogéneo, con calcificaciones aisladas en lóbulo derecho, sin objetivarse imágenes hipoecoicas y con un volumen prostático de 101,7 c.c. En los análisis, elevación de PSA (13,08 ng/ml.). Se indica realización de biopsia prostática transrectal.
+El resultado de la anatomía patológica fue informado como nevus azul prostático. Se describe un parénquima prostático con inflamación crónica y reacción granulomatosa de tipo cuerpo extraño, con presencia de gránulos intracitoplásmicos y melanocitos fusiformes dendríticos.. No hay evidencia de malignidad en ninguna de las muestras.
+Remitido por: Pablo Garrido Abad Servicio de Urología Hospital La Princesa Diego de León, 28006 Madrird. (España). pgabad@hotmail.com

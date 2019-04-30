@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Andres Manuel.
+Apellidos: López Obrador.
+NHC: 87913.
+NASS: 76 01345609 43.
+Domicilio: Av. de la Constitución, 18 9D.
+Localidad/ Provincia:Granada.
+CP: 18012.
+Datos asistenciales.
+Fecha de nacimiento: 24/12/1958.
+País: España.
+Edad: 59 años Sexo: H.
+Fecha de Ingreso:13/07/2017.
+Médico: David Márquez Medina  NºCol: 18 18 69453.
+Motivo de ingreso: varón de 59 años que consulta por un cuadro de déficit intelectual, convulsiones, bradipsiquia, desorientación y estupor en los días previos. 
+Resumen de pruebas complementarias: La TAC sin contraste muestra una lesión frontal izquierda periférica y de 3'5 cms de diámetro, con una amplia base y efecto masa, acompañada de hernia trans-subcifoidal, colapso del tercer ventrículo y dilatación de los ventrículos laterales. Estos hallazgos fueron interpretados como la presencia de un menigioma del lóbulo frontal izquierdo y se efectuó una resección en Diciembre del 2000. La anatomía patológica fue informada como osteosarcoma meníngeo (Macroscopía: Masa de 5'2x4'5 cms parcialmente calcificada. Microscopía: Tumor osteogénico bien delimitado, sin infiltración del parénquima. Trabéculas óseas irregulares conteniendo áreas atípicas, áreas bien diferenciadas con células osteoclásticas, necrosis y hemorragia).
+La gammagrafía con 99mTecnecio fue positiva en el campo quirúrgico, los análisis de laboratorio normales y la TAC corporal mostraba parálisis del hemidiafragma izquierdo e hidrotórax.
+Derivado a nuestra unidad y descartada la afectación metastásica, el paciente inició un programa de QT adyuvante, pero tras un primer ciclo de cisplatino y adriamicina, la resonancia nuclear magnética evidenció la persistencia de una neoplasia meníngea frontal rodeada de una colección de sangre, con efecto masa y colapso ventricular.
+Se realizó una segunda resección con márgenes amplios y el patólogo informó en la pieza la persistencia de un osteosarcoma de la meninge dural, con infiltración del tejido cerebral y del hueso. Se programó un régimen de QT adyuvante con ciclofosfamida 600 mg/m2, bleomicina 15 mg/ m2 y actinomicina-D 0'6 mg/ m2 (día 1/21 días) y metotrexate semanal, que el paciente interrumpió por voluntad propia tras el primer ciclo. Por ese motivo se le administró RT adyuvante de Marzo a Mayo del 2000, 50 + 14 Gy (5x2 Gy/semanales) de 60Cobalto.
+El paciente continuó revisiones hasta Mayo del 2003, cuando se descubrió una recaída local mediante RNM, y fue enviado al servicio de Neurocirugía del Hospital Carlos Haya de Málaga. 
+Evolución y comentarios:El 11-05-2003, refiriendo déficit intelectual e incontinencia urinaria, se le realizó una nueva RNMC que mostraba un proceso expansivo frontoparietal, extendido al lóbulo frontal derecho y al cuerpo calloso, y una TAC torácica que apreciaba múltiples nódulos metastásicos en ambos pulmones. Se descartó tratamiento con cirugía, QT y RT, y se administraron corticoides a altas dosis, consiguiendo una mejoría inicial.
+Sin embargo, el 30 de Agosto del 2003, el paciente acudió a las urgencias de nuestro centro, presentando un severo deterioro de conciencia, con un índice de Karnoffsky del 30%, disnea y trombosis del sistema femoral izquierdo, apreciándose en la placa de tórax múltiples metástasis pulmonares.
+Conseguida su estabilización, se desestimó la aplicación de tratamiento oncológico activo y el paciente fue remitido a cargo de nuestra Unidad de Cuidados Paliativos.
+Remitido por: Dr. David Márquez Medina. Secretaría de Servicio de Oncología Médica y Radioterápica Hospital Clínico Universitario San Cecilio de Granada Avda. Doctor Olóriz, 16 E-18012 Granada E-mail: dmarmed@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T29" start="9" end="22" text="Andres Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T28" start="35" end="48" text="López Obrador" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T27" start="55" end="60" text="87913" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T26" start="68" end="82" text="76 01345609 43" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T25" start="95" end="124" text="Av. de la Constitución, 18 9D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T24" start="147" end="154" text="Granada" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T23" start="160" end="165" text="18012" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T22" start="209" end="219" text="24/12/1958" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T20" start="227" end="233" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T19" start="241" end="248" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T18" start="255" end="256" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T21" start="275" end="285" text="13/07/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T17" start="295" end="315" text="David Márquez Medina" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T15" start="324" end="335" text="18 18 69453" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T14" start="356" end="361" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="365" end="372" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="908" end="926" text="Diciembre del 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T2" start="2256" end="2261" text="Marzo" TYPE="FECHAS" comment=""/>
+    <DATE id="T1" start="2264" end="2277" text="Mayo del 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T11" start="2361" end="2374" text="Mayo del 2003" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="2474" end="2504" text="Hospital Carlos Haya de Málaga" TYPE="HOSPITAL" comment=""/>
+    <DATE id="T9" start="2534" end="2544" text="11-05-2003" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="2964" end="2985" text="30 de Agosto del 2003" TYPE="FECHAS" comment=""/>
+    <NAME id="T16" start="3427" end="3447" text="David Márquez Medina" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3508" end="3561" text="Hospital Clínico Universitario San Cecilio de Granada" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="3562" end="3585" text="Avda. Doctor Olóriz, 16" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3586" end="3593" text="E-18012" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3594" end="3601" text="Granada" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="3610" end="3629" text="dmarmed@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Emma.
+Apellidos: Chavez Montero.
+NHC: 87946.
+NASS: 78 23456236 40.
+Domicilio: Calle santa Eugenia 45, 2C.
+Localidad/ Provincia: Madrid.
+CP:28018.
+Datos asistenciales.
+Fecha de nacimiento: 10/03/1971.
+País: España.
+Edad: 46 años Sexo: M.
+Fecha de Ingreso: 21/08/2017.
+Médico: Ender Goñi Moreno  NºCol: 28 20 78096.
+Historia del paciente: Mujer de 46 años de edad sometida a mastectomía radical izquierda con linfadenectomía axilar en octubre del 2005 debido a un carcinoma ductal infiltrante en cuadrante súpero-externo con receptores hormonales positivos y metástasis ganglionar linfática en 1 de 13 ganglios aislados.
+En el mismo acto quirúrgico se realizó reconstrucción inmediata mediante colocación de una prótesis expansora (Becker anatómico) con capa de gel de silicona texturizada de 300 cc. de volumen, empezando la expansión 2 semanas después de la cirugía y alcanzando el volumen máximo de expansión 1 mes más tarde.
+Como tratamiento complementario se instauró quimioterapia según esquema secuencial de adriamicinaciclofosfamida y taxano, recibiendo un total de 24 sesiones durante el periodo comprendido entre noviembre del 2005 y mayo del 2007, seguido de trastuzumab. El tratamiento hormonal complementario con letrozol se mantiene durante un periodo aproximado de 3 años.
+El segundo tiempo de la reconstrucción se realizó en julio del 2006, mediante el recambio de la prótesis expansora por un implante mamario de gel de silicona texturizada de 320 cc. de tamaño en la misma ubicación subpectoral.
+En los controles clínicos de seguimiento se evidenció una depresión a nivel del borde medial de la cicatriz de mastectomía, en forma de hachazo, que disgustaba tanto a la paciente como al propio equipo quirúrgico, por lo que se decidió realizar en marzo del 2007 un remodelado del mismo mediante injerto graso de tejido adiposo obtenido de zona abdominal y procesado mediante la técnica de Coleman, previa infiltración de la cicatriz con 3 cc. de anestésico local (lidocaína 1 % con adrenalina); fue realizado sin incidencias infiltrándose un total de 5 cc. de tejido graso en la zona del defecto.
+La paciente continuó su seguimiento por el Servicio de Gíneco-Oncología, realizándose pruebas de imagen de control según la guía de diagnóstico y tratamiento de tumores malignos de nuestro hospital. Concretamente se realizaron 4 mamografías anuales y 2 ecografías mamarias entre mayo del 2006 y abril del 2009, sin evidencia de alteraciones que sugirieran daño en la integridad de la prótesis.
+En marzo del 2010 se practicó una nueva ecografía mamaria en la que se visualizó en la superficie anterior del interior de la prótesis mamaria una imagen ovoidea quística no informada previamente, por lo que el radiólogo decidió practicar una RM. Dicho procedimiento fue llevado a cabo un mes más tarde y se observó en la prótesis una imagen nodular, localizada en la zona de intercuadrantes internos, de unos 2,5cm de diámetro, que impresionaba como imagen de contenido líquido, sin signos inflamatorios ni signos de rotura protésica. En distintos cortes parecía como si una estructura alargada, en forma de gancho, se introdujera en el interior de la prótesis, de forma parecida a como se introduce un dedo en un globo a medio hinchar. La paciente no refería sintomatología alguna.
+Ante tales datos en las imágenes, decidimos efectuar exploración quirúrgica teniendo en cuenta la posibilidad de vernos obligados a retirar la prótesis mamaria. En principio se pensó que quizá el infiltrado de grasa podría haberse introducido en el interior de la cápsula protésica y haber empujado la prótesis, sin romperla, creando una concavidad profunda en su interior, a modo de túnel.
+En el acto operatorio se comprobó que la prótesis parecía estar íntegra, y que dentro de la cápsula no había ningún tipo de tejido que pudiera alterar la forma del implante. En la zona de la cápsula que estaba en contacto con el lugar donde se produjo el infiltrado de la grasa no había alteraciones, pero decidimos no obstante tomar biopsia del área de tejido graso inyectado; dicha biopsia correspondió en el estudio histológico con tejido fibroso sin signos de malignidad.
+Al retirar la prótesis para examinarla, nos llamó la atención que en su interior aparecieran varias manchas opacas diseminadas en distintos lugares, sin distribución lineal, que podrían hacernos pensar que se trataba de punciones por aguja. No obstante, en un punto próximo a la mayor de ellas, tras realizar fuerte compresión en la prótesis, vimos que se herniaba ligeramente la silicona cohesiva del implante. Decidimos entonces, una vez retirado el mismo, abrirlo y enviar muestras del material que estaba en su interior. La sustitución del implante retirado se hizo con otro de las mismas características.
+El estudio anatomopatológico informó la muestra analizada del interior de la prótesis como material hemático.
+Remitido por: Dr. Ender Goñi Moreno. Servicio de Cirugía Plástica. Hospital Gregorio Marañón. Área 3400. C/ Dr. Esquerdo 46. 28007 Madrid. España. e-mail: doctorender@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T31" start="8" end="12" text="Emma" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T30" start="25" end="39" text="Chavez Montero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T29" start="46" end="51" text="87946" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T28" start="59" end="73" text="78 23456236 40" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T27" start="86" end="112" text="Calle santa Eugenia 45, 2C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T26" start="136" end="142" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T25" start="147" end="152" text="28018" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T24" start="196" end="206" text="10/03/1971" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T23" start="214" end="220" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T22" start="228" end="235" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T21" start="242" end="243" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T20" start="263" end="273" text="21/08/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T19" start="283" end="300" text="Ender Goñi Moreno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T18" start="309" end="320" text="28 20 78096" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T17" start="345" end="350" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T16" start="354" end="361" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="441" end="457" text="octubre del 2005" TYPE="FECHAS" comment=""/>
+    <DATE id="T14" start="1129" end="1147" text="noviembre del 2005" TYPE="FECHAS" comment=""/>
+    <DATE id="T13" start="1150" end="1163" text="mayo del 2007" TYPE="FECHAS" comment=""/>
+    <DATE id="T12" start="1347" end="1361" text="julio del 2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T11" start="1768" end="1782" text="marzo del 2007" TYPE="FECHAS" comment=""/>
+    <DATE id="T10" start="2397" end="2410" text="mayo del 2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="2413" end="2427" text="abril del 2009" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="2515" end="2529" text="marzo del 2010" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="4901" end="4918" text="Ender Goñi Moreno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="4950" end="4975" text="Hospital Gregorio Marañón" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="4988" end="5006" text="C/ Dr. Esquerdo 46" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="5008" end="5013" text="28007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="5014" end="5020" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="5022" end="5028" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="5038" end="5061" text="doctorender@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

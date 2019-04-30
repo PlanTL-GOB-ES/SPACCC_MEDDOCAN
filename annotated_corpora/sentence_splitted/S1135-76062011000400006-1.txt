@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Beatriz.
+Apellidos: Bordonava Rojas.
+NHC: 5389636.
+NASS: 47 563597 36.
+Domicilio: Calle del Alcalde Pablo Durán y Pérez de Castro, 6, 11, A.
+Localidad/ Provincia: Madrid.
+CP: 28013.
+Datos asistenciales.
+Fecha de nacimiento: 23/03/2008.
+País de nacimiento: España.
+Edad: 4 años  Sexo: H.
+Fecha de Ingreso: 11/09/2017.
+Médico: Ana Mª Gómez García  NºCol: 46 20 58491.
+Presentamos el caso de un joven adolescente que sufrió una herida única por arma blanca en hemitórax derecho y fue abandonado a las puertas de un servicio de urgencias. Fue tratado quirúrgicamente practicando: esternotomía con pericardiotomía, evacuación del hemopericardio y reparación de la lesión incisa en la aurícula derecha con sección de la arteria coronaria derecha. A pesar del tratamiento, el paciente falleció y se le practicó la autopsia judicial.
+Dirección para correspondencia: Dra. Mercè Subirana Servicio de Patología Forense. Zona Sur. Institut Medicina Legal de Catalunya. Ciutat de la Justícia. Edificio G. Gran Vía Corts Catalanes, 111 08014 Barcelona E-mail: 25402msd@comb.cat

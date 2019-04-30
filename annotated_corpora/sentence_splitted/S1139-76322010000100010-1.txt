@@ -1,0 +1,21 @@
+Nombre: Bruno .
+Apellidos: Rojo Martinez.
+NHC: 925546.
+NASS: 34 75630945 01.
+Domicilio: Calle Taconera, 1.
+Localidad/ Provincia: Torremolinos.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 13/12/2001.
+País: España.
+Edad: 13 años  Sexo: H.
+Fecha de Ingreso: 21/05/2018.
+Servicio: Nefrología.
+Médico: Manuel Fernandez Arjona   NºCol: 45 45 78203.
+Un niño de 12 años acudió a la consulta de su pediatra de Atención Primaria por presentar malestar general, febrícula, hiporexia y deposiciones blandas frecuentes. Fue diagnosticado de gastroenteritis aguda. En la auscultación cardíaca, además de unos tonos rítmicos sin soplos ni anomalías en el segundo tono, se objetivó un dato que llamó la atención. Se interrogó al niño sobre antecedentes de precordalgias, presíncopes, síncopes, síntomas relacionados con el ejercicio así como la tolerancia a éste, palpitaciones y sensación de disritmia cardíaca, sin respuestas sugerentes de patología. Tras realizar un electrocardiograma (ECG) y una radiografía de tórax, y una vez que el pediatra confirma su sospecha, el paciente es remitido a cardiología infantil para completar el estudio.
+
+¿Cuál es la interpretación del ECG?, ¿y el hallazgo auscultatorio que llamó la atención al pediatra?, ¿y la sospecha diagnóstica? Es necesario revisar el ECG antes de seguir leyendo.
+El ECG muestra, siguiendo la lectura sistemática, un ritmo auricular ectópico procedente de la parte superior de la aurícula izquierda (onda P negativa en I, positiva en aVF). Sin embargo, observamos un eje anómalo (derecho) de QRS y T (aproximadamente 180o en ambos), pues tanto los complejos QRS como las ondas T son negativas donde habitualmente son positivas (I, II, aVL, aVF), y viceversa.
+Estos hallazgos electrocardiográficos sólo pueden deberse a una incorrecta colocación de la totalidad de los electrodos (en el hemitórax equivocado) o a la existencia de dextrocardia (ubicación del corazón en el hemitórax derecho). El dato auscultatorio fue la presencia de los tonos cardíacos en el hemitórax derecho; asimismo, en la radiografía de tórax se objetivó dextrocardia, hígado situado en hemiabdomen izquierdo y burbuja gástrica en hemiabdomen derecho. Con la confirmación de situs inversus totalis, el niño fue remitido a cardiología infantil para descartar la presencia de una cardiopatía congénita.
+
+Dirección para correspondencia: David Crespo Marcos, dcrespo@fhalcorcon.es

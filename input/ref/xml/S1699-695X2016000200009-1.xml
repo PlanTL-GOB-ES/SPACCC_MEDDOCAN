@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Martin.
+Apellidos: Castillo Puebla.
+NHC: 3089257.
+Domicilio: Calle Antonio González Echarte, 1, 3A.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 05/04/2008.
+País: España.
+Edad: 10 años Sexo: Varón.
+Fecha de Ingreso: 31/05/2018.
+Médico: Ruth Bravo Lizcano NºCol: 28 31 23689.
+Historia Actual: varón de 10 años sin antecedentes de interés, con gonalgia bilateral, dorsalgia y lumbalgia tras caída de una bicicleta hace 4 días. A la exploración presentaba una movilidad activa y pasiva conservada con dolor en ambos miembros inferiores (MMII). No se observaron datos de fracturas ni alteraciones neurológicas. Se pautó reposo deportivo, frío local y tratamiento antiinflamatorio. A las 48 horas, el paciente acude nuevamente por persistencia del dolor, pérdida de fuerza, parestesias en MMII, dificultad para incorporarse y deambular e incontinencia urinaria. 
+Exploración física:  La exploración física reveló una disminución de la fuerza y una alteración de la sensibilidad en ambos MMII. Ante la sospecha de mielitis transversa se derivó al paciente al servicio de urgencias hospitalario. 
+Resumen de pruebas complementarias: Durante su ingreso la analítica sanguínea resultó normal, el estudio del líquido cefalorraquídeo reveló una moderada pleocitosis, sin presencia de bandas oligoclonales de IgG; el electroencefalograma no evidenció alteraciones y los potenciales evocados demostraron una parálisis y espasticidad de MMII, hiporreflexia y Babinsky bilateral, ausencia de reflejos abdominales y cremastéricos, hiperalgesia y disestesia del tronco y MMII. El electromiograma reveló una alteración de la sensación somatosensorial medular a través de los cordones posteriores, sin conducción a través del cordón derecho y con alteración parcial del cordón izquierdo. La resonancia magnética (RM) cerebral resultó normal, sin embargo, la RM medular mostró una lesión expansiva a nivel medular desde D1 a D6 compatible con mielitis transversa.
+Evolución y comentarios: A las 24 horas de ingreso, el paciente presentó un dolor intenso en el ojo derecho con pérdida brusca de la agudeza visual. Fue valorado por oftalmología, diagnosticándose una neuritis óptica derecha.
+Ante la presencia de mielitis transversa y neuritis óptica, con RM cerebral que no cumplía criterios de esclerosis múltiple y RM medular que muestra una lesión de tres o más segmentos medulares (D1 a D6), se realizó estudio del anticuerpo antiacuoporina-4, que fue negativo. De acuerdo con la clínica, evolución y pese a la negatividad del anticuerpo, se diagnosticó al paciente de neuromielitis óptica o enfermedad de Devic (ver criterios diagnósticos tabla 1).
+Inicialmente el paciente fue tratado con metilprednisolona intravenosa a dosis de 1 g/día sin presentar mejoría, por lo que se realizó plasmaféresis con buena evolución clínica.
+El paciente fue seguido por neurología, oftalmología y urología con mejoría progresiva y descenso progresivo de corticoterapia. Catorce meses después, el paciente presentaba una recuperación completa de fuerza y sensibilidad de MMII, marcha normal, reflejos normales, ausencia de espasticidad, ataxia o dismetría; ocasionalmente presentaba hiperestesia lumbar dolorosa de carácter autolimitado. En el ojo derecho mantiene visión borrosa de cerca, con atenuación de la percepción de los colores, aunque consiguió recuperar el 70 % de la agudeza visual. Persiste la enuresis nocturna por espasticidad vesical que continúa tratando con desmopresina.
+Remitido por: Dra. Ruth Bravo Lizcano. Hospital Universitario La Paz. Paseo de la Castellana, 261, 28046 Madrid. Correo electrónico: ruth.b.l.87@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="34" text="Martin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="47" end="62" text="Castillo Puebla" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="69" end="76" text="3089257" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="89" end="126" text="Calle Antonio González Echarte, 1, 3A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="150" end="156" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="162" end="167" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="211" end="221" text="05/04/2008" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="229" end="235" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="243" end="250" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="257" end="262" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="282" end="292" text="31/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="302" end="320" text="Ruth Bravo Lizcano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="328" end="339" text="28 31 23689" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="358" end="363" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="367" end="374" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="3543" end="3561" text="Ruth Bravo Lizcano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3563" end="3592" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3594" end="3621" text="Paseo de la Castellana, 261" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3623" end="3628" text="28046" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3629" end="3635" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3657" end="3678" text="ruth.b.l.87@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

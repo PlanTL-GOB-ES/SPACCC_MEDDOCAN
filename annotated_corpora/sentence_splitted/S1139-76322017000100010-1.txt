@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre:  Borja.
+Apellidos: Sandoval Recamal.
+NHC: 3456944.
+Domicilio: Calle La Marina, 32, 4 B.
+Localidad/ Provincia: Madrid.
+CP: 28035.
+Datos asistenciales.
+Fecha de nacimiento:12/11/2013.
+País: España.
+Edad: 3 años Sexo: H.
+Fecha de Ingreso: 08/02/2017.
+Médico: Maria Andrade Castellar  NºCol: 28 28.
+Informe clínico del paciente: NIño preescolar de tres años que acude a su centro de salud por presentar, desde hace un mes, cefalea bitemporal, diaria, vespertina, de horas de duración, que cede tras analgesia. El dolor no aparece durante el sueño ni interfiere en su actividad diaria. No presenta aura, sonofobia ni fotofobia. No asocia vómitos ni otros síntomas. Antecedentes personales sin interés. Desarrollo psicomotor y pondoestatural normal. Exploración física y neurológica dentro de la normalidad. Se remite a Oftalmología, donde se descarta patología. Se solicita una analítica en la que destaca la ferritina, de 8 ng/ml, siendo el hemograma y resto de bioquímica anodinas. Tras ello se inicia un tratamiento con hierro oral.
+A los dos meses consulta por persistencia de la cefalea, por lo que se deriva a Neuropediatría (resonancia magnética nuclear [RMN] cerebral normal) y se realiza un control analítico para la valoración de la ferropenia previa, determinándose anticuerpos IgA antitransglutaminasa (> 128 U/ml) e IgA (normal). Posteriormente se obtuvo biopsia confirmatoria de enfermedad celíaca con atrofia vellositaria Marsh tipo II-III, y se realizó tipificación sistema de histocompatibilidad (human leukocyte antigen [HLA]) de baja resolución, obteniéndose un haplotipo DQ2 de susceptibilidad celíaca en cis. Tras el diagnóstico se inició dieta exenta de gluten presentando una evolución favorable con desaparición de la cefalea y corrección de los niveles de ferritina.
+Remitido por: Dra. Maria Andrade Castellar. Correo electrónico: marian22_84@hotmail.es

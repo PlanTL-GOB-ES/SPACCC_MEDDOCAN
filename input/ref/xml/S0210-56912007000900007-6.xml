@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Jacinta.
+Apellidos: Ramos Rubio.
+NHC: 7845963.
+NASS:16 911364589 54.
+Domicilio: Calle del Obispo Rafael Torija, 18, 7E .
+Localidad/ Provincia: Ciudad Real.
+CP:13005.
+Datos asistenciales.
+Fecha de nacimiento: 30/06/1956.
+País: España.
+Edad:61 años  Sexo: M.
+Fecha de Ingreso: 19/07/2017.
+Episodio:157995415.
+Médico: Jorge Ortega-Carnicer NºCol: 13 13 45684.
+Motivo de ingreso: Mujer de 61 años trasladada desde un hospital comarcal por fallo renal agudo. La enferma refirió que había tenido diarrea intensa y vómitos desde hacía una semana. 
+Antecedentes:Sus antecedentes incluían hipertensión arterial y DM tratadas con irbesartán, amlodipino y metformina (850 mg/12 h)
+Exploración física: La exploración puso de manifiesto intensa deshidratación, taquipnea y bradipsiquia, aunque respondía a órdenes. El abdomen estaba blando y no doloroso. La presión arterial fue de 90/40 mmHg, la frecuencia cardíaca de 70 latidos/minuto y la temperatura de 35,8º C.
+Resumen de pruebas complementarias: La amilasa sérica era de 94 U/l. El aporte de fluidos normalizó la presión arterial y la administración de 165 mEq de bicarbonato elevó el pH a 7,06 y el bicarbonato a 4 mEq/l. La paciente fue sometida a una sesión de hemodiálisis urgente y se suprimió el tratamiento con metformina. A las 12 horas del ingreso la creatinina era de 2,2 mg/dl y el pH de 7,43, pero la amilasa ascendió a 1.319 U/l, con normalidad del calcio iónico y de los triglicéridos. 
+Evolución y comentarios: La tabla 2 muestra los principales datos analíticos.Una tomografía computarizada abdominal descubrió una infiltración de la grasa peripancreática con líquido libre abdominal compatible con pancreatitis aguda. No se encontraron causas conocidas de pancreatitis, incluyendo hipertrigliceridemia, hipercalcemia, alcoholismo, litiasis biliar o trauma. La paciente tuvo una evolución favorable y fue trasladada a planta a las 72 horas del ingreso.
+Remitido por:  Dr. Jorge Ortega-Carnicer. Calle de Los Alisos, 10. 13002 Ciudad Real. Correo electrónico: jortegacar@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="16" text="Jacinta" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="29" end="40" text="Ramos Rubio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="47" end="54" text="7845963" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="61" end="76" text="16 911364589 54" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="89" end="127" text="Calle del Obispo Rafael Torija, 18, 7E" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="152" end="163" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="168" end="173" text="13005" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="217" end="227" text="30/06/1956" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="235" end="241" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="248" end="255" text="61 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="263" end="264" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="284" end="294" text="19/07/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T10" start="305" end="314" text="157995415" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T9" start="324" end="345" text="Jorge Ortega-Carnicer" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="353" end="364" text="13 13 45684" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="385" end="390" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="394" end="401" text="61 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="1941" end="1962" text="Jorge Ortega-Carnicer" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="1964" end="1987" text="Calle de Los Alisos, 10" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1989" end="1994" text="13002" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1995" end="2006" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2028" end="2048" text="jortegacar@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

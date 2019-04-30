@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Leyre .
+Apellidos: Santana Prados.
+NHC: 2784056.
+Domicilio: Calle los MOlinos, 32, 8 D.
+Localidad/ Provincia: Madrid.
+CP: 28014.
+Datos asistenciales.
+Fecha de nacimiento: 20/04/2002.
+País de nacimiento: España.
+Edad: 13 años Sexo: M.
+Fecha de Ingreso: 27/08/2015.
+Médico: Manuel Jesús Rodríguez-López  NºCol: 28 28 90914.
+Informe clínico del paciente: Niña de 13 años de edad con cuadro de SDRC de extremidad inferior derecha secundario también a un esguince de tobillo ocurrido seis meses antes de su llegada a la Unidad. La actitud a seguir fue colocación en quirófano, baja anestesia general, de un electrodo octopolar (Octrode) en cordones medulares posteriores a nivel de T9-T12 y conexión a un generador de impulsos eléctricos externo. Una vez recuperada de la anestesia se llevó a cabo la programación del sistema con muy buena localización de las parestesias sobre la zona afectada. Se revisó una semana más tarde en la Unidad observándose una buena respuesta tanto para el dolor como para el edema y resto de signos, se volvió a revisar una semana más tarde en la cual se comprobó el mantenimiento de la situación de control del dolor y de la alodinia, lo que había permitido que la paciente iniciara los ejercicios de rehabilitación que había tenido que suspender por el dolor severo que le desencadenaba la movilización de la extremidad. Ante esta situación y, de acuerdo con los padres, se decidió la conexión, en quirófano y bajo anestesia general, a un generador de impulsos eléctricos programable marca Génesis.
+Se evaluó a los 15 y 30 días después de la implantación del generador, continuando en la misma situación de alivio del dolor y sintomatología acompañante. Seis meses más tarde la paciente acudió a consulta a la Unidad, manteniéndose tanto el alivio del dolor, como del resto de la sintomatología, habiendo desaparecido la alodinia y gran parte del edema y del resto de los síntomas acompañantes, la paciente ya podía apoyar el pie y continuaba con la rehabilitación, comunicándonos la familia que desde hacía dos meses no habían utilizado el generador al que mantenían desconectado, sin que ni el dolor ni los síntomas acompañantes hubiesen hecho su aparición.
+Ante esta situación, se decidió revisar a la paciente en un plazo de cuatro semanas continuando durante ese tiempo con los ejercicios de rehabilitación. Se evaluó cuatro semanas más tarde y ante la persistencia de la situación anterior, se decidió, de mutuo acuerdo con la familia, explantar tanto el generador como el eléctrodo medular, cosa que se hizo de nuevo en quirófano y bajo anestesia general. La paciente, en la actualidad continua asintomática y realizando su vida normal.
+Responsable clínico: Dr. Manuel Jesús Rodríguez-López Dirección: maje1946@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="33" text="Leyre" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="47" end="61" text="Santana Prados" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="68" end="75" text="2784056" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T17" start="88" end="114" text="Calle los MOlinos, 32, 8 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="138" end="144" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="150" end="155" text="28014" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="199" end="209" text="20/04/2002" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="231" end="237" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="245" end="252" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="259" end="260" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="280" end="290" text="27/08/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="300" end="328" text="Manuel Jesús Rodríguez-López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="337" end="348" text="28 28 90914" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="380" end="384" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="388" end="395" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T4" start="1419" end="1425" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="2040" end="2047" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="2489" end="2496" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2725" end="2753" text="Manuel Jesús Rodríguez-López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T3" start="2765" end="2782" text="maje1946@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

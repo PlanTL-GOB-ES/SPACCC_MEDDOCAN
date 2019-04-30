@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Matilde.
+Apellidos: Salamanca Barrios.
+NHC: 3784565.
+NASS: 28 45657346 90.
+Domicilio: C/ Pueblo Nuevo, 180, 2 A.
+Localidad/ Provincia: Madrid.
+CP: 28005.
+Datos asistenciales.
+Fecha de nacimiento: 03/10/1949.
+País de nacimiento: España.
+Edad: 67 años Sexo: M.
+Fecha de Ingreso: 09/07/2017.
+Médico:Alejandro Otrosky Arenales  NºCol: 28 28 91978.
+Informe clínico del paciente: Paciente de sexo femenino, de 67 años de edad, derivado al Servicio de Cirugía Maxilofacial de nuestro hospital, presentando una tumoración circunscripta en la región parotídea izquierda. A la palpación se presentaba con consistencia pastosa, fácilmente desplazable, sin signos de infección ni alteraciones de la piel. No encontramos adenopatías palpables en las cadenas ganglionares del cuello. No presentaba ningún tipo de dolor en la zona del tumor. Al examen intrabucal no se observaron alteraciones. El tiempo de evolución era de 3 años. La paciente no presentaba otras alteraciones sistémicas de relevancia.
+Se solicitó una tomografía computada, mediante la cual se observa que el tumor compromete el lóbulo superficial de la glándula parótida izquierda. No hay evidencia de alteraciones en los tejidos vecinos. Dada la clínica, el diagnóstico presuntivo es de un tumor benigno de glándulas salivales.
+Bajo anestesia general y a través de un abordaje extraoral, se procedió a la extirpación del tumor, realizando la lobectomía superficial de la glándula parótida con conservación del nervio facial.
+La anatomía patológica confirma el diagnóstico de mioepitelioma benigno. Los análisis inmunohistoquímicos revelan marcadores típicos para las células mioepiteliales claras: actina, proteína S- 100 y vimentina.8
+El postoperatorio cursa sin complicaciones. Sólo se evidencia una paresia de los músculos peribucales en el lado operado, la cual remite totalmente a los 3 meses. Luego de un año de seguimiento no se detectan signos de recidiva.
+Responsable clínico: Dr. Alejandro Otrosky Arenales. Email: diegomartinvilla@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="35" text="Matilde" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="48" end="65" text="Salamanca Barrios" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="72" end="79" text="3784565" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="87" end="101" text="28 45657346 90" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="114" end="139" text="C/ Pueblo Nuevo, 180, 2 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="163" end="169" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="175" end="180" text="28005" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="224" end="234" text="03/10/1949" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="270" end="277" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="284" end="285" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="305" end="315" text="09/07/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="324" end="350" text="Alejandro Otrosky Arenales" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="359" end="370" text="28 28 91978" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="419" end="427" text="femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="432" end="439" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="1972" end="1998" text="Alejandro Otrosky Arenales" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2007" end="2035" text="diegomartinvilla@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

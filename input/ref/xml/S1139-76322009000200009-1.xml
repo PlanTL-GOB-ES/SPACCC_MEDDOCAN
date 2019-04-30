@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Sheila.
+Apellidos: Lobo Rot.
+NHC: 9845721.
+Domicilio: Av/ Colombia, 19.
+Localidad/ Provincia: Albacete.
+CP: 02356.
+Datos asistenciales.
+Fecha de nacimiento: 21/07/2016.
+País: España.
+Edad: 12 meses Sexo: M.
+Fecha de Ingreso: 02/08/2017.
+Médico: Pascual Barona Zamora NºCol: 02 02 32201.
+Informe clínico del paciente: Lactante mujer de 12 meses de edad que acudía a consulta por llanto persistente, tos escasa y dificultad respiratoria de unas 10 horas de evolución. Asociaba dos vómitos, rechazo parcial de la alimentación y rinorrea. Entre sus antecedentes personales destacaban tres episodios previos de broncoespasmo. Como antecedente familiar a destacar, la madre padecía asma.
+En la exploración clínica se apreciaba: peso de 8,1 kg (P3), talla de 72 cm (P25), temperatura de 37,4º C, presión arterial de 101/85 mm Hg, frecuencia cardíaca de 148 latidos por minuto, frecuencia respiratoria de 68 respiraciones por minuto y saturación de oxígeno de 90%. Tenía un buen aspecto general, estaba irritable y no se calmaba en brazos de la madre. Presentaba una respiración entrecortada, con tiraje subcostal e intercostal. En la auscultación respiratoria se objetivaba una buena entrada de aire con sibilancias espiratorias bilaterales y espiración alargada. La auscultación cardíaca era normal. La orofaringe estaba hiperémica, con abundante moco en cavum. En la otoscopia se observaba una hiperemia timpánica bilateral con reflejo luminoso conservado. El resto de la exploración era normal.
+Se le realizaron radiografías de tórax anteroposterior y lateral en las que se objetivó atrapamiento aéreo con presencia de aire anterocardíaco, signo del diafragma continuo y un mínimo enfisema subcutáneo en cuello. Se llegó con ello al diagnóstico de neumomediastino asociado a broncoespasmo y se ingresó en el hospital. Se le administró tratamiento con oxígeno mediante gafas nasales según necesidades, salbutamol inhalado y prednisolona por vía oral. La evolución clínica fue buena, al tercer día no había signos ni síntomas de dificultad respiratoria, y en la radiografía de tórax de control se apreciaba una disminución del tamaño del aire en mediastino, por lo que fue dada de alta. La prueba de cloruros en sudor fue normal.
+Remitido por: Dr. Pascual Barona Zamora pascualbarona@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="29" end="35" text="Sheila" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="48" end="56" text="Lobo Rot" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="63" end="70" text="9845721" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T17" start="83" end="99" text="Av/ Colombia, 19" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="123" end="131" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="137" end="142" text="02356" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="186" end="196" text="21/07/2016" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="204" end="210" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="218" end="226" text="12 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="233" end="234" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="254" end="264" text="02/08/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="274" end="295" text="Pascual Barona Zamora" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="303" end="314" text="02 02 32201" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T1" start="346" end="354" text="Lactante" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="355" end="360" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="364" end="372" text="12 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T4" start="691" end="696" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T3" start="1066" end="1071" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2271" end="2292" text="Pascual Barona Zamora" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T2" start="2293" end="2316" text="pascualbarona@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Juan.
+Apellidos: Manrique Garcia.
+NHC: 5289067.
+NASS: 47 05162350 32.
+Domicilio: Plaza De Recintos, 18, 1C.
+Localidad/ Provincia: Salamanca.
+CP: 37029.
+Datos asistenciales.
+Fecha de nacimiento: 24/11/1957.
+País: España.
+Edad: 57 años Sexo: H.
+Fecha de Ingreso: 03/05/2015.
+Médico: Maria Luz Sánchez Tocino NºCol: 28 28.
+Informe clínico del paciente: Varón de 57 años con antecedentes de hipertensión arterial y dislipemia, presenta una cardiopatía isquémica e infarto agudo de miocardio inferior en 2004, arteriopatía periférica con realización de by-pass aorto bifemoral en 2006, sufre en 2010 una isquemia aguda de extremidad inferior izquierda por oclusión de by-pass que requirió revascularización urgente con trombectomia. Se encuentra en programa de hemodiálisis desde Diciembre de 2010 por Insuficiencia renal crónica posiblemente secundaria a nefroangiosclerosis.
+Tras fallo de FAVI radiocefálica izquierda se le coloca un catéter temporal yugular izquierdo a finales de agosto de 2013, que es disfuncionante desde el comienzo pero que se mantiene hasta el uso de nueva FAVI húmero cefálica izquierda.
+Al mes de colocación del catéter, el paciente refiere de modo puntual a enfermería lumbalgia postural, aunque el propio paciente lo achaca a la realización de algún esfuerzo.
+Tras la retirada del catéter (43 días después de inserción), en varias sesiones posteriores presenta malestar general y fiebre, se realiza control bacteriológico del monitor que es negativo y se administra de manera empírica, vancomicina 1 g. junto a un antitérmico, el paciente permanece estable durante el mes siguiente.
+Posteriormente, refiere de nuevo dolor lumbar muy intenso que apenas le permite la deambulación, acude a urgencias hasta en cuatro ocasiones en las que tras exploración, radiografía y ecografía abdominal siempre diagnostican lumbalgia mecánica.
+Dado el deterioro del estado general y tras comprobar alteraciones analíticas (aumento proteína C reactiva y velocidad de sedimentación globular) ingresa en la unidad de medicina interna para estudio. Tras resultados microbiológicos positivos para S. aureus se inicia tratamiento antibiótico dirigido con cloxacilina. Tras la realización de una resonancia nuclear magnética (RNM) se diagnostica una espondilodiscitis D10-D11 que asocia un absceso paravertebral que no condiciona un compromiso de estructuras nerviosas.
+Se inicia tratamiento analgésico con fármacos de primer nivel asociados a opiáceos transdérmicos, con titulación progresiva de dosis a lo largo de su estancia hospitalaria y control aceptable del dolor.
+El paciente permanece afebril durante todo su ingreso, con disminución progresiva de reactantes de fase aguda y negativización de hemocultivos. Completa cinco semanas de tratamiento antibiótico intravenoso dirigido, pasando a terapia oral ambulatoria y se procede a alta hospitalaria. En estos momentos el paciente permanece estable sin más sintomatología intrahemodiálisis con analgesia controlada por el mismo y a la espera de nueva RNM de control.
+Remitido por: Dra. Maria Luz Sánchez Tocino Supervisora Centros FRIAT. Salamanca Centro Hemodiálisis "Las Encinas" C/ Escuelas, 4-6 37500. Cuidad Rodrigo. Salamanca E-mail: lsanchez@friat.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T30" start="29" end="33" text="Juan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T29" start="46" end="61" text="Manrique Garcia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T28" start="68" end="75" text="5289067" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T27" start="83" end="97" text="47 05162350 32" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T26" start="110" end="135" text="Plaza De Recintos, 18, 1C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T25" start="159" end="168" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T24" start="174" end="179" text="37029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T22" start="223" end="233" text="24/11/1957" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T23" start="241" end="247" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T20" start="255" end="262" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T18" start="269" end="270" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T21" start="290" end="300" text="03/05/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T16" start="310" end="334" text="Maria Luz Sánchez Tocino" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T14" start="342" end="347" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T17" start="379" end="384" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T19" start="388" end="395" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="528" end="532" text="2004" TYPE="FECHAS" comment=""/>
+    <DATE id="T12" start="604" end="608" text="2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T11" start="619" end="623" text="2010" TYPE="FECHAS" comment=""/>
+    <DATE id="T10" start="804" end="821" text="Diciembre de 2010" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="1008" end="1022" text="agosto de 2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T15" start="3074" end="3098" text="Maria Luz Sánchez Tocino" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="3111" end="3124" text="Centros FRIAT" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T7" start="3126" end="3135" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="3136" end="3169" text="Centro Hemodiálisis &quot;Las Encinas&quot;" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="3170" end="3186" text="C/ Escuelas, 4-6" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3187" end="3192" text="37500" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3194" end="3208" text="Cuidad Rodrigo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3210" end="3219" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3228" end="3245" text="lsanchez@friat.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

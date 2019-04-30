@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: José Manuel.
+Apellidos: Ulloa Origel.
+NHC: 2798603.
+Domicilio: Calle Montevideo,66.
+Localidad/ Provincia: Madrid.
+CP: 28003.
+Datos asistenciales.
+Fecha de nacimiento: 25/10/1956.
+País: España.
+Edad: 50 años  Sexo: H.
+Fecha de Ingreso: 02/03/2010.
+Médico: Estefanía Ballesteros Moya  NºCol: 47 47 91956.
+Paciente varón homosexual de 49 años con antecedentes de tuberculosis pulmonar en la infancia tratada con estreptomicina, esfinterotomía lateral interna reciente por fisura anal y pólipos centinela, serología VIH positiva diagnosticada en enero 2003, en estadio C3 por neumonía por Pneumocystis carinii. Último control CD 30 y 2.220.000 copias virales. Inicia tratamiento con lamivudina-zidovudina-ritonavir-lopinavir. Consulta por dolor epigástrico intenso postpandrial sin pirosis. En la exploración física se aprecian lesiones sobreelevadas rojovioláceas en zona laterocervical izquierda e inguinal derecha, la mayor de 2 cm de diámetro máximo. Se realiza endoscopia oral, apreciándose lesiones eritematosas en estómago y primeras porciones duodenales, alguna de ellas ulceradas con biopsia positiva para sarcoma de Kaposi. Estudio de extensión negativo, con TAC toracabdominal normal. Con el diagnóstico de sarcoma de kaposi con afectación visceral y cutánea inicia tratamiento con adriamicina liposomal 20 mg/m2 cada 3 semanas. Desde el primer de ciclo de tratamiento, se produce la desaparición de la afectación cutánea y el paciente queda asintomático, al tercer ciclo se repite endoscopia oral, mostrando una resolución completa de la lesiones.
+
+Dirección para correspondencia Dr. D. Vicente Baz Unidad de Oncología Médica Hospital Juan Ramón Jiménez Avda. Ronda Norte, s/n E-21006 Huelva E-mail: dvicentebaz@yahoo.es

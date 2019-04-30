@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Javier.
+Apellidos: Garay de Miguel.
+NHC: 7614793.
+NASS: 78 23674574 13.
+Domicilio: Calle La Ventilla. 98.
+Localidad/ Provincia: Madrid.
+CP: 28039.
+Datos asistenciales.
+Fecha de nacimiento: 21/08/1992 .
+País de nacimiento: España.
+Edad: 25 años Sexo: H.
+Fecha de Ingreso: 13/12/2017.
+Médico: Marco Antonio Hoyos Franco   NºCol: 28 28 10293.
+Informe clínico del paciente: Varón de 25 años de edad que sufrió mientras pescaba picadura de raya a nivel de la superficie interna del tobillo derecho, con dolor intenso y quemante, tratado inicialmente en un hospital local mediante cura y administración de antibióticos sistémicos; al no presentar respuesta clínica adecuada, es remitido a nuestra institución sanitaria.
+Al ingreso hospitalario, el paciente presentaba una lesión muy dolorosa, profunda, a nivel de la región posterior del maléolo interno del pie derecho, con necrosis de la piel suprayacente y abundante salida de material purulento y fétido.
+Diagnosticamos infección de tejidos blandos y es hospitalizado para desbridamiento quirúrgico y tratamiento con antibióticos (Clindamicina 600 mg cada 8 horas y Amikacina 1 gr diario). Se toman radiografías del tobillo derecho en las que observamos edema de tejidos blandos, sin evidencia de fragmentos radio-opacos que pudieran corresponder a restos del aguijón venenoso.
+En quirófano, se realiza drenaje de la colección de material purulento y desbridamiento del tejido necrótico, creando un defecto tisular de 7 x 5 cm sobre el maléolo interno del tobillo derecho, con exposición del tendón de Aquiles y del borde posterior de la tibia; se realiza además cultivo de tejidos blandos.
+Los exámenes de laboratorio reportan: leucocitos de 7200/ul, con neutrófilos de 60%, hemoglobina 10,7g/dl, hematocrito 31,8%, creatinina 0,9 mg/dL, proteína C reactiva 3,13mg/dL y velocidad de sedimentación globular 81 mm.
+Practicamos dos desbridamientos adicionales por persistencia de secreción y tejido necrótico residual en el tercer y quinto día de hospitalización. El resultado del cultivo detectó la presencia de Proteus vulgaris, sensible a Amikacina.
+Hacia el día 9o, decidimos realizar cobertura del defecto remanente con colgajo fasciocutaneo safenointerno de flujo reverso. Desbridamos los bordes del defecto, dejando una pérdida de sustancia final de 8x3 cm; para la cobertura diseñamos una isla de piel con las mismas dimensiones y luego cerramos de forma primaria el área donante del colgajo.
+La evolución del paciente fue satisfactoria, con control adecuado de la infección y cicatrización exitosa.
+Responsable clínico: Dr. Marco Antonio Hoyos Franco e-mail: mhoyosf@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="34" text="Javier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="47" end="62" text="Garay de Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="69" end="76" text="7614793" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="84" end="98" text="78 23674574 13" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="111" end="132" text="Calle La Ventilla. 98" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="156" end="162" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="168" end="173" text="28039" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="217" end="227" text="21/08/1992" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="250" end="256" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="264" end="271" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="278" end="279" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="299" end="309" text="13/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="319" end="345" text="Marco Antonio Hoyos Franco" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="355" end="366" text="28 28 10293" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="398" end="403" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="407" end="414" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="2607" end="2633" text="Marco Antonio Hoyos Franco" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2642" end="2661" text="mhoyosf@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

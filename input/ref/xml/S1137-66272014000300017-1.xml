@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sofia.
+Apellidos: Armada Navalón.
+NHC: 1526104.
+Domicilio: Calle Gutenberg, 11, 3 C.
+Localidad/ Provincia: Estella.
+CP: 31250.
+Datos asistenciales.
+Fecha de nacimiento: 20/10/2013.
+País: España.
+Edad: 4 años Sexo: M.
+Fecha de Ingreso: 21/11/2017.
+Médico:  Francisco José Gil Sáenz  NºCol: 31 31 25060.
+Informe clínico del paciente: niña de 4 años que consultó por un exantema eritrósico y doloroso en región cervical de 12 horas de evolución. La paciente tenía malestar general, no presentaba fiebre, síntomas respiratorios ni otros síntomas añadidos. Había sido valorada hacía 6 horas como un posible prúrigo, habiendo iniciado tratamiento con corticoide y antihistamínico por vía sistémica. A la exploración física presentaba eritema cutáneo en cuello, axilas, tórax y nalgas, con áreas de despegamiento cutáneo en zona axilar y cervical y alguna lesión costrosa amarillenta en región cervical. También mostraba eritema e inflamación palpebral y conjuntival, siendo el resto de la exploración física normal. Las constantes de frecuencia cardiaca, respiratoria y presión arterial fueron normales. Se realizó analítica de sangre que mostraba leucocitosis (12.300 leucocitos/µL, fórmula normal) sin elevación de reactantes de fase aguda.
+Con diagnóstico presuntivo de SPEE ingresó e inició tratamiento con cloxacilina i.v, mupirocina tópica, antihistamínico i.v, fluidoterapia i.v, y analgesia. La evolución fue inicialmente desfavorable, con generalización de las lesiones y extensión de la eritrodermia. Al tercer día se asocia empíricamente al tratamiento clindamicina i.v, constatando a las 24 horas una evolución muy favorable de las lesiones. Posteriormente el hemocultivo fue informado como negativo y el cultivo de frotis cutáneo y nasal fue positivo para S. aureus (resistente a penicilina, sensible a cloxacilina, amoxicilna-clavulánico y clindamicina). Tras seis días de ingreso con tratamiento parenteral se decide alta para continuar el tratamiento antibiótico de manera ambulatoria.
+Remitido por: Dr. Francisco José Gil Sáenz Hospital García Orcoyen Servicio de Pediatría C/Santa Soria 22 31200 Estella (España). E-mail: fj.gil.saenz@cfnavarra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="33" text="Sofia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="46" end="60" text="Armada Navalón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="67" end="74" text="1526104" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="87" end="111" text="Calle Gutenberg, 11, 3 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="135" end="142" text="Estella" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="148" end="153" text="31250" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="197" end="207" text="20/10/2013" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="215" end="221" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="229" end="235" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="242" end="243" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="263" end="273" text="21/11/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="284" end="308" text="Francisco José Gil Sáenz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="317" end="328" text="31 31 25060" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="360" end="364" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="368" end="374" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2042" end="2066" text="Francisco José Gil Sáenz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2067" end="2090" text="Hospital García Orcoyen" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2113" end="2129" text="C/Santa Soria 22" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2130" end="2135" text="31200" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2136" end="2143" text="Estella" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2145" end="2151" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2162" end="2187" text="fj.gil.saenz@cfnavarra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

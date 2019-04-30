@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Luis.
+Apellidos: Miguel Reiz.
+NHC: 7834631.
+NASS: 78 34560871 46.
+Domicilio: C/ Arnaiz, 4, 3 A.
+Localidad/ Provincia: Las palmas.
+CP: 35002.
+Datos asistenciales.
+Fecha de nacimiento: 24/08/1942.
+País de nacimiento: España.
+Edad: 71 años Sexo: H.
+Fecha de Ingreso: 10/11/2013.
+Médico: Saturnino Suárez Ortega. NºCol: 35 35 14203.
+Historia Actual: Varón de 71 años, que ingresó en el servicio de Medicina Interna para estudio de síndrome constitucional. En el curso de los 6 meses anteriores había experimentado deterioro progresivo manifestado por astenia, anorexia, pérdida de unos 20 kg de peso e incapacidad para la deambulación. 
+Antecedentes: Entre los antecedentes personales destacaba haber sido fumador y bebedor importante hasta 23 años antes y presentar diabetes mellitus tipo 2 y prostatismo de aproximadamente 5 años de evolución.
+Exploración física: A la exploración física se encontró un paciente que impresionaba de enfermedad crónica y bradipsíquico, con palidez de piel y mucosas y disminución generalizada de fuerza en las 4 extremidades. No adenopatías. Crepitantes en la base pulmonar izquierda. Dolor a la percusión de la columna vertebral, más intenso a los niveles cervical y dorsal. Abdomen blando y depresible, doloroso a la palpación en hipocondrio derecho y zona periumbilical, donde se aprecia a la inspección y se palpa un nódulo de consistencia dura, fijo a planos profundos y de aproximadamente 3 x 3 cm, cubierto de piel de características normales. No visceromegalias. Tacto rectal con una próstata discretamente aumentada de tamaño, sin irregularidades, siendo el resto de la exploración física normal.
+Pruebas complementarias:  De la analítica destaca: ALT: 47 U/l; GGT: 259 U/l; Fosfatasas alcalinas: 277 U/l; Uratos 2,29 mg/dl. Moderada leucocitosis y trombocitosis. VSG 41 mm a la 1ª hora. Resto del protocolo general que incluye TSH dentro de la normalidad. Ferritina: 515 ng/ml; ausencia de componente M en el proteinograma; alfafetoproteína normal; PSA: 11,5 ng/ml (valores normales de 0,4 a 4); Antígeno carcinoembrionario: 221 ng/ml (valores normales hasta 5); y Ca 19,9 de 188 U/ml (valores normales hasta 37). No se realizó uricosuria de 24 horas.
+La PAAF del nódulo periumbilical demostró la presencia de células malignas sugestivas de adenocarcinoma y tras ello se procedió a la búsqueda del tumor primario con: Radiografía de tórax que mostró un infiltrado alveolar en el lóbulo inferior izquierdo; ecografía abdominal: poco valorable por distensión aérea abdominal, si bien se aprecia el nódulo periumbilical. La gammagrafía ósea objetivó múltiples acúmulos hipercaptantes en esqueleto axial y periférico. La TAC tóraco-abdominal reveló la existencia de un nódulo de 1,4 x 1,6 cm en lóbulo superior derecho, que contacta con la pleura visceral, que parecía engrosada y con lesiones líticas en el arco costal posterior. Metástasis líticas a nivel de columna dorsal y esternón. Mínimo derrame pleural bilateral. Múltiples lesiones focales hepáticas en segmento III con patrón vascular compatibles con hemangiomas. Lesión de 1,1 cm en segmento IV probablemente metastásica. Nódulo de 1,4 cm en glándula suprarrenal izquierda sugestiva de adenoma. Lesión hipodensa en cola del páncreas de 1,7 x 1 cm posiblemente en relación con tumor primario. Implantes tumorales en partes blandas, una de ellas a nivel periumbilical, compatible con nódulo de la hermana María José Miguel Reiz, y otra en músculo iliaco derecho, con infiltración ósea metastásica en pelvis, sacro y vértebras lumbares.
+Evolución: Tras la realización de las técnicas de imagen referidas, que no definen un claro origen de su carcinomatosis, a las 2 semanas de estancia hospitalaria se traslada a la unidad de Medicina Paliativa, donde fallece.
+Responsable clínico: Saturnino Suárez Ortega. Urb. El Arco, 16. La Atalaya. 35307 Santa Brígida. Las Palmas.e-mail: drsuarez@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="32" text="Luis" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="45" end="56" text="Miguel Reiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="63" end="70" text="7834631" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="78" end="92" text="78 34560871 46" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="105" end="122" text="C/ Arnaiz, 4, 3 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="146" end="156" text="Las palmas" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="162" end="167" text="35002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="211" end="221" text="24/08/1942" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="243" end="249" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="257" end="264" text="71 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="271" end="272" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="292" end="302" text="10/11/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="312" end="335" text="Saturnino Suárez Ortega" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="344" end="355" text="35 35 14203" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="374" end="379" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="383" end="390" text="71 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="3420" end="3450" text="hermana María José Miguel Reiz" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3804" end="3827" text="Saturnino Suárez Ortega" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3829" end="3845" text="Urb. El Arco, 16" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="3847" end="3857" text="La Atalaya" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="3859" end="3864" text="35307" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3865" end="3878" text="Santa Brígida" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3880" end="3890" text="Las Palmas" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="3899" end="3919" text="drsuarez@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

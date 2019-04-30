@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Sandro.
+Apellidos: Rodriguez Mung.
+NHC: 78912364.
+NASS: 34 58702578 53.
+Domicilio: Calle de Alejandro Martín Ortega, 7, 6 A.
+Localidad/ Provincia: Madrid.
+CP: 50009.
+Datos asistenciales.
+Fecha de nacimiento: 29/08/1975.
+País de nacimiento: España.
+Edad: 60 años  Sexo: H.
+Fecha de Ingreso: 08/12/2016.
+Médico: Manuel Salgueira   NºCol: 02 02 45618.
+Varón de 33 años, español, ingeniero de caminos que ha residido 18 meses en Costa de Marfil por motivos laborales. En la actualidad regresa a España y presenta prurito perianal y dolor abdominal difuso tipo cólico. No asocia fiebre y la última deposición es diarreica, y deja entrever un gusano de gran tamaño.
+A la exploración destaca dolor leve a la palpación profunda en fosa iliaca derecha. En las pruebas resalta discreta eosinofilia (750 eosinófilos por microlitro).
+La visualización macroscópica del parásito impresiona de Taenia. El análisis diferido microbiológico lo describe como Taenia saginata (T. saginata).
+Dirección para correspondencia: M.a Mercedes Mingarro Castillo. Correo electrónico: merchemingarro@yahoo.es

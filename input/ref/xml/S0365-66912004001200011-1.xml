@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Emilio.
+Apellidos: Tevez Briones.
+NHC: 7586093.
+NASS:33 68938964 89.
+Domicilio: C/ Las Margaritas, 3, 1, A.
+Localidad/ Provincia: Lugo de Llanera.
+CP: 33690.
+Datos asistenciales.
+Fecha de nacimiento: 11/06/1963.
+País de nacimiento: España.
+Edad: 52 años Sexo: H.
+Fecha de Ingreso: 21/07/2015.
+Servicio: Urgencias.
+Médico: Joaquín Castro Navarro  NºCol: 33 33 56402.
+Informe clínico del paciente: Paciente varón de 52 años que acudió a urgencias por pérdida de visión en su ojo derecho de una semana de evolución. Como antecedentes presentaba: nefrectomía derecha por carcinoma renal siete años antes y neumonectomía derecha por metástasis pulmonar tres meses antes. En ese momento no seguía ningún tratamiento.
+En la exploración oftalmológica su agudeza visual era de 0,1 en su ojo derecho y de unidad en su ojo izquierdo; el polo anterior y la presión intraocular eran normales. En la funduscopia del ojo derecho se observaba una masa coroidea uniforme de color blanquecino a nivel de la arcada temporal inferior de aproximadamente cuatro diámetros papilares, con desprendimiento de retina (DR) asociado que afectaba a la mácula, sin signos de inflamación intraocular. El ojo izquierdo era normal. Se realizó una ecografía modo B que mostraba una masa coroidea cupuliforme de 3x6 mm de reflectividad media-alta, sin excavación coroidea. En la angiografía se observaba una masa con hipofluorescencia en fases precoces, hiperfluorescencia tardía y patrón ligeramente moteado.
+Dados los antecedentes del paciente se solicitó consulta al servicio de oncología médica que realizó las pruebas oportunas para descartar progresión del proceso. En ese tiempo aumentó el tamaño de la lesión y del DR asociado, afectando la mácula. En un principio se planteó al paciente el tratamiento radioterápico, pero éste lo rechazó y optó por la opción quirúrgica. La enucleación se llevó a cabo un mes después del diagnóstico. El examen anatomopatológico confirmó el diagnóstico de metástasis de carcinoma renal, sin sobrepasar coroides y sin infiltrar nervio óptico. Durante un año de seguimiento, a cargo del servicio de Oncología Médica, no se observó progresión del proceso y el paciente sólo recibió inmunoterapia con interferón. Después de un año del diagnóstico de la metástasis coroidea han aparecido signos de progresión y el paciente ha recibido también hormonoterapia y quimioterapia, sin clara mejoría.
+Responsable clínico: Joaquín Castro Navarro C/Castanera, 26 33690 Lugo de Llanera (Asturias) España E-mail: jcastro@correo.uniovi.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="34" text="Emilio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="60" text="Tevez Briones" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="67" end="74" text="7586093" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="81" end="95" text="33 68938964 89" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="108" end="134" text="C/ Las Margaritas, 3, 1, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="158" end="173" text="Lugo de Llanera" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="179" end="184" text="33690" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T1" start="228" end="238" text="11/06/1963" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="260" end="266" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="274" end="281" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="288" end="289" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="309" end="319" text="21/07/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="350" end="372" text="Joaquín Castro Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="381" end="392" text="33 33 56402" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="433" end="438" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="442" end="449" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2445" end="2467" text="Joaquín Castro Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2468" end="2483" text="C/Castanera, 26" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="2484" end="2489" text="33690" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2490" end="2505" text="Lugo de Llanera" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2507" end="2515" text="Asturias" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2517" end="2523" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="2532" end="2556" text="jcastro@correo.uniovi.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

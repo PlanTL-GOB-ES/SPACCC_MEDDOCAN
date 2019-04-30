@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: David.
+Apellidos: Quintero Sanz.
+NHC: 7846587.
+NASS:36 48523956 03.
+Domicilio: Calle De Nicaragua, 23.
+Localidad/ Provincia: Toledo.
+CP: 45600.
+Datos asistenciales.
+Fecha de nacimiento: 10/01/1985.
+País: España.
+Edad: 33 años Sexo: H.
+Fecha de Ingreso: 07/06/2018.
+Médico: Verónica Notario Barba  NºCol: 45 28 96580.
+Informe clínico del paciente: Hombre de 33 años de edad que consulta por aumento progresivo de tamaño del testículo derecho de tres meses de evolución. No refiere dolor ni sintomatología urinaria. No presenta alergias ni patologías de interés. Refiere un desarrollo psicomotriz normal sin antecedentes de criptorquidia ni hidrocele durante la infancia. Niega consumo de alcohol, tabaco u otras drogas. A la exploración física, se aprecia un aumento difuso del tamaño y consistencia del testículo derecho con transluminiscencia negativa. El testículo izquierdo es normal. No se palpan adenopatías inguinales ni en el resto de su anatomía. No presenta ginecomastia, visceromegalias ni irritación peritoneal. Decidimos realizar una ecografía testicular en Atención Primaria, apreciando una alteración de la ecoestructura de forma difusa sin presencia de quistes ni calcificaciones. Solicitamos analítica completa con marcadores tumorales, radiografía de tórax y remitimos con carácter preferente a la consulta de Urología. Tanto el hemograma como la bioquímica básica fueron rigurosamente normales, así como la AFP, Beta-HCG y LDH. La radiografía de tórax fue igualmente normal. Dado el dilatado tiempo de espera para la consulta de Urología, decidimos remitir al paciente a la Urgencia Hospitalaria con el estudio completo realizado en Atención Primaria. Se realizó una ecografía testicular reglada que confirma: "Testículo derecho aumentado de tamaño con alteración difusa de la ecogenicidad, sin calcificaciones, presenta aumento difuso de la vascularización. Proceso inflamatorio de tipo orquitis derecha, no obstante, dado el tiempo de evolución no se descarta proceso neoplásico". Ingresa en Urología y se realiza orquiectomía radical inguinal derecha. Anatomía patológica informa: "Seminoma clásico de diámetro mayor de 8 cm, sin evidencia de infiltración de la túnica albugínea. Restos de parénquima testicular con focos de tumor germinal intratubular. Epidídimo y borde de resección del cordón espermático sin evidencia de malignidad". Ante dichos hallazgos, se realiza Tomografía Computerizada (TC) abdominopélvico para su estadificación: "No se observan adenopatías mediastínicas, hiliares ni axilares de tamaño significativo. Adenopatía paracardiaca derecha de 6 mm y micronódulo de 4 mm en LM. No se observan adenopatías retroperitoneales ni pelvianas de aspecto patológico. Se observan hallazgos compatibles con paniculitis mesentérica y adenopatías inguinales bilaterales de aspecto reactivo secundarias a la cirugía. Resto de estudio sin hallazgos". Fue remitido a Oncología con el diagnóstico de seminoma puro estadio I. Dado que más del 80 % de los casos nunca recaen, en correlación con la Guía de la Asociación Europea de Urología, se decide realizar vigilancia sin necesidad de tratamiento adyuvante. Sin embargo, el riesgo pequeño, pero clínicamente significativo de recidiva, respalda la necesidad de vigilancia a largo plazo2 e iniciar radioterapia o quimioterapia basada en cisplatino, de rescate. Como las recidivas ocurren principalmente en los primeros 2 años, se recomienda el seguimiento mediante TC cada 3 meses el primer año, cada 4 meses el segundo y cada 6 y 12 meses en los años siguientes3. Nuestro paciente lleva más de 3 años de seguimiento, sin datos de recaída. Los hallazgos inespecíficos presentes en el primer TC han desaparecido y los marcadores tumorales se mantienen negativos hasta la actualidad.
+Remitido por: Dra. Verónica Notario Barba. Centro de Salud Talavera Centro. C/ José Luis Gallo, 2. C.P. 45600 - Talavera de la Reina. Toledo (España). Correo electrónico: vero_not@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="33" text="David" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="46" end="59" text="Quintero Sanz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="66" end="73" text="7846587" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="80" end="94" text="36 48523956 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="107" end="129" text="Calle De Nicaragua, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="153" end="159" text="Toledo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="165" end="170" text="45600" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="214" end="224" text="10/01/1985" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="232" end="238" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="246" end="253" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="260" end="261" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="281" end="291" text="07/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="301" end="323" text="Verónica Notario Barba" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="332" end="343" text="45 28 96580" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="375" end="381" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="385" end="392" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="3805" end="3827" text="Verónica Notario Barba" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3829" end="3860" text="Centro de Salud Talavera Centro" TYPE="CENTRO_SALUD" comment=""/>
+    <LOCATION id="T6" start="3862" end="3883" text="C/ José Luis Gallo, 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3890" end="3895" text="45600" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3898" end="3918" text="Talavera de la Reina" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3920" end="3926" text="Toledo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3928" end="3934" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3957" end="3977" text="vero_not@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

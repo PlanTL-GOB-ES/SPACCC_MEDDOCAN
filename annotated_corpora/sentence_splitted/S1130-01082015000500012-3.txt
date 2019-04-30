@@ -1,0 +1,15 @@
+Datos del paciente.
+Nombre: Rocio.
+Apellidos: Moreno Quintana.
+NHC: 2474959.
+Domicilio: Avenida de legazpi 97, 1D.
+Localidad/ Provincia: Madrid.
+CP: 46019.
+Datos asistenciales.
+Fecha de nacimiento: 26/01/2000.
+País: España.
+Edad: 38 años  Sexo: H.
+Fecha de Ingreso: 03/05/2017.
+Médico: Antonio Rico García  NºCol: 51 51 68420.
+Varón de 77 años, con antecedentes de hepatitis crónica por virus de hepatitis C y hernia de hiato, con clínica de disfagia esofágica progresiva de 6 meses de evolución asociada a pirosis y episodios ocasionales de regurgitación alimentaria. El EGD identificó una formación sacular anterior de boca ancha de 3 cm de diámetro, situado en los 10 cm distales del esófago y una hernia hiatal por deslizamiento. La endoscopia confirmó la presencia de un divertículo, con contenido alimentario en su interior, a 30 cm de la arcada dentaria.
+Dirección para correspondencia: Constanza Ciriza de los Ríos. Servicio de Gastroenterología. Hospital Universitario 12 de Octubre. Avenida de Córdoba, s/n. 28041 Madrid e-mail: constanzacarpa@gmail.com
