@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Esteban.
+Apellidos: Otero Lago.
+NHC: 297358.
+NASS: 67 54364236 57.
+Domicilio: Calle Carnicer 14, 3D.
+Localidad/ Provincia: Madrid.
+CP: 02219.
+Datos asistenciales.
+Fecha de nacimiento: 21/11/1982.
+País de nacimiento: España.
+Edad: 62 años  Sexo: H.
+Fecha de Ingreso: 15/05/2018.
+Médico: Carla Núñez Mora  NºCol: 28 28 65890.
+Mujer de 55 años, con antecedentes de cirrosis por hepatitis C, que ingresa por ictericia, dolor abdominal y síndrome constitucional de tres meses de evolución. En la analítica presentaba elevación de la bilirrubina y enzimas de colestasis. La TC mostró múltiples lesiones en ambos lóbulos hepáticos compatibles con metástasis versus hepatocarcinoma multicéntrico con una imagen nodular en bazo. A las dos semanas del ingreso falleció por un cuadro de insuficiencia hepática con una autopsia compatible con ASH con metástasis esplénicas.
+
+Dirección para correspondencia: Correo electrónico: luzadrianatemplos@hotmail.com

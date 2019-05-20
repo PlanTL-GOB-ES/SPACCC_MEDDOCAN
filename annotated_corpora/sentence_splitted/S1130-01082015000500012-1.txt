@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Iñigo.
+Apellidos: Cañizares Molina.
+NHC: 78623791/784.
+NASS: 74 39843756 87 .
+Domicilio: C/ Concha Espina 16, 3, A.
+Localidad/ Provincia: Murcia.
+CP: 41235.
+Datos asistenciales.
+Fecha de nacimiento: 15/06/1963.
+País de nacimiento: España.
+Edad: 35 años  Sexo: H.
+Fecha de Ingreso: 27/06/2010.
+Médico: Daniel Pérez Fentes  NºCol: 02 02 63812.
+Varón de 58 años, sin antecedentes patológicos relevantes, con clínica de disfagia esofágica progresiva de 3 meses de evolución. Dos años antes había presentado un episodio de impactación alimentaria. El estudio radiológico gastroduodenal baritado (EGD) detectó en tercio esofágico inferior una imagen sacular con nivel hidroaéreo, bien delimitada de 9 cm de diámetro. La tomografía computarizada (TC) tóraco-abdominal corroboró los hallazgos descritos en el EGD. La gastroscopia mostró una imagen de doble luz de gran tamaño con contenido alimentario semisólido en su interior.
+Dirección para correspondencia: Constanza Ciriza de los Ríos. Servicio de Gastroenterología. Hospital Universitario 12 de Octubre. Avenida de Córdoba, s/n. 28041 Madrid e-mail: constanzacarpa@gmail.com

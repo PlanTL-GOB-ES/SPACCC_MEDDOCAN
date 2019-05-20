@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Jorge.
+Apellidos: Zamora Lopez.
+NHC: 2456498.
+Domicilio: Calle de la Paz, 23, 5A.
+Localidad/ Provincia: Huelva.
+CP: 21234.
+Datos asistenciales.
+Fecha de nacimiento: 12/04/1990.
+País: España.
+Edad: 28 años Sexo: H.
+Fecha de Ingreso: 23/06/2018.
+Médico:  Sandra Bellorin Custo  NºCol: 21 21 34754.
+Informe clínico del paciente: paciente de 28 años de edad, sin antecedentes de interés, que acude a consulta de urología por nódulo testicular que ha detectado hace tres meses y que según cuenta no ha aumentado de tamaño. A la exploración se observa un nódulo duro, móvil y doloroso a la palpación a nivel de cordón espermático derecho. La determinación de marcadores tumorales y hormonas se encuentran dentro de la normalidad.
+En el estudio de imagen, ecografía, se observa una imagen ovalada, hipoecoica, de ecogenicidad mixta, que tiene un eje longitudinal máximo de 2,8 cm y que impresiona estar en relación con el cordón espermático. En el estudio de RNM se describe a nivel de cordón espermático derecho una imagen de señal baja en T2, lo cual indica que se trata de un tejido con bajo contenido en agua, posiblemente fibroso o cicatricial, con 43 mm de diámetro máximo.
+Con el diagnóstico de tumoración paratesticular derecha se procede a su exéresis quirúrgica, separándose la tumoración del conducto deferente sin dificultad. El paciente cursa sin incidentes y se encuentra asintomático en la actualidad.
+En el estudio macroscópico de la pieza se describe una formación redondeada de coloración pardusca y consistencia elástica, bien delimitada, de 5 cm de diámetro máximo, y al corte presenta una superficie blanquecina y homogénea de aspecto fibroso. En el estudio microscópico, se trata de una lesión bien circunscrita constituida por células con amplio citoplasma eosinófilo con presencia de estriaciones transversales en algunas de ellas, inmersas en un estroma fibroblástico, con ocasionales células de aspecto vacuolado y células multinucleadas, no observándose actividad mitótica. En el estudio inmunohistoquímico se observa en las células neoplásicas intensa y generalizada expresión para desmina y vimentina, y focal para actina de músculo liso específica (Master Diagnostic. Granada. España).
+Remitido por: Sandra Bellorin Custo. C. Lara Bohórquez San Andrés, 14 - Local 3 21004 Huelva. (España). clarab@andaluciajunta.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="29" end="34" text="Jorge" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="59" text="Zamora Lopez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="66" end="73" text="2456498" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T21" start="86" end="109" text="Calle de la Paz, 23, 5A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="133" end="139" text="Huelva" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="145" end="150" text="21234" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="194" end="204" text="12/04/1990" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="212" end="218" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="226" end="233" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="240" end="241" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="261" end="271" text="23/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T20" start="282" end="303" text="Sandra Bellorin Custo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="312" end="323" text="21 21 34754" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T9" start="367" end="374" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T1" start="2201" end="2218" text="Master Diagnostic" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T3" start="2220" end="2227" text="Granada" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2229" end="2235" text="España" TYPE="PAIS" comment=""/>
+    <NAME id="T16" start="2252" end="2273" text="Sandra Bellorin Custo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="2275" end="2317" text="C. Lara Bohórquez San Andrés, 14 - Local 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T7" start="2318" end="2323" text="21004" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="2324" end="2330" text="Huelva" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2333" end="2339" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T4" start="2342" end="2366" text="clarab@andaluciajunta.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

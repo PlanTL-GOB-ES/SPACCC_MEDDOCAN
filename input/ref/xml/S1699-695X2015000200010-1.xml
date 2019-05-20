@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Noelia .
+Apellidos: Serra Vicente.
+NHC: 4576490.
+NASS: 02 72367458 91.
+Domicilio: Calle de Pablo Picasso, 3, 5G.
+Localidad/ Provincia: Hellín, Albacete.
+CP: 02400.
+Datos asistenciales.
+Fecha de nacimiento: 26/01/1978.
+País: España.
+Edad: 40 años Sexo: M.
+Fecha de Ingreso: 31/05/2018.
+Servicio: Atencion Primaria.
+Médico: Amparo Manzano Juárez  NºCol: 02 02 63812.
+Historia Actual: Mujer de 40 años que acude a la consulta de Atención Primaria por dolor en ambas muñecas, pérdida de fuerza en las manos y parestesias en todos los dedos, de mayor frecuencia e intensidad en la mano derecha. La paciente presentaba un dolor crónico de cinco meses de evolución de características mecánicas y empeoramiento progresivo, asociando una deformidad de las muñecas. No ha existido ningún traumatismo previo que justifique la presencia de la clínica referida. No presenta antecedentes patológicos de interés. Es diestra y trabaja cuidando ancianos.
+A la exploración física de ambas muñecas destaca la presencia de una deformidad en la cara dorsal a nivel del estiloides cubital, asociada a una desviación cubital. Además, se objetiva un aumento de la sudoración y enrojecimiento de las manos.
+El balance articular (BA) de las muñecas era simétrico: Flexión dorsal: 40o. Flexión palmar: 55o. Desviación radial: 20o. Desviación cubital: 30o. Supinación: faltan los últimos grados. Pronación: completa.
+Presenta dolor a la palpación a nivel de la articulación radio-carpiana distal y molestias a la palpación de la cabeza del radio. Muestra un BA de codo completo. El balance muscular (BM) flexo-extensión de las muñecas es 4/5.
+Por otra parte, la presa-puño-pinza es completa. La oposición del pulgar está conservada. Las articulaciones metacarpo-falángicas, interfalángicas proximales e interfalángicas distales están libres. Presenta un signo de Tinnel mediano negativo y un signo de Phalen mediano dudoso.
+Ante los hallazgos clínicos descritos, se solicita una radiografía anteroposterior y lateral de ambas muñecas.
+Tras objetivar la presencia de deformidad en la radiografía se deriva a consultas externas de Traumatología para valoración, donde se realiza el diagnóstico de deformidad de Madelung y luxación cubital distal bilateral.
+Se propone tratamiento quirúrgico de reconstrucción del carpo, pero la paciente lo rechaza, por lo que se realiza interconsulta a Rehabilitación. Pautan férula posicional bilateral nocturna más tratamiento de fisioterapia (tonificación musculatura intrínseca de mano y electroterapia analgésica).
+Responsable clínico: Dra. Amparo Manzano Juárez. C/ Jacinto Benavente 19, 4o C. CP: 02400. Hellín (Albacete). España. Correo electrónico: ampamanjua@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="34" text="Noelia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="48" end="61" text="Serra Vicente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="68" end="75" text="4576490" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="83" end="97" text="02 72367458 91" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="110" end="139" text="Calle de Pablo Picasso, 3, 5G" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="163" end="169" text="Hellín" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="171" end="179" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="185" end="190" text="02400" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="234" end="244" text="26/01/1978" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="252" end="258" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="266" end="273" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="280" end="281" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="301" end="311" text="31/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="350" end="371" text="Amparo Manzano Juárez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="380" end="391" text="02 02 63812" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="410" end="415" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="419" end="426" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2578" end="2599" text="Amparo Manzano Juárez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T1" start="2601" end="2630" text="C/ Jacinto Benavente 19, 4o C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="2636" end="2641" text="02400" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2643" end="2649" text="Hellín" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2651" end="2659" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2662" end="2668" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="2690" end="2712" text="ampamanjua@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

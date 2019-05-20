@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Miguel Angel.
+Apellidos: Baudí Blanco.
+NHC: 879475839/710.
+Domicilio: Entrada de las colinas #8234 Casa A.
+Localidad/ Provincia: Chaco.
+CP: 3500.
+Datos asistenciales.
+Fecha de nacimiento: 19/03/1956.
+País de nacimiento: Argentina.
+Edad: 55 años Sexo: Masculino.
+Fecha de Ingreso: 18/06/2011.
+Médico: Karina Marinic.
+Informe clínico del paciente: Paciente de 55 años que recibe trasplante cadavérico. Inducción: daclizumab-tacrolimus-MMF-esteroides. Mantenimiento: tacrolimus-MMF-esteroides. Creatinina 1 y 1,2 mg/dl; clearence de creatinina: 96 ml, sin proteinuria. A los nueve meses postrasplante presenta viruria (107 copias/ml) para BKV, sin disfunción renal, con viremia negativa. Persiste viruria alta con viremia negativa, que se positiviza al mes 12 (> 104 copias/ml), la biopsia constata nefritis intersticial, alteraciones nucleares tubulares vinculables a BKV. Se rotó la medicación inmunosupresora a sirolimus 2 mg/día y se agrega cipro-floxacina 500 mg/día (10 días). Mantiene valores estables de función renal, con clearence de 86 ml, sin proteinuria y con disminución de la carga viral en orina y sangre. En la actualidad el paciente conserva su riñón y no requirió diálisis.
+Responsable clínico: Dra. Karina Marinic Servicio de Histocompatibilidad y Genética Molecular Hospital Dr. Julio C. Perrando Avda. 9 de Julio 1100 3500 Resistencia, Chaco, Argentina karinamarinic@yahoo.com.ar msp.histocompat@ecomchaco.com.ar
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="40" text="Miguel Angel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="53" end="65" text="Baudí Blanco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="72" end="85" text="879475839/710" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="98" end="133" text="Entrada de las colinas #8234 Casa A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="157" end="162" text="Chaco" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="168" end="172" text="3500" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="216" end="226" text="19/03/1956" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="248" end="257" text="Argentina" TYPE="TERRITORIO" comment=""/>
+    <AGE id="T13" start="265" end="272" text="55 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="279" end="288" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="308" end="318" text="18/06/2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="328" end="342" text="Karina Marinic" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T9" start="386" end="393" text="55 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1244" end="1258" text="Karina Marinic" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1312" end="1342" text="Hospital Dr. Julio C. Perrando" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="1343" end="1364" text="Avda. 9 de Julio 1100" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1365" end="1369" text="3500" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1370" end="1381" text="Resistencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1383" end="1388" text="Chaco" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1390" end="1399" text="Argentina" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1400" end="1426" text="karinamarinic@yahoo.com.ar" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

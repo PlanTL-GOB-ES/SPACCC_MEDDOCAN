@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Rafael.
+Apellidos: Perez Muñoz.
+NHC: 4576787.
+NASS: 78 25678945 63.
+Domicilio: Calle Ribadavia 66, 3D.
+Localidad/ Provincia: Madrid.
+CP: 28026.
+Datos asistenciales.
+Fecha de nacimiento: 15/11/1974.
+País: España.
+Edad: 34 años Sexo: H.
+Fecha de Ingreso: 12/12/2008.
+Servicio: Oftalmologia.
+Médico: Maria José Muniesa Royo NºCol: 28 28 64972.
+Historia del paciente: Varón de 34 años, diagnosticado de síndrome de Klinefelter, que acude a Urgencias por pérdida de agudeza visual del ojo izquierdo (OI) de 2 días de evolución. La agudeza visual en ojo derecho (OD) era de 1 y en OI 0,2. El polo anterior no mostraba alteraciones y el ángulo era abierto grado IV 360o poco pigmentado. La presión intraocular (PIO) del OD era de 34mmHg y la del OI de 30mmHg. El grosor corneal central en OD era de 516 micras y en OI de 520 micras. El examen fundoscópico objetivó un aumento marcado de la excavación papilar en ambos ojos con un cociente excavación/disco vertical de 0,8. En el OI se apreciaba una depresión oval correspondiente a una foseta congénita del nervio óptico en el sector temporal con una zona de atrofia peripapilar asociada a un desprendimiento seroso macular. El estudio de la capa de fibras nerviosas de la retina mediante tomografía de coherencia óptica (OCT) (Stratus OCT Carl Zeiss Ophthalmic Systems, Inc) mostraba un importante adelgazamiento en ambos ojos, más marcado en el OD aunque hay que tener en cuenta que el grosor real de la capa de fibras del nervio óptico izquierdo puede verse incrementado por el desprendimiento seroso macular. La campimetría computarizada (Humphrey 24-2) mostraba un defecto arciforme superior en el OD y un defecto central en el OI por la maculopatía. De forma característica la angiografía fluoresceínica mostraba una hipofluorescencia inicial de la foseta. La OCT sobre la mácula revelaba la separación de las capas internas de la retina en comunicación con la foseta y un desprendimiento neurosensorial macular sin conexión con la misma. También vemos un agujero macular lamelar en las capas externas de la retina.
+Remitido por: Dra. Maria José Muniesa Royo Dirección para correspondencia: xusmuniesa@telefonica.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="9" end="15" text="Rafael" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="28" end="39" text="Perez Muñoz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="46" end="53" text="4576787" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="61" end="75" text="78 25678945 63" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="88" end="110" text="Calle Ribadavia 66, 3D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="134" end="140" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="146" end="151" text="28026" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="195" end="205" text="15/11/1974" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="213" end="219" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="227" end="234" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="241" end="242" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="262" end="272" text="12/12/2008" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="306" end="329" text="Maria José Muniesa Royo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="337" end="348" text="28 28 64972" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="373" end="378" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T4" start="382" end="389" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T3" start="1292" end="1326" text="Carl Zeiss Ophthalmic Systems, Inc" TYPE="INSTITUCION" comment=""/>
+    <NAME id="T2" start="2093" end="2116" text="Maria José Muniesa Royo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2149" end="2174" text="xusmuniesa@telefonica.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

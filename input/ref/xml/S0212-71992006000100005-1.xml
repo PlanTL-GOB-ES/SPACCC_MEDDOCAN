@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Mario .
+Apellidos: Rovira Lopez.
+NHC: 4392216 .
+NASS: 27 96666017 83.
+Domicilio: Av. Luis Montoto, 129, 6 A.
+Localidad/ Provincia: Sevilla.
+CP: 41007.
+Datos asistenciales.
+Fecha de nacimiento: 22/07/1956.
+País de nacimiento: España.
+Edad: 60 años Sexo: H.
+Fecha de Ingreso: 04/08/2016.
+Servicio: Medicina Interna.
+Episodio: 1421349.
+Médico: Iñigo Marín Montín NºCol: 41 41 78970.
+Informe clínico del paciente: Varón de 60 años, fumador de 20 cigarrillos/día, EPOC (tipo bronquitis crónica). Hernias discales L4-L5-S1-S2 intervenidas, litiasis biliar con patrón de colestasis. Adenocarcinoma gástrico (T3N1M0, IIIa) intervenido 4 años antes mediante gastrectomía total + esplenectomía + pancreatectomía distal + anastomosis esófago-yeyunal y yeyuno-yeyunal en Y de Roux, sin quimioterapia ni radioterapia posterior. Epigastralgia y diarreas frecuentes junto con anemia megaloblástica secundarias a malabsorción. Desde hacía 4 meses seguía tratamiento con fenitoína por crisis epilépticas. En seguimiento por el Servicio de Oncología sin evidencia de recidiva tumoral aunque mantenía tratamiento de forma crónica con dexametasona.
+Ingresa por aumento de la diarrea junto con fiebre de 38 ºC evidenciándose unas lesiones cutáneas en miembros inferiores descritas como pustulosas y ampollosas, y signos de consolidación neumónica en la base D confirmada por Rx. El cuadro febril, y la condensación neumónica desaparecieron tras tratamiento con levofloxacino durante dos semanas. Igualmente desaparecieron el dolor abdominal, la diarrea y las alteraciones del ritmo cardíaco tras tratamiento con digital, persistiendo la debilidad de miembros inferiores y las lesiones cutáneas que se extendían por piernas, brazos, manos, y espalda predominantemente eritematosas, algunas con vesículas en superficie que, al romperse, dejaban un centro necrótico.
+Ni las técnicas de imagen realizadas (TAC de cráneo, tórax y abdomen y gammagrafía ósea) ni el aspirado y biopsia de médula ósea, evidenciaron lesiones metástásicas, ni infiltración tumoral. La RNM de columna vertebral puso en evidencia una osteomalacia; se objetivaron cifras disminuidas de 25-OH-D. Esta osteomalacia se podía explicar por una malabsorción intestinal de vitamina D, una insuficiencia pancreática o el tratamiento con anticonvulsionantes, tres circunstancias que se daban simultáneamente en este paciente. El hemocultivo, urocultivo, y coprocultivo fueron negativos, al igual que la serología de VIH y CMV.
+Para el diagnóstico de las lesiones dermatológicas, se tomaron sendas muestras para anatomía patológica y microbiología. La biopsia informaba de células con inclusiones por cuerpo extraño sugestivas de enfermedad maligna o de dermatofitosis. El estudio microbiológico confirmó la dermatofitosis, con el aislamiento de Trichophyton mentagrophytes en el cultivo de la muestra tomada de las lesiones de la mano, y de Alternaria sp en el cultivo de la muestra tomada de una lesión en la pierna. Se inició tratamiento con itraconazol oral con muy buena respuesta clínica recibiendo a los pocos días el alta hospitalaria, aunque en revisión por los Servicios de Dermatología, y Medicina Interna.
+Responsable clínico: Dr. Iñigo Marín Montín. Servicio de Medicina Interna. Hospital Universitario Virgen Macarena. C/ Doctor Fedriani, s/n. 41071 Sevilla
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="33" text="Mario" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="47" end="59" text="Rovira Lopez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="66" end="73" text="4392216" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="82" end="96" text="27 96666017 83" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="109" end="135" text="Av. Luis Montoto, 129, 6 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="159" end="166" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="172" end="177" text="41007" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="221" end="231" text="22/07/1956" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="253" end="259" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="267" end="274" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="281" end="282" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="302" end="312" text="04/08/2016" TYPE="FECHAS" comment=""/>
+    <ID id="T10" start="352" end="359" text="1421349" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T9" start="369" end="387" text="Iñigo Marín Montín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="395" end="406" text="41 41 78970" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="438" end="443" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="447" end="454" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="3210" end="3228" text="Iñigo Marín Montín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="3260" end="3298" text="Hospital Universitario Virgen Macarena" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="3300" end="3323" text="C/ Doctor Fedriani, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="3325" end="3330" text="41071" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="3331" end="3338" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

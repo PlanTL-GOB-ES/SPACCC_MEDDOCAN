@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Rocio.
+Apellidos: Fernandez de la Torre.
+NHC: 7834564.
+NASS: 80 72568907 56.
+Domicilio: Calle Andres Castro, 23, 5D.
+Localidad/ Provincia: Zaragoza.
+CP: 28032.
+Datos asistenciales.
+Fecha de nacimiento: 01/01/1960.
+País de nacimiento: España.
+Edad: 28 años  Sexo: M.
+Fecha de Ingreso: 06/05/2014.
+Médico: Elvio Martínez Vera Mayor   NºCol: 28 28 61645.
+Paciente de diez años que acudió a consulta por apreciar cambios en la primera uña del pie izquierdo. En la exploración se apreció una lámina ungueal distal engrosada y de coloración amarillenta que parecía estar siendo reemplazada en su parte proximal por una nueva de aspecto normal. En la anamnesis, los padres refirieron que unas semanas antes la niña había presentado inflamación periungueal (paroniquia), de etiología no claramente filiada y que se había resuelto con tratamiento antibiótico tópico.
+
+Dirección para correspondencia: Patricia Meseguer Yebra patricia.meseguer.yebra@sergas.es

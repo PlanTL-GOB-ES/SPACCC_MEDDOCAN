@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Alejandra.
+Apellidos: Khan Castillo.
+NHC: 8724684.
+NASS: 73 65764907 85.
+Domicilio: C/ Topolinos, 14, 5 C.
+Localidad/ Provincia: ALbacete.
+CP: 28046.
+Datos asistenciales.
+Fecha de nacimiento: 05/05/1996.
+País de nacimiento: España.
+Edad: 62 años  Sexo: H.
+Fecha de Ingreso: 08/01/2018.
+Médico: Fernando Marcos Sánchez  NºCol: 28 28 57249.
+Niña de cinco años que presenta una única lesión maculopapulosa, eritematosa, de carácter circinado, con bordes ligeramente sobreelevados, de unos 5 cm de diámetro, localizada en la palma de mano. Se trata de una lesión pruriginosa sin mejoría tras tratamiento corticoideo tópico.
+
+Desde el Servicio de Dermatología se descarta la escabiosis por la forma y distribución de las lesiones y el granuloma anular por presentar descamación. Finalmente se llega al diagnóstico de una tiña incógnita anteriormente tratada con corticoides, que disminuyen la inflamación y dificultan el diagnóstico, manteniendo la lesión activa. Se pauta tratamiento antimicótico durante seis semanas.
+Correspondencia: Alba Fernández Gómez. Correo electrónico: albafgo90@gmail.com

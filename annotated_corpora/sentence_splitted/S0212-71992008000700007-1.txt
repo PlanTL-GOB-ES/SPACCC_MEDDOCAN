@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Iñigo.
+Apellidos: Pichardo Vazquez.
+NHC: 7843563.
+NASS: 28 76956915 32.
+Domicilio: Calle Francos Rodriguez 94, 3A.
+Localidad/ Provincia: Badajoz.
+CP: 28009.
+Datos asistenciales.
+Fecha de nacimiento: 29/09/1969.
+País de nacimiento: España.
+Edad: 66 años  Sexo: H.
+Fecha de Ingreso: 20/12/2015.
+Médico: Petra María Cortés Durán  NºCol: 18 18 72150.
+Paciente masculino de 72 años, con antecedentes de tabaquismo severo, enfermedad pulmonar obstructiva crónica, con enfisema centrolobulillar, cardiopatía isquémica y linfoma no Hodgkin folicular de bajo grado estadio IV A, que no requirió tratamiento. Presentó 3 episodios de disnea bruscos, que comenzaron con tos asociada a estridor laríngeo, disfonía y sibilancias altas que requirieron internación en unidad de terapia intensiva (UTI) en 2 oportunidades. Los tres episodios fueron autolimitados de 30 minutos a una hora de duración. Nunca presentó cianosis ni desaturación. Durante el segundo episodio se realizó una fibro-laringoscopia donde se evidenció las cuerdas vocales edematizadas, cierre glótico en inspiración con una pequeña luz en glotis posterior y mejoría progresiva luego de terminar el estudio. Sin signos de traqueomalacia. Se realizó en el momento agudo un estudio funcional respiratorio (EFR), que mostró el clásico cajón en la curva inspiratoria. Una seriada esófago-gastroduodenal (SEGD) evidenció RGE moderado. Cabe señalar que el paciente no tenía los síntomas clásicos de RGE. Se descartó compromiso laríngeo o traqueal por linfoma, enfermedad tromboembólica, enfermedad pulmonar o cardiaca. La analítica fue normal. Después del primer episodio inició tratamiento con corticoides, beta 2 inhalados de larga duración y tiotropio 18 µg/día, sumado al tratamiento fonoudiológico con reeducación de la voz. No se realizó apoyo psicológico. Luego de segundo episodio con el diagnóstico de RGE inició omeprazol 40 mg/día y domperidona 10 mg cada 12 horas, el paciente discontinuó dicho tratamiento presentando el tercer episodio. Luego de éste último y con la medicación mencionada lleva 10 meses asintomático.
+Dirección para correspondencia: Pablo Young. Hospital Británico. C/ Perdriel, 74. 1280 Buenos Aires, Argentina. e-mail: pabloyoung2003@yahoo.com.ar

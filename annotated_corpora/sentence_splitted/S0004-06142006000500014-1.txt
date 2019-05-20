@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Raquel.
+Apellidos: Mendieta Paz.
+NHC: 3849674.
+NASS: 47 38204859 94.
+Domicilio: Plaza de la Estación 14, 3A.
+Localidad/ Provincia: Barañain.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 31/05/1977.
+País de nacimiento: Chile.
+Edad: 14 años  Sexo: H.
+Fecha de Ingreso: 20/04/2018.
+Médico: Pablo Garrido Abad        NºCol: 28 28 20357.
+Hombre de 32 años con antecedente de infecciones urinarias de repetición desde los 6 años y un año previo con dolor cólico moderado derecho asociado con la micción, además de náusea, emesis intermitente y pérdida ponderal de 15 Kg. Acude con retención urinaria aguda, fiebre, elevación de azoados y anemia (Urea 103, Cr 5.2, K 4.3 Hb 10.1) Se coloca sonda uretral drenando orina con leucocitos incontables. El riñón derecho con ectasia severa en el ultrasonido y el izquierdo atrófico con aumento difuso de su ecogenicidad. Posterior a 5 días de antimicrobiano se realiza cistoscopía en la que se encuentra la uretra prostática ocupada por dos membranas que van del verumontanum al cuello vesical (Valvas uretrales tipo II) y en el cistograma, reflujo vesicoureteral grado V derecho. Se resecan las valvas uretrales con asa diatérmica. El paciente un año después mantiene su función renal y adecuada micción sin necesidad de tratamiento dialítico.
+
+Dirección para correspondencia: José Manuel Otero García Lindavista # 251, 6º piso Col. Lindavista Delegación Gustavo A. Madero C.P. 07300 (México D.F.) drjmanuelog@hotmail.com

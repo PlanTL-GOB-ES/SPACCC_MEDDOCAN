@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Ignacio.
+Apellidos: Villegas.
+NHC: 8936493.
+NASS: 85 62602657 31.
+Domicilio: Calle Lascano 19, 2A.
+Localidad/ Provincia: Bilbao.
+CP: 28047.
+Datos asistenciales.
+Fecha de nacimiento: 15/01/1997.
+País de nacimiento: España.
+Edad: 71 años  Sexo: H.
+Fecha de Ingreso: 13/11/2014.
+Médico: Mari Paz Prieto Cuervo  NºCol: 03 03 26412.
+Paciente de 74 años sometido a prostatectomía radical por cancer de próstata órgano-confinado. En el postoperatorio presenta incontinencia que progresivamente va mejorando pero no llega a desaparecer por lo que el paciente recurre a colocarse una pinza de Cunningham cuando sale fuera de casa. A los 5 años de la radical y con respuesta completa al tratamiento y PSA indetectables se descubre, en las revisiones de rutina, una tumoración blanda inmediatamente por detrás de la zona de compresión de la pinza y que se confirma en las uretrografías como un divertículo. Se recurre a la resección parcial de las pardes del saco y a la reconstrucción de la uretra mediante solapamiento de los colgajos del saco siguiendo la técnica de Radojicic (10) añadiendo el refuerzo de una malla de mersilene. Llevó sonda 3 semanas y a los 3 meses se objetivó mínima fuga urinaria a nivel de la plastia conservando un excelente calibre uretral. Se colocó sonda a permanencia que tuvo que ser sustituida por 'cysto cath' por absceso periuretral que respondió bien con tratamiento antibiótico retirándose al mes con resolución posterior sin haber tenido que extirpar la malla.
+
+Dirección para correspondencia: Juan José Ballesteros Sampol Bori y Fontestá, 43. 8º - 2ª 08017 Barcelona. (España). jballesteros@imas.imim.es

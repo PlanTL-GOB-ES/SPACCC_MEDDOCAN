@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre: Alma.
+Apellidos: Campos Aveiro.
+CIPA: 178945.
+NASS: 89-89532-56.
+Domicilio: Rua do Salitre,1..
+ Localidad/ Provincia: LISBOA.
+CP: 1269-052 .
+NHC:178945.
+Datos asistenciales.
+Fecha de nacimiento: 17/05/1936.
+País: Portugal.
+Edad: 81  Sexo: F.
+Fecha de Ingreso: 08/08/2017.
+Servicio: urgencias.
+Médico: Alberto Palacios Torres  NºCol: 21536.
+Motivo de ingreso: Paciente mujer de 81 años de edad, se presenta en el servicio de urgencia con un cuadro de astenia, anorexia y dolor lumbar derecho de 2 semanas de evolución. Hemodinamicamente estable, y con fiebre (38,5 grados) hace 3 días.
+Antecedentes: insuficiencia cardiaca asociada a fibrilación auricular, sin antecedentes de enfermedades de tipo urológico.
+Historia Actual:
+Exploración física: presenta dolor a la palpación profunda localizado en el hemiabdomen derecho, sin señales de irritación peritoneal, con presencia de masa palpable y Murphy renal positivo a la derecha.
+Resumen de pruebas complementarias:Los análisis muestran leucitosis (22.390 con desviación a la izquierda), anemia normocítica normocrómica, con función renal dentro de los parámetros normales, leucituria y hematuria microscópica.
+Se realiza una radiografía reno-vesical mostrando múltiples cálculos radiopacos localizados en el riñón derecho.
+La tomografía axial computerizada abdomino-pélvica con inyección de contraste endovenoso presentan un riñón derecho aumentado de tamaño, con desorganización córtico medular y presencia de múltiples formaciones litiásicas de gran tamaño localizadas en la pelvis renal.
+Evolución y comentarios: para estabilizar el cuadro de deterioro general decidimos realizar nefrostomía pecutánea en un primer tiempo. Presenciamos salida de abundante líquido purulento por la nefrostomía que la cultura del mismo revela flora polimicrobiana. Inicia antibioterapia endovenosa de amplio espectro. Pasados cuatro días y por presentar unas condiciones quirúrgicas mas idóneas, decidimos realizar nefrectomía derecha mediante lombotomía.
+La descripción de la pieza quirúrgica es:
+Riñón (13x8,5x5 cm) enviado con segmento de ureteral de 10 cm de largo y con presencia de tejido adiposo perirenal. Se observa dilatación del árbol pielo-calicial y atrofia marcada del parénquima renal. En el interior del arbol piélico presenta contenido purulento y se identifican cálculos siendo el mayor de 4,5 cm. Aparecen focos de supuración con abcedificación del parénquima renal y del tejido adiposo perirenal. En la pelvis y cálices adyacentes se observa tejido de color blanco y consistencia blanda midiendo 6x5 cm que dista 10 cm del topo quirúrgico ureteral.
+Se confirma diagnostico de neoplasia que presenta características de adenocarcinoma de tipo intestinal, siendo posible identificar células de Goblet del tipo intestinal que se caracterizan por la presencia de vacuolas de moco intracitoplasmáticas apicales.. Los núcleos en algunas áreas se presentan uniformes y monótonas y en otras zonas son más agresivas, irregulares, de diferentes tamaños y con frecuente actividad mitótica. La neoplasia invade el tejido conjuntivo subepitelial. En el revestimiento del árbol pielocalicial se identifica metaplasia glandular del epitelio urotelial.
+Pasados seis meses de la intervención quirúrgica la paciente fallece.
+Diagnóstico Principal:adenocarcinoma con áreas predominantes de patrón tubular y áreas focales de patrón túbulovelloso
+Otros diagnósticos:  pionefrosis
+Remitido por: Dr. Alberto Palacios Torres  AV. Eduardo Torres 579 2° Frente esquerdo. 4450-117 Matosinhos. Porto (Portugal). E-mail: aphmmx5@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="13" text="Alma" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="26" end="39" text="Campos Aveiro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="47" end="53" text="178945" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="61" end="72" text="89-89532-56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="85" end="101" text="Rua do Salitre,1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="127" end="133" text="LISBOA" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="139" end="147" text="1269-052" TYPE="TERRITORIO" comment=""/>
+    <ID id="T17" start="154" end="160" text="178945" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="204" end="214" text="17/05/1936" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="222" end="230" text="Portugal" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="238" end="240" text="81" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="248" end="249" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="269" end="279" text="08/08/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="310" end="333" text="Alberto Palacios Torres" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="342" end="347" text="21536" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="377" end="382" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="386" end="393" text="81 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3440" end="3463" text="Alberto Palacios Torres" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3465" end="3506" text="AV. Eduardo Torres 579 2° Frente esquerdo" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3508" end="3516" text="4450-117" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3517" end="3527" text="Matosinhos" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3529" end="3534" text="Porto" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3536" end="3544" text="Portugal" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3555" end="3574" text="aphmmx5@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

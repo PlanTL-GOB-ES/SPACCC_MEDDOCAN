@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Estefanía.
+Apellidos: Salgado Sandoval.
+NHC: 6918705.
+NASS: 56 89527056 79.
+Domicilio: Av. Miguel de Cervantes, 25, 1H.
+Localidad/ Provincia: Tarancón, Cuenca.
+CP: 16400.
+Datos asistenciales.
+Fecha de nacimiento: 15/07/1977.
+País: España.
+Edad: 40 años Sexo: M.
+Fecha de Ingreso: 23/02/2018.
+Servicio:Urgencias.
+Episodio: 2597851623.
+Médico: María Pilar Orgaz Gallego NºCol: 16 16 89231.
+Informe clínico del paciente: Mujer de 40 años que acudió al servicio de urgencias del centro de salud por otalgia unilateral derecha y cefalea de 3 días de evolución. Se trató como una otitis externa con gotas de beclometasona + clioquinol. Al día siguiente volvió a urgencias por cefalea que cedió casi completamente con terapia analgésica intravenosa, asociándole al tratamiento previo dexketoprofeno 25 mg/8 h. Dos días después vino a la consulta refiriendo cefalea punzante, sensación opresiva a nivel periorbitario y acúfenos en el oído derecho, objetivándose en la exploración ausencia de inflamación en el conducto auditivo externo (CAE), hiperemia selectiva de la cadena osicular sin alteración timpánica y discreto nistagmo horizontal, indicándole tratamiento con levofloxacino 500 mg/24 h, betahistina y baja laboral. A los dos días acudió por el parte de incapacidad temporal refiriendo mejoría del dolor ótico, pero cierta sensación de inestabilidad, sustituyéndose betahistina por sulpiride 50 mg/8 h. Cuarenta y ocho horas después consultó por "no encontrarse mejor"; notaba parestesias en la hemicara derecha desde esa misma mañana, ageusia en la hemilengua derecha y durante la entrevista apreciamos blefaroespasmos en el ojo izquierdo, confirmándose en la exploración una parálisis facial periférica derecha (asimetría facial al sonreír y al soplar, así como una ligera abertura ocular derecha al indicarle que cerrara los ojos), por lo que se derivó a urgencias de hospital para valoración otorrinolaringológica. La audiometría mostró una leve caída en agudos en el oído derecho. Los pares craneales fueron normales excepto el VII. No tenía nistagmus espontáneo. La otoscopia mostró hiperemia en la porción superior del CAE y se visualizaron pequeñas vesículas en el pabellón auricular derecho, por lo que fue ingresada con el diagnóstico de "Síndrome de Ramsay Hunt derecho" para iniciar tratamiento con aciclovir intravenoso y control evolutivo.
+Remitido por: María Pilar Orgaz Gallego. Centro de Salud de Tarancón. C/ Camino Corral de Almaguer, s/n. C.P. 16400. Tarancón. Cuenca (España). Correo electrónico: mporgaz@sescam.jccm.es

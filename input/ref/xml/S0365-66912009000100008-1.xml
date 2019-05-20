@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Pablo.
+Apellidos: Hernández de Córdoba.
+NHC: 7438564.
+NASS: 74 35670263 21.
+Domicilio: C/ Ganapanes, 35, 6, A.
+Localidad/ Provincia: Madrid.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 15/11/1980.
+País de nacimiento: España.
+Edad: 28 años Sexo: H.
+Fecha de Ingreso: 03/10/2009.
+Médico:Francisco Javier Muñoz Negrete  NºCol: 28 28 70263.
+Informe clínico del paciente: Paciente varón de 28 años de edad que sufre un traumatismo contuso en su ojo izquierdo durante una agresión. En la exploración inicial de urgencia se aprecia en dicho ojo una importante reducción de AV debido a un hifema, la PIO era 8 mmHg y en el fondo de ojo se apreciaba un edema de Berlin. El paciente es tratado con reposo relativo, cicloplejía, corticoides tópicos y sistémicos. Tras la reabsorción del hifema, la AV mejoró a 1, pero la PIO era de 4 mmHg, por lo que se continúa tratamiento con restricción de esfuerzos físicos, atropina 1% y corticoides tópicos, a pesar de lo cual la hipotonía ocular persiste (4-6 mmHg), la AV se reduce llegando a 0,4 y se van desarrollando pliegues retinocoroideos y edema de papila. La supresión de los corticoides tópicos tampoco mejoró el cuadro clínico.
+El estudio gonioscópico muestra un ángulo abierto grado IV sin otras alteraciones. Diez meses tras el traumatismo se le realiza una biomicroscopía ultrasónica (BMU) que objetiva un desgarro de la raíz de iris en la zona nasal con desprendimiento ciliocoroideo de 360°. La tomografía de coherencia óptica (OCT) muestra un engrosamiento foveal (326 micras).
+Dada la ausencia de respuesta al tratamiento conservador se decide practicar una ciclopexia transescleral con láser diodo de contacto utilizando la sonda G del láser diodo Oculight SLx (Iris Medical Instruments, Mountain View, California), El procedimiento fue realizado bajo anestesia retrobulbar y se aplicaron 2 hileras de 10 impactos cada una (potencia 3 watios, tiempo de exposición 3 segundos) sobre el área de ciclodiálisis descrita con la BMU.
+En las primeras 24 horas no se observaron cambios en la AV ni en la PIO, pero a partir de la semana se observó un ascenso gradual de la PIO, siendo al 6° mes de 12 mmHg, lo que se acompañó de mejoría de AV y reducción progresiva del edema de papila, pliegues coriorretinianos y del grosor foveal. Mediante BMU se comprobó el cierre de la ciclodiálisis mediante una sinequia anterior periférica y la desaparición del desprendimiento coroideo, que justifican la normalización de la PIO. Al año de seguimiento la AV era de 1 y la PIO de 14 mmHg.
+Responsable clínico: Dr. Francisco Javier Muñoz Negrete Hospital Ramón y Cajal Servicio de Oftalmología Ctra. Colmenar Viejo, km 9,100 E-mail: franciscojmunoz@madridsalud.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="33" text="Pablo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="46" end="66" text="Hernández de Córdoba" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="73" end="80" text="7438564" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="88" end="102" text="74 35670263 21" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="115" end="137" text="C/ Ganapanes, 35, 6, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="161" end="167" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="173" end="178" text="28036" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="222" end="232" text="15/11/1980" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="254" end="260" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="268" end="275" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="282" end="283" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="303" end="313" text="03/10/2009" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="322" end="352" text="Francisco Javier Muñoz Negrete" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="361" end="372" text="28 28 70263" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="413" end="418" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="422" end="429" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T6" start="1748" end="1772" text="Iris Medical Instruments" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="1774" end="1787" text="Mountain View" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T7" start="1789" end="1799" text="California" TYPE="TERRITORIO" comment=""/>
+    <NAME id="T4" start="2582" end="2612" text="Francisco Javier Muñoz Negrete" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="2613" end="2635" text="Hospital Ramón y Cajal" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T1" start="2661" end="2691" text="Ctra. Colmenar Viejo, km 9,100" TYPE="CALLE" comment=""/>
+    <CONTACT id="T2" start="2700" end="2731" text="franciscojmunoz@madridsalud.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

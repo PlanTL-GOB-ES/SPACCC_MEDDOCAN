@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Silvia .
+Apellidos: Perera Sotillo.
+NHC: 6778970.
+NASS: 24 57734895 45.
+Domicilio:  Calle Veguellina, 3.
+Localidad/ Provincia: Madrid.
+CP: 24001.
+Datos asistenciales.
+Fecha de nacimiento: 15/03/1993.
+País de nacimiento: España.
+Edad: 24 años Sexo: M.
+Fecha de Ingreso: 06/08/2017.
+Servicio: Oftalmología.
+Episodio: 8793456.
+Médico: Vicente Asensio Sánchez NºCol: 24 24 56102.
+Informe clínico del paciente: Mujer de 24 años enviada desde atención primaria por pérdida de visión bilateral de 6 semanas de evolución. Sin antecedentes familiares de interés. Como antecedente personal destaca el tratamiento con Topamax 150 mg al día desde hacía 2 meses por epilepsia refractaria a terapia convencional. La AV máxima en el ojo derecho era de 0,6 y de 0,7 en el ojo izquierdo (OI). El campo visual muestra un escotoma central bilateral y en el fondo de ojo se aprecia una maculopatía bilateral con cambios pigmentarios mayor en el OI. Ante la relación temporal ingesta de Topamax y pérdida de visión se retiró este fármaco, pero después de un año de seguimiento la paciente no ha recuperado visión aunque el proceso permanece estable.
+Responsable clínico: Dr. Vicente Asensio Sánchez Hospital General Servicio Castellano-Leonés de Salud Servicio de Oftalmología Medina del Campo (Valladolid) España E-mail: vasensio@hmdc.sacyl.es

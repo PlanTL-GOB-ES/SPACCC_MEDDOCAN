@@ -1,0 +1,10 @@
+Subtask1_Leak : 0.3146425724156258 
+Subtask1_Precision : 0.9084137931034483
+Subtask1_Recall : 0.5816993464052288
+Subtask1_F1 : 0.7092397157010554
+Subtask2Strict_Precision : 0.9142068965517242
+Subtask2Strict_Recall : 0.5854089383501149
+Subtask2Strict_F1 : 0.7137626534568167
+Subtask2Merged_Precision : 0.9229949373834266
+Subtask2Merged_Recall : 0.598479612992398
+Subtask2Merged_F1 : 0.7261293365475318

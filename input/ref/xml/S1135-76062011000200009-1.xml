@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Mateo.
+Apellidos: Sanchez Rodriguez.
+NHC: 4790356.
+NASS: 47 52670894 67.
+Domicilio: C/ Principe de Vergara, 55, 3 B.
+Localidad/ Provincia: Madrid.
+CP: 28015.
+Datos asistenciales.
+Fecha de nacimiento: 30/04/1985.
+País de nacimiento: España.
+Edad: 33 años Sexo: H.
+Fecha de Ingreso: 27/06/2018.
+Médico: Antonio Rico García NºCol: 28 28 55680.
+Informe clínico del paciente: Varón de 33 años, sin antecedentes patológicos conocidos, que ingresó en un servicio de urgencias hospitalario a las 7.43 h, procedente de su domicilio, con el diagnóstico de "traumatismo craneal ocasionando ictus isquémico". La tarde anterior había sufrido un golpe con un balón en el cuello mientras jugaba un partido de fútbol como portero.
+Durante su ingreso se practicó TAC craneal, que puso de manifiesto un infarto isquémico en el territorio de la arteria cerebral media derecha como consecuencia de una disección traumática de la arteria carótida interna derecha.
+Presentó hipertensión endocraneal y herniación cerebral con evolución hacia muerte encefálica, por lo que entró en programa de donación de órganos falleciendo 10 días después de su ingreso.
+Responsable clínico: Dr. Antonio Rico García. E-mail: anricoga@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="28" end="33" text="Mateo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="46" end="63" text="Sanchez Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="70" end="77" text="4790356" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="85" end="99" text="47 52670894 67" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="112" end="143" text="C/ Principe de Vergara, 55, 3 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="167" end="173" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="179" end="184" text="28015" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="228" end="238" text="30/04/1985" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="260" end="266" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="274" end="281" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="288" end="289" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="309" end="319" text="27/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="329" end="348" text="Antonio Rico García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="356" end="367" text="28 28 55680" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="399" end="404" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="408" end="415" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="734" end="741" text="portero" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="1186" end="1205" text="Antonio Rico García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T2" start="1215" end="1233" text="anricoga@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

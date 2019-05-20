@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Patricia.
+Apellidos: Huerta Betanco.
+NHC: 7832694.
+NASS: 48 97342560 23.
+Domicilio: Calle Marquez de Viana, 65, 4, A.
+Localidad/ Provincia: Valladolid.
+CP: 47851.
+Datos asistenciales.
+Fecha de nacimiento: 19/12/1979.
+País: España.
+Edad: 38 años Sexo: M.
+Fecha de Ingreso: 25/05/2018.
+Médico: Fabian del Campo Matías NºCol: 47 47 90330.
+Informe clínico del paciente: mujer de 38 años de edad solicitó asistencia odontológica para el tratamiento de la caries del diente # 37 (segundo molar mandibular izquierdo). En ese momento no presentaba antecedentes médicos ni odontológicos destacables, no estaba tomando ningún tipo de fármaco y no tenía ninguna otra restauración en su boca. Tras la revisión intraoral y el análisis de la radiografía periapical del diente en cuestión, se procedió a la eliminación del tejido afectado por la caries, realizándose una preparación cavitaria clase I de Black que se rellenó con amalgama de plata. No se produjo ningún problema postoperatorio.
+Pasados 19 meses, la paciente volvió al consultorio dental, pues sospechaba la presencia de caries en otras piezas dentarias. Al realizar la exploración intraoral se apreció una zona atrófica, ligeramente eritematosa, en la mucosa yugal izquierda, justamente en la región de la mucosa que contactaba con el molar restaurado con amalgama de plata. La mucosa yugal derecha tenía un aspecto normal. Interrogada sobre la lesión, la paciente nos informa de que no la había notado, aunque últimamente había sentido algunas veces cierta sensación rara en esa zona al comer comidas picantes. Igualmente nos informa de que no ha recibido ningún tipo de tratamiento desde la anterior visita, en que se le realizó la restauración de amalgama. Interrogada sobre antecedentes alérgicos, no presenta ninguna historia previa de reacciones alérgicas. La exploración minuciosa de la zona lesionada demuestra que ésta se proyecta sobre la restauración de amalgama de plata, entrando en contacto íntimo con ella durante algunos movimientos orales, siendo necesario de hecho separar la mucosa con el espejo para poder apreciar bien la lesión.
+Para confirmar histológicamente la naturaleza de la lesión, se toma una biopsia de la misma. El estudio anatomopatológico de la biopsia de la lesión mostraba un epitelio escamoso con acantosis irregular y focos de paraqueratosis, con marcada espongiosis y presencia de exocitosis de elementos linfocitarios en el estrato córneo. El estroma subyacente mostraba un infiltrado inflamatorio crónico de tipo linfocitario distribuido discretamente en banda, con afectación del estrato basal. En profundidad se observaba tejido fibroconectivo y adiposo con alguna estructura vascular de pared fina, sin alteraciones relevantes. El diagnóstico anatomopatológico era compatible con liquen plano oral, siendo el cuadro histológico observado en la mucosa equivalente en piel a una dermatitis aguda-subaguda.
+Una vez que se explicó a la paciente la naturaleza de la lesión que tenía y la posibilidad de que desapareciese eliminando la restauración de amalgama de plata, ésta decidió no recambiar la restauración por valorar que no tenía molestias importantes y no deseaba someterse de nuevo al tratamiento. Las restauraciones de otros dientes se le realizaron con resina compuesta, sin que se produjese reacción alguna a nivel de la mucosa.
+Remitido por:Dr. Fabian del Campo Matías. Av. Padre Francisco Suárez, 8-5º dcha. 47006 Valladolid
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="29" end="37" text="Patricia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="50" end="64" text="Huerta Betanco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="71" end="78" text="7832694" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="86" end="100" text="48 97342560 23" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="113" end="145" text="Calle Marquez de Viana, 65, 4, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="169" end="179" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="185" end="190" text="47851" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="234" end="244" text="19/12/1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="252" end="258" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="266" end="273" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="280" end="281" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="301" end="311" text="25/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="321" end="344" text="Fabian del Campo Matías" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="352" end="363" text="47 47 90330" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="395" end="400" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="404" end="411" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="3377" end="3400" text="Fabian del Campo Matías" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="3402" end="3439" text="Av. Padre Francisco Suárez, 8-5º dcha" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="3441" end="3446" text="47006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="3447" end="3457" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

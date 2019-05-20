@@ -1,0 +1,16 @@
+Nombre:  Marina.
+Apellidos: Gomez Garcia.
+NHC: 4579.
+NASS: 34 78034596 54.
+Domicilio: Calle sinesio delgado 63, 1B.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 10/10/1963.
+País: España.
+Edad: 52 años Sexo: M.
+Fecha de Ingreso: 21/11/2015.
+Servicio: Oftalmologia.
+Médico: Manuel Albert Fontana NºCol: 28 08 97456.
+Historia del paciente: Mujer de 52 años con AR seropositiva erosiva, títulos altos de factor reumatoide y anticuerpos antipéptido cíclico citrulinado (anti-CCP) de 12 años de evolución, con fallo secundario a infliximab y adalimumab. Presenta ojo rojo, dolor y fotofobia. Exploración: infiltrado corneal periférico en semiluna asociado a escleritis. Cultivo del raspado corneal negativo. Iniciamos tratamiento con prednisona 1mg/kg/día vía oral y decidimos cambio de diana terapéutica a rituximab a dosis habitual en AR con metotrexato 25mg/semana. Tras el primer ciclo de rituximab la paciente experimentó gran mejoría con curación de la QUP y entró en remisión clínica de la AR. A los 10 meses apareció de nuevo un infiltrado corneal y escleritis leve e inicio de clínica articular. Decidimos mantener tratamiento con rituximab i.v. en pauta de AR cada 8 meses con buen control clínico tanto de su cuadro ocular como sistémico.
+Remitido por: Manuel Albert Fontana Email: albert_marfon@gva.es

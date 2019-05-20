@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Gabriel.
+Apellidos: Cardona Escribano.
+NHC: 0766208.
+NASS: 84 37583784 05.
+Domicilio: Calle Sama de Langreo, 27, 5 C.
+Localidad/ Provincia: Granada.
+CP: 28034.
+Datos asistenciales.
+Fecha de nacimiento: 24/03/1939.
+País de nacimiento: España.
+Edad: 70 años  Sexo: H.
+Fecha de Ingreso: 05/10/2017.
+Médico: María Inés Pérez Flores  NºCol: 20 20 40369.
+Mujer de 67 años con antecedentes de HTA, riñón poliquístico e insuficiencia renal. Historia de infecciones urinarias previas que se han tratado con levofloxacino sin presentar efectos secundarios. En un nuevo episodio de infección urinaria, se instaura tratamiento con ciprofloxacino (500 mg/12 h), presentando la paciente a las 48 horas, dolor e impotencia funcional en ambos hombros. En la exploración se objetiva un arco doloroso con maniobras contrarresistencia positivas en ambos supraespinosos. En la Rx no se observan calcificaciones tendinosas ni ningún dato de interés. Se suspende el tratamiento con ciprofloxacino, quedando asintomática en diez días. Posteriormente ha precisado tratamiento con levofloxacino sin presentar reacciones adversas.
+Dirección para correspondencia: Marta Medrano San Ildefonso. C/ Condes de Aragón, 20, 4D. 50009 Zaragoza. e-mail: mmedrano@unizar.es

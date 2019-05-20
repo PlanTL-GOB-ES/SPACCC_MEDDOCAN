@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Andrés.
+Apellidos: Rivera Guijarro.
+NHC: 7865748.
+NASS: 28 76134805 13.
+Domicilio:  Avda. Islas Filipinas, 34.
+Localidad/ Provincia: Madrid.
+CP: 28047.
+Datos asistenciales.
+Fecha de nacimiento: 02/02/1948.
+País de nacimiento: España.
+Edad: 68 años Sexo: H.
+Fecha de Ingreso: 03/03/2017.
+Servicio: Anestesiología, Reanimación y Terapéutica del Dolor.
+Episodio: 6-473-803.
+Médico: Ricardo Navarro Suay  NºCol: 28 28 57981.
+Informe clínico del paciente: Varón de 68 años asintomático, sin antecedentes de interés, remitido para estudio de una lesión a nivel del proceso uncinado del páncreas. La misma fue detectada incidentalmente por ecografía abdominal realizada para el estudio una de lumbalgia.
+En la imagen de la tomografía computerizada de abdomen se describe una masa inhomogénea a nivel del proceso uncinado con un diámetro en sentido anteroposterior de 3,6 cm, borrosidad de la grasa peripancreática y dilatación del conducto pancreático principal.
+Se procede a una exploración con equipo lineal de ecoendoscopia (PENTAX UX 3630) donde se excluye la invasión de vía biliar y estructuras adyacentes. El estudio citológico del material obtenido por PAAF guiada por ecoendoscopia fue negativo para malignidad.
+Con la sospecha de adenocarcinoma se realiza una duodenopancreatectomía cefálica con disección de ganglios linfáticos. Macroscópicamente se describe una lesión grisácea bien delimitada de 1,8 cm x 1 cm de consistencia blanda con aspecto necrótico en su centro con diagnóstico histopatológico de quiste linfoepitelial.
+Responsable clínico: Dr. Ricardo Navarro Suay Servicio de Anestesiología, Reanimación y Terapéutica del Dolor Hospital Universitario Central de la Defensa "Gómez Ulla" Glorieta del Ejército, 1 28047 Madrid e-mail: r_navarro_suay@yahoo.es

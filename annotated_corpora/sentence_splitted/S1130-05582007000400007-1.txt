@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: Marcela.
+Apellidos: Pelaez Martinez.
+NHC: 7134602.
+NASS: 78 94466577 98.
+Domicilio: Paseo de la Armada, 35, 3 D.
+Localidad/ Provincia: Madrid.
+CP: 31008.
+Datos asistenciales.
+Fecha de nacimiento: 05/12/1936.
+País: España.
+Edad: 22 años  Sexo: H.
+Fecha de Ingreso: 09/09/2007.
+Servicio: UCI.
+Episodio: 5267546478.
+Médico: Pablo Puras Rico  NºCol: 46 46 13795.
+Paciente de género femenino, 55 años de edad desdentada parcial superior clase I de Kennedy que presentaba remanencia de las piezas 6 a 12 en boca, consulta para rehabilitar el sector posterior. De acuerdo al estudio radiográfico presenta una gran reabsorción bilateral por neumatización del seno maxilar por lo que se planifica una reconstrucción con injerto de calota e implantes en un segundo tiempo, tratamiento que rechaza por su alta morbilidad. Por esta razón se planifica la rehabilitación en base a implantes cigomáticos, para reemplazar hasta el primer molar. Para esto se instalan dos implantes cigomáticos a cada lado, 3 de 45 mm y uno de 40 mm.
+Para rehabilitar en base a prótesis fija se requería la emergencia de los implantes sobre el reborde alveolar, para lo cual se modificó la técnica original. Los implantes del lado derecho se instalaron a nivel de las piezas dentarias 3 y 4. El implante posterior se ubicó por fuera del seno maxilar y el anterior por dentro pero con una angulación mayor con respecto al plano oclusal. En el lado izquierdo, en posición de las piezas dentarias 13 y 14, el implante anterior se posicionó por fuera del seno maxilar y el implante posterior por dentro con mayor angulación. Con esto se logró que los cuatro implantes emergieran en el reborde alveolar con una angulación dentro de límites aceptables.
+
+Dirección para correspondencia: María Fernanda Pintor Willcock Charles Hamilton 10038, Santiago, Chile Email: fernandapintor@gmail.com

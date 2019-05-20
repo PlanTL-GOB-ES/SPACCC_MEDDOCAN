@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre:  Helen.
+Apellidos: Bellido Jarquin.
+NHC: 7845923.
+NASS: 89 34670934 12.
+Domicilio: Paseo de Verin, 23.
+Localidad/ Provincia: Valladolid.
+CP: 47013.
+Datos asistenciales.
+Fecha de nacimiento: 10/05/1948.
+País: España.
+Edad: 67 años Sexo: M.
+Fecha de Ingreso: 21/05/2015.
+Servicio: Cirugía Maxilofacial.
+Episodio: 3476594.
+Médico: Sandra Galdeano Arenas  NºCol: 47 47 58120.
+Informe clínico del paciente: Paciente mujer de 67 años de edad que fue remitida por su médico de cabecera a nuestra consulta por presentar una tumoración oral de 20 años de evolución. La lesión era asintomática y había crecido en el último año, produciéndole una deformidad estética facial e interfiriéndole la masticación. Como antecedente personal cabía destacar histerectomía más doble anisectomía hacía 10 años. No refería hábito tabáquico, ni consumo de alcohol.
+En la exploración física se constataba asimetría facial. En el examen intraoral se apreciaba una tumoración pediculada en cresta gingival mandibular izquierda correspondiente al espacio edéntulo de 37, de 6-8 cm de diámetro, bien delimitada, parcialmente cubierta por una mucosa de coloración blanquecina y de consistencia duro-elástica. Además presentaba movilidad por desplazamiento de 35, 36 y 38 y restos radiculares de 25, 26 y 27. La exploración cervical era negativa.
+El examen radiológico con ortopantomografía ponía de manifiesto el desplazamiento dentario y los restos radiculares citados.
+Bajo el diagnóstico de presunción de fibroma cemento-osificante, la paciente fue intervenida quirúrgicamente bajo anestesia general realizándose extirpación de la tumoración, legrado del lecho óseo y avulsión de 35, 36, 38 y restos radiculares maxilares.
+La evolución fue satisfactoria y tras 9 meses de seguimiento la paciente se encuentra asintomática y sin evidencia de signos físicos, ni radiológicos de recidiva.
+Remitido por:  Dra. Sandra Galdeano Arenas. Departamento de Cirugía Maxilofacial. Hospital Universitario del Rio Hortega. C/ Cardenal Torquemada s/n. 47010 Valladolid. Tlf: 983420400. Fax: 983331566 E-mail: m_galdeano@hotmail.com

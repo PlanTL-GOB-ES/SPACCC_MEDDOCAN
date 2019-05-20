@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Juan .
+Apellidos: Bracero Iglesias.
+NHC: 1526104.
+NASS: 89 23760156 75.
+Domicilio: Camino del Colmenar, 19 5C.
+Localidad/ Provincia: Bilbao.
+CP: 08210.
+Datos asistenciales.
+Fecha de nacimiento: 15/03/1984.
+País de nacimiento: España.
+Edad: 38 años  Sexo: H.
+Fecha de Ingreso: 20/12/2015.
+Servicio: Obstetricia.
+Episodio: 85136412.
+Médico: Daniel Pastor Zuazaga  NºCol: 09 28 94165.
+Paciente varón de 64 años que es estudiado por dolor en hipocondrio derecho de unas semanas de evolución sin otra sintomatología acompañante. En la analítica solo destacaba una GGT discretamente elevada (70 U/l) con un CA 19.9 de 170 U/ml. El resto de los parámetros analíticos eran normales. En la ecografía abdominal ya se apreciaba dilatación de la vía biliar izquierda, mientras que las vías biliares principal y derechas presentaban características normales. Se le practica una colangio-RMN en la que se puede apreciar una dilatación del árbol biliar izquierdo con una lesión polipoidea en el origen del conducto hepático izquierdo, sin otros hallazgos. Previo a plantear un tratamiento se practica CPRE, que demuestra la dilatación de la vía biliar izquierda por la existencia de una lesión polipoidea en el origen del conducto hepático izquierdo, que es biopsiado. Además, se coloca una prótesis plástica. La biopsia confirma el diagnóstico de neoplasia papilar con displasia de alto grado. Se plantea el tratamiento quirúrgico y se practican colecistectomía, hepatectomía izquierda anatómica con resección del segmento I y exéresis del árbol biliar izquierdo hasta la confluencia con el derecho. El estudio intraoperatorio del borde de sección biliar no demuestra afectación. El postoperatorio transcurre sin incidencias reseñables. El estudio anatomopatológico confirma el diagnóstico de neoplasia papilar biliar intraductal con foco de colangiocarcinoma papilar e invasivo, sin afectación linfática. Los bordes de resección estaban libres. No se realiza tratamiento complementario y tras cinco años de seguimiento el paciente está libre de enfermedad.
+Dirección para correspondencia: Baltasar Pérez Saborido. Unidad de Cirugía HBP. Servicio de Cirugía General y Aparato Digestivo. Hospital Universitario del Río Hortega. C/ Dulzaina, 2. 47013 Valladolid e-mail: perezsb@hotmail.com

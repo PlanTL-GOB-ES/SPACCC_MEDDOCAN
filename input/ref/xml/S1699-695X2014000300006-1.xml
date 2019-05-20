@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Mario.
+Apellidos: Lopez Garrido.
+NHC: 8975388.
+NASS:84 24958768 30.
+Domicilio: Calle de la Virgen Maria, 19, 3B.
+Localidad/ Provincia: Ciudad Real.
+CP: 13029.
+Datos asistenciales.
+Fecha de nacimiento: 05/04/1937.
+País: España.
+Edad: 79 años Sexo: H.
+Fecha de Ingreso: 24/10/2016.
+Médico: Marta Sánchez García NºCol: 13 13 25601.
+Historia Actual: Varón de 79 años, que presenta obesidad, hipertensión arterial (HTA), diabetes mellitus tipo 2, cardiopatía isquémica, FA, enfermedad pulmonar obstructiva crónica (EPOC) y síndrome de apnea del sueño. Acude a consulta de Atención Primaria por presentar mareo con sensación de giro de objetos, sobre todo cuando camina, que cede en reposo. Refiere aumento de su disnea habitual. No ha presentado pérdida de consciencia, ni dolor torácico, ni vómitos ni sudoración fría. Realiza tratamiento habitualmente con amlodipino, repaglinida, nitroglicerina (parches), acenocumarol, atorvastatina, atenolol, ácido acetilsalicílico, espironolactona, insulina isofánica protamina, paracetamol-tramadol y omeprazol, con buen cumplimiento del mismo.
+Exploración física: En la exploración física, destaca la presencia de arritmia en la auscultación cardiaca, con tonos lentos, apagados, sin soplos. Los pulsos radiales están presentes y son simétricos. En la auscultación pulmonar se aprecia hipoventilación generalizada, sin ruidos sobreañadidos. La exploración neurológica es rigurosamente normal. Presenta edemas con fóvea hasta las rodillas y signos de insuficiencia venosa crónica en miembros inferiores. Con pulsioxímetro detectamos una frecuencia cardiaca de 30 latidos por minuto (lpm) y una saturación de oxígeno del 90 %.
+Ante la clínica del paciente (mareo con sensación de giro de objetos, sin otra sintomatología añadida) y la frecuencia cardiaca detectada se decide realizar ECG.
+Pruebas complementarias: Tras valorar el ECG, y dados los antecedentes personales del paciente (HTA, cardiopatía isquémica), comparamos el registro obtenido con un ECG anterior, realizado tres años atrás durante un ingreso por un episodio de agudización de EPOC.
+Evolución: Comparando ambos registros electrocardiográficos se comprueba que no aparecía bradicardia y que los complejos QRS ahora parecen rítmicos, pero no se aprecian ondas P, por lo que ante el ECG obtenido y la clínica se decide derivar al paciente al Servicio Hospitalario de Urgencias.
+Con la sospecha diagnóstica de FA lenta, se retira el tratamiento cronotropo negativo, sin mejoría. Dada la falta de respuesta a esta medida, se decide ingreso en Cardiología. Tras estudio completo, se llega al diagnóstico definitivo de FA con bloqueo aurículo-ventricular avanzado y bloqueo de rama derecha grado III, sintomático, por lo que se decide implante de marcapasos permanente. El paciente evoluciona favorablemente: desaparece la clínica y se controla la frecuencia cardiaca.
+Remitido por: Dra. Marta Sánchez García. Centro de Salud Ciudad Real II. C/ Palma, 11. C.P. 13001. Ciudad Real (España). Correo electrónico: fenetra_444@hotmail.com.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="33" text="Mario" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="46" end="59" text="Lopez Garrido" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="66" end="73" text="8975388" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="80" end="94" text="84 24958768 30" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="107" end="139" text="Calle de la Virgen Maria, 19, 3B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="163" end="174" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="180" end="185" text="13029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="229" end="239" text="05/04/1937" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="247" end="253" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="261" end="268" text="79 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="275" end="276" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="296" end="306" text="24/10/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="316" end="336" text="Marta Sánchez García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="344" end="355" text="13 13 25601" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="374" end="379" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="383" end="390" text="79 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2913" end="2933" text="Marta Sánchez García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2935" end="2965" text="Centro de Salud Ciudad Real II" TYPE="CENTRO_SALUD" comment=""/>
+    <LOCATION id="T5" start="2967" end="2979" text="C/ Palma, 11" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2986" end="2991" text="13001" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2993" end="3004" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3006" end="3012" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3035" end="3058" text="fenetra_444@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Asunción.
+Apellidos: San Martin Fernandez.
+NHC: 637365.
+NASS: 08 75845765 45.
+Domicilio: C/ Hiedra, 8, 9 A.
+Localidad/ Provincia: Madrid.
+CP: 28001.
+Datos asistenciales.
+Fecha de nacimiento: 21/02/1958.
+País de nacimiento: España.
+Edad: 46 años  Sexo: H.
+Fecha de Ingreso: 14/06/2017.
+Servicio: Odontología.
+Médico: Pedro Bolado Gutiérrez  NºCol: 50 50 24103 .
+Varón de 42 años referido con diagnóstico de carcinoma basocelular en canto interno de ojo derecho. Se le efectuó resección con límites quirúrgicos sanos comprobados mediante biopsia por congelación y reconstrucción mediante la técnica descrita.
+
+Dirección para correspondencia: Dra. Jezabel de Abullarade Unidad Médica Atlacatl del Instituto Salvadoreño del Seguro Social San Salvador. El Salvador e-mail: drdeabullarade@gmail.com

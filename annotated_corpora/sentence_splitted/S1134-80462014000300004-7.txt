@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Manuel .
+Apellidos: Orozca Bueno.
+NHC: 098576.
+NASS: 99 00154744 02.
+Domicilio: Calle Alonso de Freylas, 6, Bajo A.
+Localidad/ Provincia: Girona.
+CP: 25001.
+Datos asistenciales.
+Fecha de nacimiento: 15/05/2006.
+País de nacimiento: España.
+Edad: 37 años  Sexo: H.
+Fecha de Ingreso: 17/06/2016.
+Médico: Miguel Ángel Fernández Vaquero  NºCol: 09 09 64234.
+Niña de 10 años de edad cuando se inicia el cuadro. Presenta esguince de tobillo izquierdo con desarrollo de un cuadro de SDRC de tobillo y pie izquierdo. Es remitida a la Unidad del Dolor por el Servicio de Reumatología Pediátrica a los cuatro años del diagnóstico.
+Se le administra tratamiento farmacológico más aplicación de parche de capsaicina al 8 % sin remisión del cuadro. Colocación en quirófano, bajo anestesia general y previo consentimiento paterno, de un catéter epidural lumbar y conexión a una bomba externa para administración de una infusión continúa de bupivacaína durante dos semanas. Retirada del catéter pasado ese tiempo. Remisión completa de los síntomas.
+Dirección para correspondencia: Manuel J. Rodríguez-López Unidad de Tratamiento del Dolor Hospital Regional Universitario "Carlos Haya" Avda. Carlos Haya, s/n 29010 Málaga e-mail: maje1946@yahoo.es

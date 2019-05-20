@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Diego.
+Apellidos: Miguel Aznar.
+NHC: 7086454.
+Domicilio: Paseo de los pinos 16, 4E.
+Localidad/ Provincia: Lleida.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 25/08/1943.
+País: España.
+Edad: 75 años  Sexo: H.
+Fecha de Ingreso: 24/04/2017.
+Médico: Ricardo Sabaniego Martín   NºCol: 28 28 97485.
+Paciente de 74 años en 1997, que consulta por tumoración en mama izquierda de 4 cm y una adenopatía palpable. Estudio radiológico compatible con carcinoma. Es tratada mediante mastectomía radical modificada tipo Madden previa biopsia intraoperatoria positiva para carcinoma. Informe anatomopatológico: Carcinoma ductal infiltrante mucinoso (coloide) de 3.2 cm de eje máximo y una adenopatía positiva de 22 ganglios axilares aislados. Recibe como tratamiento complementario tamoxifeno a dosis de 20 mg diarios. Se realizan controles de rastreo de tumor que resultan negativos. Así mismo se realizan ecografías ginecológicas anuales que son normales. En Mayo de 2001 consulta por metrorragia postmenopáusica. Se realiza una ecografía vaginal que resulta ser compatible con "pólipo endometrial" de 19*16 mm. Se realiza una Histeroscopia donde se aprecia una formación excrecente en la cara anterior de vagina que es biopsiada y a nivel intrauterino una formación polipoidea con vasos anómalos, altamente sospechosa que es igualmente biopsiada. El informe anatomopatológico de la zona en vagina se informa como carcinoma pobremente diferenciado y la formación polipoidea como atipia celular no filiada.
+Se realiza una histerectomía total con doble anexectomía, manguito vaginal y linfadenectomía. Informe anatomopatológico: Lavado peritoneal positivo para células malignas. Tumor intracavitario de 6 cm, Tumor Mülleriano Mixto Maligno Heterólogo con extensa permeación vascular linfática. Metástasis múltiples en miometrio, trompa y ovarios y metástasis ganglionares. La formación de vagina es de un carcinoma pobremente diferenciado probablemente metástasis del tumor Mülleriano mixto descrito (Estadio III). Realiza tratamiento complementario con Taxol, que tolera mal, y radioterapia, falleciendo al año de este proceso.
+
+Dirección para correspondencia Dr. J. I. Bermejo Aycart Servicio de Ginecología y Obstetricia Complejo Hospitalario Hospital General de Segovia Carretera de Ávila, s/n E-40002 Segovia

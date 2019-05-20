@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Marina .
+Apellidos: Bordonava Rojas.
+NHC: 25605435.
+Domicilio: San Pablo, Región Metropolitana.
+Localidad/ Provincia: Santiago.
+CP: 1457.
+Datos asistenciales.
+Fecha de nacimiento: 25/01/1994.
+País: Chile.
+Edad: 24 años Sexo: Femenino.
+Fecha de Ingreso: 30/04/2018.
+Médico: Rodrigo Cosmelli Maturana.
+Informe Clinico: paciente de 24 años de edad que consulta al Servicio de Cirugía Maxilofacial del Complejo Hospitalario San José en octubre de 2006, derivado del Servicio de Dermatología del mismo centro con diagnóstico de SMR por presentar aumento de volumen del labio inferior que no ha presentado respuesta al tratamiento con corticoides intralesionales y orales.
+La paciente relata que este aumento de volumen en el labio inferior data del año 2004, el cual fue biopsiado el mismo año siendo diagnosticado histopatológicamente como una QG asociada a un SMR. El tratamiento inicial consistió en infiltraciones intralesionales realizadas en el servicio de dermatología con betametasona 4 mg y toma de prednisona 0,5 mg sin resultados positivos.
+En su anamnesis relata antecedentes mórbidos de epilepsia en tratamiento, retraso mental leve, hipotiroidismo, resistencia a la insulina y alergia al yodo. Los fármacos que utiliza en forma habitual son Levotiroxina 100 mg 1 comp/día, Carbamazepina 200 mg 1,5 comp/día, Metformina 850 mg 1 comp/día.
+En su examen físico se observa un gran aumento de volumen del labio inferior el cual está evertido, asociada a una lengua depapilada y presencia de surcos transversales en dorso lingual compatible con lengua fisurada así como una discreta macroglosia.
+El tratamiento consistió en 3 infiltraciones intralesionales en el labio inferior de 1 ml de Kenacort®-A 40 mg (Triamcinolona acetónido) diluida en 1 ml de lidocaína al 2% con el objetivo de controlar el dolor post infiltración, con intervalos de una semana. Se controló a la paciente durante tres meses donde se evidencio una marcada reducción del tamaño del labio inferior pero sin lograr todavía un tamaño estético, por lo tanto se realizó una cuarta infiltración sin observarse mejoras. Luego se programo una queiloplastía de reducción del labio inferior bajo anestesia general para mejorar la estética labial de la paciente, con buenos resultados que fueron controlados al mes post operatorio.
+Remitido por: Dr. Rodrigo Cosmelli Maturana. Complejo Hospitalario San José, Santiago-Chile rcosmelli@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="9" end="15" text="Marina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="29" end="44" text="Bordonava Rojas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="51" end="59" text="25605435" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T17" start="72" end="103" text="San Pablo, Región Metropolitana" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="127" end="135" text="Santiago" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="141" end="145" text="1457" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="189" end="199" text="25/01/1994" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="207" end="212" text="Chile" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="220" end="227" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="234" end="242" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="262" end="272" text="30/04/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="282" end="307" text="Rodrigo Cosmelli Maturana" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T10" start="338" end="345" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T6" start="407" end="437" text="Complejo Hospitalario San José" TYPE="HOSPITAL" comment=""/>
+    <DATE id="T5" start="441" end="456" text="octubre de 2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T1" start="753" end="761" text="año 2004" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="2325" end="2350" text="Rodrigo Cosmelli Maturana" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2352" end="2382" text="Complejo Hospitalario San José" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="2384" end="2398" text="Santiago-Chile" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2399" end="2418" text="rcosmelli@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

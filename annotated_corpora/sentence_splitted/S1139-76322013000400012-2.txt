@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Antonia.
+Apellidos: Matute Diaz.
+NHC: 70245.
+NASS: 39 83589066 51.
+Domicilio: Calle Profesor Wasman, 14.
+Localidad/ Provincia: Madrid.
+CP: 7591538.
+Datos asistenciales.
+Fecha de nacimiento: 11/11/2017.
+País de nacimiento: España.
+Edad: 65 años  Sexo: H.
+Fecha de Ingreso: 13/08/2014.
+Médico: Ana Chinchurreta Capote  NºCol: 28 28.
+Paciente varón de siete años de edad con exantema axilar no pruriginoso de 15 días de duración y crecimiento progresivo, sin otros síntomas asociados. Refiere picaduras de garrapata a nivel axilar y en una pierna un mes antes de la consulta.
+La exploración muestra una lesión anular eritematosa de bordes irregulares, sin descamación, de unos 15 cm de diámetro. Ante la sospecha de EM se inicia tratamiento con amoxicilina oral (21 días) y se realizan estudios serológicos con EIA (IgG, IgM) e inmunotransferencia de Western (IgG, IgM), que resultaron positivos. A los cinco días de iniciado el tratamiento desaparece el eritema.
+
+Dirección para correspondencia: Alejandro Pérez Guirado rofesa2006@hotmail.com

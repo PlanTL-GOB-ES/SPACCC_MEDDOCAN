@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Roberto .
+Apellidos: Benito Rubio.
+NHC: 65456.
+NASS: 80 92589734 65.
+Domicilio: Calle de la aviacion española 63, 4 Izq.
+Localidad/ Provincia: Madrid.
+CP: 28003.
+Datos asistenciales.
+Fecha de nacimiento: 25/09/1980.
+País: España.
+Edad: 36años Sexo: H.
+Fecha de Ingreso: 09/03/2017.
+Médico: José Galbe Sánchez-Ventura NºCol: 28 28 45741.
+Historia del paciente: Varón de 36 años que consultó por cuadro de diarrea crónica y pérdida de peso.
+Se le realiza estudio analítico, que consistió en bioquímica general, hemograma, TSH, estudio inmunológico, perfil celiaco y parásitos de heces que fue normal. La proteína C reactiva estaba elevada. Se le realizó colonoscopia hasta ciego que fue normal y en el tránsito intestinal baritado no se identificó ninguna alteración.
+En la ecografía abdominal se evidenció una masa renal izquierda en polo superior de más de 4 cm de diámetro, redondeada, isoecoica con áreas hipoecoicas en su interior que podrían ser compatibles con áreas necróticas.
+La realización de la TAC confirmó la existencia de esa lesión de 4,3 cm, hipodensa, limitada al riñón, sin afectar a la grasa perirrenal ni al pedículo vascular. El paciente se remitió al servicio de Urología y se le sometió a nefrectomía laparoscópica izquierda, visualizándose macroscópicamente una lobulación en uno de sus polos, con cápsula de Gerota íntegra y sin otras alteraciones macroscópicas significativas. En los cortes se identificó en dicho polo, una lesión redondeada, bien delimitada, de 4,8 x 4,5 cm, con parénquima amarrillo, parduzco, con pequeñas cavidades milimétricas y friable al corte, quedando muy próximo a la cápsula renal. Se diagnosticó de carcinoma de células renales papilar tipo 2 de Delahunt y Eble. Actualmente el paciente se encuentra asintomático, remitiendo tras la intervención, del cuadro diarreico por el que consultó
+Remitido por: Dr. José Galbe Sánchez-Ventura galbester@gmail.com. Hospital 12 de octubre Av. Cordoba, s/n, 28041 Madrid Teléfono 913 90 80 00
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="8" end="15" text="Roberto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="29" end="41" text="Benito Rubio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="48" end="53" text="65456" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="61" end="75" text="80 92589734 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="88" end="127" text="Calle de la aviacion española 63, 4 Izq" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="151" end="157" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="163" end="168" text="28003" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="212" end="222" text="25/09/1980" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="230" end="236" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="244" end="250" text="36años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="257" end="258" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="278" end="288" text="09/03/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="298" end="324" text="José Galbe Sánchez-Ventura" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="332" end="343" text="28 28 45741" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="368" end="373" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="377" end="384" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1868" end="1894" text="José Galbe Sánchez-Ventura" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T6" start="1895" end="1914" text="galbester@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T5" start="1916" end="1938" text="Hospital 12 de octubre" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1939" end="1955" text="Av. Cordoba, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1957" end="1962" text="28041" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1963" end="1969" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1979" end="1991" text="913 90 80 00" TYPE="NUMERO_TELEFONO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

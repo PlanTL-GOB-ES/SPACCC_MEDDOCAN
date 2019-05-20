@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Ernesto .
+Apellidos: Sevilla Martel.
+NHC: 8574869.
+NASS: 87 87625867 56.
+Domicilio: Calle Manoteras, 23, 4 D.
+Localidad/ Provincia: Isla de la Palma.
+CP: 38710.
+Datos asistenciales.
+Fecha de nacimiento: 23/12/1997.
+País de nacimiento: España.
+Edad: 19 años Sexo: H.
+Fecha de Ingreso: 14/06/2017.
+Servicio: Neumología.
+Médico: José María Hernández Pérez NºCol: 38 38 25301.
+Informe clínico del paciente: varón de 19 años de edad que ingresa refiriendo clínica consistente en dolor intermitente localizado a nivel del hemotórax izquierdo acompañado de tos y febrícula de un mes de evolución. En la analítica general practicada solo llamó la atención la existencia de una leucocitosis de 16.500 x 109/l y una VSG de 24 mm en 1h, el resto de pruebas complementarias incluyendo microbiológicas fueron negativas. En la radiografía de tórax practicada se objetivaba una masa de bordes irregulares que borraba el contorno del hilio pulmonar izquierdo, tras realizarse la TC de tórax se confirmó la existencia de una masa de bordes más nítidos con áreas hipodensas en su interior localizada en mediastino anterior y en contacto íntimo con estructuras cardíacas de 10 x 6 cm de diámetro. La biopsia obtenida por videotoracoscopia de la masa manifestó que estaba constituida por una proliferación de células de Langerhans con abundantes eosinófilos, las tinciones histoquímicas realizadas mostraron positividad para S-100 y CD1a, siendo negativas para marcadores linfoides, todos estos hallazgos fueron compatibles con el diagnóstico de HCL. Tras recibir 2 líneas de tratamiento quimioterápico y sin obtener respuesta evidente, fue necesario iniciar terapia radioterápica, encontrándose durante la misma la aparición de una adenopatía en localización supraclavicular, que tras ser biopsiada se evidenció enfermedad de Hodgkin tipo esclerosis nodular asociada a HCL; tras no observarse respuesta al tratamiento convencional, se llevó a cabo autotrasplante de precursores hematopoyéticos de sangre periférica, consiguiendo remisión completa de ambas enfermedades hasta la fecha.
+Responsable clínico: Dr. José María Hernández Pérez. Sección de Neumología. Hospital General de La Palma. C/ Buenavista de Arriba, s/n. 38710 Breña Alta. Isla de La Palma. e-mail: jmherper@terra.es

@@ -1,0 +1,17 @@
+Nombre: Jedet.
+Apellidos: Sanchez Garcia.
+NHC: 7845123.
+NASS: 23 56487946 12.
+Domicilio: Carrer del Dr. Castany 28, 8A.
+Localidad/ Provincia: Girona.
+CP: 17002.
+Datos asistenciales.
+Fecha de nacimiento: 14/09/1986.
+País: España.
+Edad: 31 años Sexo: H.
+Fecha de Ingreso: 11/12/2017.
+Servicio: Medicina intensiva.
+Médico:Paula Ortiz Ballujera NºCol: 17 17 85236.
+Historia Actual: El paciente era un varón de 31 años de edad que sufrió un accidente de motocicleta. La radiografía de tórax mostraba un ensanchamiento mediastínico. La TACHT al ingreso mostró un seudoaneurisma de aorta torácica distal a la salida de la arteria subclavia izquierda con un importante hematoma periaórtico y mediastínico asociado con hemotórax bilateral.
+Ingresó en la UCI, donde se consiguió un control estricto de la tensión arterial. A las 8 horas del traumatismo se colocó una endoprótesis en la aorta torácica descendente por vía ilíaca izquierda. La arteria subclavia izquierda quedó parcialmente ocluida sin repercusión clínica. A las 24 horas fue dado de alta a planta y a la semana se le dio el alta hospitalaria, ya que estaba asintomático.
+Remitido por: Dirección para correspondencia: Dra. Paula Ortiz Ballujera. Servicio de Medicina Intensiva (UCI). Hospital Universitari de Girona Doctor Josep Trueta. Avda. de França, s/n. 17007 Girona. España. Correo electrónico: ballujera@hotmail.com

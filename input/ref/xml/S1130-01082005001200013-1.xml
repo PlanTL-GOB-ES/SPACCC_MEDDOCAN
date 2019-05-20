@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Marcos.
+Apellidos: Maldonado Bárcenas.
+NHC: 8249574.
+NASS: 48 95787657 18.
+Domicilio: C/ Pelayo, 66.
+Localidad/ Provincia: Sevilla.
+CP: 41005.
+Datos asistenciales.
+Fecha de nacimiento: 15/01/1934.
+País de nacimiento: España.
+Edad: 82 años Sexo: H.
+Fecha de Ingreso: 17/08/2016.
+Médico: Alejandro Lorite Álvaro NºCol: 21 21 58900.
+Informe clínico del paciente: Paciente de 82 años de edad, diagnosticado tras estudio de una anemia normocítica-normocrómica por colonoscopia de neoplasia de colon derecho. Tanto el estudio histológico como el citológico diagnosticaron un MM. Tras un estudio de extensión exhaustivo, que incluyó TAC toracoabdominal, ecografía abdominal, revisión dermatológica (que incluyó exeresis y estudio de dos nevus que descartaron MM), estudio de fondo de ojo y exploración anorectal, el paciente fue intervenido practicándosele una hemicolectomía derecha.
+El estudio anatomopatológico de la pieza de resección confirmó la presencia de un MM polipoide y ulcerado de 11 cm de diámetro a nivel de colon ascendente, que invadía la submucosa y focalmente la capa muscular. Numerosas celulas tumorales contenían melanina y el estudio inmunohistoquímico fue positivo para la proteína S-100 y el HMB45. De los 30 ganglios linfáticos resecados, 2 presentaban metástasis. El paciente siguió un curso postoperatorio correcto, estando vivo sin evidencia de enfermedad a los 4, 5 años de la intervención.
+Responsable clínico:  Dr. Alejandro Lorite Álvaro C/Enrique Flórez 25 41005 Sevilla. España. e-mail: alelorite@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="34" text="Marcos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="47" end="65" text="Maldonado Bárcenas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="72" end="79" text="8249574" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="87" end="101" text="48 95787657 18" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="114" end="127" text="C/ Pelayo, 66" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="151" end="158" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="164" end="169" text="41005" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="213" end="223" text="15/01/1934" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="245" end="251" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="259" end="266" text="82 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="273" end="274" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="294" end="304" text="17/08/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="314" end="337" text="Alejandro Lorite Álvaro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="345" end="356" text="21 21 58900" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T10" start="400" end="407" text="82 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1468" end="1491" text="Alejandro Lorite Álvaro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1492" end="1511" text="C/Enrique Flórez 25" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1512" end="1517" text="41005" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1518" end="1525" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1527" end="1533" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1543" end="1562" text="alelorite@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

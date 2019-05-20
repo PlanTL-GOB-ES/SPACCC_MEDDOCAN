@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Francisco.
+Apellidos: Robles Montes.
+NHC: 2055641.
+NASS: 89 46589565 12.
+Domicilio: Av. Don Quijote, 23..
+Localidad/ Provincia: Valencia.
+CP: 46017.
+Datos asistenciales.
+Fecha de nacimiento: 20/11/1952.
+País de nacimiento: España.
+Edad: 60 años Sexo: H.
+Fecha de Ingreso: 18/02/2013.
+Médico: Teresa Pastor Navarro NºCol: 40 40 58940.
+Informe clínico del paciente: Varón de 60 años con antecedentes de hipertensión arterial, valvulopatía aórtica y mitral, hematoma parietal izquierdo, herniorrafia inguinal izquierda y umbilical, diagnosticado hace 3 años de Leucemia Linfática Crónica estadio A/O y en seguimiento por el servicio de Hematología de nuestro hospital, sin tratamiento. En un TAC toracoabdominopélvico de control se aprecian adenopatías a nivel cervical, axilar, mediastínico, retroperitoneal e inguinal, así como una imagen hipodensa de 3 cm el lóbulo prostático izquierdo, y con mal plano de separación con el músculo elevador del ano izquierdo, por lo que ante la sospecha de neoplasia prostática se solicita analítica de PSA y se remite a nuestro servicio para valoración y realización de ecografía transrectal y biopsias prostáticas. El paciente no presenta clínica urológica.
+En el tacto rectal se aprecia una próstata mal delimitada en ambas bases, con aumento de consistencia de forma difusa en ambos lóbulos. El PSA es de 0,9 ng/ml. La ecografía transrectal muestra una próstata de 28,5 x 43,4 x 50,8 mm y 32,9 ml, con parénquima heterogéneo y varias áreas hiperecoicas en ambas bases. El ángulo vesiculoprostático derecho aparece borrado. Se toman biopsias prostáticas por sextantes.
+El informe anatomopatológico describe un parénquima prostático con denso infiltrado celular constituído por linfocitos de pequeño tamaño sugestivo de infiltración por leucemia linfática crónica.
+Responsable clínico: Dra. Teresa Pastor Navarro Servicio de Urología Hospital Universitario Doctor Peset Gaspar Aguilar 90. 46017 - Valencia Tel. y Fax: 961 622 403 E-mail autor: tpastorn@yahoo.es Información artículo: Nota clínica

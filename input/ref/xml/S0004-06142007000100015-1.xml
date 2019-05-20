@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Marina.
+Apellidos: Salgado Hidalgo.
+NHC: 4375280.
+NASS: 25 85940385 75.
+Domicilio: Calle Lirios, 12.
+Localidad/ Provincia: Badajoz.
+CP: 06789.
+Datos asistenciales.
+Fecha de nacimiento: 12/07/1948.
+País: España.
+Edad: 70 años Sexo: M.
+Fecha de Ingreso: 12/10/2018.
+Médico:  Jesús Mateos Blanco NºCol: 06 06 98234.
+Informe clínico del paciente: mujer de 70 años, con antecedentes de hipertensión arterial, hernia de hiato, estreñimiento e histerectomía que consultó por síndrome miccional irritativo desde hacía 8 meses, consistente en disuria y polaquiuria intensas con urgencias miccionales ocasionales sin otra sintomatología urológica añadida. En los últimos 6 meses había presentado 3 episodios de infección del tracto urinario bajo con urocultivos positivos a E. coli tratados por su médico de cabecera.
+El estudio inicial incluyó bioquímica sanguínea que fue normal, orina y estudio de sedimento de orina que mostraron intensa leucocituria, urocultivo que fue de nuevo positivo a E.coli y una citología urinaria por micción espontánea cuyo resultado fue células uroteliales sin atipias y abundantes leucocitos polimorfonucleares neutrófilos. Se prescribió tratamiento con antibioteparia y anticolinérgico (tolterodina).
+A los 3 meses la paciente fue revisada en consulta externa, persistiendo la sintomatología basada en disuria y polaquiuria, si bien había mejorado bastante de las urgencias con el anticolinérgico, e incluso días antes dela revisión había tenido nuevo episodio de infección urinaria.
+Ante la escasa respuesta encontrada, se inició un estudio más avanzado, solicitando urografía intravenosa para descartar tumor urotelial del tracto urinario superior, la cual fue rigurosamente normal, y ecografía urológica que también fue normal, por lo que se realizó cistoscopia en consulta, hallando lesiones nodulares, sobreelevadas, de aspecto sólido, discretamente enrojecidas, con áreas adyacentes de edema, localizadas en trígono y parte inferior de ambas caras laterales. Debido a este hallazgo, a pesar de que la paciente no tenía factores de riesgo para TBC y la urografía fue rigurosamente normal, se realizó baciloscopia en orina y cultivo Lowenstein-Jensen de 6 muestras de la primera orina de la mañana en días consecutivos, ya que las lesiones vesicales macroscópicamente podrían tratarse de tuberculomas, siendo estos estudios negativos para bacilo de Koch, por lo que se realizó resección endoscópica de las lesiones descritas bajo anestesia. El estudio anatomopatológico reveló ulceración de la mucosa con importante infiltrado inflamatorio crónico y congestión vascular, así como la presencia de células plasmáticas y linfocitos constituyendo folículos linfoides, los cuales están divididos en una zona central donde abundan linfoblastos e inmunoblastos, llamado centro germinativo claro, y una zona periférica formada por células maduras (linfocitos y células plasmáticas) dando lugar a los linfocitos del manto o corona radiada, como también se les denomina.
+A la paciente se le indicó medidas higiénico-dietéticas y profilaxis antibiótica mantenida ciclo largo a dosis única diaria nocturna 3 meses y posteriormente días alternos durante 6 meses con ciprofloxacino, vitamina A dosis única diaria 6 meses, prednisona 30mg durante 45 días y posteriormente en días alternos durante otros 45 días hasta su suspensión definitiva, y por último protección digestiva con omeprazol. La paciente experimentó clara mejoría con desaparición progresiva de la clínica, sobre todo a partir del tercer mes de tratamiento.
+Actualmente (al año de finalización del tratamiento), se encuentra asintomática con cistoscopia de control normal y urocultivos negativos.
+Remitido por: Dr. Jesús Mateos Blanco Servicio de Urología Hospital Infanta Cristina Avda. de Elvas s/n. 06080 Badajoz. (España). jesus_mateo@terra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="29" end="35" text="Marina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="48" end="63" text="Salgado Hidalgo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="70" end="77" text="4375280" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="85" end="99" text="25 85940385 75" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="112" end="128" text="Calle Lirios, 12" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="152" end="159" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="165" end="170" text="06789" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="214" end="224" text="12/07/1948" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="232" end="238" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="246" end="253" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="260" end="261" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="281" end="291" text="12/10/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="302" end="321" text="Jesús Mateos Blanco" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="329" end="340" text="06 06 98234" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="372" end="377" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="381" end="388" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3723" end="3742" text="Jesús Mateos Blanco" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3764" end="3789" text="Hospital Infanta Cristina" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3790" end="3808" text="Avda. de Elvas s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3810" end="3815" text="06080" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3816" end="3823" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3826" end="3832" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3835" end="3855" text="jesus_mateo@terra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

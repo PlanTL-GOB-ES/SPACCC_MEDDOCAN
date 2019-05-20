@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Alberto.
+Apellidos: Rivera Martinez.
+NHC: 7825604.
+NASS: 79 58768954 02.
+Domicilio: Calle de Verín, 19, 1B.
+Localidad/ Provincia: Madrid.
+CP: 02001.
+Datos asistenciales.
+Fecha de nacimiento: 04/03/02.
+País de nacimiento: España.
+Edad: 36 años  Sexo: H.
+Fecha de Ingreso: 21/09/2015.
+Médico: Roberto Llarena Ibarguren      NºCol: 28 28 53886.
+La fascitis necrotizante es una infección del tejido subcutáneo que puede ser producida por el estreptococo β-hemolítico grupo A (tipo I) o ser polimicrobiana (tipo II), con bacterias aeróbicas y anaeróbicas27. Se presenta como una celulitis con dolor desproporcionado, que evoluciona a una placa indurada con lesiones bulosas o purpúricas. Hay signos de toxicidad sistémica hasta falla orgánica múltiple28. La biopsia incisional del centro de la lesión puede ayudar al diagnóstico. En el estudio histopatológico hay necrosis epidérmica, edema y hemorragia dérmica focal, trombosis vascular prominente, infiltrado de neutrófilos y numerosos diplococos gram positivos29. El tratamiento incluye antibióticos y debridamiento quirúrgico del tejido necrótico, el que iniciado en forma precoz mejora el pronóstico del paciente30.
+
+Correspondencia: Dra. Montserrat Molgó N. Dermatología, Centro Médico San Joaquín. Av. Vicuña Mackenna 4686, Macul, Santiago, Chile. Teléfono: (56 2) 2354 8659 Fax: (56 2) 2552 9974 montsemolgo1@gmail.com

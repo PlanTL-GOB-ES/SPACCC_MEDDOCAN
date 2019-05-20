@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan Ramon.
+Apellidos: Navarro Fernandez.
+NHC: 3780659.
+NASS: 73 46082647 20.
+Domicilio: C/ Conde Duque. 23.
+Localidad/ Provincia: Madrid.
+CP: 28010.
+Datos asistenciales.
+Fecha de nacimiento: 19/03/1945.
+País de nacimiento: España.
+Edad: 68 años Sexo: H.
+Fecha de Ingreso: 06/12/2013.
+Médico: Luís Xambre   NºCol:28 28 64710.
+Informe clínico del paciente: Paciente de sexo masculino, 68 años de edad, ex-operario de la industria textil, enviado a la consulta por masa quistica renal compleja. Antecedentes de artritis reumatoide, HTA controlada, dislipidemia, tuberculosis pulmonar hace 40 años, medicado con indapamida, sinvastatina y AINE-s. Negaba hábitos tabaquicos o exposición a agentes químicos. Refería exposición a ganado ovino en la juventud. Negaba antecedentes conocidos de litiasis renal. Sometido a artroplastia de cadera izquierda hace años. Sin antecedentes de cirurgía abdominal o genitourinaria. Refería desde hace meses eliminación de material gelatinoso en la orina, sin forma específica, acompañado de episódios de hematuria macroscópica total, sin coágulos. Sin otra sintomatologia acompañante, tal como lumbalgias, nauseas o vómitos, o quejas urinarias bajas. Sin anorexia, astenia o adelgazamiento. Sin síntomas respiratórios o gastrointestinales.
+Al examen físico presentaba emplastamiento del flanco/región lumbar izquierda, no dolorosa. Sin hepatomegalia, sin circulación colateral abdominal anormal. Genitales sin varicocele clínico. Miembros inferiores sin edemas. Sin adenopatias periféricas. Ausculatación pulmonar sin alteraciones aparentes.
+En terminos analíticos presentaba discreta anemia (Hb 12,7 g/dL), sin leucocitosis. Eosinofilia relativa (2800/µL). VS 67 mm. Creatinina 1,2 mg/dL. Urea 77 mg/dL.
+Portador de una ecografía revelando un riñón derecho de dimensiones algo reducidas (10,8 cm) y con aumento de ecogenicidad del parénquima, presentando un quiste simple en el polo superior. El riñon izquierdo presenta quiste complejo voluminoso del polo superior (70 x 68 x 67 mm), presentando contenido sólido evidente y regiones asociadas con sombra acústica posterior. Sometido a TAC abdominopélvica - voluminosa formación quística compleja que contenía calcificaciones groseras parietales y centrales, ocupando los dos tercios superiores del riñón izquierdo, así como finos septos en su interior, presentando valores de atenuación que variaban entre 10 y 20 unidades Housefield. Posteriormente a la administración de contraste se evidencia captación del mismo por las paredes. No fueron evidentes lesiones de órganos sólidos abdominales, presencia de adenopatías retroperitoneales o alteración morfológica de las glandulas suprarenales. Radiografia de tórax sin alteraciones significativas, tales como lesiones quísticas o alteraciones compatibles con lesiones de naturaleza metastásica o de tuberculosis activa. Mantoux (prueba de tuberculina) negativa. Busqueda de bacilos acido-alcohol resistentes negativa. Cultivos de orina (multiples muestras) en médio de Lowenstein negativas. Serología para Echinococcos granulosis y multilocularis negativas.
+Con el diagnóstico de masa quística compleja Bosniak clase IV y en ausencia de soporte para lesiones de naturaleza infecciosa especifica/parasitaria, fue sometido a nefrectomía radical izquierda por incisión de lumbotomía sobre el lecho de la 12ª costilla.
+El examen anatomopatológico demostró neoplasia de 11,5 cm de mayor dimensión, constituida por glándulas de estructura simple y compleja, siendo el epitelio moderadamente diferenciado y centrado por material mucoide bajo la forma de grandes "pools" de mucina con fragmentos tumorales. La lesión invadía el parénquima renal sin afectar la cápsula. El restante parénquima mostraba señales de pielonefritis con discreta atrofia. Márgenes quirúrgicas libres de tumor. Conclusión: adenocarcinoma mucinoso de la pélvis renal PT3NxMx.
+Después de disponer del resultado histológico fue sometido a endoscopia digestiva superior y colonoscopia, las cuales no evidenciaron alteraciones.
+Se realizó seguimiento de 10 meses. El paciente se encuentra totalmente asintomático, no existiendo evidencia de recurrencia de la enfermedad, localmente o a distancia.
+Responsable clínico: Dr. Luís Xambre Servicio de Urologia. E-mail: xambreluis@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="38" text="Juan Ramon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="51" end="68" text="Navarro Fernandez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="75" end="82" text="3780659" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T1" start="90" end="104" text="73 46082647 20" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="117" end="135" text="C/ Conde Duque. 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="159" end="165" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="171" end="176" text="28010" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="220" end="230" text="19/03/1945" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="252" end="258" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="266" end="273" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="280" end="281" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="301" end="311" text="06/12/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="321" end="332" text="Luís Xambre" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="341" end="352" text="28 28 64710" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="401" end="410" text="masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T4" start="412" end="419" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="4245" end="4256" text="Luís Xambre" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T2" start="4287" end="4307" text="xambreluis@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Marcos .
+Apellidos: López Gómez.
+NHC: 4576787.
+NASS: 37 39843608 49.
+Domicilio: Calle Abad 18.
+Localidad/ Provincia: Madrid.
+CP: 02004.
+Datos asistenciales.
+Fecha de nacimiento: 13/07/1972.
+País de nacimiento: España.
+Edad: 55 años  Sexo: Femenino.
+Fecha de Ingreso: 12/11/2010.
+Médico: Murilo Silva Bueno  NºCol: 28 28 74136.
+Mujer de 56 años, con diabetes y dislipemia, que acudió al Servicio Urgencias en octubre de 2012 por un cuadro de malestar general, artralgias, náuseas, dolor lumbar e hipogástrico y fiebre. Entre los antecedentes epidemiológicos refería un viaje a Suecia en los 10 días previos y toma de Inneov masa capilar® desde hacía 23 días. Tomaba también AAS y fenofibrato desde hacía años. En la exploración física presentaba únicamente dolor epigástrico. Los parámetros analíticos observados y el resultado de la ecografía abdominal se reflejan en la tabla I. La serología viral fue negativa. La autoinmunidad fue también negativa y las inmunoglobulinas normales. Al quinto día presentó mejoría clínico-analítica parcial, a pesar de no haber suspendido el consumo de Inneov masa capilar®. Tras cesar la toma del mismo, las pruebas hepáticas continuaron mejorando hasta su normalización a los 3 meses del inicio de la clínica.
+Dirección para correspondencia: Julieta Romina Fernández Molina Unidad de Hepatología Servicio de Digestivo Hospital Universitario Central de Asturias C/ Celestino Villamil, s/n. 33006. Oviedo e-mail: jrfernandezmolina@hotmail.com

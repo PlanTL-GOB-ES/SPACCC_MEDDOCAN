@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Elio.
+Apellidos: Manzanarez de Córdoba.
+NHC: 7438563.
+NASS: 67 23657035 16.
+Domicilio: Calle Almonte, 28, 3 E.
+Localidad/ Provincia: Cádiz.
+CP: 11001.
+Datos asistenciales.
+Fecha de nacimiento: 26/01/1999.
+País de nacimiento: España.
+Edad: 16 años Sexo: H.
+Fecha de Ingreso: 15/09/2015.
+Médico: Antonio Hernandez Maradiaga  NºCol: 11 11 21501.
+Informe clínico del paciente: Varón de 16 años de edad, en tratamiento quimioterápico por enfermedad de Hodgkin de carácter recidivante. En el curso de dicho tratamiento, el paciente mostró signos de hemorragia digestiva (melenas), acompañados de una intensa elevación de las transaminasas y una importante alteración en las pruebas de coagulación sanguínea (actividad de protombina). Dicho paciente falleció a los pocos días, por un cuadro de insuficiencia hepática aguda, con signos de encefalopatía y hemorragia digestiva masiva.
+En la necropsia se observó un daño hepático difuso, acompañado de lesiones focales en el tercio inferior del esófago. El estudio histológico demostró, en ambos órganos, una lesión inflamatoria de carácter necrotizante, evidenciándose cambios citopáticos propios de infección herpética, consistentes en imágenes de multinucleación y presencia de cuerpos de Cowdry tipo A.
+Remitido por: Dr. Antonio Hernandez Maradiaga. Clínica Médico Forense. Edificio Juzgados. c/ Los Balbos, s/n. Cádiz. Tfno. 956 013 059 y 956 013 060.

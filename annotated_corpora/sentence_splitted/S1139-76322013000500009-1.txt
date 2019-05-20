@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Aitor .
+Apellidos: Pose Diaz.
+NHC: 7845123.
+Domicilio: Calle Ventisquero de la condesa, 14.
+Localidad/ Provincia: Madrid.
+CP: 51003.
+Datos asistenciales.
+Fecha de nacimiento: 14/02/1939.
+País: España.
+Edad: 60 años  Sexo: H.
+Fecha de Ingreso: 06/06/2018.
+Médico: Ricardo Navarro Suay  NºCol: 31 48 97565.
+Niño de cuatro años, afebril, con amigdalitis pultácea, frotis faríngeo negativo a estreptococo, y con el resto de la exploración física normal. Dos días antes tuvo fiebre y diarrea. Por todo ello se orienta como un cuadro vírico, realizando tratamiento sintomático. A los dos días, por persistencia de las deposiciones líquidas, se solicita coprocultivo que es positivo a Salmonella typhimurium. A los 15 días de inicio del cuadro, el niño presenta unas lesiones eritematosas y algunos nódulos pretibiales, dolorosas, en ambas extremidades inferiores, en número de 8-9, de tamaño de 2-3 cm de diámetro, sin otros signos ni síntomas.
+Ante la clínica, orientamos el cuadro como EN secundario a S. typhimurium. Solicitamos radiografía de tórax y analítica con hemograma, bioquímica, velocidad de sedimentación globular (VSG), factor reumatoide, antiestreptolisinas y anticuerpos antinucleares (ANA), para descartar otras posibles etiologías1. La radiografía de tórax no objetiva alteraciones radiológicas y las determinaciones analíticas son normales.
+A la semana desaparecen los nódulos, con curación completa.
+
+Dirección para correspondencia: Emilio Orsola Lecha 8215eol@comb.cat

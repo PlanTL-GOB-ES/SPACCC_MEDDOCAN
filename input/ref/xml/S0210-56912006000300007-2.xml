@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Adrian.
+Apellidos: Esposito Lopilato.
+NHC: 15-85622454.
+Domicilio: Avenida Olivos 4109 altura ruta Panamericana km 35,5.
+Localidad/ Provincia: Buenos Aires.
+CP:B1827.
+Datos asistenciales.
+Fecha de nacimiento: 15/06/1968.
+País: Argentina.
+Edad: 49 años Sexo: Hombre.
+Fecha de Ingreso: 13/11/2017 .
+Episodio: 1583097461454.
+Médico: Raymond Karatanasopuloz Pintos.
+Historia Actual: paciente de 49 años de edad, de sexo masculino; 4 meses antes del ingreso en nuestro hospital se le practicó cirugía vascular con reemplazo aorto-biilíaco por aneurisma aórtico abdominal infrarrenal.
+Una semana previa al ingreso en el Servicio de Terapia Intensiva presentó episodios de proctorragia cuyos volúmenes fueron en aumento. Tras descompensación hemodinámica secundaria se indicó su ingreso en el Servicio de Terapia Intensiva. Refería además la presencia de dolor cólico periumbilical e hipogástrico de gran intensidad, hematocrito de 13% y sangrado incoercible, por lo que se indicó cirugía abdominal de urgencia ante la sospecha de una FAE, ya que la ecografía abdominal practicada horas antes informó imagen lineal superior a la cicatriz umbilical compatible con prótesis vascular, con zona hipoecogénica de 87 x 67 x 71 mm rodeándola. Se realizó laparotomía exploradora, constatándose hematoma retroperitoneal circundante a la prótesis previa y FAE con yeyuno a 60 cm del asa fija y colon sigmoideo. Presentó paro cardiorrespiratorio y óbito en la sala de operaciones
+Remitido por: Dr. Raymond Karatanasopuloz Pintos. Terapia Intensiva. Hospital José Ramón Vidal. C/ Necochea, 1050. 3400 Corrientes, Argentina. Correo electrónico: rkarata@yahoo.com.ar
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="8" end="14" text="Adrian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="27" end="44" text="Esposito Lopilato" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="51" end="62" text="15-85622454" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="75" end="127" text="Avenida Olivos 4109 altura ruta Panamericana km 35,5" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="151" end="163" text="Buenos Aires" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="168" end="173" text="B1827" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="217" end="227" text="15/06/1968" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="235" end="244" text="Argentina" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="252" end="259" text="49 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="266" end="272" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="292" end="302" text="13/11/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T11" start="315" end="328" text="1583097461454" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="338" end="368" text="Raymond Karatanasopuloz Pintos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T9" start="399" end="406" text="49 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="424" end="433" text="masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1488" end="1518" text="Raymond Karatanasopuloz Pintos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1539" end="1564" text="Hospital José Ramón Vidal" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1566" end="1583" text="C/ Necochea, 1050" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1585" end="1589" text="3400" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1590" end="1600" text="Corrientes" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1602" end="1611" text="Argentina" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1633" end="1653" text="rkarata@yahoo.com.ar" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

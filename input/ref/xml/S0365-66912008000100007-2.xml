@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Aina .
+Apellidos: Cabrera Navarro.
+NHC: 8309139 .
+Domicilio: Rio Castaños Kalea, 21, 3, B.
+Localidad/ Provincia: Barakaldo, Bizkaia.
+CP: 48903.
+Datos asistenciales.
+Fecha de nacimiento: 04/03/02.
+País de nacimiento: España.
+Edad: 11 años Sexo: M.
+Fecha de Ingreso: 05/11/2013.
+Servicio: Oftalmología.
+Episodio: 3024760.
+Médico: Marta Galdós NºCol: 48 48 90511.
+Informe clínico del paciente: Niña de 11 años, Cariotipo femenino normal, gestación y parto normal. La resonancia magnética nuclear cerebral (RMN) muestra agenesia de cuerpo calloso junto con extensas anomalías de la migración neuronal. Esta paciente presenta epilepsia en la infancia siendo los primeros episodios de convulsiones a los 2 años de edad. Los registros electroencefalográficos (EEG), demuestran una hipsarritmia asimétrica. En el examen funduscópico aparece una papila completa en el ojo derecho, pigmento peripapilar y áreas de lagunas coriorretinianas hipopigmentadas peripapilares que se extienden hacia las arcadas vasculares retinianas. Sin embargo, no hay afectación macular. El fondo de ojo izquierdo, presenta un disco óptico colobomatoso y pequeñas áreas hipopigmentadas coriorretinales. No presenta otras malformaciones a nivel renal o vertebral. La paciente se caracteriza por su larga supervivencia, con una edad actual de 11 años y 10 meses, pero presentando un retardo psicomotor muy severo.
+Responsable clínico: Dra. Marta Galdós Dpto. de Oftalmología. Hospital de Cruces Plaza de Cruces, s/n 48903 Baracaldo (Vizcaya) España E-mail: martagaldos@monteurquiola.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T27" start="28" end="32" text="Aina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T26" start="46" end="61" text="Cabrera Navarro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="68" end="75" text="8309139" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T24" start="89" end="117" text="Rio Castaños Kalea, 21, 3, B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T23" start="141" end="150" text="Barakaldo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T22" start="152" end="159" text="Bizkaia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="165" end="170" text="48903" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T20" start="214" end="222" text="04/03/02" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T19" start="244" end="250" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T18" start="258" end="265" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T17" start="272" end="273" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="293" end="303" text="05/11/2013" TYPE="FECHAS" comment=""/>
+    <ID id="T15" start="339" end="346" text="3024760" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T14" start="356" end="368" text="Marta Galdós" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="376" end="387" text="48 48 90511" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="419" end="423" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="427" end="434" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="726" end="732" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="1338" end="1356" text="11 años y 10 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1435" end="1447" text="Marta Galdós" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1471" end="1489" text="Hospital de Cruces" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="1490" end="1510" text="Plaza de Cruces, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1511" end="1516" text="48903" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1517" end="1526" text="Baracaldo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1528" end="1535" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1537" end="1543" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1552" end="1581" text="martagaldos@monteurquiola.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

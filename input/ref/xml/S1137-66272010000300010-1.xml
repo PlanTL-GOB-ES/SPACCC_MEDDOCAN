@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Oriol.
+Apellidos: Estibaliz Quezada.
+NHC: 4892539.
+NASS: 42 06738946 69.
+Domicilio: Paseo Torrent, 44, 3 D.
+Localidad/ Provincia: Barcelona .
+CP: 08213.
+Datos asistenciales.
+Fecha de nacimiento: 04/12/1928.
+País: España.
+Edad: 83 años Sexo: H.
+Fecha de Ingreso: 26/07/2011.
+Servicio: Medicina Interna.
+Médico: Iago Pinal-Fernández NºCol: 28 28.
+Informe clínico del paciente: Paciente de 83 años de edad con antecedentes personales de hipertensión arterial y un carcinoma de endometrio mixto, endometrioide y de células claras, en estadío T1N0M0, que se detectó un año antes del ingreso actual a raíz de metrorragias. La paciente se sometió a una histerectomía con anexectomía bilateral y linfadenectomía pélvica, completando el tratamiento con braquiterapia adyuvante, que se finalizó 5 meses antes del ingreso actual. Acudía a controles en consultas externas de oncología ginecológica estando hasta la fecha libre de enfermedad.
+Al ingreso presenta astenia, anorexia y debilidad progresivas de dos semanas de evolución, desorientación y bradifasia de 2 días de evolución además de estreñimiento, poliuria, nicturia y polidipsia. En una analítica de control de su centro de atención primaria presenta una calcemia de 15,35 mg/dL (valores de referencia [v.r.] entre 8,8 mg/dL y 10,2 mg/dL).
+En urgencias se realiza una analítica que muestra una calcemia de 16,1 mg/dL con un calcio iónico de 6,3 mg/dL (v.r. entre 4,2 mg/dL y 5,4 mg/dL), con una exploración física, radiografía de abdomen y electrocardiograma normales.
+Se diagnostica de síndrome hipercalcémico y se trata con rehidratación, zoledronato intravenoso y furosemida, disminuyendo la calcemia hasta valores normales entre el tercer y el sexto día de tratamiento3,4.
+La paciente ingresa en la planta de medicina interna donde se objetiva: VSG 106 mm/h, albúmina 3,16 g/dL, PTH 21,5 pg/mL (v.r. entre 7 pg/mL y 82pg/mL), 25-hidroxivitamina D3 9,9 ng/mL (v.r. entre 6,6 ng/mL y 46,4 ng/mL) con marcadores tumorales negativos.
+Ante el antecedente personal de neoplasia uterina de la paciente se solicita una gammagrafía ósea, que es normal, y un TAC torácico y abdominal que muestra una masa en fondo de saco de Douglas de 10 cm x 8 cm con implantes tumorales peritoneales y metástasis pulmonares. Se realiza una biopsia transvaginal de la masa en fondo de saco de Douglas y se confirma una recidiva de su enfermedad neoplásica. La paciente actualmente está en un centro de cuidados paliativos.
+Remitido por: Iago Pinal-Fernández Servicio de Medicina Interna Hospital Universitario Vall d´Hebrón Torrent de l´Olla, 39-2o-2a 08012 Barcelona E-mail: iagopf@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="33" text="Oriol" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="46" end="63" text="Estibaliz Quezada" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="70" end="77" text="4892539" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="85" end="99" text="42 06738946 69" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="112" end="134" text="Paseo Torrent, 44, 3 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="158" end="167" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="174" end="179" text="08213" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="223" end="233" text="04/12/1928" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="241" end="247" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="255" end="262" text="83 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="269" end="270" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="290" end="300" text="26/07/2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="338" end="358" text="Iago Pinal-Fernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="366" end="371" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T10" start="415" end="422" text="83 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2494" end="2514" text="Iago Pinal-Fernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2544" end="2580" text="Hospital Universitario Vall d´Hebrón" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2581" end="2608" text="Torrent de l´Olla, 39-2o-2a" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2609" end="2614" text="08012" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2615" end="2624" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2633" end="2648" text="iagopf@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

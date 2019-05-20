@@ -1,0 +1,16 @@
+Nombre: Alberto.
+Apellidos: Buenafuente Roussell.
+NHC: 786345.
+NASS: 07 64578654 76.
+Domicilio: Calle la Rosaleda 28, 5A.
+Localidad/ Provincia: Barcelona.
+CP:08219.
+Datos asistenciales.
+Fecha de nacimiento: 15/08/1981.
+País: España.
+Edad: 35 años Sexo: H.
+Fecha de Ingreso: 21/11/2016.
+Médico:Pere Sanz-Gallén  NºCol: 08 08 46123.
+Historia Actual: hombre de 35 años, que trabajaba en el mantenimiento de instalaciones eléctricas, acudió al Servicio Médico de Empresa para un reconocimiento rutinario. Se encontraba asintomático. Había sido fumador de 10 cigarrillos/día hasta hacía 8 años. No era consumidor de bebidas alcohólicas, no tenía hábitos tóxicos ni tomaba regularmente ningún medicamento. No refería antecedentes familiares de muerte súbita ni tenía antecedentes personales de síncopes, lipotimias, convulsiones, respiración nocturna agónica o palpitaciones. En el reconocimiento médico no se encontraron alteraciones en el examen físico ni en las exploraciones complementarias rutinarias, con excepción de su ECG basal.
+Evolución y comentarios: Ante la sospecha de un síndrome de Brugada fue remitido a la Unidad de Arritmias del Hospital Clínic de Barcelona. Tras valoración clínica y electrocardiográfica y después de realizar un test de flecainida, se realizó un diagnóstico de SB. Para completar la estratificación del riesgo, se procedió también a un estudio electrofisiológico el cual mostró intervalos A-H de 128 mseg y HV de 44 mseg. Se realizó un protocolo de estimulación ventricular, sin inducción de arritmias ventriculares sostenidas, por lo cual y en conjunto con los datos clínicos del paciente se concluyó que el SB era de bajo riesgo arrítmico. Se recomendó evitar los fármacos y drogas listados en la Tabla 1 y el tratamiento enérgico de cualquier cuadro febril ya que está demostrado que la fiebre puede desencadenar arritmias ventriculares en pacientes portadores de SB6, citándose también para un estudio genético. Seis meses después, el paciente continúa asintomático.
+Remitido por: Pere Sanz-Gallén. Ronda del General Mitre 39 08017 Barcelona. España. Tfno: 933203624 Fax: 933203631 e-mail: 17039psg@comb.cat

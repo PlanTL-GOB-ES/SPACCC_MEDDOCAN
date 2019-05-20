@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Francisca.
+Apellidos: Fernandez Estrada.
+NHC: 795641.
+NASS: 82 76892756 0.
+Domicilio: Av/ Ambulatorio, 43.
+Localidad/ Provincia: Madrid.
+CP: 28220.
+Datos asistenciales.
+Fecha de nacimiento: 15/04/1948.
+País de nacimiento: España.
+Edad: 25 años  Sexo: H.
+Fecha de Ingreso: 25/07/2016.
+Médico: Javier Paz Moreno-Arrones   NºCol: 28 28.
+Mujer de 67 años, con residencia rural en la IX región y antecedentes de hidatidosis pulmonar bilateral y hepática operada. Cuadro actual caracterizado por disminución progresiva de fuerzas en extremidades inferiores y pérdida del control esfinteriano de nueve días de evolución. A la anamnesis dirigida la paciente relataba dorsalgia desde hace cuatro meses. Al examen se constató una paraplejia de nivel torácico alto con anestesia táctil y termo-algésica desde nivel de D5 a distal y abolición de refejos osteotendíneos. Se realizó TC y RM de columna dorsal que demostraban formaciones quísticas subperiósticas e intraraquídeas con importante compresión del saco tecal a nivel D5 compatibles con probable etiología hidatídica. El hemograma demostraba discreta eosinoflia sin alteraciones de la función hepática ni renal.
+
+Inició tratamiento con albendazol, realizándose laminectomía D6-D7 y exéresis de los quistes. El estudio histopatológico concluyó hidatidosis ósea. Completó tres ciclos de albendazol. Dado el importante compromiso medular, la paciente no logró recuperación funcional esfinteriana ni músculo esquelético, encontrándose actualmente en kinesioterapia motora y con cateterismo intermitente.
+
+Correspondencia: Dr. oscar Tapia E Departamento de anatomía Patológica, Facultad de Medicina, Universidad de la Frontera. Manuel Montt 112. Fono: 045-296530. código Postal 478-1176. Temuco, Chile. E-mail: otescalona@gmail.com

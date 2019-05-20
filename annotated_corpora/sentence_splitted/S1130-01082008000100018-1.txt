@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Guillerco.
+Apellidos: Salgado Sandoval.
+NHC: 690435.
+NASS: 89 46725655 03.
+Domicilio: Calle 4 Sur No 43AA- 30.
+Localidad/ Provincia: Málaga.
+CP: 28001.
+Datos asistenciales.
+Fecha de nacimiento: 12/12/1968.
+País: España.
+Edad: 27 años  Sexo: M.
+Fecha de Ingreso: 17/05/2018.
+Servicio: Anestesiología, Reanimación y Terapéutica del Dolor.
+Médico: Rosa María Jiménez Rodríguez     NºCol: 22 22 26452.
+Varón de 64 años, fumador, sin antecedentes médico-quirúrgicos de interés, que ingresó por cuadro de hemoptisis, siendo diagnosticado de neoplasia pulmonar. Durante el mismo ingreso presentó un cuadro de dolor abdominal y anemia severa que requirió transfusión de varios concentrados de hematíes. Se rea-lizó un estudio de extensión con una tomografía computerizada (TC), que halló una tumoración en intestino delgado. Debido a la persistencia de la clínica de sangrado, se realizó una laparoscopia exploradora, observando una tumoración en yeyuno proximal y realizándose resección de la misma. El paciente cursó con un postoperatorio sin complicaciones. La anatomía patológica de la pieza extirpada confirmó el diagnóstico de metástasis de adenocarcinoma pobremente diferenciado de origen pulmonar. Cuatro meses después se realizó resección del tumor pulmonar primario, y nueve meses después el paciente está recibiendo tratamiento oncológico adyuvante sin evidencia de recurrencia.
+
+Correspondencia: Dr. Daniel Torres Lagares C/ Sta Mª de Valverde 2 3ºC 41008 Sevilla (España) Tlfno 954 436 724 - Fax 954 481 129 E-mail : danieltl@us.es

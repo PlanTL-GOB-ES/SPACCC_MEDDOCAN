@@ -1,0 +1,15 @@
+Datos del paciente.
+Nombre: Juan José.
+Apellidos: Lozano Puebla.
+NHC: 3478056.
+Domicilio: C/ Bravo Murillo, 33, 2A.
+Localidad/ Provincia: A Coruña.
+CP: 28100.
+Datos asistenciales.
+Fecha de nacimiento: 19/09/1985.
+País de nacimiento: España.
+Edad: 68 años   Sexo: M.
+Fecha de Ingreso: 05/11/2016.
+Médico: Fernando Marcos Sánchez  NºCol: 28 28 97458.
+Niña de 2 años de edad con estenosis esofágica secundaria a ingesta de caústicos que no respondió tras 7 dilataciones consecutivas realizadas con balón de dilatación esofágico. La estenosis tenía 1 cm de longitud y un calibre inicial de 2 mm. Se realizaron 2 sesiones de inyección intralesional de mitomicina C (1,6 ml en cada ocasión) y dilatación con balones de 10-11-12 mm con 40 días de separación entre sesiones, obteniendo la resolución completa del cuadro. Han transcurrido 2 años y 5 meses desde la ingesta y no ha precisado nuevas dilataciones esofágicas en los últimos 19 meses.
+Dirección para correspondencia: Fernando Alberca de las Parras. Unidad de Gestión Clínica Digestivo. Unidad de Endoscopias. Hospital Clínico Universitario Virgen de la Arrixaca. Ctra. Madrid-Cartagena, s/n. 30120 El Palmar. Murcia. e-mail: alberca.fernando@gmail.com

@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Maria.
+Apellidos: Gomez Martin.
+NHC: 3544621.
+Domicilio: Calle Carabias, 12, 3, 2.
+Localidad/ Provincia: Madrid.
+CP: 20340.
+Datos asistenciales.
+Fecha de nacimiento: 13/04/1993.
+País de nacimiento: España.
+Edad: 59  Sexo: H.
+Fecha de Ingreso: 04/12/2013.
+Médico: Jose Maria López Álvarez  NºCol: 28 28 65802.
+Varón de 62 años con carcinoma epidermoide de esófago distal intervenido y posteriormente radiado en otro centro, que ingresó para reevaluación por sospecha de progresión de la enfermedad a nivel cutáneo y local. Se diagnosticó de absceso pulmonar en relación con fístula esófago-bronquial. Inicialmente colocada SNY para NE, una vez estabilizado del proceso infeccioso se realizó una yeyunostomía quirúrgica.
+
+Dirección para correspondencia: María Teresa Fernández López. Médico Adjunto del Servicio de Endocrinología y Nutrición. Complexo Hospitalario Universitario de Ourense. C/ Villa Valencia, 20-6o A. 32002 Ourense. España. E-mail: maria.teresa.fernandez.lopez@sergas.es

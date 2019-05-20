@@ -1,0 +1,23 @@
+Nombre:  Hugo.
+Apellidos: Rot Rodriguez.
+NHC: 78956135/2.
+Domicilio: Av. San Cristóbal, 38.
+Localidad/ Provincia: Jaén.
+CP: 23700 .
+Datos asistenciales.
+Fecha de nacimiento: 15/08/2017.
+País: España.
+Edad: 45 dias Sexo: Hombre.
+Fecha de Ingreso: 0/10/2017 .
+Especialidad:.
+Episodio: 46657546.
+Médico: Francisco Javier Alados-Arboledas NºCol: 23 23 74568.
+Motivo de ingreso:  deshidratación moderada-intensa por gastroenteritis aguda.
+Antecedentes:Como datos de interés destacan: recién nacido pretérmino de 32 semanas de edad gestacional con peso adecuado al nacimiento (2.060 g) y síndrome de Down, diagnosticado en la primera semana de vida de TF. 
+Antecedentes familiares Hijo de una prima hermana de su pareja síndrome de Down.
+Comentan que la hija de otro primo presenta un síndrome, pero desconocen cual y no tienen más datos.
+Historia Actual: Antes del ingreso Hugo no había presentado ninguna crisis hipóxica. Su curva ponderal era adecuada. En la ecografía (Sonos 100 CF, Hewlett Packard, Massachusetts, USA) se apreció un gradiente de estenosis pulmonar de 70 mmHg, la saturación de O2 basal era del 92% con O2 a 0,5 lpm en gafas nasales, la tensión arterial media (TAM) no invasiva oscilaba entre 50 y 55 mmHg (percentil 50-90 para su edad). Al tercer día presentó shock hipovolémico agudo por diarrea grave, precisando expansión de volumen, intubación y conexión a ventilación mecánica (VM). Tras buena respuesta clínica, se extubó a las 6 horas con buena tolerancia clínica y gasométrica. En el quinto día comenzó con disnea progresiva, cianosis, crepitantes bilaterales sin sibilancias, por lo que precisó reintubación y conexión a VM (Babylog 8000 plus, Dräger Medizintechnik GMBH. Lübeck, Alemania). La determinación de virus respiratorio sincitial (VRS) en moco nasal fue negativa. En el octavo día desarrolló oligoanuria progresiva con edema generalizado (incremento máximo de peso de un 16% en el noveno día) y aumento de las necesidades de oxígeno (FiO2: 100%), con disminución importante de la compliance pulmonar e hipoxemia grave refractaria (saturación transcutánea < 70%). La TAM invasiva se mantuvo mayor de 45 mmHg (percentil 5 para su edad: 43 mmHg): no existía gradiente térmico patológico ni coagulopatía. 
+Resumen de pruebas complementarias:  En la auscultación el soplo cardíaco cambió de características, haciéndose más corto y menos intenso (sugerente de HPP suprasistémica). La ventilación en prono sólo conseguía leve mejoría durante 2-3 horas (índice de oxigenación [IO] de 19 a 16) y el paciente no toleraba aumentos de presión positiva al final de la espiración (PEEP) mayores de 8 cmH2O (desaturación e hipotensión sistémica). Tras descartar ecográficamente espasmo infundibular y comprobar HPP (inversión de shunt de la comunicación interventricular [CIV]) se inició tratamiento con ONI a 40 ppm. Posteriormente, tras buena respuesta, se mantuvo a 20 ppm. Se monitorizó de forma continua el ONI y el óxido nitroso (NOxPUMP plus, Bedfont Scientific Ltd, Upchurch Kent, England), manteniéndose este último en rangos menores de 3 ppm.
+Evolución y comentarios: El enfermo fue tratado además con perfusión de dopamina a 8 µg/kg/minuto. En la radiografía de tórax se apreciaban infiltrados alveolares bilaterales y discreta oligoperfusión pulmonar. En el lavado broncoalveolar se aisló Pseudomonas aeruginosa, por lo que se inició tratamiento antibiótico. En el día 12 se apreció resolución de la insuficiencia renal aguda y de los edemas, sin haber recibido tratamiento con métodos sustitutivos de la función renal. Desde el día 30 se observó una progresiva mejoría de la dinámica respiratoria, tolerando el destete progresivo del ONI (previamente no había podido disminuirse a menos de 15 ppm por no tolerarlo el paciente). El día 35 el paciente fue extubado.
+Queda pendiente de fecha para una nueva revision avisando a su madre Teresa Rodriguez al numero de movil 618981345
+Remitido por: Dr. Francisco Javier Alados-Arboledas. C/ Manuel Caballero Venzala, 12, 2.º A. 23009 Jaén. España. Correo electrónico: fjaladosarbol@supercable.es

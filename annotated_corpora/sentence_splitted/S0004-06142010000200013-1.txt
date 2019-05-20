@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Asier .
+Apellidos: Vazquez Pedroza.
+NHC: 2086501.
+Domicilio: Av. Marconi, 9.
+Localidad/ Provincia: Madrid.
+CP: 28037.
+Datos asistenciales.
+Fecha de nacimiento: 27/11/1999.
+País: España.
+Edad: 73 años  Sexo: H.
+Fecha de Ingreso: 11/09/2017.
+Médico: Saturnino Suárez Ortega.  NºCol: 36 36 15748.
+Se trata de un varón de 73 años remitido al servicio de otorrinolaringología por episodio de epístasis recurrente de 1 semana de evolución. Como antecedentes, tan sólo reseñar que había sido sometido a nefrectomía izquierda, 17 años antes debido a una masa renal de 8,5 cm en el polo superior del riñón izquierdo. El informe histológico fue de carcinoma de células claras. En los estudios de extensión en ese momento no se detectaron ninguna lesión metastática en ese momento.
+La exploración física mostró un intenso sangrado a través del orificio nasal derecho asociado a proptosis del globo ocular derecho. Se realizó un escáner, que mostró una masa en la cavidad nasal derecha con afectación del seno etmoidal derecho y la órbita derecha. Se practicó una exploración bajo anestesia con toma de biopsia confirmando el origen de carcinoma de células renales de la masa. El estudio angiográfico demostró una gran neovascularización muy marcada en la cavidad nasal derecha y en el seno etmoidal derecho que involucraba a la arteria maxilar interna derecha, así como a la arteria oftálmica derecha y a ramas de la arteria etmoidal. Se efectuó una embolización de la arteria maxilar interna derecha, sin conseguir un control efectivo del sangrado. El paciente falleció días después por shock hipovolémico.
+
+Dirección para correspondencia: Miguel Álvarez-Múgica Servicio de Urología 1 Hospital Universitario Central de Asturias Celestino Villamil, s/n 33006 Oviedo. Asturias. (España) malvarezmug@gmail.com

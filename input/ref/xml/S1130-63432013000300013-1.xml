@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Juan.
+Apellidos: Pedroche Torres.
+NHC: 327485.
+NASS: 84 47292373 55.
+Domicilio:  Av. puerta de hierro 66, 2 D.
+Localidad/ Provincia: Madrid.
+CP: 28027.
+Datos asistenciales.
+Fecha de nacimiento: 21/04/1960.
+País: España.
+Edad: 57 años Sexo: H.
+Fecha de Ingreso: 26/12/2016.
+Médico: Pablo Selvi Sabater NºCol: 28 08 54710.
+Informe clínico del paciente: Varón de 57 años, antecedentes sin interés y fumador 10-20 cigarrillos/día. El paciente presentó hepatitis crónica C genotipo 1a/1c, carga viral 1.662.178 Ul/ml y un grado de fibrosis F2-F3 (Fibroscan 9,9 Kilopascales) con un polimorfismo del IL-28 CT. Se decidió iniciar su primer tratamiento para hepatitis C con RBV 400mg/12h, P-INF alfa 2a 180mcg/semana y Telaprevir 750mg/8h (en comidas). Al inicio del tratamiento el paciente presentó una hemoglobina (Hb) de 157 g/L, recuento de neutrófilos 4,2x109 no/L y 1 58x109 no/L plaquetas. Las enzimas hepáticas se encontraban ligeramente aumentadas, GPT 114 UI/L, ALAT 115 UI/L y ASAT 80 UI/L.
+En la semana 4 el paciente presentó carga viral indetectable, Hb de 136 g/L, recuento de neutrófilos 2,0 x 109 no/L y plaquetas 110 x 109 no/L. Refirió molestias anorectales, concretamente hemorroides y prurito anal, ligera ansiedad que mejoró con Lorazepam y leve prurito por el cuerpo que mejoró con el uso de cremas emolientes.
+En la semana 8 de tratamiento ingresó en el hospital por dolor epigástrico que se volvió más intenso e irradió a ambos hipocondrios durante las últimas 36h. No presentaba fiebre, escalofríos, náuseas, vómitos ni coluria. Se le realizó analítica de la cual destacaba una amilasa de 1888 UI/L, Hb 107 g/L, recuento de neutrófilos 2,7 x 109 no/Ly plaquetas 97x109 no/L. Se instauró dieta absoluta (excepto para la toma de Telaprevir, con leche entera) y medidas analgésicas y antieméticas. El paciente evolucionó favorablemente y recibió el alta tras una semana de ingreso con una amilasa de 173 UI/L.
+Al día siguiente ingresó nuevamente por dolor epigástrico intenso irradiado a ambos hipocondrios y una amilasa de 3406UI/L. Se diagnosticó pancreatitis aguda. Dado el curso recidivante (dos ingresos) se suspendió Telaprevir (semana 9 de tratamiento) ante la posibilidad de que fuera la causa y continuó con RBV y P-INF. El paciente recibió el alta cinco días después con una amilasa de 365 UI/L.
+En la semana 12 tras el inicio de tratamiento, la carga viral fue indetectable, Hb 109 g/L, recuento de neutrófilos 1,1 x109 no/L y plaquetas 1 58x109 no/L. Continuará el tratamiento sin Telaprevir hasta la semana 24.
+Remitido por: Dr. Pablo Selvi Sabater Correo electrónico: pbselvi@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="9" end="13" text="Juan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="26" end="41" text="Pedroche Torres" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="48" end="54" text="327485" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="62" end="76" text="84 47292373 55" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="90" end="118" text="Av. puerta de hierro 66, 2 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="142" end="148" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="154" end="159" text="28027" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="203" end="213" text="21/04/1960" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="221" end="227" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="235" end="242" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="249" end="250" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="270" end="280" text="26/12/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="290" end="309" text="Pablo Selvi Sabater" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="317" end="328" text="28 08 54710" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="360" end="365" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="369" end="376" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2565" end="2584" text="Pablo Selvi Sabater" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2605" end="2622" text="pbselvi@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

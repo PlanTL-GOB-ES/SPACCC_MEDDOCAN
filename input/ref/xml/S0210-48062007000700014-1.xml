@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sandro.
+Apellidos: Reye Oviedo.
+NHC: 7438498.
+NASS: 83 45978369 13.
+Domicilio: Avda. Diego de León, 24.
+Localidad/ Provincia: Barcelona.
+CP: 08025.
+Datos asistenciales.
+Fecha de nacimiento: 30/05/1968.
+País de nacimiento: España.
+Edad: 46 años Sexo: H.
+Fecha de Ingreso: 03/06/2014.
+Servicio: Urología.
+Médico: Raúl Hernando Martínez-Rodríguez NºCol: 08 08 22845.
+Informe clínico del paciente: Varón de 46 años de edad, sin antecedentes patológicos de interés salvo vasectomía a los 42 años, que acudió al servicio de urgencias por tumoración perineal de inicio insidioso y aumento progresivo del tamaño en los últimos días, sin repercusión sobre la capacidad eréctil ni la micción. Negaba rotundamente antecedente traumático. A la exploración presentaba tumoración perineal de localización paracavernosa izquierda, no fluctuante, no dolorosa, de consistencia fibroelástica.
+Se realizó ecografía de partes blandas con orientación diagnóstica hacia hematoma perineal dependiente de porción proximal de cuerpo cavernoso izquierdo.
+En la Resonancia Magnética Nuclear se describía área hipointensa de aproximadamente 8x2x0,8 cm. localizada en región posterior de cuerpo cavernoso izquierdo con integridad de túnica albugínea y fascia de Buck.
+Se realizó estudio bacteriológico de material obtenido mediante punción con cultivo negativo.
+Se instauró tratamiento antiagregante vía oral y medidas físicas presentando reabsorción del hematoma y resolución completa a los 4 meses.
+Responsable clínico: Dr. Raúl Hernando Martínez-Rodríguez Servicio de Urología. Fundación Puigvert. Cartagena, 340-350 - 08025 Barcelona. Tel.: 934 169 700 E-mail autor: dr.rmartinez@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="34" text="Sandro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="47" end="58" text="Reye Oviedo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="65" end="72" text="7438498" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="80" end="94" text="83 45978369 13" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="107" end="130" text="Avda. Diego de León, 24" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="154" end="163" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="169" end="174" text="08025" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="218" end="228" text="30/05/1968" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="250" end="256" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="264" end="271" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="278" end="279" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="299" end="309" text="03/06/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="339" end="371" text="Raúl Hernando Martínez-Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="379" end="390" text="08 08 22845" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="422" end="427" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="431" end="438" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="511" end="518" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1525" end="1557" text="Raúl Hernando Martínez-Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T2" start="1580" end="1598" text="Fundación Puigvert" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T7" start="1600" end="1618" text="Cartagena, 340-350" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="1621" end="1626" text="08025" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="1627" end="1636" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T4" start="1644" end="1655" text="934 169 700" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T3" start="1670" end="1691" text="dr.rmartinez@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

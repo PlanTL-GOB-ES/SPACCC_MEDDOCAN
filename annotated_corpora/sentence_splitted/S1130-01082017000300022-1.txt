@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Ricardo .
+Apellidos: Martel Sandoval.
+NHC: 97431658.
+NASS: 85 96785636 12.
+Domicilio: C/ Pavones, 27, 3 D.
+Localidad/ Provincia: Avilés.
+CP: 20009.
+Datos asistenciales.
+Fecha de nacimiento: 23/05/1966.
+País de nacimiento: España.
+Edad: 57 años  Sexo: M.
+Fecha de Ingreso: 21/11/2017.
+Servicio: Medicina Interna.
+Episodio: 2894567.
+Médico: Josep Rubio Palau   NºCol: 28 28 63500.
+Presentamos el caso de un varón de 40 años con dolor abdominal y diaforesis tras la ingesta de 30 g de hachís para su transporte ilegal, por lo que fue custodiado por la Policía Nacional durante toda su estancia en el hospital. En una tomografía computarizada (TC) abdominal se observaron dos cuerpos extraños de 4 cm y 3 cm en íleon, con signos de obstrucción mecánica sin perforación, que se expulsaron de forma espontánea a las 24 horas, confirmándose su naturaleza tras el análisis específico. En la TC de control a las 48 horas se describía otro cuerpo extraño en antro gástrico, no objetivado previamente, por lo que se realizó una endoscopia oral con extracción mediante cesta de Dormia de un tercer paquete de 4 cm, morfología redondeada y consistencia semidura. El procedimiento se llevó a cabo sin complicaciones bajo sedación profunda por anestesista.
+Dirección para correspondencia J. G. Pereira Arias Servicio de Urología. Hospital San Eloy. Avenida Antonio Miranda, 5 Baracaldo 48902. Vizcaya. (España) urología.saneloy@hsel.osakidetza.net

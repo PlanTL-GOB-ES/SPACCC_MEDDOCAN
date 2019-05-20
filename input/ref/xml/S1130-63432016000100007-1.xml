@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Aitana.
+Apellidos: Berrios Llanos.
+NHC: 8927690.
+NASS: 28 39547680 44.
+Domicilio: C/ Estrella, 34, 3, A.
+Localidad/ Provincia: Madrid.
+CP: 28027.
+Datos asistenciales.
+Fecha de nacimiento: 14/01/1996.
+País de nacimiento: España.
+Edad: 22 años Sexo: M.
+Fecha de Ingreso: 20/06/2018.
+Médico: Isabel Gómez Valbuena NºCol: 28 28 65302.
+Informe clínico del paciente: Mujer de 22 años, trasplantada bipulmonar en marzo del 2014 debido a una fibrosis quistica. El donante presentaba serología para CMV positiva, mientras que para el receptor fue negativa. A los pocos días del trasplante se inició profilaxis con ganciclovir, y posteriormente cuando la paciente toleraba la vía oral se pasó a valganciclovir. Los controles de la carga viral durante la profilaxis fueron negativos en el receptor hasta el 6o mes después del trasplante, en que sin suspender la profilaxis se detectó carga viral en los controles (2.090 UI/ml). La paciente ingresó en nuestro Hospital e inició tratamiento intravenoso con ganciclovir; sin embargo al mes del inicio con la terapia intravenosa persistía la carga viral positiva e incluso fue en aumento hasta valores de 42.400 UI/ml. Debido a esto, se le realizó un estudio de resistencias, resultando que era resistente a ganciclovir, por lo que se cambió a foscarnet. Con este fármaco se consiguió negativizar la carga viral, no sin presentar ciertos efectos adversos como hipomagnesemia. Este hecho hizo que se tuviera que modificar el tratamiento inmunosupresor, cambiando ciclosporina por everolimus, ya que el primero puede producir esa misma alteración8.
+Cuando se consiguió negativizar la carga viral con foscarnet se suspendió el tratamiento, realizándole controles quincenales.
+A los dos meses sin tratamiento se observó como la carga viral había aumentado hasta 13.665 UI/ml, momento en el que se solicitó al Servicio de Farmacia la tramitación del uso compasivo de maribavir, con la intención de que la paciente recibiera terapia oral en lugar de intravenosa.
+Mientras que se realizaban las gestiones oportunas para conseguir maribavir, la paciente empezó tratamiento otra vez con valganciclovir oral. Puesto que se preveía retraso en obtener maribavir, y dada la urgencia del caso, los médicos encargados de la paciente se plantearon el uso fuera de ficha técnica de leflunomida. Esta solicitud fue informada por parte del Servicio de Farmacia a la Dirección Médica del Hospital, la cual autorizó el uso de leflunomida en esta paciente.
+Una vez estuvo disponible leflunomida para iniciar el tratamiento, se suspendió el valganciclovir. En este momento (marzo del 2015) la paciente presentaba una carga viral de 17.344 UI/ml. La pauta inicial fue de 100 mg al día durante los cinco primeros días, seguido de 20 mg cada 12 horas. A los quince días del inicio del tratamiento la carga viral había disminuido hasta 531 UI/ml, volviéndose indetectable al mes. Después de seis meses del inicio con leflunomida la paciente mantiene la carga viral indetectable sin presentar ningún efecto adverso al fármaco.
+Responsable clínico: Dra. Isabel Gómez Valbuena. Correo electrónico: isa_gv@hotmail.com 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="34" text="Aitana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="47" end="61" text="Berrios Llanos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="68" end="75" text="8927690" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="83" end="97" text="28 39547680 44" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="110" end="131" text="C/ Estrella, 34, 3, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="155" end="161" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="167" end="172" text="28027" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="216" end="226" text="14/01/1996" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="248" end="254" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="262" end="269" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="276" end="277" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="297" end="307" text="20/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="317" end="338" text="Isabel Gómez Valbuena" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="346" end="357" text="28 28 65302" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="389" end="394" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="398" end="405" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T3" start="434" end="448" text="marzo del 2014" TYPE="FECHAS" comment=""/>
+    <DATE id="T2" start="2614" end="2628" text="marzo del 2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="3088" end="3109" text="Isabel Gómez Valbuena" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3131" end="3149" text="isa_gv@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

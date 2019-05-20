@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Jose.
+Apellidos: Escudero Martinez.
+NHC: 78943621.
+Domicilio: Calle República Dominicana, 8, 4I.
+Localidad/ Provincia: Las palmas de Gran Canaria.
+CP: 35001.
+Datos asistenciales.
+Fecha de nacimiento: 23/10/2008.
+País: España.
+Edad: 9 años Sexo: H .
+Fecha de Ingreso: 03/03/2018.
+UNidad: Medicina Intensiva.
+Episodio: 15648894641.
+Médico:Jose Maria López Álvarez NºCol: 35 35 79465.
+Historia Actual: Niño de 9 años con faringitis desde hace 7 días, y fiebre elevada y artralgias en las 48 horas previas a su ingreso. Tras permanecer 12 horas en planta ingresa en la Unidad de Medicina Intensiva (UMI) obnubilado, con rash petequial puntiforme de predominio en raíz de miembros, mala perfusión periférica, hipotensión, taquicardia, aumento del trabajo respiratorio, desaturación y oligoanuria. 
+Según refieren sus padres, la abuela materna falleció de joven, atribuido a causa cardiaca.
+Jose tiene dos hermanos sanos y una hermana con cardiopatía congénita fallecida a los 15 días de vida.
+Resumen de pruebas complementarias: En las exploraciones complementarias destaca leucopenia (3.600/mm3), plaquetopenia (22.000/mm3), proteína C reactiva (11,96 mg/dl), Na+: 131 mEq/l, creatinina: 2,35 mg/dl, en anuria; coagulopatía con tiempo de tromboplastina parcial activado: 58 seg (control: 30 seg), tiempo de protrombina: 31 seg (control: 11 seg), índice de Quick: 20%, fibrinógeno: 269 mg/dl; actividad de antitrombina-III: 30%; disfunción hepática (aspartato aminotransferasa: 306 UI/l, alanino aminotransferasa: 184 UI/l, bilirrubina total: 9 mg/dl, bilirrubina directa: 6 mg/dl), acidosis metabólica (pH: 7,19, HCO3-: 16 mEq/l; EB: -10 mEq/l; lactato: 13 ng/dl y radiografía de tórax con afectación alveolo-intersticial bilateral.
+Evolución y comentarios: Se inicia expansión, administración de bicarbonato sódico, antibióticos (cefotaxima y teicoplanina) y perfusión de catecolaminas (dopamina 5 µg/kg/min y noradrenalina hasta 8 µg/kg/min). Precisa intubación y conexión a ventilación mecánica por empeoramiento del intercambio gaseoso con alta asistencia respiratoria. Se inicia hemofiltración veno-venosa continua por insuficiencia renal y sobrecarga de volemia.
+La evolución es desfavorable hacia fracaso multiorgánico (FMO) refractario, produciéndose asistolia y parada cardiorrespiratoria, siendo éxitus a las 12 horas del ingreso.
+Se aisló S. pyogenes serotipo M1T1 en hemocultivo y aspirado bronquial.
+Remitido por: Dr. Jose Maria López Álvarez. C/ Francisco Gourié, 28, 5.º E. 35002 Las Palmas de Gran Canaria. España. Correo electrónico: jmloal@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="13" text="Jose" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="26" end="43" text="Escudero Martinez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="50" end="58" text="78943621" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T1" start="71" end="104" text="Calle República Dominicana, 8, 4I" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="128" end="154" text="Las palmas de Gran Canaria" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="160" end="165" text="35001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="209" end="219" text="23/10/2008" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="227" end="233" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="241" end="247" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="254" end="255" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="276" end="286" text="03/03/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T12" start="326" end="337" text="15648894641" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T11" start="346" end="370" text="Jose Maria López Álvarez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="378" end="389" text="35 35 79465" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="408" end="412" text="Niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="416" end="422" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T26" start="821" end="827" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T23" start="832" end="846" text="abuela materna" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="894" end="898" text="Jose" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T25" start="905" end="917" text="dos hermanos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T27" start="930" end="937" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T28" start="980" end="995" text="15 días de vida" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2436" end="2460" text="Jose Maria López Álvarez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2462" end="2492" text="C/ Francisco Gourié, 28, 5.º E" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2494" end="2499" text="35002" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2500" end="2526" text="Las Palmas de Gran Canaria" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2528" end="2534" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="2556" end="2574" text="jmloal@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

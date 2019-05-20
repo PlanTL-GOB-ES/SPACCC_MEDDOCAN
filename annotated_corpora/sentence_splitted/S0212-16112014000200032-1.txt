@@ -1,0 +1,15 @@
+Datos del paciente.
+Nombre: Manuel.
+Apellidos: Mendieta Duarte.
+NHC: 786353.
+Domicilio: calle Oria 66, 1D.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 30/07/1999.
+País de nacimiento: España.
+Edad: 33 años  Sexo: H.
+Fecha de Ingreso: 06/06/2018.
+Médico: Silvia Álvarez Bandrés  NºCol: 21536.
+Varón de 44 años, diagnosticado de Enfermedad de Huntington, con deterioro cognitivo severo, disfagia neurogénica, broncoaspiraciones y desnutrición, motivo por el que se realiza GEP para nutrición enteral domiciliaria. Durante el procedimiento, por imposibilidad de obtener un punto de contacto entre estómago y pared abdominal por transiluminación y digitopresión, se añadió la asistencia de laparoscópia para concluir el procedimiento de inserción de la sonda de gastrostomía.
+Dirección para correspondencia: Ignacio Jiménez Varo. Hospital Universitario Virgen del Rocío. Reyes Católicos, 19 - 5o. Sevilla. España. E-mail: ignaciojimenez85@hotmail.com

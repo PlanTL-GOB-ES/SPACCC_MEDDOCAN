@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Juan.
+Apellidos: Perez Perez.
+NHC: 2987694.
+Domicilio: Av/ Rousell, 42.
+Localidad/ Provincia: Barcelona.
+CP: 08001.
+Datos asistenciales.
+Fecha de nacimiento: 15/11/1950.
+País: España.
+Edad: 64 años Sexo: H.
+Fecha de Ingreso: 20/03/2015.
+Médico: Pere Huguet  NºCol: 08 08 57910.
+Informe clínico del paciente: Varón de 64 años de edad con tumefacción mandibular derecha de 6 meses de evolución. La radiografía simple mostraba una lesión expansiva bien delimitada, osteolítica, multiloculada, localizada en rama horizontal mandibular. La tomografía computerizada presentaba una lesión expansiva con destrucción de la cortical ósea. Con el diagnóstico provisional de probable ameloblastoma se procedió a la resección-biopsia de la lesión. Mediante incisión interpapilar se expuso la mandíbula que mostraba la superficie abombada y destruída por una tumoración carnosa de consistencia densa que rodeaba la rama del nervio dentario inferior. Tras un cuidadoso curetaje de la cavidad ósea se reconstruyó la mandíbula y se repuso la mucosa. No hubo complicaciones postquirúrgicas.
+El material remitido a Anatomía Patológica consistía en fragmentos tumorales de unos 2x1.5 cm, blanco-grisáceos al corte y de consistencia firme. Se tomaron diversas muestras que tras fijarse en formaldehído se incluyeron en parafina y se procesaron mediante técnicas de rutina: se cortaron secciones de 4m de grosor que se tiñeron con hematoxilina-eosina. Se procedió a estudio inmunohistoquímico de cortes representativos mediante el método avidina-biotina peroxidasa, utilizando anticuerpos primarios anti antígeno de membrana epitelial EMA, (Dako M613, USA, 10/500), proteína S-100 (Dako, L1845, USA, prediluída), neurofilamentos (Biogenex 6670-0154, USA), enolasa neuroespecífica NSE, (Biogenex MU055-VC, USA, 10/1000), CD57 (Becton-Dickinson 7660, USA, 10/500), CD34 (Becton-Dickinson 7660, USA, 10/500), a-actina de músculo liso (Dako MO851, USA, 10/200), desmina (Dako M760, USA, 10/500), y vimentina (Shandon 402255, USA, pred.). El proceso se realizó siguiendo el protocolo estándar, utilizando controles positivos y negativos.
+La hibridización in situ con fluorescencia (FISH) se realizó en cortes parafinados de 50m de espesor mediante un mezclador de doble color LSI BCR/ABL (VYSIS Inc, Downers Grove, USA) siguiendo el procedimiento recomendado por el fabricante y se examinaron con un microscopio de fluorescencia Nikon con un filtro de triple banda, siendo estudiados un centenar de núcleos por dos de los autores.
+Histológicamente los fragmentos tumorales estaban constituídos por células alargadas de forma y tamaño regulares dispuestas en haces entrelazados y en remolinos estructurados en "bulbo de cebolla". La densidad celular y del estroma intercelular eran variables, con algunas zonas mostrando aspecto mixoide. No se apreciaron células dispuestas en empalizada ni se observaron pleomorfimso celular o mitosis atípicas. En la periferia de algunos fragmentos se identificaron fibras residuales del tronco nervioso mandibular. Con el diagnóstico provisional de PIN se procedió a los examenes complementarios.
+La inmunohistoquímica mostró que las células tumorales eran intensamente positivas para el EMA y la vimentina y negativas para la proteína S-100, NSE, colágeno IV, CD57, a-actina de músculo liso, desmina y CD34. Las células de Schwann en los remolinos eran positivas para la proteína S-100 y en el centro de los "bulbos" se identificaron axones positivos para el antígeno anti-neurofilamento. Las fibras residuales del nervio dentario eran positivas para la proteína S-100, la NSE y los neurofilamentos y el perineurio positivo para el EMA.
+La hibridización in situ con fluorescencia reveló una delección del brazo largo del cromosoma 22 (22q11) en los núcleos del 75% de las células tumorales así como pérdida de centrómero del cromosoma 22.
+Remitido por: Dr Pere Huguet. Departament d'Anatomia Patològica. Hospital Universitari Vall d'Hebron. Pg Vall d'Hebron 119-129 08035 Barcelona. Tel 93 2746809 Fax 93 2746818 E-mail: phuguet@cs.vhebron.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T44" start="29" end="33" text="Juan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T43" start="46" end="57" text="Perez Perez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T42" start="64" end="71" text="2987694" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T41" start="84" end="99" text="Av/ Rousell, 42" TYPE="CALLE" comment=""/>
+    <LOCATION id="T40" start="123" end="132" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T39" start="138" end="143" text="08001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T37" start="187" end="197" text="15/11/1950" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T38" start="205" end="211" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T35" start="219" end="226" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T33" start="233" end="234" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T36" start="254" end="264" text="20/03/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T31" start="274" end="285" text="Pere Huguet" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T29" start="294" end="305" text="08 08 57910" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T32" start="337" end="342" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T34" start="346" end="353" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T10" start="1648" end="1652" text="Dako" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T20" start="1659" end="1662" text="USA" TYPE="PAIS" comment=""/>
+    <LOCATION id="T9" start="1689" end="1693" text="Dako" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T21" start="1702" end="1705" text="USA" TYPE="PAIS" comment=""/>
+    <LOCATION id="T8" start="1737" end="1745" text="Biogenex" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T17" start="1757" end="1760" text="USA" TYPE="PAIS" comment=""/>
+    <LOCATION id="T7" start="1793" end="1801" text="Biogenex" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T15" start="1812" end="1815" text="USA" TYPE="PAIS" comment=""/>
+    <LOCATION id="T6" start="1833" end="1849" text="Becton-Dickinson" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T14" start="1856" end="1859" text="USA" TYPE="PAIS" comment=""/>
+    <LOCATION id="T5" start="1876" end="1892" text="Becton-Dickinson" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T16" start="1899" end="1902" text="USA" TYPE="PAIS" comment=""/>
+    <LOCATION id="T4" start="1939" end="1943" text="Dako" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T13" start="1951" end="1954" text="USA" TYPE="PAIS" comment=""/>
+    <LOCATION id="T3" start="1974" end="1978" text="Dako" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T12" start="1985" end="1988" text="USA" TYPE="PAIS" comment=""/>
+    <LOCATION id="T2" start="2012" end="2019" text="Shandon" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T18" start="2028" end="2031" text="USA" TYPE="PAIS" comment=""/>
+    <LOCATION id="T1" start="2291" end="2300" text="VYSIS Inc" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T11" start="2302" end="2315" text="Downers Grove" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="2317" end="2320" text="USA" TYPE="PAIS" comment=""/>
+    <NAME id="T30" start="3894" end="3905" text="Pere Huguet" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T28" start="3942" end="3977" text="Hospital Universitari Vall d'Hebron" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T27" start="3979" end="4003" text="Pg Vall d'Hebron 119-129" TYPE="CALLE" comment=""/>
+    <LOCATION id="T26" start="4004" end="4009" text="08035" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T25" start="4010" end="4019" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T24" start="4025" end="4035" text="93 2746809" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T23" start="4040" end="4050" text="93 2746818" TYPE="NUMERO_FAX" comment=""/>
+    <CONTACT id="T22" start="4059" end="4080" text="phuguet@cs.vhebron.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

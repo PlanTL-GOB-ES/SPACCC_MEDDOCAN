@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Martin.
+Apellidos: Navarro Olmedo.
+NHC: 73 62476454 66.
+NASS: 46 23767405 61.
+Domicilio: Av. Juana Ibarra, 12, 4 A.
+Localidad/ Provincia: Valencia.
+CP: 46002 .
+Datos asistenciales.
+Fecha de nacimiento: 21/11/1941.
+País de nacimiento: España.
+Edad: 76 años Sexo: H.
+Fecha de Ingreso: 04/12/2017.
+Servicio: Nefrología.
+Médico: Eduardo Torregrosa de Juan NºCol: 46 46 52381.
+Informe clínico del paciente: Varón de 76 años afecto de ERC estadio 4 secundaria a poliquistosis hepatorrenal con antecedente de hipertensión arterial de larga evolución, diabetes mellitus tipo 2, hiperuricemia, dislipemia y enfermedad pulmonar obstructiva crónica. Ante la situación de ERC avanzada y tras explicar las diferentes técnicas dialíticas, se inserta catéter peritoneal recto no autoposicionante de 1 cuff mediante cirugía abierta sin incidencias inmediatas y con buen funcionamiento durante el período de entrenamiento. Al mes de colocación del catéter, se inicia diálisis peritoneal continua ambulatoria (DPCA) en domicilio con pauta de 3 intercambios de 2 litros de dextrosa 1,5 %, inicialmente con balances neutros o negativos de 200-300 ml. A los 4 días de inicio del tratamiento en domicilio, acude a la Unidad de Diálisis Peritoneal refiriendo cuadro de edema genital, sin otra clínica asociada. Tras efectuarse ecografía testicular, se descarta patología a dicho nivel. Ante sospecha de fuga, se efectúa una tomografía axial computarizada (TAC)-peritoneografía, tras la administración (por el catéter) de 100 ml de contraste iodado hipoosmolar (Optiray® 300 mg/ml), confirmándose el paso de material de contraste peritoneal a través del cordón espermático hasta el escroto por presencia de un proceso peritoneovaginal permeable, aunque no dilatado. Igualmente, también se aprecia la existencia de una hernia inguinal indirecta izquierda ipsilateral con un saco de hasta 58 mm de diámetro. Ante estos hallazgos, se decide realizar reposo peritoneal y se indica cirugía para corrección de la hernia inguinal y cierre del conducto peritoneovaginal. Con estas medidas, y tras reiniciar diálisis peritoneal con volúmenes bajos, un mes después de la reintervención no se objetivó nueva fuga.
+Responsable clínico: Dr. Eduardo Torregrosa de Juan, Servicio de Nefrología, Hospital de Manises, Manises, Valencia torregrosa_edu@gva.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="34" text="Martin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="47" end="61" text="Navarro Olmedo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="68" end="82" text="73 62476454 66" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="90" end="104" text="46 23767405 61" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="117" end="142" text="Av. Juana Ibarra, 12, 4 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="166" end="174" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="180" end="185" text="46002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="230" end="240" text="21/11/1941" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="262" end="268" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="276" end="283" text="76 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="290" end="291" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="311" end="321" text="04/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="353" end="379" text="Eduardo Torregrosa de Juan" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="387" end="398" text="46 46 52381" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="430" end="435" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="439" end="446" text="76 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="2232" end="2258" text="Eduardo Torregrosa de Juan" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2284" end="2303" text="Hospital de Manises" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="2305" end="2312" text="Manises" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2314" end="2322" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2323" end="2344" text="torregrosa_edu@gva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

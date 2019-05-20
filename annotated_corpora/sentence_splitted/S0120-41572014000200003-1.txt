@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Juan.
+Apellidos: De la Cruz Lorenzo.
+NHC: 3456145.
+NASS: 78 96435798 60.
+Domicilio: Calle Mendez Alvado 46.
+Localidad/ Provincia: Madrid.
+CP: 30007.
+Datos asistenciales.
+Fecha de nacimiento: 19/03/1967.
+País de nacimiento: España.
+Edad: 52 años  Sexo: H.
+Fecha de Ingreso: 23/05/2018.
+Médico: Marta Medrano San Ildefonso.  NºCol: 28 28 10293.
+Se trata de una paciente de 14 años de edad con retardo mental, síndrome convulsivo y cuadriparesia espástica de cinco meses de evolución. Los antecedentes perinatales incluían retardo del crecimiento intrauterino, oligoamnios y bajo peso para la edad de gestación. En lo concerniente a las características fenotípicas, se observaron placas alopécicas y un mechón de cabello blanco en la región frontal derecha. En las imágenes de resonancia magnética se observaron múltiples calcificaciones, daño de la sustancia blanca y lesiones quísticas.
+Correspondencia a: Dr. Luis Cartier R. Departamento de Ciencias Neurológicas Oriente, Facultad de Medicina, Universidad de Chile. José Manuel Infante 553, quinto piso. Providencia-Santiago. Fono-fax: 56-2-2360170 Celular: 56-9-7814925 E-mail: lcartier@med.uchile.cl

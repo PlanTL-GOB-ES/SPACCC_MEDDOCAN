@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Carla.
+Apellidos: Casado Vinuesa.
+NHC: 5689502.
+NASS: 78 43287024 67.
+Domicilio: Av. del Padre Claret, 2, 4 C.
+Localidad/ Provincia: Madrid.
+CP: 28028.
+Datos asistenciales.
+Fecha de nacimiento: 13/06/1943.
+País de nacimiento: España.
+Edad: 6 años  Sexo: H.
+Fecha de Ingreso: 15/06/2017.
+Médico: Lucía Velasco Roces  NºCol: 48 48 21385.
+Adolescente de 14 años, derivada a ginecología por cuadro de leucorrea de un año de evolución. La paciente habría iniciado su menarquia a los 11 años, con ciclos menstruales regulares, dismenorrea no invalidante y caracteres sexuales secundarios normales. En la evaluación ginecológica destacó quiste de 3 cm de diámetro entre labios menores, tenso, no doloroso, parauretral derecho y no se observaba meato uretral. Se evaluó por urología y se realizó estudio con Ecografía renal y vesical, en la que destacó un quiste vulvar de contenido espeso de 1,7 x 0,6 cm.
+Ante los hallazgos se realizó cistogenitoscopía, extirpación de quiste y biopsia, procedimiento realizado sin incidentes. Con la biopsia se confirmó el diagnóstico de Quiste de Skene.
+
+Correspondencia a: Alberto Miño Barrera E-mail: albertomag74@hotmail.com

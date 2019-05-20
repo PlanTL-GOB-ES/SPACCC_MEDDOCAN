@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Hugo.
+Apellidos: Orozca Bueno.
+NHC: 2086532.
+Domicilio: C/ Massotti, 16, 6 A.
+Localidad/ Provincia: Segovia.
+CP: 04201.
+Datos asistenciales.
+Fecha de nacimiento: 13/06/1961.
+País: España.
+Edad: 68 años  Sexo: M.
+Fecha de Ingreso: 25/05/2018.
+Médico: David Ruiz-Clavijo García  NºCol: 08 08 56820.
+Mujer de 25 años, que ingresó por adenopatías en cadena yugular izquierda. Destacaba como único antecedente epidemiológico picaduras de numerosos insectos en un viaje a Méjico realizado hacía un mes. En el examen físico se palpaban varias adenopatías de alrededor de 1 cm de diámetro en zona laterocervical izquierda, no dolorosas, siendo el resto de la exploración normal. En la analítica solamente destacaba leucopenia (4.300 leucocitos/µl) con fórmula normal y LDH 372. ANAS negativos. Serología frente a Bartonella henselae, Salmonella, Brucella, CMV, EBV, virus hepatitis B, C, rubéola y RPR: negativas. Practicado TAC torácico-abdominal fue normal. Realizada biopsia de adenopatía laterocervical izquierda mostró focos de necrosis paracortical con componente inflamatorio polimorfo, constituido por linfocitos T CD4+, histiocitos CD 68, escasas células plasmáticas y ausencia de eosinófilos. La paciente evolucionó favorablemente sin tratamiento alguno y permanece asintomática dos años después.
+
+Dirección para correspondencia: Miguel Montejo C/ Heros,5-2º A 48009 Bilbao E-mail: secretaria.infecciosos@hcru osakidetza.net

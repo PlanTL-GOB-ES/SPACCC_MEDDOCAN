@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Ana Lyn.
+Apellidos: Rodriguez Mung.
+NHC: 4375280.
+Domicilio: Calle Real 234, 3B .
+Localidad/ Provincia: Madrid.
+CP: 28004.
+Datos asistenciales.
+Fecha de nacimiento: 01/05/1946.
+País: España.
+Edad: 61 años  Sexo: H.
+Fecha de Ingreso: 26/05/2009.
+Servicio: Urgencias.
+Episodio: 632632225.
+Médico: María Luisa Díaz Ortiz  NºCol: 15 15 22057.
+Mujer de 42 años, diestra, ingresó por intensa cefalea, debilidad de extremidades izquierdas y pérdida del control esfinteriano. Bien orientada, era capaz de invertir series automáticas. Hemiplejia e hemihipoestesia izquierdas de predominio faciobraquial, dificultad para elevar los párpados; la apertura mecánica de los ojos evidenció pupilas iguales, reactivas, con oculomotilidad voluntaria y refleja conservadas, mantenía desviación conjugada de la mirada a derecha. TC mostró una hipodensidad heterogénea en región fronto-témporo-parietal derecha y ausencia del llene de la arteria carótida derecha. Con diagnóstico de accidente cerebrovascular maligno, se realizó craneotomía descompresiva. Conservó la vigilancia en la etapa postoperatoria inmediata, así como la hemiplejia izquierda y la ptosis palpebral. Al cuarto día, el ojo izquierdo (lado de la plejia) inició semiapertura palpebral, mientras la ptosis derecha persistía. Al quinto día se inició apertura ocular derecha, elevación parcial y transitoria del párpado con apoyo frontal, el ojo izquierdo había completado su apertura. Al noveno día se comprobó la apertura voluntaria sin esfuerzos de ambos ojos.
+Correspondencia a: Dr. Roberto González Lagos Departamento de Cirugía, Facultad de Medicina Universidad de Concepción Janequeo esquina Chacabuco, Concepción, Chile Fono-Fax: 56-41-2204881 E-mail: rgonzalezlagos@udec.cl

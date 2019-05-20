@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: David.
+Apellidos: Mejide Alejandre.
+NHC: 7859890.
+NASS: 46 54289665 88.
+Domicilio: C/ Nuñez de Balboa 18.
+Localidad/ Provincia: Madrid.
+CP: 28014.
+Datos asistenciales.
+Fecha de nacimiento: 27/03/1958.
+País de nacimiento: España.
+Edad: 53 años Sexo: H.
+Fecha de Ingreso: 21/12/2011.
+Médico: Javier Roberti NºCol: 28 28 12441.
+Informe clínico del paciente: varón de 53 años de edad, que hasta 1992 cuando contaba con 41 años, tenía como único antecedente personal de interés la existencia de una pequeña hernia de hiato. Desde esa fecha y como consecuencia de un accidente de tráfico empezó a presentar molestias tanto en la columna cervical como lumbar, irradiándose el dolor a hombros, brazos y piernas. La sintomatología dolorosa fue aumentando en intensidad, y bajo el diagnóstico de hernia discal lumbar L4-L5, se le realizó una discectomía lumbar y laminectomía, apareciendo con posterioridad a la intervención un empeoramiento de su sintomatología. Meses más tarde, debido a una inestabilidad lumbar, es sometido a una nueva intervención quirúrgica para la fijación de las vértebras lumbares, y como consecuencia de esta intervención el cuadro empeora aún más, apareciendo parestesias, y un dolor neuropático que se acompaña de trastornos miccionales, estreñimiento y dificultades para la erección, lo que conduce al diagnóstico de fibrosis epidural postquirúrgica o síndrome postlaminectomía.
+En 1997 es intervenido en otras dos ocasiones. La primera de ellas, para la retirada del material de osteosíntesis; y la segunda, para realizarse una discectomía cervical con laminectomía a nivel de C3-C4, que también resulta fallida, pues el dolor aumenta de intensidad, y adquiere características de neuropático.
+Ante la gravedad del cuadro y la mala evolución del paciente, es remitido a la Unidad del Dolor de nuestro hospital donde tras la valoración inicial, se decidió optar por la colocación de un neuroestimulador medular, con el que tampoco se consiguieron obtener resultados satisfactorios. Por otra parte, como consecuencia de los tratamientos analgésicos y antiinflamatorios continuados con que se intentaba controlar el dolor, el paciente desarrolló una úlcera duodenal que agravó la hernia de hiato preexistente y un cuadro de ansiedad y depresión.
+Recientemente tras una caída accidental, se fracturó ambos calcáneos añadiéndose un nuevo componente de dolor a los ya reflejados, y que ha acabado por sumir al paciente en una moderada depresión. La fractura de calcáneos está derivando a una distrofia simpático-refleja de ambas piernas.
+Hoy en día está diagnosticado de síndrome postlaminectomía cervical y lumbar, y presenta un dolor continuo, de intensidad moderada-severa, con exacerbaciones frecuentes que aumenta con la sedestación y a lo largo del día, y que llega a ser insoportable por la tarde, viéndose obligado al uso de muletas por el grado de invalidez, y por la marcada limitación de la movilidad, especialmente en las regiones cervical y lumbar. A la exploración destaca la existencia de un signo de Lasegue positivo bilateral a 30 grados; afectación grave de la sensibilidad, que además del dolor, origina zonas hipoestésicas y espásticas en ambos miembros inferiores; y marcadas dificultades motoras y esfinterianas que limitan notablemente al paciente en su vida cotidiana.
+El dolor ha sido tratado con numerosos fármacos, desde antinflamatorios no esteroideos hasta mórficos, pasando por anticomiciales, ansiolíticos y antidepresivos. Desde hace tres años, se le introdujo la terapia con citrato de fentanilo oral para acompañar el uso de fentanilo transdérmico. Desde entonces, ha mejorado sustancialmente el dolor y la calidad de vida, aunque lejos aún de considerar como óptimos los resultados, precisando casi todos los días, dos comprimidos de 400 µg para controlar sus exacerbaciones dolorosas.
+Como hecho más significativo a destacar, el paciente afirma que meses después de iniciar el tratamiento continuado con citrato de fentanilo oral, ha ido presentando múltiples caries, las cuales le han originado la pérdida de un total de diez piezas dentarias, y lo achaca al uso de este fármaco. Su higiene dental es defectuosa pero existente, realizándola alguna vez, casi todos los días.
+En el grupo de 77 pacientes que en nuestra Unidad del Dolor también reciben tratamiento oral crónico con citrato de fentanilo por patologías diversas, y que revisamos a raíz del caso que nos ocupa, no ha aparecido ningún otro caso de trastornos dentarios sobreañadidos destacable. La edad media de estos pacientes fue de 63 ± 8,2 años y la duración del tratamiento con fentanilo 36 ± 8 meses. La conducta respecto a la higiene dental en este grupo no se ha modificado al introducir el nuevo fármaco, y la prevalencia de la caries es extrapolable al de la población adulta en general, en la que ronda en torno al 85-99%, según la edad y los distintos estudios (5).
+Responsable clínico: Dr. Javier Roberti, Fundación para la Investigación y la Asistencia de la Enfermedad Renal (FINAER), Madrid, España, Correo Electrónico: javierroberti@gmail.com fcicora5@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="28" end="33" text="David" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="46" end="62" text="Mejide Alejandre" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="69" end="76" text="7859890" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="84" end="98" text="46 54289665 88" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="111" end="132" text="C/ Nuñez de Balboa 18" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="156" end="162" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="168" end="173" text="28014" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="217" end="227" text="27/03/1958" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T19" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="263" end="270" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="277" end="278" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="298" end="308" text="21/12/2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="318" end="332" text="Javier Roberti" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="340" end="351" text="28 28 12441" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T13" start="383" end="388" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T15" start="392" end="399" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="419" end="423" text="1992" TYPE="FECHAS" comment=""/>
+    <AGE id="T8" start="443" end="450" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="1430" end="1434" text="1997" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="4942" end="4956" text="Javier Roberti" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="4958" end="5028" text="Fundación para la Investigación y la Asistencia de la Enfermedad Renal" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="5030" end="5036" text="FINAER" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T4" start="5039" end="5045" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="5047" end="5053" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="5075" end="5098" text="javierroberti@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T1" start="5099" end="5117" text="fcicora5@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

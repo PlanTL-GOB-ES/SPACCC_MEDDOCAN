@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Jaime.
+Apellidos: Pila Fernandez.
+NHC: 45098436.
+Domicilio: Calle Genaro Rubio 18, 4E.
+Localidad/ Provincia: Madrid.
+CP: 28022.
+Datos asistenciales.
+Fecha de nacimiento: 24/01/14.
+País: España.
+Edad: 4 años Sexo: H.
+Fecha de Ingreso: 20/05/2018.
+Médico: Maria Luisa Castellón Zavala  NºCol: 28 28 56971.
+Motivo de ingreso:.
+Historia Actual: Niño, género masculino de cuatro años de edad, fue derivado desde el servicio de diagnóstico de la Universidad Mayor al Hospital Pediátrico Dr. Luis Calvo Mackenna para la evaluación de un aumento de volumen en la zona mandibular derecha, asintomático y de evolución indeterminada. La madre relató no haber notado el aumento de volumen hasta el momento de la derivación, y que el niño nunca se quejó de dolor o impotencia funcional.
+Antecedentes: El paciente no presentaba antecedentes mórbidos ni quirúrgicos relevantes.
+Exploración física: Al examen extraoral se apreció un aumento de volumen que comprometía cuerpo y rama mandibular derecha, firme e indoloro a la palpación, sin compromiso de la piel. No se registraron adenopatías. Tampoco se registró compromiso sensitivo asociado y el examen funcional mandibular resultó normal.
+Al examen intraoral el paciente presentaba dentición temporal completa y un gran aumento de volumen que comprometía cuerpo y rama del lado derecho, la mucosa que lo recubría estaba indemne, era indoloro a la palpación y de consistencia dura.
+Resumen de pruebas complementarias: En la visión panorámica del Cone Beam pudo observarse una extensa lesión radiolúcida unilocular bien delimitada, con contenido variable de radiopacidades similares a estructuras dentarias, que se extendía desde la raíz distal del segundo molar temporal hasta la zona alta de la rama mandibular derecha, equivalente a 45mm en sentido mesiodistal, 30mm en sentido vestíbulo-lingual y 35mm en sentido céfalo-caudal. La lesión producía desplazamiento hacia el borde basilar del germen del primer molar permanente, mientras que el segundo molar permanente no se observó. Se apreció compromiso del borde anterior de la rama, reborde alveolar y borde basilar. En el corte coronal pudo apreciarse especialmente la expansión de la tabla ósea vestibular y el desplazamiento inferior del conducto dentario inferior.
+Se realizó una biopsia incisional de la lesión. El examen histopatológico teñido con hematoxilina-eosina mostró tejido conjuntivo fibroso con zonas de tejido dentario con grados variables de calcificación similar a dentina o tejido dentinoide, todo en relación a epitelio odontogénico. Además se observaron zonas similares a papila dentaria con proliferación epitelial dispuesta en cordones e islotes con periferia similar a ameloblastos, y hacia el centro tejido que recordaba al retículo estrellado. El diagnóstico histopatológico fue FOA.
+Evolución y comentarios: Con este diagnóstico se planificó la cirugía definitiva. Bajo anestesia general, se realizó el abordaje a nivel del borde anterior de la rama mandibular derecha. La exposición ósea demostró una importante expansión en la tabla ósea vestibular mandibular, sobre la cual se realizó una osteotomía que permitió el acceso y posterior enucleación completa, seguido de acondicionamiento de la cavidad y sutura con Vycril 4,0.
+En el manejo postoperatorio del paciente se utilizó antibioterapia y analgesia convencional en conjunto con revulsivos y dieta blanda. Esta última se prolongó por un mes.
+El paciente se mantiene con controles periódicos en el postoperatorio inmediato y tardío y, actualmente, después de un año postoperatorio, se encuentra en muy buenas condiciones.
+Remitido por: Maria Luisa Castellón Zavala castellonz@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="14" text="Jaime" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="27" end="41" text="Pila Fernandez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="48" end="56" text="45098436" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="69" end="94" text="Calle Genaro Rubio 18, 4E" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="118" end="124" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="130" end="135" text="28022" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="179" end="187" text="24/01/14" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="195" end="201" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="209" end="215" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="222" end="223" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="243" end="253" text="20/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="263" end="291" text="Maria Luisa Castellón Zavala" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T1" start="300" end="311" text="28 28 56971" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="350" end="354" text="Niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="363" end="372" text="masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="376" end="387" text="cuatro años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T6" start="449" end="466" text="Universidad Mayor" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="470" end="513" text="Hospital Pediátrico Dr. Luis Calvo Mackenna" TYPE="HOSPITAL" comment=""/>
+    <OTHER id="T4" start="635" end="640" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T3" start="730" end="734" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3619" end="3647" text="Maria Luisa Castellón Zavala" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T2" start="3648" end="3668" text="castellonz@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

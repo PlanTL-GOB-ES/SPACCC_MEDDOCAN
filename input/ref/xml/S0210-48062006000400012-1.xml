@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Jose Julián.
+Apellidos: Uribe Cardona.
+NASS:23547842 16.
+Domicilio: Calle 4 Sur No 43AA- 30.
+Localidad/ Provincia: Medellin.
+CP: 06411.
+NHC:7896541.
+Datos asistenciales.
+Fecha de nacimiento: 19/04/2000.
+País: COlombia.
+Edad: 14 Sexo: H.
+Fecha de Ingreso: 20/10/2014.
+Especialidad: Urología.
+Médico:Juan Gabriel Velásquez López.
+Historia Actual: Paciente masculino de 14 años, residente en la ciudad de Medellín, previamente asintomático quien es remitido al servicio de urología del Hospital Pablo Tobón Uribe con un diagnóstico de masa testicular izquierda. El paciente se palpó incidentalmente una masa testicular, indolora, en área escrotal izquierda, sin notar crecimiento de ésta con el tiempo, no relacionada con trauma local ni asociada a otros síntomas. Consultó inicialmente al médico de su localidad y le ordenaron un estudio ecográfico el cual demostró en el saco escrotal izquierdo dos imágenes redondeadas, bien definidas de tamaño, forma y ecogenicidad similar, con medidas en promedio 9 x 11 mm, que presentaban además un patrón doppler similar. Dicho estudio descartó lesiones en el epidídimo. Con este resultado sugieren descartar masa testicular o testículo supernumerario y lo remiten al médico internista, quien le ordena una resonancia nuclear magnética (RNM), la cual reportó presencia de tres estructuras bien definidas de aspecto ovalado en saco escrotal, compatibles con dos testículos y uno adicional (ver Fig. 2), sin masas ni adenopatías. Por estos hallazgos lo remiten a urología. 
+Exploración física: Al examen físico se encontró al paciente en buenas condiciones generales, con signos vitales dentro de los parámetros normales para la edad y un adecuado desarrollo pondoestural; en el abdomen no presentaba masas palpables ni hernias, y tampoco tenía adenopatías inguinales. En genitales externos, se observó el pene normal, y se palpan dos testículos sanos y además una masa esférica adenomatosa, localizada en área superior (proximal) del hemiescroto izquierdo, móvil no dolorosa, fácilmente separable con los dedos, sin presencia de nodulaciones ni signos de inflamación local.
+Resumen de pruebas complementarias: Por la historia clínica, los estudios complementarios y los hallazgos al examen físico se hace una impresión diagnóstica de masa paratesticular o PQ. Con éste enfoque clínico y previa revisión del tema se decide llevar a cirugía para exploración y resección de dicha lesión, previo consentimiento informado del paciente y su familia. Bajo anestesia general se realiza una incisión escrotal transversa, con posterior disección por planos hasta la albugínea del lado izquierdo, observando la presencia de dos estructuras de igual tamaño, aspecto y consistencia compatibles con testículos, estando unidos por un epidídimo común y cada uno con un paquete vascular, donde solo uno, el de ubicación caudal, presentaba una estructura compatible con conducto deferente, en este mismo se apreció un apéndice testicular, lo que nos llevó a pensar que correspondía en su origen embriológico al polo superior testicular, mientras que en el otro, de localización proximal o superior, se observó tenía un paquete venoso muy dilatado y único. Se realizó sección, ligadura con hemostasia exhaustiva y corte de este último; se obtie-ne una estructura redondeada color carmelita, de consistencia firme, de aproximadamente 1,2 cm en su diámetro mayor, la cual se envía para estudio anatomopatológico. Luego se realiza bolsillo en espacio subdartos donde se aloja el testículo sano y es fijado con material de sutura orgánico absorbible (poliglactina) Vicryl® 4-0 (Ethicon, Johnson & Johnson). Se realiza un cierre por planos y se procede a un bloqueo del nervio ilioinguinal del lado izquierdo. 
+Evolución y comentarios: Se da de alta en su postoperatorio inmediato y evoluciona satisfactoriamente, sin presentar complicaciones. Para el informe de patología se procesan dos fragmentos y en los cortes histológicos se reporta un testículo normal. Sin neoplasia intratubular seminal.
+Remitido por: Dr. JG Velásquez López Carrera 39 No 47-33 Medellín - Colombia E-mail: juangvl@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="8" end="19" text="Jose Julián" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="32" end="45" text="Uribe Cardona" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="52" end="63" text="23547842 16" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="76" end="99" text="Calle 4 Sur No 43AA- 30" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="123" end="131" text="Medellin" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="137" end="142" text="06411" TYPE="TERRITORIO" comment=""/>
+    <ID id="T18" start="148" end="155" text="7896541" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="199" end="209" text="19/04/2000" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="217" end="225" text="COlombia" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="233" end="235" text="14" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="242" end="243" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="263" end="273" text="20/10/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="306" end="334" text="Juan Gabriel Velásquez López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="362" end="371" text="masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="375" end="382" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T9" start="410" end="418" text="Medellín" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T8" start="491" end="517" text="Hospital Pablo Tobón Uribe" TYPE="HOSPITAL" comment=""/>
+    <OTHER id="T1" start="2481" end="2488" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T2" start="3610" end="3627" text="Johnson &amp; Johnson" TYPE="INSTITUCION" comment=""/>
+    <NAME id="T7" start="4037" end="4055" text="JG Velásquez López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="4056" end="4075" text="Carrera 39 No 47-33" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="4076" end="4084" text="Medellín" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="4087" end="4095" text="Colombia" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="4104" end="4121" text="juangvl@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

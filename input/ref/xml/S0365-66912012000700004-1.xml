@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Ignacio.
+Apellidos: Cañizares Roque.
+NHC: 7823673.
+NASS: 28 96457601 34.
+Domicilio: C/ Rodriguez Sahagun, 4.
+Localidad/ Provincia: Madrid.
+CP: 28039.
+Datos asistenciales.
+Fecha de nacimiento: 24/12/1979.
+País de nacimiento: España.
+Edad: 38 años Sexo: H.
+Fecha de Ingreso: 13/06/2018.
+Servicio: Oftalmologia.
+Episodio: 7824373.
+Médico: Rodrigo Rodríguez Gil  NºCol: 28 28 41503.
+Informe clínico del paciente: Varón de 38 años, hipertenso, con hipoacusia neurosensorial, remitido por baja agudeza visual (AV). En la anamnesis familiar se registró a tres hermanos varones sordomudos y otro con baja visión.
+La agudeza visual (AV) sin corrección fue 0,3 en el ojo derecho (OD) y 0,2 en el ojo izquierdo (OI). Se detectó un lenticono anterior y en el fondo de ojo se evidenció la existencia de un AM en ambos ojos, rodeado por un anillo perimacular de puntos blanquecinos. Se realizó tomografía de coherencia óptica (OCT) con Stratus OCT-3 (Carl Zeiss Meditec, Dublin, CA), que verificó la presencia de AM, en estadio IV, con diámetro basal de 1.347μm en OD y de 1.409 en OI, con hiperreflectividad en capas internas retinianas y cambios quísticos en los tejidos adyacentes. Tras estudio sistémico (incluida biopsia renal) se diagnosticó de SA, estando el paciente actualmente en hemodiálisis por insuficiencia renal severa, manteniéndose las características del AM.
+Responsable clínico: Rodrigo Rodríguez Gil. Correo Electronico: gilorio_79@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="35" text="Ignacio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="48" end="63" text="Cañizares Roque" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="70" end="77" text="7823673" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="85" end="99" text="28 96457601 34" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="112" end="135" text="C/ Rodriguez Sahagun, 4" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="159" end="165" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="171" end="176" text="28039" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="220" end="230" text="24/12/1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="252" end="258" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="266" end="273" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="280" end="281" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="301" end="311" text="13/06/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T11" start="347" end="354" text="7824373" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="364" end="385" text="Rodrigo Rodríguez Gil" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="394" end="405" text="28 28 41503" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="437" end="442" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="446" end="453" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="576" end="631" text="tres hermanos varones sordomudos y otro con baja visión" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T6" start="965" end="983" text="Carl Zeiss Meditec" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="985" end="991" text="Dublin" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="993" end="995" text="CA" TYPE="TERRITORIO" comment=""/>
+    <NAME id="T4" start="1412" end="1433" text="Rodrigo Rodríguez Gil" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T3" start="1455" end="1477" text="gilorio_79@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

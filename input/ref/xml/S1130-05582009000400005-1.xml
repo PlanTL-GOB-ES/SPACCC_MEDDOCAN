@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Pedro.
+Apellidos: De la sierra Rodriguez.
+NHC: 2879056.
+NASS: 43 90871586 95.
+Domicilio: Calle San Juan de Ribera, 2.
+Localidad/ Provincia: Sevilla.
+CP: 41009.
+Datos asistenciales.
+Fecha de nacimiento: 08/08/1993.
+País: España.
+Edad: 24 años Sexo: H.
+Fecha de Ingreso: 17/05/2018.
+Médico: Daniel Torres Lagares NºCol: 41 41 58796.
+Historia Actual:paciente varón de 24 años de edad que acude a consulta por episodios repetidos de dolor e inflamación en torno al tercer molar inferior izquierdo semiincluido. En la historia clínica no destacan antecedentes médicos de interés, el paciente no sigue ninguna medicación a diario, salvo antibióticos y antiinflamatorios, por el problema actual, no es fumador y se encuentra en perfectas condiciones de salud.
+Exploración física y pruebas complementarias: Después de la exploración clínica, solicitamos como primera prueba diagnóstica una ortopantomografía. En ella podemos observar cómo el cordal en cuestión (38) se halla en íntima relación con el canal del NDI, detectándose signos radiológicos determinados como indicadores claros de alto riesgo de lesión del nervio durante las maniobras de extracción Así, se observan curvaturas en las raíces, un oscurecimiento en torno a los ápices (raíz mesial) y un borramiento de la cortical superior del canal en contacto con la raíz distal.
+Aunque la ortopantomografía nos mostraba una imagen bastante clara, decidimos solicitar una TC para planificar correctamente el caso antes de decidir el procedimiento terapéutico. En las imágenes de la TC verificamos que el contacto entre el cordal y el NDI es real y que, por tanto, el riesgo de dañarlo durante la extracción es alto.
+Ante esta situación, informamos al paciente de la posibilidad de realizar una coronectomía o extracción parcial del tercer molar sintomático. Con esta técnica pretendemos eliminar la clínica causada por la pericoronaritis, ya que conseguimos un cierre directo de la herida y las raíces quedan incluidas, preservando la integridad del NDI.
+El paciente fue informado de la posibilidad de una complicación infecciosa de causa pulpar, lo cual nos obligaría a reintervenir para completar la extracción. La reentrada también sería necesaria si, a largo plazo, se produjera una migración de las raíces, y éstas volvieran a generar clínica de pericoronaritis por exposición. Sólo que, si esto ocurre, probablemente la relación de las raíces con el NDI ya no sería tan clara, ni la extracción, por tanto, tan comprometida.
+Después de obtener el consentimiento informado del paciente, decidimos realizar la coronectomía siguiendo la siguiente técnica quirúrgica : Administración de profilaxis antibiótica. Realización de un incisión en bayoneta y levantamiento de un colgajo de espesor total similar al utilizado para la extracción completa de un cordal. Realización de un corte de la corona con una fresa de fisura desde la tabla vestibular, siguiendo una angulación de aproximadamente 45º. Esta sección es completa para no ejercer fuerza sobre las raíces con los botadores, lo cual requiere ser muy cuidadoso al aproximarnos a la tabla lingual para no lesionar el nervio lingual. Posteriormente se continúa eliminando más tejido dentario, con la misma fresa de fisura o con una fresa redonda accediendo desde la parte superior. Esto último resulta un poco más fácil que con la fresa de fisura. De esta forma, la sección queda, al menos, 3 mm por debajo de las crestas óseas. Con ello se pretende facilitar que el hueso se regenere sobre las raíces y las englobe dentro de la mandíbula. No se debe tratar la superficie radicular expuesta. Finalmente se eliminan los restos de folículo, sin movilizar las raíces, el diente remanente y se sutura la herida con puntos sueltos que se retiran en una o dos semanas. Debemos realizar controles radiológicos al mes, a los seis meses y anualmente.
+Evolución y comentarios: aciente no ha presentado complicación alguna en un año tras la realización de la intervención.
+Remitido por: Daniel Torres Lagares. Facultad de Odontología. Universidad de Sevilla C/ Avicena s/n. 41009 Sevilla. España E-mail: danieltl@us.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="14" text="Pedro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="27" end="49" text="De la sierra Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="56" end="63" text="2879056" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="71" end="85" text="43 90871586 95" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="98" end="125" text="Calle San Juan de Ribera, 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="149" end="156" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="162" end="167" text="41009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="211" end="221" text="08/08/1993" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="229" end="235" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="243" end="250" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="257" end="258" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="278" end="288" text="17/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="298" end="319" text="Daniel Torres Lagares" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="327" end="338" text="41 41 58796" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="365" end="370" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="374" end="381" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="3989" end="4010" text="Daniel Torres Lagares" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="4012" end="4035" text="Facultad de Odontología" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T6" start="4037" end="4059" text="Universidad de Sevilla" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="4060" end="4074" text="C/ Avicena s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="4076" end="4081" text="41009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="4082" end="4089" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4091" end="4097" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="4106" end="4120" text="danieltl@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan.
+Apellidos: Fletes Castillo.
+NHC: 3478056.
+NASS: 85 62602657 31.
+Domicilio:  Calle Arzobispo Raimundo, 6.
+Localidad/ Provincia: Pamplona.
+CP: 31008.
+Datos asistenciales.
+Fecha de nacimiento: 03/04/1961.
+País de nacimiento: España.
+Edad: 55 años Sexo: H.
+Fecha de Ingreso: 06/05/2016.
+Médico: Wenceslao Torre Buxalleu  NºCol: 31 31 44789.
+Informe clínico del paciente: Paciente de 55 años que acudió a urgencias por déficit de agudeza visual (AV) en ojo derecho (OD). La AV era de 0,1 en OD y de 1 en ojo izquierdo con corrección.
+Entre sus antecedentes personales destacaba una trombosis venosa profunda en la pierna derecha 5 años atrás y una hipertensión arterial en tratamiento.
+Carecía de antecedentes familiares trombofílicos conocidos.
+La presión intraocular, biomicroscopía y motilidad ocular eran normales.
+En la oftalmoscopia del OD se apreciaban hemorragias en llama peripapilares, tortuosidad vascular, exudados algodonosos y edema macular. En la angiografía fluoresceínica se confirmó la existencia de una trombosis venosa central edematosa.
+En el estudio básico de coagulación aparecieron unas cifras elevadas de protrombina tisular (1,55 Uml) por lo que se solicitó un estudio de trombofilia que reveló un aumento de la resistencia a la proteína c activada (1,5).
+En el análisis genético se amplificaron mediante PCR fragmentos de ADN que incluían los nucleótidos 1691 del gen del factor V y 20210 del factor II, realizándose posteriormente una electroforesis que identificó la mutación 1691 G-A del factor V y 20210 G-A del factor II.
+El resto del estudio incluyó hemograma, velocidad de sedimentación, bioquímica general y otras causas de hipercoagulabilidad (proteínas S y C, antitrombina III, fibrinógeno, anticuerpos antinucleares, homocisteinemia y anticuerpos antifosfolípido) sin encontrarse hallazgos significativos.
+Se decidió anticoagular al paciente con acenocumarol (sintrom®). Desde el punto de vista oftalmológico no precisó fotocoagulación, ya que no desarrolló isquemias retinianas. La AV del OD permaneció estabilizada en cuenta dedos a 50 cm.
+Responsable clínico: Dr. Wenceslao Torre Buxalleu Servicio de Cirugia Torácica Clínica Universidad de Navarra Avda. Pio XII, 36 31008 Pamplona E-mai.: wtorre@unav.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="32" text="Juan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="45" end="60" text="Fletes Castillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="67" end="74" text="3478056" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="82" end="96" text="85 62602657 31" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="110" end="137" text="Calle Arzobispo Raimundo, 6" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="161" end="169" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="175" end="180" text="31008" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="224" end="234" text="03/04/1961" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="270" end="277" text="55 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="284" end="285" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="305" end="315" text="06/05/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="325" end="349" text="Wenceslao Torre Buxalleu" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="358" end="369" text="31 31 44789" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T7" start="413" end="420" text="55 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2134" end="2158" text="Wenceslao Torre Buxalleu" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2188" end="2218" text="Clínica Universidad de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2219" end="2236" text="Avda. Pio XII, 36" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2237" end="2242" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2243" end="2251" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2260" end="2274" text="wtorre@unav.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

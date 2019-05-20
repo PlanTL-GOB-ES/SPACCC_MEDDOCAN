@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Elio.
+Apellidos: Yovkov.
+NHC: 7834503.
+NASS: 59 47811288 96.
+Domicilio: Plaza Celenque, 3.
+Localidad/ Provincia: Córdoba.
+CP: 08223.
+Datos asistenciales.
+Fecha de nacimiento: 06/09/1977.
+País de nacimiento: España.
+Edad: 68 años  Sexo: H.
+Fecha de Ingreso: 09/06/2018.
+Médico: Carmen Ispa Callén  NºCol: 08 08 45698.
+Paciente de 86 años con mixofibrosarcoma en superficie posterior de muslo derecho, tercio proximal. El Servicio de Cirugía de Tejidos Blandos practicó resección quirúrgica local ampliada con cierre primario, resultando comprometidos los bordes profundo y medial; le practicaron nueva intervención para aplicación de bordes de resección.
+Recibimos después al paciente con un área cruenta de 13 x 10 cm. Procedimos a su cobertura con un colgajo anterolateral de muslo pediculado e injertos de piel parcial de la zona donante. El paciente presentó hematoma postoperatorio por lo que requirió drenaje quirúrgico sin que se produjera sufrimiento del colgajo. Para la trasposición del colgajo realizamos un túnel subcutáneo de comunicación entre el defecto y la zona donante. Es importante tener en cuenta que al hacer esta trasposición nos aseguremos de que el pedículo no sufre algún tipo de torsión ni quede acodado al fijar el colgajo.
+
+Dirección para correspondencia: Dr. Marino Alejandro Cardona González Cirugía Plástica, Grupo Reconstructivo, Instituto Nacional de Cancerología Av. 1a No 9-85 Bogotá, D.C., Colombia e-mail: dr.alejandrocardona@gmail.com

@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Ana.
+Apellidos: Casado Bierzo .
+NHC: 8934793.
+NASS: 98 10567859 06.
+Domicilio: Calle Patricio Andrade, 23.
+Localidad/ Provincia: Madrid.
+CP: 36071.
+Datos asistenciales.
+Fecha de nacimiento: 06/05/1948.
+País de nacimiento: España.
+Edad: 60 años   Sexo: M.
+Fecha de Ingreso: 07/06/2018.
+Médico: Carolina Arruabarrena Sánchez   NºCol: 08 08 56980.
+Varón de 75 años que debuta con un cuadro de dolor abdominal e intolerancia digestiva. La TAC muestra una lesión de 14 x 7 cm de naturaleza quística de probable origen gástrico. La laparotomía confirmó una lesión gástrica extramucosa con gran componente quístico multilocular. Se realizó extirpación de la masa con resección local de espesor total de pared gástrica posterior y posterior cierre de la gastrotomía. El estudio histológico describe una lesión de tipo estromal con transformación multiquística con expresión del gen KIT y CD34 con bajo potencial maligno (1mitosis/50 CGA).
+
+Correspondencia: Dra. E. Marqués Medina C/ Dalmacio García Izcara, 8 - 7º Ctro. E-16004 Cuenca

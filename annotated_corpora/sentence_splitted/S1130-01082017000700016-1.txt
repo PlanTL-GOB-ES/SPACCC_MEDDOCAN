@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Carlos.
+Apellidos: Riera Ortega.
+NHC: 4589429.
+NASS: 89 34657896 35.
+Domicilio: Av/ Rousell, 42.
+Localidad/ Provincia: A Coruña.
+CP: 02006.
+Datos asistenciales.
+Fecha de nacimiento: 08/05/1962.
+País de nacimiento: España.
+Edad: 33 años  Sexo: H.
+Fecha de Ingreso: 10/08/2004.
+Médico: Alfonso Vidal Casariego   NºCol: 51 51 31253.
+Presentamos el caso de un varón de 60 años con historia de pancreatitis aguda biliar leve de repetición ingresado por nuevo episodio de probable origen biliar. Se realiza traslado a Unidad de Cuidados Intensivos tras ocho días ante empeoramiento con fracaso renal oligúrico: leucocitosis 19.940/mm3, acidosis metabólica (pH 7,3; exceso de bases -4 mmol/l; bicarbonato 21,6 mmol/l), lactato 2,2 mmol/l, creatinina 2,1 mg/dl.
+Evoluciona en siete días a pancreatitis necrotizante con múltiples colecciones extrapancreáticas, por lo que se realiza drenaje percutáneo de la colección de mayor tamaño, de evolución tórpida en los siguientes días con tomografía computarizada (TC) de control sin mejoría. Tiene lugar un empeoramiento progresivo, y el paciente presenta fracaso multiorgánico e inestabilidad hemodinámica (hemoglobina 6,8 mg/dl, pH 7,1, lactato 13,2 mmol/l) y presión intraabdominal mantenida de 21-22 mmHg. Se realiza TC urgente, que evidencia extensa necrosis pancreática y colecciones con focos hemorrágicos agudos hasta transcavidad de los epiplones que ocasiona gran compresión gástrica y hepática con infartos viscerales. Se realiza laparotomía urgente, con evacuación de gran hematoma expansivo y necrosectomía amplia, incluyendo la práctica totalidad de la glándula pancreática. Se produce shock séptico y fallo multiorgánico refractario. El paciente fallece a los 20 días de ingreso.
+Dirección para correspondencia: Héctor Parra-Riffo Unidad de Nefrología Hospital Clínico Fuerza Aérea de Chile Av. Las Condes 8631 7560171, Santiago de Chile, Chile hector14@mac.com

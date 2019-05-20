@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Guillermo.
+Apellidos: Moreno Diaz.
+NHC: 72030434.
+NASS: 28 13467598 21 .
+Domicilio: Calle Ollerías, 40.
+Localidad/ Provincia: Málaga.
+CP: 29001.
+Datos asistenciales.
+Fecha de nacimiento: 15/08/1944 .
+País: España.
+Edad: 73 años Sexo: H.
+Fecha de Ingreso:  21/12/2017 .
+Especialidad:Cardiologia.
+Episodio: 632632225.
+Médico: Jose Miguel Mora Ordóñez  NºCol:29 29 03549.
+Motivo de ingreso: síndrome coronario agudo con elevación del segmento ST (SCACEST).
+Antecedentes: fumador de 55 paquetes de cigarrillos al año, sin alergias medicamentosas conocidas y sin tratamiento previo alguno.
+Historia Actual: Paciente varón de 73 años, Ingresó por un síndrome coronario agudo con elevación del segmento ST (SCACEST), complicado a las 72 horas con angina postinfarto. 
+Resumen de pruebas complementarias: Se le realizó un estudio hemodinámico que reveló una obstrucción del 90% de la arteria coronaria derecha (CD), del 70% en descendente anterior (DA), del 90% en la primera diagonal, del 70% en la bisectriz y del 70% en la circunfleja (CX). En el cateterismo se observó una fracción de eyección del 75% con una presión telediastólica ventricular izquierda normal. En sesión médico-quirúrgica se aceptó al paciente para cirugía, instaurándose tratamiento con carvedilol, captopril, amlodipino, simvastatina y ácido acetilsalicílico. A los 30 días, se realizó una revascularización miocárdica programada mediante injertos de vena safena a CD y a diagonal y de arteria mamaria a DA, durante el procedimiento se empleó un tiempo de CEC de 112 minutos, un tiempo de isquemia de 76 minutos y se alcanzó una hipotermia de 29º C. Se indujo la anestesia con etomidato y cisatracurio y se mantuvo con midazolam (5-7,5 mg/hora), cisatracurio (2,5-5 mg/hora), y remifentanilo (0,01-0,02 µg. kg-1. min-1). Se utilizó derivación cardiopulmonar habitual con flujo pulsátil. La actividad de la heparina fue antagonizada con protamina. La salida de bomba fue normal, y no hubo incidencias intraoperatorias.
+A su ingreso en la Unidad de Cuidados Intensivos, mostró los siguientes parámetros hemodinámicos: tensión arterial media (TAM) de 77 mmHg, con perfusión de dobutamina a 4,5 µg. kg-1. min-1, frecuencia cardíaca de 80 l/min, presión de arteria pulmonar de 31/20 mmHg, PVC de 18 mmHg y PCP de 16 mmHg. El gasto cardíaco (GC) era 6,8 l/min, con un índice (IC) de 3,35 l/min/m2.
+Evolución y comentarios: En apenas 2 horas de evolución, el paciente presentó deterioro hemodinámico, con hipotensión marcada pese a añadir perfusión de noradrenalina a 0,4 µg. kg-1. min-1. y aumentar la dosis de dobutamina hasta 8 µg. kg-1.min-1. Mantuvo la diuresis, permaneció afebril y bien adaptado a ventilación máxima. Los drenajes mediastínicos fueron de escasa cuantía. La radiología simple de tórax no mostró imágenes de condensación parenquimatosa, el catéter Swan-Ganz estaba en posición correcta y no presentó cambios en el electrocardiograma (ECG).
+Se administraron 2.200 cc entre cristaloides y coloides en una hora, es decir, unos 30 ml/kg (peso: 70 kg) y se incrementó la perfusión de noradrenalina por encima de 0,5 µg. kg-1. min-1, sin apreciarse respuesta alguna. La perfusión de dobutamina se mantuvo a las mismas dosis. La sedación se realizó con bajas dosis de midazolam. Un control ecocardiográfico descartó otras complicaciones. La temperatura central era 35º C y no se produjo un recalentamiento precoz, con arreglo a la pauta habitual. Ante la presencia de datos compatibles con vasoplejía postoperatoria refractaria al tratamiento, se decidió utilizar azul de metileno. No obstante se extrajeron hemocultivos que resultaron negativos. Además de solicitar los consentimientos correspondientes, se informó a los familiares del uso de esta medicación.
+Los parámetros hemodinámicos medidos con el catéter de arteria pulmonar antes y en varios momentos tras la infusión del azul de metileno se expresan en la tabla 1. Se apreció una respuesta hemodinámica espectacular a la hora de la infusión, que se mantuvo en el tiempo. Permitió la retirada de noradrenalina, normalizándose la TAM y aumentando las resistencias vasculares sistémica (RVS) y pulmonar (RVP). No se registraron cambios en la gasometría arterial.
+El azul de metileno se administró en dosis de 2 mg/kg diluidos en 250 cc de suero glucosado al 5%, a pasar en 60 minutos.
+No observamos ningún efecto adverso de interés, salvo la tinción de la orina. No hubo fracaso renal, manteniendo valores normales de urea y creatinina y diuresis conservada. Los niveles de hemoglobina no presentaron cambios y no presentó alteraciones en la coagulación ni fallo hepático. El nivel de metahemoglobinemia no se determinó, si bien este efecto adverso, como los demás, están descritos con el uso de dosis muy superiores a las que empleamos en nuestro caso.
+Tras la estabilización del paciente fue extubado a las 24 horas de su ingreso, prolongándose el alta de forma preventiva hasta las 72 horas, sin que surgieran nuevas complicaciones. El alta hospitalaria se produjo 11 días más tarde y no se observaron complicaciones tardías.
+Remitido por: Dr. Jose Miguel Mora Ordóñez. Urbanización Pinos de Alhaurín. Avda. Andalucía, 146. 29130 Alhaurín de la Torre, Málaga. España. Correo electrónico: jomi111975@hotmail.com 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="9" end="18" text="Guillermo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="31" end="42" text="Moreno Diaz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="49" end="57" text="72030434" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="65" end="79" text="28 13467598 21" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="93" end="111" text="Calle Ollerías, 40" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="135" end="141" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="147" end="152" text="29001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="196" end="206" text="15/08/1944" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="215" end="221" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="229" end="236" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="243" end="244" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="265" end="275" text="21/12/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T13" start="314" end="323" text="632632225" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T12" start="333" end="357" text="Jose Miguel Mora Ordóñez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="365" end="376" text="29 29 03549" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="620" end="625" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="629" end="636" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="3706" end="3716" text="familiares" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="5088" end="5112" text="Jose Miguel Mora Ordóñez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="5114" end="5166" text="Urbanización Pinos de Alhaurín. Avda. Andalucía, 146" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="5168" end="5173" text="29130" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="5174" end="5194" text="Alhaurín de la Torre" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="5196" end="5202" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="5204" end="5210" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="5232" end="5254" text="jomi111975@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

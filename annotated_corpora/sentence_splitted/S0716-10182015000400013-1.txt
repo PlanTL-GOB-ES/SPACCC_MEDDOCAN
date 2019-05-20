@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Encarnación de Jesus.
+Apellidos: Cruz Garcia.
+NHC: 40765356.
+NASS: 24 55346435 15.
+Domicilio: Calle portera del cura 19. 4 Izq..
+Localidad/ Provincia: Albacete.
+CP: 28040.
+Datos asistenciales.
+Fecha de nacimiento: 28/02/1950.
+País de nacimiento: España.
+Edad: 68   Sexo: Mujer.
+Fecha de Ingreso: 10/06/2016.
+Servicio: Oftalmología.
+Médico: Carolina Arias Rombolá  NºCol: 50 50 33654.
+Lactante de cuatro meses, de sexo femenino, consultó en el Servicio de Urgencia Pediátrico (SUP) del Hospital Militar de Santiago (HMS) por presentar deposiciones líquidas con sangre de un día de evolución. La familia refirió que la mascota familiar era una tortuga acuática cuyo acuario se aseaba en el lavaplatos. No hubo otros miembros de la familia afectados.
+Al momento de su ingreso, tenía un hemograma con 11,900 leucocitos/mm3; 41,6% neutrófilos, VHS 32 mm/h y PCR 50,4 mg/L. La ecografía abdominal fue normal. Los leucocitos fecales fueron positivos y los hemocultivos, negativos, Hubo desarrollo de Salmonella grupo C1 en el coprocultivo. La cepa fue enviada al ISP según norma ministerial vigente.
+Correspondencia a: Stephanie Braun Jones stbraunj@gmail.com

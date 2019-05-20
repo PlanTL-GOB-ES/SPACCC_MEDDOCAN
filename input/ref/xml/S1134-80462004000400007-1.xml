@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Ana.
+Apellidos: Pacual Jaime .
+NHC: 8173456.
+NASS: 43 75615775 06.
+Domicilio: Paseo Santa Engracia, 14.
+Localidad/ Provincia: Barcelona.
+CP: 08162.
+Datos asistenciales.
+Fecha de nacimiento: 06/09/1937.
+País de nacimiento: España.
+Edad: 75 años Sexo: M.
+Fecha de Ingreso: 15/09/2012.
+Médico: Ivan Domenech Juan  NºCol: 08 08 57989.
+Informe clínico del paciente:  mujer de 75 años de edad con antecedentes de DM tipo II a tratamiento con insulina con complicaciones crónicas como polineuropatía, HTA en tratamiento y obesa, que se programa para cirugía de PTR (prótesis total de rodilla). En los datos preoperatorios no hay nada reseñable aparte de lo descrito, la técnica anestésica fue un procedimiento combinado epidural/intradural a nivel L3-L4, a través de la aguja intradural se administran 3 ml de bupivacaína 0,5% sin vasoconstrictor y se dejó colocado un catéter epidural para analgesia postoperatoria. El postoperatorio transcurrió sin incidencias y subió a la planta con una PCAE (PCA epidural) cargada con bupivacaína al 0,125 y fentanilo 4 microgramos por ml, con una programación de 3 ml.h-1, bolos 3 ml cada 30 minutos. A las 4 a.m. aproximadamente se produce el cambio de PCA provocándose el error y administrando por vía epidural una PCA con medicación y programación para vía i.v. (en 100 ml, 50 mg de morfina más 10 g de metamizol).
+Al pasar la visita diaria de la UDAP, la enfermera de dicha unidad detecta el error. La paciente está consciente y orientada con excelente analgesia, sin datos de depresión respiratoria, alteraciones neurológicas, ni otros efectos secundarios. La cantidad de fármaco administrado fue de 4 mg de morfina y 160 mg de metamizol. Se retira dicha PCA y el catéter y se procede al ingreso en la Unidad de Reanimación para control y seguimiento, donde la paciente no presentó ningún efecto secundario y se mantuvo estable en todo momento, con lo que 24 h más tarde es dada de alta a planta y a las 2 semanas es dada de alta a su domicilio, previa revisión por el anestesiólogo. Se llevó a cabo un seguimiento periódico de hasta 18 meses sin ninguna incidencia.
+Responsable clínico: Dr. Ivan Domenech Juan. c/ Ibería nº 11 3-2ª 08014 Barcelona
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="28" end="31" text="Ana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="44" end="56" text="Pacual Jaime" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="64" end="71" text="8173456" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="79" end="93" text="43 75615775 06" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="106" end="130" text="Paseo Santa Engracia, 14" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="154" end="163" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="169" end="174" text="08162" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="218" end="228" text="06/09/1937" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="250" end="256" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="264" end="271" text="75 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="278" end="279" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="299" end="309" text="15/09/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="319" end="337" text="Ivan Domenech Juan" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="390" end="395" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="399" end="406" text="75 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="2157" end="2175" text="Ivan Domenech Juan" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="2177" end="2197" text="c/ Ibería nº 11 3-2ª" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="2198" end="2203" text="08014" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2204" end="2213" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

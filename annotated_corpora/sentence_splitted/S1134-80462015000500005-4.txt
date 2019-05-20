@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Lucia.
+Apellidos: Bustamante Romero.
+NHC: 3496345.
+NASS: 36 56247891 65.
+Domicilio: Calle Veguellina, 3.
+Localidad/ Provincia: Toledo.
+CP: 30002.
+Datos asistenciales.
+Fecha de nacimiento: 04/06/1981.
+País: España.
+Edad: 11 años  Sexo: M.
+Fecha de Ingreso: 03/05/2015.
+Médico: Yolanda Ares Valdés  NºCol: 08 08 54963.
+Mujer de 51 años que presenta varias manchas cutáneas extensas en la región dorsal de espalda, de cuatro años de duración. Refiere sensación leve de picor en dichas zonas, sobre todo en épocas de calor. Se le practicó biopsia de piel de una de ellas, siendo compatible con un infiltrado crónico perivascular junto a melanófagos en la dermis superficial y leve hiperpigmentación de la capa basal de la epidermis. Fue Rojo Congo negativo. No se pudo practicar RMN por padecer claustrofobia. No requirió tratamiento.
+
+Dirección para correspondencia: José M.a Gómez Argüelles Servicio de Neurología Hospital General Virgen de la Luz C/ Hermandad Donantes de Sangre, s/n 16002 Cuenca e-mail: jmgarguelles@yahoo.es

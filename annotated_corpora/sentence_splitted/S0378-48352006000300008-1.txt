@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Ramón.
+Apellidos: Benitez Marañón.
+NHC: 7136383.
+NASS: 48 57180569 87.
+Domicilio: C/ República Argentina, 8, 5 D.
+Localidad/ Provincia: Huelva.
+CP: 21006.
+Datos asistenciales.
+Fecha de nacimiento: 07/07/1938.
+País de nacimiento: España.
+Edad: 77 años Sexo: H.
+Fecha de Ingreso: 09/11/2015.
+Médico: Diego Vicente Baz NºCol: 21 21 54789.
+Informe clínico del paciente: Varón de 77 años de edad, sin antecedentes de interés. Consulta por enrojecimiento de la piel en tercio superior del tórax y parte proximal de ambos miembros junto con debilidad muscular proximal en brazos y piernas, eritema en heliotropo en párpados y pápulas violáceas en los nudillos de ambas manos, de un mes de evolución. Se realiza analítica destacando creatinkinasa 736 UI, LDH 545 UI, urea 63 mg/dl, CA 19.9 64,1 U/ml. Electromiograma: Hallazgos compatibles con proceso miopático inflamatorio. Biopsia muscular: Cambios inflamatorios compatibles con dermatomiositis. Con el diagnóstico de dermatomiositis se inicia tratamiento con prednisona 60 mg/día y estudio: TAC toracoabdominal: Masa pancreática de 6 cm y lesiones hipodensas hepáticas. Punción-biopsia hepática: Adenocarcinoma. Se remite a Oncología. Tras 8 semanas de corticoides, sin mejoría de las lesiones cutáneas ni de la debilidad muscular, y ante el diagnóstico de adenocarcinoma pancreático en estadio IVB por metástasis hepáticas comenzamos tratamiento con gemcitabina 1250 mg/m2 días 1 y 8 cada 21. Tras 2 ciclos de tratamiento se documenta resolución completa de las lesiones cutáneas, normalización de las enzimas musculares y recuperación de la fuerza. Actualmente el paciente se mantiene asintomático tras 6 ciclos de tratamiento y con respuesta menor del 50% de su enfermedad de base.
+Responsable clínico: Dr. Diego Vicente Baz Unidad de Oncología Médica Hospital Juan Ramón Jiménez Avda. Ronda Norte, s/n E-21006 Huelva dvicentebaz@yahoo.es

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: RosauRO Matias.
+Apellidos: Acardi Vicuña.
+NHC: 2708566.
+Domicilio: Hipolito Yrigoyen 1592, Capital Federal.
+Localidad/ Provincia: Buenos Aires.
+CP: 1089.
+Datos asistenciales.
+Fecha de nacimiento: 13/03/2008.
+País: Argentina.
+Edad: 10 años Sexo: Masculino.
+Fecha de Ingreso: 27/04/2018.
+Servicio: Cirugía Buco-maxilofacial.
+Médico: Antonio Lombardi.
+Historia Actual:Paciente de sexo masculino, de 10 años de edad, derivado al Servicio de Cirugía Buco-maxilofacial del Hospital Piñero para ser valorado por un aumento de volumen en región de ángulo mandibular derecho de dos semanas de evolución; sin antecedentes médicos de interés La tumefacción era no dolorosa a la palpación y no había relato de parestesia.
+Exploración física: Al examen intraoral se apreció abombamiento de la tabla vestibular y lingual del maxilar inferior. Las piezas dentarias se observaban sanas y sin movilidad; la mucosa de aspecto normal.
+Resumen de pruebas complementarias: Radiográficamente se observó una lesión radiolúcida, unilocular de bordes escleróticos. También se evidenció reabsorción radicular de la pieza 37.
+Evolución y comentarios:El resultado de la biopsia fue fibroma osificante, por lo cual se programó la enucleación de la lesión bajo anestesia general. La anatomía patológica confirmó el resultado de fibroma osificante.
+El último control clínico-radiográfico se efectuó a los ocho meses, con una evolución buena y una evidencia radiográfica de neoformación ósea, y aumento de grosor de la basal mandibular. El paciente permanece en seguimiento para descartar recidiva del tumor.
+Remitido por: Dr. Antonio Lombardi Servicio de Cirugía y Traumatología Buco-Máxilo-Facial Hospital General de Agudos P. Piñero Varela 1301 (Flores) c.p: 1406. Buenos Aires. Argentina
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="8" end="22" text="RosauRO Matias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="35" end="48" text="Acardi Vicuña" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="55" end="62" text="2708566" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T17" start="75" end="97" text="Hipolito Yrigoyen 1592" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="99" end="114" text="Capital Federal" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="138" end="150" text="Buenos Aires" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="156" end="160" text="1089" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="204" end="214" text="13/03/2008" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="222" end="231" text="Argentina" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="239" end="246" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="253" end="262" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="282" end="292" text="27/04/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="339" end="355" text="Antonio Lombardi" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="390" end="399" text="masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="404" end="411" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T7" start="475" end="490" text="Hospital Piñero" TYPE="HOSPITAL" comment=""/>
+    <NAME id="T8" start="1603" end="1619" text="Antonio Lombardi" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1675" end="1711" text="Hospital General de Agudos P. Piñero" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1712" end="1723" text="Varela 1301" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="1725" end="1731" text="Flores" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1738" end="1742" text="1406" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1744" end="1756" text="Buenos Aires" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1758" end="1767" text="Argentina" TYPE="PAIS" comment=""/>
+  </TAGS>
+</MEDDOCAN>

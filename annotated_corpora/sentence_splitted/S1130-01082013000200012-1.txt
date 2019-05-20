@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Maritza.
+Apellidos: Huerta Betanco.
+NHC: 7385609.
+NASS: 22 67134651 89.
+Domicilio: C/ Laskorain, 2, 1A.
+Localidad/ Provincia: Pamplona.
+CP: 31224.
+Datos asistenciales.
+Fecha de nacimiento: 05/04/1977.
+País de nacimiento: España.
+Edad: 51 años  Sexo: H.
+Fecha de Ingreso: 03/10/2009.
+Médico: Antón Cabarcos Ortiz de Barrón  NºCol: 03 28 57910.
+Mujer de 66 años que presenta desde hace un año episodios intermitentes de melenas. Estudio inicial con EDA y colonoscopia normal. Ingresa por nuevo episodio de melenas y anemización. Se realiza de nuevo EDA y colonoscopia, así como tránsito intestinal seguido de cápsula endoscópica (CE) sin hallazgos reseñables. Ante el diagnóstico clínico de HDOO se solicita angioTAC: "lesión sólida hipercaptante de 3,3 x 4,4 x 4,3 cm con crecimiento exofítico desde la luz de un asa yeyunal, con hipertrofia vascular de los vasos nutricios que drenan directamente a ramas arteriales mesentéricas, sugerente de GIST, sin evidencia de adenopatías". La paciente es intervenida: resección segmentaria de yeyuno medio. Estudio histológico e inmunohistoquímico: GIST de bajo grado de malignidad: tamaño < 5 cm, < 1 mitosis/10 campos de gran aumento, diferenciación muscular e índice proliferativo < 1 %, medido con el anticuerpo monoclonal KI67. La resección completa del tumor sin afectación metastásica determina la ausencia de necesidad de tratamiento farmacológico posterior con inhibidores de la tirosin quinasa (imatinib). Tres meses después, la paciente se encuentra asintomática.
+Dirección para correspondencia: ramosmurg@gmail.com zanzebaztian@hotmail.com (M. Ramos-Murguialday)

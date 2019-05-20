@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Laila.
+Apellidos: Castillo Vidal .
+NHC: 3480957.
+NASS: 76 34647986 53.
+Domicilio: Av. Corrientes 965, CABA, .
+Localidad/ Provincia: Madrid.
+CP: 28032.
+Datos asistenciales.
+Fecha de nacimiento: 15/11/2010.
+País: Argentina.
+Edad: 38 años  Sexo: H.
+Fecha de Ingreso: 04/05/2018.
+Médico: Ivan Olano Grasa   NºCol: 28 28 61490.
+Varón de 44 años que inició hemodiálisis a los 20 años (1978) a través de una FAV radiocefálica izquierda por una glomerulonefritis rápidamente progresiva. Durante el transcurso de su enfermedad recibió 2 trasplantes renales. En 1996 se realizó una nueva FAV radiocefálica en la extremidad contralateral por trombosis de la previa. En el 2003 se detectó un AAH verdadero asintomático de 6 cm de diámetro, confirmado mediante arteriografía. Se practicó resección aneurismática e interposición de la vena safena interna invertida extraída del miembro inferior izquierdo. Dos años más tarde se detectó una dilatación aneurismática de 4,5 cm del injerto venoso, reparado mediante interposición de prótesis de PTFE. Durante el seguimiento no se detectaron otras complicaciones, siendo exitus en el 2009 por un carcinoma renal metastásico de células claras.
+
+Correspondencia a: Antonio G Tristano mjtristano@cantv.net

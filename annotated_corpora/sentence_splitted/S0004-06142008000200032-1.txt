@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Paula.
+Apellidos: Melquiades Ramos.
+NHC: 925546.
+NASS: 38 65974897 56.
+Domicilio: Av. Duque de Pastrana 86, 3, B.
+Localidad/ Provincia: Zaragoza.
+CP: 36001.
+Datos asistenciales.
+Fecha de nacimiento: 13/05/1955.
+País: España.
+Edad: 39 años  Sexo: H.
+Fecha de Ingreso: 23/02/2018.
+Médico: Pablo Sánchez Acedo    NºCol: 07 07 55601.
+Paciente varón de 8 años de edad, afecto de vejiga neurógena no neurógena y reflujo vesicoureteral bilateral de alto grado, que fue tratado mediante nefrectomía izquierda, reimplante ureteral derecho y una vesicostomía cutánea posterior, entre los 3 y los 6 meses de edad. A los 7 años inició cateterismo intermitente, se cerró la vesicostomía y se le practicó una enterocistoplastia. En el control a los 6 meses de la intervención se apreció un reflujo nuevo, de bajo grado, que se decidió tratar endoscópicamente. Se inyectó Deflux® debajo y a lo largo del túnel submucoso del Cohen previo. En el control subsiguiente persistía el reflujo, y se decidió practicar una nueva punción. En la cistoscopia sorprendió el hallazgo de un orificio en el tercio medio del uréter que ocasionaba el reflujo. La punción iterativa de Deflux® bajo este orificio, que actuaba como "shunt", permitió corregir el reflujo.
+
+Dirección para correspondencia: J. Rodó Salas Sección de Urología Pediátrica Hospital Sant Joan de Déu Passeig Sant Joan de Déu, 2 08950 Esplugues. Barcelona. (España). jrodo@hsjdbcn.org

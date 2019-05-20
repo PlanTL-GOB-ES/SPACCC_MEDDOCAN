@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Nora .
+Apellidos: Ferrer Andrade.
+NHC: 756394.
+NASS: 07 81346557 28.
+Domicilio: Carrera 43A calle 9.
+Localidad/ Provincia: Madrid.
+CP: 02023.
+Datos asistenciales.
+Fecha de nacimiento: 26/07/1944.
+País de nacimiento: España.
+Edad: 73 años  Sexo: Masculino.
+Fecha de Ingreso: 25/07/2016.
+Médico: Manuel Ortega Calvo  NºCol: 20 20 54770.
+Presentamos a una mujer de 88 años con polimialgia reumática en tratamiento con corticoides orales (prednisona 30 mg/24 h) que fue ingresada en nuestro centro por disfagia, odinofagia y astenia de dos semanas de evolución. Algunos días antes del ingreso, la paciente había aquejado un episodio de dolor torácico atípico irradiado a cuello, con estudio cardiológico normal. Un día tras el ingreso presentó hematemesis sin inestabilidad hemodinámica ni anemia. Se le efectuó una endoscopia digestiva alta, mostrando un orificio parcialmente cubierto de fibrina con un final aparentemente ciego, localizado en el esófago cervical. Se tomaron biopsias de los bordes. Se hicieron un esofagograma y una tomografía computarizada, que mostraron una fístula en cara lateral del esófago cervical, en comunicación con una pseudocavidad que se rellenaba con el contraste oral (en el esofagograma). Las biopsias mostraron la presencia del efecto citopático característico del CMV. Una vez se estableció el diagnóstico de infección por CMV, se comenzó tratamiento con valganciclovir (900 mg/12 h), reduciendo la dosis de prednisona. La paciente experimentó una mejoría clínica significativa en pocos días. Doce semanas después se le sometió a una nueva endoscopia, donde se observó una curación completa de la fístula.
+Dirección para correspondencia: Correo electrónico: arantxa.ambg@gmail.com (Arantxa Andújar Mateos).

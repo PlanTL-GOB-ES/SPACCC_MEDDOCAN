@@ -1,0 +1,21 @@
+Nombre: Andres Manuel.
+Apellidos: Cruz Moya.
+NASS: 94 68716451 52 .
+Domicilio: Avenida san francisco 13, 2A.
+Localidad/ Provincia: Madrid.
+CP: 08226.
+NHC: 5789265.
+Datos asistenciales.
+Fecha de nacimiento: 06/07/1965.
+País: España.
+Edad: 42 años  Sexo: M.
+Fecha de Ingreso: 28/10/2017.
+Especialidad: Ginecologia.
+Médico: David Crespo Marcos  NºCol: 31 48 97565.
+Paciente de 69 años de edad procedente de Guinea que llevaba un mes en España. Acudió a su médico de atención primaria por presentar desde hace un tiempo un cuadro de tos con expectoración, malestar general, mialgias, prurito intenso y fiebre (que no se objetiva en la consulta). La exploración física es normal. Se remiten muestras al laboratorio para bioquímica básica y hemograma. Sólo son destacables una ligera anemia 11,3 g/dL de hemoglobina y eosinofilia 2,6*1.000/ml. En la revisión de la extensión de sangre teñida con Giemsa se observaron microfilarias envainadas.
+
+Dadas las diferencias de periodicidad de aparición de las microfilarias en sangre periférica (diurna y nocturna), se decidió ingresar a la paciente para tomar una segunda muestra de sangre que confirmase el diagnóstico de filariasis. En la segunda muestra de sangre periférica, tras concentración de Knott y tinción con Giemsa, se observaron microfilarias envainadas y sin envainar.
+
+Se remitió la muestra al Centro Nacional de Microbiología, donde se identificaron como Loa loa y Mansonella perstans. Se inició un tratamiento con dietilcarbamicina 6 mg en dosis única y 100 mg de mebendazol cada 12 horas durante 30 días bajo supervisión médica los primeros días en previsión de una posible reacción de Herxheimer. La evolución fue buena, con disminución de la cifra de eosinófilos, mejoría del prurito y desaparición de las microfilarias en sangre periférica.
+
+Dirección para correspondencia: Alberto Gil-Setas Servicio de Microbiología Hospital de Navarra Irunlarrea, 3 31008 Pamplona E-mail: agilseta@navarra.es

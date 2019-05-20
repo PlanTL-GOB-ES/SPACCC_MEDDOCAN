@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Matilde.
+Apellidos: Gonzalez Bravo.
+NHC: 4758965.
+NASS: 40 95672890 23.
+Domicilio: C/ Carlos lll, 5, A.
+Localidad/ Provincia: Valencia.
+CP: 08013.
+Datos asistenciales.
+Fecha de nacimiento: 13/06/1961.
+País: España.
+Edad: 5 años  Sexo: H.
+Fecha de Ingreso: 31/05/2013.
+Médico: Paula Ortiz Ballujera  NºCol: 28 28 69852.
+Se trata de un varón de 65 años, con diabetes mellitus tipo 2 como único factor de riesgo para el desarrollo de absceso hepático (1). Por este motivo ingresó en mayo de 2012 en nuestro hospital, aislándose Klebsiella pneumoniae que se trató con 2 semanas de tratamiento antiobiótico intravenoso (piperazilina-tazobactam) y drenaje percutáneo vía ecográfica. Diez meses después volvió a presentar un nuevo absceso hepático por el mismo microorganismo en la misma localización, resuelto igualmente de forma conservadora.
+Dado que abscesos hepáticos pueden tener como origen un foco neoplásico a nivel colónico (1,2), solicitamos una colonoscopia que puso de manifiesto un adenoma tubulovelloso colónico con displasia de alto grado. De las biopsias del adenoma se practicó un cultivo, consiguiéndose aislar Klebsiella pneumoniae de un biotipo similar a la aislada en el cultivo del absceso. Tras siete meses de finalizar el tratamiento del absceso y cinco de extirpar endoscópicamente el pólipo el paciente continúa asintomático.
+Dirección para correspondencia C. de S. Alcalá de Guadaira 'A'. C/ Eugenio Noel s/n. 41500 Alcalá de Guadaira. Sevilla. España   e-mail: jponceg28@enfermundi.com

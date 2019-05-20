@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Sandra.
+Apellidos: Rianxo Paz.
+NHC: 6257833.
+Domicilio: Av. Rios rosas 26, 7E.
+Localidad/ Provincia: Bilbao.
+CP: 49238.
+Datos asistenciales.
+Fecha de nacimiento: 21/08/2001.
+País: España.
+Edad: 32 años  Sexo: H.
+Fecha de Ingreso: 05/05/2018.
+Médico: Gracia María García Lara  NºCol: 29 29 83404.
+Niña de 6 años de edad que presentó una esofagitis y gastritis graves tras ingesta de cáusticos (lavavajillas industrial). En un mes presentó una estenosis grave esofágica, con perforación puntiforme ante la dilatación que se manejó de forma conservadora. A los 4 meses de la ingesta se reiniciaron dilataciones esofágicas y antrales por estenosis puntiforme, consiguiéndose la resolución de la estenosis gástrica tras 6 dilataciones pero persistiendo la esofágica tras 9 intentos. Se colocó una gastrostomía endoscópica percutánea (PEG). A los 10 meses de la ingesta se colocó una prótesis biodegradable ELLA de 16 mm de diámetro x 6 cm de longitud (encargada a medida). No hubo problemas técnicos en la colocación de la prótesis.
+En el seguimiento presentó dolor torácico durante los primeros 4 meses que mejoró con aumento de la dosis de inhibidores de la bomba de protones y analgésicos. Así mismo se produjo una estenosis por crecimiento de tejido hiperplásico proximal que se dilató en tres ocasiones resolviéndose de forma completa. La estenosis distal recidivó a los 4 meses (tiempo que tardó en degradarse a prótesis) requiriendo de nuevo dilataciones. A los nueve meses de la colocación de la prótesis se colocó mitomicina en dos sesiones, siendo muy efectiva, pues tras 18 meses permanece con ingesta oral sólida y sin estenosis evidente en las gastroscopias. La mitomicina C consiguió aumentar el periodo interdilatación de 3-4 semanas a 24 semanas actualmente.
+Dirección para correspondencia: Fernando Alberca de las Parras. Unidad de Gestión Clínica Digestivo. Unidad de Endoscopias. Hospital Clínico Universitario Virgen de la Arrixaca. Ctra. Madrid-Cartagena, s/n. 30120 El Palmar. Murcia. e-mail: alberca.fernando@gmail.com

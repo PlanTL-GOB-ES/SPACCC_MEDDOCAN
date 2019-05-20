@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Carmen.
+Apellidos: Mercado Paz.
+NHC: 3956384.
+NASS: 89 34657896 35.
+Domicilio: C/ Moliner, 23.
+Localidad/ Provincia: Barakaldo.
+CP: 20101.
+Datos asistenciales.
+Fecha de nacimiento: 17/05/1947.
+País de nacimiento: España.
+Edad: 68 años Sexo: H.
+Fecha de Ingreso: 04/08/2015.
+Médico: Ane Mujika López  NºCol: 20 20 56890.
+Informe clínico del paciente: Mujer de 68 años, cuyo único antecedente de interés es anemia ferropénica estudiada por Gastroenterología desde mayo de 2013, sin antecedentes nefrológicos. Tras anemización progresiva (hemoglobina 6,5g/dl), se remitió a centro hospitalario para transfusión de concentrado de hematíes, observándose reacción postransfusional y deterioro de la función renal progresivo, alcanzando niveles de creatinina máxima de 7,67mg/dl, urea 171mg/dl y oligoanuria. Se decidió ingreso en el Servicio de Nefrología, donde se realizó estudio completo y se observaron valores de hemoglobina de hasta 4,2mg/dl, LDH de 997UI/l, bilirrubina indirecta de 1,1mg/dl, reticulocitos 2,9%, haptoglobina de 36,40mg/dl y en el frotis sanguíneo: anisopoiquilocitosis con policromasia. En tira reactiva de orina se observó hematuria y piuria. Los datos sugirieron anemia hemolítica intravascular de origen autoinmune por incompatibilidad sanguínea.
+Se consultó con el Servicio de Hematología, que informó de la presencia de anticuerpos irregulares de especificidad anti-Tja a título de 1/16. Estos resultados son compatibles con la ausencia de un antígeno de alta incidencia en la población general, el antígeno P. Durante el ingreso la función renal fue mejorando. Requirió varias sesiones de hemodiálisis, tratamiento de soporte con sueroterapia intensa y alcalinización, y tratamiento para su anemia con eritropoyetina y hierro intravenoso, transfusión de cuatro concentrados de hematíes. Actualmente presenta una creatinina de 0,3mg/dl y una hemoglobina de 10,6g/dl.
+Responsable clínico: Ane Mujika López, Servicio de Nefrología, Hospital Universitario de Cruces, Barakaldo, Vizcaya E-mail: ane.mujikalopez@osakidetza.net E-mail: ane.mujikalopez@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="34" text="Carmen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="58" text="Mercado Paz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="65" end="72" text="3956384" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="80" end="94" text="89 34657896 35" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T1" start="107" end="121" text="C/ Moliner, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="145" end="154" text="Barakaldo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="160" end="165" text="20101" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="209" end="219" text="17/05/1947" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="241" end="247" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="255" end="262" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="269" end="270" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="290" end="300" text="04/08/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="310" end="326" text="Ane Mujika López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="335" end="346" text="20 20 56890" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="378" end="383" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="387" end="394" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="490" end="502" text="mayo de 2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="1940" end="1956" text="Ane Mujika López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1982" end="2014" text="Hospital Universitario de Cruces" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="2016" end="2025" text="Barakaldo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2027" end="2034" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="2043" end="2073" text="ane.mujikalopez@osakidetza.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T4" start="2082" end="2107" text="ane.mujikalopez@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

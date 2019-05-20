@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Francisca.
+Apellidos: Martinez Rivera.
+NHC: 3746531.
+NASS: 89 46587920 56.
+Domicilio: C/ Principe Felipe, 96, 3 A.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 13/04/1946.
+País de nacimiento: España.
+Edad: 66 años Sexo: H.
+Fecha de Ingreso: 21/08/2012.
+Médico: Jennifer Millán Rodríguez NºCol: 28 28 65690.
+Informe clínico del paciente: .
+Mujer de 66 años de edad remitida a nuestro Servicio por clínica de uveítis en ojo derecho desde hacía un año. La paciente refería disminución de visión en dicho ojo pero no contaba miodesopsias, ni metamorfopsias. Entre los antecedentes médicos destacaba que hace doce años sufrió una hemorragia intracraneal que requirió intervención quirúrgica y transfusión de dos unidades de concentrado de hematíes.
+En la exploración oftalmológica la mejor agudeza visual corregida (MAVC) era 8/20 en el ojo derecho y 10/20 en el ojo izquierdo. En el examen con lámpara de hendidura se observaban restos celulares en vítreo sin signos de actividad. En el examen de fondo de ojo se observaba membrana epimacular en ambos ojos, no se encontraron signos de vasculitis retiniana, ni la presencia de snowballs o snowbanks. Con la tomografía de coherencia óptica se confirmaba la membrana epimacular. Se le diagnósticó una uveítis intermedia de etiología desconocida.
+En los meses siguientes la paciente desarrolló debilidad progresiva en miembros inferiores llegando a desarrollar incapacidad para la marcha. Asimismo, consultó por un episodio de vitritis ++ que remitió con triamcinolona transeptal (TRIGON depot).
+En el estudio etiológico, tras descartar otras causas del cuadro neurológico, con resonancia magnética nuclear normal, ante la asociación de uveítis y mielopatía idiopática con hiperreflexia patelar, se solicitó serología para el VLHT-1 que resultó positiva por enzimoinmunoanálisis (EIA) para la detección de anticuerpos frente a VLHT-1 (ABBOTT HTLV-1/HTLV-2, Innogenetics N.V.). Las muestras por EIA se analizaron mediante un inmunoblot en tira, (INNO-LIATM HTLV I/II, Innogenetics N.V.) que confirmaron la presencia de anticuerpos frente al HTLV-1. Se estableció entonces el diagnóstico de paraparesia espástica tropical y uveítis intermedia por VLHT-1. Se le pautó tratamiento con prednisona oral mejorando su clínica neurológica así como su MAVC, alcanzando una visión de 14/20 en ojo derecho y 18/20 en ojo izquierdo.
+Responsable clínico: Dra. Jennifer Millán Rodríguez Correo electrónico: janoft@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="37" text="Francisca" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="50" end="65" text="Martinez Rivera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="72" end="79" text="3746531" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="87" end="101" text="89 46587920 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="114" end="141" text="C/ Principe Felipe, 96, 3 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="165" end="171" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="177" end="182" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="226" end="236" text="13/04/1946" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="258" end="264" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="272" end="279" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="286" end="287" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="307" end="317" text="21/08/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="327" end="352" text="Jennifer Millán Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="360" end="371" text="28 28 65690" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="405" end="410" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T5" start="414" end="421" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T1" start="1966" end="1983" text="Innogenetics N.V." TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T4" start="2076" end="2093" text="Innogenetics N.V." TYPE="INSTITUCION" comment=""/>
+    <NAME id="T3" start="2455" end="2480" text="Jennifer Millán Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T2" start="2501" end="2516" text="janoft@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

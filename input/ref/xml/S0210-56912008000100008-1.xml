@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Manuel.
+Apellidos: Mendez Montoya.
+NHC: 19547865.
+NASS: 26 23457896 12.
+Domicilio: Calle Alisos, 19.
+Localidad/ Provincia: Ciudad Real.
+CP: 13002.
+Datos asistenciales.
+Fecha de nacimiento: 23/10/1962.
+País: España.
+Edad: 54 años Sexo: H.
+Fecha de Ingreso: 13/12/2016.
+Episodio: 746589123.
+Médico: Jorge Ortega Carnicer NºCol: 02 13 16485.
+Historia Actual: Varón de 54 años que ingresa en el hospital a causa de un episodio de dolor torácico de una hora de duración. El ECG mostró ondas Q junto a E-ST en derivaciones inferiores y D-ST en derivaciones I, aVL y V4-V5. En derivaciones precordiales derechas pudo observarse también una onda J marcada seguida de una D-ST convexa y descendente que finalizaba en una onda T negativa. Con el diagnóstico de IAM inferior recibió tratamiento fibrinolítico con tenecteplasa. Una hora después el ECG, registrado con ligero dolor precordial, reveló ausencia de E-ST inferior, una onda T negativa en aVL y una elevación del punto J > 0,2 mV con E-ST descendente y onda T negativa en derivaciones V1-V2, que sugerían un patrón electrocardiográfico de SB. Cinco horas más tarde el ECG mostró una onda J prominente con E-ST convexa y en silla de montar en derivaciones V1 y V2, respectivamente. También hubo una elevación del punto J asociada con una E-ST y onda T positiva en derivaciones V3-V4. Tres días después del ingreso el ECG reveló un patrón qR inferior junto con una onda T negativa en derivaciones III y aVF, una onda J manifiesta en V1-V2, una E-ST cóncava con onda T positiva en derivaciones V2-V3, y ausencia de onda S en las derivaciones izquierdas. Mientras estuvo ingresado no tuvo arritmias ventriculares. El valor máximo de la creatinquinasa y troponina I fueron 1.398 U/l y 23,2 ng/ml, respectivamente. La arteriografía coronaria reveló una estenosis (95%) proximal de la arteria coronaria derecha y se le colocó un stent. Tras ser dado de alta, 6 meses más tarde fue sometido a una prueba de provocación con flecainida (2 mg/kg intravenosamente en 10 minutos) que fue negativa para poder hacer un diagnóstico de SB.
+Remitido por: Dr. Jorge Ortega Carnicer. Los Alisos, 10. 13002 Ciudad Real. Correo electrónico: jortegacar@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="15" text="Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="28" end="42" text="Mendez Montoya" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="49" end="57" text="19547865" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="65" end="79" text="26 23457896 12" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="92" end="108" text="Calle Alisos, 19" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="132" end="143" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="149" end="154" text="13002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="198" end="208" text="23/10/1962" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="216" end="222" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="230" end="237" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="244" end="245" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="265" end="275" text="13/12/2016" TYPE="FECHAS" comment=""/>
+    <ID id="T10" start="287" end="296" text="746589123" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T9" start="306" end="327" text="Jorge Ortega Carnicer" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="335" end="346" text="02 13 16485" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="365" end="370" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="374" end="381" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="2099" end="2120" text="Jorge Ortega Carnicer" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2122" end="2136" text="Los Alisos, 10" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2138" end="2143" text="13002" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2144" end="2155" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2177" end="2197" text="jortegacar@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

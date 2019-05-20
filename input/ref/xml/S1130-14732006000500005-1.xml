@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Idaira.
+Apellidos: Miguel Barrios.
+NHC: 2807565.
+NASS: 84 37239278 62.
+Domicilio: Av. Islas Canarias, 6 .
+Localidad/ Provincia: Santa Cruz de Tenerife.
+CP: 38006.
+Datos asistenciales.
+Fecha de nacimiento: 301/05/1966.
+País: España.
+Edad: 50 años Sexo: M.
+Fecha de Ingreso: 01/07/2016.
+Servicio: Neurocirugía.
+Médico: Mario García Conde  NºCol: 38 38 23354.
+Historia Actual: mujer de 50 años de edad, de profesión equilibrista funambulista,, que desarrolló progresivamente, en el curso de unos 10 años, una malformación del cuero cabelludo consistente en una masa irregular frontal izquierda, de aproximadamente 12x11 cm en sus ejes principales, pulsátil, con importante desarrollo de la trama vascular de la calota craneal, a cargo de las arterias temporales superficiales y sus ramas venosas de retorno. 
+Antecedentes: sin antecedentes personales de interés
+Exploración física: En la anamnesis, la paciente recuerda un antecedente traumático hacía 12 años, con contusión frontal, tras lo cual sufrió un importante hematoma subgaleal bifrontal, que se resolvió de manera conservadora en el curso de aproximadamente dos meses. Aparte de este incidente, no refiere otra sintomatología y la exploración física y neurológica es normal. 
+Resumen de pruebas complementarias: Ante la sospecha de malformación arteriovenosa traumática se solicitan pruebas de imagen. En la RM cerebral no se evidenciaron alteraciones significativas y en la angiografía cerebral de los territorios de la arteria carótida interna y externa se demostró un nido vascular epicraneal frontal izquierdo, con aportes vasculares extracraneales a cargo de ambas arterias temporales superficiales, y aportes provenientes de la circulación intracraneal a cargo de ramas meníngeas transoseas provenientes de las arterias etmoidales y dependientes a su vez de las dos arterias oftálmicas, izquierda y derecha. No se llevó a cabo la embolización ni de las ramas provenientes de los aportes intracraneales debido al alto riesgo de amaurosis de uno o ambos ojos, ni de las extracraneales, por considerarse posible la resección de la MAV mediante la intervención quirúrgica exclusivamente. Se realizó un incisión bicoronal, por detrás del nido, accediendo bilateralmente a las ramas nutricias de la MAV, para primero ligarlas y seccionarlas y así disminuir el aporte sanguíneo a la lesión y hacer posible la resección de la misma con un sangrado controlado. El nido se encontraba por fuera del pericráneo y bajo el tejido celular subcutáneo, y mostraba, irrigación a través de la calota, desde las ramas intracraneales que evidenciaba la angiografía previa. Se utilizó coagulación por radiofrecuencia, tanto mono como bipolar y cera de hueso para controlar la hemorragia. Se realizó la resección de todos los vasos sanguíneos subcutáneos, y sólo en algunas zonas aisladas y puntuales llegaron a evidenciarse folículos pilosos. Durante la cirugía fue preciso transfundir con dos concentrados de hematíes, utilizándose, además, un recuperador sanguíneo (ORTHOPAT HAEMONETICS) para un mejor control de la pérdida de sangre. El cuero cabelludo se suturó a la manera habitual por planos y la piel con agrafes. 
+Evolución y comentarios: Durante el postoperatorio no se produjeron complicaciones neurológicas y la herida cicatrizó adecuadamente, sin desarrollar zonas de necrosis ni alopecia. El resultado cosmético fue excelente. Después de un año no ha mostrado recidiva.
+Remitido por:Dr. Mario García Conde. Servicio de Neurocirugía. Hospital Universitario de Canarias. Ofra s/n. La Cuesta. 38320 La Laguna. Santa Cruz de Tenerife. España.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="8" end="14" text="Idaira" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="27" end="41" text="Miguel Barrios" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="48" end="55" text="2807565" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="63" end="77" text="84 37239278 62" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="90" end="111" text="Av. Islas Canarias, 6" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="136" end="158" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="164" end="169" text="38006" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="213" end="224" text="301/05/1966" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="232" end="238" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="246" end="253" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="260" end="261" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="281" end="291" text="01/07/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="325" end="343" text="Mario García Conde" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="352" end="363" text="38 38 23354" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="382" end="387" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="391" end="398" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <PROFESSION id="T8" start="421" end="446" text="equilibrista funambulista" TYPE="PROFESION" comment=""/>
+    <NAME id="T10" start="3449" end="3467" text="Mario García Conde" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3495" end="3529" text="Hospital Universitario de Canarias" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="3531" end="3539" text="Ofra s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3541" end="3550" text="La Cuesta" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3552" end="3557" text="38320" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3558" end="3567" text="La Laguna" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3569" end="3591" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="3593" end="3599" text="España" TYPE="PAIS" comment=""/>
+  </TAGS>
+</MEDDOCAN>

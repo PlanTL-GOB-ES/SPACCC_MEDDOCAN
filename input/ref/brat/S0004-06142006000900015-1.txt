@@ -1,0 +1,22 @@
+﻿Nombre: Ramiro.
+Apellidos: Losada Gómez.
+CIPA: nhc-231213.
+NASS:  29 23892036 09.
+Domicilio: Av. medellin 18, 3A.
+Localidad/ Provincia: Getafe.
+CP: 45002.
+NHC:231213.
+Datos asistenciales.
+Fecha de nacimiento:23/10/1970.
+País: España.
+Edad: 47  Sexo: M.
+Fecha de Ingreso: 27/03/2017.
+Especialidad: Oncología.
+Médico: Nuria Rodríguez García  NºCol: 45 45 31075.
+Historia Actual:  Varón de 47 años, sin antecedentes de interés, que es diagnosticado ecográficamente de masa renal derecha de forma accidental durante un estudio rutinario por dolor abdominal. 
+Exploración física: A la exploración se palpaba una masa dolorosa en el hipocondrio derecho, motivo por el cual se realizó una TAC 
+Resumen de pruebas complementarias: La TAC abdomino-pélvica confirmó la presencia de una masa sólida y heterogénea de aproximadamente 6 cm, localizada en polo superior del riñón derecho con vena renal permeable que reveló una recidiva tumoral en el lecho quirúrgico, que infiltraba pilar diafragmático derecho posterior e hígado; así mismo se evidenciaron implantes peritoneales, el mayor, de cuatro centímetros adyacente al hilio hepático. Se realizó nefrectomía radical derecha por laparotomía subcostal, sin objetivarse adenopatías. El diagnóstico anatomopatológico fue de carcinoma renal de células claras de 8,4 centímetros, estadio pT3aNoMo, II de Robson y grado nuclear IV de Fuhrman. 
+Evolución y comentarios: El paciente fue dado de alta a los cinco días de la cirugía. A los tres meses aproximadamente y antes de ser visto en la consulta para seguimiento de su neoplasia, el paciente acudió a Urgencias por dolor en hipocondrio derecho de reciente aparición. Se decidió realizar la extirpación de las masas tumorales, resecándose la adyacente al hígado así como varios implantes peritoneales y retroperitoneales, siendo la biopsia intraoperatoria compatible en todas las piezas con carcinoma de células claras de alto grado. La masa retroperitoneal paravertebral resultó inaccesible por su íntimo contacto con los grandes vasos.
+Ante estos hallazgos se decidió contactar con el Servicio de Oncología, iniciándose tratamiento con Interferón (Intrón A), con mala tolerancia del mismo y precisándose reducción de la dosis.
+En las revisiones realizadas el paciente refería molestias abdominales inespecíficas que respondían a analgésicos suaves pero en la TAC de abdomen de control realizado a los 5 meses de la segunda cirugía se objetivaron múltipes lesiones hepáticas sugerentes de metástasis, así como crecimiento de la recidiva del lecho quirúrgico y varios implantes peritoneales en epiplon.
+Remitido por: Dra. Nuria Rodríguez García Servicio de Urología Hospital de Getafe Ctra. de Toledo Km 12,500 E-28905 Getafe. Madrid. (España) E-mail: uroget@terra.es

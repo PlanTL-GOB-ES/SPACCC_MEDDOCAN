@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Maria Concepcion.
+Apellidos: Soto Betancourt.
+NHC: 87083603.
+Domicilio: C/ Piña, 2, 6 A.
+Localidad/ Provincia: Valladolid.
+CP: 43005.
+Datos asistenciales.
+Fecha de nacimiento: 06/03/1950.
+País de nacimiento: España.
+Edad: 65 años  Sexo: H.
+Fecha de Ingreso: 19/05/2014.
+Médico: Maria José Muniesa Royo  NºCol: 02 02 52320.
+Varón de 27 años con antecedentes de promiscuidad sexual, tabaquismo y adicción a la cocaína. Acudió a nuestra consulta tras presentar lesión verrucosa en pene de 7 meses evolución, indolora, negando sintomatología urinaria. A la exploración física se observó lesión de tipo verrucoso en glande, de aproximadamente 3 cm de diámetro, friable. Se tomó biopsia de la lesión, reportándose como condiloma acuminado. Se le realizo prueba de detección del virus de inmunodeficiencia humana (VIH) por ELISA, la cual fue negativa. Se le indicó tratamiento mediante la aplicación de Imiquimod al 5% en crema (Aldara® 3M) 3 veces por semana. Al completar una semana de tratamiento el paciente acudió a valoración, encontrándose la desaparición total de las lesiones.
+
+Dirección para correspondencia: Dr. JR. Cortés González. Servicio de Urología. Hospital Universitario 'José E. González' UANL. Avenida Madero y Gonzalitos s/n Col. Mitras Centro. 64460 Monterrey, NL. México E-mail autor: jrcor77@yahoo.com

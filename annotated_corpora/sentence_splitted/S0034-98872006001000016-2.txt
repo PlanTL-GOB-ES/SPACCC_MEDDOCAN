@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Aitor.
+Apellidos: Ahajarazi.
+NHC: 2086532.
+NASS: 28 16795459 12.
+Domicilio: Calle el Charco, 44, 7A.
+Localidad/ Provincia: Pontevedra.
+CP: 28006.
+Datos asistenciales.
+Fecha de nacimiento: 24/02/2009.
+País de nacimiento: España.
+Edad: 28 años  Sexo: M.
+Fecha de Ingreso: 27/05/2014.
+Médico: Daniel Lopez García   NºCol: 28 28 65802.
+Paciente de sexo femenino, de 4 años, con historia de dos días de dolor abdominal y vómitos. Atendido en el Servicio de Urgencias, en el examen físico presentó sensibilidad a la palpación del hemiabdomen superior, con distensión abdominal y resistencia muscular. Se realizó una radiografía de abdomen simple que reveló un cuerpo extraño metálico cilíndrico, proyectado al cuadrante superior izquierdo, asociado a signos de neumoperitoneo masivo.
+
+Se realizó una laparoscopia, identificándose líquido libre fecaloídeo, con perforación de la pared anterior del estómago y el colon transverso. En la cavidad abdominal se encontraron tres imanes, y con endoscopia se recuperaron otros dos desde el lumen gástrico.
+
+Correspondencia a: Dr. Claudio Cortes A. Departamento de Imágenes, Clínica Alemana de Santiago. Av. Vitacura 5951, Vitacura, Santiago, Chile. Fono: 56-2-2101322. E mail: ccortes@alemana.cl

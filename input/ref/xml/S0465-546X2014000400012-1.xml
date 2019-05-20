@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Fátima.
+Apellidos: Gonzalez Martos.
+NHC: 7982365.
+NASS: 71 34655902 06.
+Domicilio: Plaza de África, 15 .
+Localidad/ Provincia: Ceuta.
+CP: 51001.
+Datos asistenciales.
+Fecha de nacimiento: 28/05/1966.
+País: España.
+Edad: 51 años Sexo: M.
+Fecha de Ingreso: 24/10/2017.
+Médico: Alexander José Finol Muñoz NºCol: 51 51 74859.
+Historia del paciente: Mujer de 51 años de edad, auxiliar de enfermería, con antecedentes de Diabetes Mellitus tipo I y Síndrome de Túnel Carpiano. El día 20/02/2011, durante jornada de trabajo en planta, presenta derrame accidental de líquido mientras llenaba envase de Biguanid®, cayéndole en todo el cuerpo, por lo que decide cambiarse el uniforme entero, conservando calcetines y zapatos por el resto del turno de trabajo. Posteriormente presenta dos lesiones ampollosas en región dorsal de 4tº dedo de pie izquierdo, las cuales son tratadas y seguidas por cirugía general. Comienzan a aparecer signos de flogosis y secreción (Ver imágenes 1, 2), la cual se cultiva resultando crecimiento de Staphylococcus Aureus meticilín-resistente, indicándose tratamiento según antibiograma. A pesar de las medidas se complica con edema y osteomielitis de la falange (ver imagen 3) por lo que se decide amputar el dedo afectado. Una vez recuperada y con el estatus de incapacidad transitoria, fue estudiada con pruebas de provocación, evidenciando la susceptibilidad de la trabajadora a dicho desinfectante (ver imagen 4). Se propone al órgano competente Instituto Nacional de Seguridad Social (INSS) como accidente de trabajo y una indemnización por lesión permanente no invalidante. Actualmente sigue desempeñando sus funciones como auxiliar en el hospital.
+Remitido por:  Alexander José Finol Muñoz. Hospital Universitario de Ceuta Loma Colmenar s/n.º Edificio 2. Planta -1 51003. Ceuta. España Correo electrónico: finolito@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T27" start="9" end="15" text="Fátima" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T26" start="28" end="43" text="Gonzalez Martos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="50" end="57" text="7982365" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="65" end="79" text="71 34655902 06" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T23" start="92" end="111" text="Plaza de África, 15" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="136" end="141" text="Ceuta" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T22" start="147" end="152" text="51001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T21" start="196" end="206" text="28/05/1966" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="214" end="220" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="228" end="235" text="51 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="242" end="243" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T20" start="263" end="273" text="24/10/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="283" end="309" text="Alexander José Finol Muñoz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="317" end="328" text="51 51 74859" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T14" start="353" end="358" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T16" start="362" end="369" text="51 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <PROFESSION id="T10" start="379" end="401" text="auxiliar de enfermería" TYPE="PROFESION" comment=""/>
+    <DATE id="T19" start="485" end="495" text="20/02/2011" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T9" start="1477" end="1522" text="Instituto Nacional de Seguridad Social (INSS)" TYPE="INSTITUCION" comment=""/>
+    <PROFESSION id="T8" start="1657" end="1665" text="auxiliar" TYPE="PROFESION" comment=""/>
+    <NAME id="T12" start="1697" end="1723" text="Alexander José Finol Muñoz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1725" end="1756" text="Hospital Universitario de Ceuta" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="1757" end="1798" text="Loma Colmenar s/n.º Edificio 2. Planta -1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1799" end="1804" text="51003" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1806" end="1811" text="Ceuta" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1813" end="1819" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="1840" end="1860" text="finolito@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

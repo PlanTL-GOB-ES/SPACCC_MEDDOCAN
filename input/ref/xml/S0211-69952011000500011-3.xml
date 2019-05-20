@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Pedro.
+Apellidos: Campos Espinosa.
+NHC: 3661587.
+NASS: 99 78136524 77.
+Domicilio: Av. de Pío XII, 4.
+Localidad/ Provincia: Guadalajara.
+CP: 19004 .
+Datos asistenciales.
+Fecha de nacimiento: 23/02/1970.
+País: España.
+Edad:47 años  Sexo: H.
+Fecha de Ingreso: 15/10/2017.
+Servicio: Nefrología.
+Episodio: 7436985.
+Médico:Gabriel de Arriba  NºCol: 19 19 98741.
+Historia Actual: Hombre de 47 años, con diabetes tipo 2 de larga evolución en tratamiento con metformina (850 mg/8 h) y glimepirida (4 mg/día), fumador activo y bebedor habitual. Había tenido varios episodios de pancreatitis aguda no litiásica. Una semana antes de su ingreso tuvo un cuadro sincopal mientras trabajaba en el campo. Posteriormente presentó astenia intensa, hipoorexia y malestar general con ortostatismo. Acudió al centro de salud con una presión arterial de 70/35 mmHg y glucemia capilar de 20 mg/dl, por lo que se administró glucagón i.v. En urgencias persistía la hipotensión, con signos de depleción de volumen extracelular y taquipnea. En la analítica tenía Cr plasmática de 10,3 mg/dl, glucemia de 287 mg/dl y ácido láctico de 20 mmol/l. La gasometría arterial reveló un pH de 6.87 con bicarbonato de 2,2 mEq/l. Se realizó intubación orotraqueal e ingresó en la UCI con ventilación asistida y administración de inotrópicos. Posteriormente se realizó hemodiálisis durante cuatro horas seguida de hemofiltración venovenosa continua con mejoría analítica. En el momento del alta tenía una Cr de 1,20 mg/dl, pH de 7,46 y bicarbonato de 24,6 mEq/l.
+Remitido por: Gabriel de Arriba, Sección de Nefrología, Hospital Universitario de Guadalajara. Departamento de Medicina. Universidad de Alcalá E-mail: garribad@senefro.org
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="8" end="13" text="Pedro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="26" end="41" text="Campos Espinosa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="48" end="55" text="3661587" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="63" end="77" text="99 78136524 77" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="90" end="107" text="Av. de Pío XII, 4" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="131" end="142" text="Guadalajara" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="148" end="153" text="19004" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="198" end="208" text="23/02/1970" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="216" end="222" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="229" end="236" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="244" end="245" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="265" end="275" text="15/10/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T9" start="309" end="316" text="7436985" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T8" start="325" end="342" text="Gabriel de Arriba" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="351" end="362" text="19 19 98741" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="381" end="387" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="391" end="398" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="1544" end="1561" text="Gabriel de Arriba" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="1586" end="1623" text="Hospital Universitario de Guadalajara" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T2" start="1651" end="1672" text="Universidad de Alcalá" TYPE="INSTITUCION" comment=""/>
+    <CONTACT id="T1" start="1681" end="1701" text="garribad@senefro.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

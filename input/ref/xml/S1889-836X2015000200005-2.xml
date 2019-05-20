@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Dania.
+Apellidos: Martinez Pedroza.
+NHC: 0735630.
+NASS: 37 28903458 19.
+Domicilio: Calle La Riviera, 19, 2, 3.
+Localidad/ Provincia: Zaragoza.
+CP: 50009.
+Datos asistenciales.
+Fecha de nacimiento: 15/05/1958.
+País: España.
+Edad: 58 años Sexo:M.
+Fecha de Ingreso: 24/07/2016.
+Servicio: Reumatologia.
+Médico: Pilar del Río Martínez NºCol:50 50 23982.
+Informe clínico del paciente:paciente de 58 años. Como antecedentes refiere histerectomía a los 42 años por metrorragias secundarias a miomas. Dos años antes había sido valorada en Ginecología por osteoporosis densitométrica lumbar (T-score en L1-L4 de -3, con cifras normales en cuello femoral), tratada con denosumab y suplementos de vitamina D. No refería hábitos tóxicos, ni antecedentes personales ni familiares de fractura, y su IMC era normal. Consultó por dolor mecánico en el pie izquierdo, de inicio agudo, sin inflamación ni causa desencadenante, que había ido aumentando de intensidad hasta hacerse refractario a AINEs. En la exploración no había ningún hallazgo llamativo, salvo dolor a la movilización del antepié izquierdo. No se observaron alteraciones de la estática de pies. La paciente aportaba Rx de pies que no mostraba hallazgos patológicos. Se solicitó una RMN de pie izquierdo, que reveló una fractura de estrés en el 2o MTT con callo perióstico y edema de tejidos blandos. Se realizó estudio analítico destacando incremento de niveles de PTH y vitamina D (103,7 pg/ml y 272 ng/ml, respectivamente), atribuidos al exceso de suplementación de vitamina D. La función renal, y el calcio sérico y urinario fueron normales. Se suspendió el tratamiento con suplementos de vitamina D y denosumab. Valorada por el Servicio de Traumatología, se indicó tratamiento conservador con descarga, reposo relativo, AINEs y magnetoterapia, con mejoría progresiva. Por la edad de la paciente, 58 años, y el predominio de osteoporosis a nivel lumbar, se consideró una candidata adecuada para el tratamiento con SERMS (bazedoxifeno), asociados a suplementos de calcio con vitamina D. Un año después, en el mismo mes en el que comenzó con dolor en el episodio anterior, refiere de nuevo los mismos síntomas en pie izquierdo, sin causa desencadenante. Se solicitó una Rx que mostró callo de fractura antiguo en 2o MTT por fractura de estrés previa, sin otros hallazgos. Se realizó RMN de pie izquierdo para completar estudio que mostró edema de 1er y 3er MTT, de huesos cuneiforme, escafoides y astrágalo, y tenosinovitis del tibial posterior. Se solicitó una nueva densitometría ósea, que mostró una T-score en columna lumbar de -3,5. La paciente no había tomado de forma continuada el bazedoxifeno y la vitamina D, por lo que se insistió en la importancia de reanudarlos dadas las cifras de densidad mineral ósea, que habían empeorado. Las fracturas fueron tratadas con rehabilitación y descarga con mejoría progresiva.
+Valorando el caso globalmente, nos planteamos la osteoporosis como factor predisponente, ya que la paciente no era obesa, ni había presentado traumatismos ni otros factores de riesgo. El hecho de que los dos episodios de dolor se iniciasen el mismo mes (coincidiendo con cambio de estación) con un año de diferencia, nos pareció un dato llamativo. La paciente no refería ningún cambio en sus costumbres ni en su actividad física (sedentaria) en esas épocas, por lo que consideramos que quizá el cambio de tipo de calzado pudo suponer una sobrecarga del pie izquierdo, favoreciendo la aparición de nuevas fracturas de estrés.
+Remitido por: Dra. Pilar del Río Martínez Servicio de Reumatología Hospital Clínico Universitario "Lozano Blesa" Avda. San Juan Bosco, 15 50009 Zaragoza (España) Correo electrónico: psdelrio@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="29" end="34" text="Dania" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="47" end="63" text="Martinez Pedroza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="70" end="77" text="0735630" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="85" end="99" text="37 28903458 19" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="112" end="138" text="Calle La Riviera, 19, 2, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="162" end="170" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="176" end="181" text="50009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="225" end="235" text="15/05/1958" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="243" end="249" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="257" end="264" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="270" end="271" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="291" end="301" text="24/07/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="335" end="357" text="Pilar del Río Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="364" end="375" text="50 50 23982" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T2" start="418" end="425" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="473" end="480" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T1" start="1875" end="1882" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T11" start="3544" end="3566" text="Pilar del Río Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="3592" end="3637" text="Hospital Clínico Universitario &quot;Lozano Blesa&quot;" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="3638" end="3662" text="Avda. San Juan Bosco, 15" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="3663" end="3668" text="50009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="3669" end="3677" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3679" end="3685" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="3707" end="3724" text="psdelrio@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

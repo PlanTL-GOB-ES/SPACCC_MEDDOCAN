@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Silvia.
+Apellidos: Navarro Becker.
+NHC: 7834691.
+NASS: 36 27567845 36.
+Domicilio: Av. Diego Lopez, 44, 2, A.
+Localidad/ Provincia: Vigo.
+CP: 36211.
+Datos asistenciales.
+Fecha de nacimiento: 10/12/1984.
+País de nacimiento: España.
+Edad: 24 años Sexo: M.
+Fecha de Ingreso: 05/04/2009.
+Servicio: Oftalmologia.
+Médico: María Inés Pérez Flores NºCol: 36 36 26640.
+Historia Actual: Mujer de 24 años con antecedentes de endotropía congénita y cirugía de rectos medios a los 3 años de edad. 
+En la exploración presentaba una endotropía residual y DVD. Se realizó cirugía según técnica de resección de rectos laterales y retoinserción en asa de ambos rectos superiores. A los 4 meses de la intervención presentó una lesión conjuntival de aspecto quístico y con signos de inflamación, en el sector nasal superior de su ojo izquierdo. Se drenó obteniendo un líquido de aspecto mucopurulento por lo que se diagnosticó de absceso subconjuntival. Se instaura tratamiento con ciprofloxacino y dexametasona tópicos y ciprofloxacino sistémico. Al mes la lesión recidiva sin signos inflamatorios y se observa crecimiento progresivo. Se realizó exéresis quirúrgica completa de la lesión, la cual se encuentra adyacente a la inserción primitiva del recto superior. El diagnóstico histopatológico es de lesión quística benigna. El estudio reveló la existencia de una formación quística de pared fibrosa que incluye vasos y algún agregado linfoide, parcialmente tapizada en su superficie interna por un epitelio plano estratificado, no apreciándose atipias ni mitosis significativas. Tras la cirugía la lesión no recidivó.
+Responsable clínico: María Inés Pérez Flores Servicio de Oftalmología. Hospital POVISA C/. Salamanca,5 36211 Vigo (Pontevedra) España E-mail: mari-nes@eremas.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="34" text="Silvia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="47" end="61" text="Navarro Becker" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T2" start="68" end="75" text="7834691" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="83" end="97" text="36 27567845 36" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="110" end="135" text="Av. Diego Lopez, 44, 2, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="159" end="163" text="Vigo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="169" end="174" text="36211" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="218" end="228" text="10/12/1984" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="250" end="256" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="264" end="271" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="278" end="279" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="299" end="309" text="05/04/2009" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="343" end="366" text="María Inés Pérez Flores" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="374" end="385" text="36 36 26640" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="404" end="409" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="413" end="420" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="495" end="501" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="1650" end="1673" text="María Inés Pérez Flores" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="1700" end="1715" text="Hospital POVISA" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T1" start="1716" end="1731" text="C/. Salamanca,5" TYPE="CALLE" comment=""/>
+    <LOCATION id="T7" start="1732" end="1737" text="36211" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="1738" end="1742" text="Vigo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="1744" end="1754" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1756" end="1762" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="1771" end="1790" text="mari-nes@eremas.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

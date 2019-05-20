@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Emilio.
+Apellidos: Salgado Ulloa.
+NHC:  8947356.
+NASS: 78 03465063 30.
+Domicilio: C/ Maspalomas, 13.
+Localidad/ Provincia: Getafe.
+CP: 28905.
+Datos asistenciales.
+Fecha de nacimiento: 11/02/1972.
+País: España.
+Edad: 46 años Sexo: H.
+Fecha de Ingreso: 21/05/2018.
+Episodio: 7802456.
+Médico: Sara Gómez Rodríguez NºCol: 28 28 98320.
+Historia Actual: paciente varón de 46 años sin antecedentes de interés, que acude a consulta por presentar pérdida de fuerza brusca en los miembros inferiores. Este cuadro se presenta de manera reiterada y episódica, autolimitándose en unas horas. Generalmente afecta a los miembros inferiores, aunque lo puede hacer de manera generalizada. Refiere episodios previos que han ido aumentando en frecuencia e intensidad en el último año. Durante el interrogatorio dirigido refiere pérdida ponderal de 20 kilos en los últimos cuatro meses sin disminución de la ingesta, temblor ocasional, irritabilidad y nerviosismo.
+Exploración física: En la exploración física no se detectó disminución de fuerza en los miembros ni alteraciones en los reflejos osteotendinosos. Presentaba una marcha estable no patológica, sin dismetrías. Según refería, había recuperado progresivamente la fuerza muscular hacía unos minutos. Se descubrió un temblor fino distal, sin exoftalmos. La frecuencia cardiaca era de 120 latidos por minuto, presentando a la palpación un tiroides de tamaño aumentado sin palparse nódulos. 
+Pruebas complementarias: Se realizó una analítica de urgencia en la que se detectó: creatinina 0,59 mg/dl (normal 0,60-1,35), sodio 142 mEq/L (135-145), potasio 2,07 mEq/l (3,5-5), magnesio 1,64 mg/dl (1,7-2,5), calcio 8,01 mg/dl (8,50-10,50), calcio iónico 3,95 mg/dl (4,1-5,3), proteínas totales 6,47 mg/dl (6,00-8,50). Un cuadro de pérdida de fuerza coincidiendo con hipopotasemia nos orientó hacia el diagnóstico de parálisis periódica. Dada la presencia de semiología característica de patología tiroidea, se solicitó un estudio hormonal, hallándose un hipertiroidismo primario de origen autoinmune con los siguientes parámetros: T4L 4,07 ng/dl (0,9-1,7), TSH < 0,008 mcgU/l (0,4-4,8), T3L 15,58 pg/ml (2,3-4,2), anticuerpos antitiroglobulina 62,7 UI/ml (0-60), anticuerpos antiperoxidasa 1269 UI/ml (0-60), TSI 5,7 UI/l (0-1,75). La vitamina D y PTH fueron normales (28 ng/mL [20-55] y 26 pg/mL [11-80], respectivamente). La primera prueba complementaria que debemos solicitar ante un hipertiroidismo es una gammagrafía tiroidea, que en nuestro caso mostraba una hipercaptación difusa. Todos estos datos nos orientaban a una enfermedad de Graves como causante del cuadro. En el momento agudo se inicia tratamiento con 40 mEq de potasio intravenoso consiguiendo la normalización de las cifras (4,1 mEq/L), y de forma domiciliaria se propone propranolol 10 mg y metimazol 30 mg diarios con disminución de dosis progresiva. 
+Evolución: En el momento actual mantiene tratamiento con metimazol 5 mg al día con remisión parcial de los síntomas y función tiroidea normal, sin haber presentado nuevos episodios de parálisis.
+Remitido por: Sara Gómez Rodríguez. Hospital Universitario de Getafe. Ctra. de Toledo, Km. 12,500. C.P. 28905. Getafe (Madrid). España. Correo electrónico: patsara8@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="29" end="35" text="Emilio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="48" end="61" text="Salgado Ulloa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="69" end="76" text="8947356" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="84" end="98" text="78 03465063 30" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="111" end="128" text="C/ Maspalomas, 13" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="152" end="158" text="Getafe" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="164" end="169" text="28905" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="213" end="223" text="11/02/1972" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="231" end="237" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="245" end="252" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="259" end="260" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="280" end="290" text="21/05/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T13" start="302" end="309" text="7802456" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T12" start="319" end="339" text="Sara Gómez Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="347" end="358" text="28 28 98320" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="386" end="391" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="395" end="402" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3094" end="3114" text="Sara Gómez Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3116" end="3148" text="Hospital Universitario de Getafe" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="3150" end="3177" text="Ctra. de Toledo, Km. 12,500" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3184" end="3189" text="28905" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3191" end="3197" text="Getafe" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3199" end="3205" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3208" end="3214" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3236" end="3256" text="patsara8@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

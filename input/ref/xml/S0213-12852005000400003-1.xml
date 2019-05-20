@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Daniel.
+Apellidos: Gonzalez Espinosa.
+NHC: 986565.
+NASS: 20 985674 55.
+Domicilio: Avenida de asturias 16, 3G.
+Localidad/ Provincia: Madrid.
+CP:28036.
+Datos asistenciales.
+Fecha de nacimiento: 30/11/1969.
+País: España.
+Edad: 47 años Sexo: H.
+Fecha de Ingreso: 20/12/2016.
+Médico:Maria Olmedo Baez  NºCol: 28 28 54971.
+Historia del paciente: Paciente varón, de 47 años, casado, acude al departamento de Medicina Oral del Hospital de Clínicas de Porto Alegre y afirma tener lesiones dolorosas en la cavidad oral con aspecto de ampollas sangrantes que se rompen fácilmente y le dejan una superficie como ulcerada desde hace aproximadamente 4 meses. En la anamnesis el paciente declara no ser fumador y trabajar en un fábrica de baterías para coches, lo cual además le ha originado una intoxicación crónica (saturnismo). Dice poseer además una úlcera en la pierna derecha desde hace 20 años.
+En la exploración física se percibe la inflamación de los ganglios cervicales y submaxilares del lado izquierdo, así como varias lesiones de tipo ulceroso en la mucosa labial, el paladar, la mucosa yugal, el suelo de la boca y la laringe. Se confirma la lesión de la pierna derecha, así como lesiones de tipo erosivo recubiertas por una costra en las axilas y el tronco.
+Se practicó una biopsia parcial de una de las lesiones del labio inferior, en la cual se observó el signo de Nikolsky positivo en el momento de la toma y se vio que las características histopatológicas de la lesión eran ampollas con acantolisis suprabasal, lo cual es compatible con el pénfigo vulgar.
+Unos días después de la biopsia el paciente sufrió una exacerbación de las lesiones y tuvo que ser ingresado en el hospital con un cuadro consistente en: lesiones ampollosas en el tórax, la pierna derecha y la cavidad oral, que le impiden la alimentación. Se le hicieron nuevas biopsias de las lesiones del tronco y la boca y se le hizo además un examen de inmunofluorescencia, en el que se observaron depósito de IgG en las uniones intercelulares, IgA en las paredes de los vasos pequeños y ausencia de IgM, C3, C1q y de depósitos de fibrinógeno. Se comenzó el tratamiento con prednisona con dosis gradualmente crecientes hasta alcanzar los 100 mg diarios. El paciente respondió favorablemente al tratamiento y abandonó el hospital con una notable mejoría.
+Tras la hospitalización se estableció el tratamiento para el paciente a base de 140 mg diarios de prednisona asociados a 100 mg de Azathioprina, 40 mg de Omeprazol, 400 mg de carbonato cálcico, vitamina D4 y enjuagues de Nistatina, éstos últimos 4 veces al día. Tras un mes de tratamiento se observó una remisión casi total del cuadro y se redujo la dosis de prednisona a 120 mg durante 15 días y, posteriormente, a 100 mg. De igual modo, se decidió elevar la dosis de Azathiproprina a 150 mg diarios. El paciente se encuentra todavía bajo control médico.
+Remitido por: Maria Olmedo Baez mamolba@gmail.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="9" end="15" text="Daniel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="28" end="45" text="Gonzalez Espinosa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="52" end="58" text="986565" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="66" end="78" text="20 985674 55" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="91" end="117" text="Avenida de asturias 16, 3G" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="141" end="147" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="152" end="157" text="28036" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T1" start="201" end="211" text="30/11/1969" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="219" end="225" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="233" end="240" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="247" end="248" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="268" end="278" text="20/12/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="287" end="304" text="Maria Olmedo Baez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="313" end="324" text="28 28 54971" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="358" end="363" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="368" end="375" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T5" start="377" end="383" text="casado" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T4" start="428" end="464" text="Hospital de Clínicas de Porto Alegre" TYPE="HOSPITAL" comment=""/>
+    <NAME id="T3" start="2897" end="2914" text="Maria Olmedo Baez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T2" start="2915" end="2932" text="mamolba@gmail.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

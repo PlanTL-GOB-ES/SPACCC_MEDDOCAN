@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: Juana.
+Apellidos: Benavente Rivero.
+NHC: 7843564.
+NASS: 37 48568734 35.
+Domicilio: C/ Virgen del Pilar, 23.
+Localidad/ Provincia: Zaragoza.
+CP: 50800.
+Datos asistenciales.
+Fecha de nacimiento: 28/09/1949.
+País de nacimiento: España.
+Edad: 68 años Sexo: M.
+Fecha de Ingreso: 12/06/2018.
+Médico: José Miguel Arroyo NºCol: 50 50 74026.
+Motivo de ingreso: Dolor Hipocondrial.
+Historia Actual: Mujer de 68 años con antecedentes de hipertensión arterial e hipotiroidismo, que acude a Urgencias por presentar dolor en hipocondrio izquierdo de presentación aguda, sin antecedentes traumáticos, de carácter constante, irradiado a epigastrio con aproximadamente 3 horas de evolución, acompañado de mareo y debilidad. 
+Exploración física: En la exploración física se evidencia hipotensión y taquicardia que se mantiene a pesar de la administración de fluidos intravenosos; el abdomen es doloroso con predominio en hipocondrio y fosa lumbar izquierda sin signos de irritación peritoneal. 
+Pruebas complementarias: Se realiza Ecografía y Tomografía computarizada (TC) demostrando la presencia de una tumoración retroperitoneal redondeada de aproximadamente 10 x 12 cm por delante del polo superior del riñón izquierdo, vascularizada, con captación del contraste de forma irregular y con pequeñas calcificaciones en su interior; además, se observa un aumento de la densidad del espacio retroperitoneal compatible con sangrado. Con los hallazgos antes mencionados se decide intervenir quirúrgicamente evidenciándose un gran hematoma retroperitoneal izquierdo que se extiende hasta la línea media y la fosa iliaca izquierda y una tumoración de aproximadamente 12 cm de diámetro por encima del polo superior del riñón izquierdo, encapsulada, con sangrado activo por fisura en la misma, la cual se extrae preservando parte de la glándula suprarrenal y el riñón izquierdo.
+Evolución: La evolución es satisfactoria. La evaluación realizada posteriormente revela la ausencia de hipertensión arterial y en la ecografía abdominal no se observan hallazgos patológicos. La biopsia describe una tumoración nodular de 10 cm de diámetro y 457 gr. de peso de coloración rojiza con margen periférico de coloración amarillenta, diagnosticándose en el estudio microscópico: Pseudoquiste endotelial suprarrenal.
+Responsable clínico: José Miguel Arroyo. Servicio Médico Centro Penitenciario de Zuera Carretera Nacional 330 km 539 50800 Zuera Zaragoza

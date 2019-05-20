@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Amanda.
+Apellidos: Barrantes Lopez.
+NHC: 8473653.
+Domicilio: Avenida de asturias 78, Bajo izq..
+Localidad/ Provincia: Badajoz.
+CP: 28007.
+Datos asistenciales.
+Fecha de nacimiento: 24/04/1966.
+País: España.
+Edad: 28 años  Sexo: M.
+Fecha de Ingreso: 20/12/2015.
+Médico: Juan Andrés Rodríguez Ruiz  NºCol: 28 28 97462.
+Niño de 10 años de edad cuando se realiza el diagnóstico de SDRC. Esguince previo en el tobillo derecho con aparición de un cuadro de SDRC en el tobillo y pie derecho. Derivado a la Unidad a los cinco meses del diagnóstico.
+Se le administra tratamiento farmacológico más aplicación del parche de capsaicina al 8 % con remisión completa de los síntomas.
+Dirección para correspondencia: Manuel J. Rodríguez-López Unidad de Tratamiento del Dolor Hospital Regional Universitario "Carlos Haya" Avda. Carlos Haya, s/n 29010 Málaga e-mail: maje1946@yahoo.es

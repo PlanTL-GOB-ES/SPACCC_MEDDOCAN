@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Santiago.
+Apellidos: Alvarado Nuñez.
+NHC: 7843562.
+NASS:78 43567304 36.
+Domicilio: Av. San Bernardo, 11, 1, 3.
+Localidad/ Provincia: Madrid.
+CP: 28001.
+Datos asistenciales.
+Fecha de nacimiento: 28/01/1923.
+País de nacimiento: España.
+Edad: 79 años Sexo: H.
+Fecha de Ingreso: 06/02/2002.
+Servicio: Nefrología.
+Médico: María Pilar Bahílo Mateu NºCol: 28 28 94550.
+Informe clínico del paciente: En julio de 2000 y procedente del Servicio de Nefrología donde estaba siendo estudiado por una insuficiencia renal crónica secundaria a nefroangioesclerosis, nos es remitido un varón de 77 años por el hallazgo ecográfico de una masa renal de 6 cm que afectaba al riñón izquierdo.
+Como antecedentes personales destacables presentaba EPOC, HTA y ulcus duodenal con estenosis pilórica.
+Para completar estudios realizamos un TC abdomino-pélvico, que fue informado como 'lesión infiltrante que interesa los 2/3 superiores del riñón izquierdo con afectación del espacio pericapsular y bordes mal definidos'. Analíticamente era muy destacable la presencia de una gammapatía monoclonal con IgM de 4640 g/l (38-231) kappa por inmunofijación. Otros análisis: proteinuria de bence-jones positiva, aspirado de médula ósea con 12,5% de atipias y serie ósea sin lesiones líticas.
+Con el primer diagnóstico de masa renal asociada a gammapatía monoclonal IgM (sin cumplir criterios de mieloma IgM), se practica en agosto de 2000 nefrectomía radical izquierda.
+El resultado anatomopatológico fue de linfoma no-hodking B primario renal tipo MALT (tumor linfoide asociado a las mucosas).
+El paciente presenta una buena evolución post-operatoria y es dado de alta con controles ambulatorios. En diciembre de 2000 se realizó un primer control evidenciándose una IgM de 3430 g/l en un primer análisis y de 4340 g/l en un segundo, por lo que se decidió por parte del Servicio de Hematología comenzar tratamiento con Clorambucil. Se practicó un TC de control que fue informado como 'engrosamiento de fascia perirrenal con desflecamiento de grasa compatible con lesiones inflamatorias o similar'. Como no existía una total evidencia de recidiva se decide seguimiento estricto del paciente con controles analíticos, radiológicos y manteniendo el tratamiento con Clorambucil. En enero de 2002 se practicó un nuevo TC en el que no se encontraron signos de recidiva.
+Actualmente el paciente continúa asintomático, con niveles estables de IgM (último control 48 g/l) a tratamiento con Clorambucil.
+Responsable clínico: Dra. María Pilar Bahílo Mateu. Correo Electrónico:  pilarbahilo@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="36" text="Santiago" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="49" end="63" text="Alvarado Nuñez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="70" end="77" text="7843562" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="84" end="98" text="78 43567304 36" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="111" end="137" text="Av. San Bernardo, 11, 1, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="161" end="167" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="173" end="178" text="28001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="222" end="232" text="28/01/1923" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="254" end="260" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="268" end="275" text="79 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="282" end="283" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="303" end="313" text="06/02/2002" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="345" end="369" text="María Pilar Bahílo Mateu" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="377" end="388" text="28 28 94550" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <DATE id="T8" start="423" end="436" text="julio de 2000" TYPE="FECHAS" comment=""/>
+    <OTHER id="T7" start="597" end="602" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="606" end="613" text="77 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T5" start="1418" end="1432" text="agosto de 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T4" start="1695" end="1712" text="diciembre de 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T3" start="2272" end="2285" text="enero de 2002" TYPE="FECHAS" comment=""/>
+    <NAME id="T2" start="2514" end="2538" text="María Pilar Bahílo Mateu" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2561" end="2584" text="pilarbahilo@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

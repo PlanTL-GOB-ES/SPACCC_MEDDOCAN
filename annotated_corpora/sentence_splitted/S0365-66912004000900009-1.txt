@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Juan.
+Apellidos: Fletes Castillo.
+NHC: 3478056.
+NASS: 85 62602657 31.
+Domicilio:  Calle Arzobispo Raimundo, 6.
+Localidad/ Provincia: Pamplona.
+CP: 31008.
+Datos asistenciales.
+Fecha de nacimiento: 03/04/1961.
+País de nacimiento: España.
+Edad: 55 años Sexo: H.
+Fecha de Ingreso: 06/05/2016.
+Médico: Wenceslao Torre Buxalleu  NºCol: 31 31 44789.
+Informe clínico del paciente: Paciente de 55 años que acudió a urgencias por déficit de agudeza visual (AV) en ojo derecho (OD). La AV era de 0,1 en OD y de 1 en ojo izquierdo con corrección.
+Entre sus antecedentes personales destacaba una trombosis venosa profunda en la pierna derecha 5 años atrás y una hipertensión arterial en tratamiento.
+Carecía de antecedentes familiares trombofílicos conocidos.
+La presión intraocular, biomicroscopía y motilidad ocular eran normales.
+En la oftalmoscopia del OD se apreciaban hemorragias en llama peripapilares, tortuosidad vascular, exudados algodonosos y edema macular. En la angiografía fluoresceínica se confirmó la existencia de una trombosis venosa central edematosa.
+En el estudio básico de coagulación aparecieron unas cifras elevadas de protrombina tisular (1,55 Uml) por lo que se solicitó un estudio de trombofilia que reveló un aumento de la resistencia a la proteína c activada (1,5).
+En el análisis genético se amplificaron mediante PCR fragmentos de ADN que incluían los nucleótidos 1691 del gen del factor V y 20210 del factor II, realizándose posteriormente una electroforesis que identificó la mutación 1691 G-A del factor V y 20210 G-A del factor II.
+El resto del estudio incluyó hemograma, velocidad de sedimentación, bioquímica general y otras causas de hipercoagulabilidad (proteínas S y C, antitrombina III, fibrinógeno, anticuerpos antinucleares, homocisteinemia y anticuerpos antifosfolípido) sin encontrarse hallazgos significativos.
+Se decidió anticoagular al paciente con acenocumarol (sintrom®). Desde el punto de vista oftalmológico no precisó fotocoagulación, ya que no desarrolló isquemias retinianas. La AV del OD permaneció estabilizada en cuenta dedos a 50 cm.
+Responsable clínico: Dr. Wenceslao Torre Buxalleu Servicio de Cirugia Torácica Clínica Universidad de Navarra Avda. Pio XII, 36 31008 Pamplona E-mai.: wtorre@unav.es

@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Pedro.
+Apellidos: Torres Pastor.
+NHC: 70436.
+NASS: 36 48523956 03.
+Domicilio: Av. de Estrello, 98.
+Localidad/ Provincia: Santiago de Compostela.
+CP: 22005.
+Datos asistenciales.
+Fecha de nacimiento: 14/09/1998.
+País de nacimiento: Argentina.
+Edad: 74 años  Sexo: H.
+Fecha de Ingreso: 06/05/2016.
+Médico: Lucía Gutiérrez Bayard   NºCol: 20 20 67492.
+Mujer de 82 años, no fumadora y sin antecedentes mórbidos que ingresó el año 2012 por síndrome diarreico crónico. Un extenso estudio no logró demostrar su etiología y el TAC de abdomen y pelvis reveló yeyuno-ileitis compatible con gastroenteritis, cuadro que cedió tras un mes de dieta y ciprofloxacino.
+Previo al alta, inició bruscamente disnea, desaturación, taquipnea, taquicardia, fiebre de 37,5º, leucocitosis de 38.100/µL, proteína C reactiva (PCR) de 99,6 mg/L (VN < 10), velocidad de sedimentación de 64 mm/h, hematocrito de 27,6%, hemoglobina 8,5 g/dL y una relación PaO2/ FiO2 (PaFi) de 148. Se descartó tromboembolismo pulmonar (TEP), sin embargo, el angio-TAC y la radiografía de tórax mostraron neumonía multilobar en lóbulo superior derecho e inferior izquierdo con derrame pleural (DP) derecho. Fue inicialmente tratada con piperacilina-tazobactam. Los hemocultivos, baciloscopias, búsqueda de virus respiratorios y los antígenos urinarios para neumococo y legionella, resultaron negativos. El estudio del DP mostró un exudado polimorfonuclear, con valores de adenosina deaminasa (ADA) y pH normales. Requirió ventilación mecánica no invasiva (VMNI) y evolucionó con parámetros infamatorios elevados, por lo que al décimo día se amplió el espectro a imipenem y vancomicina. Se realizó fibrobroncoscopia, macroscópicamente normal, y el lavado broncoalveolar (LBA) fue negativo (baciloscopias, PCR para Mycobacterium tuberculosis, cultivo bacteriológico, cultivo de Koch y hongos). La biopsia transbronquial informó "hallazgos inespecíficos". El factor reumatoídeo (FR), los anticuerpos antinucleares (ANA), anticitoplasma de neutrófilos (ANCA) y antigenemia para citomegalovirus (CMV) resultaron negativos. Tras una mejoría parcial de 4 días, recurrió la fiebre y presentó deterioro respiratorio severo, por lo que se sospechó sobreinfección bacteriana y se indicó colistín sin respuesta. Debido al deterioro clínico, se decidió realizar biopsia pulmonar por toracotomía que reveló un daño alveolar difuso y hallazgos compatibles con COP. Se inició metilprednisolona (500 mg) y luego prednisona 1 mg/kg/día, con lo que se observó respuesta favorable en 7 días, objetivada con el retiro de la VMNI, normalización de la relación PaFi, PCR, leucocitosis y los infiltrados radiológicos. Una semana más tarde, evolucionando en buenas condiciones, falleció súbitamente sin causa demostrada.
+
+Correspondencia a: Dr. Felipe Alejandro Olivares Abara. Avenida Larraín # 9100, La Reina. olivaresabara@hotmail.com

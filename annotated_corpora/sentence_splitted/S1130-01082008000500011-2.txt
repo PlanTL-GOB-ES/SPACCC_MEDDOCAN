@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Esteban.
+Apellidos: Ortega Martin.
+NHC: 4837450.
+NASS: 23 45896345 78.
+Domicilio: Calle de Bravo Murillo 16, 1 B.
+Localidad/ Provincia: Valladolid.
+CP: 28024.
+Datos asistenciales.
+Fecha de nacimiento: 04/12/1959.
+País de nacimiento: España.
+Edad: 67 años  Sexo: M.
+Fecha de Ingreso: 05/03/2018.
+Médico: Jose Miguel Mora Ordóñez  NºCol: 28 28 35476.
+Mujer de 83 años de edad con antecedentes de histerectomía, cólicos renales, hepatitis B, anemia megaloblástica y cólicos biliares de repetición, que ingresa de urgencia por dolor abdominal difuso, náuseas y vómitos de varios días de evolución. En la exploración abdominal se aprecia dolor a la palpación superficial y profunda en todo el hemiabdomen superior, especialmente en hipocondrio derecho. Analítica al ingreso: 17 x 109/l leucocitos con 86% de neutrofilia; amilasemia 5.203 U/l; amilasuria 43.703 U/l; LDH 675 U/l; bilirubina total 1,55 mg/dl; GOT 111 U/L; GPT 152 U/l; GGT 203 U/l; PH 7.222, PCO2 28,8 mmHg; PO2 80 mmHg; bicarbonato 13,7 mmol/l; fosfatasa alcalina y estudio de coagulación normales. A las 48 horas del ingreso mantiene cifras similares de amilasemia y amilasuria con alteraciones graves de la coagulación: tiempo de protrombina 50%; tiempo de cefalina 48,2 s. Por tomografía axial computerizada del abdomen se aprecia: colecistitis aguda litiásica, coledocolitiasis, aumento difuso de tamaño del páncreas y ascitis, apreciándose en bazo múltiples áreas de infarto. A los tres días del ingreso se practica esfinterotomía endoscópica. La paciente evoluciona de forma tórpida, falleciendo a los 17 días por cuadro de shock hemorrágico de origen digestivo.
+
+Dirección para correspondencia: Juan J. Arenal. Plaza de Poniente, 2, 3º. 47003 Valladolid. e-mail: jujoarve@yahoo.com

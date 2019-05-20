@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Sonia.
+Apellidos: Perez Gomez.
+NHC: 4835683.
+NASS: 74 35693656 17.
+Domicilio: C/ Girasoles, 21.
+Localidad/ Provincia: Aranjuez.
+CP: 28300.
+Datos asistenciales.
+Fecha de nacimiento: 14/05/1953.
+País de nacimiento: España.
+Edad: 63 años Sexo: M.
+Fecha de Ingreso: 21/07/2016.
+Médico: Juan Suárez Baraza  NºCol: 28 28 58771.
+Informe clínico del paciente: Paciente de 63 años que refería déficit de agudeza visual (AV) en el ojo derecho (OD) de varios meses de evolución.
+Entre sus antecedentes personales destacaba una epilepsia postraumática de diez años de evolución, hipertensión arterial y diabetes mellitus tipo II.
+Se encontraba en tratamiento con 1,5 gr de vigabatrina y 200 mg de carbamazepina diarios desde el traumatismo.
+La AV era de 0,3 en OD y 0,8 en ojo izquierdo con corrección.
+La biomicroscopía anterior y tonometría eran normales.
+En la oftalmoscopía destacaba la palidez de ambas papilas y una membrana epirretiniana macular en OD.
+Se realizaron perimetrías computarizadas Humphrey 30/2 blanco-blanco y azul-amarillo que presentaban reducciones campimétricas concéntricas severas en ambos ojos (Humphrey instruments, modelo 745, Carl Zeiss Inc).
+Carecía de antecedentes familiares de interés, por lo que se descartó una neuropatía óptica hereditaria.
+La anamnesis y las determinaciones analíticas de volumen corpuscular medio, vitaminas B1, B6, B12 y ácido fólico descartaron la etiología nutricional.
+Se estableció el diagnóstico de retinotoxicidad por vigabatrina remitiéndose al servicio de neurología.
+Al año de seguimiento persistía la pérdida campimétrica y de AV.
+Responsable clínico: Juan Suárez Baraza C/. Infantas, 9, 4.º C 28300 Aranjuez (Madrid) España E-mail: emartinbo@hotmail.com

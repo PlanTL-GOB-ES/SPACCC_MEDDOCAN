@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Patricia.
+Apellidos: Cantizano Paez.
+NHC: 4026560.
+NASS:24 76078256 01.
+Domicilio: AV. Conde Casal, 35.
+Localidad/ Provincia: Zamora.
+CP: 49510.
+Datos asistenciales.
+Fecha de nacimiento: 17/03/1988.
+País: España.
+Edad: 30 años Sexo: M.
+Fecha de Ingreso: 06/06/2018.
+Servicio: Ginecologia.
+Episodio: 5267937.
+Médico: Nicolás Alberto Cruz Guerra NºCol: 49 28 46237.
+Informe clínico del paciente: Mujer de 30 años, fumadora de unos seis cigarrillos diarios, con antecedente de aborto dos años y medio antes de ser estudiada en el Servicio de Ginecología por infertilidad. En dicho contexto, y en el transcurso de la realización de ecografía vaginal se objetiva lesión exofítica intravesical de aproximadamente 24 mm de diámetro, localizada en pared posterolateral derecha, con tabicaciones en su interior.
+Fue remitida al Servicio de Urología, refiriéndonos ciertas molestias miccionales coincidiendo con las menstruaciones, sin hematuria macroscópica ni otras manifestaciones acompañantes. La analítica sanguínea resultó con valores dentro de la normalidad, mientras que en la orina elemental sólo destacaba la presencia de 18 hematíes/mcL. Se solicitó una urografía intravenosa, sin apreciarse en la misma otros hallazgos significativos; realizándose asimismo cistoscopia, que permitió objetivar una lesión exofítica, de aproximadamente un campo endoscópico, localizada en fondo vesical, y de superficie pseudoquística.
+Fue indicada la resección transuretral de la lesión descrita, lográndose de forma completa, con buena evolución postoperatoria. El resultado del estudio histopatológico reveló una pared vesical revestida por endotelio focalmente hiperplásico, apreciándose en lámina propia y tejido muscular formaciones glandulares de morfología predominantemente tubárica, con componentes asociados -en menor cuantía- de carácter endometrial y endocervical, todo ello compatible con un diagnóstico de mullerianosis vesical.
+Tras un año de seguimiento, la paciente ha permanecido asintomática, y sin evidencia de recidiva endoscópica en las revisiones realizadas.
+Remitido por: Dr. Nicolás Alberto Cruz Guerra Av. de los Reyes Católicos, 5 bajo izda. 49021 Zamora. (España). ncruz_g@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="29" end="37" text="Patricia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="50" end="64" text="Cantizano Paez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="71" end="78" text="4026560" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="85" end="99" text="24 76078256 01" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="112" end="131" text="AV. Conde Casal, 35" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="155" end="161" text="Zamora" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="167" end="172" text="49510" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="216" end="226" text="17/03/1988" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="234" end="240" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="248" end="255" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="262" end="263" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="283" end="293" text="06/06/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T11" start="328" end="335" text="5267937" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="345" end="372" text="Nicolás Alberto Cruz Guerra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="380" end="391" text="49 28 46237" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="423" end="428" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="432" end="439" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2113" end="2140" text="Nicolás Alberto Cruz Guerra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2141" end="2180" text="Av. de los Reyes Católicos, 5 bajo izda" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2182" end="2187" text="49021" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2188" end="2194" text="Zamora" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2197" end="2203" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2206" end="2225" text="ncruz_g@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

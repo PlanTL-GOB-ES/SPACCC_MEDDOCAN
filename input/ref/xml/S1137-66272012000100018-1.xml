@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Patricia.
+Apellidos: Llosa Rivera.
+NHC: 4398563.
+NASS: 26 78956032 11.
+Domicilio: .
+Localidad/ Provincia: Pamplona.
+CP: 31328.
+Datos asistenciales.
+Fecha de nacimiento: 15/06/1975.
+País: España.
+Edad: 36 años Sexo: M.
+Fecha de Ingreso: 01/07/2011.
+Servicio: Neurología Clínica.
+Médico: Asier Gómez Ibáñez NºCol: 31 31 20012.
+Informe clínico del paciente: mujer de 36 años valorada en nuestra consulta. Como antecedentes personales destacan el diagnóstico de epilepsia a los 15 años y de migraña menstrual. El primero de ellos fue a raíz de presentar varios episodios de pérdida de conciencia precedidos de sensación de mareo, sudoración y acúfenos, que le ocurrían aproximadamente cada dos meses. Siguió tratamiento con ácido valproico (VPA) durante dos años, en los que permaneció asintomática. La migraña menstrual se inició a los 21 años, cursando por lo general con un marcado cortejo vegetativo e intensos vómitos.
+A los 24 años, después de vomitar durante las crisis de migraña, comenzó a presentar de nuevo pérdidas de conciencia, de las que se recuperaba espontáneamente pocos segundos después. Sin embargo, en una ocasión, mientras permanecía inconsciente, comenzó a realizar sonidos guturales y presentó una convulsión generalizada de un minuto de duración. Fue valorada por un especialista en neurología, quien le estudió mediante un electroencefalograma (EEG) y una resonancia magnética (RM) cerebral, todo ello con resultado normal. Con el diagnóstico clínico de epilepsia inició tratamiento con zonisamida (ZNS) a dosis de 250 mg diarios. La paciente continuaba sufriendo los episodios de pérdida de conciencia, aunque con menor frecuencia. Generalmente se precedían de acúfenos, alejamiento del sonido, palpitaciones, sensación de desvanecimiento y debilidad.
+En este momento acude por primera vez a nuestra consulta. Un nuevo EEG muestra ondas lentas temporales derechas y una única descarga punta onda en la misma localización tras hiperventilación, sin acompañarse de clínica. Seguimos el estudio con un test de mesa basculante, durante el que sufrió un episodio habitual de mareo intenso con palpitaciones coincidiendo con un bloqueo de rama izquierda (BRI) completo. Por ello fue diagnosticada de trastorno de la conducción intraventricular y se le implantó un Holter-electrocardiograma (ECG) subcutáneo, retirando la ZNS progresivamente.
+En los meses sucesivos presentó tres nuevos episodios de pérdida de conciencia, con el estrés como única causa aparente. Uno de ellos ocurrió durante el sueño, despertándose con cortejo vegetativo y, por primera vez, cursó con incontinencia urinaria; otro se precedió de astenia y sensación de ardor epigástrico ascendente, asociando además mordedura lateral de la lengua y confusión posterior. En la lectura del Holter-ECG de un episodio se evidenció un BRI, pero en el resto no se registraron cambios. Como los episodios se mantenían y además añadían elementos clínicos nuevos (incontinencia urinaria y mordedura lateral de lengua), realizamos una monitorización con vídeo-EEG y registro simultáneo de ECG. En el trazado intercrítico destacaba la presencia de ondas lentas y descargas epileptiformes temporales derechas, en ocasiones a modo de brotes prolongados de ondas rítmicas. Durante el estudio presentó un episodio de sensación de mareo autolimitado, similar a los descritos inicialmente, que en el registro de EEG se correspondió con actividad theta rítmica organizada en región anteromedial del lóbulo temporal derecho, propagándose después hacia región posteromedial ipsilateral. Coincidiendo con el inicio clínico apareció un bloqueo de rama en el ECG. Una RM cerebral mostró ligera dilatación del asta temporal del ventrículo lateral derecho, sin otras alteraciones.
+Con los datos obtenidos concluimos que los episodios eran compatibles con crisis focales de origen temporal derecho, en el contexto de una epilepsia focal de causa desconocida, ya que no encontramos una lesión clara en la RM cerebral. Inició tratamiento con levetiracetam (LEV) a dosis máximas de 2.000 mg/día, sin desaparición de los episodios y con efectos secundarios (insomnio e irritabilidad fundamentalmente), por lo que hubo que sustituirlo por oxcarbacepina (OXC) hasta dosis de 1.800 mg/día. Con este fármaco ha quedado libre de episodios y sin efectos secundarios.
+Remitido por: Dr. Asier Gómez Ibáñez Departamento de Neurología Clínica Universidad de Navarra Avda Pío XII 36, 31008 Pamplona E-mail: agomezi@unav.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="36" text="Patricia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="49" end="61" text="Llosa Rivera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="68" end="75" text="4398563" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="83" end="97" text="26 78956032 11" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="134" end="142" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="148" end="153" text="31328" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="197" end="207" text="15/06/1975" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="215" end="221" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="229" end="236" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="243" end="244" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="264" end="274" text="01/07/2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="314" end="332" text="Asier Gómez Ibáñez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="340" end="351" text="31 31 20012" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="383" end="388" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="392" end="399" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="502" end="509" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="861" end="868" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="954" end="961" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T10" start="4361" end="4379" text="Asier Gómez Ibáñez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="4407" end="4437" text="Clínica Universidad de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="4438" end="4453" text="Avda Pío XII 36" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="4455" end="4460" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4461" end="4469" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="4478" end="4493" text="agomezi@unav.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Minerva.
+Apellidos: Alvarado Quintero.
+NHC: 3576324.
+NASS: 23 95642345 45.
+Domicilio: Calle Carnicer 17, 1 puerta 14 .
+Localidad/ Provincia: Madrid.
+CP: 28028.
+Datos asistenciales.
+Fecha de nacimiento: 13/06/1940.
+País: España.
+Edad: 76 años Sexo: M.
+Fecha de Ingreso: 03/11/2016.
+Médico: Jose Luis Torres Copado NºCol: 28 28 46712.
+Historia Actual:Mujer de 76 años con GCCA que fue remitida para tratamiento quirúrgico. Después de una trabeculectomía fracasada precozmente se decidió realizar un procedimiento combinado de implante valvular y facoemulsificación. Veinticuatro horas tras la cirugía la paciente mostraba una atalamia con contacto iridoendotelial periférico con una PIO de 40 mmHg. Después de descartar otras posibles causas de atalamia con hipertonía (desprendimiento coroideo, desprendimiento ciliocoroideo anular y bloqueo pupilar), se diagnosticó de glaucoma maligno y se realizó el mismo tratamiento que en el caso anterior (capsulotomía e hialoidotomía a través de la pupila). Al año de la cirugía, la PIO era de 12 mmHg con maleato de timolol 0,5% (Timoftol® 0,5%, Merck Sharp & Dohme de España SA, Madrid) cada 12 horas.
+Remitido por:  Jose Luis Torres Copado. Correo electrónico: a00799839@itesm.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="8" end="15" text="Minerva" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="28" end="45" text="Alvarado Quintero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="52" end="59" text="3576324" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="67" end="81" text="23 95642345 45" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="94" end="124" text="Calle Carnicer 17, 1 puerta 14" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="149" end="155" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="161" end="166" text="28028" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="210" end="220" text="13/06/1940" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="228" end="234" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="242" end="249" text="76 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="256" end="257" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="277" end="287" text="03/11/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="297" end="320" text="Jose Luis Torres Copado" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="328" end="339" text="28 28 46712" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="357" end="362" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="366" end="373" text="76 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T1" start="1095" end="1114" text="Merck Sharp &amp; Dohme" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T2" start="1118" end="1124" text="España" TYPE="PAIS" comment=""/>
+    <LOCATION id="T5" start="1129" end="1135" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <NAME id="T4" start="1167" end="1190" text="Jose Luis Torres Copado" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T3" start="1212" end="1231" text="a00799839@itesm.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

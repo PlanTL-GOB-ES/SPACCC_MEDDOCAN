@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Juan.
+Apellidos: Fernandez Garcia.
+NHC: 257892.
+NASS: 76 89765892 46.
+Domicilio: Calle de San Fernando 19, 1B.
+Localidad/ Provincia: Madrid.
+CP: 28035.
+Datos asistenciales.
+Fecha de nacimiento: 24/12/1990.
+País de nacimiento: España.
+Edad: 74 años  Sexo: H.
+Fecha de Ingreso: 03/01/2017.
+Médico: Manel Enrubia Iglesias  NºCol: 11 11 32641.
+Paciente de 11 años que consulta por dolor en la extremidad inferior derecha tras un traumatismo contra el bordillo de una piscina. En la exploración física se observa edema y dolor intenso a la palpación en la zona pretibial a nivel distal. Mantiene un apoyo estable, con leve cojera para la deambulación. Se solicita una radiografía de tibia y peroné en la que se identifica una lesión lítica cortical ovalada de bordes esclerosos en la zona distal de la tibia derecha, compatible con defecto fibroso cortical. Se indica un tratamiento conservador, presentando una evolución satisfactoria, con cese progresivo de la sintomatología.
+
+Bajo la imagen:
+Lesión lítica cortical ovalada y de borde escleroso en la metáfisis distal de la tibia derecha compatible con defecto fibroso cortical. Izquierda: proyección anteroposterior. Derecha: proyección lateral.
+Dirección para correspondencia: sandraduquefv@gmail.com (S.D. Fernández de Vega)

@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Santiago.
+Apellidos: Cornellas Rubios.
+NHC: 4835758.
+NASS: 70 33744569 30.
+Domicilio: Av. Arteixo, 72.
+Localidad/ Provincia: Medellin.
+CP: 47001.
+Datos asistenciales.
+Fecha de nacimiento: 23/10/1948.
+País: España.
+Edad: 44 años  Sexo: M.
+Fecha de Ingreso: 12/06/2018.
+Médico: Jorge Ortega Carnicer   NºCol: 28 28 54136.
+Varón de 77 años que consulta por dolor abdominal de varios meses de duración. La TC mostró la existencia de una masa retroperitoneal. Se realizó una biopsia tru-cut diagnosticada de tumor mesenquimal benigno. El resultado de la exéresis de la masa fue una tumoración multinodular de 4 Kg. de peso, de color pardo-blanquecino, capsulada de 18x16x12 cm. La superficie de corte presentaba un aspecto fibroso con áreas de necrosis y pequeños quistes. Cuatro años después de la intervención el paciente se encuentra asintomático.
+
+Dirección para correspondencia Irene Amat Villegas Pedro de Alejandría Nº 1, 2º D 31014 Pamplona. Navarra. (España). ireneyander@wanadoo.es

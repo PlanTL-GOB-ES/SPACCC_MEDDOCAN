@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Natalia.
+Apellidos: Diaz Aguirre.
+NHC: 75603.
+NASS: 34 05789655 69.
+Domicilio: Calle via limite 62, 6B.
+Localidad/ Provincia: Madrid.
+CP:28036.
+Datos asistenciales.
+Fecha de nacimiento: 30/06/1977.
+País: España.
+Edad: 36 años Sexo: M.
+Fecha de Ingreso: 13/11/2013.
+Servicio:Oftalmologia.
+Médico: Yolanda Fernández Barrientos  NºCol: 28 28 64168.
+Motivo de ingreso:Mujer emétrope de 36 años, que acude a nuestro servicio de urgencias por visión borrosa sin episodio gripal previo en enero de 1992. 
+Exploración y pruebas complementarias: A la exploración presentaba una agudeza visual (AV) en ojo derecho (OD) 20/30 y en el ojo izquierdo (OI) 20/60, células en cámara anterior de 1+ ambos ojos (AO) y múltiples puntos blancos de 100-200 micras más numerosos en el área temporal a la mácula en AO. La angiofluoresceingrafía (AFG) mostró múltiples puntos hiperfluorescentes. Se inició tratamiento con 40 mg al día de metilprednisolona IM (Urbason® soluble 40 mg, Aventis Pharma S.A., Madrid), atropina sulfato 10 mg/ml tópica (Atropina® 1%, Alcon Cusí S.A., Barcelona) cada 12 horas y dexametasona 1 mg/ml tópica (Maxidex®, Alcon Cusí S.A., Barcelona) cada 6 horas. A las dos semanas de tratamiento alcanzó una AV de 20/20 en AO. Las pruebas sistémicas solicitadas (analítica básica, radiografía de tórax, serología luética, enzima de conversión de la angiotensina y Mantoux) fueron negativas.
+Evolución y comentarios: Cuatro años más tarde presentó una nueva recidiva, más acusada en OD, con pérdida visual al nivel de 20/60 OD y 20/30 OI, sin evidenciarse alteraciones campimétricas. Se inició la misma pauta sistémica que en el episodio anterior con recuperación visual completa al mes de tratamiento, persistiendo alguna mancha blanca y pigmento peripapilar temporal superior en el OD.
+En septiembre de 2011 presentó un nuevo brote de carácter más leve. La AV era de 20/25 OD y 20/20 OI, apreciándose en la exploración funduscópica manchas blanco-amarillentas distribuidas por polo posterior y alteración del epitelio pigmentario retiniano (EPR) macular AO. Se inició tratamiento corticoideo tópico y sistémico como en el primer episodio. A las tres semanas desde el inicio del brote, la AV disminuyó a 20/40 OD y a 20/60 OI, por lo que se decidió añadir metotrexate oral (Metotrexato Lederle®, Whyeth, Madrid) a bajas dosis. Se solicitó estudio de HLA A29 que resultó negativo.
+En abril de 2015, la paciente se mantenía asintomática, con AV en 20/30 OD y 20/25 OI. En el fondo de ojo, presentaba un levantamiento del neuroepitelio yuxtafoveolar nasal en el OD, la tomografía de coherencia óptica confirmó el diagnóstico de sospecha de una MNVSR. La paciente rechazó el tratamiento, aunque cinco meses después, con una AV en OD de 20/60 se inició tratamiento de la MNVSR, con terapia fotodinámica (Visudyne®, Novartis Farmacéutica S.A., Barcelona) y triamcinolona acetónido intravitreo 4 mg en 0,1 ml (Trigón depot® 40 mg/ml, Bristol-Myers Squibb, Madrid). La AV en el OD mejoró a 20/40".
+En el momento actual, la paciente presenta una AV 20/40 OD y 20/25 OI, manchas blanco-amarillentas tenues en polo posterior de ambos ojos, lesiones de atrofia peripapilar AO, con afectación del haz papilomacular en el OD y varias lesiones blanquecinas inactivas, inferiores a la mácula del OI.
+Remitido por: Yolanda Fernández Barrientos C/. Vallehermoso, 15, 2.º, apto. 20 28015 Madrid España E-mail: yferbar@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T37" start="9" end="16" text="Natalia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T36" start="29" end="41" text="Diaz Aguirre" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T35" start="48" end="53" text="75603" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T34" start="61" end="75" text="34 05789655 69" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T33" start="88" end="111" text="Calle via limite 62, 6B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T32" start="135" end="141" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T31" start="146" end="151" text="28036" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T30" start="195" end="205" text="30/06/1977" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T29" start="213" end="219" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T28" start="227" end="234" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T27" start="241" end="242" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T26" start="262" end="272" text="13/11/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T25" start="305" end="333" text="Yolanda Fernández Barrientos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T24" start="342" end="353" text="28 28 64168" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T23" start="373" end="378" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T22" start="391" end="398" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T21" start="491" end="504" text="enero de 1992" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T20" start="969" end="988" text="Aventis Pharma S.A." TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T19" start="990" end="996" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="1047" end="1062" text="Alcon Cusí S.A." TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T17" start="1064" end="1073" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="1130" end="1145" text="Alcon Cusí S.A." TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T15" start="1147" end="1156" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T2" start="1799" end="1817" text="septiembre de 2011" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="2305" end="2311" text="Whyeth" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T13" start="2313" end="2319" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T1" start="2392" end="2405" text="abril de 2015" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="2819" end="2845" text="Novartis Farmacéutica S.A." TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T11" start="2847" end="2856" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T10" start="2936" end="2956" text="Bristol-Myers Squibb" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T9" start="2958" end="2964" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <NAME id="T8" start="3307" end="3335" text="Yolanda Fernández Barrientos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3336" end="3371" text="C/. Vallehermoso, 15, 2.º, apto. 20" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="3372" end="3377" text="28015" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="3378" end="3384" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3385" end="3391" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="3400" end="3419" text="yferbar@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

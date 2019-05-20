@@ -1,0 +1,15 @@
+Datos del paciente.
+Nombre: Ernesto.
+Apellidos: Intxaurrondo García.
+NHC: 7834503.
+Domicilio: Avenida 9A #15BN-51 Valle del Cauca .
+Localidad/ Provincia: Tudela.
+CP: 29009.
+Datos asistenciales.
+Fecha de nacimiento: 03/10/1949.
+País de nacimiento: España.
+Edad: 64 años  Sexo: H.
+Fecha de Ingreso: 12/05/2018.
+Médico: Leonor Barroso Saenz    NºCol: 28 28 93458.
+Mujer de 57 años de edad, portadora de un catéter autoposicionante. Tras cuatro años en DP, se observó una pequeña interrupción o desaparición de la línea radioopaca del catéter, pero un examen cuidadoso del catéter no reveló ningún punto de fuga. Sin embargo, nueve meses después, la paciente consultó por la presencia de fuga del dializado a través de un agujero localizado justo en el punto donde la línea radioopaca había desaparecido. Se le administró tratamiento antibiótico profiláctico y se procedió a una reparación del catéter, usando el segmento de catéter de extensión del kit. No se registró ningún tipo de complicación posterior.
+Dirección para correspondencia: Mercedes Moreiras-Plaza Servicio de Nefrología Complexo Hospitalario Universitario de Vigo Pizarro 22, 36204, Pontevedra mercedes.moreiras.plaza@sergas.es

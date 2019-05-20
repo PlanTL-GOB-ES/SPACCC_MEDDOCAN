@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Carlos.
+Apellidos: Vazquez Suescun.
+NHC: 3485964.
+Domicilio:  Av. Castilla y Leon. 23.
+Localidad/ Provincia: Asturias.
+CP: 33245.
+Datos asistenciales.
+Fecha de nacimiento: 12/01/1948.
+País: España.
+Edad: 68 años Sexo: H.
+Fecha de Ingreso: 23/09/2016.
+Médico: Carmen Macia Bobes  NºCol: 28 28.
+Informe clínico del paciente: Varón de 68 años, con antecedentes de hemorragia digestiva alta por aspirina y accidente isquémico transitorio a tratamiento crónico con trifusal (300 mg cada 12 horas), que acudió al Servicio de Urgencias del Hospital San Agustín (Avilés, Asturias), en mayo de 2006, por dolor en hemiabdomen izquierdo, intenso, continuo, de instauración súbita y acompañado de cortejo vegetativo. A la exploración presentaba una tensión arterial de 210/120 mm Hg, una frecuencia cardíaca de 80 por minuto, y dolor en fosa ilíaca izquierda, acentuado con la palpación. El hemograma (hemoglobina: 13 g/dL, plaquetas: 249.000), el estudio de coagulación, la bioquímica elemental de sangre, el sistemático de orina, el electrocardiograma y la radiografía simple de tórax eran normales. En la tomografía computarizada de abdomen se objetivó un extenso hematoma, de 12 cm de diámetro máximo, en la celda renal izquierda, sin líquido libre intraperitoneal; la suprarrenal izquierda quedaba englobada y no se podía identificar, y la derecha no presentaba alteraciones. La HTA no se llegó a controlar en Urgencias, a pesar del tratamiento con analgésicos, con antagonistas del calcio y con inhibidores de la enzima convertidora de la angiotensina II, por lo que el paciente, que mantenía cifras tensionales de 240/160 mm Hg, pasó a la Unidad de Cuidados Intensivos, para tratamiento intravenoso con nitroprusiato y labetalol. En las 24 horas siguientes se yuguló la crisis hipertensiva, y se comprobó que la hemoglobina y el hematocrito permanecían estables.
+Con la sospecha diagnóstica de rotura no traumática de un feocromocitoma pre-existente, se determinaron metanefrinas plasmáticas, que fueron normales, y catecolaminas y metanefrinas urinarias. En la orina de 24 horas del día siguiente al ingreso se obtuvieron los siguientes resultados: adrenalina: 65,1 mcg (valores normales -VN: 1,7-22,5), noradrenalina: 151,1 mcg (VN: 12,1-85,5), metanefrina: 853,5 mcg (VN: 74-297) y normetanefrina: 1396,6 mcg (VN: 105-354). A los 10 días, todavía ingresado el paciente, las cifras urinarias se habían normalizado por completo de modo espontáneo.
+Respecto al hematoma, en julio de 2006 no se había reabsorbido y persistía una imagen pseudoquística en la zona suprarrenal izquierda. En septiembre de 2006 se practicó una suprarrenalectomía unilateral, y el estudio histológico mostró una masa encapsulada de 6 x 5 cm, con necrosis hemorrágica extensa y algunas células corticales sin atipias.
+Remitido por: Dra. Carmen Maciá Bobes C/ Pablo Laloux 13, 6º A-Sur. 33405 Salinas. Castrillón. Asturias. (España) cmacb@arrakis.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T29" start="29" end="35" text="Carlos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T28" start="48" end="63" text="Vazquez Suescun" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T27" start="70" end="77" text="3485964" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T26" start="91" end="114" text="Av. Castilla y Leon. 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T25" start="138" end="146" text="Asturias" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T24" start="152" end="157" text="33245" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T23" start="201" end="211" text="12/01/1948" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T22" start="219" end="225" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T21" start="233" end="240" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T20" start="247" end="248" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T19" start="268" end="278" text="23/09/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T18" start="288" end="306" text="Carmen Macia Bobes" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T17" start="315" end="320" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="352" end="357" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="361" end="368" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T6" start="562" end="582" text="Hospital San Agustín" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="584" end="590" text="Avilés" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="592" end="600" text="Asturias" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T3" start="606" end="618" text="mayo de 2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T2" start="2498" end="2511" text="julio de 2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T1" start="2611" end="2629" text="septiembre de 2006" TYPE="FECHAS" comment=""/>
+    <NAME id="T16" start="2837" end="2855" text="Carmen Maciá Bobes" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T15" start="2856" end="2884" text="C/ Pablo Laloux 13, 6º A-Sur" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="2886" end="2891" text="33405" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="2892" end="2899" text="Salinas" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="2901" end="2911" text="Castrillón" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T11" start="2913" end="2921" text="Asturias" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T10" start="2924" end="2930" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T9" start="2932" end="2948" text="cmacb@arrakis.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

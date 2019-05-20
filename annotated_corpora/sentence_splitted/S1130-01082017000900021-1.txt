@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Ana Maria.
+Apellidos: Guzman Navarro.
+NHC: 54687.
+NASS: 02 08642704 67.
+Domicilio: C/ Los Cantos, 29, 5 A.
+Localidad/ Provincia: Madrid.
+CP: 31008.
+Datos asistenciales.
+Fecha de nacimiento: 24/05/2005.
+País de nacimiento: España.
+Edad: 29 años  Sexo: H.
+Fecha de Ingreso: 30/07/2015.
+Médico: Paula San Miguel Fraile   NºCol: 31 31 25060.
+Se presenta el caso de una paciente de 72 años con insuficiencia cardiaca grave, hipertensión pulmonar e insuficiencia renal crónica. Debutó con tumoración eritematosa, dura y no dolorosa de unos 2 cm a nivel subcutáneo en región esternal que se extirpó. El estudio anatomopatológico informó de tejido compatible con metástasis subcutánea de cistoadenocarcinoma mucinoso de origen biliar. La tomografía computarizada (TC) abdominal evidenció una lesión hepática central compatible con colangiocarcinoma hiliar o tumor de Klatskin. Dada la situación basal se instauró tratamiento paliativo.
+Correspondencia Carlos Navarro Cuéllar C/María Molina 60, 7ºA 28006 Madrid. Spain. Tel: 91-562 40 46 e-mail: cnavarrocuellar@mixmail.com

@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre:  Sandra.
+Apellidos: Rivera Perez.
+NHC: 7345690.
+NASS: 27 23793464 99.
+Domicilio: C/ Santiago de Compostela, 23, 5C.
+Localidad/ Provincia: Madrid.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 06/05/1964.
+País de nacimiento: Guatemala.
+Edad: 40 años Sexo: M.
+Fecha de Ingreso: 25/07/2004.
+Médico: Maria Romeo Donlo NºCol: 28 28 65802.
+Informe clínico del paciente: paciente femenina de 40 años de edad originaria y residente de una población cercana a la Ciudad de Guatemala, se presentó a consulta referida por su odontólogo general con una mácula pigmentada de color marrón oscuro, asintomática, descubierta en un examen clínico rutinario. La lesión se localizaba en la mucosa anterior de paladar duro, midiendo 0.5 cm de diámetro. La paciente no tenía ningún antecedente médico de importancia y gozaba de buena salud. Refería no tomar ningún tipo de medicamento. La paciente había perdido los incisivos superiores por exodoncias y utilizaba una prótesis parcial removible de acrílico, inadecuadamente diseñada que provocaba eritema por presión a la mucosa subyacente, se descartó candidiasis por citología exfoliativa.
+Se procedió a efectuar una biopsia escisional, bajo anestesia local, utilizando la técnica de sacabocado con un instrumento de 0.6 cm de diámetro. El sitio quirúrgico cicatrizó por segunda intención sin complicaciones.
+El tejido obtenido de la biopsia se fijó en formalina bufferizada al 10% y se procesó en forma rutinaria. El estudio microscópico de la misma, con tinción de hematoxilina-eosina, reveló un fragmento de mucosa recubierto por epitelio estratificado escamoso levemente acantótico, con espongiosis, que contenía numerosos melanocitos dendríticos. El tejido conectivo subyacente mostraba presencia de pigmento de melanina admixto a un infiltrado inflamatorio leve de predominio linfocítico. El diagnóstico definitivo fue melanoacantosis.
+Remitido por: Dra. Maria Romeo Donlo maria3334@hotmail.com

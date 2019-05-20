@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Ernesto.
+Apellidos: Alonso Montero.
+NHC: 5433426.
+Domicilio: Carrer de Casanova 79, 2B.
+Localidad/ Provincia: Barcelona.
+CP: 08011.
+Datos asistenciales.
+Fecha de nacimiento: 08/05/2010.
+País: España.
+Edad: 6 años Sexo: H.
+Fecha de Ingreso: 24/07/2016.
+Servicio: Oonología.
+Médico: María Luisa Díaz Ortiz NºCol: 08 20 52485.
+Historia Actual: Paciente varón de 6 años, sin antecedentes patológicos de interés, que acude para una revisión a la consulta de odontología. 
+Exploración: En la exploración intraoral presentaba una exfoliación de los cuatro incisivos superiores sin erupcionar ninguno de los definitivos. En la palpación se apreciaba una tumefacción en el cortical vestibular que correspondía a las coronas de los incisivos centrales superiores, pero éstos estaban localizados muy separados de la línea media. 
+Resumen de pruebas complementarias: Se solicitó una ortopantomografía para valorar la posición y el estado de la erupción de los incisivos superiores. La radiografía mostraba la presencia de dos mesiodens en la línea media. El del lado derecho se encontraba en posición más apical y era de mayor tamaño que el izquierdo. Ambos se hallaban en posición vertical y presentaban una forma conoide. Provocaban un gran diastema interincisal e impedían la correcta erupción de los incisivos centrales superiores. Se informó a la madre de la necesidad de realizar la extracción de los dientes supernumerarios para la correcta erupción dentaria del sector anterior, y el paciente fue derivado al servicio de cirugía maxilofacial para la extracción quirúrgica de los mesiodens. Antes de la cirugía, el paciente presentaba la erupción de 1/3 de la corona del incisivo superior izquierdo y la cúspide del mesiodens izquierdo. 
+Evolución y comentarios: El servicio de cirugía maxilofacial decide realizar la intervención en dos fases: primero hace la exodoncia quirúrgica del mesiodens izquierdo y realizará la del derecho cuando éste tenga una posición más baja. El paciente precisará controles periódicos para controlar la erupción dentaria y valorar la necesidad de un tratamiento ortodóncico posterior para cerrar el diastema interincisal y permitir, además, la erupción de los incisivos laterales superiores.
+Remitido por: Dra. María Luisa Díaz Ortiz. Hospital Sant Joan de Déu. Passeig de Sant Joan de Déu, 2, 08950 Esplugues de Llobregat, Barcelona. Correo Electrónico:  ldiazo@ambitcp.catsalut.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="8" end="15" text="Ernesto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="28" end="42" text="Alonso Montero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="49" end="56" text="5433426" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="69" end="94" text="Carrer de Casanova 79, 2B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="118" end="127" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="133" end="138" text="08011" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="182" end="192" text="08/05/2010" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="200" end="206" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="214" end="220" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="227" end="228" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="248" end="258" text="24/07/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="289" end="311" text="María Luisa Díaz Ortiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="319" end="330" text="08 20 52485" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="358" end="363" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="367" end="373" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2246" end="2268" text="María Luisa Díaz Ortiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2270" end="2295" text="Hospital Sant Joan de Déu" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2297" end="2327" text="Passeig de Sant Joan de Déu, 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2329" end="2334" text="08950" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2335" end="2357" text="Esplugues de Llobregat" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2359" end="2368" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2391" end="2418" text="ldiazo@ambitcp.catsalut.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

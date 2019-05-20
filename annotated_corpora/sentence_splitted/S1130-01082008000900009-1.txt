@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Jimena.
+Apellidos: Peña Romero.
+NHC: 7894562.
+NASS: 65 84236989 10.
+Domicilio: Calle Anastassia Zhorova, 4, 3 Der..
+Localidad/ Provincia: Medellin, Antioquia.
+CP: 08216.
+Datos asistenciales.
+Fecha de nacimiento: 04/04/1970.
+País de nacimiento: España.
+Edad: 72 años  Sexo: Varón.
+Fecha de Ingreso: 21/12/2014.
+Servicio: Urologia.
+Episodio: 7845673.
+Médico: Noemí Ruiz del Río  NºCol: 08 08 36923.
+Varón de 33 años y mujer de 32 años, naturales de Perú, sin antecedentes personales de interés, que acuden al Servicio de Urgencias por cuadro de dolor abdominal de doce horas de evolución localizado a nivel epigástrico, no irradiado, continuo, sin otra sintomatología asociada. Como único antecedente de interés referían la noche previa ingesta de comida típica peruana, en forma de pescado crudo. El abdomen era blando, depresible pero doloroso en el epigastrio. No había masas, organomegalias abdominales ni signos de irritación peritoneal. Se observó leucocitosis importante con neutrofilia (16.000 L), sin eosinofilia. El estudio endoscópico de ambos pacientes mostró la presencia de incontables AS adheridos a la pared gástrica y duodenal, la mayoría de ellos agrupados en nidos con más de diez parásitos. También los había aislados entre los pliegues mucosos, donde producían intenso edema y múltiples erosiones por toda la cavidad gástrica y duodenal. Se procedió a la extracción de los mismos mediante pinza de biopsia.
+
+Dirección para correspondencia: Ma José Donate Moreno Ávila, 17 4oG 02002 Albacete. (España) donajiu@ono.com

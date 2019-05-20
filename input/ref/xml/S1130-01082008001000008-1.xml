@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Matias.
+Apellidos: Pedroza Gutierrez.
+NHC: 239874.
+NASS: 87 92789265 83.
+Domicilio: Calle Flor Baja, 3.
+Localidad/ Provincia: Madrid.
+CP: 28013.
+Datos asistenciales.
+Fecha de nacimiento:25/10/1956.
+País: España.
+Edad: 61 años Sexo:.
+Fecha de Ingreso: 25/12/2017.
+Médico: Natalia Ventura-Martínez NºCol:28 28 98754.
+Historia del paciente: Varón de 61 años con antecedente de DMNID que ingresa para colecistectomía laparoscópica programada que se realiza con 4 trocares. El postoperatorio cursa con normalidad, presentado al tercer día de la intervención un golpe de tos seguido de un abombamiento de todo el recto anterior derecho, muy doloroso y de consistencia dura. Se realiza TAC urgente donde se objetiva aumento de la atenuación y volumen del recto anterior del abdomen con un diámetro antero-superior de unos 6 x 20 cm en sentido craneocaudal, compatible con hematoma de gran volumen en recto anterior derecho posiblemente secundario a lesión por trocar de los vasos epigástricos. Inicialmente se maneja de manera conservadora realizando controles del hematocrito que cae hasta dos puntos sin necesidad de transfusión, y finalmente drena espontáneamente a través del orificio del trocar supraumbilical. El paciente es dado de alta a los 28 días postintervención. Diagnóstico: gran hematoma de pared abdominal.
+Remitido por: Natalia Ventura-Martínez. Correo electrónico: natalia.ventura@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="9" end="15" text="Matias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="28" end="45" text="Pedroza Gutierrez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="52" end="58" text="239874" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T14" start="66" end="80" text="87 92789265 83" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T13" start="93" end="111" text="Calle Flor Baja, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T12" start="135" end="141" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T11" start="147" end="152" text="28013" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="195" end="205" text="25/10/1956" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T8" start="213" end="219" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T7" start="227" end="234" text="61 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="260" end="270" text="25/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="280" end="304" text="Natalia Ventura-Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="311" end="322" text="28 28 98754" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="347" end="352" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="356" end="363" text="61 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="1339" end="1363" text="Natalia Ventura-Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1385" end="1410" text="natalia.ventura@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

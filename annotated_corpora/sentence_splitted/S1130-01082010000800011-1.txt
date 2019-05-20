@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Verónica.
+Apellidos: Rivera Guijarro.
+NHC: 3173568.
+Domicilio: Avda. Julio Palacios, 23.
+Localidad/ Provincia: San Lucas, Coyoacan, CDMX.
+CP: 19002.
+Datos asistenciales.
+Fecha de nacimiento: 13/05/2010.
+País de nacimiento: España.
+Edad: 65 años  Sexo: Femenino.
+Fecha de Ingreso: 12/07/2018.
+Médico: Jorge Ortega Carnicer  NºCol: 28 28 12478.
+Se trata de un paciente varón de 75 años con antecedentes de intervención por ulcus gástrico y cardiopatía, portador de marcapasos, que ingresa de manera electiva para ser intervenido de hernioplastia inguinal derecha por hernia inguinoescrotal de grandes dimensiones y de más de 10 años de evolución.
+El paciente no refería clínica ni sintomatología que hiciera sospechar la presencia de un divertículo de Meckel. Se realizó una hernioplastia hallándose una hernia inguinoescrotal directa con gran saco herniario y con intestino delgado en su interior (aproximadamente 50 cm). Al proceder a la revisión del mismo se halló el citado divertículo de Meckel con unas dimensiones aproximadas de 7 cm de longitud por 2 cm de diámetro. Se procedió a su resección en cuña y se completó la cirugía. El paciente evolucionó de manera favorable en el postoperatorio siendo dado de alta a las 24 horas de la intervención sin incidencias.
+Dirección para correspondencia: r.pascual.verdu@gmail.com andrea.lopezbosch@gmail.com

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Teresa.
+Apellidos: Román Montalvo.
+NHC: 70436.
+NASS: 82 35613758 41.
+Domicilio: Av. del Rocío, 2.
+Localidad/ Provincia: Murcia.
+CP: 30007.
+Datos asistenciales.
+Fecha de nacimiento: 03/10/1960.
+País: España.
+Edad: 60 años Sexo:.
+Fecha de Ingreso: 21/08/2017.
+Médico: Joana Díaz Ontiveros NºCol:30 30 47985.
+Historia Actual: Mujer de 56 años de edad, hipertensa, diagnosticada de patología espinal de D11-D12 y L3-L4, se le practicó artrodesis pósterolateral L1-L5 más injerto de lámina y sustituto óseo, presentando mala evolución, con infección de herida quirúrgica y necrosis de la musculatura paravertebral que necesitó 3 nuevas intervenciones para desbridar el tejido no viable. Tras la tercera intervención, se le colocó un sistema de terapia de vacío y fue derivada a nuestro Servicio, centro de referencia para Cirugía Reconstructiva. El tiempo transcurrido entre la primera cirugía de columna y el momento de la derivación a nuestro Servicio fue de aproximadamente 18 días.
+La paciente fue trasladada en camilla puesto que presentaba imposibilidad para la deambulación y atrofia importante en ambos miembros inferiores, así como un defecto en la zona dorso-lumbar de aproximadamente 20 x 5 cm de diámetro, con exposición de columna vertebral y material de osteosíntesis. No presentaba signos de infección.
+Antecedentes: poliomielitis al año de vida y secuelas en miembro inferior izquierdo que requirió múltiples intervenciones para posibilitar la marcha adecuada, así como cirugía de columna lumbar a los 42 años de edad. 
+Procedimiento quirúrgico: Realizamos estudio de la extensión del defecto mediante Tomografía Axial Computarizada (TAC) que informó de artrodesis instrumentada desde L1-S1 con resección de elementos posteriores y aumento de partes blandas posterior en lecho quirúrgico, con restos de aire y masa de partes blandas que sugiere cambios postquirúrgicos, sin evidencia de abscesos. Practicamos también angioTAC dorso-lumbar para conocer la viabilidad de las perforantes paravertebrales músculo-cutáneas.
+Mantuvimos el sistema de terapia de vacío en la herida quirúrgica durante 20 días, mientras se completaron los estudios de imagen y preanestésicos, para que contribuyera a la limpieza de la lesión.
+La planificación del procedimiento quirúrgico incluyó el desbridamiento del tejido cicatricial, la cobertura de las estructuras óseas profundas con un tejido bien vascularizado y el cierre del defecto cutáneo sin tensión.
+Bajo anestesia general, con la paciente en posición de decúbito lateral izquierdo, practicamos desbridamiento escisional de los bordes de piel invertida y del tejido fibroso cicatricial en la región lumbar. Diseñamos y levantamos un colgajo muscular de dorsal ancho reverso basado en los pedículos secundarios, con trasposición del mismo al defecto lumbar por tunelización y fijado en el tejido muscular sano perilesional. Colocamos 4 drenajes espirativos, 2 en la zona donante y 2 en la zona receptora, quedando uno en el plano submuscular y el otro en el plano subcutáneo.
+El cierre de la zona donante fue directo, por planos, sin tensión. El cierre de la piel de la zona receptora se realizó previo Friedrich de los bordes, sin tensión y sin comprimir el colgajo muscular.
+Evolución y comentarios: A los 5 días de postoperatorio evidenciamos un aumento de volumen paravertebral derecho tras movilización brusca de la paciente en la cama. Practicamos ecografía que informó de la presencia de hematoma intramuscular paravertebral derecho de 15 x 2 cm de tamaño. Bajo anestesia general, evacuamos un hematoma coagulado y comprobamos la viabilidad del colgajo muscular, volviendo a cerrar la herida.
+A los 18 días la paciente comienza a caminar con ayuda de un andador, recuperando la funcionalidad de los miembros inferiores y siendo dada de alta en el día 22 de postoperatorio.
+Durante el seguimiento de 2 años tras la cirugía, la paciente presenta una deambulación normal y una excelente evolución local del colgajo.
+Remitido por: Dr. Joana Díaz Ontiveros C/ Pintor José Maria Soberano no 1 Urb. La Quinta Molina de Segura 30509. Murcia, España e-mail: joannaidiazo@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="15" text="Teresa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="28" end="42" text="Román Montalvo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="49" end="54" text="70436" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="62" end="76" text="82 35613758 41" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="89" end="105" text="Av. del Rocío, 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="129" end="135" text="Murcia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="141" end="146" text="30007" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="190" end="200" text="03/10/1960" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="208" end="214" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="222" end="229" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="255" end="265" text="21/08/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="275" end="295" text="Joana Díaz Ontiveros" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="302" end="313" text="30 30 47985" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="332" end="337" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="341" end="348" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="1522" end="1529" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3996" end="4016" text="Joana Díaz Ontiveros" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="4017" end="4055" text="C/ Pintor José Maria Soberano no 1 Urb" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="4057" end="4083" text="La Quinta Molina de Segura" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="4084" end="4089" text="30509" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="4091" end="4097" text="Murcia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="4099" end="4105" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="4114" end="4136" text="joannaidiazo@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

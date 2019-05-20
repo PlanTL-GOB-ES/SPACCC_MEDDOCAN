@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Esteban.
+Apellidos: Vicuña Ardoain.
+NHC: 2046598.
+NASS: 07 24675873 03.
+Domicilio: Calle de la Virgen, 45, 5C.
+Localidad/ Provincia: Toledo.
+CP: 45210.
+Datos asistenciales.
+Fecha de nacimiento: 23/05/1964.
+País de nacimiento: Argentina.
+Edad: 48 años Sexo: H.
+Fecha de Ingreso: 04/07/2012.
+Servicio: Urología.
+Médico: Ignacio Gómez García  NºCol: 45 45 87952.
+Historia Actual: Varón de 48 años natural de Argentina sin antecedentes personales de interés con aumento y dolor progresivo del testículo izquierdo de 2 meses de evolución; no refiere sintomatología urinaria, no fiebre. Tratado con distintas pautas antibióticas sin mejoría.
+Exploración física: En la exploración física, se aprecia tumoración dura en teste izquierdo no dolorosa y sin signos de fluctuación. 
+Pruebas complementarias: Hemograma: Destaca linfocitosis, resto normal. Sedimento de orina: Piuria. Cultivo de orina: estéril. Cultivos de semen: E. coli (1o), S. Sprophiticus (2o), P. Mirabilis(3o). Marcadores tumorales: CEA, alfa feto y BHCG normales. Ecografía urinaria: normal. Ecografía testicular : Tumoración testicular izquierda heterogénea sin áreas liquidas en su interior. Mantoux positivo con ulceracion. Ante la ausencia de mejoría clínico radiológica se realiza orquiectomía radical siendo informado el estudio patológico de orquitis inespecífica.
+Evolución: Se remite muestra a microbiología, constituida por exudado purulento obtenido intraoperatoriamente del tejido testicular. La tinción de auramina para micobacterias fue negativa. En la tinción de Gram se observaron leucocitos polimorfonucleares y escasos bacilos Gram(+), alguno de ellos filamentosos, con tinción irregular y con extremos bacilares abultados en forma de mazas. La amplificación genómica (PCR) para M.tuberculosis fue negativa. La detección del antígeno de Chlamydia fue también negativa. El cultivo para bacterias habituales, incluidas Neiserias y Haemophilus, fueron negativos a las 72 horas de incubación.
+A las 96 horas, se detectó en el cultivo el crecimiento, de un microorganismo muy adherente al medio, difícil de emulsionar que a la tinción de Gram presentaba una morfología de bacilo Gram(+) de aspecto coryneforme, a veces con tinción irregular y algunos con terminaciones en forma de maza La tinción de Ziehl Neelsen modificada fue negativa.
+La identificación fenotípica no aportaba datos significativos por los que se procedió al estudio genético mediante secuenciación del 16SrRNA, identificándose la cepa como Corynebacterium thomsseni. Los cultivos para Nocardias, Micobacterias y hongos fueron negativos. La cepa aislada era muy sensible a Penicilina, Ampicilina,Amoxicilina con clavulánico, Cefotaxima, Gentamicina, Amikacina, Eritromicina,Tetraciclina, Trimetroprim sullfametoxazol, Rifampicina e Imipenem.
+Remitido por: Dr. Ignacio Gómez García Servicio de Urología Hospital Virgen de la Salud Avda. de Barber, s/n 45004 Toledo (España) naggoga@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="35" text="Esteban" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="48" end="62" text="Vicuña Ardoain" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="69" end="76" text="2046598" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="84" end="98" text="07 24675873 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="111" end="137" text="Calle de la Virgen, 45, 5C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="161" end="167" text="Toledo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="173" end="178" text="45210" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="222" end="232" text="23/05/1964" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="254" end="263" text="Argentina" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="271" end="278" text="48 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="285" end="286" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="306" end="316" text="04/07/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="346" end="366" text="Ignacio Gómez García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="375" end="386" text="45 45 87952" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="405" end="410" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="414" end="421" text="48 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T1" start="433" end="442" text="Argentina" TYPE="PAIS" comment=""/>
+    <NAME id="T8" start="2830" end="2850" text="Ignacio Gómez García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2872" end="2899" text="Hospital Virgen de la Salud" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="2900" end="2920" text="Avda. de Barber, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2921" end="2926" text="45004" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2927" end="2933" text="Toledo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2935" end="2941" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="2943" end="2959" text="naggoga@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: David.
+Apellidos: Gonzalez Pedroza.
+NHC: 4576376.
+NASS: 75 48328974 47.
+Domicilio: Av. de Oviedo, 48 1B.
+Localidad/ Provincia: Asturias.
+CP: 33420.
+Datos asistenciales.
+Fecha de nacimiento: 21/04/1973.
+País: España.
+Edad: 45 años Sexo: H.
+Fecha de Ingreso: 19/05/2018.
+Médico: Francisco Muñoz GOnzalez  NºCol: 33 28 56221.
+Informe clínico del paciente: Varón de 45 años de edad, sin alergias medicamentosas conocidas. Entre sus antecedentes personales: exfumador (más de 30 paquetes/año), diabetes mellitus tipo 2, hipercolesterolemia, una historia de anticuerpo antifosfolípido circulante con antecedentes de dos trombosis venosas profundas. Dentro de su historia vascular previa al ingreso: en octubre del 2004 se le había colocado un stent ilíaco izquierdo más un by-pass fémoro-femoral izquierda-derecha. En febrero del 2005 se le realizó dilatación con crioterapia de ilíaca izquierda, que no es efectiva por lo que se le realiza by-pass fémoro-poplíteo a primera porción en el miembro inferior izquierdo.
+En febrero del 2006 ingresa nuevamente en el servicio de cirugía vascular por clínica de claudicación corta. En una primera intervención se le realiza un by-pass íleo-femoral bilateral con colocación de catéter epidural para analgesia postquirúrgica. El postoperatorio no es satisfactorio, por lo que tres días más tarde, se realiza una nueva intervención: by-pass de femoral común con safena interna en pierna izquierda. A las 24 horas de evolución pierde el catéter epidural, pautándose en es momento analgesia endovenosa. Cuatro días más tarde la evolución no es adecuada, con un pie de aspecto isquémico, dedos fríos, signos de prenecrosis, junto con intenso dolor que precisa tratamiento con fentanilo transdérmico, rescates con bolos de 5 mg de cloruro mórfico subcutáneo cada hora y corticoides orales (prednisona 60 mg/día), sospechándose la posibilidad de microinfartos de pequeño vaso y barajándose la posibilidad de amputación de tercio anterior del pie, dada la mala situación. Se solicita consulta al servicio de anestesiología (Unidad del Dolor) que desestima la colocación de nuevo catéter epidural, por encontrarse el paciente en terapia con anticoagulantes orales. Se decide colocación de catéter ciático (Stimulong-plus Plexos Cateter set 19 G-100 mm de Pajunk®), que se realiza en quirófano, con neuroestimulación y por vía proximal posterior glútea (técnica de Labat). Se inicia entonces perfusión con bupivacaína 0.37 % a 3-5 ml/hora. Dos días más tarde el pie presenta mucho mejor aspecto. Seis días con posterioridad a la colocación del catéter comienza a caminar, perdiendo el catéter ciático tres días después, pasándose en ese momento a analgesia endovenosa. Es alta 2 días después con una evolución satisfactoria.
+Remitido por: Dr. Francisco Muñoz González C/ La Moratina nº 11 - 33820 Grado Asturias Hospital Universitario Central de Asturias stl967523977@wanadoo.es Financiación: Ninguna Conflictos de interés: No declarados
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="8" end="13" text="David" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="26" end="42" text="Gonzalez Pedroza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="49" end="56" text="4576376" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="64" end="78" text="75 48328974 47" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="91" end="111" text="Av. de Oviedo, 48 1B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="135" end="143" text="Asturias" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="149" end="154" text="33420" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="198" end="208" text="21/04/1973" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T19" start="216" end="222" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="230" end="237" text="45 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="244" end="245" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="265" end="275" text="19/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="285" end="309" text="Francisco Muñoz GOnzalez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="318" end="329" text="33 28 56221" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T13" start="361" end="366" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T15" start="370" end="377" text="45 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="704" end="720" text="octubre del 2004" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="820" end="836" text="febrero del 2005" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="1022" end="1038" text="febrero del 2006" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="2778" end="2802" text="Francisco Muñoz González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2803" end="2823" text="C/ La Moratina nº 11" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2826" end="2831" text="33820" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2832" end="2837" text="Grado" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2838" end="2846" text="Asturias" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2847" end="2889" text="Hospital Universitario Central de Asturias" TYPE="HOSPITAL" comment=""/>
+    <CONTACT id="T1" start="2890" end="2913" text="stl967523977@wanadoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

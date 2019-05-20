@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Manuel.
+Apellidos: Sandoval Granada.
+NHC: 3486758.
+NASS: 38 48457868 06.
+Domicilio: C/ Bambu, 4, 1 D.
+Localidad/ Provincia: Madrid.
+CP: 28741.
+Datos asistenciales.
+Fecha de nacimiento: 21/08/1989.
+País de nacimiento: España.
+Edad: 28 años Sexo: H.
+Fecha de Ingreso: 10/04/2017.
+Médico: Raquel Guijarro Martínez NºCol: 28 28 92397.
+Informe clínico del paciente: paciente varón de 28 años de edad, sin antecedentes de interés, consultó por una tumoración malar izquierda progresiva, no dolorosa, que se había notado desde hacía 15 días. No refería antecedente de traumatismo local. A la exploración se palpaba una lesión de consistencia dura en reborde inferoexterno de la órbita izquierda, de aproximadamente 1 cm de diámetro, sin pulsatilidad aparente.
+La ecografía Doppler informó de lesión malar expansiva, polilobulada, con calcificación parcial y sin señal vascular. La tomografía computarizada (TC) orbitaria detectó una lesión medular redondeada, bien definida, con estructura interna trabeculada y expansión cortical sin infiltración ni reacción perióstica. La resonancia magnética (RM) describió una lesión osteolítica malar expansiva de 16x10x13mm, con márgenes escleróticos bien definidos, ausencia de infiltración de partes blandas perilesionales e intensa captación de contraste.
+Ante el diagnóstico de presunción de lesión vascular de bajo flujo, y dadas las características progresivas de la lesión, se decidió extirpación de la lesión bajo anestesia general. A través de un abordaje subciliar izquierdo con ampliación en cola hacia el malar y disección por planos se expuso la lesión. Tras una osteotomía en caja incluyendo un margen de seguridad periférico de 0,5cm, el defecto se reconstruyó con injerto de mentón y placa de titanio arqueada. Los gaps intercorticales se rellenaron de hueso esponjoso obtenido de la zona donante. Los controles radiológicos postoperatorios muestran una reconstrucción anatómica con buena consolidación ósea.
+El estudio anatomopatológico reveló espacios vasculares dilatados recubiertos de endotelio sin atipia, concluyéndose un "hemangioma intraóseo". Sin embargo, el estudio inmunohistoquímico fue negativo para GLUT-1. Por tanto, consideramos que el diagnóstico correcto clínica e inmunohistoquímicamente es de malformación venosa intraósea.
+Tras 5 meses de seguimiento, el paciente está completamente asintomático, con un resultado estético excelente.
+Responsable clínico: Raquel Guijarro Martínez raquelguijarro@comv.es 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="34" text="Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="47" end="63" text="Sandoval Granada" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="70" end="77" text="3486758" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="85" end="99" text="38 48457868 06" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="112" end="128" text="C/ Bambu, 4, 1 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="152" end="158" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="164" end="169" text="28741" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="213" end="223" text="21/08/1989" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="245" end="251" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="259" end="266" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="273" end="274" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="294" end="304" text="10/04/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="314" end="338" text="Raquel Guijarro Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="346" end="357" text="28 28 92397" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="398" end="403" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="407" end="414" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2454" end="2478" text="Raquel Guijarro Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2479" end="2501" text="raquelguijarro@comv.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Angi.
+Apellidos: Rot Rodriguez.
+NHC: 2568575.
+NASS: 89 56206853 21.
+Domicilio: C/ Carnicer, 14, 1, 17.
+Localidad/ Provincia: Madrid.
+CP: 46005.
+Datos asistenciales.
+Fecha de nacimiento: 12/05/1978.
+País de nacimiento: España.
+Edad: 78 años  Sexo: H.
+Fecha de Ingreso: 01/06/2017.
+Médico: Ramon Tambeck Arauz   NºCol: 11 11 54263.
+Varón de 65 años que consulta por hematuria total macroscópica sin coágulos. Antecedentes de hiperlipemia, ulcus peptico y cardiopatía isquémica. Exploración: hernia inguinal bilateral, genitales externos dentro de la normalidad, tacto rectal con hipertrofia prostática volumen II/IV fibroblástica y sin nódulos. Analítica sanguínea normal. UIV: defecto de repleción en pared lateral derecha de la vejiga y otro en pelvis renal derecha. Citología urinaria selectiva de vía urinaria alta derecha negativa para células tumorales. Se realiza RTU de neoformación vesical y Pielectomía parcial derecha con resultado anatomopatológico de Carcinoma transicional de vejiga T1 GII y papiloma invertido de pelvis renal respectivamente. En el seguimiento, con cistoscopias, citologías y UIV, el paciente presenta al año y a los tres años recidiva vesical de carcinoma transicional (T1GII). A los 6 años del diagnóstico inicial el paciente presenta metástasis en cavidad craneal y pared abdominal de carcinoma de células pequeñas cuyo órgano de origen es desconocido, falleciendo a los 3 meses de éste último diagnóstico.
+
+Dirección para correspondencia: Correo electrónico: hangladamartinez@gmail.com (Helena Anglada Martínez)

@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Liliana.
+Apellidos: Santana Prados.
+NHC: 8928210.
+NASS: 73 57346053 89.
+Domicilio: Pº rosales, 28,3A .
+Localidad/ Provincia: Jaén.
+CP: 24071.
+Datos asistenciales.
+Fecha de nacimiento: 15/04/1948.
+País de nacimiento: España.
+Edad: 49 años  Sexo: H.
+Fecha de Ingreso: 25/04/2017.
+Servicio: Urologia.
+Médico: Ramón Alcubierre  NºCol: 47 47 58996.
+Varón de 54 años con fibrosis pulmonar idiopática diagnosticada mediante biopsia pulmonar en 1999. Como antecedentes, hábito tabáquico y etanólico importantes. Presentaba una situación basal de disnea de mínimos esfuerzos y oxigenoterapia domiciliaria. Consulta en agosto de 2000 por dolor abdominal autolimitado. En la exploración física únicamente destacaban crepitantes secos generalizados. La analítica completa fue rigurosamente normal, y los marcadores tumorales mostraron una elevación de CA 19.9: 145 UI/ml (vn: 0-37), con CEA y AFP negativos. La endoscopia digestiva alta y baja, ecografía abdominal, TAC y colangio-resonancia no mostraron alteraciones significativas.
+En controles sucesivos, presenta elevación progresiva de dicho marcador, hasta un valor máximo de 253 UI/ml en agosto de 2002, paralelo al empeoramiento de su función respiratoria. Se repitió estudio con técnicas de imagen sin encontrar cambios con respecto a los anteriores. El paciente falleció 6 meses después por agravamiento de su patología respiratoria.
+Correspondencia a: Alberto Fica Cubillos albertofica@gmail.com

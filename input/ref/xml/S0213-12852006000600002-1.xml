@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Raquel.
+Apellidos: Becker Martín.
+NHC: 7845693.
+NASS: 67 55478621 30.
+Domicilio: Avda. Pitis, 86, Sótano C.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 15/07/1969.
+País de nacimiento: España.
+Edad: 34 años Sexo: M.
+Fecha de Ingreso: 20/01/2004.
+Médico: Zulema Casariego Acosta NºCol: 28 28 74510.
+Informe clínico del paciente:  paciente del sexo femenino, de 34 años de edad, pareja de adicto, con dos hijos negativos para el VIH. Positiva desde el año 1995, se declara soltera y de ocupación ama de casa. Se presentó a la consulta en forma ambulatoria los primeros días del mes de marzo del año 2005. A la admisión, se registraron valores negativos para VDRL, Chagas, Toxoplasmosis, Antígeno de Superficie para Hepatitis B y positiva para Hepatitis C y para Citomegalovirus (CMV). El recuento de células CD4+ resultó, en ese momento, de 125 células /dl (4%), con el resultado de la carga viral en trámite.. Se estableció un esquema de tratamiento antirretroviral de D4T, 3TC y EFAVIRENS.
+La paciente se regresó a los 45 días refiriendo pérdida de peso importante, sudoraciones nocturnas y un nódulo no doloroso a nivel del incisivo superior derecho, según descripción médica. Se indicó internación.
+Un análisis de rutina refirió un hematocrito de 32%, hemoglobina de 10 y glóbulos blancos de 3.800. La medicación la hubo abandonado por intolerancia.
+Inspeccionado por un estomatólogo, el informe refirió que la paciente no presentaba candidiasis oral, ni odinofagia, pero se observaban tres lesiones en evolución: una a la altura del canino superior derecho, nodular, que involucraba en su interior parte de la pieza dentaria, dolorosa y de color rojo intenso que se continuaba hacia la parte distal y se extendía hacia el paladar. En la zona posterior, una úlcera de bordes evertidos, de fondo necrótico, extendía hasta la zona posterior de los molares. Estas tres lesiones evolucionaron día a día tomando mayores proporciones e incluyendo las partes blandas de la región facial.
+A la observación general, el abdomen se presentaba blando e indoloro. Un nuevo análisis de sangre rindió un hematocrito de 275, hemoglobina del 9,3% y glóbulos blancos: 8.100 ; plaquetas: 237.000. La evolución de la paciente denota signos de falla, sin fiebre. Se realizaron ECO doppler y angio TAC.
+Se efectuaron tres tomas biopsias de la tumoración bucal que había avanzado por todo el reborde alveolar hacia la zona hamular posterior y al paladar duro y blando del mismo lado. Una úlcera de 2 cm de largo por 1,5 de ancho se localizaba en el reborde alveolar en la zona molar y en la zona incisal, una protuberancia de forma cónica con su base de 2 cm de diámetro aproximadamente implantada en el reborde alveolar anterior y su extremo ulcerado hacía eclosión hacia el exterior, con signos de inclusión desordenada de 2 piezas dentarias.
+El resultado del informe histológico de las lesiones bucales refirió " una proliferación celular morfológicamente de aspecto linfoide constituida por células de menor a gran tamaño con dos o más núcleos vesiculosos y nucléolos eosinófilos evidentes. Se observan numerosas figuras de mitosis con índice de proliferación elevada, tipo inmunoblástico a células grandes".
+En la tinción por inmunohistoquímica el informe relató "células B y marcación positiva para antígenos CD 79, CD209, y CD22. Las células del tumor son negativas para marcadores epiteliales CD56, CD57, CD50 y CD15. Linfoma difuso histiocítico a células grandes".
+El equipo oncológico inició el primer ciclo de ERORH (prednisona+etopósido+ dexametasona+ ciclofosfamida + vincristina). Dosis ajustada a CD4 > 100. En el posoperatorio, la paciente evolucionó con neutropenia, fiebre, candidiasis oral y lesión perianal por herpes virus activa.
+Se instaló el segundo ciclo de quimioterapia del cual evolucionó con mejoría general, sin complicaciones. La paciente fue dada de alta el 14/6/05 con indicaciones para tratar el CMV y con la instalación del tratamiento antirretroviral (TARV) con D4T, EFV y ·3TC.
+La paciente regresó con un estado general muy deficiente, por lo cual se volvió a internar. En un nuevo estudio de resonancia magnética surgen múltiples imágenes nodulares en hígado y riñón, compatibles con el Linfoma. Además, reactivación del herpes virus anal, muy doloroso, por lo cual se la medicó con Aciclovir 800 mg diarios y Amfotericina B + TMS a dosis PCP.
+El linfoma No Hodgkin oro facial diagnosticado como de alto grado de malignidad había comprometido ya toda la hemifacie derecha y presentaba proporciones mayores de invasión fig ya doloroso. En su inspección diaria se diagnóstico, en la zona intraabdominal y el pericardio, signos de la misma enfermedad.. Se produjo un deterioro del estado general con vómitos y náuseas persistentes, dolores generalizados, postración, candidiasis oral y esofágica y el 6/9/05, la paciente obitó, neutropénica febril, a los seis meses de su primera consulta.
+Responsable clínico: Dra. Zulema Casariego Acosta. E-Mail: zulemacasariego@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="28" end="34" text="Raquel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="47" end="60" text="Becker Martín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="67" end="74" text="7845693" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="82" end="96" text="67 55478621 30" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="109" end="134" text="Avda. Pitis, 86, Sótano C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="158" end="164" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="170" end="175" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="219" end="229" text="15/07/1969" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="251" end="257" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="265" end="272" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="279" end="280" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="300" end="310" text="20/01/2004" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="320" end="343" text="Zulema Casariego Acosta" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="351" end="362" text="28 28 74510" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T3" start="413" end="421" text="femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="426" end="433" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T1" start="443" end="459" text="pareja de adicto" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="465" end="474" text="dos hijos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="516" end="524" text="año 1995" TYPE="FECHAS" comment=""/>
+    <ID id="T9" start="537" end="544" text="soltera" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <PROFESSION id="T8" start="560" end="571" text="ama de casa" TYPE="PROFESION" comment=""/>
+    <DATE id="T2" start="649" end="667" text="marzo del año 2005" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="3935" end="3942" text="14/6/05" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="4881" end="4887" text="6/9/05" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="4996" end="5019" text="Zulema Casariego Acosta" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T4" start="5029" end="5056" text="zulemacasariego@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

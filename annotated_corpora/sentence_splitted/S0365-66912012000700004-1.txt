@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Ignacio.
+Apellidos: Cañizares Roque.
+NHC: 7823673.
+NASS: 28 96457601 34.
+Domicilio: C/ Rodriguez Sahagun, 4.
+Localidad/ Provincia: Madrid.
+CP: 28039.
+Datos asistenciales.
+Fecha de nacimiento: 24/12/1979.
+País de nacimiento: España.
+Edad: 38 años Sexo: H.
+Fecha de Ingreso: 13/06/2018.
+Servicio: Oftalmologia.
+Episodio: 7824373.
+Médico: Rodrigo Rodríguez Gil  NºCol: 28 28 41503.
+Informe clínico del paciente: Varón de 38 años, hipertenso, con hipoacusia neurosensorial, remitido por baja agudeza visual (AV). En la anamnesis familiar se registró a tres hermanos varones sordomudos y otro con baja visión.
+La agudeza visual (AV) sin corrección fue 0,3 en el ojo derecho (OD) y 0,2 en el ojo izquierdo (OI). Se detectó un lenticono anterior y en el fondo de ojo se evidenció la existencia de un AM en ambos ojos, rodeado por un anillo perimacular de puntos blanquecinos. Se realizó tomografía de coherencia óptica (OCT) con Stratus OCT-3 (Carl Zeiss Meditec, Dublin, CA), que verificó la presencia de AM, en estadio IV, con diámetro basal de 1.347μm en OD y de 1.409 en OI, con hiperreflectividad en capas internas retinianas y cambios quísticos en los tejidos adyacentes. Tras estudio sistémico (incluida biopsia renal) se diagnosticó de SA, estando el paciente actualmente en hemodiálisis por insuficiencia renal severa, manteniéndose las características del AM.
+Responsable clínico: Rodrigo Rodríguez Gil. Correo Electronico: gilorio_79@hotmail.com

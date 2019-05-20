@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Javier.
+Apellidos: Cabrera Arias.
+NHC: 3082365.
+NASS: 92 73784634 05.
+Domicilio: Plaza Carrera 7 #114-33. Piso 14. .
+Localidad/ Provincia: Valladolid.
+CP: 31014.
+Datos asistenciales.
+Fecha de nacimiento: 13/01/1992.
+País: España.
+Edad: 34 años  Sexo: H.
+Fecha de Ingreso: 05/06/2016.
+Médico: Tomás Lázaro Rodríguez Collar     NºCol: 06 06 85940.
+Presentamos un varón de 71 años, con antecedentes de hipertensión, diabetes mellitus tipo 2, enfermedad de Von Willebrand con múltiples ingresos por hemorragia digestiva y con enfermedad renal crónica secundaria glomerulonefritis, en programa de DP desde el 2011.
+Tuvo cinco episodios de peritonitis, el último fue en diciembre del 2015 recibiendo tratamiento con vancomicina intraperitoneal, con buena evolución de la peritonitis. El último día del tratamiento consultó por ictericia y malestar general con elevación de las transaminasas y la bilirrubina. Tras la suspensión del fármaco hubo mejoría clínica y normalización de la analítica.
+En marzo del 2016, tuvo nuevo episodio de peritonitis, decidiéndose tratamiento empírico con teicoplanina y tobramicina. A los 3 días de estar con el tratamiento consulta por malestar generalizado, vómitos, diarrea, fiebre e ictericia.
+Dirección para correspondencia: Eulalia Cárceles Legaz Alameda Capuchinos, 9, 1o A. 30002 Murcia. España E-mail: lalicarceles@yahoo.es

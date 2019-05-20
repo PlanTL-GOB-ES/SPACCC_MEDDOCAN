@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Emiliano.
+Apellidos: Piña Barba.
+NHC: 8435745.
+NASS: 15 98743156 21.
+Domicilio: C/ Herrera Oria, 23, 3 A.
+Localidad/ Provincia: Madrid.
+CP: 28025.
+Datos asistenciales.
+Fecha de nacimiento: 08/03/1943.
+País de nacimiento: España.
+Edad: 57 años  Sexo: H.
+Fecha de Ingreso: 17/08/2016.
+Médico: Ignacio Fernández Sanza   NºCol: 19 19 85470.
+Varón de 45 años, bebedor crónico activo, diagnosticado de cirrosis hepática con hipertensión portal, que estaba siendo estudiado por cuadros sincopales de repetición. Durante el proceso diagnóstico se realizó una radiografía de tórax en proyección postero-anterior (PA) que evidenció un desplazamiento lateral de la línea pleuro-ázigo-esofágica y paraespinal izquierda compatible con ensanchamiento mediastínico. Con la sospecha de masa de origen vascular se rea-lizó una tomografía computarizada (TC) tóraco-abdominal multicorte donde se identificó una ocupación del mediastino posterior por estructuras de aspecto vascular que provocaban un desplazamiento lateral del esófago. Esta masa no presentaba realce en fase arterial, contrastándose durante la fase venosa, por lo que era compatible con el diagnóstico de varices mediastínicas gigantes.
+
+Dirección para correspondencia A. Sampedro López Hospital San Agustín. Servicio de Oftalmología Camino de Heros, 4 33400 Avilés (Asturias) España E-mail: ansamlo@hotmail.com

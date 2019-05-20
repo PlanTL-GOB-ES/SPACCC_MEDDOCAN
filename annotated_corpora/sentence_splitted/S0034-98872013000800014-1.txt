@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Nayeli.
+Apellidos: Ferrer Andrade.
+NHC: 2456498.
+NASS: 54 37456147 65.
+Domicilio: Av. de la poveda 68, 3F.
+Localidad/ Provincia: Sabadell.
+CP: 23009.
+Datos asistenciales.
+Fecha de nacimiento: 23/01/1976.
+País de nacimiento: España.
+Edad: 35 años  Sexo: .
+Fecha de Ingreso: 13/12/2015.
+Médico: José Antonio Cánovas Ivorra  NºCol: 28 28 63380.
+Paciente de 43 años con diagnóstico de leucemia linfoblástica aguda portadora de cromosoma Filadelfia en primera remisión. Se identificó un injerto de dosis adecuada con dos unidades compatibles, en el Banco de Sangre de St. Louis (USA) y Chile. El paciente tuvo recuperación hematológica precoz y el estudio de quimerismo demostró que más de 95% de leucocitos provenían de precursores de la unidad chilena. Durante el período post trasplante presentó hematuria por virus BK, reactivación asintomática de citomegalovirus, neumonía por Pneumocystis jirovecii y síndrome linfoproliferativo por Epstein Barr14, con respuesta a tratamiento específico en todos los casos. A cuatro años del trasplante el paciente realiza actividad laboral y familiar normal.
+
+Correspondencia a: Francisco Barriga División de Pediatría PUC, Departamento de Hematología Oncología Facultad de Medicina Pontificia Universidad Católica de Chile. E-mail: fbarriga@med.puc.cl.

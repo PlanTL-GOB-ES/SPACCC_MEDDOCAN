@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Antonio.
+Apellidos: Mercado Ruiz.
+NASS: 15 98743156 21.
+Domicilio: Avenida Manuel de Falla, 13 1C .
+Localidad/ Provincia: Valencia.
+CP: 46015.
+NHC: 97133043.
+Datos asistenciales.
+Fecha de nacimiento: 08/05/1993.
+País: España.
+Edad: 25 años Sexo: H.
+Fecha de Ingreso: 10/05/2018.
+Especialidad: urologia.
+Médico: Jorge Planelles Gómez NºCol: 36 36 79464.
+Motivo de ingreso: Paciente de 25 años que es remitido a nuestra consulta tras descubrírsele en estudio ultrasonográfico masa hipoecoica sugestiva de neoplasia en teste izquierdo.
+El paciente consultó en el centro de especialidades por percibir desde hacía unos días un aumento indoloro del testículo izquierdo.
+Antecedentes: Como antecedentes personales destaca el haber padecido testículo derecho en ascensor en la infancia. A los 9 meses sufrió un cuadro de meningitis que le dejó un déficit neurológico permanente y crisis comiciales residuales. Además, apendicectomía y tenotomía aquílea en la infancia.
+Historia Actual: Ya en nuestra consulta, se le solicita nueva ecografía, marcadores tumorales y estudio de extensión mediante Tomografía Axial Computerizada. Los resultados de las pruebas fueron de una beta-HCG de 5.7 mUI/ml, con la lactato deshidrogenasa y la alfafetoproteína normales. En la ecografía se observa masa de 8 cm en teste izquierdo con múltiples nódulos hipoecoicos compatible con tumor testicular, además microcalcificaciones en testículo derecho. No se apreciaron adenopatías o metástasis en el TAC toraco-abdomino-pélvico.
+Evolución y comentarios: Se le intervino mediante orquiectomía radical izquierda por vía inguinal y el análisis por Anatomía Patológica informó de Seminoma clásico que no infiltra a la albugínea ni al cordón, tampoco existe invasión vascular o linfática.
+Con el diagnóstico de Seminoma clásico en Estadio I se opta por un tratamiento conservador.
+A los 10 meses, en un estudio ultrasonográfico de control, se evidencia un nódulo hipoecoico en testículo derecho sospechoso de neoplasia. La exploración física y los marcadores tumorales son normales.
+Se procede a la orquiectomía radical derecha y el estudio por parte de Anatomía Patológica informa de Seminoma de tipo clásico con focos de Neoplasia Intratubular de Células Germinales de aproximadamente 4.5 cm. Tractos vasculares, albugínea y cordón espermático libres de tumor. Se inicia además el tratamiento hormonal sustitutivo.
+A los tres meses se detecta un aumento de la beta-HCG de hasta 4.5 mUI/ml, con el resto de marcadores tumorales normales, y se solicita nuevo TAC toraco-abdomino-pélvico que informa de masa retroperitoneal de 3 cm x 8 cm paraaórtica por debajo de la arteria renal izquierda que se extiende hasta la bifurcación ilíaca. Así mismo, en situación más anterior, se ve otra imagen de aspecto nodular de 2 cm x 2 cm con un centro necrótico y captación de contraste periférico.
+Con el diagnóstico de recaída adenopática abdominal de seminoma clásico, comienza el tratamiento con 4 ciclos de Etopósido y Cisplatino.
+Actualmente lleva aproximadamente 7 años libre de enfermedad.
+Remitido por: Dr. Jorge Planelles Gómez Servicio de Urología Hospital Universitario Doctor Peset Avda. Gaspar Aguilar, 90 - 46017 Valencia Tel.: 963 862 500 E-mail autor: jorge_planelles@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="16" text="Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="29" end="41" text="Mercado Ruiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="49" end="63" text="15 98743156 21" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="76" end="106" text="Avenida Manuel de Falla, 13 1C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="131" end="139" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="145" end="150" text="46015" TYPE="TERRITORIO" comment=""/>
+    <ID id="T15" start="157" end="165" text="97133043" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="209" end="219" text="08/05/1993" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="227" end="233" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="241" end="248" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="255" end="256" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="276" end="286" text="10/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="320" end="341" text="Jorge Planelles Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="349" end="360" text="36 36 79464" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T7" start="393" end="400" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="3082" end="3103" text="Jorge Planelles Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3125" end="3160" text="Hospital Universitario Doctor Peset" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T18" start="3161" end="3185" text="Avda. Gaspar Aguilar, 90" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3188" end="3193" text="46017" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3194" end="3202" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="3209" end="3220" text="963 862 500" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="3235" end="3259" text="jorge_planelles@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

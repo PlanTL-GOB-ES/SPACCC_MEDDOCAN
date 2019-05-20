@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  David.
+Apellidos: Fernandez Moreno.
+NHC: 32978146.
+Domicilio: Calle Ginzo de limia 1, 4 Der.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento:19/12/2008.
+País: España.
+Edad: 9 años Sexo: H.
+Fecha de Ingreso: 21/05/2018.
+Médico: Carlos Ochoa Sangrador NºCol: 28 28 44517.
+Informe clinico del paciente: paciente masculino de 9 años de edad con lesión radiolúcida en rama y parte de cuerpo mandibular derecho, que involucra cóndilo y apófisis coronoides en. Resultado de biopsia, ameloblastoma mandibular. Dada la extensión de la lesión, se decide realizar hemimandibulectomía derecha, con colocación de prótesis de reconstrucción que incluye cóndilo. Radiografía de control dos años posteriores a procedimiento quirúrgico, donde se observa regeneración ósea espontánea hemimandibular, tomando el hueso la misma forma de rama mandibular, y siguiendo el contorno de placa metálica de titanio. A la fecha no se tiene seguimiento del caso.
+Remitido por: Carlos Ochoa Sangrador. Email: cochoas2@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="9" end="14" text="David" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="27" end="43" text="Fernandez Moreno" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="50" end="58" text="32978146" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T14" start="71" end="100" text="Calle Ginzo de limia 1, 4 Der" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="124" end="130" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="136" end="141" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="184" end="194" text="19/12/2008" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="202" end="208" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="216" end="222" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="229" end="230" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="250" end="260" text="21/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="270" end="292" text="Carlos Ochoa Sangrador" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="300" end="311" text="28 28 44517" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="352" end="361" text="masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="365" end="371" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="990" end="1012" text="Carlos Ochoa Sangrador" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1021" end="1039" text="cochoas2@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

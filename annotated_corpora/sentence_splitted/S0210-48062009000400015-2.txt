@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Gabriel .
+Apellidos: Garrido Carrasco.
+NHC: 7509063.
+NASS: 66 57360597 61.
+Domicilio: Rúa María de Berdiales, 22, .
+Localidad/ Provincia: Vigo, Pontevedra.
+CP: 36203.
+Datos asistenciales.
+Fecha de nacimiento: 01/04/1939.
+País de nacimiento: España.
+Edad: 75 años Sexo: H.
+Fecha de Ingreso: 23/12/2014.
+Servicio: Urología.
+Episodio: 8330939.
+Médico: Luis Andrade Fariña NºCol: 36 36 42841.
+Informe clínico del paciente: Varón de 75 años que es encontrado accidentado en la vía pública, con trauma cráneo-encefálico, fracturas en extremidades superior e inferior derechas y costales, con enfisema subcutáneo intenso, y hematuria leve. Ingresa en la Unidad de Cuidados Intensivos para soporte ventilatorio y en los estudios de imagen de la pelvis se le encuentra fractura cerrada de huesos pelvianos con esquirla ósea improntando en la vejiga. Una reconstrucción de las imágenes de TAC parecía descartar la lesión vesical penetrante. Sin embargo, una vez estabilizadas las constantes vitales, se realiza cistoscopia que demuestra perforación de la pared vesical anterior por la esquirla ósea. Por un acceso suprapúbico se reparó la vejiga y extirpó el fragmento óseo, sin secuelas y con posterior buena curación de las fracturas.
+Responsable clínico: Dr. Luis Andrade Fariña Servicio de Urología. Hospital POVISA Salamanca 5 - 36211 Vigo, Pontevedra Tel.: 986 413144 E-mail autor: luisfarina@yahoo.com Información: Nota clínica

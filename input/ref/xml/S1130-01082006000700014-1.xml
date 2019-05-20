@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Vanessa .
+Apellidos: García Rendón.
+NHC: 7435732.
+NASS: 74 57865767 33.
+Domicilio: Calle San Benito, 12.
+Localidad/ Provincia: Valladolid.
+CP: 47012.
+Datos asistenciales.
+Fecha de nacimiento: 25/07/1961.
+País de nacimiento: España.
+Edad: 52 años Sexo: M.
+Fecha de Ingreso:10/09/2013.
+Médico: Isabel Crehuet Rodríguez  NºCol: 47 47 87367.
+Informe clínico del paciente: Mujer de 52 años con infección por el virus de la hepatitis C, genotipo 1b, con carga viral alta (> 5 E5 UI/ ml) que acude a la consulta refiriendo astenia y la aparición de lesiones cutáneas en tórax y cara que sangran, cediendo espontáneamente tras compresión. En la exploración física destaca ligera esplenomegalia y la presencia de spiders en región nasal y tórax. En la analítica se objetivó GOT 108 U/l, GPT 113 U/l, GGT 131 U/l, fosfatasa alcalina 116 U/l, bilirrubina total 2,3 mg/dl, albúmina 3,5 g/dl, actividad de protrombina 75%, leucocitos 6.890, hemoglobina 10 g/dl, plaquetas 132.000, Ig G 1970, Ig M 162, ANA 1/40. Ecografía abdominal: hígado heteroecoico, superficie irregular con hipertrofia del lóbulo caudado. Porta permeable de 10 mm. Bazo de 14 cm. Endoscopia digestiva alta: no varices esofágicas ni gástricas; no signos de gastropatía de hipertensión portal.
+Se inicia tratamiento con terapia combinada con PegINF alfa 2a 180 mg/semanal sc. y ribavirina 1.000 mg/día suspendiéndose a las 12 semanas por ausencia de respuesta.
+Durante el seguimiento la paciente refiere empeoramiento de la astenia y disnea de moderados esfuerzos. Ante la sospecha de síndrome hepatopulmonar se realizó una gasometría arterial y espirometría: FEV1 105,9%, FVC 101,8%, FEV1/FVC 87,52 así como un ecocardiograma con contraste sonicado que objetivó el paso de suero desde la aurícula derecha a la izquierda sugiriendo cortocircuito cardiaco. Estos hallazgos establecen el diagnóstico de síndrome hepatopulmonar (4).
+La paciente presenta nuevos episodios de sangrado por spiders localizados en el tórax que no responden a la cauterización precisando en dos ocasiones extirpación quirúrgica. Se comienza tratamiento con tamoxifeno que reduce los episodios de sangrado, objetivándose a las tres semanas de iniciado el tratamiento ausencia de nuevos episodios de sangrado y estabilización del número de lesiones.
+Responsable clínico: Isabel Crehuet Rodríguez Hospital Universitario Río Hortega. Unidad de Diálisis C/ Dulzaina 2, 47012 Valladolid E-mail: crebel@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="35" text="Vanessa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="49" end="62" text="García Rendón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="69" end="76" text="7435732" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="84" end="98" text="74 57865767 33" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="111" end="131" text="Calle San Benito, 12" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="155" end="165" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="171" end="176" text="47012" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="220" end="230" text="25/07/1961" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="252" end="258" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="266" end="273" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="280" end="281" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="300" end="310" text="10/09/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="320" end="344" text="Isabel Crehuet Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="353" end="364" text="47 47 87367" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="396" end="401" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="405" end="412" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2329" end="2353" text="Isabel Crehuet Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2354" end="2388" text="Hospital Universitario Río Hortega" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2409" end="2422" text="C/ Dulzaina 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2424" end="2429" text="47012" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2430" end="2440" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2449" end="2467" text="crebel@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

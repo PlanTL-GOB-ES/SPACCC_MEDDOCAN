@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Esperanza.
+Apellidos: Tuy RIvera.
+NHC: 8349570.
+NASS: 84 56872485 67.
+Domicilio: Av/ de Córdoba, 23, 3, A .
+Localidad/ Provincia: Madrid.
+CP: 28041.
+Datos asistenciales.
+Fecha de nacimiento: 25/08/1932.
+País de nacimiento: España.
+Edad: 81 años Sexo: M.
+Fecha de Ingreso: 30/11/2013.
+Médico: Mario Martín Hernández NºCol: 28 28 62253.
+Informe clínico del paciente: Mujer de 82 años con antecedentes de hipertensión arterial, fibrilación auricular en tratamiento anticoagulante, diabetes mellitus e insuficiencia renal crónica.
+Ingresa por cuadro de ictericia obstructiva secundaria a coledocolitiasis. Se realiza CPRE terapéutica con sedacción consciente (midazolam-propofol y remifentanilo), técnicamente laboriosa, con una duración de 150 minutos. De forma brusca al finalizar la intervención presenta un cuadro de inestabilidad hemodinámica y respiratoria. Se realizó con carácter de urgencia una tomografía axial computerizada (TAC) abdominal con contraste intravenoso directo, en el que se observa una imagen hipervascular en el polo anterior del bazo compatible con una zona de contusión esplénica, con líquido libre intraabdominal, fundamentalmente en región periesplénica, gotiera paracólica izquierda, perihepático y también en pelvis con densidad intermedia compatible con sangre. La paciente se trasladó a quirófano con deterioro del estado general. Se realizó laparotomía urgente, evacuándose hemoperitoneo de 2000 ml por desgarro en borde anterior esplénico en la zona visualizada por TAC. Se practica esplenectomía, colecistectomía, duodenostomía y extracción del molde biliar con posterior colocación de tubo de Kher. No evidencia de perforación duodenal.
+En postoperatorio presentó un cuadro de shock séptico por peritonitis biliar, tratado empíricamente con piperacilina-tazobactam, y necesidad de relaparotomía, hallándose fístula biliar por salida del tubo de Kher. Fue dada de alta de la Unidad de Reanimación a los 12 días del ingreso.
+El informe de anatomía patológica de la pieza de esplenectomía objetivó la existencia en su cara interna de una solución de continuidad de la cápsula. El resto del parénquima no presentaba alteraciones.
+Responsable clínico: Dr. Mario Martín Hernández Correo electrónico: mariomhdez@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="37" text="Esperanza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="50" end="60" text="Tuy RIvera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="67" end="74" text="8349570" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="82" end="96" text="84 56872485 67" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="109" end="133" text="Av/ de Córdoba, 23, 3, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="158" end="164" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="170" end="175" text="28041" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="219" end="229" text="25/08/1932" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="251" end="257" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="265" end="272" text="81 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="279" end="280" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="300" end="310" text="30/11/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="320" end="342" text="Mario Martín Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="350" end="361" text="28 28 62253" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="393" end="398" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="402" end="409" text="82 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2213" end="2235" text="Mario Martín Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2256" end="2275" text="mariomhdez@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

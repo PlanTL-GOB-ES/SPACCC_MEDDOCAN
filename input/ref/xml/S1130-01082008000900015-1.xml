@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Christian .
+Apellidos: Diaz Menendez.
+NHC: 7234623.
+NASS: 28 27620475 65.
+Domicilio: Calle Mateo Inurria, 3, 5, A.
+Localidad/ Provincia: Madrid.
+CP: 28035.
+Datos asistenciales.
+Fecha de nacimiento: 13/05/1978.
+País de nacimiento: España.
+Edad: 38 años Sexo: H.
+Fecha de Ingreso: 21/08/2016.
+Servicio: Nefrología.
+Médico: Borja Quiroga NºCol: 28 28 56478.
+Historia Actual: paciente varón de 38 años de edad sin antecedentes de interés que acude urgencias por cuadro sincopal acompañado de una deposición melénica-rectorrágica.
+Exploración física: Exploración: consciente y orientado, TA 106/68 mmHg, abdomen blando y depresible, tacto rectal positivo para restos hemáticos. 
+Pruebas complementarias: En la analítica destacaba el Hto de 30%, posteriormente de 23% y una urea de 67 mg/dl. Se le realizó una gastroscopia que resultó normal y una colonoscopia hasta ciego e íleon terminal que informaba de lesiones incipientes angiodisplásicas de colon y recto. Se solicitó una cápsula endoscópica que no halló hallazgos patológicos y posteriormente una gammagrafía con Tc99m-pertecnetato que mostraba la existencia de un área hiperactiva focal en fosa iliaca derecha adyacente a la arteria iliaca derecha sugestivo de la existencia de mucosa gástrica ectópica compatible con divertículo de Meckel en dicha localización. Se decidió intervención bajo anestesia general realizando incisión de Mc Burney, observando un divertículo de Meckel a 60 cm de la válvula ileocecal de base ancha (> 50% de la superficie del diámetro intestinal) y signos inflamatorios. Se realizó resección intestinal, incluyendo el divertículo y anastomosis latero-lateral mecánica más apendicectomía profiláctica. 
+Evolución: El postoperatorio transcurrió sin incidencias y fue dado de alta al 5º día. No precisó tranfusión sanguínea. La anatomía patológica informó de divertículo de Meckel con mucosa gástrica heterotópica.
+Responsable clínico: Dr. Borja Quiroga. Servicio de Nefrología Hospital General Universitario Gregorio Marañón Doctor Esquerdo, 46, 28007, Madrid borjaqg@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="37" text="Christian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="51" end="64" text="Diaz Menendez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="71" end="78" text="7234623" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="86" end="100" text="28 27620475 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="113" end="141" text="Calle Mateo Inurria, 3, 5, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="165" end="171" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="177" end="182" text="28035" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="226" end="236" text="13/05/1978" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="258" end="264" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="272" end="279" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="286" end="287" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="307" end="317" text="21/08/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="349" end="362" text="Borja Quiroga" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="370" end="381" text="28 28 56478" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="409" end="414" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="418" end="425" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1946" end="1959" text="Borja Quiroga" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1984" end="2031" text="Hospital General Universitario Gregorio Marañón" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2032" end="2051" text="Doctor Esquerdo, 46" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2053" end="2058" text="28007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2060" end="2066" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2067" end="2084" text="borjaqg@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

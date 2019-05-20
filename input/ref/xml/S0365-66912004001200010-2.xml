@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Rafael.
+Apellidos: Morente Martinez.
+NHC: 7456745.
+NASS: 83 46578345 65.
+Domicilio: C/ Jacinto Benavente, 3.
+Localidad/ Provincia: Valladolid.
+CP: 47001.
+Datos asistenciales.
+Fecha de nacimiento: 13/09/1952.
+País de nacimiento: España.
+Edad: 62 años Sexo: H.
+Fecha de Ingreso: 23/07/2015.
+Médico: Vanessa Asensio Sánchez NºCol: 47 47 58996.
+Informe clínico del paciente: Varón de 62 años que acudió al servicio de urgencias por pérdida indolora de visión en el ojo izquierdo. Como antecedentes destaca estar en tratamiento hematológico con hidroxyurea (Hydrea®, 500 mg, Bristol-Myers, Squibb) y ácido acetilsalicílico (Adiro®, 300 mg, Bayer) desde hace un año por una trombocitemia esencial con 1.200.000 plaquetas/ mm3. En la exploración oftalmológica, la agudeza visual corregida del OD era 0,6 y la del OI 0,02. La biomicroscopía de polo anterior fue normal, con tensión por aplanación de 18 mmHg en OD y de 20 mmHg en OI. En el examen de fondo del OI se observaba tortuosidad venosa con múltiples exudados algodonosos yuxtapapilares con la papila del nervio óptico edematosa y hemorragias difusas. También se evidenció un edema macular. El recuento plaquetario en ese momento era de 556.000 plaquetas/mm3, la cifra más baja alcanzada durante su evolución, con 9000 células blancas/mm3, un 41% de hematocrito y una hemoglobina del 14%.
+En la biopsia de médula ósea se demostró una eritropoyesis y mielopoyesis hiperplástica con formas maduras y completas, destacando un aumento de megacariocitos displásicos y atípicos.
+Un mes después, el paciente ingresó por urgencias con una hemorragia masiva en el hemisferio cerebral derecho, falleciendo 14 horas después.
+Responsable clínico: Dra. Vanessa Asensio Sánchez Hospital General Servicio Castellano-Leonés de Salud Servicio de Oftalmología Medina del Campo (Valladolid) España
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="34" text="Rafael" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="47" end="63" text="Morente Martinez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="70" end="77" text="7456745" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T1" start="85" end="99" text="83 46578345 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="112" end="135" text="C/ Jacinto Benavente, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="159" end="169" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="175" end="180" text="47001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="224" end="234" text="13/09/1952" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="270" end="277" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="284" end="285" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="305" end="315" text="23/07/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="325" end="348" text="Vanessa Asensio Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="356" end="367" text="47 47 58996" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="399" end="404" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="408" end="415" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1718" end="1741" text="Vanessa Asensio Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1742" end="1758" text="Hospital General" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1759" end="1794" text="Servicio Castellano-Leonés de Salud" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T2" start="1820" end="1836" text="Medina del Campo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1838" end="1848" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1850" end="1856" text="España" TYPE="PAIS" comment=""/>
+  </TAGS>
+</MEDDOCAN>

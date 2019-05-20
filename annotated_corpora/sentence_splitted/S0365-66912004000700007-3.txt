@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Yordan .
+Apellidos: Gutierrez Martinez.
+NHC: 915943.
+NASS: 34 78654702 56.
+Domicilio: Avenida del planetario 66, 4D.
+Localidad/ Provincia: Córdoba.
+CP: 28109.
+Datos asistenciales.
+Fecha de nacimiento: 27/11/1988.
+País de nacimiento: España.
+Edad: 45 años  Sexo: H.
+Fecha de Ingreso: 28/05/2015.
+Servicio: MI.
+Episodio: 7856940.
+Médico: Ernesto Landa Contreras  NºCol: 28 28 14723.
+Hombre de 22 años diagnosticado de EB en 1997 tras padecer panuveítis en ambos ojos y aftas genitales y orales recidivantes. Se inicia el tratamiento con 1 mg/kg/día de prednisona y 5 mg/kg/día de ciclosporina. Un edema macular en el ojo izquierdo requirió triamcinolona subtenoniana que produjo un glaucoma, el cual sólo se controló con una trabeculectomía. En 1999 tuvo que añadirse azatioprina al tratamiento, pero las recidivas continuaron a pesar del tratamiento con 30 mg/día de prednisona, 200 mg/día de ciclosporina y 150 mg/día de azatioprina.
+En el momento de iniciarse el tratamiento con GCAP, la AV era de 0,9 en el OD y contar dedos a 3 metros en el OI.
+Dirección para correspondencia: Alfonso Pedrós Roselló (pedros_alf@gva.es)

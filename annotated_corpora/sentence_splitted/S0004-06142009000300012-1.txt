@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Diego.
+Apellidos: Martinez Espinosa .
+NHC: 9872357.
+NASS: 78 45603471 31.
+Domicilio: Carrer de Nàpols, 231, 3D .
+Localidad/ Provincia: Madrid.
+CP: 20400.
+Datos asistenciales.
+Fecha de nacimiento: 10/01/1985.
+País de nacimiento: España.
+Edad: 33 años  Sexo: H.
+Fecha de Ingreso: 31/10/2016.
+Médico: Andrés Felipe Pineda Restrepo    NºCol: 33 20 54710.
+Paciente de 52 años que refiere dolor en hemiescroto izquierdo de varios días de evolución, sin otra sintomatología acompañante. En la exploración física el paciente presentaba el teste izquierdo ligeramente disminuido de tamaño, con una induración en el polo superior, dolorosa al tacto. Los marcadores tumorales (b-hCG y a-FP) resultaron normales. En el estudio ecográfico se objetivó la presencia de una lesión nodular hipoecogénica intratesticular izquierda de 13,2 x 12,6 mm, de bordes ligeramente irregulares, que no mostraba flujo en el análisis con Doppler color.
+Con el diagnóstico de tumoración testicular izquierda se realizó orquiectomía por vía inguinal.
+Macroscópicamente la pieza de orquiectomía presentaba una túnica albugínea lisa, sin nódulos sobresalientes, aunque se palpaba una induración en el polo superior del testículo. Al corte dicha induración se correspondía con un nódulo bien delimitado, de aspecto hemorrágico, de 1,7 cm. de diámetro mayor, que contactaba con la albugínea sin erosionarla. En el estudio histopatológico el nódulo se correspondía con un infarto testicular segmentario, sin evidencia de malignidad ni signos de vasculitis.
+
+Dirección para correspondencia: José María Sánchez Merino Rua da Zanfona, 3. Nos (San Pedro) 15176 A Coruña. (España). sanchezuro@hotmail.com

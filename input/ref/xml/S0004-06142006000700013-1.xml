@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre: Saúl.
+Apellidos: Campos Vicente .
+CIPA: nhc 963852.
+NASS: 95-16275568-30.
+Domicilio: Calle del Arzobispo Apaolaza, 3.
+Localidad/ Provincia: Zaragoza.
+CP: 20486.
+       NHC: 963852.
+Datos asistenciales.
+Fecha de nacimiento: 13/03/1955.
+País: Ecuador.
+Edad:  Sexo: H.
+Fecha de Ingreso: 04/02/2018.
+Especialidad: oncología .
+Medico: Tomás Rodríguez Collar     NºCol: 12-89-96589.
+Motivo de ingreso: dolor en el hipocondrio derecho.
+Historia Actual: Paciente varón, de 63 años de edad, mestizo, diabético y fumador inveterado. Se presentó a consulta externa por dolor en el hipocondrio derecho y sintomatología urinaria obstructiva baja consistente en polaquiuria nocturna de 2-3 veces, chorro urinario débil y goteo posmiccional. 
+Exploración física y pruebas complementarias: El PSA total estaba en 2µg / ml, la hemoglobina, la VSG, la hemoquímica y la cituria, estaban normales.
+El examen físico general y abdominal eran negativos. En el tacto rectal se constató la presencia de una próstata con ligero aumento de tamaño pero, de superficie irregular y consistencia pétrea. Se realizó biopsia prostática, que reportó adenocarcinoma moderadamente diferenciado.
+En el ultrasonido abdominal se detectó un tumor de 6 cm de diámetro, heterogéneo y complejo en el polo inferior y parte media del riñón derecho y otro de similar tamaño y características ecográficas, en el polo superior y la porción media del riñón izquierdo. Se realizó TAC renal simple y contrastada donde se confirmaron las imágenes reportadas en el ultrasonido, siendo hipodensas, bien delimitadas y mostrando ambas realce con la administración del contraste yodado. No se detectaron adenopatías abdominales ni lesiones tumorales en órganos vecinos. La radiografía del tórax y la gammagrafía ósea fueron negativas de metástasis.
+Para establecer el diagnóstico de los tumores renales, se pensó en la vía laparoscópica, pero el paciente tiene una gran cicatriz paramedia derecha supra e infraumbilical, secuela de laparotomía por apendicitis aguda perforada con peritonitis generalizada, y se evitó este proceder para evitar posibles complicaciones.
+Se decidió entonces realizar biopsia aspirativa con aguja fina sobre la lesión del riñón derecho y, tras dos intentos las muestras no fueron útiles para diagnóstico. Con posterioridad a esto el paciente se negó a realizarse cualquier otro procedimiento investigativo o terapéutico para su padecimiento renal.
+Tratamiento:
+Se le puso tratamiento para el cáncer prostático con análogos de LHRH y antiandrógenos. Luego de tres meses de tratamiento del cáncer prostático, la TAC renal evolutiva, no muestra variaciones con respecto a la inicial. Actualmente el paciente está asintomático y conserva buen estado general.
+Responsable clinico: Tomás Rodríguez Collar. Calle 114 No. 29005 Marianao. Ciudad de la Habana. (Cuba). bhfinlay@infomed.sld.cu
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="13" text="Saúl" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="26" end="40" text="Campos Vicente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="53" end="59" text="963852" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="67" end="81" text="95-16275568-30" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="94" end="125" text="Calle del Arzobispo Apaolaza, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="149" end="157" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="163" end="168" text="20486" TYPE="TERRITORIO" comment=""/>
+    <ID id="T17" start="182" end="188" text="963852" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="232" end="242" text="13/03/1955" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="250" end="257" text="Ecuador" TYPE="PAIS" comment=""/>
+    <OTHER id="T14" start="272" end="273" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="293" end="303" text="04/02/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="339" end="361" text="Tomás Rodríguez Collar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="373" end="384" text="12-89-96589" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="464" end="469" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="474" end="481" text="63 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="491" end="498" text="mestizo" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2757" end="2779" text="Tomás Rodríguez Collar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2781" end="2793" text="Calle 114 No" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2795" end="2800" text="29005" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2801" end="2809" text="Marianao" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2811" end="2830" text="Ciudad de la Habana" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2833" end="2837" text="Cuba" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2840" end="2863" text="bhfinlay@infomed.sld.cu" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Lester.
+Apellidos: Garcia Estrada.
+NHC: 7348056.
+NASS: 23 98598369 13.
+Domicilio: Calle Alameda Tercera, Bajo A.
+Localidad/ Provincia: Madrid.
+CP: 50008.
+Datos asistenciales.
+Fecha de nacimiento: 12/01/1976.
+País de nacimiento: España.
+Edad: 42 años  Sexo: H.
+Fecha de Ingreso: 13/04/2018.
+Médico: M.ª Carmen Blanco Rivera   NºCol: 18 18 65498.
+Paciente de 41 años de edad que acude al Servicio de Cirugía Plástica del Hospital 12 de Octubre (Madrid, España) tras haber sufrido una penectomía subtotal por carcinoma epidermoide que no precisó tratamiento oncológico coadyuvante y que solicita reconstrucción de pene. Tras la realización de la historia clínica, exploración y documentación fotográfica pertinentes para su estudio, se decide demorar la cirugía hasta transcurridos al menos 6 meses desde la extirpación tumoral para confirmar la ausencia de recurrencia de la enfermedad local. Se confirma la existencia de arcos vasculares palmares superficial y profundo a través del test de Allen y la exploración con sonda doppler de 8Mhz, que permiten la elección de un colgajo libre radial para la reconstrucción peneana, sin compromiso vascular del miembro superior derecho. El día previo a la intervención, se realiza una cistostomía suprapúbica.
+
+Dirección para correspondencia: Dr. Marcos Martín Díaz Servicio de Cirugía Plástica, Estética y Reparadora, Hospital 12 de Octubre. Avda. de Córdoba s/n, Madrid 28041, España. e-mail: martindiazm@hotmail.com

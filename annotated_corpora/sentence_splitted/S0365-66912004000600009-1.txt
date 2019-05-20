@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Raquel.
+Apellidos: Cornellas Bermudez.
+NHC: 7348567.
+NASS: 26 78956670 23.
+Domicilio: C/ Vicente del Bosque, 3, 2 B.
+Localidad/ Provincia: Sevilla.
+CP: 28035.
+Datos asistenciales.
+Fecha de nacimiento: 04/12/1928.
+País de nacimiento: España.
+Edad: 29 años  Sexo: M.
+Fecha de Ingreso: 14/04/2014.
+Médico: Pilar Fraile-Gómez   NºCol: 28 28 94675.
+Paciente de 30 años afecta de síndrome de Marfan y megalocórnea bilateral de 13 mm de diámetro. Fue intervenida en 1979 de extracción de cristalino subluxado bilateral sin implante de lente intraocular. En 2002 acude a consulta con una agudeza visual en ojo derecho de 20/30 observándose en la lámpara de hendidura edema microquístico corneal periférico en el ojo derecho en los 2 mm periféricos, sin apreciarse cornea guttata ni depósitos naranjas en el endotelio corneal periférico. La paciente se encontró asintomática durante todo el tiempo de evolución. Los datos de la microscopía endotelial se muestran en la tabla I.
+
+Dirección para correspondencia: Teresa Carbajo, Servicio de Nefrología, Hospital General de Castellón E-mail: tenguerengue@hotmail.com

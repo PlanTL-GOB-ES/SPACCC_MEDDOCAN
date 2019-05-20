@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Julia.
+Apellidos: Reye Oviedo.
+NHC: 5347657.
+Domicilio: Paseo de Juan Vidal, 13, 2A.
+Localidad/ Provincia: Madrid.
+CP: 28013.
+Datos asistenciales.
+Fecha de nacimiento: 15/05/1987.
+País de nacimiento: España.
+Edad: 50 años  Sexo: H.
+Fecha de Ingreso: 21/08/2004.
+Médico: Hector Pastor Navarro  NºCol: 28 28 61852.
+Una mujer de 62 años de edad consulta en área de urgencias de nuestro hospital por cuadro de rectorragia franca. En la valoración inicial presentaba estabilidad clínica y hemodinámica, siendo la exploración física anodina salvo el tacto rectal que fue muy doloroso y con presencia de sangre en recto. La hemoglobina y el hematocrito se mantuvieron en rango de normalidad, mientras que presentaba una sobredosificación de dicumarínicos con INR: 6.3.
+Como antecedente inmediato destaca que la enferma venía presentando en los días previos un cuadro gripal que estaba tratando de modo sintomático. El día anterior al de su consulta refiere haberse administrado un supositorio de diclofenaco.
+A pesar de la corrección de las alteraciones de la coagulación con administración de vitamina K y plasma, persistió una rectorragia cuantiosa, que anemizó a la paciente, lo que obligó a la transfusión de 2 unidades de concentrados de hema-tíes. Se realizó una colonoscopia, que mostró una laceración profunda, a unos 7-8 cm del margen anal, de bordes irregulares, en los que parecen apreciarse tejido muscular y aponeurótico. Con posterioridad se habría de someter a la paciente a un TAC, que confirmó la sospecha de perforación rectal y evidenció igualmente un hematoma perirrectal de 6,5 cm de diámetro con burbujas aéreas en relación con esta.
+
+Diagnóstico: úlcera rectal perforada a espacio presacro en relación a tratamiento de diclofenaco en supositorio.
+En coordinación con el servicio de cirugía de nuestro hospital se decidió actitud expectante, mejorando la paciente progresivamente del dolor y la sensación de ocupación perineal y desapareciendo la rectorragia en días ulteriores.
+
+Correspondencia: Daniel Echeverri, Oficina de Epidemiología Clínica, Hospital Universitario del Valle, Calle 5 N° 36-08, Cali, Colombia Celular: (317) 642 4151 daniel_dr60@hotmail.com

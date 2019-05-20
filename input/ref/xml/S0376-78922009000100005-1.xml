@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Saúl.
+Apellidos: Flores Castillo.
+NHC: 2784563.
+NASS: 28 73457802 36.
+Domicilio: Calle Catedral, 23.
+Localidad/ Provincia: Murcia.
+CP: 30120.
+Datos asistenciales.
+Fecha de nacimiento: 19/02/1990.
+País de nacimiento: España.
+Edad: 24 años Sexo: H.
+Fecha de Ingreso: 27/06/2014.
+Médico: Álvaro Fernández García NºCol: 30 30 25501.
+Informe clínico del paciente: Varón de 24 años de edad que sufre una severa lesión por aplastamiento en miembro superior izquierdo. Tras una atención inicial, el paciente presenta exposición de la placa de osteosíntesis en el tercio distal del radio y trombosis de las anastomosis de revascularización radial y cubital a nivel del carpo. La ausencia de flujo reverso en la arteria interósea posterior fue constatada mediante Doppler de Ultrasonidos.
+Tras el desbridamiento se procedió a realizar un bypass radio-cubital con injerto de vena safena para revascularización del miembro. Como medio de cobertura del material de osteosíntesis y la anastomosis distal del by-pass se planteó un colgajo en hélice de perforante interósea posterior de 15x7,5 cm en la cara dorsal del antebrazo. La perfornte cutánea se halló 4 cm proximal a la articulación distal.
+Una vez que el colgajo pudo ser pivotado en los vasos perforantes cutáneos de la arteria interósea posterior se procedió a su rotación 90 grados por el borde cubital del antebrazo hasta alcanzar la cara volar del carpo. La zona donante se cubrió con un injerto de piel parcial.
+Responsable clínico:  Dr. Álvaro Fernández García C/ Mariano Estrada Lorca nº 15, Portal 2, Piso 1ºD. El Palmar. 30120 Murcia. España. e-mail: alvaro.fernandez@telefonica.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="32" text="Saúl" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="45" end="60" text="Flores Castillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="67" end="74" text="2784563" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="82" end="96" text="28 73457802 36" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="109" end="127" text="Calle Catedral, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="151" end="157" text="Murcia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="163" end="168" text="30120" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="212" end="222" text="19/02/1990" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="244" end="250" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="258" end="265" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="272" end="273" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="293" end="303" text="27/06/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="313" end="336" text="Álvaro Fernández García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="344" end="355" text="30 30 25501" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="387" end="392" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="396" end="403" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1516" end="1539" text="Álvaro Fernández García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1540" end="1590" text="C/ Mariano Estrada Lorca nº 15, Portal 2, Piso 1ºD" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1592" end="1601" text="El Palmar" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1603" end="1608" text="30120" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1609" end="1615" text="Murcia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1617" end="1623" text="España" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1633" end="1664" text="alvaro.fernandez@telefonica.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

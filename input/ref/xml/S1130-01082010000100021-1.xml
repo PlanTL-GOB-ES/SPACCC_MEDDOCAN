@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Manuel.
+Apellidos: Ramos de Miguel.
+NHC: 7832454.
+NASS: 87 93468396 07.
+Domicilio: C/ Pitis, 23, 4 C.
+Localidad/ Provincia: Madrid.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 08/09/1970.
+País de nacimiento: España.
+Edad: 43 años Sexo: H.
+Fecha de Ingreso: 06/05/2014.
+Médico: Elvio Martínez Vera Mayor  NºCol: 28 28 64021.
+Informe clínico del paciente: varón de 43 años, con antecedentes de diabetes, que ingresa por una pancreatitis aguda alitiásica moderada. A las dos semanas, refiere dolor agudo en hemiabdomen izquierdo y náuseas, sin otros síntomas. A la exploración, se palpa una gran ocupación del hemiabdomen izquierdo sin irritación peritoneal. Analítica: triglicéridos y lipasa elevados, resto bioquímica, hemograma y coagulación normal. Durante la exploración, sufre un síncope bajando el hematocrito de 40 al 21%, requiriendo trasfusión de 6 concentrados de hematíes, quedando estable. Se realiza prueba de imagen, que informa de pseudoquiste pancreático hemorrágico de 17 x 27 cm de diámetro. El paciente ingresa en UCI donde permanece estable. Al cabo de una semana, el paciente es programado para intervención quirúrgica realizando una quisto-yeyunostomía. Transcurre un postoperatorio sin incidencias, siendo dado de alta a la semana de la intervención.
+Responsable clínico: Dr. Elvio Martínez Vera Mayor. e-mail: elviomv@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="34" text="Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="47" end="62" text="Ramos de Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="69" end="76" text="7832454" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="84" end="98" text="87 93468396 07" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="111" end="128" text="C/ Pitis, 23, 4 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="152" end="158" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="164" end="169" text="28036" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="213" end="223" text="08/09/1970" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T9" start="245" end="251" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="259" end="266" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="273" end="274" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="294" end="304" text="06/05/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="314" end="339" text="Elvio Martínez Vera Mayor" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="348" end="359" text="28 28 64021" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="391" end="396" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="400" end="407" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="1334" end="1359" text="Elvio Martínez Vera Mayor" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1369" end="1386" text="elviomv@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

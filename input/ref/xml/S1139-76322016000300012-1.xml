@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Selena.
+Apellidos: Gijon Ruiz.
+NHC: 7638753.
+Domicilio: Paseo del puerto, 23, 2 A.
+Localidad/ Provincia: Badajoz.
+CP: 06520.
+Datos asistenciales.
+Fecha de nacimiento: 15/08/2014.
+País: España.
+Edad: 3 años Sexo: M.
+Fecha de Ingreso: 19/11/2017.
+Médico: Carlos Moreno García NºCol: 06 06 52031.
+Historia Actual:  niña de tres años que acude a consulta de Atención Primaria por presentar desde hace tres días dolor de muela y discreto flemón dentario, sin presentar fiebre.
+Exploración: En la exploración se aprecia una caries en el segundo molar de leche inferior derecho, con discreta inflamación y dolor mandibular. Se decide instaurar tratamiento antibiótico con amoxicilina a dosis altas, antiinflamatorios y se indica que acuda al dentista3.
+Evolución: Se revisa en consulta a los cuatro días. Persiste el flemón y la adenopatía regional, pero no presenta dolor. Se decide seguir con el tratamiento y control.
+Tras una semana de tratamiento el flemón está más delimitado y con dolor, por lo que se deriva a cirugía maxilofacial. Esa misma tarde presenta fiebre, por lo que se remite al Servicio de Urgencias, donde deciden tratamiento de amoxicilina más clavulánico y acudir al dentista.
+A los 20 días en consultas de Primaria presenta absceso en borde submaxilar derecho, rojo, doloroso y supurativo. Se vuelve a derivar al Servicio de Urgencias para su drenaje. Allí se drena y se toman muestras para cultivo y anatomía patológica de la lesión cervical ulcerada. Se pone tratamiento con azitromicina y ciprofloxacino.
+El resultado de la anatomía patológica describe tejido de granulación con inflamación aguda y crónica y necrosis central, sin observar microorganismos (con técnicas Grocot, Gram y Ziehl-Neelsen) y no se identifican restos de ganglio linfático.
+La evolución de la úlcera es tórpida, con cura cada dos días en el centro de salud. Al mes del drenaje se realiza la exodoncia, obteniendo la mejoría definitiva tras dos meses de evolución. La gran cicatriz de la cara comienza a involucionar.
+Remitido por: Carlos Moreno García C/ Jacinta García Hernández 7, Portal 2 5ºE 06011 Badajoz, España.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="34" text="Selena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="47" end="57" text="Gijon Ruiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="64" end="71" text="7638753" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T17" start="84" end="109" text="Paseo del puerto, 23, 2 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="133" end="140" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="146" end="151" text="06520" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="195" end="205" text="15/08/2014" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="213" end="219" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="227" end="233" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="240" end="241" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="261" end="271" text="19/11/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="281" end="301" text="Carlos Moreno García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="309" end="320" text="06 06 52031" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="340" end="344" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="348" end="357" text="tres años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2053" end="2073" text="Carlos Moreno García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2074" end="2117" text="C/ Jacinta García Hernández 7, Portal 2 5ºE" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2118" end="2123" text="06011" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2124" end="2131" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2133" end="2139" text="España" TYPE="PAIS" comment=""/>
+  </TAGS>
+</MEDDOCAN>

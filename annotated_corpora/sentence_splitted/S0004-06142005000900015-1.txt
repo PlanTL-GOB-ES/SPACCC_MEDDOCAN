@@ -1,0 +1,22 @@
+﻿Nombre: Rafael .
+Apellidos: Calvo Martin .
+CIPA: nhc-123789.
+NASS: 85 29634782 33.
+Domicilio: Calle Correo 29, 5,1.
+Localidad/ Provincia: Tolosa, Gipuzkoa.
+CP: 20400.
+       NHC: 123789.
+Datos asistenciales.
+Fecha de nacimiento: 01/01/1979.
+País: España.
+Edad: 40  Sexo: H.
+Fecha de Ingreso: 25/07/2015.
+Especialidad: Oncología.
+Médico: Raquel Santesteban Muruzábal     NºCol: 31-20-25896.
+Motivo de ingreso: .
+Antecedentes: sin antecedentes de interés
+Historia Actual:Varón de 40 años,, que fue estudiado en la consulta de medicina interna por presentar masa inguinoescrotal izquierda dolorosa a la palpación de dos meses de evolución, sin pérdida de peso ni síndrome miccional.
+Exploración física y pruebas complementarias: A la exploración, los tests eran de tamaño y consistencia normales, con un cordón espermático izquierdo moderado y muy doloroso. La ecografía testicular fue normal. La CT de abdomen-pelvis reveló masa de 6 x 3 centímetros en el trayecto del cordón espermático izquierdo sin objetivarse imágenes de afectación retroperitoneal. Fue intervenido encontrándose una masa en cordón espermático y realizándose biopsia intraoperatoria informada como proliferación neoplásica de aspecto miofibroblástico no linfomatosa, por lo que se realizó orquiectomía radical izquierda reglada. La anatomía patológica fue de rabdomiosarcoma pleomórfico del cordón espermático, teste y epidídimo normales y negatividad de los márgenes de resección.
+Diagnóstico Principal:  tumor paratesticular izquierdo.
+Tratamiento: ciclos de quimioterapia con adriamicina e ifosfamida + MESNA.
+Remitido por: Raquel Santesteban Muruzábal C/ Irunlarrea, 3 31008 Pamplona. Navarra Email: raquel.santesteban@hotmail.com

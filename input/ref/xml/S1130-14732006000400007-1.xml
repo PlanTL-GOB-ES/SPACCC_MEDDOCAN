@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Matias.
+Apellidos: Andrade Olivera.
+NHC: 4356454.
+NASS: 34 76809750 21.
+Domicilio: Calle Virgen de la Cabeza, 34, 1 C.
+Localidad/ Provincia: Sevilla.
+CP: 41224.
+Datos asistenciales.
+Fecha de nacimiento: 25/07/1949.
+País de nacimiento: España.
+Edad: 64 años Sexo: H.
+Fecha de Ingreso: 06/05/2014.
+Médico: Manuel Acosta FeriaNºCol: 41 41 25639.
+Informe clínico del paciente: Paciente varón de 54 años, fumador y bebedor moderado, alérgico a penicilinas, con antecedentes de episodios de sinusitis maxilar y pansinusitis. Fue diagnosticado de un plasmocitoma del seno frontal izquierdo tras una biopsia por punción sinusal en otro centro hospitalario, donde se realizó una exéresis quirúrgica del mismo mediante una incisión a nivel de ceja izquierda y una osteotomía de pared anterior del seno. Se obtuvo un fragmento de la cavidad sinusal para análisis anatomopatológico confirmando la presencia del plasmocitoma. Se realizó además un análisis histopatológico de la mucosa sinusal extirpada, que fue informada como posible mucocele abscesificado (mucopiocele).
+Con posterioridad fue derivado al Servicio de Hematología de nuestro Hospital para tratamiento complementario. En la gammagrafía ósea, se observó depósito patológico del trazador en seno maxilar, huesos propios nasales y senos frontales, sospechando la presencia de mieloma. Se administraron tres ciclos de quimioterapia separados por un mes entre ellos, consistentes en vincristina, adriomicina y dexametasona + Aredia (1er ciclo); ciclofosfamida, etopóxido, dexametasona + Aredia (2º ciclo); y ciclofosfamida, adriomicina, dexametasona + Aredia (3º ciclo). A los dos días de finalizar el tercer ciclo del tratamiento quimioterápico, se observó un aumento de tumoración en región frontal, con signos de inflamación local de 24 horas de evolución. A la exploración se palpaba una tumoración blanda a nivel frontal que drenaba abundante material purulento a través de dos orificios situados en la ceja, con cefalea y fiebre de 38ºC. Se tomaron unas muestras para cultivo y antibiograma (no se aislaron microorganismos). En la Rx de cráneo se visualizó una zona radiolúcida a nivel del hueso frontal. Por TC y RM se confirmó la presencia de un engrosamiento del hueso frontal y ocupación de sus cavidades con un área lítica en el lado izquierdo sugerente de osteomielitis con áreas de secuestro a nivel frontal..
+Se remitió a nuestro Servicio de Cirugía Maxilofacial y tras valoración del paciente, se decidió llevar a cabo tratamiento quirúrgico. Se realizó una incisión en alas de mariposa en la región glabelar incluyendo el trayecto fistuloso. Tras despegar el colgajo se visualizó el seno frontal que había perdido la tabla externa, se procedió a la limpieza y legrado y a fresar las paredes del seno con material rotatorio. Se tomó un injerto de 50 cc. de hueso corticoesponjoso de la tibia proximal derecha mediante un trócar, que se mezcló con un concentrado de fracción rica de factores de crecimiento de PRP que se había preparado previamente. Se extrajeron 250 cc de sangre venosa para preparar el PRP, que fueron centrifugados mediante una técnica de dos fases (Platelet Concentrate Collection System PCCS; 3i/Implant Innovations, Palm Beach Gardens, FL®), y se separaron las dos fracciones. Antes de su aplicación, se activó el coágulo de PRP mediante cloruro cálcico. En total se obtuvo una mezcla de 40 cc de material, con la que se rellenaron ambas cavidades sinusales en su totalidad. Se suturó la herida quirúrgica colocándose plasma pobre en factores de crecimiento sobre la cicatriz.
+Se remitió el material legrado de ambas cavidades sinusales para análisis anatomopatológico. El resultado informó de la presencia de tejido inflamatorio de tipo mixto con afectación de hueso y partes blandas, descartándose recidiva de plasmocitoma, siendo el diagnóstico de osteomielitis crónica del seno frontal.
+El paciente fue dado de alta tras cinco días de hospitalización sin presentar sintomatología ni complicaciones postoperatorias. A nivel de la zona donante no se produjeron complicaciones, deambulando el paciente al alta sin molestias. Se hicieron controles de TC a los seis y doce meses de la intervención en los que se observó un relleno total de la cavidad sinusal, sin signos de enfermedad. El paciente no ha vuelto a presentar tumefacción o supuración a nivel frontal, cefaleas o fiebre. El aspecto estético de la herida quirúrgica es muy satisfactorio..
+Responsable clínico:  Dr. Manuel Acosta Feria. Servicio de Cirugía Maxilofacial. Hospitales Universitarios Virgen del Rocío. Av. Manuel Siurot sin. 41013 Sevilla.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="34" text="Matias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="47" end="62" text="Andrade Olivera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="69" end="76" text="4356454" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="84" end="98" text="34 76809750 21" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="111" end="145" text="Calle Virgen de la Cabeza, 34, 1 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="169" end="176" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="182" end="187" text="41224" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="231" end="241" text="25/07/1949" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="263" end="269" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="277" end="284" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="291" end="292" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="312" end="322" text="06/05/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="332" end="351" text="Manuel Acosta Feria" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="358" end="369" text="41 41 25639" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="410" end="415" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="419" end="426" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="4489" end="4508" text="Manuel Acosta Feria" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="4544" end="4586" text="Hospitales Universitarios Virgen del Rocío" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="4588" end="4609" text="Av. Manuel Siurot sin" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="4611" end="4616" text="41013" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="4617" end="4624" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

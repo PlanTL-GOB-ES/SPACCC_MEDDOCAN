@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Ricardo .
+Apellidos: Pardo Nuñez.
+NHC: 4564903.
+NASS: 28 76956915 32.
+Domicilio: Avda. de Federico Soto, 1 .
+Localidad/ Provincia: Salamanca.
+CP: 39004.
+Datos asistenciales.
+Fecha de nacimiento: 15/08/2012.
+País: España.
+Edad: 21 años  Sexo: H.
+Fecha de Ingreso: 19/04/2017.
+Médico: Adoración Martín-Gómez  NºCol: 28 28 90914.
+Hombre de 27 años que sufrió trauma facial y craneoencefálico producido por accidente de transito en una motocicleta. Es remitido por el servicio de Oftalmología del Hospital Central de La Policía para valoración y tratamiento de enoftalmos derecho, al examen físico también se evidenció paresia incompleta de III par craneal derecho y diplopia importante referida. A los 14 meses del accidente se realiza la corrección de enoftalmos postraumático mediante injerto escalonado de calota en suelo de orbita derecha y adición de gel de plasma rico en plaquetas. En el postoperatorio inmediato se evidenció mejor proyección antero-posterior del globo ocular y el paciente refirió mejoría importante de la diplopia. También fue evidente la mejoría lograda en cuanto a proyección anterosuperior del globo ocular derecho. Estos resultados se han mantenido estables a las 16 semanas de control postoperatorio.
+
+Dirección para correspondencia: Dr. Omar Alejandro Vega Apartado aéreo 52309 Bogotá, D.C. Colombia E-mail: omalvega@yahoo.com

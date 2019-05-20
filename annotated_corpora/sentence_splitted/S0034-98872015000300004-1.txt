@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Miguel Angel.
+Apellidos: Rianxo Paz.
+NHC: 7354509.
+NASS: .
+Domicilio: Calle Ramón y Cajal, 9, 1 C.
+Localidad/ Provincia: Barcelona.
+CP: 08025.
+Datos asistenciales.
+Fecha de nacimiento: 19/09/2016.
+País de nacimiento: España.
+Edad: 55 años  Sexo: H.
+Fecha de Ingreso: 12/05/2018.
+Servicio: Urgencias.
+Médico: Paula Ortiz Ballujera  NºCol: 28 28 01354.
+Mujer de 24 años, sin antecedentes mórbidos personales ni familiares relevantes. Consulta por 1 año de evolución de dificultad progresiva de la marcha por debilidad y dolor del pie derecho. En el examen motor de ese momento destacaba la presencia de debilidad facial bilateral, escápula alada bilateral, debilidad leve y simétrica de bíceps y pectorales, debilidad en la dorsiflexión de ambos pies mayor a derecha y debilidad leve en la flexión de ambas caderas con fuerza conservada en cuádriceps y pantorrillas. Destaca una notoria atrofia de los dorsiflexores del pie, mayor a derecha. Presenta además leve escoliosis e hiperlordosis. Sin otros signos neurológicos.
+El valor de CPK plasmática resultó levemente elevado (395 UI/L) y la electromiografía informó un patrón miopático. El estudio genético confirmó el diagnóstico de DMFEH, con una reducción a 8 repeticiones en la región D4Z4.
+Tras 12 años de evolución, se compromete progresivamente su funcionalidad hasta llegar actualmente a un estado de semi-autovalencia, requiriendo incluso ayuda para caminar. Durante este tiempo se ha desempeñado como secretaria y tuvo una hija sin evidencias de la enfermedad hasta el momento, que no ha sido evaluada por nosotros.
+Correspondencia a: Gabriel Cea Servicio de Neurología, Hospital del Salvador. Avenida Salvador 364, Providencia, Santiago, Chile. Celular: 7 6597055 jcea@med.uchile.cl

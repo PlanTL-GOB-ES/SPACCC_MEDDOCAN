@@ -1,0 +1,19 @@
+﻿Nombre: Gabriel.
+Apellidos: Pila Fernandez.
+CIPA: nhc-1597569.
+NASS: 32 78456397 48.
+Domicilio: Calle Sinesio Delgado, 35.
+Localidad/ Provincia: Madrid.
+CP: 08014.
+       NHC: 987654.
+Datos asistenciales.
+Fecha de nacimiento: 27/11/1964.
+País: España.
+Edad: 25 años  Sexo: H.
+Fecha de Ingreso: 30/10/2012.
+Especialidad: .
+Médico: Montserrat Montaño Fidalgo  NºCol: 28 28 95103.
+Hombre de 34 años, con el antecedente de visión borrosa hacía ya seis meses, sin antecedentes de sífilis. Al examen oftalmológico destacaba AVMC de 0,025 en el OD y 0,05 en el Oí. Pupilas isocóricas reactivas y simétricas. Disociación luz-cerca positiva, con DPAR (+) en el OD.
+El examen al biomicroscopio mostraba una cornea clara, cámara anterior amplia y cristalino claro. En el fondo de ojo se observaban papilas pálidas, excavación 0,8 en el OD y 0,4 en el Oí. Los exámenes de laboratorio revelaron concentraciones de vitamina B-12 normales, VDRL en sangre (+), título 1/32, FTA-ABS (+), VDRL en LCR (+), ELISA para VIH (-). RM cerebral normal. Campo visual de Goldmann mostró un defecto altitudinal bilateral.
+Se diagnosticó una neuritis óptica bilateral luética. Se hospitalizó e indicó tratamiento con penicilina en esquema habitual. Evolucionó con mejoría de la AV (AVMC: 0,2 en el OD y 0,3 en el Oí) y del campo visual al mes de iniciado el tratamiento.
+Correspondencia a: Pablo Romero Carrasco pablotromero@med.uchile.cl

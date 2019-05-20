@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Mauricio.
+Apellidos: Pérez Navarro.
+NHC: 8946887.
+NASS: 94 68716451 52 .
+Domicilio: Avenida de legazpi 97, 1D.
+Localidad/ Provincia: Madrid.
+CP: 28034.
+Datos asistenciales.
+Fecha de nacimiento: 12/12/1941.
+País: España.
+Edad: 76 años Sexo: H.
+Fecha de Ingreso: 31/03/2018.
+Episodio: 5843556.
+Médico: José Manuel Moreno Villares NºCol: 28 28 94138.
+Historia Actual:Se trató de un varón de 77 años con antecedentes de fibrilación auricular crónica que sufrió una isquemia intestinal masiva con resección de yeyuno, ileon, colon ascendente y mitad de transverso realizándose una anastomosis yeyuno-cólica. Tras una estancia hospitalaria de dos meses se envío a su domicilio con NPD siete días a la semana, infundiéndose a lo largo de 10 horas. Su cuidadora habitual era su esposa de 72 años de edad, afecta de una enfermedad de Parkinson incipiente. Además disponía de una familia cercana muy involucrada.
+La NPD se mantuvo durante 11 años, siendo suspendida a raíz del deterioro clínico causado por una neumonía de la comunidad. La duración total fue de 3.940 días. Durante este periodo tuvo 5 infecciones asociadas a catéter (tasa de infección: 1,3 episodios por cada 1.000 días de NPD) y 1 salida accidental de catéter. Precisó recambiar el catéter en 4 ocasiones (vida media del catéter: 788 días). Presentó desde los dos años del inicio de la NPD una esteatosis hepática leve, no progresiva. Fue hospitalizado en cuatro ocasiones por complicaciones de la técnica. La situación funcional al inicio de la NPD era de vida activa independiente y pasó a vida sedentaria pero autónoma al final de la misma. Durante los primeros ocho años de NPD se desplazaba una o dos veces al año para disfrutar de unos días de vacaciones en la playa.
+Remitido por: José Manuel Moreno Villares. Unidad de Nutrición Clínica. Hospital 12 de Octubre. 28041 Madrid. E-mail: jmoreno.hdoc@salud.madrid.org
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="17" text="Mauricio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="30" end="43" text="Pérez Navarro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="50" end="57" text="8946887" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="65" end="79" text="94 68716451 52" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="93" end="118" text="Avenida de legazpi 97, 1D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="142" end="148" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="154" end="159" text="28034" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="203" end="213" text="12/12/1941" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="221" end="227" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="235" end="242" text="76 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="249" end="250" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="270" end="280" text="31/03/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T12" start="292" end="299" text="5843556" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T11" start="309" end="336" text="José Manuel Moreno Villares" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="344" end="355" text="28 28 94138" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="388" end="393" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="397" end="404" text="77 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="779" end="796" text="esposa de 72 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="879" end="886" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1756" end="1783" text="José Manuel Moreno Villares" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1814" end="1836" text="Hospital 12 de Octubre" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1838" end="1843" text="28041" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1844" end="1850" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="1860" end="1889" text="jmoreno.hdoc@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

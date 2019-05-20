@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: David.
+Apellidos: Parra Fajardo .
+NHC: 3894762.
+NASS: 78 94315795 81.
+Domicilio: Calle del Poeta Joan Maragall, 43, 5, D.
+Localidad/ Provincia: Madrid.
+CP: 29007.
+Datos asistenciales.
+Fecha de nacimiento: 25/03/1938.
+País de nacimiento: España.
+Edad: 56   Sexo: H.
+Fecha de Ingreso: 26/05/2009.
+Médico: Carlos Veiga de la Jara  NºCol: 11 11 88546.
+Varón de tres años de edad, con lesión perianal eritematosa, pruriginosa, de una semana de evolución, sin afectación del estado general ni fiebre. En la exploración también se ven fisuras radiales. Se toma frotis rectal con resultado positivo en el test rápido de estreptococo, por lo que se inicia tratamiento con amoxicilina oral y mupirocina tópica durante diez días, con completa resolución del cuadro al concluir el tratamiento. El resultado del cultivo de la muestra confirmó crecimiento de EBHGA.
+Dirección para correspondencia: Irene García Osés irene_garcia_oses@yahoo.es

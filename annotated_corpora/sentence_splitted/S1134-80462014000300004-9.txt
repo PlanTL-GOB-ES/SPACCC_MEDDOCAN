@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Alvaro.
+Apellidos: Higueras Patiño.
+NHC: 8264597.
+NASS: 37 86573566 30.
+Domicilio: Av. medellin 18, 3A.
+Localidad/ Provincia: Barcelona.
+CP: 28020.
+Datos asistenciales.
+Fecha de nacimiento: 08/09/1980.
+País de nacimiento: España.
+Edad: 67 años  Sexo: Hombre.
+Fecha de Ingreso: 20/08/2015.
+Médico: Alexander José Finol Muñoz  NºCol: 32 28 16479.
+Niño de 9 años cuando se realizó el diagnóstico. Tenía traumatismo previo (esguince) de tobillo izquierdo. Fue remitido a la Unidad a los dos años del diagnóstico.
+Se le administra tratamiento farmacológico más aplicación del parche de capsaicina. Alivio de la alodinia pero no del dolor profundo, por lo que se coloca en quirófano un catéter epidural conectado a una bomba externa para la administración durante dos semanas de un flujo continuo de bupivacaína. Retirada del catéter a las dos semanas con remisión completa de los síntomas.
+
+Dirección para correspondencia: Manuel J. Rodríguez-López Unidad de Tratamiento del Dolor Hospital Regional Universitario "Carlos Haya" Avda. Carlos Haya, s/n 29010 Málaga e-mail: maje1946@yahoo.es

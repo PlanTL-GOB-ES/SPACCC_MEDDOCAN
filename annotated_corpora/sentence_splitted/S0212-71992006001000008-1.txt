@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: Iván.
+Apellidos: Cerna Ferrero.
+NHC: 7356904.
+NASS: 78 46573956 56.
+Domicilio: C/ San Benito, 4.
+Localidad/ Provincia: Madrid.
+CP: 28046.
+Datos asistenciales.
+Fecha de nacimiento: 19/12/1978.
+País de nacimiento: España.
+Edad: 39 años Sexo: H.
+Fecha de Ingreso: 12/06/2018.
+Médico: Marta Feito Rodríguez  NºCol: 28 28 57480.
+Informe clínico del paciente: Acude a nuestra consulta un varón de 39 años, sin antecedentes personales de interés salvo hipotiroidismo subclínico, remitido desde Atención Primaria para valoración de coloración violácea en falange distal del segundo, tercer y cuarto dedo de ambas manos de 15 días de evolución, además de sensación de frialdad en las zonas referidas; las lesiones eran persistentes tanto en ambientes cálidos como en ambientes fríos, y no se objetivaban episodios de palidez previa ni rubor. No se encontraron antecedentes familiares de interés. El paciente no estaba tomando ninguna medicación vasoconstrictora.
+A la exploración física se objetivó coloración violácea y frialdad en extremos distales de ambas manos de forma bastante simétrica, siendo dichos cambios más notorios en segundo, tercer y cuarto dedo. Los pulsos distales se hallaban conservados, y no existían otras zonas anatómicas afectas. En este momento no se objetivó esclerodactilia, cicatrices puntiformes ni otros hallazgos significativos que sugirieran esclerodermia. La exploración cardiopulmonar no reveló ninguna anomalía.
+Se realizaron varias pruebas complementarias, analíticas y de imagen. Hemograma, electrolitos, coagulación, función hepática, función renal, gasometría arterial, análisis de orina, velocidad de sedimentación globular, niveles de complemento, inmunoglobulinas, crioaglutininas, crioglobulinas y marcadores tumorales fueron normales. Un estudio de función tiroidea objetivó hipotiroidismo subclínico, con anticuerpos antitiroglobulina y antiperoxidasa normales. Las serologías de VHB, VHC, VIH y sífilis resultaron negativas.
+El estudio inmunológico reveló ANA positivos a título 1/2560 con patrón nucleolar y anticuerpos antiDNA, ENA, anticardiolipina, scl70, anticentrómero y factor reumatoide negativos. El TC torácico fue rigurosamente normal.
+Dos meses después el paciente comenzó a presentar esclerodactilia y cicatrices puntiformes en pulpejos de dedos e induración de piel preesternal y región laterocervical de forma simétrica. Se inició tratamiento con pentoxifilina, corticoides orales en pauta descendente y azatioprina, con buen control de su patología.
+Responsable clínico: Dra. Marta Feito Rodríguez Hospital Universitario La Paz Pso de la Castellana, 261 28046 Madrid e-mail: marta8marta@hotmail.com

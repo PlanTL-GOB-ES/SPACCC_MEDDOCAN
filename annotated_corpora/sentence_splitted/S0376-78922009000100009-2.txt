@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Alejandro   .
+Apellidos: Marquez Ferrer.
+NHC: 56437.
+NASS: 26 63514095.
+Domicilio: Calle de Verín, 19, 1B.
+Localidad/ Provincia: Albacete.
+CP: 28017.
+Datos asistenciales.
+Fecha de nacimiento: 15/03/1997.
+País de nacimiento: España.
+Edad: 28 años  Sexo: .
+Fecha de Ingreso: 21/08/2016.
+Médico: Maria Musquera Prieto  NºCol: 28 28 79654.
+Varón de 79 años con lesión tumoral en borde palpebral que ocupa tercio lateral y canto externo del ojo derecho, sospechosa de recidiva de carcinoma basocelular previamente intervenido. Bajo anestesia general se procede a exéresis de la tumoración con márgenes, incluyendo piel, tarso y conjuntiva palpebral, y reconstrucción mediante colgajo miocutáneo de músculo orbicular en isla con unas dimensiones de 21 x 10 mm para la lamela externa e injerto condromucoso del tabique nasal para la lamela interna. La anatomía patológica informó de carcinoma basocelular. En la Fig. 9 mostramos el resultado a los 9 meses de la intervención.
+Dirección para correspondencia: Dra. Araceli Lagares Borrego Servicio de Cirugía Plástica, Reparadora y Quemados de los Hospitales Universitarios Virgen del Rocío. Avda. de Manuel Siurot s/n, 41013 Sevilla. España. e-mail: alagaresborrego@hotmail.com

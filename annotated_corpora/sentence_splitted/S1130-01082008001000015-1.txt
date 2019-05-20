@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Emilio.
+Apellidos: Sanchez Diaz.
+NHC: 7346578.
+Domicilio: C/ La Bañeza, 32.
+Localidad/ Provincia: Madrid.
+CP: 20101.
+Datos asistenciales.
+Fecha de nacimiento: 21/07/2016.
+País: España.
+Edad: 47   Sexo: M.
+Fecha de Ingreso: 18/12/2013.
+Médico: Vicente Javier Clemente Suárez NºCol: 31 31 80563.
+Mujer de 62 años consultada por dolor en hipocondrio derecho sin otra sintomatología ni antecedentes de interés. Exploración física: masa de gran tamaño a nivel de hemihígado izquierdo. TC abdominal y RM hepática: tumoración bien definida en segmentos II y III del hígado, aparentemente encapsulada, con áreas de sangrado y necrosis de características inespecíficas; se sugiere diagnóstico de adenoma hepático sin descartar otras tumoraciones. Operación: enucleación de tumoración hepática, única, redondeada, blanda y con componente vascular en superficie que macroscópicamente parece compatible con hemangioma. Anatomía patológica: angiomiolipoma hepático mixto (tejido muscular liso, adiposo y vasos tortuosos). Inmunohistoquímica: HMB-45+ en las células tumorales musculares; vimentina +, S100+ y actina +; CD10, desmina, c-kit, EMA, CAM 5.2, CD34 AE1/AE3 y CEA: negativas. Resultado: alta al 7º día postoperatorio con alivio de su sintomatología dolorosa.
+
+Dirección para correspondencia: Felipe Sainz Hospital Central de la Defensa Gómez-Ulla. Servicio de Angiología y Cirugía Vascular. c/ Glorieta del Ejército s/n, Madrid. Correo Electrónico: sainz.felipe@gmail.com

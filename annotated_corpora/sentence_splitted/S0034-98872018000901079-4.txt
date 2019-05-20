@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Carmen.
+Apellidos: Fernandez Estrada.
+NHC: 739146.
+NASS: 82 35613758 41.
+Domicilio: Calle María Estuardo 58.
+Localidad/ Provincia: Salamanca.
+CP: 41703.
+Datos asistenciales.
+Fecha de nacimiento: 15/11/2011.
+País: España.
+Edad: 70 años  Sexo: H.
+Fecha de Ingreso: 26/06/2018.
+Médico: Rebeca Parada López  NºCol: 06 06 51241.
+Hombre de 29 años, inicia a la edad de 4 años cuadro caracterizado por crisis dolor quemante en manos y pies, desencadenados por el ejercicio, fiebre, calor o frío. Refiere sensación de pies congelados, para lo cual pone pies en agua tibia o los abriga. Ocasionalmente sensación de pinchazos. Distensión abdominal y episodios de diarrea ocasional. Escasos angioqueratomas. Se realizó el diagnóstico reciente en contexto de estudio familiar, con niveles de enzimáticos. Inicio reciente de terapia de remplazo enzimática. Evaluación clínica y neurofisiológica compatible con compromiso neuropático de fibras mielínicas delgadas y amielínicas. Ausencia generalizada de RSC y evaluación de intervalo R-R en límites normales.
+Dirección para correspondencia: Marta Domínguez López Hospital Regional Universitario Carlos Haya Plaza del Hospital Civil, s/n 29009 Málaga. España E-mail: mmelilla@yahoo.com

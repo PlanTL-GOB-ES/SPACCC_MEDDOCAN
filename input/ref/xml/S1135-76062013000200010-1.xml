@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Ruth.
+Apellidos: Albacete Dominguez.
+NHC: 7045603.
+NASS: 38 47968356 45.
+Domicilio: Calle Rostrán, 27.
+Localidad/ Provincia: Córdoba.
+CP: 14016.
+Datos asistenciales.
+Fecha de nacimiento: 22/11/1979.
+País de nacimiento: España.
+Edad: 38 años Sexo: M.
+Fecha de Ingreso: 06/06/2018.
+Médico: Cristina M. Beltrán Aroca  NºCol: 14 14 58993.
+Informe clínico del paciente: Mujer de 38 años de edad, primigesta de 40 semanas, con antecedentes de diabetes gestacional controlada, que ingresa en el hospital por cuadro de hipertensión arterial, con cifras de 150/95 mmHg. Se realiza tratamiento con infusión intravenosa de labetalol. Tras el fracaso de la inducción del parto con prostaglandinas, se le realiza cesárea, durante la cual se produjo una hemorragia intensa por atonía, ante lo que se decide practicar una histerectomía subtotal. En situación de inestabilidad hemodinámica intensa y con signos de coagulopatía, ingresa en la unidad de cuidados intensivos, donde se realiza una tomografía computarizada (TC) abdomino-pélvico que informa de hematoma subcapsular hepático de 6,7 × 15 × 19 cm con áreas sugestivas de sangrado reciente, que comprime el lóbulo hepático derecho. Por indicación de cirugía se trata con medidas conservadoras, ante lo que se consigue una situación hemodinámica estable de la paciente, con disminución progresiva del hematoma subcapsular hepático según control por TC. Se realiza un análisis que pone de manifiesto: disminución del hematocrito, 18%; bilirrubina total, 5,1 mg/dl; GOT, 815 U/l; y trombocitopenia (55.000 plaquetas/ml), por lo que se procede a realizar una transfusión de plaquetas. Dada la favorable evolución clínica y ecográfica se decide el traslado de la paciente a planta, y el día anterior a recibir el alta médica, 11 días tras el parto, estando acostada y hablando con su marido, comienza a sentirse mal, con sensación disneica y pérdida de la consciencia. Tras la realización de maniobras de reanimación cardiopulmonar, la paciente fallece y se decide no certificar la defunción por muerte súbita en una enferma estable.
+Hallazgos de la autopsia
+En el examen externo destacaba el cadáver muy pálido con livideces poco intensas. El examen interno puso de manifiesto:
+- Hemoperitoneo de sangre líquida de 950 cm3.
+- Hígado aumentado de tamaño y peso, de 2.390 gramos, que presentaba un desgarro de la cápsula de Glisson en la porción superior de la cara anterior de los segmentos VII y VIII del lóbulo derecho.
+- Gran hematoma subcapsular extendido a casi la totalidad de la cara superior y posterior del lóbulo derecho hepático, con dimensiones aproximadas de 22 cm de diámetro longitudinal, 15 cm de diámetro transversal y unos 3 cm de espesor máximo.
+- Palidez visceral generalizada.
+Se remitió el hígado completo para estudio histopatológico, evidenciándose un parénquima hepático muy alterado con destrucción de la arquitectura normal, necrosis periportal e intraparenquimatosa, y depósito de fibrina intrasinusoidal. Todos los hallazgos son compatibles con una rotura espontánea del hígado asociada probablemente a un síndrome HELLP.
+Por tanto, se estableció como causa de la muerte un shock hemorrágico secundario a una rotura espontánea hepática, provocada por un hematoma subcapsular en el contexto de un síndrome HELLP.
+Responsable clínico: Dra. Cristina M. Beltrán Aroca Unidad Docente de Medicina Legal y Forense. Facultad de Medicina. Universidad de Córdoba. Avda. Menéndez Pidal, s/n. 14004 Córdoba, España. E-mail: h12bearc@uco.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="32" text="Ruth" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="45" end="63" text="Albacete Dominguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="70" end="77" text="7045603" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="85" end="99" text="38 47968356 45" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="112" end="129" text="Calle Rostrán, 27" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="153" end="160" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="166" end="171" text="14016" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="215" end="225" text="22/11/1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="247" end="253" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="261" end="268" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="275" end="276" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="296" end="306" text="06/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="316" end="341" text="Cristina M. Beltrán Aroca" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="350" end="361" text="14 14 58993" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="393" end="398" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="402" end="409" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="1849" end="1855" text="marido" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T10" start="3332" end="3357" text="Cristina M. Beltrán Aroca" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="3402" end="3422" text="Facultad de Medicina" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T7" start="3424" end="3446" text="Universidad de Córdoba" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T6" start="3448" end="3473" text="Avda. Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3475" end="3480" text="14004" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3481" end="3488" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3490" end="3496" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="3506" end="3521" text="h12bearc@uco.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

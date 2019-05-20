@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Daniel.
+Apellidos: Sevilla Martel.
+NHC: 2589631.
+NASS: 78 23674574 13.
+Domicilio: Calle el Charco, 44, 7A.
+Localidad/ Provincia: La Coruña.
+CP: 08916.
+Datos asistenciales.
+Fecha de nacimiento: 08/11/1924.
+País: España.
+Edad: 10 años  Sexo: M.
+Fecha de Ingreso: 03/11/2017.
+Médico: Maria Vicente Sallais  NºCol: 33 33 97181.
+Varón de 70 años con gastrectomía total previa por adenocarcinoma gástrico tratado con quimiorradioterapia postoperatoria y sin evidencia de recidiva tumoral que ingresó por hematoma subdural frontotemporoparietal izquierdo en el contexto de traumatismo craneoencefálico y sobredosificación de anticoagulantes orales. Se realizó evacuación del hematoma mediante craneotomía. La evolución neurológica fue mala, permaneciendo el paciente en un estado de coma vegetativo. Se instauró SNE mediante NE a través de sonda nasoyeyunal (SNY) con complicaciones mecánicas frecuentes en relación con salidas accidentales y desposicionamientos de la sonda, lo que una vez estabilizado el paciente llevó a proponer a la familia la colocación de una yeyunostomía de alimentación, a lo que se negaron. A los tres meses del ingreso en nuestro centro fue trasladado a otro hospital en busca de una segunda opinión médica. Tras reevaluación global del paciente y nuevo intento de NE a través de SNY colocaron yeyunostomía de alimentación, siendo remitido al alta a nuestra unidad para soporte técnico y seguimiento de la NED.
+
+Dirección para correspondencia: María Teresa Fernández López. Médico Adjunto del Servicio de Endocrinología y Nutrición. Complexo Hospitalario Universitario de Ourense. C/ Villa Valencia, 20-6o A. 32002 Ourense. España. E-mail: maria.teresa.fernandez.lopez@sergas.es

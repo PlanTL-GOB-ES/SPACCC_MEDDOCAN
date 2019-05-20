@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Samuel.
+Apellidos: Bertrand Flores.
+NHC: 8973852.
+NASS: 89 75468925 03.
+Domicilio: C/ Pedregal, 6, 2, A.
+Localidad/ Provincia: Palencia.
+CP: 34005.
+Datos asistenciales.
+Fecha de nacimiento: 13/06/1975.
+País de nacimiento: España.
+Edad: 40 años Sexo: H.
+Fecha de Ingreso: 26/01/2016.
+Médico: Victoria Oviedo Gómez NºCol: 34 34 51203.
+Informe clínico del paciente: paciente varón joven de 40 años con pérdida de agudeza visual en ojo izquierdo (OI) de 2 semanas de evolución y metamorfopsia desde hacía dos años. La mejor agudeza visual corregida del paciente era 0,3 y en el fondo de ojo se observaba además de unas fibras de mielina en la arcada temporal superior, una MER centrada sobre la región macular produciendo una imagen de pseudoagujero macular. Se podía observar una marcada distorsión de los vasos sanguíneos retinianos alrededor de la mácula. No había evidencia DPV. El ojo derecho era normal. Se realizó angiografía fluresceínica en la que no se observó edema macular ni difusión de los vasos retinianos. El paciente no refería traumatismo alguno, ni patología previa en dicho ojo, por lo que fué diagnosticado de MER idiopática e incluido en lista de espera para realizar vitrectomía pars plana.
+Al mes acudió a consulta refiriendo mejoría marcada de la agudeza visual y desaparición de la metamorfopsia. Se observó una mejor agudeza visual corregida de la unidad y en el fondo de ojo ausencia de la MER, desaparición de la distorsión de los vasos retinianos y un DPV prepapilar denso.
+Responsable clínico: Dra. Victoria Oviedo Gómez, Sección de Nefrología, Complejo Asistencial de Palencia, Avda. Donantes de sangre s/n, 34005 , Palencia E-mail: voviedo71@hotmail.com E-mail: majuelo55@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="34" text="Samuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="47" end="62" text="Bertrand Flores" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="69" end="76" text="8973852" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="84" end="98" text="89 75468925 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="111" end="131" text="C/ Pedregal, 6, 2, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="155" end="163" text="Palencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="169" end="174" text="34005" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="218" end="228" text="13/06/1975" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="250" end="256" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T1" start="264" end="271" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="278" end="279" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="299" end="309" text="26/01/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="319" end="340" text="Victoria Oviedo Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="348" end="359" text="34 34 51203" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="400" end="405" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T2" start="406" end="411" text="joven" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="415" end="422" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="1554" end="1575" text="Victoria Oviedo Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="1600" end="1632" text="Complejo Asistencial de Palencia" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="1634" end="1662" text="Avda. Donantes de sangre s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="1664" end="1669" text="34005" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="1672" end="1680" text="Palencia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T4" start="1689" end="1710" text="voviedo71@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T3" start="1719" end="1737" text="majuelo55@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

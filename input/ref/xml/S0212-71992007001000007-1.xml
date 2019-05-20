@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Marc.
+Apellidos: Alba Hernandez.
+NHC: 874554.
+NASS: 69 53654065 04.
+Domicilio: Carrer de Jaume II, 17 .
+Localidad/ Provincia: Lleida.
+CP:25001.
+Datos asistenciales.
+Fecha de nacimiento: 10/06/1927.
+País: España.
+Edad: 89 años Sexo:H.
+Fecha de Ingreso: 13/10/2016.
+Servicio: Medicina Interna.
+Médico: Francisco José Nicolás Sánchez NºCol: 25 28 47586.
+Historia Actual: Paciente varón de 89 años sin antecedentes patológicos de interés que consultó por anorexia de mes y medio de evolución acompañada de edema en manos y pies. Refería algún episodio de rectorragia. 
+Exploración física: La exploración física solo reveló el edema con fóvea limitado a articulaciones metacarpofalángicas y metatarso falángicas. Con el diagnóstico de sospecha de RS3PE se inició terapia con prednisona 20 mg/24 horas, desapareciendo el edema completamente a los 5 días de tratamiento. Dado que este que este síndrome puede aparecer asociado a otras patologías se realizó el estudio del paciente.
+Resumen de pruebas complementarias: En las pruebas complementarias la hemoglobina era de Hb 10,3 g/dL, con VCM 94,5 fl. La bioquímica la glucosa, urea, creatinina, ácido úrico, calcio total, fosfato, colesterol, colesterol-HDL, colesterol-LDL, proteínas totales, GPT, LDH, GGT, Na, K eran normales. Cobalaminas y folatos normales. Beta-2-microglobulina normal. En el proteinograma apareció una banda monoclonal a IgA lambda. La proteína C reactiva y la VSG eran normales. La interleucina 6 fue normal. Serología de VIH negativa. El factor reumatoide, los anticuerpos antinucleares y los anticuerpos anticitoplasma neutrófilo fueron negativos. El PSA fue normal. El fenotipo HLA-B27 fue positivo. La proteinuria de Bence-Jones fue negativa. La colonoscopia fue normal. Las radiografías de manos y pies no mostraban lesiones erosivas. En la TAC torácica en el segmento posterior del LSD se apreciaba un infiltrado pulmonar que adoptaba una morfología ramificada (tree inbud) y nodular; en el LM también se observaba un infiltrado de morfología ramificada, nodular y una condensación subsegmentaria con broncograma aéreo; tractos pleuroparenquimatosos biapicales bronquiectasias cilíndricas de pared fina en LII y con engrosamiento de língula, y pleura. TAC abdominal vejiga urinaria con engrosamiento del suelo vesical, con múltiples divertículos, hipertrofia prostática. La broncoscopia presentó una tráquea, y árbol bronquial izquierdo con signos inflamatorios crónicos, destacan divertículos y placas antracosis en todo el árbol bronquial; a nivel del árbol bronquial derecho, en bronquio intermediario unos mm antes de llegar a la entrada LM se observa infiltración mucosa y a la entrada de LM había una masa de aspecto necrótico y muy friable que obstruía totalmente la entrada, no se realizó biopsia bronquial por sangrado. El estudio citológico del BAS reveló un frotis inflamatorio agudo. El cultivo de Löwestein del BAS fue positivo para Mycobacterium tuberculosis.
+Evolución y comentarios: En la evolución del paciente se observó que a los 5 días de iniciar el tratamiento corticoideo desapareció el edema de manos y pies, al mes se normalizó la hemoglobina. A los 4 meses de iniciar la prednisona se identificó al Mycobacterium tuberculosis pautándose isoniacida, rifampicina y pirazinamida, y suspendiendo el tratamiento corticoideo por la sospecha de enfermedad de Poncet. A los 3 meses de iniciar los tuberculostáticos y de retirar los corticoides reaparicieron el edema en manos y pies, por lo que se reintrodujo el tratamiento corticoideo.
+Remitido por: Francisco José Nicolás Sánchez. Servicio de Medicina Interna. Hospital de Santa María. Avda. Alcalde Roure, 44. 25006 Lleida. e-mail: fnicolas@comll.cat
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="13" text="Marc" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="26" end="40" text="Alba Hernandez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="47" end="53" text="874554" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="61" end="75" text="69 53654065 04" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="88" end="110" text="Carrer de Jaume II, 17" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="135" end="141" text="Lleida" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="146" end="151" text="25001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="195" end="205" text="10/06/1927" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="213" end="219" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="227" end="234" text="89 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="240" end="241" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="261" end="271" text="13/10/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="309" end="339" text="Francisco José Nicolás Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="347" end="358" text="25 28 47586" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="386" end="391" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="395" end="402" text="89 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3552" end="3582" text="Francisco José Nicolás Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3614" end="3637" text="Hospital de Santa María" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3639" end="3662" text="Avda. Alcalde Roure, 44" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3664" end="3669" text="25006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3670" end="3676" text="Lleida" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="3686" end="3704" text="fnicolas@comll.cat" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

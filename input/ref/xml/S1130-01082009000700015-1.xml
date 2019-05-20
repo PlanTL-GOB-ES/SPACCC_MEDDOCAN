@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Sara.
+Apellidos: Garcia Rios.
+NHC: 724545.
+NASS: 23 07563478 93.
+Domicilio: Carrer de Santa Madrona, 60, 5 Der..
+Localidad/ Provincia: Badalona, Barcelona.
+CP: 08911.
+Datos asistenciales.
+Fecha de nacimiento: 30/01/1985.
+País: España.
+Edad: 33 años Sexo: M.
+Fecha de Ingreso: 07/05/2018.
+Médico: Gracia María García Lara NºCol: 08 24 63891.
+Motivo de ingreso: Mujer de 33 años de edad que consulta por dolor abdominal de dos meses de evolución localizado en fosa iliaca derecha sin otra sintomatología acompañante. 
+Historia Actual: La paciente acudió a varios centros hospitalarios, donde fue dada de alta con pruebas complementarias básicas normales. Acude a urgencias de nuestro hospital ante la persistencia de los síntomas.
+Evolución y comentarios:Se practica ecografía-doppler abdominal, en la que se objetiva en fosa iliaca derecha un nódulo de un centímetro de diámetro hipervascularizado. La paciente ingresa en nuestro servicio con la presunción diagnóstica de endometrioma para completar estudios. En la tomografía computarizada realizada durante el ingreso se evidencia un nódulo único de 1 x 1,5 cm localizado en el apéndice.
+La paciente es intervenida realizándose laparoscopia exploradora que identifica el apéndice sin signos inflamatorios, con el nódulo anteriormente descrito. El examen anatomopatológico de la pieza extraída presenta macroscópicamente un nódulo de consistencia dura en la punta del apéndice que se informa como tumor de células granulares. La lesión se extiende por el tejido adiposo subseroso del apéndice.
+Histológicamente, la célula proliferante es de tamaño mediano a grande con un amplio citoplasma y pequeños núcleos con nucléolo patente destacando la presencia de gránulos eosinófilos en el citoplasma. Las técnicas de inmunohistoquímica muestran positividad para la proteína S100.
+Conocido el diagnóstico histológico se realizan endoscopias digestivas, alta y baja, que no detectan otras lesiones.
+Remitido por: Dra. Gracia María García Lara: garla75@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="8" end="12" text="Sara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="25" end="36" text="Garcia Rios" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="43" end="49" text="724545" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="57" end="71" text="23 07563478 93" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="84" end="119" text="Carrer de Santa Madrona, 60, 5 Der." TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="143" end="151" text="Badalona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="153" end="162" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="168" end="173" text="08911" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="217" end="227" text="30/01/1985" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T9" start="235" end="241" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="249" end="256" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="263" end="264" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="284" end="294" text="07/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="304" end="328" text="Gracia María García Lara" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="336" end="347" text="08 24 63891" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="368" end="373" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="377" end="384" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="1969" end="1993" text="Gracia María García Lara" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1995" end="2014" text="garla75@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Joan.
+Apellidos: Valeriano Gradiz.
+NHC: 5426445.
+Domicilio: Calle General Ramirez 14, 8B.
+Localidad/ Provincia: Tres Cantos, Madrid.
+CP: 28027.
+Datos asistenciales.
+Fecha de nacimiento: 01/01/1979.
+País: Chile.
+Edad: 31 años  Sexo: M.
+Fecha de Ingreso: 18/06/2018.
+Médico: Ender Goñi Moreno   NºCol: 28 28 57410.
+Paciente de 65 años, sexo femenino, con antecedentes de insuficiencia renal crónica de larga data, trasplante renal en 1999 que rechazó a los 8 meses, en hemodiálisis trisemanal desde el año 2000 e hipertensión arterial secundaria. Tratada con eritropoyetina, ácido fólico, atenolol y losartan. Consultó por una historia de cuatro meses de evolución, caracterizada por lesiones pruriginosas en manos, antebrazos y espalda. En el examen físico destacaban hiperpigmentación difusa, erosiones, úlceras y pápulas costrosas, ubicadas preferentemente en dorso de manos, antebrazos, tórax anterior y región interescapular. Se realizó biopsia de las lesiones que mostró piel con úlcera y costra fibrinoleucocitaria. El fondo de la úlcera con haces de colágeno de disposición vertical, epidermis adyacente con hiperortoqueratosis, acantosis y leve espongiosis. La dermis con leve infiltrado inflamatorio disperso y perivascular superfcial linfocitario, con algunos plasmocitos y neutróflos y foco hemorrágico. Los hallazgos informados fueron compatibles con colagenosis perforante de tipo reactivo. Se indicaron antihistamínicos orales y clobetasol 0,05% + cloranfenicol 2% con respuesta parcial a un año de seguimiento.
+
+Correspondencia a: Cristina Bello Cisternas av. Vicuña Mackenna 4686. San Joaquín, Santiago, Chile. Fax: (56 2) 552 9974. E-mail: cbello@med.puc.cl

@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Rafael.
+Apellidos: Morales Gradiz.
+NHC: 7802369.
+NASS: 80 93467298 65.
+Domicilio: Calle las Rosa, 19, 2 B.
+Localidad/ Provincia: Móstoles.
+CP: 28935.
+Datos asistenciales.
+Fecha de nacimiento: 07/07/1958.
+País de nacimiento: España.
+Edad: 55 años Sexo:H.
+Fecha de Ingreso: 20/12/2013.
+Médico: ,aria Fernanda Muñoz Velásquez  NºCol: 28 28 56320.
+Informe clínico del paciente: varón de 55 años de edad, alérgico a tetraciclinas y beta-lactámicos con antecedentes de hipertensión arterial en seguimiento por la Unidad de Dolor Crónico por un cuadro clínico de lumbalgia y lumbociatalgia izquierda de origen espondiloartrósico con componente miofascial asociado.
+Se instaura tratamiento médico con tramadol, pregabalina y duloxetina a dosis habituales y se realiza una infiltración diagnóstico-terapéutica con anestésico local y corticoides de músculos profundos (psoas y cuadrado lumbar izquierdos). Tras una mejoría clínica superior al 50% se programa para nueva infiltración, según protocolo del hospital, de los músculos psoas y cuadrado lumbar izquierdo, con toxina botulínica serotipo A (Dysport®) 200 UI por músculo en una misma sesión y sin incidencias. Cuatro meses más tarde el paciente presenta un episodio autolimitado de ptosis palpebral sin consultar por ello. Desde entonces refiere episodios de ptosis presentando mejoría de los mismos tras infiltración con anestésico local y corticoides de puntos gatillo en cintura escapular. Seis meses más tarde presenta episodio de ptosis palpebral asociado a diplopía y debilidad mandibular, motivo por el que consulta y se estudia en el Servicio de Neurología del hospital siendo diagnosticado de miastenia gravis (MG) iniciándose tratamiento corticoideo y con piridostigmina con mejoría del cuadro clínico.
+Responsable clínico: Maria Fernanda Muñoz Velásquez Servicio de Anestesiología y Reanimación Hospital Universitario de Móstoles c/ Río Júcar, s/n 28935 Móstoles, Madrid e-mail: mfevelazquez@gmail.com

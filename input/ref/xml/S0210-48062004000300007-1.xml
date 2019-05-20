@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Isabel.
+Apellidos: Herrera Garcia.
+NHC: 3740648.
+NASS: 74 35637063 21.
+Domicilio: C/ Sinesio Delgado, 23.
+Localidad/ Provincia: Madrid.
+CP: 28235.
+Datos asistenciales.
+Fecha de nacimiento: 16/06/1941.
+País de nacimiento: España.
+Edad: 72 años Sexo: M.
+Fecha de Ingreso: 19/05/2014.
+Servicio: Nefrología.
+Médico: Enrique Antón Florit  NºCol: 28 28 57800.
+Informe clínico del paciente: Paciente mujer de 72 años, con antecedente de artritis reumatoide de larga evolución en tratamiento con AINES y en estudio por cuadro diarreico crónico de varios meses de evolución, por parte del Servicio de Digestología de otro centro. En el transcurso de una colonoscopia diagnóstica, la paciente sufre una perforación iatrogénica del colon descendente, motivo por el cual se remite de manera urgente a nuestro centro. Con el diagnóstico de perforación intestinal la enferma es intervenida de urgencia por el equipo de guardia de Cirugía General, realizando una laparotomía media con sutura primaria del colon descendente. Tras el sondaje intraoperatorio de la paciente, se produce la aparición inmediata de hematuria franca, motivo por el que se nos consulta. Valorada inicialmente la paciente y ante la ausencia de otra sintomatología asociada se decide manejo conservador y ver evolución. En las horas posteriores a la intervención se acrecentó la intensidad de la hematuria, instaurando un lavado vesical continuo y tratamiento intravenoso con E-aminocaproico, que no resolvió el cuadro produciéndose un cuadro de anemización progresiva que precisó la transfusión de seis unidades de concentrado de hematíes en los días posteriores. Posteriormente la intensidad de la hematuria remitió, aunque en las dos semanas posteriores a la intervención, se repitió en forma de episodios autolimitados que cedían parcialmente con medidas conservadoras. A los seis días de la intervención se realizó ecografía que mostró ocupación vesical por una imagen que sugería coágulo y cistoscopia, que no fue concluyente por la ocupación intraluminal por un gran un coágulo. Durante la exploración, se realizó un intento de lavado que fue infructuoso por dolor, pudiendo tan sólo explorar el área trigonal, apreciando un coágulo filiforme que asomaba por el meato ureteral izquierdo. Se solicitaron pruebas de imagen: urografía intravenosa que evidenció la normalidad de ambos sistemas ureteropielocaliciales, que aparecían discretamente ectásicos por la presencia de múltiples defectos de repleción intravesicales que sugerían presencia del coágulo ya conocido. La TAC no aportó más información, con hallazgos similares a la exploración anterior, descartándose patología del tracto urinario superior.
+Ante la persistencia de los episodios de hematuria y la emisión de coágulos se programó exploración bajo anestesia general, apreciando tras profuso lavado con Ellick, la presencia de una lesión excrecente y de aspecto aparentemente tumoral que se descolgaba desde cúpula por toda la pared posterior, respetando tan sólo el área trigonal-peritrigonal. Ante la sospecha de tumor vesical se realizó resección transuretral extensa dejando la lesión a plano. El estudio anatomo-patológico del material remitido evidenció la presencia de material amiloide que se distribuía alrededor de los vasos submucosos, como podemos apreciar en la tinción con hematoxilina-eosina. El carácter eosinófilo de este material también fue puesto de manifiesto mediante tinción con rojo congo. Por otra parte, el estudio inmunohistoquímico del material, con anticuerpos monoclonales (clone mcl) específicos frente a la proteína AA del amiloide, confirmaron que los depósitos perivasculares submucosos correspondían a amiloide AA que se teñían de manera característica mediante reacción de inmunoperoxidasa. Con todos estos hallazgos se emitió el diagnóstico de amiloidosis vesical secundaria.
+La evolución post-operatoria de la paciente fue favorable siendo dada de alta al 10º día tras la intervención y seguida posteriormente en nuestras consultas externas. Actualmente el seguimiento de la paciente es de 30 meses, realizando cistoscopias trimestrales durante el primer año, y semestrales durante el segundo, sin haberse producido hasta el momento ninguna recidiva de la enfermedad. Tan sólo se apreció en los primeros controles cistoscópicos, áreas focales de material amiloide en la mucosa que no han generado ninguna complicación posterior.
+Responsable clínico: Enrique Antón Florit, Servicio de Nefrología, Hospital Clínico San Carlos, Madrid E-mail: kiqueflorit@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="34" text="Isabel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="47" end="61" text="Herrera Garcia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="68" end="75" text="3740648" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="83" end="97" text="74 35637063 21" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="110" end="132" text="C/ Sinesio Delgado, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="156" end="162" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="168" end="173" text="28235" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="217" end="227" text="16/06/1941" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="263" end="270" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="277" end="278" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="298" end="308" text="19/05/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="340" end="360" text="Enrique Antón Florit" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="369" end="380" text="28 28 57800" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="421" end="426" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T5" start="430" end="437" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="4443" end="4463" text="Enrique Antón Florit" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="4489" end="4516" text="Hospital Clínico San Carlos" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T2" start="4518" end="4524" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="4533" end="4556" text="kiqueflorit@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

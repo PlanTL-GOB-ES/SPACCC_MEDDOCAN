@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Maria del Carmen.
+Apellidos: Estibaliz Romero.
+NHC: 36985.
+NASS:89 84823485 45.
+Domicilio: Ronda Ibón de Plan 22, 3F .
+Localidad/ Provincia: Zaragoza.
+CP: 50011.
+Datos asistenciales.
+Fecha de nacimiento: 16/11//1940.
+País: España.
+Edad: 76 años Sexo: M.
+Fecha de Ingreso: 23/12/2016.
+Servicio: Cirugia Vascular.
+Episodio:.
+Médico: Raquel Ridruejo Sáez Paseo Calanda  NºCol:50 50 48912.
+Historia Actual: Mujer de 76 años, que ingresa en el Servicio de Cirugía Vascular por un síndrome postflebítico. Durante su estancia en planta presenta deterioro clínico, motivo por el que se traslada a UCI el 10/5/03 en situación de sepsis grave.
+Antecedentes: HTA, obesidad, artrosis y resección de adenoma tubular de colón. En agosto de 2000 se intervino de colecistectomía por colecistitis litiásica con importante plastrón inflamatorio subhepático que obligó a una resección subtotal de la vesícula. En ese ingreso desarrolló TVP de EII con TEP posterior y fibrilación auricular, iniciando tratamiento con amiodarona y dicumarínicos. En estudio ambulatorio el último mes por clínica digestiva inespecífica observando en control analítico elevación de GGT y FA.
+Exploración física: A la exploración en UCI estaba estuporosa, ictérica y con hipotensión arterial. Saturación de O2 conservada con mascarilla. Auscultación cardiaca rítmica a 80 lpm, sin soplos. Auscultación pulmonar normal. El abdomen era globuloso, doloroso a la palpación en hemiabdomen derecho, aunque sin signos de irritación peritoneal y la EII mostraba buena evolución de su trombosis.
+Resumen de pruebas complementarias:En analítica destacaba leucocitosis (37.000/mm3) con neutrofilia, urea 1,83 g/l, creatinina 4,2 mg/dl bilirrubina total 8,6 mg/dl, con fracción directa de 5,7 mg/dl, AST 312 U/l, ALT 106 U/l, GGT 416 U/l. Con el diagnóstico de sepsis de origen biliar, se inicia tratamiento con fluidoterapia, dopamina y antibiótico empírico con piperacilina/tazobactam obteniendo buena respuesta inicial.
+TAC-abdominal (11/5/03) que evidencia múltiples imágenes hipodensas en parénquima hepático que sugerían abscesos. Ecocardiograma transtorácico y transesofágico, que confirmó la existencia de endocarditis a nivel subvalvular mitral que condicionaba insuficiencia grado II. Tras este hallazgo se añadió vancomicina y gentamicina al tratamiento antibiótico. PAAF de una lesión hepática. ERCP que no observó dilatación de via biliar, aunque se realizó papilotomía para asegurar el drenaje biliar. 
+Evolución y comentarios: La evolución posterior fue desfavorable con instauración de SDMO refractario y exitus a las 96 horas de su ingreso en UCI.
+Soliciamos necropsia que reveló colangiocarcinoma multicéntrico, con múltiples nódulos en todo el órgano, extensión local al lecho vesicular y a vías biliares extrahepáticas, metástasis regionales a ganglios linfáticos del hilio hepático y a distancia, manifestadas por focos microscópicos a nivel pulmonar.
+Asimismo se observaba extensa necrosis intratumoral con sobreinfección por Enterobacter cloacae, también aislado en sangre y muestra de PAAF, lo que nos hace suponer que fue el germen responsable del cuadro séptico.
+Remitido por: Raquel Ridruejo Sáez Paseo Calanda, 57-4º A 50010 Zaragoza E-mail: raridru@mixmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="9" end="25" text="Maria del Carmen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="38" end="54" text="Estibaliz Romero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="61" end="66" text="36985" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="73" end="87" text="89 84823485 45" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="100" end="125" text="Ronda Ibón de Plan 22, 3F" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="150" end="158" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="164" end="169" text="50011" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="213" end="224" text="16/11//1940" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="232" end="238" text="España" TYPE="TERRITORIO" comment=""/>
+    <AGE id="T16" start="246" end="253" text="76 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="260" end="261" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="281" end="291" text="23/12/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="340" end="360" text="Raquel Ridruejo Sáez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="361" end="374" text="Paseo Calanda" TYPE="CALLE" comment=""/>
+    <ID id="T13" start="382" end="393" text="50 50 48912" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="412" end="417" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="421" end="428" text="76 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="605" end="612" text="10/5/03" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="725" end="739" text="agosto de 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T1" start="1994" end="2001" text="11/5/03" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="3159" end="3179" text="Raquel Ridruejo Sáez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3180" end="3202" text="Paseo Calanda, 57-4º A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3203" end="3208" text="50010" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3209" end="3217" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="3226" end="3245" text="raridru@mixmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

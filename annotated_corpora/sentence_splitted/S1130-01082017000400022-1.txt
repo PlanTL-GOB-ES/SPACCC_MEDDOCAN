@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Mabel.
+Apellidos: Ardoain Artiles.
+NHC: 2987562.
+NASS: 78 46573956 56.
+Domicilio: Avenida de la ilustracion 51, 15 A.
+Localidad/ Provincia: Tres Cantos, Madrid.
+CP: 28001.
+Datos asistenciales.
+Fecha de nacimiento: 21/08/1989.
+País de nacimiento: España.
+Edad: 38 años  Sexo: H.
+Fecha de Ingreso: 07/01/2018.
+Médico: Marcio de Moraes Avenda   NºCol: 28 28 57031.
+Presentamos tres casos de pseudodiverticulosis yeyunal que debutaron como abdomen agudo. El primero de ellos, varón de 75 años que consulta por un cuadro de obstrucción intestinal. El TC abdominal sugiere brida o hernia interna, por lo que se decide cirugía. En segundo lugar, mujer de 90 años que acude a Urgencias por vómitos. El TC abdominal no objetiva causa obstructiva. Tras 24 horas de manejo conservador sufre empeoramiento. Se objetiva neumoperitoneo en TC abdominal, por lo que se realiza cirugía. Por último, varón de 75 años que consulta por dolor abdominal. El TC abdominal informa perforación de divertículo de intestino delgado, por lo que es llevado a quirófano.
+En los dos primeros casos se objetiva una causa obstructiva en intestino delgado con presencia de pseudodivertículos yeyunales proximalmente; en el segundo y tercer caso, con perforación de uno de estos. El tratamiento consistió en resección intestinal del segmento afecto y anastomosis primaria. El postoperatorio cursó sin incidencias. El informe anatomopatológico confirma la presencia de falsos divertículos en yeyuno, en dos casos perforados, sin datos de malignidad.
+Dirección para correspondencia: Beatriz Laiz Díez. Servicio de Cirugía General y del Aparato Digestivo. Hospital Universitario Rey Juan Carlos I. C/ Gladiolo, s/n. 28933 Móstoles, Madrid e-mail: bealaiz@hotmail.com

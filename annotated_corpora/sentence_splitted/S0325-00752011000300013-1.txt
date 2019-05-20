@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Fernando.
+Apellidos: Vicente Olima .
+NHC: 9865327 .
+NASS: 78 34502760 46.
+Domicilio: Calle de las Margaritas, 13.
+Localidad/ Provincia: CDMX, México.
+CP: 06004.
+Datos asistenciales.
+Fecha de nacimiento: 01/08/1951.
+País de nacimiento: España.
+Edad: 60 años  Sexo: H.
+Fecha de Ingreso: 06/08/2013.
+Médico: Ivan Olano Grasa   NºCol: 28 28 57894.
+Niña de 6 años, tercera gesta de madre sana y padre fallecido por episodio vascular cerebral. Hipomotilidad fetal. Parto vaginal a término, peso, talla y Apgar desconocidos. Al nacimiento presentó llanto débil y fontanelas amplias. Al año se diagnosticó persistencia del conducto arterioso, que ameritó corrección quirúrgica. Desarrollo psicomotor: sostén cefálico 12 meses, sedestación 18 meses, marcha independiente y bisílabos a los 3 años. Evaluada por retraso mental. Exploración física: talla en percentilo (PC) 10, peso en PC 5 y perímetro cefálico debajo de PC 5, frente amplia, cejas rectas con tendencia a la sinofris, ojos de implantación profunda, hipoplasia mediofacial, labio superior delgado, prognatismo con mentón triangular, pabellones auriculares de implantación baja. En manos, presentó aberrantes palmares y clinodactilia bilateral del 5º dedo. En su abordaje se realizaron tomografía cerebral y cariotipo de 600 bandas que fueron normales. Debido al fenotipo, se realizó FISH para microdeleción 1p36, con sonda Vysis LSI p58 (CD-C2L1) espectro rojo/telVision1p espectro verde/ LSI 1q25 espectro aqua. El resultado evidenció la deleción [46,XX.ish del(1)(p36)(telVision1p-,p58-)]. El cariotipo y FISH de la madre fueron normales. En la paciente se descartó inmunodeficiencia primaria por infecciones respiratorias de repetición. Recibe terapia de lenguaje, no estructura frases ni controla esfínteres. Es hiperactiva, con períodos cortos de atención y contacto visual, se inflige lesiones cutáneas por rascado.
+
+Correspondencia: Dr. Camilo E. Villarroel Cortés camiloevc@yahoo.com

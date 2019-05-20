@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Marcos .
+Apellidos: Puebla Ordoñez.
+NHC: 8943568.
+NASS: 84 37583784 05.
+Domicilio: Calle FInisterre, 2.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 28/05/1995.
+País de nacimiento: España.
+Edad: 23 años Sexo: H.
+Fecha de Ingreso: 25/06/2018.
+Médico:  Carla Núñez Mora NºCol: 28 28 62003.
+Informe clínico del paciente: Varón de 23 años de edad diagnosticado de vejiga hiperrefléxica secundaria a mielomeningocele. Portador de derivación ventrículo-peritoneal por hidrocefalia. A pesar del tratamiento médico el paciente presentaba clínica de incontinencia urinaria total, con necesidad de usar colector peneano, así como cuadros de pielonefritis de repetición de predominio en el lado derecho. En la cistografía se apreciaba la presencia de una vejiga de contorno festoneado, de baja capacidad con un reflujo vesicoureteral pasivo grado III derecho y activo grado I izquierdo. Los datos de la cistografía fueron confirmados por el estudio urodinámico.
+Se realizó enterocistoplastia de ampliación laparoscópica con un segmento ileal destubularizado de 15 cm. La duración de la cirugía fue de 6 horas. La hemorragia fue de unos 100 cc. El postoperatorio cursó sin incidencias y se procedió al alta hospitalaria al noveno día postoperatorio.
+Tras 18 meses de seguimiento el paciente se encuentra continente y no ha tenido nuevos episodios de pielonefritis. La cistografía realizada a los 6 meses de la cirugía a desaparición del reflujo pasivo derecho y activo izquierdo. Sólo se evidenció la persistencia de un reflujo activo grado I derecho.
+Responsable clínico: Dr. Carla Núñez Mora. Servicio de Urología. Hospital Univ. La Paz. Pº de la Castellana, 261. 28046 Madrid. Tel.: 917 277 000 E-mail autor: cnunezmora@hotmail.com

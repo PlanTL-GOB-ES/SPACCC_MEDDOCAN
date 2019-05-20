@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Isabel.
+Apellidos: Rabago Sandoval.
+NHC: 2609857.
+Domicilio:  Calle Costa Rica, 23, 6,B.
+Localidad/ Provincia: Cartagena.
+CP: 30982.
+Datos asistenciales.
+Fecha de nacimiento: 27/03/1990.
+País: España.
+Edad: 28 años Sexo:M.
+Fecha de Ingreso: 27/05/2018.
+Médico: Jesús Ignacio Tornero Ruiz NºCol: 30 30 56390.
+Informe clínico del paciente:Mujer de 28 años sin antecedentes de interés que consultó por síndrome miccional con polaquiuria de predominio diurno y cierto grado de urgencia sin escapes urinario. El urocultivo resultó negativo por lo que se indicó tratamiento con anticolinérgicos. Ante la falta de respuesta al tratamiento, se realizó cistografía que fué normal y ecografía renovesical en la que se apreciaban imágenes quísticas parapiélicas, algunas de ellas con tabiques internos y vejiga sin lesiones. Con el fin de precisar la naturaleza de dichos quistes se solicitó TAC-abdominal, que informaba de gran quiste parapiélico en riñón derecho sin repercusión sobre la vía y una masa hipodensa suprarrenal derecha. La resonancia magnética demostró normalidad de la glándula suprarrenal y una lesión quística lobulada conteniendo numerosos septos en su interior que rodeaba al riñón derecho; en la celda renal izquierda existía una lesión de características similares pero de menor tamaño. Los hallazgos eran compatibles con linfangioma renal bilateral. Tras tres años de seguimiento la paciente continua con leve síntomatologia miccional en tratamiento, pero no ha presentado síntomas derivados de su lesión renal.
+Remitido por: Jesús Ignacio Tornero Ruiz Hospital Virgen de la Arrixaca Ctra. Madrid-Cartagena s/n. 30120 El Palmar. Murcia. (España). ignaciotorne@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="34" text="Isabel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="62" text="Rabago Sandoval" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="69" end="76" text="2609857" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T20" start="90" end="115" text="Calle Costa Rica, 23, 6,B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="139" end="148" text="Cartagena" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="154" end="159" text="30982" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="203" end="213" text="27/03/1990" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="221" end="227" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="235" end="242" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="248" end="249" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="269" end="279" text="27/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="289" end="315" text="Jesús Ignacio Tornero Ruiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="323" end="334" text="30 30 56390" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="365" end="370" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="374" end="381" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="1567" end="1593" text="Jesús Ignacio Tornero Ruiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="1594" end="1624" text="Hospital Virgen de la Arrixaca" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="1625" end="1651" text="Ctra. Madrid-Cartagena s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="1653" end="1658" text="30120" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="1659" end="1668" text="El Palmar" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1670" end="1676" text="Murcia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1679" end="1685" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="1688" end="1712" text="ignaciotorne@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Jose Antonio.
+Apellidos: Diaz Navarro.
+NHC: 9784844.
+NASS: 78 43657846 54.
+Domicilio: C/ Fermín Caballero, 24.
+Localidad/ Provincia: Madrid.
+CP: 28034.
+Datos asistenciales.
+Fecha de nacimiento: 21/01/1951.
+País de nacimiento: España.
+Edad: 64 años Sexo: H.
+Fecha de Ingreso: 04/08/2015.
+Médico: Florencio García Martín  NºCol: 28 28 57880.
+Informe clínico del paciente: varón de 64 años sin antecedentes de interés, que consulta por pérdida de 17 kg de peso, astenia, anorexia y anemia. Se realizó una colonoscopia que mostraba cambios inflamatorios inespecíficos de la mucosa colónica y una gastroscopia que evidenciaba neoplasia gástrica y gastropatía antral, con toma de biopsias. La histología de la biopsia gástrica confirmó una proliferación neoplásica con patrón sólido sugestiva de GIST, y la inmunohistoquímica presentaba positividad para CD117. Se observaron depósitos de amiloide AA en las biopsias de la mucosa gástrica, del tumor y de la mucosa colónica.
+Posteriormente, comenzó con edemas en los miembros inferiores y diarrea. En la analítica destacaba: hemoglobina 8,7 g/dl, hematocrito 28%, volumen corpuscular medio 75, creatinina sérica 1,3 mg/dl; proteínas totales 5,9 g/dl; albúmina 1,36 g/dl; colesterol 96 mg/dl; índice de saturación de transferrina 13%. Proteinuria de 5,1 g/día y sedimento con 4-6 hematíes/campo. Dada la mala situación del paciente, no se realizó biopsia renal y se asumió que la amiloidosis previamente observada en las biopsias gastrointestinales era la responsable del síndrome nefrótico y la diarrea. Se descartó amiloidosis cardíaca mediante ecocardiograma.
+Se inició tratamiento con un inhibidor selectivo de la tirosina cinasa de cKit, Imatinib (Glivec®), 100 mg diarios. A los 15 meses del diagnóstico se decidió la extirpación quirúrgica tras observarse una disminución de la masa tumoral en el estudio por tomografía por emisión de positrones/tomografía computarizada. En la anatomía patológica se confirmó la afectación del estómago y el ángulo esplénico del colon extirpados. En este sentido, se clasificó como un GIST de alto riesgo (> 5 cm de tamaño, > 5 mitosis por campo de gran aumento)2.
+La función renal continuó deteriorándose, por lo que finalmente entra en programa de hemodiálisis periódica, un año y siete meses después del hallazgo del GIST, con el diagnóstico de insuficiencia renal crónica secundaria a amiloidosis AA.
+Responsable clínico: Dr. Florencio García Martín, Servicio de Nefrología, Hospital 12 de Octubre, Ginzo de Limia 55, 9o C, 28034, Madrid florenciogarcia@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="40" text="Jose Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="53" end="65" text="Diaz Navarro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="72" end="79" text="9784844" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="87" end="101" text="78 43657846 54" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="114" end="137" text="C/ Fermín Caballero, 24" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="161" end="167" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="173" end="178" text="28034" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="222" end="232" text="21/01/1951" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="254" end="260" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="268" end="275" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="282" end="283" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="303" end="313" text="04/08/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="323" end="346" text="Florencio García Martín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="355" end="366" text="28 28 57880" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="398" end="403" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="407" end="414" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2441" end="2464" text="Florencio García Martín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2490" end="2512" text="Hospital 12 de Octubre" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2514" end="2537" text="Ginzo de Limia 55, 9o C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2539" end="2544" text="28034" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2546" end="2552" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2553" end="2577" text="florenciogarcia@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

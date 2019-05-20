@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Ander.
+Apellidos: Rodriguez Espinosa.
+NHC: 2385672.
+Domicilio: C/ Puerta de Hierro, 23.
+Localidad/ Provincia: Madrid.
+CP: 28031.
+Datos asistenciales.
+Fecha de nacimiento:14/04/2014.
+País: España.
+Edad: 4 meses Sexo: H.
+Fecha de Ingreso: 21/08/2014.
+Médico: Ana Isabel Jiménez Ortega  NºCol: 28 28.
+Informe clínico del paciente: Niño de cuatro meses de edad que ingresa por vómitos, diarrea y grave retraso pondero-estatural. Presenta hipotonía, estrabismo convergente bilateral y mamilas invertidas. Padres sanos no consanguíneos, embarazo y parto normales. Desde el mes de vida mantiene ingesta escasa, fallo de crecimiento y vómitos, con ecografía abdominal, transfontanelar, radiografía de tórax, analítica de sangre y urocultivo normales.
+En el momento del ingreso se detecta rotavirus en heces. Tras resolverse el proceso agudo, se inicia soporte nutricional con fórmula artificial de hidrolizado de proteínas; posteriormente, se cambia a fórmula elemental por continuar presentando escasa ganancia ponderal. El estudio realizado detecta hipertransaminemia, hipoalbuminemia, transferrina y ceruloplasmina disminuidas, con serología de virus hepatotropos y ecocardiografía normales. Ante la sospecha de posible error innato del metabolismo (EIM), se solicita estudio metabólico, al tiempo que el paciente precisa ingreso en la Unidad de Cuidados Intensivos por iniciar clínica compatible con cuadro de sepsis (fiebre, hipoglucemia, mal estado general y mala coloración). Se realiza una resonancia magnética craneal, que muestra hipoplasia cerebelosa. El resultado del estudio metabólico confirma un defecto congénito de la glucosilación de proteínas (CGD) tipo Ia.
+Remitido por: Dra. Ana Isabel Jiménez Ortega: ajota13@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="29" end="34" text="Ander" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="47" end="65" text="Rodriguez Espinosa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="72" end="79" text="2385672" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T15" start="92" end="115" text="C/ Puerta de Hierro, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="139" end="145" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="151" end="156" text="28031" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="199" end="209" text="14/04/2014" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="217" end="223" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="231" end="238" text="4 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="245" end="246" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="266" end="276" text="21/08/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="286" end="311" text="Ana Isabel Jiménez Ortega" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="320" end="325" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="357" end="361" text="Niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="365" end="377" text="cuatro meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="529" end="535" text="Padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T19" start="596" end="599" text="mes" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="1717" end="1742" text="Ana Isabel Jiménez Ortega" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T2" start="1744" end="1763" text="ajota13@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Ernesto.
+Apellidos: Chamoy Torremocha.
+NHC: 1178965.
+NASS: 61 03574895 66.
+Domicilio: Avenida libertad 46, 4D.
+Localidad/ Provincia: Madrid.
+CP: 28039.
+Datos asistenciales.
+Fecha de nacimiento: 19/05/2000.
+País de nacimiento: España.
+Edad: 5 años  Sexo: H.
+Fecha de Ingreso: 13/07/2000.
+Médico: Catalina Isabel González Rodríguez  NºCol: 28 28 57412.
+Paciente de 55 años con carcinoma escamocelular metastásico en región inguinal izquierda. Se le practicó resección quirúrgica local ampliada más vaciamiento ganglionar. La trasposición del colgajo se hizo pasando el colgajo por debajo del recto anterior para lograr un mayor rango de rotación del mismo.
+Dirección para correspondencia: Dr. Marino Alejandro Cardona González Cirugía Plástica, Grupo Reconstructivo, Instituto Nacional de Cancerología Av. 1a No 9-85 Bogotá, D.C., Colombia e-mail: dr.alejandrocardona@gmail.com

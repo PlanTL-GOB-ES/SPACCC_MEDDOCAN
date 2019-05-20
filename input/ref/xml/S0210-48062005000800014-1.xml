@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Guillermo.
+Apellidos: Piña Barba.
+NHC: 4756758.
+NASS: 74 35670165 14.
+Domicilio: C/ Telémaco, 4, 2 D.
+Localidad/ Provincia: Sevilla.
+CP: 41089.
+Datos asistenciales.
+Fecha de nacimiento: 14/09/1950.
+País de nacimiento: España.
+Edad: 60 años Sexo: H.
+Fecha de Ingreso: 21/07/2011.
+Médico: Angel Moreno Vega  NºCol: 41 41 87441.
+Informe clínico del paciente: Paciente varón de 60 años de edad, fumador, enolismo severo, que presenta como antecedentes patológicos hipertensión arterial y episodio de pancreatitis aguda enólica en noviembre del 2003, en cuyo ingreso se realizó TC abdominal que objetivó inflamación pancreática difusa con exudados, así como la presencia de dos tumoraciones en valva anterior de riñón izquierdo, una de ellas de características tomodensitométricas que sugerían un quiste hemorrágico o con alto contenido proteico, sin poder descartar una tumoración sólida.
+Tras la recuperación del cuadro inflamatorio agudo se comentó el caso con nosotros, y continuamos el estudio de dicha tumoración mediante la realización de nuevo TC abdominal de control en febrero 2004, observando la persistencia de ambas lesiones renales. Dadas las características radiológicas de la tumoración indicamos la intervención quirúrgica. El día 29 de marzo del 2004 realizamos tumorectomía renal izquierda vía lumbotomía.
+El resultado de anatomía patológica de la pieza resultó ser granuloma esteatonecrótico con abundante pigmento férrico, característico de las necrosis grasas secundarias a pancreatitis.
+Responsable clínico: Dr. Angel Moreno Vega.  Pasaje Petunia, 6 E-41089 Sevilla bertsand@terra.es; oncojerez@saludalia.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="37" text="Guillermo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="50" end="60" text="Piña Barba" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="67" end="74" text="4756758" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="82" end="96" text="74 35670165 14" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="109" end="128" text="C/ Telémaco, 4, 2 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="152" end="159" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="165" end="170" text="41089" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="214" end="224" text="14/09/1950" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="246" end="252" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="260" end="267" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="274" end="275" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="295" end="305" text="21/07/2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="315" end="332" text="Angel Moreno Vega" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="341" end="352" text="41 41 87441" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="393" end="398" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="402" end="409" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="554" end="572" text="noviembre del 2003" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="1102" end="1114" text="febrero 2004" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="1271" end="1291" text="29 de marzo del 2004" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="1558" end="1575" text="Angel Moreno Vega" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1578" end="1595" text="Pasaje Petunia, 6" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1598" end="1603" text="41089" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1604" end="1611" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="1612" end="1629" text="bertsand@terra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T1" start="1631" end="1654" text="oncojerez@saludalia.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

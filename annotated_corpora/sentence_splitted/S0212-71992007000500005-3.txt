@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Gonzalo .
+Apellidos: Rianxo Ocampos.
+NHC: 235784.
+NASS: 47 37584930 84.
+Domicilio: Calle de Monte Compatri, 2.
+Localidad/ Provincia: Madrid.
+CP: 50009.
+Datos asistenciales.
+Fecha de nacimiento: 13/01/1935.
+País de nacimiento: España.
+Edad: 66  Sexo: M.
+Fecha de Ingreso: 10/02/2012.
+Médico: Yunieth Walter Eduardo  NºCol: 06 28 34567.
+Varón de 73 años de edad, con antecedentes de asma, en tratamiento corticoideo, que consulta por presentar dolor y tumefacción en regiones aquíleas con impotencia funcional de cinco días de evolución. Los síntomas se iniciaron a las 48 horas de iniciar tratamiento con levofloxacino (500 mg/día) por una infección de vías respiratorias altas. Se realiza ecografía que demuestra un engrosamiento del espesor del tendón de Aquiles bilateral en su tercio central conservando la disposición fibrilar. Se suspende el tratamiento antibiótico y mediante reposo y AINES el cuadro se resuelve en veinte días.
+Dirección para correspondencia: Marta Medrano San Ildefonso. C/ Condes de Aragón, 20, 4D. 50009 Zaragoza. e-mail: mmedrano@unizar.es
