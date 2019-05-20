@@ -52,6 +52,7 @@ and `.txt` for `brat`, and `.xml` for `xml`.
 output/
 This directory where the script outputs the results for the run.
 
+</pre>
 
 ## Usage
 
