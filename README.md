@@ -40,7 +40,7 @@ suffix.
 
 input/
 This directory contains the gold standard files and the systems submission files (in this
-distribution we include the development set). Gold standard files must be placed under 
+distribution we include the gold set). Gold standard files must be placed under 
 the `ref` directory and system files under the `res` directory. The `ref` directory 
 contains two subdirectories with the files in `brat` and `xml` formats. The `res` 
 directory can contain two subdirectories with the files in `brat` and`xml` formats, and 
