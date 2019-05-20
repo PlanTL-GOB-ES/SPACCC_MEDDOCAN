@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Sergio.
+Apellidos: Hidalgo Peñate.
+NHC: 3968703.
+NASS: 31 28743659 90.
+Domicilio: Av. San Fermin 19.
+Localidad/ Provincia: Pamplona .
+CP: 31965.
+Datos asistenciales.
+Fecha de nacimiento: 04/04/1970.
+País: España.
+Edad:43 Años Sexo: H.
+Fecha de Ingreso: 21/12/2014.
+Médico:Wenceslao Torre Buxalleu NºCol: 28 28.
+Informe clínico del paciente: Varón de 43 años, previamente sano y asintomático, que acude al servicio de Cirugía Torácica al objeto de completar el estudio de una tumoración de mediastino medio identificada en un estudio rutinario.
+En el estudio faringo-esofágico, tras la administración de contraste baritado, se aprecia una estenosis de unos 3 cm de longitud en el tercio medio del esófago de contornos bien definidos y que reduce la luz esofágica en un 50%. Estos hallazgos son compatibles con un proceso compresivo extrínseco.
+Se efectúa videotoracoscopia derecha por tres vías. Se identifica la presencia de una tumoración en mediastino medio a nivel de la vena ácigos (cefálica a dicha vena), móvil, dura, sin adherencias a las estructuras anexas. Se inicia la disección efectuando apertura de la pleura mediastínica y separando la tumoración de lo que parecen fibras musculares del esófago (esto último se realiza mediante gancho de videotoracoscopia y bisturí eléctrico). De esta manera se enuclea la tumoración que mide aproximadamente unos 3 cm de diámetro. En su borde profundo se identifica la mucosa esofágica en la que se efectúa comprobación de la estanqueidad de la misma.
+La evolución postoperatoria transcurrió sin incidencias, siendo dado de alta al paciente a las 48 horas. En la revisión realizada a los 6 meses de la cirugía, el paciente se encontraba asintomático realizando una vida totalmente normal, sin disfagia ni clínica de reflujo gastroesofágico, afebril y con pruebas de función respiratorias normales.
+El informe anatomopatológico del fragmento fue diagnosticado como leiomioma esofágico. Macroscópicamente presentaba un tamaño de 5 cm, forma irregular, superficie polilobulada, y con una cierta tendencia a formar remolinos. Al microscopio, se observa la tumoración constituida por haces de fibras musculares lisas fuertemente positivas con anti-actina, de disposición multidireccional, sin atipias celulares ni mitosis. De vez en cuando aparece material amorfo hialino, en forma de gotas irregularmente distribuidas.
+Remitido por:Dr. Wenceslao Torre Buxalleu Departamento de Cirugía Torácica Clínica Universidad de Navarra Avenida Pío XII, 36 31008 Pamplona E-mail: wtorre@unav.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="29" end="35" text="Sergio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="48" end="62" text="Hidalgo Peñate" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="69" end="76" text="3968703" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="84" end="98" text="31 28743659 90" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="111" end="128" text="Av. San Fermin 19" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="152" end="160" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="167" end="172" text="31965" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="216" end="226" text="04/04/1970" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="234" end="240" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="247" end="254" text="43 Años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="261" end="262" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="282" end="292" text="21/12/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="301" end="325" text="Wenceslao Torre Buxalleu" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="333" end="338" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="370" end="375" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="379" end="386" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2410" end="2434" text="Wenceslao Torre Buxalleu" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2468" end="2498" text="Clínica Universidad de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2499" end="2518" text="Avenida Pío XII, 36" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2519" end="2524" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2525" end="2533" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2542" end="2556" text="wtorre@unav.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

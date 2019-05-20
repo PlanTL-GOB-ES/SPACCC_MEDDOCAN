@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Javier.
+Apellidos: Martinez Rodriguez.
+NHC: 1037856.
+NASS: 47 34278560 89.
+Domicilio: Calle Alcobendas, 7, 2 C.
+Localidad/ Provincia: Lleida.
+CP: 46023.
+Datos asistenciales.
+Fecha de nacimiento: 13/02/1951.
+País de nacimiento: España.
+Edad: 33 años  Sexo: H.
+Fecha de Ingreso: 13/05/2018.
+Médico: Pedro Suárez Artime  NºCol: 25 25 67810.
+Presentamos el caso de un paciente de 44 años que acude al servicio de urgencias por dolor precordial de carácter opresivo, no irradiado, que no cedía con el reposo y que se acompañaba de síntomas vegetativos. Se realiza ECG en el que se objetiva descenso del segmento ST en cara inferior, lateral y anteroseptal. Con el diagnóstico de síndrome coronario agudo es ingresado a cargo del Servicio de Cardiología. Se realiza coronariografía, en la cual no se evidencia lesiones de las arterias coronarias. Se realiza ecocardiograma con hallazgos de hipertofia ventricular izquierda y disfunción sistólica severa y alteraciones segmentarias circunferenciales en base y segmentos medios.
+Durante su estancia en la Unidad de Coronarios presentó episodios de taquicardia ventricular autolimitados sin repercusión hemodinámica. Por tratarse de un varón joven, sin antecedentes médicos ni quirúrgicos previos, que presenta síndrome coronario agudo con coronarias normales se plantea la posibilidad diagnóstica de feocromocitoma. Se solicítan catecolaminas y derivados evidenciándose aumento de los valores de ácido homovalínico y ácido vani-mandélíco. Pruebas tiroideas y cortisol basal normales. Se realiza TC abdomino-pélvico en el que se objetiva masa en suprarrenal derecha heterogénea de 4,5x3.5 cm de diámetro anteroposterior y transverso, redondeada de bordes definidos.
+Dado el hallazgo de masa abdominal suprarrenal, se decide realizar supraadrenalectomía transperitoneal laparoscópica, previa instauración de doble bloqueo adrenérgico.
+
+Dirección para correspondencia: Pedro Manuel Cabrera Castillo Servicio de Urología Hospital Universitario La Paz Paseo La Castellana Madrid. (España) manuelcabreracastillo@gmail.com

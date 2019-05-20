@@ -98,6 +98,21 @@ class i2b2Annotation(Annotation):
         else:
             self.doc_id = None
 
+    def normalize_tags(self,root):
+        root.tag = root.tag.upper()
+        for child in root:
+            self.normalize_tags(child)
+
+    def normalize_attr(self,root):
+        for attr, value in root.attrib.items():
+            norm_attr = attr.upper()
+            if norm_attr != attr:
+                root.set(norm_attr, value)
+                root.attrib.pop(attr)
+
+        for child in root:
+            self.normalize_attr(child)
+
     def parse_text_and_tags(self, file_name=None):
         if file_name is not None:
             text = open(file_name, 'r').read()
@@ -105,9 +120,9 @@ class i2b2Annotation(Annotation):
 
             tree = ElementTree.parse(file_name)
             root = tree.getroot()
+            self.normalize_tags(root)
 
             self.root = root.tag
-
             try:
                 self.text = root.find("TEXT").text
             except AttributeError:
@@ -128,6 +143,7 @@ class i2b2Annotation(Annotation):
 
             tree = ElementTree.parse(file_name)
             root = tree.getroot()
+            self.normalize_tags(root)
 
             self.root = root.tag
 

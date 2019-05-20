@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Santiago.
+Apellidos: Jarquín Garrido.
+NHC: 894720.
+NASS: 78 43287024 67.
+Domicilio: Calle ventisquero 72, 4 H.
+Localidad/ Provincia: Pamplona.
+CP: 31008.
+Datos asistenciales.
+Fecha de nacimiento: 06/12/1949.
+País: España.
+Edad: 60 años Sexo: H.
+Fecha de Ingreso: 25/05/2010.
+Servicio: Urología.
+Episodio: 78913564.
+Médico: Jesús Vélez Isanta NºCol:31 31 50415.
+Informe clínico del paciente: Varón de 60 años de edad que acude a consulta en enero de 2009 por episodios de hematuria macroscópica ocasional de dos años de evolución. Transcurridos 10 meses desde el primer episodio empezó con polaquiuria y disuria, por lo que 2 meses después se realizó estudio ecográfico en el que se evidenciaba un engrosamiento de la pared vesical derecha que condicionaba ureterohidronefrosis. Se realizó estudio de extensión mediante TAC toraco-abdominal y gammagrafía ósea no apreciándose lesiones sugestivas de metástasis y confirmando los hallazgos ecográficos. En febrero de 2009, recibió tratamiento quirúrgico mediante RTU vesical con diagnóstico de carcinoma plasmocitoide de vejiga con invasión de la capa muscular propia y presencia de focos de embolización linfovascular, por lo que se le indicó una cisto-prostatectomía radical con derivación ileal que se practicó sin incidencias el 27 de marzo de 2009.
+El informe anatomopatológico reveló una neoformación epitelial atípica de crecimiento difuso con algunos nidos o cordones, constituidos por células de pequeño tamaño, citoplasma escaso y núcleo grande, pleomórfico y polilobulado. Además se observaron algunas áreas donde los núcleos eran más pleomórficos, polilobulados, grandes y muy hipercromáticos, respecto al resto de la población tumoral. Las figuras de mitosis tanto típicas y atípicas así como de apoptosis eran frecuentes. Las células neoplásicas infiltraban la pared vesical alcanzando la capa muscular propia. El estudio inmunohistoquímico citoplasmático fue positivo en un 100% para la citoqueratina-7 y en un 70% para la citoqueratina-20 y la citoquetatina de alto peso molecular con carácter difuso. El diagnóstico definitivo fue de carcinoma de urotelio poco diferenciado, de alto grado, variante de células plasmocitoides.
+A continuación, el paciente fue remitido al departamento de Oncología iniciando tratamiento quimioterápico adyuvante con Cisplatino y Gemcitabina (4 ciclos) que concluyó en agosto de 2009.
+En marzo de 2010, en exploración de control y estando el paciente asintomático, se objetivaron lesiones sugestivas de metástasis en columna, por lo que se realizó RM de columna en la que se informó de posibles metástasis a nivel de D3, D8, D9, D10 y L1. Se realizó gammagrafía ósea y PET-TAC que no fueron concluyentes, por lo que se recomiendó control evolutivo en tres meses. En dicho control se objetivó crecimiento de las lesiones óseas ya conocidas que se biopsiaron, no siendo concluyentes de malignidad.
+En septiembre de 2010 se repitió el PET-TAC no objetivándose signos de captación ósea patológica, pero sí ganglionar múltiple en región axilar izquierda, perivascular mediastínica, subcarinal y mamaria interna, así como a nivel retroperitoneal. Se realizó de nuevo punción con aguja fina vertebral que se informó como lesión metastásica compatible con tumor urotelial plasmocitoide. Además se realizó biopsia de ganglios mamarios que también se informaron como compatibles con lesiones metástasicas originarias del tumor urotelial plasmocitoide.
+En ese momento se inició una nueva línea de tratamiento quimioterápico con Paclitaxel y Carboplatino, en pauta trisemanal con un total de 6 ciclos, que concluyó en enero de 2011. A mitad de tratamiento quimioterápico se realizó nuevo TAC de control en el que la enfermedad permanecía estabilizada.
+El 17 de febrero de 2011, en TAC de reevaluación se objetivó ureterohidronefrosis moderada-severa derecha a expensas de imagen nodular que protruía en la luz ureteral sugestiva de nueva lesión tumoral. Además presentaba atrofia funcional del riñón contralateral con aumento de la creatinina plasmática hasta 2,9 ng/mL. Se decidió la colocación de una nefrostomía percutánea derecha con colocación de un catéter ureteral doble J por vía anterógrada. Durante este ingreso sufrió un IAM inferoposterior y de ventrículo derecho tratado mediante angioplastia primaria de manera eficaz.
+Finalmente, a mediados de marzo de 2011 falleció el paciente.
+Remitido por: Dr. Jesus Velez Isanta. Departamento de Urología Clínica Universidad de Navarra 31008 Pamplona E-mail: jvelis@unav.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T31" start="8" end="16" text="Santiago" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T30" start="29" end="44" text="Jarquín Garrido" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T29" start="51" end="57" text="894720" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T28" start="65" end="79" text="78 43287024 67" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T27" start="92" end="117" text="Calle ventisquero 72, 4 H" TYPE="CALLE" comment=""/>
+    <LOCATION id="T26" start="141" end="149" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T25" start="155" end="160" text="31008" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T23" start="204" end="214" text="06/12/1949" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T24" start="222" end="228" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T21" start="236" end="243" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T19" start="250" end="251" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T22" start="271" end="281" text="25/05/2010" TYPE="FECHAS" comment=""/>
+    <ID id="T15" start="313" end="321" text="78913564" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T17" start="331" end="349" text="Jesús Vélez Isanta" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T14" start="356" end="367" text="31 31 50415" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T18" start="399" end="404" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T20" start="408" end="415" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="448" end="461" text="enero de 2009" TYPE="FECHAS" comment=""/>
+    <DATE id="T12" start="961" end="976" text="febrero de 2009" TYPE="FECHAS" comment=""/>
+    <DATE id="T11" start="1288" end="1307" text="27 de marzo de 2009" TYPE="FECHAS" comment=""/>
+    <DATE id="T10" start="2371" end="2385" text="agosto de 2009" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="2390" end="2403" text="marzo de 2010" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="2901" end="2919" text="septiembre de 2010" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="3608" end="3621" text="enero de 2011" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="3745" end="3766" text="17 de febrero de 2011" TYPE="FECHAS" comment=""/>
+    <DATE id="T5" start="4349" end="4362" text="marzo de 2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T16" start="4403" end="4421" text="Jesus Velez Isanta" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="4448" end="4478" text="Clínica Universidad de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="4479" end="4484" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4485" end="4493" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="4502" end="4516" text="jvelis@unav.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

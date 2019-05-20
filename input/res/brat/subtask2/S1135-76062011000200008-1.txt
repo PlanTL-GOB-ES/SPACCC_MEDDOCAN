@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: Manuel.
+Apellidos: Gallego Caballero.
+NHC: 4107456.
+NASS: 28 93843598 01.
+Domicilio: C/ Mirasierra, 14, 2 B.
+Localidad/ Provincia: Madrid.
+CP: 10200.
+Datos asistenciales.
+Fecha de nacimiento: 27/08/2002.
+País de nacimiento: España.
+Edad: 23 años  Sexo: H.
+Fecha de Ingreso: 18/05/2018.
+Médico: Raul Ferrer Roca  NºCol: 50 50 21204.
+Varón de 57 años que vivía solo y fue hallado muerto con abundantes restos de sangre en el suelo del dormitorio y en el pasillo del domicilio. Se encontró además una entrada del glucómetro de cuatro días previos al levantamiento con una glucemia de 532 mg/dL.
+Presentaba los siguientes antecedentes personales de interés:
+- Exéresis quirúrgica de pólipo gástrico hiperplásico. - Retraso mental moderado. - Anemia ferropénica. - Cirrosis hepática por virus de la hepatitis C sin descompensaciones. - Hipertensión arterial en tratamiento con enalaprilo. - Diabetes mellitus tipo II en tratamiento con insulina y metformina (Biguanida). Realizaba un deficiente control metabólico lo que había motivado múltiples consultas a urgencias por hiperglucemias simples.
+Ingresó en el hospital un mes antes de la defunción para estudio de síndrome tóxico con pérdida ponderal no cuantificada. Se practicó endoscopia digestiva alta y baja que no evidenció la causa el cuadro anémico.
+
+Dirección para correspondencia: Dra. Mercè Subirana Servicio de Patología Forense. Zona Sur. Institut Medicina Legal de Catalunya. Ciutat de la Justícia. Edificio G. Gran Vía Corts Catalanes, 111 08014 Barcelona E-mail: 25402msd@comb.cat

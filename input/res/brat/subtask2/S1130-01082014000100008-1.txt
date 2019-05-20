@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Carlos.
+Apellidos: Pérez Gómez.
+NHC: 32182565.
+Domicilio: Florida 234 piso 5 .
+Localidad/ Provincia: Madrid.
+CP: 23028.
+Datos asistenciales.
+Fecha de nacimiento: 25/01/1994.
+País: España.
+Edad: 33 años  Sexo: H.
+Fecha de Ingreso: 26/05/2013.
+Servicio: Urología.
+Episodio: 58244.
+Médico: Luis Miguel Bernal García  NºCol: 02 02 59236.
+Se trata de un varón de 61 años, asintomático, que participa en el programa de cribado de cáncer colorrectal de nuestra comunidad autónoma. Tras ser positivo el test de sangre oculta en heces, se somete a una colonoscopia que no se puede completar por mala tolerancia a la exploración. Siguiendo el protocolo establecido, se realiza una colografía por tomografía computarizada, en la que no se observa patología colónica, pero sí múltiples adenopatías mesentéricas. Una tomografía por emisión de positrones (PET-TAC) posterior describió múltiples imágenes nodulares con metabolismo aumentado. En este contexto, y sospechándose un proceso linfoproliferativo, se llevó a cabo un estudio de intestino delgado con videocápsula endoscópica donde observamos múltiples lesiones polipoideas de aspecto blanquecino o parduzco en su mayoría y pequeño tamaño, localizadas desde yeyuno medio a íleon. En los tramos más distales las lesiones son más abigarradas, de mayor tamaño y algunas de ellas presentan ulceraciones fibrinoides. El aspecto de estas lesiones, de acuerdo a lo descrito en la literatura, es muy sugestivo de un proceso linfoproliferativo de intestino delgado (1). Las muestras obtenidas mediante enteroscopia y punción de una adenopatía con control radiológico confirmaron el diagnóstico de un linfoma folicular estadio IIA.
+Dirección para correspondencia: Estela Soria López. Servicio de Digestivo. Hospital Costa del Sol. Autovía A-7, km 187. 29603 Marbella, Málaga e-mail: estelasoria89@gmail.com

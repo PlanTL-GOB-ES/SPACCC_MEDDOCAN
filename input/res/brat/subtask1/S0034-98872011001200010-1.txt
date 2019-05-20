@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Francisco.
+Apellidos: Baudí Blanco.
+NHC: 3456723.
+NASS: 82 76892756 0.
+Domicilio: C/ Fernando Higueras, 25, 7 D.
+Localidad/ Provincia: Granada.
+CP: 28049.
+Datos asistenciales.
+Fecha de nacimiento: 30/03/1949.
+País: España.
+Edad: 22 años  Sexo: M.
+Fecha de Ingreso: 29/12/2015.
+Médico: Antonio Lemos Aguilar  
+Sexo femenino, 25 años, VIH diagnosticada en el 2000, sin enfermedades marcadoras etapa SIDA, en terapia antirretroviral (TARV) hace 1 año con: zidovudina, lamivudina, indinavir/ritonavir, sin antecedentes de migraña. Cuarenta y ocho horas previas a la consulta, comenzó con cefalea de características tensionales, automedicándose con ibuprofeno/ergotamina y agregando a las 24 horas: dolor intenso, parestesias y edema de tercio inferior de ambos miembros inferiores. Al examen físico presentaba: palidez cutánea alternante con áreas de cianosis y frialdad a nivel de tobillos junto a ausencia de pulso tibial posterior y pedio..
+Correspondencia a: Dr. Santiago Acle Dirección: Rambla O Higgins 5057. Apartamento 112. Malvin. CP: 11400. Montevideo. Uruguay.

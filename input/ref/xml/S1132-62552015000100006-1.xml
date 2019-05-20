@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Nagore.
+Apellidos: Aretxe Arnaiz.
+NHC: 7264684.
+NASS: 43 67893256 75.
+Domicilio: Av/ Villa Libertad, 32.
+Localidad/ Provincia: Vitoria.
+CP: 20104.
+Datos asistenciales.
+Fecha de nacimiento: 13/09/1972.
+País de nacimiento: España.
+Edad: 41 años Sexo: M.
+Fecha de Ingreso: 27/06/2014.
+Médico: Elena Gabilondo Larrañaga NºCol: 20 20 40369.
+Informe clínico del paciente: Dentro de la actividad de la Unidad Básica de Prevención del Hospital Universitario de Alavade Osakidetza, se realizan consultas médicas a demanda de los trabajadores.
+La trabajadora, auxiliar administrativo, de 41 años de edad, acudió por primera vez a nuestra Unidad el 4 de diciembre de 2013.
+Los síntomas que presentaba eran, tos sobre todo de carácter nocturno, estornudos, sensación de fatiga, no presentando fiebre ni expectoración acompañante. Además refería cefalea frontal de características tensionales. La tos y sensación de fatiga era de varias semanas de evolución.
+Dentro de los antecedentes personales destacaba: alergia a ácaros, gramíneas y epitelio de animales. Fumadora de 20 cigarrillos/ día, con un nivel de dependencia (según el test de Fagerstrom) elevado.
+No tomaba ningún medicamento, ni presentaba ninguna otra patología añadida, salvo que hacía un años había presentado unas lesiones papulares, rosáceas en dedos de las manos, que fueron valoradas por Dermatología como Granuloma anular y tratada con corticoide tópicos.
+Destacar la existencia de un gato de compañía, del cual la trabajadora no podía prescindir.
+En la exploración la auscultación cardiopulmonar era normal, sin signos de afectación neurológica.
+De inicio, se pensó en un cuadro de carácter alérgico, en probable relación al epitelio de gato. Se pautó tratamiento con broncodilatadores inhalados y analgésicos para su cefalea y se le citó para ver evolución en un plazo de 10 días.
+La trabajadora mejora sustancialmente con el bronco-dilatador y no acudió a revisión. Al dejar los broncodilatadores por iniciativa propia, de nuevo presenta clínica de tos y sensación de disnea más acusada. Acude de nuevo a nuestra consulta al mes de la inicial, con similar clínica de tos y sensación de fatiga, persistiendo exploración cardiopulmonar normal, por lo que se le solicita espirometría y Radiografía de torax.
+La espirometría realizada a la trabajadora es rigurosamente normal.
+En la Radiografía de tórax solicitada se observan imágenes de nódulos milimétricos de predominio en ambos campos superiores, no presentes en la Radiografía de tórax de la paciente de febrero de 2012. Se solicita la realización de un TAC de alta resolución (TACAR), al mismo tiempo se realiza interconsulta a Neumología, completando dicho estudio con Pruebas de difusión de CO2 y curva de flujos pulmonares.
+En el TACAR se objetiva afectación pulmonar bilateral de predominio en campos superiores con engrosamiento de paredes bronquiales. Nódulos dispersos algunos cavitados en su interior, dando lugar a imágenes quísticas.
+Las pruebas de difusión de CO2 y curva de flujos pulmonares se encuentran dentro de los parámetros de la normalidad.
+Se realizó analítica completa, siendo las determinaciones de ANCA y ANA negativas.
+Ante los hallazgos radiológicos descritos en el TAC y el hábito tabáquico, la sospecha diagnóstica inicial es de Histiocitosis X, por lo que se decide remitir para confirmarlo por biopsia pulmonar, para lo que se realiza una broncoscopia y se toman las muestras mediante la técnica de criobiopsia.
+La localización de la sonda de criobiopsia a 1-2 cm de la pleura se realiza mediante fluoroscopia.
+La criosonda utilizada es una sonda flexible con un diámetro de 2,4mm, que se conecta al equipo de crioterapia. La congelación del tejido sobre el que se aplica la sonda, es el resultado de la descompresión del gas (óxido nitroso) en el extremo de la misma, que permite la extracción de una muestra estable a la tracción. Al igual que como se realiza para las biopsias transbronquiales, la sonda se introduce a a través del broncoscopio y la aplicación de frío se realiza durante 3 segundos. La diferencia respecto a la técnica con pinza tradicional, es que en este caso se requiere sedar al paciente, que por otro lado proporciona mayor bienestar y mejor tolerancia.
+Se describen cambios de enfisema y acúmulos intraalveolares de histiocitos con fina pigmentación parduzca citoplasmática, asociados a neumocitoshiperplásicos.
+Con inmunohistoquímica se observan acúmulos nodulares de células CD1 positivas, compatibles con Histiocitosis de células de Langerhans.
+Responsable clínico: Dra. Elena Gabilondo Larrañaga Médico Unidad Básica de Prevención del H. Universitario de Alava (Osakidetza) Olaguibel 29, 201004 Vitoria Tfno: 945007767 E mail: elena.gabilondolarranaga@osakidetza.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T28" start="28" end="34" text="Nagore" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T27" start="47" end="60" text="Aretxe Arnaiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T26" start="67" end="74" text="7264684" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="82" end="96" text="43 67893256 75" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T24" start="109" end="131" text="Av/ Villa Libertad, 32" TYPE="CALLE" comment=""/>
+    <LOCATION id="T23" start="155" end="162" text="Vitoria" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T22" start="168" end="173" text="20104" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T20" start="217" end="227" text="13/09/1972" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T21" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T18" start="263" end="270" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="277" end="278" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T19" start="298" end="308" text="27/06/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T15" start="318" end="343" text="Elena Gabilondo Larrañaga" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="351" end="362" text="20 20 40369" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T12" start="455" end="488" text="Hospital Universitario de Alavade" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T11" start="489" end="499" text="Osakidetza" TYPE="INSTITUCION" comment=""/>
+    <PROFESSION id="T10" start="578" end="601" text="auxiliar administrativo" TYPE="PROFESION" comment=""/>
+    <AGE id="T17" start="606" end="613" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="666" end="688" text="4 de diciembre de 2013" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="2546" end="2561" text="febrero de 2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="4573" end="4598" text="Elena Gabilondo Larrañaga" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="4638" end="4663" text="H. Universitario de Alava" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="4665" end="4675" text="Osakidetza" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="4677" end="4689" text="Olaguibel 29" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="4691" end="4697" text="201004" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="4698" end="4705" text="Vitoria" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="4712" end="4721" text="945007767" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="4730" end="4769" text="elena.gabilondolarranaga@osakidetza.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

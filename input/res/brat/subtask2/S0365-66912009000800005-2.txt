@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Sergio.
+Apellidos: Pedroza Rivera.
+NHC: 4985755.
+NASS: 54 78356340 76.
+Domicilio: Calle de Antonio Reig, 7, 5 B.
+Localidad/ Provincia: Valladolid.
+CP: 47001.
+Datos asistenciales.
+Fecha de nacimiento: 21/05/1947.
+País de nacimiento: España.
+Edad: 67 años Sexo: H.
+Fecha de Ingreso: 19/07/2014.
+Servicio: Oftalmología.
+Médico: Victor Asensio Sánchez NºCol: 47 47 63250.
+Informe clínico del paciente: Varón de 67 años sin antecedentes personales de interés. Refiere que mientras caminaba notó de forma súbita visión doble y ptosis palpebral ligera en el OD que fue total en las horas siguientes. No tenía antecedentes oftalmológicos. No refería pérdida de peso, fiebre, claudicación mandibular o disminución de la visión. La agudeza visual en ambos ojos era de 1. La motilidad extraocular en el OI fue normal. En el OD había una ptosis total con limitación de la mirada en todas las posiciones excepto en abducción. La motilidad pupilar era normal en ambos ojos. La presión intraocular fue de 16 mmHg en OD y de 18 mmHg en el OI. Los estudios biomicroscópicos anterior y posterior fueron normales. Las pruebas de laboratorio no eran significativas con VSG de 21 mm/h, proteína C de 0,3 mg/dl y unas plaquetas de 125.000/ml3. El diagnóstico definitivo se realizó con biopsia de la arteria temporal donde se encontró oclusión de la arteria temporal con células gigantes alrededor de la elástica interna, que aparece rota y reduplicada.
+Responsable clínico: Victor Asensio Sánchez Hospital General Servicio Castellano-Leonés de Salud Servicio de Oftalmología Medina del Campo (Valladolid). España E-mail: victor_asensio@orangemail.es

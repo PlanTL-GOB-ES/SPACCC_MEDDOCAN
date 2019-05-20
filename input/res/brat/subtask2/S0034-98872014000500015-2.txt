@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Yubelka .
+Apellidos: Valladares Fernandez.
+NHC: 7438563.
+Domicilio: C/ Montera, 27, 2 B.
+Localidad/ Provincia: Madrid.
+CP: 80 100.
+Datos asistenciales.
+Fecha de nacimiento: 21/01/1990.
+País: España.
+Edad: 46 Años  Sexo: H.
+Fecha de Ingreso: 13/09/2017.
+Servicio: Nefrología.
+Médico: Estefanía Ballesteros Moya  NºCol: 28 31 23567.
+Hombre de 31 años que consultó por pérdida de fuerzas de instalación rápida, con compromiso inicial de miembros inferiores y progresión a miembros superiores determinando cuadriparesia con cefaloparesia. Destacaba entre sus antecedentes ser portador del virus de la inmunodeficiencia humana (VIH) en etapa SIDA sin cumplimiento del tratamiento antiretroviral. Presentaba diarrea con múltiples deposiciones diarias durante los 10 días previos a la consulta. Al ingreso se encontraba vigil, eupneico y apirético. Tenía aceptable estado de hidratación y TA de 110/70 mmHg. En la valoración neuromuscular se objetivaba cuadriparesia con cefaloparesia. El K+pl al momento del ingreso fue informado como indetectable, con un valor de K+ urinario en muestra aislada de 5 mEq/L. Presentaba elevación de la CK. Se inició reposición hidroelectrolítica con mejoría de la cuadriparesia y normalización de los valores de K+pl y CK. Al igual que el caso 1, la severa disminución del potasio plasmático se debió a una alteración a nivel del balance externo por pérdidas de origen digestivo, lo que concuerda con el valor de K+ en orina de 5 mEq/L. La reposición hidroelectrolítica revirtió el cuadro en las primeras 48 h de tratamiento.
+Correspondencia a: Prof. Agda. Dra. Liliana Gadola. Centro de Nefrología. Departamento de Fisiopatología. Hospital de Clínicas. Av. Italia s/n, esq. Las Heras. Piso 15, Ala Central. lilianagad@gmail.com

@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Mario.
+Apellidos: Martinez Ramos.
+NHC: 3406565.
+NASS: 84 39275893 88.
+Domicilio: C/ Juana de Vega, 7.
+Localidad/ Provincia: Valencia.
+CP: 28003.
+Datos asistenciales.
+Fecha de nacimiento: 13/09/1978.
+País de nacimiento: España.
+Edad: 32 años  Sexo: H.
+Fecha de Ingreso: 02/02/2018.
+Médico: Josep Rubio Palau   NºCol: 11 11 54870.
+La reacción cutánea severa secundaria a dopamina ocurre cuando existe extravasación en tejidos perivasculares, lo que produce vasoconstricción a través de su efecto estimulante alfa-adrenérgico. Cuando ocurre extravasación y el tejido adyacente está desvitalizado, se puede administrar fentolamina que es un bloqueador alfa-adrenérgico31. En nuestro paciente no se utilizó, por el tiempo transcurrido y la buena evolución espontánea32. Es importante considerar los diagnósticos diferenciales que, si no se sospechan y tratan, pueden ocasionar muerte del paciente. Dentro de estos diagnósticos es necesario considerar las complicaciones infecciosas del cordón umbilical.
+Correspondencia: Dra. Montserrat Molgó N. Dermatología, Centro Médico San Joaquín. Av. Vicuña Mackenna 4686, Macul, Santiago, Chile. Teléfono: (56 2) 2354 8659 Fax: (56 2) 2552 9974 montsemolgo1@gmail.com

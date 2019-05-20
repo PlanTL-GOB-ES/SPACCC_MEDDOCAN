@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Daniel.
+Apellidos: Rivas Ibarra.
+NHC: 7348056.
+NASS: 89 42370560 45.
+Domicilio: Calle de la Virgen Maria, 19, 3B.
+Localidad/ Provincia: Madrid.
+Datos asistenciales.
+Fecha de nacimiento: 21/01/1973.
+País de nacimiento: España.
+Edad: 32 años  Sexo: H.
+Fecha de Ingreso: 19/06/2016.
+Médico: Raquel González Resina  
+Mujer de 72 años de edad, hipertensa con buen control farmacológico, es valorada en Consultas de Cirugía por úlceras cutáneas pretibiales derechas sobreinfectadas y recidivantes ; en las radiografías se objetivan múltiples calcificaciones extraóseas en dicha región y la biopsia informa de nódulos calcificados con polimorfonucleares en superficie, compatible con nódulos subepidérmicos calcificados. Ante estos resultados, es remitida a consultas de Medicina Interna para completar el estudio. En la anamnesis la paciente no refiere traumatismos previos, ni ingresos recientes ni consumo de fármacos ricos en calcio o fósforo. Como única sintomatología manifiesta dolor en la zona con calcificaciones. En la exploración física se apreciaban lesiones nodulares, duras, algunas de ellas ulceradas, en región tibial de la extremidad inferior derecha. No se observan otras alteraciones. Se solicita analítica general, incluyendo urea, creatinina, iones (sodio, potasio, calcio, fósforo, magnesio, producto calcio-fósforo) enzimas hepáticas, amilasa, aldolasa, hemograma, coagulación, orina de 24 horas con determinación de la excreción de calcio y fósforo, hormonas tiroideas, PTH, ECA, ANA, ENA, Anti-DNA, ANCAS, Scl-70, marcadores tumorales (alfafetoproteína, Ca19,9, CA 50, Ca 125, CEA,CA 15,3, calcitonina) siendo todos lo resultados normales, salvo discreta elevación del marcador tumoral CA 15,3 (45,3, normal 9-42) por lo que solicitamos mamografía y valoración por ginecología, no hallándose patología ginecológica alguna. Ante los datos referidos, la paciente es diagnosticada de calcinosis cutánea localizada idiopática con probables nódulos de Winer.
+
+Dirección para correspondencia: Catalina Isabel González Rodríguez Servicio de Medicina Interna Hospital García Orcoyen C/ Santa Soria, 22 31200 Estella Tfno. 696 348478 E-mail: katybelgo@yahoo.es

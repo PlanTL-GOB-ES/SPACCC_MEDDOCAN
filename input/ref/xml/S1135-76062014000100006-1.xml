@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Pedro.
+Apellidos: Teixidó Gonu.
+NHC: 7384503.
+NASS: 98 05732645 02.
+Domicilio: Av. Cornellá, 19, 3 A.
+Localidad/ Provincia: Madrid.
+CP: 08014.
+Datos asistenciales.
+Fecha de nacimiento: 15/08/1930.
+País de nacimiento: España.
+Edad: 81 años Sexo: H.
+Fecha de Ingreso: 29/05/2011.
+Médico: Helena Martínez Alcázar  NºCol: 08 08 55975.
+Informe clínico del paciente: varón de 81 años con antecedentes de hipertensión arterial en tratamiento, hernia inguinal intervenida 20 años antes e hiperplasia benigna de próstata. Tres días antes de su fallecimiento presentó dolor en el epigastrio, por el que consultó a su médico de cabecera y el electrocardiograma se informó como normal. El dolor mejoró, pero a pesar de ello presentó un cuadro de náuseas y síncope, por el que fue atendido por el servicio de emergencias médicas, quienes únicamente pudieron acreditar la muerte.
+Durante la autopsia se evidenció una cicatriz de laparotomía media supraumbilical de la que no constaba el motivo en sus antecedentes patológicos, ya que la única intervención documentada era como consecuencia de una hernia inguinal.
+La causa de la muerte en este caso fue un hemopericardio secundario a rotura de infarto transmural en la pared libre del ventrículo izquierdo y aterosclerosis coronaria grave de los tres vasos.
+Un hallazgo de autopsia que llamó nuestra atención fue la presencia de cambios en la morfología externa del estómago, de aspecto hiperémico, retráctil, con nódulos diseminados y amarillentos. Al corte estos nódulos presentaban un contenido negro y filoso que recordaba pepitas de fruta.
+El estudio histológico llevado a cabo determinó que se trataba de una fibrosis cicatricial evolucionada y calcificada en relación con restos de material de sutura (seda).
+Responsable clínico: Dra. Helena Martínez Alcázar Servei de Patologia Forense del Institut de Medicina Legal de Catalunya Edifici G, 5a planta Ciutat de la Justícia Gran Via Corts Catalanes, 111 08014 Barcelona E-mail: helena.martinez@xij.gencat.cat
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="33" text="Pedro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="46" end="58" text="Teixidó Gonu" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="65" end="72" text="7384503" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="80" end="94" text="98 05732645 02" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="107" end="128" text="Av. Cornellá, 19, 3 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="152" end="158" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="164" end="169" text="08014" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="213" end="223" text="15/08/1930" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="245" end="251" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="259" end="266" text="81 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="273" end="274" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="294" end="304" text="29/05/2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="314" end="337" text="Helena Martínez Alcázar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="346" end="357" text="08 08 55975" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="389" end="394" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="398" end="405" text="81 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="1806" end="1829" text="Helena Martínez Alcázar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1862" end="1901" text="Institut de Medicina Legal de Catalunya" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="1923" end="1944" text="Ciutat de la Justícia" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T4" start="1945" end="1974" text="Gran Via Corts Catalanes, 111" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1975" end="1980" text="08014" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1981" end="1990" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1999" end="2029" text="helena.martinez@xij.gencat.cat" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

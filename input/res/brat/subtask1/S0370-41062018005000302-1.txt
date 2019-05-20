@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Bernabé.
+Apellidos: José Riera Cabrera.
+NHC: 2078655.
+NASS: 27 18364809 09.
+Domicilio: Paseo Santa Engracia, 14.
+Localidad/ Provincia: Donostia-San Sebastián.
+CP: 28007.
+Datos asistenciales.
+Fecha de nacimiento: 20/10/2003.
+País: España.
+Edad: 4 meses  Sexo: H.
+Fecha de Ingreso: 09/12/2015.
+Episodio: 395866540.
+Médico: Begoña Biritxinaga  NºCol: 28 28 45126.
+Lactante mayor previamente sano, quien recibió tratamiento con corticoides tópicos debido a dermatitis seborreica. Debido a uso prolongado no supervisado, evolucionó con síndrome de Cushing caracterizado por obesidad y compromiso de la velocidad de crecimiento. Se suspendió uso tópico y se inició terapia en dosis de sustitución fisiológica en descenso, logrando mejoría clínica.
+Dirección para correspondencia: JM Arroyo Servicio Médico Centro Penitenciario de Zuera Carretera Nacional 330 km 539 50800 Zuera Zaragoza

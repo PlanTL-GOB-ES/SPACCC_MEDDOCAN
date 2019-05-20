@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Ivan.
+Apellidos: Rianxo Abad.
+NHC: 249856.
+Domicilio: Paseo de la Castellana, 3, 2. A.
+Localidad/ Provincia: Medellin, Antioquia.
+CP: 29004.
+Datos asistenciales.
+Fecha de nacimiento: 19/12/2008.
+País: España.
+Edad: 4 años  Sexo: H.
+Fecha de Ingreso: 20/05/2018.
+Médico: Maria Dolores Ayllón-Terán  NºCol: 15 15 31525.
+Paciente de 37 años que consultó por dolor hipogástrico, hematuria cíclica y dolor en fosa renal izquierda coincidiendo con la menstruación. Ecográficamente se observa una dilatación pielocalicial izquierda grado II-III/IV, en probable relación con lesión vesical sobreelevada. El TAC confirmó la ectasia descrita anteriormente y el retraso funcional renal izquierdo, así como una impronta y un engrosamiento irregular y nodular de la base vesical. En la cistoscopia se apreció una lesión congestiva y edematosa en hemitrígono izquierdo, que se biopsió, siendo informada como cistitis glandular. La paciente se intervino quirúrgicamente con el diagnóstico de sospecha de tumor uterino localmente avanzado con afectación urétero-vesical. A través de una laparotomía infraumbilical transperitoneal se realizó histerectomía radical, anexectomía bilateral, cistectomía parcial y ureterocistoneostomía izquierda. El estudio histológico definitivo informó de endometriosis vesical, ureteral y ovárica.
+
+Dirección para correspondencia: Antonio Javier Márquez Moreno Teseo, 5 3-N 29010 Málaga. (España) ajmmrx@hotmail.es

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Margarita.
+Apellidos: Sanchez Roque.
+NHC: 8743522.
+NASS: 72 45743603 21.
+Domicilio: .
+Localidad/ Provincia: Salamanca.
+CP: 37007.
+Datos asistenciales.
+Fecha de nacimiento: 27/11/1940.
+País de nacimiento: España.
+Edad: 71 años Sexo: M.
+Fecha de Ingreso: 06/06/2012.
+Servicio: Cirugía Plastica.
+Médico: Pablo Benito Duque NºCol: 28 28.
+Informe clínico del paciente: mujer de 71 años de edad, como antecedentes de interés es exfumadora hace 25 años, está diagnosticada de hipertensión, polimialgia reumática y arteritis de la temporal.
+En el año 1988 se le detectó tras estudio por metrorragias, un tumor de endometrio, realizándose histerectomía mas doble anexectomía, objetivándose en el estudio anatomopatológico que se trataba de un adenocarcinoma bien diferenciado (grado I), con infiltración del tercio interno del miometrio, sin evidencia de infiltración de vasos sanguíneos ni linfáticos, con estudio de extensión negativo, por lo tanto Estadío Ib. Posteriormente recibió radioterapia con cobalto-60 en pelvis y braquiterapia en cúpula vaginal. Realizó revisiones periódicas sin evidencia de recaída.
+En el año 2003, consultó por tos irritativa y expectoración leve hemoptoica, visualizándose en RX simple de tórax una masa en lóbulo superior izquierdo. Con la sospecha de una neoplasia broncogénica, se completaron los estudios realizándose un TAC tóraco-abdomino-pélvico, objetivándose dicha masa necrótica de 8 cm en LSI con atelectasia de dicho lóbulo sin otras alteraciones. Se realizó broncoscopia que evidenció tumor en segmento anterior del citado lóbulo siendo el BAS y la Biopsia bronquial compatible con carcinoma epidermoide pobremente diferenciado.
+Con el diagnóstico clínico de Carcinoma Epidermoide de Pulmón T2 N0 M0, se decidió iniciar quimioterapia neoadyuvante, con el esquema Carboplatino (AUC 6) más Paclitaxel (200mg/m2) cada tres semanas. Tras tres ciclos de tratamiento, se objetivó respuesta parcial en los estudios radiológicos y la paciente fue sometida a lobectomía superior izquierda y linfadenectomía. El análisis de la pieza quirúrgica presentó una tumoración correspondiente a adenocarcinoma con áreas pobremente diferenciadas, con algún área escamosa, con resultado inmunohistoquímico positivo en la expresión de estrógenos y progesterona, y negativo para TTF-1 y CK20. Estos resultados confirmatorios, cambiaron el planteamiento inicial, no tratándose de un tumor primario pulmonar como se pensaba, sino de una recaída pulmonar de su tumor endometrial.
+La paciente está en tratamiento con acetato de megestrol, con buena tolerancia, libre de enfermedad y en seguimiento en el momento actual.
+Responsable clínico: Dr. Pablo Benito Duque. Servicio de Cirugía Plástica Hospital Universitario de Salamanca Po de San Vicente 58, 37007 Salamanca, España e-mail: pablobenito@usal.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="37" text="Margarita" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="50" end="63" text="Sanchez Roque" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="70" end="77" text="8743522" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="85" end="99" text="72 45743603 21" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="136" end="145" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="151" end="156" text="37007" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="200" end="210" text="27/11/1940" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="232" end="238" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="246" end="253" text="71 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="260" end="261" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="281" end="291" text="06/06/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="329" end="347" text="Pablo Benito Duque" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="355" end="360" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="392" end="397" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="401" end="408" text="71 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="567" end="575" text="año 1988" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="1140" end="1148" text="año 2003" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="2684" end="2702" text="Pablo Benito Duque" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2733" end="2768" text="Hospital Universitario de Salamanca" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2769" end="2789" text="Po de San Vicente 58" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2791" end="2796" text="37007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2797" end="2806" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2808" end="2814" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2823" end="2842" text="pablobenito@usal.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

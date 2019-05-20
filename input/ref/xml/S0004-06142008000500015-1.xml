@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Alejandro   .
+Apellidos: Morales Crespo.
+CIPA: nhc-79324542.
+NASS: 61 65132546 22.
+Domicilio: Calle de las rosas 86, 13.
+Localidad/ Provincia: Almeria.
+CP: 04008.
+NHC: 79324542.
+Datos asistenciales.
+Fecha de nacimiento: 28/05/1993.
+País: España.
+Edad: 24  Sexo: H.
+Fecha de Ingreso: 15/06/2017.
+Especialidad: Urgencias.
+Médico: Francisco Manuel Ramos Pleguezuelos  NºCol: 04 04 74125.
+Motivo de ingreso: Dolor en testiculo derecho.
+Historia Actual: varón de 24 años se presenta en el área de urgencias aquejado de una masa no dolorosa en testículo derecho, que se notó el paciente por autopalpación. Los niveles séricos de beta-HCG y de alfa-FP fueron normales.
+Pruebas complementarias:Se realizó una ecografía cuyas imágenes se interpretaron como un tumor sólido testicular. El paciente fue sometido a una orquiectomía radical inguinal derecha, con curso postoperatorio normal.
+Evolución y comentarios: Hallazgos Patológicos: El examen macroscópico puso de manifiesto una pieza de orquiectomía de 5,5 x 4 x 4 cm y 51 g de peso, que, en polo superior y situada en el espesor de la pulpa testicular, contenía una lesión quística de 1,4 cm, circunscrita por una cápsula, con un contenido de aspecto queratósico, consistencia deleznable y coloración blanquecina; el parénquima testicular circundante conservaba un aspecto esponjoso y blando. El resto de la pieza presentaba como único hallazgo relevante una formación quística en cordón espermático, de 1,2 cm de diámetro, de pared lisa y translúcida y contenido acuoso.
+Microscópicamente, la lesión intraparenquimatosa, estaba representada por una formación quística tapizada por un epitelio escamoso estratificado, de escaso grosor y con capa granulosa, delimitada periféricamente por una delgada banda fibrosa, sin evidencia de anejos cutáneos, cuya luz estaba ocupada por abundante material queratósico, laminado y compacto. El parénquima testicular adyacente reflejaba unas características normales, con un adecuado gradiente madurativo de la celularidad germinal tubular. La lesión quística del cordón espermático correspondía a un espermatocele.
+Responsable clinico: Dr. Francisco Manuel Ramos Pleguezuelos.Complejo Hospitalario Torrecárdenas Paraje Torrecárdenas s/n. 04009 Almería (España). franpleguezuelos@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="8" end="17" text="Alejandro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="33" end="47" text="Morales Crespo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="59" end="67" text="79324542" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="75" end="89" text="61 65132546 22" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="102" end="127" text="Calle de las rosas 86, 13" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="151" end="158" text="Almeria" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="164" end="169" text="04008" TYPE="TERRITORIO" comment=""/>
+    <ID id="T17" start="176" end="184" text="79324542" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T1" start="228" end="238" text="28/05/1993" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="246" end="252" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="260" end="262" text="24" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="270" end="271" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="291" end="301" text="15/06/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="336" end="371" text="Francisco Manuel Ramos Pleguezuelos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="380" end="391" text="04 04 74125" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="457" end="462" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="466" end="473" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2133" end="2168" text="Francisco Manuel Ramos Pleguezuelos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2169" end="2204" text="Complejo Hospitalario Torrecárdenas" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="2205" end="2229" text="Paraje Torrecárdenas s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2231" end="2236" text="04009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2237" end="2244" text="Almería" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2246" end="2252" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="2255" end="2281" text="franpleguezuelos@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

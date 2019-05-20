@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Cesc.
+Apellidos: Lorenzo Perez.
+NHC: 8574869.
+NASS: 26 37482910 04.
+Domicilio: Calle Juan Manuel Acevedo, 1 F.
+Localidad/ Provincia: Valladolid.
+CP: 50008.
+Datos asistenciales.
+Fecha de nacimiento: 05/01/1977.
+País de nacimiento: España.
+Edad: 37 años  Sexo: M.
+Fecha de Ingreso: 23/04/2017.
+Médico: Javier Barbero Gutiérrez    NºCol: 28 28 57403.
+Varón de 40 años con un catéter cuello de cisne con dos cuffs de Dacron implantado seis años antes. A los tres años del inicio en programa de DP, el cuff externo fue extruido como parte del tratamiento de una infección recurrente del orificio de salida. Tres años después, y durante una revisión periódica, la inspección reveló un pequeño orificio cerca de los restos del cuff externo extruido. El agujero no alcanzaba la luz del catéter, pero para prevenir una perforación completa decidimos reforzar dicho punto. Para ello, envolvimos el punto de la perforación con el molde y rellenamos este con el adhesivo de silicona. El segmento de catéter de extensión del kit no era necesario en ese caso, puesto que no había rotura completa. La diálisis no se interrumpió y no hubo complicaciones infecciosas después del procedimiento.
+Dirección para correspondencia: Mercedes Moreiras-Plaza Servicio de Nefrología Complexo Hospitalario Universitario de Vigo Pizarro 22, 36204, Pontevedra mercedes.moreiras.plaza@sergas.es

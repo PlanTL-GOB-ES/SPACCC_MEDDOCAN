@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Hugo.
+Apellidos: Cerna Perez.
+NHC: 257892.
+NASS: 34 89556785 64.
+Domicilio: Calle de Ororbia, 8 , 4 Der..
+Localidad/ Provincia: Madrid.
+CP: 28041.
+Datos asistenciales.
+Fecha de nacimiento: 08/05/1945.
+País de nacimiento: España.
+Edad: 72 años  Sexo: M.
+Fecha de Ingreso: 15/11/2003.
+Médico: Sonia Martínez Machuca   NºCol: 28 28 65201.
+Paciente de sexo femenino de 19 años de edad con residencia rural en la IX región, sin antecedentes mórbidos. Consultó por cuadro de 5 meses de evolución de sintomatología secundaria a síndrome de hipertensión intracraneana (cefalea recurrente y progresiva asociada a vómitos, refractaria a tratamiento médico y edema papilar bilateral acentuado al fondo de ojo). La TC cerebral y RM mostraron una gran formación quística intraxial temporal izquierda, de 60 mm de diámetro de características similares a los casos anteriores y con moderado efecto de masa sobre el parénquima adyacente y sistema ventricular, con desviación de línea media de 5,5 mm.
+El estudio con Rx de tórax y ecotomografía abdominal no mostró lesiones quísticas. El hemograma no mostró eosinofilia y las pruebas hepáticas fueron normales. Se planteó el diagnóstico de quiste hidatídico temporal izquierdo. Se realizó la exéresis intacta de la lesión, confirmando el estudio histopatológico la etiología hidatídica.
+La paciente evolucionó favorablemente, sin déficit neurológico ni complicaciones post operatorias.
+Dirección para correspondencia: Dahyana Cadavid-Aljure Sección de Medicina Interna Fundación Valle del Lili, Universidad CES Cra 83E No 42-71, apto. 302E. Cali Colombia, Cali, Colombia dahianacadavidaljure@gmail.com dahiana.cadavid@hotmail.com

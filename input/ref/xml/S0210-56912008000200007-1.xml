@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Izan.
+Apellidos: Cruz Osores.
+NHC: 7456457.
+Domicilio: C/ Manoteras, 8, 4 A.
+Localidad/ Provincia: Jaén.
+CP: 23009.
+Datos asistenciales.
+Fecha de nacimiento: 18/01/2009.
+País de nacimiento: España.
+Edad: 3 años Sexo: H.
+Fecha de Ingreso: 03/07/2012.
+Médico: Francisco Javier Alados Arboledas  NºCol: 23 23 23605.
+Informe clínico del paciente: Varón de 3 años y 18 kg de peso trasladado desde su hospital de origen por fallo renal agudo y shock séptico (noradrenalina máxima 1 µg/kg/min, ventilación mecánica 11 días, coagulación intravascular diseminada [CID], hemocultivo positivo a Streptococcus pyogenes). Se inicia DPA a las 36 h por oligo-anuria (diuresis de 0,1 ml/kg/h) de 24 horas de evolución, balance neto de +1.200 ml y ascenso de creatinina (inicial 0,7 mg/dl, posterior 2 mg/dl). En el día 1, con ultrafiltrado de 685 ml en 24 h, con pases horarios de 12 ml/kg de glucosa al 1,36%, 20 minutos de permanencia, los cocientes D/P urea y creatinina eran de 0,73 y 0,6 respectivamente, con un Dt/Do glucosa de 0,49, por lo que incrementamos la permanencia a 30 minutos y el volumen a 17 ml/kg con el mismo tipo de líquido e intercambio horario, pues teníamos todavía gradiente osmótico: obtuvimos incremento del ultrafiltrado diario hasta 970 ml. Posteriormente precisó incrementar la concentración de la glucosa al 3,27% para mantener ultrafiltración efectiva. El día 12, con pases cada 2 h de líquido al 3,27%, 40 minutos de permanencia, con 12 ml/kg, los cocientes D/P de urea, creatinina y Dt/Do glucosa eran 0,94, 0,85 y 0,16 respectivamente, por lo que disminuimos la concentración al 2,27% (en un peritoneo tan permeable una solución tan hipertónica puede no ser necesaria) y aumentamos la permanencia a 60 minutos (pases cada 2 horas), obteniendo cocientes de 0,96, 0,85 y 0,22 respectivamente (con un líquido menos concentrado, menos agresivo, seguíamos obteniendo una depuración similar), con descenso de creatinina en 36 h de 5,5 mg/dl a 4 mg/dl (función renal de 8 ml/min/ 1,73 m2 por aclaramiento urinario de creatinina y de 10 ml/min/1,73 m2 por fórmula de Schwarz). En el día 15 la celularidad del dializado se incrementó y el día 16 se retiró el catéter peritoneal (crecimiento de C. albicans).
+Responsable clínico: Dr. Francisco Javier Alados Arboledas. C/ Manuel Caballero Venzala, 12, 2.º-A. 23009 Jaén. España. Correo electrónico: fjaladosarbol@supercable.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="32" text="Izan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="45" end="56" text="Cruz Osores" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="63" end="70" text="7456457" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="83" end="103" text="C/ Manoteras, 8, 4 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="127" end="131" text="Jaén" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="137" end="142" text="23009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="186" end="196" text="18/01/2009" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="218" end="224" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="232" end="238" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="245" end="246" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="266" end="276" text="03/07/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="286" end="319" text="Francisco Javier Alados Arboledas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="328" end="339" text="23 23 23605" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="371" end="376" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="380" end="386" text="3 años" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="2272" end="2305" text="Francisco Javier Alados Arboledas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2307" end="2345" text="C/ Manuel Caballero Venzala, 12, 2.º-A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2347" end="2352" text="23009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2353" end="2357" text="Jaén" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2359" end="2365" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2387" end="2414" text="fjaladosarbol@supercable.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

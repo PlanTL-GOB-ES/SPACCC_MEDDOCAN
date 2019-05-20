@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Sergio.
+Apellidos: Rodriguez Miranda.
+NHC: 2567056.
+Domicilio: C/ Garcia Lorca, 23, 4 C.
+Localidad/ Provincia: Barcelona .
+CP: 28035.
+Datos asistenciales.
+Fecha de nacimiento: 31/5/1976.
+País: España.
+Edad: 39 años  Sexo: M.
+Fecha de Ingreso: 15/05/2018.
+Servicio: Urgencias.
+Médico: Enrique Freiré Vila  NºCol: 28 28 54124.
+Varón de 14 años de edad, que en el momento de la primera consulta presenta una tumoración mandíbulo- témporo-cervical de varios meses de evolución. Se confirma la presencia de un absceso que se extiende desde región parotídea izquierda por todo el espacio masticador, musculatura pterigoidea ipsilateral y fosa infratemporal (confirmado mediante RMN). Drenamos el absceso y se practica cultivo para anaerobios del material drenado que resulta positivo; se procede a la limpieza del foco osteomielítico piógeno. Mediante estudio anatomopatológico, confirmamos el diagnóstico de enfermedad de Noma dado el componente de inflamación aguda y crónica sin especificidad histológica presente, no evidenciándose granulomas pero sí destrucción ósea del cóndilo temporal.
+
+Dirección para correspondencia: Dr. Rubén Fernández García-Guilarte C/ Pedro Rico, 19 - 10o D 28029 Madrid. España. e-mail: rubenfergar@gmail.com

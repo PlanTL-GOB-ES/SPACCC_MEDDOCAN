@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: David.
+Apellidos: Bartra JImenez.
+NHC: 376492.
+NASS: 47 98563794 10.
+Domicilio: Calle San Benito, 12.
+Localidad/ Provincia: Valencia.
+CP: 08907.
+Datos asistenciales.
+Fecha de nacimiento: 07/01/1978.
+País de nacimiento: España.
+Edad: 26 años  Sexo: M.
+Fecha de Ingreso: 06/06/2018.
+Médico: Juan Martin Toranzo Fernández  NºCol: 28 28 57110.
+Presentamos el caso de un varón de 40 años sin antecedentes de interés que consultó para solicitar la realización de una vasectomía. A la exploración física los testes eran de aspecto y tamaño normal y el pene presentaba una torsión de unos 60 grados. Hasta la fecha, dicha alteración no le había producido sintomatología alguna.
+
+Dirección para correspondencia: Albert Arch Cañas C/ Ribes, 46 -1º 08013 Barcelona. (España) 35980aac@comb.es

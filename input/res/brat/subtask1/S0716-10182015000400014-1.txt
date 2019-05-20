@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Elisa.
+Apellidos: Llosa Lozano .
+NHC: 4736093.
+Domicilio: Av. de la Imperial Tàrraco, 5.
+Localidad/ Provincia: Móstoles.
+CP: 46011.
+Datos asistenciales.
+Fecha de nacimiento: 15/08/1955.
+País de nacimiento: España.
+Edad: 29 años  Sexo: Femenino.
+Fecha de Ingreso: 14/12/2014.
+Médico: Ricardo Sabaniego Martín  
+Varón de 50 años de edad, dedicado a la construcción, originario de Guanajuato, Gto., sin antecedentes familiares o personales importantes. Consultó por una lesión verrugosa nodular en la nariz con crecimiento gradual en los últimos tres meses. Un año antes había presentado dos abscesos en el brazo derecho, los cuales fueron drenados, y dos meses después notó un tercer absceso en el brazo. A la exploración física se observó en la región periorbitaria y antecubital derecho placas nodulares verrugosas, edematosas y cubiertas por costras hemáticas. El examen directo y cultivo fueron positivos para Coccidioides spp. Con el diagnóstico de coccidioidomicosis cutánea recibió tratamiento con itraconazol oral 400 mg al día.
+
+Correspondencia a: Gabriela Moreno-Coutino gmorenocoutino@gmail.com

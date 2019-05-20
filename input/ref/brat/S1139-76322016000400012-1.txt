@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Alma Marin Moreno .
+Apellidos: Marin Moreno.
+NHC: 4567653.
+Domicilio: Calle Sangenjo, 29, 3D .
+Localidad/ Provincia: Madrid.
+CP: 28034.
+Datos asistenciales.
+Fecha de nacimiento: 13/08/2016.
+País: España.
+Edad: 1 mes Sexo: M.
+Fecha de Ingreso: 01/10/2016.
+Servicio: Pediatría.
+Episodio:  9874565651.
+Médico: Julia Morata Alba NºCol: 28 28 70726.
+Historia Actual: Niña de un mes y medio de edad que es remitida a la consulta de Pediatría por un riñón derecho pélvico y un mechón blanco de pelo en la región frontal.
+Procede de la primera gestación de una madre sana. Embarazo controlado sin incidencias, con ecografías normales salvo por el riñón derecho pélvico. Parto vaginal, instrumentado a la edad gestacional de 38 semanas. Peso al nacimiento de 2320 gramos, Apgar 10/10. Otoemisiones correctas bilaterales.
+Antecedentes: Antecedentes familiares: padres de raza blanca, madre sana de 25 años, padre sano de 36 años, salvo manchas acrómicas en el tercio medio de ambos muslos, sin haber sido diagnosticado de ninguna enfermedad. Se desconocen otros antecedentes familiares.
+Exploración: La paciente está asintomática; su ritmo intestinal y diuresis son normales. En la exploración física presenta un mechón de pelo blanco frontal y una mácula acrómica de forma triangular en la región frontal. No tiene otras lesiones cutáneas. El resto de la exploración es normal, con desarrollo psicomotor hasta el momento normal.
+Resumen de pruebas complementarias: Se sospecha clínicamente un piebaldismo, pero se solicitan pruebas complementarias para comprobar que no presenta anomalías oftalmológicas ni sordera, que deben estar ausentes para confirmar el diagnóstico clínico de piebaldismo. Con la valoración oftalmológica se descartaron lesiones oculares y se realizaron potenciales evocados auditivos, que fueron normales.
+En la ecografía abdominal se confirmó la presencia de un riñón derecho pélvico sin otras anomalías.
+Se solicitó estudio analítico (hemograma y química), que fue normal, y estudio genético para mutación del gen KIT (OMIM 164920) (4q12), que fue negativo. Se detectó una variante en heterocigosis en el gen KIT de significado clínico desconocido [c.2509G>A;(p.Ala837Thr)] (en el padre también resultó negativo).
+Remitido por: Julia Morata Alba. Hospital Ramón y Cajal. Ctra. De Colmenar Viejo, km. 9,100, 28034 Madrid. Correo electrónico: juliamorataalba@gmail.com

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Jose .
+Apellidos: Llorente Zabala.
+NHC: 3785649.
+NASS: 43 97856395 65.
+Domicilio: Avenida de las Américas, 5, 3 D.
+Localidad/ Provincia: Culleredo.
+CP: 15714.
+Datos asistenciales.
+Fecha de nacimiento: 19/04/1963.
+País de nacimiento: España.
+Edad: 51 años Sexo: H.
+Fecha de Ingreso: 21/08/2014.
+Servicio: Dermatología.
+Médico: Beatriz Fernández Jorge NºCol: 15 28 54789.
+Historia Actual: Varón de 51 años que acudió a las consultas de Dermatología por presentar desde hacía 6-7 días lesiones nodulares, eritemato-violáceas y dolorosas en las piernas y el dorso de pies, acompañadas de hinchazón de los tobillos.
+El paciente presentaba un buen estado general, sin otra clínica acompañante.
+Antecedentes: Entre sus antecedentes personales destacaban tres episodios de pancreatitis aguda secundaria a etilismo crónico, el último hacía un año. En la colangio-resonancia magnética realizada en aquel momento se había detectado una pancreatitis crónica, así como dos pseudoquistes pancreáticos, por lo que estaba en seguimiento por el Servicio de Digestivo. Se realizó biopsia cutánea y estudio analítico y se inició tratamiento con antiinflamatorios no esteroideos y omeprazol. La histopatología de una de las lesiones cutáneas mostró un intenso infiltrado inflamatorio en el lobulillo graso constituido por polimorfonucleares neutrófilos, jabones secundarios a necrosis grasa y áreas de hemorragia.
+Pruebas complementarias: El estudio analítico evidenció valores de amilasa pancreática de 469 UI/L. Ante estos hallazgos, compatibles con el diagnóstico de paniculitis pancreática, se procedió al ingreso del paciente para estudio y vigilancia de una posible reagudización de su pancreatitis crónica. La evolución de las lesiones cutáneas fue buena, a pesar de que el paciente había suspendido el tratamiento antiinflamatorio por epigastralgia. Sin embargo, la epigastralgia no remitió e incluso se hizo más continua e intensa, acompañándose posteriormente de náuseas y vómitos. La clínica y niveles de amilasa se controlaron durante el ingreso mediante medidas conservadoras, pero en la tomografía computerizada (TC) de control se observó un aumento del tamaño de la cabeza del páncreas, con dilatación del conducto de Wirsung, destrucción parcial de la glándula pancreática, adenopatías peripancreáticas, celíacas y del ligamento gastrohepático, junto a trombosis de la vena porta, que requirió tratamiento anticoagulante. 
+Evolución: Al cabo de 5 meses del diagnóstico de la paniculitis pancreática, la TC de control informó de la resolución de la patología pancreática, con transformación cavernomatosa portal y persistencia de pequeñas adenopatías sin significado patológico claro, por lo que el cuadro se interpretó finalmente como una reagudización de su pancreatitis crónica.
+Responsable clínico: Dra. Beatriz Fernández Jorge. Avda. Alcalde Electro Carballo, 20B, 4C 15174 Culleredo, A Coruña e-mail: Beafjorge@hotmail.com; bea_fjorge@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="32" text="Jose" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="46" end="61" text="Llorente Zabala" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="68" end="75" text="3785649" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="83" end="97" text="43 97856395 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <CONTACT id="T19" start="110" end="141" text="Avenida de las Américas, 5, 3 D" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T18" start="165" end="174" text="Culleredo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="180" end="185" text="15714" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="229" end="239" text="19/04/1963" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="261" end="267" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="275" end="282" text="51 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="289" end="290" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="310" end="320" text="21/08/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="354" end="377" text="Beatriz Fernández Jorge" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="385" end="396" text="15 28 54789" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="415" end="420" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="424" end="431" text="51 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2831" end="2854" text="Beatriz Fernández Jorge" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2856" end="2895" text="Avda. Alcalde Electro Carballo, 20B, 4C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2896" end="2901" text="15174" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2902" end="2911" text="Culleredo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2913" end="2921" text="A Coruña" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2930" end="2951" text="Beafjorge@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T1" start="2953" end="2972" text="bea_fjorge@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

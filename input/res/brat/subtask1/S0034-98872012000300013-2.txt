@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: Paula.
+Apellidos: Martinez Soza.
+NHC: 7356284.
+NASS: 73 45673045 64.
+Domicilio: Av/ Puertollano, 9, 3 A.
+Localidad/ Provincia: Madrid.
+CP: 20340.
+Datos asistenciales.
+Fecha de nacimiento: 06/01/1977.
+País de nacimiento: España.
+Edad: 73  Sexo: M.
+Fecha de Ingreso: 15/08/2017.
+Servicio: MI.
+Episodio: 761345.
+Médico: Pedro Miguel Garamendi.  NºCol: 20 20 87454.
+Mujer de 72 años con cirrosis por esteatohepatitis no alcohólica Child-Pugh B diagnosticada el año 2004.
+Consultó en el año 2008 en Clínica Santa María cuando se hospitalizó por ascitis; se diagnosticó un hepatocarcinoma de 3 cm, mediante un scanner de abdomen, se realizó terapia con radiofrecuencia. Luego ingresó en varias oportunidades por encefalopatía grado II y anemia con hematocrito de 24%. Una primera endoscopia digestiva alta (EDA) mostró EVA tipo watermelon stomach manejándose con APC, luego se hizo nueva EDA que confirmó la EVA, realizándose una ligadura antral por mala respuesta endoscópica. Luego de varios meses se repitió la EDA mostrando mejoría significativa de la EVA, realizándose una segunda sesión de ligaduras. En endoscopias posteriores no se evidencia EVA. La paciente falleció en abril de 2011 por un cuadro séptico de origen pulmonar.
+
+Dirección para correspondencia: José Juan Carbayo García Centro de Salud Talavera Centro C/ José Luis Gallo 2 45600. Talavera de la Reina. Toledo Teléfono: 925800950 Correo electrónico: jjcarbayo@sescam.jccm.es

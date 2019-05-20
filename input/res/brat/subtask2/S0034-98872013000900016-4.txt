@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Aida.
+Apellidos: Ferrio Alvarez.
+NHC: 754695.
+NASS: 87 54690245 68.
+Domicilio: Avenida Castilla y leon 25, 3D.
+Localidad/ Provincia: Ceuta.
+CP: 47002.
+Datos asistenciales.
+Fecha de nacimiento: 12/11/1978.
+País: España.
+Edad: 5 años  Sexo: M.
+Fecha de Ingreso: 05/4/2017.
+Servicio: Cirugía Maxilofacial.
+Episodio: 10541765 .
+Médico: Jesús Ignacio Tornero Ruiz  NºCol: 28 28 70354.
+Hombre de 76 años sano, diez días previos presentó una infección respiratoria y diarrea, a los tres días comenzó con disartria, ptosis, disfagia y ataxia. Al examen tenía disartria, midriasis con RFM disminuidos, oftalmoplejia bilateral, biparesia facial, paresia velopalatina, ROT abolidos, dismetría y ataxia. Se estudió con RM encéfalo normal, EMG con polineuropatía desmielinizante generalizada, sin disociación en LCR y anticuerpos anti-GQ1b positivos en suero. Evolucionó con cefaloparesia y disautonomía. El diagnóstico fue SMF. Recibió IgIV y en su examen al 6° mes presentaba midriasis bilateral, oftalmoparesia leve de rectos laterales y ROT disminuidos.
+Correspondencia a: Dr. Reinaldo Uribe San Martín Marcoleta 350 2º piso, Santiago de Chile. Teléfono: 02-23543316 E-mail: rmuribe@uc.cl

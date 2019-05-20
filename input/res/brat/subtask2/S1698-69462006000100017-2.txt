@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Esther.
+Apellidos: Rubio Jimenez.
+NHC: 4965446.
+NASS: 48 36907256 18.
+Domicilio: Avda. Benidorm, 5, 2 A.
+Localidad/ Provincia: Barcelona.
+CP: 35007.
+Datos asistenciales.
+Fecha de nacimiento: 13/09/1978.
+País de nacimiento: España.
+Edad: 52 años  Sexo: M.
+Fecha de Ingreso: 25/12/2017.
+Médico: Andres Joel Reynoso Heinsen   NºCol: 28 28 70354.
+Paciente de 49 años de edad, fumadora de 30 cigarrillos/día, diagnosticada previamente de Cáncer de mama (T1 N0 M0) tratado con cirugía, quimioterapia y radioterapia, que ante la evolución metastásica de la enfermedad comenzó tratamiento con zoledronato a dosis de 4 mg e.v.. Fue remitida a nuestra consulta por parte de su estomatólogo al presentar exposición ósea mandibular tras extracciones dentales, junto con molestias periodontales y parestesias en el territorio del nervio dentario inferior izquierdo, sin signos radiográficos que sugirieran un origen metastático de la clínica. Había sido diagnosticada y tratada como flemón dental presentando mejoría con tratamiento antibiótico sin resolución total del proceso. Se pautaron medidas conservadoras, antibioterapia (amoxicilina-clavulánico) y aplicación tópica de geles de clorhexidina, con mejoría del cuadro.
+
+Dirección para correspondencia Dr. Daniel Pastor Zuazaga Servicio de Cirugía Oral y Maxilofacial Hospital Virgen del Camino - Pamplona (Navarra) C/ Irunlarrea 4 C.P.: 31008 Teléfono: 848 429400 - Fax: 848 429924 E-mail: dapazu@hotmail.com E-mail: jgaratec@cfnavarra.es

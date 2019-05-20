@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Jose.
+Apellidos: Sálamo Domingo.
+NHC: 5678234.
+Domicilio: Carrer de Joan Alcover, 33 1H.
+Localidad/ Provincia: Valladolid.
+CP: 08222.
+Datos asistenciales.
+Fecha de nacimiento: 15/06/1944.
+País de nacimiento: Bulgaria.
+Edad: 19 años  Sexo: H.
+Fecha de Ingreso: 03/11/2017.
+Servicio: .
+Episodio: 786132456.
+Médico: Ana Arillo Crespo   NºCol: 18 18 65685.
+Trabajadora de 42 años, sin antecedentes de atopia o asma bronquial, que trabajaba desde hace 14 años en empresa de aerogeneradores. En los primeros años, realizaba tareas de limpieza, seguidamente de almacenaje y posteriormente de empaquetado. En los últimos 2 años cambió su puesto de trabajo a mantenimiento y acabados con tareas en dos áreas de trabajo distintas y exposición ambiental a RE e isocianatos (indicada en las fichas de datos de seguridad aportadas) presentando tos y episodios de broncoespasmo (con desaturación de 79%) requiriendo asistencias en Urgencias y periodos de incapacidad temporal, en los cuales permanecía asintomática.
+Se recibió información de la existencia de otros trabajadores con síntomas respiratorios sin embargo no se obtuvieron datos acerca de mediciones de exposición ambiental.
+La paciente fue derivada por su mutua para el estudio alergológico por sospecha de origen laboral y para descarte de etiología extralaboral.
+Se realizaron pruebas cutáneas (SPT) con batería estándar de neumoalérgenos, pruebas epicutáneas (PT) con batería estándar europea, RE e isocianatos. Pruebas respiratorias seriadas que consistieron en espirometría con prueba de broncodilatación (PBD), fracción espiratoria de óxido nítrico (FeNO) y PF. PBE con isocianatos, methylenediphenyl diisocyanate (MDI) y toluene-2,4-di-isocyanate (TDI) además de RE (SP110 Resin, SP110 Fast Hardener y Gelcoat Resin) con control espirométrico en el Servicio de Alergología y seguidamente con determinaciones de PF domiciliarios a fin de evaluar la respuesta inmediata y tardía respectivamente.
+
+Dirección para correspondencia: Italo Nicolás Girao Popolizio Servicio de Alergología e Inmunología Clínica Hospital Universitario Araba (HUA) Edificio Consultas Externas C/ Francisco Leandro de Viana s/n 01009 Vitoria/Gasteiz E-mail: italgrif@yahoo.es secretariaalergologia.hospitalhua@osakidetza.net

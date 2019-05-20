@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Sara.
+Apellidos: Garcia Jurado.
+NHC: 2474959.
+NASS: 85 83048575 84.
+Domicilio: Calle Colombia 96.
+Localidad/ Provincia: Madrid.
+CP: 28017.
+Datos asistenciales.
+Fecha de nacimiento: 13/01/1935.
+País: España.
+Edad: 80 años Sexo: M.
+Fecha de Ingreso: 23/10/2015.
+Médico: Alejandro Encinas Bascones NºCol: 28 28 41232.
+Historia Actual: Mujer de 80 años de edad, que acude a las consultas por presentar una tumoración indolora submandibular izquierda de 2 meses de evolución y que ha experimentado un crecimiento progresivo y un aumento de la consistencia. No se acompaña de síndrome constitucional.
+Antecedentes:  La paciente presenta litiasis renal e hipertensión arterial como únicos antecedentes. 
+Exploración física: En la exploración física destaca una masa submandibular izquierda de aproximadamente 4 cm de diámetro, de consistencia dura, adherida a planos profundos, que no provoca dolor a la palpación. No se observan alteraciones en la movilidad cervical ni en la expresión de la mímica facial. En la exploración intraoral no hay inflamación del suelo de la boca ni del conducto de Wharton.
+Resumen de pruebas complementarias: Se procede a la realización de una punción-aspiración con aguja fina (PAAF) guiada por ecografía que se informa como carcinoma de naturaleza indeterminada. Se solicita una RM cuyo informe es compatible con una masa submaxilar izquierda heterogénea, con necrosis interna, de 3 × 4 × 3 cm, que impronta en el suelo de la boca, sin signos concluyentes de infiltración de la musculatura suprahioidea y que respeta la cortical ósea mandibular.
+Evolución y comentarios: Con el diagnóstico de tumoración maligna de la glándula submaxilar, se realiza una disección cervical funcional izquierda tipo III, incluyendo el nervio hipogloso, el músculo digástrico y la rama marginal del nervio facial izquierdo, con un fresado de la cara medial mandibular izquierda.
+El análisis histológico de la pieza muestra una proliferación neoplásica de límites infiltrantes, que crece formando nidos y cordones, constituida por células de citoplasmas amplios y morfología plasmocitoide y epitelioide. Los núcleos son atípicos con moderado pleomorfismo, nucléolo prominente y 11 mitosis/10 campos de gran aumento. Las células se disponen en el seno de un estroma hialinizado. Se aprecian extensas zonas de necrosis y focos de diferenciación escamosa. No se observan estructuras ductales. El estudio inmunohistoquímico realizado demuestra positividad de las células neoplásicas para CKAE1/AE3, actina, calponina, p63, proteína S-100 y GFAP, siendo negativas para CEA. El índice proliferativo (Ki67) es del 25%. El tumor está totalmente resecado y la distancia al margen de resección más próximo es de menos de 1 mm. Los ganglios linfáticos son negativos para malignidad. Este informe es compatible con el diagnóstico de carcinoma mioepitelial de glándula submaxilar pT3-N0, MX.
+Se decide, tras un consenso multidisciplinar, la aplicación de radioterapia postoperatoria. La dosis total de radioterapia recibida es de 60 Gy, fraccionado en 30 sesiones.
+La paciente está en seguimiento en consultas externas después de 3 años de la intervención quirúrgica y, tras la realización de RM y tomografía computarizada seriadas de control, no se visualizan signos de recidiva tumoral ni metástasis.
+Remitido por: Alejandro Encinas Bascones. Correo electronico: encinasbascones@gmail.com. Hospital universitario La Paz. Paseo de la Castellana, 261, 28046 Madrid
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="13" text="Sara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="26" end="39" text="Garcia Jurado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="46" end="53" text="2474959" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="61" end="75" text="85 83048575 84" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="88" end="105" text="Calle Colombia 96" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="129" end="135" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="141" end="146" text="28017" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T1" start="190" end="200" text="13/01/1935" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="208" end="214" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="222" end="229" text="80 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="236" end="237" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="257" end="267" text="23/10/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="277" end="303" text="Alejandro Encinas Bascones" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="311" end="322" text="28 28 41232" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="341" end="346" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="350" end="357" text="80 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3319" end="3345" text="Alejandro Encinas Bascones" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T6" start="3367" end="3392" text="encinasbascones@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T5" start="3394" end="3423" text="Hospital universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3425" end="3452" text="Paseo de la Castellana, 261" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3454" end="3459" text="28046" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3460" end="3466" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

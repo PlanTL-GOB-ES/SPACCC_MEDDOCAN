@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Jose Antonio .
+Apellidos: Massotti Fernandez  .
+NHC: 7863450.
+NASS: 54 70862039 05.
+Domicilio: Calle Principe de Vergara, 93, 2A.
+Localidad/ Provincia: Madrid.
+CP: 47001.
+Datos asistenciales.
+Fecha de nacimiento: 14/09/1955.
+País de nacimiento: España.
+Edad: 43 años  Sexo: M.
+Fecha de Ingreso: 23/02/2018.
+Médico: Cristina Pérez Melón,  NºCol: 37 37 58203.
+Mujer de 68 años, con lesión tumoral de aspecto esclerodermiforme en zona central del párpado inferior derecho que deja libre el borde palpebral. Bajo anestesia local y sedación se procede a exéresis amplia de la lesión cutánea respetando la lamela interna y reconstrucción mediante colgajo miocutáneo del músculo orbicular en isla con unas dimensiones de 25 x 17 mm. La anatomía patológica informó de carcinoma basocelular. En las Fig. 4 y 5 presentamos el resultado a los 12 meses de la intervención.
+
+Dirección para correspondencia: Dra. Araceli Lagares Borrego Servicio de Cirugía Plástica, Reparadora y Quemados de los Hospitales Universitarios Virgen del Rocío. Avda. de Manuel Siurot s/n, 41013 Sevilla. España. e-mail: alagaresborrego@hotmail.com

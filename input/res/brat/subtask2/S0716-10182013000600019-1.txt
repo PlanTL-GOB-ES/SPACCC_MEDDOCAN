@@ -1,0 +1,18 @@
+Nombre: Matias.
+Apellidos: Campos Espinosa.
+NHC: 5457913.
+NASS: 47 45708560 85.
+Domicilio: Calle Carrion, 20, 4 C.
+Localidad/ Provincia: Santiago De Chile.
+CP: 22002.
+Datos asistenciales.
+Fecha de nacimiento: 13/06/1939.
+País: España.
+Edad: 12 años  Sexo: H.
+Fecha de Ingreso: 04/11/2014.
+Servicio: Oftalmologia.
+Episodio: 1330431.
+Médico: Pedro Infante Cossío  NºCol: 31 28 90616.
+Mujer de 20 años, sin antecedentes mórbidos. Consultó por presentar una lesión cutánea dolorosa tipo pápula, pardo-negruzca, de bordes eritematosos, ubicada en el pulpejo del segundo ortejo del pie izquierdo. En la superficie de la lesión se encontró múltiples huevecillos de color blanco, de menos de 1 mm de diámetro. La paciente había regresado de un viaje turístico a Paraguay 10 días antes. Se realizó la extracción quirúrgica de los parásitos. Además se indicaron antibacterianos tópicos y profilaxis antitetánica, con resolución total de las lesiones.
+
+Correspondencia a: Juan E. Carrasco-Zuber jecarrasco@uc.cl

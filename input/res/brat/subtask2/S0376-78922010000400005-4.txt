@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Sheila.
+Apellidos: Santana Perea.
+NHC: 9865327 .
+NASS: 83 5678564 05.
+Domicilio: C/ Herrera Oria, 23, 3 A.
+Localidad/ Provincia: Madrid.
+CP: 28042.
+Datos asistenciales.
+Fecha de nacimiento: 21/05/1976.
+País de nacimiento: España.
+Edad: 44 años  Sexo: H.
+Fecha de Ingreso: 01/10/2017.
+Médico: Montserrat Montaño Fidalgo  NºCol: 28 28 62165.
+Paciente mujer de 48 años de edad, intervenida para reconstrucción mamaria izquierda con colgajo DIEP tras mastectomía por carcinoma ductal infiltrante de mama izquierda. En el postoperatorio desarrolla pioderma gangrenoso sobre ambas heridas quirúrgicas (abdominal y mamaria).
+
+Se administra tratamiento sistémico con corticoides y, tras la estabilización de las lesiones, se plantea la cobertura quirúrgica de las mismas mediante desbridamiento e injerto laminar de piel parcial. La paciente rechaza la intervención, por lo que se opta por un tratamiento no invasivo aplicando la terapia Renasys®. Se instaura una terapia continua a -100 mm Hg. Tras un mes de tratamiento, las heridas mamarias han curado completamente y las abdominales han disminuido su tamaño de forma importante. Finalmente, se consigue el cierre de todas las heridas sin necesidad de intervención quirúrgica tras 7 semanas de tratamiento.
+Dirección para correspondencia: Dra. Concepción Lorca García Servicio de Cirugía Plástica y Quemados Hospital La Fe Avenida Campanar 21. 46009 Valencia. España e-mail: conchi_lg@hotmail.com

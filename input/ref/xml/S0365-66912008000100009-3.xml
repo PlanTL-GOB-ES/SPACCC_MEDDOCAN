@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Carolina.
+Apellidos: Ardoain Artiles.
+NHC:  52564.
+NASS: 32 50689435 45.
+Domicilio: Calle puerto principe 18, 8C.
+Localidad/ Provincia: Menorca.
+CP: 07703.
+Datos asistenciales.
+Fecha de nacimiento: 21/03/1975.
+País: España.
+Edad: 43 años Sexo: M.
+Fecha de Ingreso: 06/04/2018.
+Servicio: Oftalmologia.
+Episodio: 58244.
+Médico:  Jordi Bosch Valero NºCol: 07 08 94861.
+Historia Actual: Mujer de 43 años con dolor en OI y fotofobia. Antecedente de intervención de Scopinaro un año atrás, cursando un postoperatorio con anemia, varices en extremidades inferiores, hipocalcemia y gonartritis seronegativa.
+En la exploración del OI se apreciaba un abceso marginal, epiteliopatía difusa y queratinización conjuntival. AV corregida de 0,6 en OD y 0,3 en OI. Tras resolverse con ciclopentolato (Ciclopléjico®, AlconCusí, S.A., Barcelona, España) y una quinolona tópica (Chibroxín®, Thea S.A., Barcelona, España), se apreció que la epiteliopatía no mejoraba pese al tratamiento lubricante (Viscofresh® 0,5%, Allergan S.A.) manteniendo una AV de 6/10 en OD y 5/10 en OI. Se añadió pilocarpina oral (Salagen®, Novartis SA, Barcelona, España) 5 mg cada 6 horas, sin modificación del test de Schirmer (2-3 mm en OD y 5 mm en OI). Al persistir la queratinización conjuntival y la epiteliopatía difusa se añadió suero autólogo al 20%. En tres semanas aumentó la película lagrimal (Schirmer 5 mm en OD y 7 mm en OI) remitiendo la hiperqueratinización conjuntival, con una AV final de 8/10 en AO.
+Remitido por: Jordi Bosch Valero. Carrer de la Pampa, 17 07703 Mahón (Menorca) España E-mail: jordiperebosch@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T34" start="9" end="17" text="Carolina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T33" start="30" end="45" text="Ardoain Artiles" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T32" start="53" end="58" text="52564" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T31" start="66" end="80" text="32 50689435 45" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T30" start="93" end="121" text="Calle puerto principe 18, 8C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T29" start="145" end="152" text="Menorca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T28" start="158" end="163" text="07703" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T27" start="207" end="217" text="21/03/1975" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T26" start="225" end="231" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T25" start="239" end="246" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T24" start="253" end="254" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T23" start="274" end="284" text="06/04/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T22" start="320" end="325" text="58244" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T21" start="336" end="354" text="Jordi Bosch Valero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T20" start="362" end="373" text="07 08 94861" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T19" start="392" end="397" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T18" start="401" end="408" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T17" start="809" end="824" text="AlconCusí, S.A." TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T16" start="826" end="835" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="837" end="843" text="España" TYPE="PAIS" comment=""/>
+    <LOCATION id="T14" start="881" end="890" text="Thea S.A." TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T13" start="892" end="901" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="903" end="909" text="España" TYPE="PAIS" comment=""/>
+    <LOCATION id="T11" start="1006" end="1019" text="Allergan S.A." TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T10" start="1106" end="1117" text="Novartis SA" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T9" start="1119" end="1128" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T8" start="1130" end="1136" text="España" TYPE="PAIS" comment=""/>
+    <NAME id="T6" start="1501" end="1519" text="Jordi Bosch Valero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1521" end="1543" text="Carrer de la Pampa, 17" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1544" end="1549" text="07703" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1550" end="1555" text="Mahón" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1557" end="1564" text="Menorca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1566" end="1572" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1581" end="1604" text="jordiperebosch@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

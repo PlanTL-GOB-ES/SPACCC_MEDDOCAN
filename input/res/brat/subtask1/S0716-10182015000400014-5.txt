@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Isabel.
+Apellidos: Baltodano Gradiz.
+NHC: 4578123.
+Domicilio: Avenida de la albufera 56. 3D.
+Localidad/ Provincia: Chennai.
+CP: 07014.
+Datos asistenciales.
+Fecha de nacimiento: 03/11/1981.
+País de nacimiento: España.
+Edad: 5 años  Sexo: H.
+Fecha de Ingreso: 31/01/2018.
+Médico: Andres Joel Reynoso Heinsen   NºCol: 31 31 52010.
+Paciente de 32 años, originario de Michoacán y residente de Tijuana B.C. los últimos 12 años, obrero, sin antecedentes de importancia. Refirió un año y medio de evolución de dos placas verrugosas nodulares de 2 cm de diámetro, cubiertas con costra serohemática. En labio superior presentaba una úlcera de un cm de diámetro con una base cubierta por costra hemática. El examen directo tenía presencia de esférulas y el cultivo fue positivo a C. posadasii. Recibió tratamiento con criocirugía y anfotericina B.
+
+Correspondencia a: Gabriela Moreno-Coutino gmorenocoutino@gmail.com

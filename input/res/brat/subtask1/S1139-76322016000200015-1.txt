@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Claudia.
+Apellidos: Vega Macias.
+NHC: 8746893.
+NASS: 65 734567085 66.
+Domicilio: Antiguo Camino Acapulco 320 .
+Localidad/ Provincia: Madrid.
+CP: 28027.
+Datos asistenciales.
+Fecha de nacimiento: 19/03/1986.
+País de nacimiento: España.
+Edad: 26 años  Sexo: H.
+Fecha de Ingreso: 07/12/2015.
+Médico: Jorge Ortega-Carnicer  NºCol: 20 20 81556.
+Presentamos el caso de una niña de cuatro años de origen asiático que acude por dolor asociado a una pequeña tumoración eritematosa y con aumento de volumen en región preauricular derecha de cinco días de evolución. Refería fiebre desde el inicio del cuadro, con un pico máximo de 39 °C. No presencia de otra sintomatología. Los padres referían que la lesión había ido aumentando de volumen progresivamente en los días previos.
+
+Durante su estancia en Urgencias se realiza una Interconsulta al servicio de Otorrinolaringología, que define la lesión como una fístula preauricular derecha infectada.
+Se instaura tratamiento antibiótico oral con amoxicilina-clavulánico a 40 mg/kg durante diez días y antiinflamatorios pautados.
+Correspondencia a: Dra. Camila Peña Ojeda E-mail: camipena@gmail.com

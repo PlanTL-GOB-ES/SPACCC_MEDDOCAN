@@ -1,0 +1,24 @@
+﻿Nombre: Gonzalo .
+Apellidos: Castro Cruz .
+CIPA: nhc-456125.
+NASS: 55-55012378-99.
+Domicilio: calle monforte de lemos 129, 8C.
+Localidad/ Provincia: Madrid, Madrid.
+CP:28029.
+       NHC: 456125.
+Datos asistenciales.
+Fecha de nacimiento: 12-03-1960.
+País: España.
+Edad: 58 Sexo: H.
+Fecha de Ingreso: 27/03/2017.
+Especialidad: Neurología .
+Médico: Ignacio Heras Rincón         NºCol: 13-87-71356.
+Motivo de ingreso: parestesias en ambas extremidades inferiores (EEII) y temblores en manos.
+Antecedentes: hipertensión arterial diagnosticada en 2012, en tratamiento farmacológico, cardiopatía isquémica por enfermedad coronaria con angioplastia transluminal de la coronaria derecha en 2014 (desde entonces asintomático, pruebas de esfuerzo posteriores negativas), dislipemia tipo II. Intervenido de criptorquídia bilateral y amigdalectomizado en juventud.
+Antecedentes familiares: un primo materno con agenesia renal unilateral y una prima materna con trasplante por insuficiencia renal.
+Historia Actual: El paciente riñón izquierdo trasplantado ingresa por parestesias en ambas extremidades inferiores (EEII) y temblores en mano. Ademas sufre de una IRC progresiva secundaria a glomerulonefritis tipo IgA con esclerosis focal y segmentaria asociada diagnosticada en 2014.El trasplante renal cursó sin incidencias (riñón izquierdo en fosa ilíaca derecha con 2 arterias en parche único y vena que se abocan a ilíacas externas), con función eficaz inmediata del injerto, sin rechazo agudo y niveles elevados de ciclosporina sin toxicidad clínica aparente. El paciente recibe tratamiento con ciclosporina 8mg/Kg, micofenolato mofetilo 2gr/día, y prednisona 1mg/Kg, disminuyendo progresivamente las cifras en controles posteriores, a los 2 años del trasplante, el paciente refiere por primera vez sensación de inestabilidad a la marcha y temblores en las manos que aumentan progresivamente iniciándose estudio por Servicio de neurología.
+Exploración física y pruebas complementarias: A la exploración física no se observa déficit motor pero sí disminución de la sensibilidad vibratoria en ambas EEII, reflejos osteotendinosos (ROT) vivos y reflejo cutaneoplantar (RCP) en extensión. La resonancia magnética nuclear (RMN) no mostró lesiones a nivel cerebral o espinal, el análisis del líquido cefalorraquídeo (LCR) mostró pleocitosis linfocitaria sin bandas oligoclonales, los potenciales evocados resultaron alterados a nivel tibial y fueron los test serológicos, ELISA, y la reacción en cadena de la polimerasa (PCR) los que fueron positivos para HTLV-I en LCR y sangre en el primer caso y en sangre la PCR. Se demostró una alta carga viral.
+Evolución y comentarios: En estos momentos el paciente es dependiente para funciones básicas de la vida diaria como aseo, deambulación (se desplaza en silla de ruedas), alimentación (no es capaz de sostener una cuchara)
+Diagnóstico Principal: paraparesia espástica tropical (TSP)
+Tratamiento: Ha rechazado tratamiento con Interferón por la posibilidad de rechazo del trasplante.Desde punto vista de la función renal, en todo momento se ha mantenido correcta con niveles de creatinina oscilantes entre 1-1-2.
+Remitido por: Dr. Ignacio Heras Rincón. Hospital Universitario 12 de octubre. Avenida de Córdoba s/n, 28041 Madrid, España Email: nachohr1@hotmail.com

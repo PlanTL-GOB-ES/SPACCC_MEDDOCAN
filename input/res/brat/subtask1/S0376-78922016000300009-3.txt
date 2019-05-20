@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Silvia.
+Apellidos: Flores Castillo.
+NHC: 0766208.
+Domicilio: Calle fermin caballero 19, 5D.
+Localidad/ Provincia: Valladolid.
+CP: 28031.
+Datos asistenciales.
+Fecha de nacimiento: 03/01/1940.
+País: España.
+Edad: 65 años  Sexo: Femenino.
+Fecha de Ingreso: 12/11/2016.
+Servicio: Oftalmologia.
+Episodio: 756937462.
+Médico: Juan Velásquez López  NºCol: 06 02 76485.
+Varón de 72 años de edad con resección de dorso y paredes laterales nasales por carcinoma basocelular en múltiples focos de dorso nasal. Reconstrucción con colgajo frontal paramediano con base estrecha después de conocer los límites quirúrgicos negativos de la biopsia por congelación. Autonomización del colgajo a las 3 semanas de postoperatorio.
+
+Dirección para correspondencia: Dra. Jezabel de Abullarade Servicio de Cirugía Plástica del I.S.S.S. Unidad Médica Atlacatl-Hospital Roma Blvd. Venezuela y C. El Progreso, Colonia Roma San Salvador, El Salvador, Centroamérica. jmsampi@gmail.com

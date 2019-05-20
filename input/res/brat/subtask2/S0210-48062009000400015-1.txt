@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Elena.
+Apellidos: Alonso Lestayo.
+NHC: 79431598.
+NASS: 54 78356340 76.
+Domicilio: Calle Puerto de Jarama, 54, 2 B.
+Localidad/ Provincia: Sevilla.
+CP: 20002.
+Datos asistenciales.
+Fecha de nacimiento: 16/018/1961.
+País: España.
+Edad: 63 años  Sexo: M.
+Fecha de Ingreso: 05/05/2016.
+Servicio: Oftalmologia.
+Episodio: 94565643.
+Médico: Alfredo Mogedas Vergara  NºCol: 11 11 25890.
+Mujer de 82 años, que ingresa tres días después de sufrir una caída casual en su domicilio, habiendo estado encamada en casa durante este tiempo. Se le encuentra fractura compleja del anillo pelviano, otras fracturas varias en extremidades e hiponatremia grave. En estudio de TAC, existía una rotura extraperitoneal de la vejiga coincidiendo con impronta de hueso isquion izquierdo, sin extravasado perivesical significativo. Debido a la edad y al tiempo transcurrido desde el traumatismo, se optó por hacer tratamiento conservador de las fracturas, y sondaje permanente hasta cicatrización de la lesión vesical extraperitoneal, quedando a cargo del Servicio de Nefrología para compensar los trastornos electrolíticos. A los 25 días de hospitalización presenta episodios febriles y se encuentra un absceso inguinal izquierdo con trayecto fistuloso hasta la cara anterior del muslo, y un nuevo TAC muestra persistencia de la rotura vesical con fuga de contraste por el trayecto fistuloso, formando un absceso. Se drenó el absceso y reparó quirúrgicamente la vejiga, con curación de las heridas sin secuelas.
+
+Dirección para correspondencia: Dr. Luis A. Fariña Servicio de Urología. Hospital POVISA Salamanca 5 - 36211 Vigo, Pontevedra Tel.: 986 413144 E-mail autor: luisfarina@yahoo.com Información: Nota clínica

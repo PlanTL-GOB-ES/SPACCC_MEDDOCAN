@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Alvaro.
+Apellidos: Pascual Ferrer.
+NHC: 6846735.
+NASS: 89 45698395 62.
+Domicilio: Calle, General Yagüe, 28.
+Localidad/ Provincia: Pamplona.
+CP: 28300.
+Datos asistenciales.
+Fecha de nacimiento: 29/12/2017.
+País de nacimiento: España.
+Edad: 68 años  Sexo: M.
+Fecha de Ingreso: 19/06/2016.
+Médico: José Francisco Juan Martiñena   NºCol: 08 20 52485.
+Varón de 15 meses de edad, de padres consumidores habituales de salicilatos, que ingresó en nuestro hospital por presentar un cuadro de estupor, vómitos y diarrea, de evolución tórpida que desembocó en la muerte del paciente a las 48 horas de su ingreso, por coma profundo y fracaso multiorgánico. La analítica del paciente mostró una intensa elevación de las transaminasas.
+En la necropsia se observó una marcada hepatomegalia con esteatosis severa.
+El estudio histológico confirmó el depósito graso intracelular y su carácter microgotular.
+
+Dirección para correspondencia: Correo electrónico: mdev183@hotmail.com (M. Valdenebro).

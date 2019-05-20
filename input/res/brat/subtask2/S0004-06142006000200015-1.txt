@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Víctor .
+Apellidos: Dos Santos Riquelme.
+NHC: 3746531.
+NASS: 23 47874560 11.
+Domicilio: P/ de ALicante, 7, 8 A.
+Localidad/ Provincia: Barcelona.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 13/01/1962.
+País de nacimiento: España.
+Edad: 73 años  Sexo: H.
+Fecha de Ingreso: 13-noviembre-2017.
+Médico: Valentina Fernández Ladrón  NºCol: 37 37 98562.
+Presentamos el caso de una paciente mujer de 64 años sin antecedentes urológicos de interés, que refiere hematuria de cuatro meses de evolución con incontinencia urinaria por urgencia asociada, y a la que se detecta durante revisión ginecológica rutinaria una neoformación intraluminal vesical que interesa cara anterior, cúpula y fondo - evidenciada ecográficamente.
+La exploración física sólo permitió poner de manifiesto molestias hipogástricas con la palpación bimanual abdóminovaginal, así como dudoso efecto masa concomitante. Los parámetros analíticos básicos resultaron dentro de la normalidad.
+Se realizó urografía intravenosa, donde se demostró un defecto de repleción coincidente con la localización ecográfica de la neoformación ya descrita. Posteriormente se procedió a practicar una cistoscopia, en la que se pudo apreciar la existencia de una lesión mixta, con áreas sólidas y papilares, localizada predominantemente en pared anterior y cúpula vesical.
+Se indicó la realización de resección transuretral de la neoformación. El resultado del estudio anatomopatológico e inmunohistoquímico - positividad para actina, desmina y vimentina - fue compatible con leiomiosarcoma.
+
+El estudio de extensión - tomografía axial computerizada y gammagrafía ósea - permitió descartar la existencia de afectación regional o a distancia, ante lo cual se procedió a practicar exanteración pélvica anterior y ureterostomía cutánea. El estudio histológico de la pieza de cistectomía demostró presencia de intensos cambios inflamatorios crónicos vesicales,tejido de granulación, y células gigantes multinucleadas, con ausencia de células neoplásicas, y sin afectación de cadenas linfáticas iliobturatrices (pT0N0).
+Tras un año de seguimiento, no se ha evidenciado recidiva neoplásica.
+
+Dirección para correspondencia Nicolás Alberto Cruz Guerra. Av. de Requejo, nº 24, portal 1, 10º D. 49003. Zamora. (España). ncruz_g@hotmail.com

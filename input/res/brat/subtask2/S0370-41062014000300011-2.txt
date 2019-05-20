@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Jose Antonio.
+Apellidos: Narvaez Castro.
+NHC: 3894762.
+Domicilio: Av. Fisterra, 72 .
+Localidad/ Provincia: Valladolid.
+CP: 08001.
+Datos asistenciales.
+Fecha de nacimiento: 19/03/1940.
+País de nacimiento: España.
+Edad: 35   Sexo: H.
+Fecha de Ingreso: 14/10/2017.
+Médico: Héctor Pastor Navarro 
+Varón de 14 años, con antecedente de convulsiones febriles en la primera infancia, remitido a Cardiología Infantil al objetivarse de forma casual presencia de dextrocardia en radiografía solicitada para evaluación de escoliosis. No refería clínica cardiológica.
+
+En el ECG se objetivó eje QRS +120°, eje onda P +150°, QRS estrecho de voltaje atenuado en precordiales izquierdas, compatible con el hallazgo radiológico. Se confirmó dextrocardia especular sin anomalías asociadas en ecocardiografía doppler. En ecografía abdominal el hígado se encontró de características normales localizado en hipocondrio izquierdo con vías biliares normales y el bazo de aspecto normal localizado en hipocondrio derecho, todos ellos hallazgos compatibles con situs inversus totalis sin alteraciones en los flujos vasculares. No ópoliesplenia.
+
+Correspondencia a: María Juncos C. E-mail: mariajuncl@hotmail.com

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Iker .
+Apellidos: Masso Cuadrado.
+NHC: 2689756.
+Domicilio: AV. Monforte de Lemos, 27, 3 izq..
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 19/05/2001.
+País: España.
+Edad: 13 años Sexo: H.
+Fecha de Ingreso: 06/09/2014.
+Médico: Estefanía Ballesteros Moya NºCol: 28 28 65802.
+Informe clínico del paciente: Niño de 13 años sin antecedentes personales de interés. Como antecedente familiar relevante destacaba un hermano fallecido por tumor de Wilms. Consultó por síntomas miccionales (disuria, polaquiuria) sin otra sintomatología. La tira reactiva de orina fue negativa. Se inició tratamiento con trimetoprim-sulfametoxazol hasta obtener el resultado del urocultivo, que fue informado como estéril. Ante la ausencia de mejoría tras una semana, acudió al Servicio de Urgencias. En la anamnesis asociaba síntomas miccionales y anuria de 18 horas de evolución, junto con dolor abdominal localizado en el hipogastrio y la fosa ilíaca derecha. No refería antecedentes de cirugías, ni fiebre desde el inicio del cuadro. En la exploración, presentaba buen estado general sin signos de deshidratación, y constantes dentro de los valores normales. La auscultación cardiopulmonar fue normal. En cuanto a la exploración abdominal, la palpación resultaba dolorosa a nivel del hipogastrio y la fosa ilíaca derecha, con signos locales de irritación peritoneal. No presentaba globo vesical. El resto de la exploración no mostraba hallazgos relevantes.
+Las pruebas analíticas no mostraban hallazgos de interés: leucocitos 5400 μl, neutrófilos 2370 μl (44%), hemoglobina 13,9 mg/dl, proteína C reactiva <2,9 mg/l. Se realizó una radiografía abdominal, que no mostró alteraciones, y una ecografía abdominal sin hallazgos en la vía urinaria, con vejiga prácticamente vacía.
+Sin embargo, se visualizó un apéndice engrosado de 8 mm con líquido libre periapendicular y engrosamiento de la grasa adyacente ; hallazgos compatibles con apendicitis aguda.
+Se realizó infusión de fluidos intravenosos en régimen de expansión, obteniendo una diuresis adecuada en poco tiempo. Dado el diagnóstico de apendicitis aguda, fue intervenido bajo anestesia general identificándose apendicitis flemonosa y realizándose apendicectomía. La evolución posterior fue favorable, sin que se produjeran complicaciones postoperatorias.
+Remitido por: Dra. Estefanía Ballesteros Moya. estefania0687@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="32" text="Iker" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="46" end="60" text="Masso Cuadrado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="67" end="74" text="2689756" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T15" start="87" end="120" text="AV. Monforte de Lemos, 27, 3 izq." TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="144" end="150" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="156" end="161" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="205" end="215" text="19/05/2001" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="223" end="229" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="237" end="244" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="251" end="252" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="272" end="282" text="06/09/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="292" end="318" text="Estefanía Ballesteros Moya" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="326" end="337" text="28 28 65802" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="369" end="373" text="Niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="377" end="384" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="474" end="481" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="2372" end="2398" text="Estefanía Ballesteros Moya" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2400" end="2425" text="estefania0687@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

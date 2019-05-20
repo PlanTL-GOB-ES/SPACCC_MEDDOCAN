@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Esteban.
+Apellidos: Suarez Cuenca.
+NHC: 3245789.
+Domicilio: Calle Luis de Morales, 2, 5C.
+Localidad/ Provincia: Madrid.
+CP: 28034.
+Datos asistenciales.
+Fecha de nacimiento: 23/11/1995.
+País: España.
+Edad: 54 años  Sexo: H.
+Fecha de Ingreso: 13/11/2017 .
+Médico: Gracia María García Lara  NºCol: 31 31 54702.
+Se trata de una mujer de 38 años de edad con diplopía, cefalea crónica en el hemicráneo izquierdo, vértigo y dolor lumbar crónico. En el examen físico se encontró paresia del VI par craneal derecho sin signos piramidales ni extrapiramidales. En el examen oftalmológico se descartaron alteraciones en la retina y la cavidad vítrea. Se practicó una resonancia magnética de columna lumbar, la cual reveló atrofia de los músculos paraespinales. En la resonancia magnética y la tomografía computadorizada de cerebro se detectaron calcificaciones en los núcleos basales y el tálamo, y una lesión quística en el tallo que comprometía el núcleo del VI nervio craneal. Los cambios indicativos de leucoencefalopatía eran discretos y predominaban alrededor del trígono del ventrículo lateral ( lateral ventricle atrium ).
+
+Dirección para correspondencia: mariajosenieto.mjnfp@gmail.com (M.J. Nieto Fernández-Pacheco).

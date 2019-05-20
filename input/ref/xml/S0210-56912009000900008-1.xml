@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Carlos.
+Apellidos: Tarrega Olivas.
+NHC: 3784635.
+NASS: 08 94375685 61.
+Domicilio: Av. Hospitalet, 5, Bajo A.
+Localidad/ Provincia: Barcelona.
+CP: 08001.
+Datos asistenciales.
+Fecha de nacimiento: 13/11/1948.
+País de nacimiento: España.
+Edad: 66 años Sexo: H.
+Fecha de Ingreso: 04/07/2015.
+Médico: Raul Ferrer Roca NºCol: 08 08 54882.
+Informe clínico del paciente: varón de 66 años con antecedentes de neoplasia pulmonar (carcinoma no célula pequeña estadio iiiB) tratado con quimioterapia y radioterapia, que queda libre de enfermedad, con aparición posterior de una metástasis cerebral sobre la que se realiza resección completa pendiente de iniciar radioterapia holocraneal. Acude a urgencias por clínica de disnea a mínimos esfuerzos de 10 días de evolución y fiebre de hasta 39°C. Niega tos y expectoración. No destaca ningún antecedente epidemiológico de interés. Inició tratamiento antibiótico de forma ambulatoria sin presentar mejoría. A su llegada presenta insuficiencia respiratoria grave que requiere FiO2 elevadas, por lo que ingresa en la unidad de críticos de nuestro centro. Presenta rápida progresión de la insuficiencia respiratoria y a las 24h precisa intubación orotraqueal y ventilación mecánica. La radiografía de tórax inicial muestra un infiltrado alveolar en la base izquierda con aparición de infiltrados pulmonares bilaterales en controles posteriores. Se realiza cateterización de la arteria pulmonar que descarta fallo cardíaco, con presión capilar pulmonar inferior a 18mmHg, y que muestra signos de hipertensión pulmonar moderada. Analíticamente, destaca la aparición de coagulación intravascular diseminada (D-dímero mayor a 20.000ng/ml, trombocitopenia máxima de 47.000/l y tiempo de protrombina máximo de 1,58 ratio), fracaso renal agudo con cifras de creatinina de hasta 2,33mg/dl y elevación de la lactato deshidrogenasa (LDH) con valores máximos de 2.305U/l. Se inicia tratamiento antibiótico de forma empírica con piperacilina-tazobactam y azitromicina, y se añaden posteriormente corticoides. Dada la mala evolución, con persistencia de insuficiencia respiratoria grave y empeoramiento de los infiltrados pulmonares de causa no filiada, se realiza TC torácica que muestra afectación parenquimatosa bilateral muy extensa en vidrio deslustrado, con un aspecto radiológico que indica daño alveolar difuso o proceso infeccioso de características atípicas. Se realiza lavado broncoalveolar con cultivo bacteriológico negativo, Ziehl-Nielsen negativo y Pneumocystis jirovecii negativo. Se solicitan serologías de neumonías atípicas (Legionella, Chlamydia, etc.) que son negativas y, finalmente, ante las características clínicas y en situación de pandemia para el virus influenza A (H1N1), se sospecha probable infección por el virus, se realiza frotis nasal y faríngeo, y la reacción en cadena de la polimerasa en tiempo real (RT-PCR) es positiva, por lo que se añade tratamiento con oseltamivir. El paciente presenta una buena evolución clínica con rápida mejoría de los infiltrados radiológicos, y se realiza el destete de la ventilación sin incidencias. Al paciente se lo dio de alta tras un mes de hospitalización.
+Ninguno de los profesionales sanitarios que atendió al paciente presentó síntomas indicativos de gripe en los días posteriores.
+Responsable clínico: Dr.  Raul Ferrer Roca. Correo Electronico: rferrer@tauli.cat
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="34" text="Carlos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="47" end="61" text="Tarrega Olivas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T1" start="68" end="75" text="3784635" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="83" end="97" text="08 94375685 61" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="110" end="135" text="Av. Hospitalet, 5, Bajo A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="159" end="168" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="174" end="179" text="08001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="223" end="233" text="13/11/1948" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="255" end="261" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="269" end="276" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="283" end="284" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T2" start="304" end="314" text="04/07/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="324" end="340" text="Raul Ferrer Roca" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="348" end="359" text="08 08 54882" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="391" end="396" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T5" start="400" end="407" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="3333" end="3349" text="Raul Ferrer Roca" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T3" start="3371" end="3388" text="rferrer@tauli.cat" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

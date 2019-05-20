@@ -1,0 +1,21 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 38	Alexandra.
+T2	NOMBRE_SUJETO_ASISTENCIA 50 61	Ramos Rubio
+T3	ID_ASEGURAMIENTO 83 97	78 25678945 63
+T4	CALLE 110 126	Avda. Huertos, 2
+T5	TERRITORIO 150 157	Badajoz
+T6	TERRITORIO 163 168	28029
+T7	PAIS 244 250	España
+T8	EDAD_SUJETO_ASISTENCIA 258 265	67 años
+T9	NOMBRE_PERSONAL_SANITARIO 357 380	Manuela Perayre Fuentes
+T10	SEXO_SUJETO_ASISTENCIA 411 416	varón
+T11	EDAD_SUJETO_ASISTENCIA 420 427	25 años
+T12	FECHAS 1497 3822	febrero de 2001 aparecen en una radiografía de tórax de control dos nódulos en lóbulo superior derecho, por lo que se realiza toracotomía y resección atípica de los mismos con linfadenectomía, siendo el resultado del estudio anatomopatológico de metástasis de sarcoma de Ewing.
+T13	NOMBRE_PERSONAL_SANITARIO 4293 4317	Loreto Fernández Lorente
+T14	HOSPITAL 4342 4374	Complejo Hospitalario de Navarra
+T15	CALLE 4375 4394	Calle Irunlarrea, 3
+T16	TERRITORIO 4396 4401	31008
+T17	TERRITORIO 4402 4410	Pamplona
+T18	TERRITORIO 4412 4419	Navarra
+T19	PAIS 4421 4427	España
+T20	CORREO_ELECTRONICO 4450 4481	ml.fernandez.lorente@navarra.es
+T21	CORREO_ELECTRONICO 4483 4500	loretofer@msn.com

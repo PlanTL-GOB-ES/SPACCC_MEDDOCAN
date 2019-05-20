@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Marcela.
+Apellidos: Brenes Cruz.
+NHC: 4568978.
+NASS: 65 29079703 30.
+Domicilio: Calle Ventisquero de la condesa, 14.
+Localidad/ Provincia: Murcia.
+CP: 30530.
+Datos asistenciales.
+Fecha de nacimiento: 13/04/1940.
+País: España.
+Edad: 74 años Sexo: M.
+Fecha de Ingreso: 30/05/2014.
+Servicio: Consultas Externas.
+Médico: Pablo Guzmán Martínez-Valls NºCol: 30 08 59710.
+Historia Actual: Paciente mujer de 74 años remitida desde Consulta Externa de Ginecología a Urología por Infecciones Urinarias (ITUs) de repetición con dolor hipogástrico de al menos seis meses de evolución.
+Dentro de sus antecedentes personales destaca histerectomía vía vaginal por prolapso uterino hacía siete meses en otro centro, precisó reingreso a los 18 días de la cirugía por fiebre y dolor, con diagnóstico de absceso de cúpula vaginal que drena espontáneamente, desapareciendo el cuadro clínico; las pruebas que le practicaron en dicho ingreso muestran: ECO y TC absceso en cúpula vaginal sin ningún otro hallazgo. No DM. No HTA. No alergias conocidas. No hematuria. No cólicos. Infecciones de orina esporádicas. G2 A0V2, no escapes.
+Cuando es remitida a nuestra consulta por la clínica miccional e ITU, acompaña Rx aparato urinario simple que es informada como normal, aunque se aprecia claramente contorno débilmente cálcico en pelvis en área vesical, y ecografía transvaginal que informa de probable litiasis vesical, diagnóstico por el cual junto a las infecciones de orina de repetición es remitido al Servicio de Urología de nuestro centro.
+Ante el hallazgo en la Rx. simple que acompaña y la ecografía transvaginal con litiasis intravesical, no móvil y con el antecedente quirúrgico referido, se sospecha desde el inicio la presencia de cuerpo extraño intravesical por probable pérdida de material utilizado en la cirugía.
+Se realiza uretrocistoscopia el mismo día de la consulta para confirmar sospecha diagnóstica que así se produce, apreciándose un gran "pelotón de gasas" adherida a la pared vesical que no se moviliza por estar calcificada; se solicita TC pélvico para valorar extensión y tamaño así como las relaciones con el área.
+Con el diagnóstico definitivo de litiasis intravesical por cuerpo extraño, abandonado probablemente en la cirugía de la histerectomía se propone extracción de la misma mediante cistoslitectomía o mas correctamente "cistogasomectomía" mediante apertura vesical a cielo abierto encontrando el cuerpo extraño descrito.
+Tras buena evolución la paciente está asintomática, han desaparecido las infecciones de orina de repetición, aunque en los dos años de seguimiento ha tenido un episodio aislado, la paciente realiza una vida absolutamente normal.
+Remitido por: Dr.  Pablo Guzmán Martínez-Valls Pz. de Pontevedra,2 Ed. ICA, Esc.2º,5ºC 30009 Murcia. (España). pabloguzman@terra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="35" text="Marcela" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="48" end="59" text="Brenes Cruz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="66" end="73" text="4568978" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="81" end="95" text="65 29079703 30" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="108" end="143" text="Calle Ventisquero de la condesa, 14" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="167" end="173" text="Murcia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="179" end="184" text="30530" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="228" end="238" text="13/04/1940" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="246" end="252" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="260" end="267" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="274" end="275" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="295" end="305" text="30/05/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="345" end="372" text="Pablo Guzmán Martínez-Valls" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="380" end="391" text="30 08 59710" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="419" end="424" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="428" end="435" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2713" end="2740" text="Pablo Guzmán Martínez-Valls" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2741" end="2780" text="Pz. de Pontevedra,2 Ed. ICA, Esc.2º,5ºC" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2781" end="2786" text="30009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2787" end="2793" text="Murcia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2796" end="2802" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2805" end="2825" text="pabloguzman@terra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

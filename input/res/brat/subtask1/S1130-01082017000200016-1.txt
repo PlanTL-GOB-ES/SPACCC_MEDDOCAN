@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Gabriel.
+Apellidos: Rivas Ibarra.
+NHC: 2956349.
+NASS: 95 68905862 03.
+Domicilio: Calle Fray Luis de León, 20 7D.
+Localidad/ Provincia: Madrid.
+CP: 13005.
+Datos asistenciales.
+Fecha de nacimiento: 21/03/1998.
+País de nacimiento: España.
+Edad: 16 años  Sexo: M.
+Fecha de Ingreso: 14/05/2009.
+Médico: Alexander José Finol Muñoz  NºCol: 28 28 95620.
+Se describen tres casos que asocian un consumo crónico de cannabis inhalado con diferentes cronologías que plantean una relación causal.
+Dirección para correspondencia: Alberto Fernández Atutxa. Servicio de Aparato Digestivo. Hospital Galdakao-Usansolo. Barrio Labeaga, s/n. 48960 Usansolo, Bizkaia e-mail: alberto.fernandezatucha@osakidetza.eus

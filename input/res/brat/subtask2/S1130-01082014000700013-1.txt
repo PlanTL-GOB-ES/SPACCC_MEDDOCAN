@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Natalia.
+Apellidos: Medina Narvaez.
+NHC: 8576744/322.
+NASS: 25 07825657 89.
+Domicilio: Calle Montevideo,66.
+Localidad/ Provincia: Ciudad Real.
+CP: 03698.
+Datos asistenciales.
+Fecha de nacimiento: 19/06/1983.
+País de nacimiento: España.
+Edad: 66 años  Sexo: Masculino.
+Fecha de Ingreso: 07/02/2018.
+Médico: Jose Luis Fernandez Copado.  NºCol: 28 28.
+Mujer de 34 años, embarazada de 30 semanas, con cavernomatosis portal desde los 7años. Durante la adolescencia presentó tres episodios de hemorragia digestiva alta secundarios a varices esofágicas (VE). Anticoagulada por trombosis venosa mesentérica aguda. En el primer trimestre del embarazo se retiraron los beta-bloqueantes y los anticoagulantes orales, y se pasó a heparina de bajo peso. En gastroscopia realizada para control de varices esofágicas 6 días antes del evento, se objetivaron VE grado I y II sin signos rojos.
+Acudió a urgencias por melenas e hipotensión arterial. En analítica destacaba hemoglobina 7,1 g/dl. Se realizó gastroscopia urgente en la que se observaron VE grado II con puntos rojos y sangrado activo, por lo que se realizó ligadura con bandas elásticas. Se decidió realizar cesárea urgente para extracción fetal por shock hipovolémico de la paciente y a continuación se inició tratamiento con somatostatina y se revisó endoscópicamente, objetivando el cese del sangrado. La recién nacida requirió cuidados en incubadora y tras unos días de ingreso ambas fueron dadas de alta.
+Dirección para correspondencia: Ricardo Romero Martín Urbanización Quinta del Sol, 32 28231 Las Rozas (Madrid) España E-mail: romeromartinricardo@hotmail.com

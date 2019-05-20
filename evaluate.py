@@ -4,6 +4,7 @@ import argparse
 from classes import i2b2Annotation, BratAnnotation, NER_Evaluation, Span_Evaluation
 from collections import defaultdict
 
+
 class evaluation(object):
 
     def __init__(self):
@@ -51,7 +52,7 @@ class evaluation(object):
                 self.format_name = 'xml'
                 self.subtracking(self.system)
             else:
-                Exception("Must pass brat or xml directory")
+                Exception("Must pass brat or ib2b directory")
 
     def checking(self,gs):
         gs = os.path.join(gs, self.format_name)
@@ -159,3 +160,4 @@ if __name__ == "__main__":
 
     x = evaluation()
     x.eval(args.input_dir, args.output_dir)
+

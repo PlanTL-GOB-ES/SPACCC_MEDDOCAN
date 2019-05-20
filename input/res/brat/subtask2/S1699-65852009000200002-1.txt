@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Pablo.
+Apellidos: Garcia Jurado.
+NHC: 8973589.
+NASS: 47 20939857 30.
+Domicilio: C/ Rodriguez Sahagun, 4.
+Localidad/ Provincia: Albacete.
+CP: 45005.
+Datos asistenciales .
+Fecha de nacimiento: 12/02/1999.
+País de nacimiento: España.
+Edad: 59 años  Sexo: M.
+Fecha de Ingreso: 03/05/2018.
+Médico: Pedro M. Garamendi  NºCol: 28 28 54112.
+Paciente de 22 años de edad, de género masculino, sin antecedentes médicos de importancia, con estado nutricional aparentemente bueno, orientado en espacio, tiempo, lugar, persona y autopsíquico, no fumador y sin alteraciones sistémicas. Al examen estomatológico se evidencia recesión gingival a nivel vestibular de órgano dentario 41, se realizaron mediciones con una sonda periodontal milimetrada la cual reveló una retracción del margen gingival de 8 mm a nivel vestibular a partir de la línea amelocementaria. La recesión gingival se extendía apical a la unión mucogingival, evidenciándose perdida de altura del periodonto proximal, la clasificación de la recesión fue consistente con clase II de Miller (7). Previo a la intervención quirúrgica se realizó un raspado y alisado del órgano dentario para detoxificar la superficie radicular expuesta.
+
+Dirección para correspondencia: Antonio José Díaz Caballero Universidad de Cartagena. Facultad de Odontología Departamento de investigación. Facultad Ciencias de la Salud. Campus Zaragocilla Cartagena, D.T., Colombia Correos electrónicos: antoniodiazc@yahoo.com adiazc1@unicartagena.edu.co

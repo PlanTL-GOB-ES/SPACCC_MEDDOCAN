@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Vanessa .
+Apellidos: Ramos Rubio.
+NHC: 311146762.
+NASS: 20 46381972 03.
+Domicilio: Paseo de la Castellana, 220, 4, A.
+Localidad/ Provincia: Pamplona.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 11/06/1963.
+País: España.
+Edad: 81 años  Sexo: H.
+Fecha de Ingreso: 04/08/2016.
+Servicio: Urologia.
+Episodio: 2788174.
+Médico: Noelia Rubio Álvaro   NºCol: 28 28 95185.
+Mujer de 58 años de edad con gastrectomía total con reconstrucción en Y de Roux por adenocarcinoma gástrico poco diferenciado difuso de Lauren hace 1 año. Necesitó una 2ª cirugía al mes por infiltración del rodete esofágico de la anastomosis y además, se añadió quimioterapia. Al año, se realiza una endoscopia alta por disfagia progresiva con pérdida de peso en la que se evidencia recidiva tumoral con estenosis esofágica asociada. Se decide la colocación de una prótesis no recubierta de 7 cm, desapareciendo la disfagia y permitiendo la ingesta. Las biopsias tomadas de la estenosis fueron positivas para malignidad. La paciente recibió quimioterapia paliativa.
+Falleció a los 8 meses de la colocación de la prótesis por progresión tumoral, carcinomatosis peritoneal y metástasis pulmonares sin disfagia.
+Dirección para correspondencia: Lucía Sierra Santos. C/ Peña Hoyuela, 17. C.P. 28413 El Boalo. Madrid (España). Correo electrónico: lusierra@hotmail.com

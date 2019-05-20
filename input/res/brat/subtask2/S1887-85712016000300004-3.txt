@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Bernabé.
+Apellidos: Orozca Puig.
+NHC: 4835758.
+NASS: 83 46578345 65.
+Domicilio: Av. Rianxo 72, 3 A.
+Localidad/ Provincia: Madrid.
+CP: 46002 .
+Datos asistenciales.
+Fecha de nacimiento: 08/05/1993.
+País de nacimiento: España.
+Edad: 33 años  Sexo: H.
+Fecha de Ingreso: 18/01/2018.
+Servicio: Traumatologia.
+Médico: Maria Lourdes Maldonado Morales  NºCol: 28 28 57941.
+Varón, de 33 años (175 cm, 80 Kg), ASA I U, que procedente de un buque de la Armada española es evacuado a nuestro centro con diagnóstico de rotura del tendón de Aquiles izquierdo. Al paciente se le monitorizó de forma semejante a los anteriores casos clínicos (SaO2, frecuencia cardíaca, tensión arterial no invasiva, temperatura, capnografía y grado de hipnosis mediante el monitor BIS®). Tras administración de 250 ml de coloide en bolo iv, se realizó anestesia intradural empleando bupivacaína 0,5% hiperbara. La misma medicación ansiolítica e hipnótica, la profilaxis antibiótica, antiácida, antiemética y antifibrinolítica fue igual que en los pacientes previos, realizándole al paciente una sutura percutánea de la lesión. Se siguió el mismo protocolo y el paciente fue dado de alta a sala de hospitalización.
+La monitorización BIS® mostró unos valores comprendidos entre 97 y 68, la curva de la capnografía fue normal y la valoración de la sedación en la unidad de reanimación postquirúrgica fue máxima (10 puntos en la Escala de Aldrete).
+
+Dirección para correspondencia: Alberto Puente Barbas. Servicio de Anestesiología, Reanimación y Terapéutica del Dolor del Hospital Central de la Defensa "Gómez Ulla" de Madrid. Glorieta del Ejército 1. CP: 28047 Madrid. España. Email: albertopuentebarbas@gmail.com

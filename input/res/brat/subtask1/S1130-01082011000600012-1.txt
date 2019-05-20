@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Santiago.
+Apellidos: Bazan Castillo.
+NHC: 8347852.
+NASS: 56 89527056 79.
+Domicilio: Avenida de la albufera 56. 3D.
+Localidad/ Provincia: Concepción.
+CP: 28046.
+Datos asistenciales.
+Fecha de nacimiento: 13/05/1955.
+País de nacimiento: España.
+Edad: 27 años  Sexo: H.
+Fecha de Ingreso: 30/01/2016.
+Servicio: Urologia.
+Episodio: 789431641.
+Médico: Maria Vicente Sallais  NºCol: 28 28 54710.
+Mujer de 66 años de edad con epigastralgia de 15 días de evolución sin otra sintomatología. En la ecografía abdominal se aprecia absceso hepático a nivel de segmentos II y IV, con diámetro máximo de 10 cm. En la tomografía se observa un cuerpo extraño metálico en el interior de la colección, probablemente una aguja. Se decide intervención de urgencias para drenaje y retirada del cuerpo extraño, encontrándose una perforación a nivel de la cara anterior gástrica que requiere sutura simple. La anatomía patológica clarifica el origen del cuerpo extraño, ya que no es una aguja, sino un hueso, probablemente del pollo que la paciente ingirió previamente de forma accidental.
+Dirección para correspondencia: Dra. Teresa Pérez de la Fuente Servicio de Cirugía Plástica, Fundación Jiménez Díaz Avd. Reyes Católicos 2 28035, Madrid, España Correo electrónico: tepefu@yahoo.es

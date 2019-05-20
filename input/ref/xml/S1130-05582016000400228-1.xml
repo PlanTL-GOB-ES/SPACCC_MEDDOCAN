@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Fátima.
+Apellidos: Moreno Diaz.
+NHC: 2568474.
+Domicilio: Calle Arabia 12, Bajo Der..
+Localidad/ Provincia:Málaga.
+CP: 29001.
+Datos asistenciales.
+Fecha de nacimiento: 23/03/2008.
+País: España.
+Edad: 9 años Sexo: M.
+Fecha de Ingreso: 12/12/2017.
+Médico: Javier Paz Moreno-Arrones  NºCol: 29 29 13247.
+Historia Actual: Paciente mujer de 9 años de edad que a partir de los 3 años presenta protrusión a nivel de la raíz nasal. En el último año, previo al ingreso, se detecta incremento de dicha deformidad, que provoca alteración cosmética y ansiedad con problemas de escolarización.
+Exploración física: En la exploración física únicamente destaca abultamiento frontal sobre raíz nasal sin dolor a la palpación ni otros datos patológicos relevantes.
+Resumen de pruebas complementarias: El estudio con tomografía computarizada (TC) craneal y resonancia magnética (RM) demuestra deformidad del seno frontal, sin ocupación del mismo; paredes del seno de grosor normal. No hallazgos de lesiones intracraneales. Además presenta de manera concomitante lesión parietal derecha compatible con foco de displasia fibrosa.
+El estudio hormonal revela niveles dentro de la normalidad para la edad.
+La paciente es intervenida quirúrgicamente, practicándose incisión coronal que deja expuestos hueso frontal y raíz nasal, pudiéndose apreciar un abombamiento del seno frontal. Se realiza multifragmentación y remodelación de la pared anterior del seno conservando su mucosa, utilizando para ello bisturí ultrasónico. Se reconstruye el defecto óseo con malla reabsorbible (ácidos poliláctico y poliglicólico). Por otra parte se realiza resección y remodelamiento de la lesión parietal reponiendo cortical interna.
+Evolución y comentarios: La paciente no presenta complicaciones posquirúrgicas presentando una evolución favorable. El resultado cosmético posterior fue óptimo. El estudio histológico de la lesión parietal fue no patológico. Se realizó seguimiento clínico de la paciente durante únicamente un año, debido a traslado de domicilio por causas familiares, no presentando datos de recidiva ni molestias en región de intervención.
+Remitido por: Javier Paz Moreno-Arrones Correo electrónico: javier_paz_moreno@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="9" end="15" text="Fátima" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="28" end="39" text="Moreno Diaz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="46" end="53" text="2568474" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T15" start="66" end="92" text="Calle Arabia 12, Bajo Der." TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="115" end="121" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="127" end="132" text="29001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="176" end="186" text="23/03/2008" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="194" end="200" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="208" end="214" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="221" end="222" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="242" end="252" text="12/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="262" end="287" text="Javier Paz Moreno-Arrones" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="296" end="307" text="29 29 13247" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="335" end="340" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="344" end="350" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T1" start="379" end="385" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="2141" end="2166" text="Javier Paz Moreno-Arrones" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T2" start="2187" end="2216" text="javier_paz_moreno@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

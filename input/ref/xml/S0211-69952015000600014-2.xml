@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Izan.
+Apellidos: Arismendi Paz.
+NHC: 8473653.
+Domicilio: Calle de Andrés Segovia, 6, 8 A.
+Localidad/ Provincia: Madrid.
+CP: 28046.
+Datos asistenciales.
+Fecha de nacimiento: 27/06/2003.
+País de nacimiento: España.
+Edad: 11 años Sexo: H.
+Fecha de Ingreso: 04/11/2014.
+Médico:  Arturo Sánchez Jiménez NºCol: 28 28 57402.
+Informe clínico del paciente: Varón diagnosticado de glomerulonefritis rápidamente progresiva con anticuerpos antimembrana basal glomerular, tratado con esteroides, ciclofosfamida y plasmaféresis sin resultados. Durante los 5 años que permaneció en DP sufrió 10 peritonitis, 8 por Staphilococcus aureus. La última fue por Candida albicans; por ello se retiró el catéter y se transfirió a HD.
+Era un transportador medio-alto inicialmente, transformándose en alto transportador. Seis meses después presentó dolor abdominal y efecto masa en hipogastrio. En la TAC apareció engrosamiento peritoneal, colección líquida pélvica con septos que englobaba asas, y una gran dilatación gástrica e intestinal. El paciente desestimó el tratamiento quirúrgico, necesitó varios ingresos por oclusión intestinal, sufrió progresivo deterioro del estado general y falleció poco después.
+Responsable clínico: Dr. Arturo Sánchez Jiménez. Correos Electrónicos: jesastur@hotmail.com, jesastur@hotmail.com. Hospital Universitario La Paz Paseo de la Castellana, 261, 28046 Madrid
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="32" text="Izan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="45" end="58" text="Arismendi Paz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="65" end="72" text="8473653" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="85" end="116" text="Calle de Andrés Segovia, 6, 8 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="140" end="146" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="152" end="157" text="28046" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="201" end="211" text="27/06/2003" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="233" end="239" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="247" end="254" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="261" end="262" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="282" end="292" text="04/11/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="303" end="325" text="Arturo Sánchez Jiménez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T1" start="333" end="344" text="28 28 57402" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="376" end="381" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1240" end="1262" text="Arturo Sánchez Jiménez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T7" start="1286" end="1306" text="jesastur@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T6" start="1308" end="1328" text="jesastur@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T5" start="1330" end="1359" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1360" end="1387" text="Paseo de la Castellana, 261" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1389" end="1394" text="28046" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1395" end="1401" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

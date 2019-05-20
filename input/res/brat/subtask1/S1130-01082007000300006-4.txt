@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Gerard.
+Apellidos: Orozca Bueno.
+NHC: 3874564.
+NASS: 43 50259874 90.
+Domicilio: Calle de Emilia 46, Bajo C .
+Localidad/ Provincia: Chaco.
+CP: 39005.
+Datos asistenciales.
+Fecha de nacimiento: 21/09/1975.
+País de nacimiento: España.
+Edad: 58  Sexo: M.
+Fecha de Ingreso: 19/03/2017.
+Médico: Enrique Ramos Barselo   NºCol: 47 47 92386.
+CSR. Mujer de 42 años. Sobrina. Casada y con un hijo también celiaco (Caso 9). Su madre CRB de 65 años, hermana mayor del caso índice, no cumple criterios clínico-analíticos de EC, pero presenta anticuerpos anti-tiroideos persistentemente positivos a título alto, con normofunción tiroidea. Padece rinitis crónica y elipepsia desde la infancia y presenta defectos de maduración del esmalte y lesiones cutáneas recurrentes, diagnosticadas de dermatitis herpetiforme (DH). Dolores abdominales frecuentes desde la juventud, con hábito intestinal normal. Presenta hipotiroidismo asociado en tratamiento hormonal sustitutivo con Levothroid-50 mcg (1 comp./día). Se objetivó discreta trombopenia persistente (142.000), sin leucopenia, ni anemia asociadas. La TTG ha sido ligeramente positiva (1,8 U/ml). Es DQ2 (-) y DQ8 (+). Las biopsias duodenales muestran la presencia de una importante inflamación crónica en la lámina propia (estadio 2 de Marsh).
+Dirección para correspondencia: Luis Rodrigo. Servicio de Digestivo. Hospital Universitario Central de Asturias. C/ Celestino Villamil, s/n. 33006 Oviedo. Fax: 985-27-36-14. e-mail: lrodrigos@terra.es

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Ernesto.
+Apellidos: Cruz Moya.
+NHC: 4805739.
+Domicilio: C/ Colombia, 33, 4D.
+Localidad/ Provincia: Madrid.
+CP: 28013.
+Datos asistenciales.
+Fecha de nacimiento:15/05/2005.
+País de nacimiento: España.
+Edad: 11 años Sexo: H.
+Fecha de Ingreso: 07/10/2016.
+Médico: David Crespo Marcos NºCol: 28 28 20148.
+Informe clínico del paciente: paciente de 11 años de edad (35 kg de peso) programado para tenotomía de rodilla bilateral para corrección de "flexo" de rodilla que le impedía el descanso en decúbito supino. Había sido diagnosticado de DMD a los 3 años de vida mediante estudio genético, y debido a la progresión de la enfermedad necesitaba una silla de ruedas desde los ocho. En el preoperatorio destacaba una elevación de transaminasas (AST 131 mU.ml-1, ALT 187 mU.ml-1) y CPK 4226 UI/l. El resto del control bioquímico, el hemograma y la coagulación se encontraban dentro de la normalidad. En la radiografía de tórax se objetivó aumento de trama broncovascular en bases. No se pudo realizar estudio funcional respiratorio por falta de colaboración del paciente, pero el último de que se disponía (de los 8 años de edad) mostraba un transtorno restrictivo severo. En el electrocardiograma (ECG) se observaron ondas Q profundas en las derivaciones precordiales izquierdas, sin alteraciones en la repolarización.
+Se premedicó al paciente con 7 mg de midazolam por vía oral. La inducción anestésica se realizó tras canalización de una vía periférica con propofol (2 mg.kg-1) y 0,5 µg.kg-1 de remifentanilo en bolo lento. La intubación endotraqueal se realizó con un tubo flexometálico de calibre 6.5 Fr. con neumotaponamiento tras bloqueo neuromuscular con mivacurio (0,2 mg.kg-1). El mantenimiento anestésico se realizó con propofol (10-4 mg.kg-1) para conseguir un índice biespectral (BIS) de 40-60, remifentanilo (0,25 µg.kg-1.min-1) y mivacurio (0,6 mg.kg-1.h-1) con el paciente ventilado mecánicamente con O2-aire. Con el paciente en decúbito lateral, antes de colocarle en decúbito prono para ser intervenido, se realizó una anestesia epidural a nivel de L4-L5 con una aguja de Tuohy de calibre 18G, a través de la que se colocó un catéter (20G) para analgesia postquirúrgica. Se administraron 2 ml de bupivacaína 0,25% con vasoconstrictor como dosis de prueba y 12 ml de ropivacaína 0,2%. La intervención transcurrió sin incidencias y el paciente pudo ser extubado al final de la cirugía, con una buena mecánica ventilatoria. La recuperación del bloqueo muscular con mivacurio, monitorizada con neuroestimulador, no se prolongó y no fue necesaria la reversión del bloqueo muscular. El paciente ingresó en planta a cargo de traumatología, y siguiendo control por la Unidad del Dolor de nuestro hospital. Como analgesia postquirúrgica se administraron 7 ml.h-1 de ropivacaína al 0,18% con 1 µg.ml-1 de fentanilo por el catéter epidural lumbar, consiguiendo una analgesia adecuada (0 sobre 10 en la escala analógica visual), sin embargo, a las ocho horas de la cirugía, avisaron de planta debido a que el paciente presentaba un bloqueo motor completo (Bromage grado 3) con nivel sensitivo en T10, que revirtió tres horas después de reducir la concentración de anestésico local (AL) a la mitad. No se registraron otros eventos adversos. La analgesia epidural fue eficaz (EVA < 2) con la nueva concentración de AL. El catéter epidural se retiró en el quinto día del postoperatorio.
+Responsable clínico: Dr.  David Crespo Marcos dcrespo@fhalcorcon.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="35" text="Ernesto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="48" end="57" text="Cruz Moya" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="64" end="71" text="4805739" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T15" start="84" end="103" text="C/ Colombia, 33, 4D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="127" end="133" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="139" end="144" text="28013" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="187" end="197" text="15/05/2005" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="219" end="225" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="233" end="240" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="247" end="248" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="268" end="278" text="07/10/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="288" end="307" text="David Crespo Marcos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="315" end="326" text="28 28 20148" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T8" start="370" end="377" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="572" end="578" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T2" start="1133" end="1139" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="3435" end="3454" text="David Crespo Marcos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3455" end="3476" text="dcrespo@fhalcorcon.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

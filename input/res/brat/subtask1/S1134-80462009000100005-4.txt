@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Miguel.
+Apellidos: Morán Romero.
+NHC: 4358970.
+NASS: 29 23892036 09.
+Domicilio: Calle Virgen de la Paloma, 55.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 04/7/1952.
+País: España.
+Edad: 41 años  Sexo: H.
+Fecha de Ingreso: 20/06/2015.
+Médico: Héctor Pastor Navarro  NºCol: 28 28.
+Paciente mujer de 70 años de edad, diagnosticada de hernia discal y espondilolistesis, en tratamiento con Durogesic® 75 μg/h durante 4 años, con buena efi cacia y seguridad. Se cambia en la farmacia por fentanilo genérico, y se nota un empeoramiento del cuadro doloroso. Se vuelve a cambiar a Durogesic®, y de nuevo se estabiliza la analgesia.
+Dirección para correspondencia: Carmen Maciá-Bobes C/ Pablo Laloux, 13, esc. sur, 6o A 33405 Salinas (Asturias) E-mail: cmacb@arrakis.es

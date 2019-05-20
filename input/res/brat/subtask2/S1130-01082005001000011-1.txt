@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Soledad.
+Apellidos: Pinell Castillo.
+NHC: 7346578.
+NASS: 43 57645358 39.
+Domicilio: C/ Orcasur, 6, Bajo A.
+Localidad/ Provincia: Tudela.
+CP: 31500.
+Datos asistenciales.
+Fecha de nacimiento: 17/4/1958.
+País de nacimiento: España.
+Edad: 58 años Sexo: M.
+Fecha de Ingreso: 21/09/2016.
+Médico: Catalina Isabel González Rodríguez NºCol: 31 31 24603.
+Informe clínico del paciente: Mujer de 58 años remitida por malestar abdominal. Intervenida de carcinoma de mama en 1996. Un año después, en ecografía y TAC abdominales de control, se descubre una masa multiquística pancreática, con punción aspiración biopsia negativa para células malignas. Asintomática hasta el año 2000 en que comenzó con dolor abdominal sordo. La exploración física y analítica fue rigurosamente normal. Marcadores tumorales en sangre (CEA, Ca 125 y Ca 19.9) negativos. Ecografía abdominal: múltiples formaciones quísticas a nivel de toda la celda pancreática, multitabicadas, con componente sólido y algunas con microcalcificaciones, de diverso tamaño, siendo el mayor de 3 cm, y sin flujo en su interior. Todo ello compatible con cistoadenoma pancreático gigante. En TAC abdominal y RMN con contraste se ratifican dichos hallazgos. Se realiza punción aspiración con aguja fina de uno de los quistes, no observándose células malignas. Los marcadores tumorales en el líquido quístico muestran Ca 125: 786 UI/ml (vn: 0-35), Ca 19.9: 174 UI/ml (vn: 0-37), y CEA normal. Se diagnostica de cistoadenoma gigante de páncreas, probablemente seroso. La paciente no ha presentado cambios clínicos ni radiológicos desde el primer estudio de imagen hace ya 6 años. Tras comentarlo con la interesada y con el Servicio de Cirugía, ambos rechazan por el momento tratamiento quirúrgico.
+Responsable clínico: Dra. Catalina Isabel González Rodríguez Servicio de Medicina Interna Hospital Reina Sofía Ctra. Tarazona, km 3 31500 Tudela

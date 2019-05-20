@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Carlos.
+Apellidos: Mendieta Duarte.
+NHC: 463436.
+NASS:45 37678645 63.
+Domicilio: Calle las rosa 56, 6B.
+Localidad/ Provincia: Madrid.
+CP:28014.
+Datos asistenciales.
+Fecha de nacimiento: 05/12/1943.
+País: España.
+Edad: 74 años Sexo: H.
+Fecha de Ingreso: 05/01/2017.
+Servicio: Oftalmologia.
+Episodio: 9848163.
+Médico: David Díaz Valle NºCol: 28 28 94267.
+Historia Actual: Paciente varón de 74 años consulta por cuadros recurrentes de ojo rojo doloroso en OI, asociados a una pérdida progresiva de visión de varios meses de evolución. 
+Antecedentes: No refiere antecedentes personales sistémicos relevantes. Como antecedentes oftálmicos destaca la exposición accidental a un producto de limpieza 15 años antes.
+Exploración y pruebas complementarias: En la exploración oftalmológica se objetivó una agudeza visual (AV) de 8/10 en ojo derecho (OD) y 1/10 en ojo izquierdo (OI). En la exploración biomicroscópica destacaba en OI la existencia de un área de aproximadamente 210º de conjuntivalización corneal que afectaba el eje visual, con vascularización superficial e hiperemia mixta. Existía un sector de limbo de aproximadamente 5 horas de extensión que conservaba la arquitectura normal de las empalizadas de Vogt y una ausencia de tinción con colorantes. El resto de la exploración no mostraba hallazgos relevantes.
+Evolución y comentarios: Con el diagnóstico clínico de IL parcial con afectación del eje visual se practicó una ECS del tejido fibrovascular que invadía la superficie corneal, incluyendo la zona limbar afecta, y respetando el sector de limbo nasal de características normales. En la zona denudada se colocó un injerto de membrana amniótica (MA) que se suturó con el epitelio hacia arriba y posteriormente otro fragmento circular de MA de 15 mm de diámetro que se suturó como parche, con el epitelio hacia abajo. Durante el seguimiento se produjo una reepitelización progresiva con un epitelio de características corneales sobre el injerto de MA que quedó integrado bajo el mismo. A las 3 semanas de la cirugía existía una superficie corneal epitelial lisa y regular y una importante reducción de la hiperemia mixta asociada. La AV del OI mejoró hasta 4/10. Con un seguimiento de 8 meses no se han observado recidivas.
+Remitido por: David Díaz Valle. Unidad de Superficie e Inflamación Ocular Hospital Clínico Universitario San Carlos C/. Martín Lagos, s/n Madrid España E-mail: daviddiazvalle@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="15" text="Carlos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="28" end="43" text="Mendieta Duarte" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="50" end="56" text="463436" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="63" end="77" text="45 37678645 63" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="90" end="111" text="Calle las rosa 56, 6B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="135" end="141" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="146" end="151" text="28014" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="195" end="205" text="05/12/1943" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="213" end="219" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="227" end="234" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="241" end="242" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="262" end="272" text="05/01/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T11" start="308" end="315" text="9848163" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="325" end="341" text="David Díaz Valle" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="349" end="360" text="28 28 94267" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="388" end="393" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="397" end="404" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2257" end="2273" text="David Díaz Valle" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2317" end="2358" text="Hospital Clínico Universitario San Carlos" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2359" end="2380" text="C/. Martín Lagos, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2381" end="2387" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2388" end="2394" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2403" end="2426" text="daviddiazvalle@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

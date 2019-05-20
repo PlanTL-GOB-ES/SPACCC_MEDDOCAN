@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Belinda.
+Apellidos: Alaniz Olivas.
+NHC: 8439754.
+NASS: 38 47563379 20.
+Domicilio: Avda. Europa, 19.
+Localidad/ Provincia: Alcobendas.
+CP: 28109.
+Datos asistenciales.
+Fecha de nacimiento: 15/12/1913.
+País de nacimiento: España.
+Edad: 86 años Sexo: M.
+Fecha de Ingreso: 13/07/2000.
+Médico: María Jesús Morán  NºCol: 28 28 94675.
+Informe clínico del paciente: Paciente de 86 años afáquica tras extracción de cataratas en 1999 complicada con rotura capsular y salida de vítreo. Tres años más tarde, acude a consulta con sensación de cuerpo extraño y fotofobia. Percibe luz por ojo derecho, en la lámpara de hendidura se observa edema corneal en los 3 mm más periféricos. Se realiza microscopía especular. Se decide realizar queratoplastia penetrante debido a la baja densidad de células endoteliales centrales y a las molestias de la paciente. La córnea de la paciente se analiza histológicamente confirmando el diagnóstico de BML y mostrando desprendimiento y rotura de la membrana de Descemet y del endotelio en la zona de la periferia, siendo normal la zona central. A los 18 meses el botón corneal se mantiene transparente, sin edema, consiguiéndose una visión corregida de 0,2 (por edema macular quístico).
+Responsable clínico: María Jesús Morán. Paseo de los Parques nº 26, ch.2. Alcobendas 28109 Madrid, España e-mail: mjmoransoto@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="35" text="Belinda" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="48" end="61" text="Alaniz Olivas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="68" end="75" text="8439754" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="83" end="97" text="38 47563379 20" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="110" end="126" text="Avda. Europa, 19" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="150" end="160" text="Alcobendas" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="166" end="171" text="28109" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="215" end="225" text="15/12/1913" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="247" end="253" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="261" end="268" text="86 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="275" end="276" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="296" end="306" text="13/07/2000" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="316" end="333" text="María Jesús Morán" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="342" end="353" text="28 28 94675" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T9" start="397" end="404" text="86 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="446" end="450" text="1999" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="1257" end="1274" text="María Jesús Morán" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1276" end="1308" text="Paseo de los Parques nº 26, ch.2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1310" end="1320" text="Alcobendas" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1321" end="1326" text="28109" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1327" end="1333" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1335" end="1341" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1350" end="1373" text="mjmoransoto@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

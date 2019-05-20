@@ -1,0 +1,15 @@
+Datos del paciente.
+Nombre: Miguel Angel.
+Apellidos: Baudí Blanco.
+NHC: 879475839/710.
+Domicilio: Entrada de las colinas #8234 Casa A.
+Localidad/ Provincia: Chaco.
+CP: 3500.
+Datos asistenciales.
+Fecha de nacimiento: 19/03/1956.
+País de nacimiento: Argentina.
+Edad: 55 años Sexo: Masculino.
+Fecha de Ingreso: 18/06/2011.
+Médico: Karina Marinic.
+Informe clínico del paciente: Paciente de 55 años que recibe trasplante cadavérico. Inducción: daclizumab-tacrolimus-MMF-esteroides. Mantenimiento: tacrolimus-MMF-esteroides. Creatinina 1 y 1,2 mg/dl; clearence de creatinina: 96 ml, sin proteinuria. A los nueve meses postrasplante presenta viruria (107 copias/ml) para BKV, sin disfunción renal, con viremia negativa. Persiste viruria alta con viremia negativa, que se positiviza al mes 12 (> 104 copias/ml), la biopsia constata nefritis intersticial, alteraciones nucleares tubulares vinculables a BKV. Se rotó la medicación inmunosupresora a sirolimus 2 mg/día y se agrega cipro-floxacina 500 mg/día (10 días). Mantiene valores estables de función renal, con clearence de 86 ml, sin proteinuria y con disminución de la carga viral en orina y sangre. En la actualidad el paciente conserva su riñón y no requirió diálisis.
+Responsable clínico: Dra. Karina Marinic Servicio de Histocompatibilidad y Genética Molecular Hospital Dr. Julio C. Perrando Avda. 9 de Julio 1100 3500 Resistencia, Chaco, Argentina karinamarinic@yahoo.com.ar msp.histocompat@ecomchaco.com.ar

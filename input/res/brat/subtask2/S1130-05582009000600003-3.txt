@@ -1,0 +1,15 @@
+Datos del paciente.
+Nombre: Hugo.
+Apellidos: Roque Ferrer.
+NHC: 4873057.
+Domicilio: Avda. Juan Carlos l, 3, 1 C.
+Localidad/ Provincia: Madrid.
+CP: 28220.
+Datos asistenciales.
+Fecha de nacimiento: 13/07/2014.
+País de nacimiento: España.
+Edad: 25 meses Sexo: H.
+Fecha de Ingreso: 21/08/2016.
+Médico: Gastón Demaría MartínezNºCol: 28 28 98702.
+Informe clínico del paciente: varón de 25 meses, que acudió directamente a urgencias de cirugía maxilofacial remitido por su pediatra de zona, presentando imposibilidad de cerrar la boca y babeo, así como rechazo del desayuno. El día anterior, jugando en la piscina, el niño había sufrido una caída y se había golpeado en la nariz, por lo que presentaba un erosión en la raíz nasal. Basándose en la clínica y en este antecedente, el niño fue diagnosticado de luxación traumática de ATM. En nuestra exploración apreciamos dolor en la región preauricular de ambos lados que empeoraba al cerrar la boca. No obstante, el cierre completo era posible sin maniobras de reducción, y la oclusión era buena. La otoscopia resultó muy dolorosa, el "signo del trago" era positivo, y el CAE estaba inflamado presentando discreta descamación y supuración. Se realizó radiografía de ambas ATM que fue normal. El paciente fue remitido al Servicio de ORL, donde tras el tratamiento adecuado resolvió el cuadro.
+Responsable clínico:  Dr. Gastón Demaría Martínez Avda. Juan Carlos I, 23 1oE 28220 Majadahonda, Madrid. España E-mail: gdemaria@vodafone.es

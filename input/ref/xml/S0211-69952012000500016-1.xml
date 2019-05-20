@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Matías.
+Apellidos: Inurria Sanchez .
+NHC: 5689502.
+NASS: 30 60474056 36.
+Domicilio: Calle de Andrés Antón, 27.
+Localidad/ Provincia: Murcia.
+CP: 30001.
+Datos asistenciales.
+Fecha de nacimiento: 19/07/1984.
+País de nacimiento: España.
+Edad: 33 años Sexo: H.
+Fecha de Ingreso: 17/11/2017.
+Servicio: Nefrología .
+Episodio:4387684.
+Médico: Juan Blanco Cabezuelo NºCol: 30 30 58801.
+Informe clínico del paciente: Varón de 33 años consultó con Nefrología a finales de 2006 por elevación de la creatinina sérica (Crs) a 1,4 mg/dl. No refería antecedentes ni manifestaciones clínicas de enfermedad urológica ni renal. Cinco años antes, la Crs era de 0,9 mg/dl.
+A los 18 años fue diagnosticado de anemia por deficiencia de hierro y reflujo gastroesofágico. En los últimos 4 años refería disfagia y pesadez posprandial, sin otras manifestaciones gastrointestinales; también dolor lumbar de características mecánicas. Ausencia de episodios febriles, inflamación articular, lesiones cutáneas, serositis, ni de otros órganos o sistemas.
+Antecedentes familiares de espondilitis anquilopoyética en varios varones de su rama paterna; un tío paterno, además, fue diagnosticado de enfermedad renal crónica en estadio 5 secundaria a nefropatía por abuso de analgésicos.
+Exploración física normal, presión arterial: 130/79 mmHg, índice de masa corporal: 21 kg/m2.
+Exploraciones complementarias
+Análisis de sangre: Crs: 1,47 mg/dl; filtrado glomerular estimado (FGe) por MDRD-4: 59 ml/min/1,73 m2; urea: 33 mg/dl; iones, enzimas hepáticas y lípidos: normales. Proteínas totales, proteinograma, inmunoglobulinas y complemento: normales. Factor reumatoide negativo. Proteína C reactiva (PCR): 13 mg/l (valor normal [VN] < 10 mg/l). Los anticuerpos antinucleares, anticuerpos anti-DNA, anticuerpos anticitoplásmicos de neutrófilos y antígenos de histocompatibilidad-B27 fueron negativos. Parámetros férricos: sideremia: 25 µg/dl (VN: 40-60); ferritina: 38 ng/ml (VN: 20-300), índice de saturación de la transferrina: 12%. Vitamina B12: 181 pg/ml (VN: 208-930) y ácido fólico: 3,3 ng/ml (VN: 7,2-15).
+Análisis de orina: proteinuria: 200 mg/24 h; albuminuria: 47 mg/24 h, sin cadenas ligeras libres monoclonales. Sedimento de orina normal.
+Radiografías de tórax y columna vertebral sin alteraciones significativas. Ecografía abdominal, renal y de vías urinarias: normal. Valorado por el Servicio de Reumatología, se descartó espondilitis anquilopoyética.
+La analítica a los 2 meses mostró: Crs: 1,64 mg/dl; FGe (MDRD-4): 52 ml/min/1,73 m2; proteinuria: 316 mg/24 h; albuminuria: 163 mg/24 h. Y 4 meses más tarde: Crs: 1,77 mg/dl; FGe (MDRD-4): 47 ml/min/1,73 m2; proteinuria: 640 mg/24 h. Las deficiencias de hierro y vitaminas B12 y ácido fólico se corrigieron parcialmente con suplementos orales.
+Ante la persistencia de los síntomas gastrointestinales (disfagia, dispepsia) y sospecha de malabsorción intestinal (deficiencias de hierro y vitaminas), nos planteamos un estudio endoscópico del tubo digestivo con toma de biopsias. Las principales alteraciones se encontraron a nivel de la mucosa del íleon terminal: arquitectura vellositaria ulcerada, reacción inflamatoria linfoplasmocitaria en lámina propia, con infiltración de neutrófilos (abscesos en criptas) y granulomas de histiocitos epitelioides; compatible con EC. En la mucosa del recto, en las paredes de los vasos sanguíneos de la lámina propia, se encontró un depósito de material con características tintoriales (rojo congo e inmunohistoquímica) típicas de amiloidosis AA, sin signos inflamatorios.
+También se realizó una biopsia renal percutánea ante la progresión desfavorable de los parámetros renales (función renal y proteinuria), que mostró: 7 glomérulos, 3 con esclerosis prácticamente global, y los restantes con depósitos escasos de material eosinófilo en el hilio del ovillo glomerular; áreas ocasionales de fibrosis intersticial, y depósito de material eosinófilo en las paredes de los vasos sanguíneos más extensos e intensos que los glomerulares. Los depósitos fueron rojo congo positivo con birrefringencia verde a la luz polarizada y la inmunohistoquímica determinó la presencia de proteína amiloide A.
+Este paciente no tenía ni ha tenido en la evolución posterior ningún síntoma o signo clínico sugestivo de otro tipo de enfermedad inflamatoria, infecciosa o tumoral, ni fiebre mediterránea familiar.
+Con el diagnóstico de EC y amiloidosis AA secundaria se decidió un tratamiento etiológico de la EC basado en infliximab 5 mg/kg por vía intravenosa cada 2 meses, azatioprina 1-1,5 mg/kg/día (sólo el primer año, suspendida por leucopenia) y un bloqueante del sistema renina-angiotensina-aldosterona. Los parámetros renales mejoraron, así como los marcadores inflamatorios (PCR: 5 mg/l, y proteína sérica amiloide A < 5 mg/l), y se mantienen tras 4 años de seguimiento. No ha habido complicaciones mayores de la EC ni efectos secundarios de la medicación.
+Responsable clínico: Dr. Juan Blanco Cabezuelo, Sección de Nefrología, Hospital General Universitario Reina Sofía, Murcia E-mail: juanbecaro@gmail.com E-mail: juanb.cabezuelo@carm.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="34" text="Matías" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="47" end="62" text="Inurria Sanchez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="70" end="77" text="5689502" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="85" end="99" text="30 60474056 36" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="112" end="137" text="Calle de Andrés Antón, 27" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="161" end="167" text="Murcia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="173" end="178" text="30001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="222" end="232" text="19/07/1984" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="254" end="260" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="268" end="275" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="282" end="283" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="303" end="313" text="17/11/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T11" start="347" end="354" text="4387684" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T12" start="364" end="385" text="Juan Blanco Cabezuelo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="393" end="404" text="30 30 58801" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="436" end="441" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="445" end="452" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="490" end="494" text="2006" TYPE="FECHAS" comment=""/>
+    <AGE id="T6" start="687" end="694" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="1149" end="1160" text="tío paterno" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="4965" end="4986" text="Juan Blanco Cabezuelo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="5011" end="5053" text="Hospital General Universitario Reina Sofía" TYPE="HOSPITAL" comment=""/>
+    <CONTACT id="T3" start="5070" end="5090" text="juanbecaro@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T2" start="5099" end="5122" text="juanb.cabezuelo@carm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

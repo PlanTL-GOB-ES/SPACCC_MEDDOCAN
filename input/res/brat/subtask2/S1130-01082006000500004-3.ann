@@ -1,0 +1,14 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 36	Teresa .
+T2	NOMBRE_SUJETO_ASISTENCIA 48 56	Martinez
+T3	ID_ASEGURAMIENTO 91 105	34 07895698 67
+T4	CALLE 118 145	Plaza de la Estación 14, 3A
+T5	TERRITORIO 169 175	Madrid
+T6	TERRITORIO 181 186	37029
+T7	PAIS 262 268	España
+T8	EDAD_SUJETO_ASISTENCIA 276 283	36 años
+T9	NOMBRE_PERSONAL_SANITARIO 332 361	Francisco Javier Torres Gómez
+T10	SEXO_SUJETO_ASISTENCIA 384 1180	Varón de 69 años con gastrectomía total con Y de Roux por adenocarcinoma gástrico pobremente diferenciado hace 12 meses. Como tratamiento adyuvante recibió radioterapia y quimioterapia, debido a que presentaba implantes peritoneales en el estudio histológico de la pieza quirúrgica. Se realiza endoscopia alta por disfagia progresiva y pérdida de peso, donde se evidencia anillo fibroso en anastomosis esofagoenteral, y una estenosis yeyunal próxima a la anastomosis. Se tomaron biopsias que fueron negativas para malignidad. Ante la sospecha de recidiva local por carcinomatosis peritoneal, se coloca prótesis esofágica expandible no recubierta de 10 cm de longitud. El paciente fallece a los 4 meses de seguimiento por invasión tumoral sistémica.
+T11	INSTITUCION 1221 1298	Centro Universitario de Ciencias de la Salud de la Universidad de Guadalajara
+T12	TERRITORIO 1300 1306	México
+T13	INSTITUCION 1308 1340	AIR Pneumo América latina Merced
+T14	NUMERO_TELEFONO 1396 1405	992256713

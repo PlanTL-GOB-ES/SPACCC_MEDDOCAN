@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Marc .
+Apellidos: Sanchez Rivas.
+NHC: 8456704.
+NASS: 23 26107289 02 .
+Domicilio: Av. de Estrello, 98.
+Localidad/ Provincia: León.
+CP: 29001.
+Datos asistenciales.
+Fecha de nacimiento: 28/11/1979.
+País de nacimiento: España.
+Edad: 31 años  Sexo: M.
+Fecha de Ingreso: 06/05/2014.
+Servicio: Anestesiología, Reanimación y Terapéutica del Dolor.
+Médico: José Jiménez Parra   NºCol: 28-28-36541.
+Mujer de 27 años con múltiples asistencias a Urgencias e ingresos hospitalarios por episodios de dolor abdominal que cedía espontáneamente y con múltiples exploraciones complementarias (TC abdominal, resonancia magnética, endoscopias, cápsula) en las que no se detectaba patología orgánica alguna. En uno de estos ingresos se realiza entero-resonancia magnética, donde se objetivan al menos tres invaginaciones yeyuno-yeyunales sin evidencia de lesión subyacente. Todos los eventos se resolvieron de forma conservadora. Se insiste en abandonar el hábito cannábico y deja de presentar estos episodios durante unos 9 meses en los que no consume cannabis (los cuadros suboclusivos presentaban una frecuencia aproximada quincenal mientras mantenía un consumo regular). Coincidiendo con la reincidencia en el consumo de cannabis ha de acudir a Urgencias por nuevo episodio suboclusivo, si bien no se llegaron a realizar pruebas complementarias que demostraran invaginaciones en ese ingreso, y solicitó el alta voluntaria tras resolución espontánea de la clínica.
+Dirección para correspondencia: Alberto Fernández Atutxa. Servicio de Aparato Digestivo. Hospital Galdakao-Usansolo. Barrio Labeaga, s/n. 48960 Usansolo, Bizkaia e-mail: alberto.fernandezatucha@osakidetza.eus

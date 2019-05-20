@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Antonia.
+Apellidos: Pinchete Trigo.
+CIPA: nhc-214130.
+NASS: 28 13465656 52.
+Domicilio: Calle de la villa de marin 6, 3 E.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+NHC: 214130.
+Datos asistenciales.
+Fecha de nacimiento: 26/11/1942.
+País: España.
+Edad: 74 años Sexo: M.
+Fecha de Ingreso: 28/05/2017.
+Especialidad:.
+Médico: Ángel García Escudero NºCol: 28 28 46158.
+Historia Actual: Paciente mujer de 74 años, ingresada previamente en varias ocasiones con diagnósticos de bronquiectasias y neumonitis peribronquiectásicas, anemia severa multifactorial, insuficiencia renal crónica, signos endoscópicos de gastritis crónica difusa, con factor reumatoide positivo. Como consecuencia de una caída casual presentó fractura del húmero izquierdo y cadera del mismo lado. Durante su ingreso en Traumatología presentó un cuadro de hematuria macróscopica (postsondaje), hipotensión, febrícula, empeoramiento de la función renal, que obligó a su traslado a la Unidad de Cuidados Intensivos, donde falleció con los diagnósticos de neumonía evolucionada a absceso pulmonar, hematuria fulminante, sepsis por pseudomonas e insuficiencia renal aguda (13/07/2004). Previamente, como consecuencia de la presencia de un coágulo vesical que ocupaba toda su luz, se practicó drenaje endoscópico con observación de pared vesical denudada e inflamada con sangrado en sábana sin patología tumoral, tomando biopsias múltiples. El diagnóstico anatomopatológico reveló amiloidosis vesical (AA) con depósitos de material amiloide, fundamentalmente perivascular, pero también estromal.
+Remitido por: Dr. Ángel García Escudero. Hospital Universitario La Paz Paseo de la Castellana, 261, 28046 Madrid. Correo electrónico: agareslo@telefonica.net 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="16" text="Antonia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="29" end="43" text="Pinchete Trigo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="55" end="61" text="214130" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="69" end="83" text="28 13465656 52" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="96" end="129" text="Calle de la villa de marin 6, 3 E" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="153" end="159" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="165" end="170" text="28029" TYPE="TERRITORIO" comment=""/>
+    <ID id="T17" start="177" end="183" text="214130" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="227" end="237" text="26/11/1942" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="245" end="251" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="259" end="266" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="273" end="274" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="294" end="304" text="28/05/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="329" end="350" text="Ángel García Escudero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="358" end="369" text="28 28 46158" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="397" end="402" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="406" end="413" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="1141" end="1151" text="13/07/2004" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="1581" end="1602" text="Ángel García Escudero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1604" end="1633" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1634" end="1661" text="Paseo de la Castellana, 261" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1663" end="1668" text="28046" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1669" end="1675" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1697" end="1720" text="agareslo@telefonica.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

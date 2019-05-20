@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Jose.
+Apellidos: Villalon Puras.
+NHC: 3480957.
+Domicilio: Calle Dos de Mayo 4.
+Localidad/ Provincia: Pamplona.
+CP: 31001.
+Datos asistenciales.
+Fecha de nacimiento: 24/10/2008.
+País: España.
+Edad: 9 años Sexo: H.
+Fecha de Ingreso: 26/06/2018.
+Servicio: Pediatría.
+Médico: Ana Herrero Varas  NºCol: 31 31 36375.
+Historia Actual: Varón de 9 años y 8 meses, sin antecedentes de interés, remitido al servicio de Urgencias de Pediatría, desde su centro de salud por cefalea y proptosis. Inicio del cuadro 4 días antes, como fiebre, vómitos, cefalea y congestión nasal; diagnosticado en su centro de salud de sinusitis y en tratamiento antibiótico con amoxicilina-clavulánico desde hace 48 horas, sin mejoría de los síntomas. Refiere cefalea intensa fronto-temporal derecha y edema en párpado derecho que ha evolucionado hacia proptosis en las últimas horas.
+Exploración física: A la exploración física, se evidencia ligera proptosis del ojo derecho, con leve tumefacción palpebral, así como una obstrucción de la fosa nasal del mismo lado. 
+Resumen de pruebas complementarias: En la exploración neurológica solamente destaca una leve dificultad para la mirada conjugada.
+Dada la mala evolución clínica de la sinusitis y la aparición de clínica neurológica, se realiza TAC craneal de urgencia con la sospecha clínica de posible complicación intracraneal. La TAC demuestra una pansinusitis, un flemón subperióstico en pared medial de la órbita derecha y un empiema subdural frontal derecho de pequeño tamaño (1,8 x1,8 x 0,6 cm). 
+Evolución y comentarios: Valorado de manera conjunta con profesionales del servicio de Neurocirugía, se decide mantener una actitud expectante. Se inicia tratamiento endovenoso empírico con cefotaxima, vancomicina y metronidazol. Así mismo, se realiza drenaje del foco primario (pansinusitis) realizando una evacuación de los senos mediante abordaje nasal. Todos los cultivos resultan negativos.
+La evolución clínica es favorable, con desaparición de la sintomatología a los pocos días del inicio del tratamiento. De manera seriada, se van realizando controles de imagen (RM) en los que se aprecia disminución progresiva hasta la desaparición completa a los dieciocho días de tratamiento. Se realiza analítica de sangre en la que se evidencia una normalización de los parámetros infecciosos, con leucopenia e hipertransaminasemia secundarias al tratamiento antibiótico. 
+Se suspende el tratamiento antibiótico a los veintiséis días de su inicio, siendo dado de alta. Posteriormente, es controlado de manera ambulatoria, sin evidenciarse secuelas neurológicas, y con normalización absoluta de los parámetros analíticos.
+Remitido por: Ana Herrero Varas. Servicio de Pediatría. Complejo Hospitalario de Navarra C/Irunlarrea, 3 Email: aherrerv@navarra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="9" end="13" text="Jose" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="26" end="40" text="Villalon Puras" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="47" end="54" text="3480957" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T16" start="67" end="86" text="Calle Dos de Mayo 4" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="110" end="118" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="124" end="129" text="31001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="173" end="183" text="24/10/2008" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="191" end="197" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="205" end="211" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="218" end="219" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="239" end="249" text="26/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="280" end="297" text="Ana Herrero Varas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="306" end="317" text="31 31 36375" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="336" end="341" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="345" end="361" text="9 años y 8 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="2664" end="2681" text="Ana Herrero Varas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="2706" end="2738" text="Complejo Hospitalario de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T2" start="2739" end="2754" text="C/Irunlarrea, 3" TYPE="CALLE" comment=""/>
+    <CONTACT id="T1" start="2762" end="2781" text="aherrerv@navarra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

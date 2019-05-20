@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Fanny Martina .
+Apellidos: Fernandez Estrada.
+NHC: 8395691.
+Domicilio: Av. Arteixo, 72.
+Localidad/ Provincia: Córdoba.
+CP: 41013.
+Datos asistenciales.
+Fecha de nacimiento: 20/10/2013.
+País: España.
+Edad: 8 años  Sexo: M.
+Fecha de Ingreso: 24/05/2016.
+Servicio: Urgencias.
+Episodio: 761345.
+Médico: Fernanda Ferrer Marín  NºCol: 19 19 87402.
+Paciente femenino de 31 años de edad, diestra, soltera, médico ortopedista. Padecimiento actual de 10 años de evolución caracterizado por dolor de tipo punzante de inicio en región frontal del lado izquierdo irradiado a región temporal del mismo lado y con dolor periorbitario intenso, intermitente, sin alteraciones sensitivas. El dolor no limitaba sueño ni había bajado de peso a causa del mismo. A la exploración física se encontró dolor en apófisis espinosas de C2, C3 y punto doloroso occipital izquierdo. Las radiografías mostraban pérdida de la lordosis cervical. Se realizó bloqueo desinflamatorio de C2 y C3 izquierdos con lidocaína al 1% simple con mejoría del 80% en sintomatología, se inicia gabapentina 300 mg c-12 hrs. Se dio manejo para patología cervical por parte del servicio de columna, no hubo necesidad de aplicar nuevos bloqueos cervicales. La paciente permanece asintomática 3 años después.
+
+Dirección para correspondencia: Dra. Teresa Sada Ovalle Doctor Vertiz 737 interior 35 Colonia Narvarte. Delegación Benito Juárez Código Postal 03020. México, D.F. Teléfono: 55304000 sada_tso@yahoo.com Financiación: Ninguna Conflictos de interés: No declarados

@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Marc.
+Apellidos: Mendienta Sanabria.
+NHC: 1597569.
+Domicilio: Calle Les Glories 155, 1B. .
+Localidad/ Provincia: Madrid.
+CP: 31008.
+Datos asistenciales.
+Fecha de nacimiento: 12/12/1934.
+País: España.
+Edad: 1 año  Sexo: M.
+Fecha de Ingreso: 27/07/2015.
+Servicio: Medicina Interna.
+Médico: Pedro Miguel Garamendi.  NºCol: 28 28 98250.
+Varón de 72 años, que presentó síndrome miccional en los minutos posteriores a la primera administración de gemcitabina intravesical, con dolor local intenso, polaquiuria, disuria y hematuria (grado 1)5. El urinocultivo fue negativo. La clínica mejoró lentamente en las semanas posteriores con tratamiento antiinflamatorio vía oral. En estudio cistoscópico a las 2 semanas se observó un importante edema mucoso e hiperplasia del epitelio a nivel de fondo vesical. Se realizó una nueva RTU, cuyo análisis anatomopatológico reveló una fibrosis subepitelial con focos de cistitis inespecífica, compatible con cistitis química, por lo que se decidió suspender definitivamente el tratamiento.
+Dirección para correspondencia: Correo electrónico: rocio.gavira.sspa@juntadeandalucia.es (Rocío Gavira Moreno).

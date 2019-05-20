@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Andres Manuel.
+Apellidos: Llorente Bernal.
+NHC: 76194955.
+NASS: 38 96789406 11.
+Domicilio: C/ Virgen del Cortijo,94  .
+Localidad/ Provincia: Madrid.
+CP: 22002.
+Datos asistenciales.
+Fecha de nacimiento: 21/01/1992.
+País de nacimiento: España.
+Edad: 19 años  Sexo: H.
+Fecha de Ingreso: 24/06/2017.
+Servicio: Digestivo.
+Episodio: .
+Médico: Maria Pilar López Sáez  NºCol: 37 28 74632.
+Paciente varón de 78 años de edad a quien se le efectuó resección del ala nasal derecha por carcinoma basocelular que había infiltrado el espesor completo de la misma. Después de conocer el resultado de la biopsia por congelación, se le realizó un colgajo frontal paramediano de base estrecha que se plegó en su borde distal con el objetivo de reconstruir la mucosa del vestíbulo nasal; para evitar que el colgajo protruyera hacia el vestíbulo, se colocaron puntos de anclaje hacia la superficie externa nasal del colgajo. Después de 3 semanas, se levantó el colgajo y se separó la parte del mismo en el vestíbulo nasal dejándola in situ; luego se desgrasó el colgajo en su parte distal, ya separada de la porción vestibular, y se colocó cartílago de concha de la oreja ipsilateral al defecto. Tres semanas después se autonomizó.
+
+Dirección para correspondencia: Dra. Jezabel de Abullarade Servicio de Cirugía Plástica del I.S.S.S. Unidad Médica Atlacatl-Hospital Roma Blvd. Venezuela y C. El Progreso, Colonia Roma San Salvador, El Salvador, Centroamérica. jmsampi@gmail.com

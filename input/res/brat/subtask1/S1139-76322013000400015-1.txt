@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Laia.
+Apellidos: Intxaurrondo García.
+NHC: 87941464.
+NASS: 32 78456397 48.
+Domicilio: Paseo Maritimo, 63, 1B.
+Localidad/ Provincia: Ciudad Real.
+CP: 36211.
+Datos asistenciales.
+Fecha de nacimiento: 31/01/1960.
+País: España.
+Edad: 3 meses  Sexo: H.
+Fecha de Ingreso: 02/02/2015.
+Servicio: Traumatologia.
+Médico: Cristina Quicios Dorado   NºCol: 08 08 61971.
+Antecedentes familiares y personales
+Padre y hermana mayor sanos, sin antecedentes familiares de interés. La madre, de 37 años, también es sana. Es su segunda gestación (G2A0V1) y en la previa presentó ingurgitación mamaria sin repercusión clínica. Durante la gestación actual presentó una hormona tiroestimulante de 0,34 µUI/ml en el primer trimestre (siendo el valor normal para una gestante en primer trimestre de 0,35-2,5) y posteriormente de 0,78 µUI/ml en el segundo trimestre (valores normales de 0,35-3), con niveles de T4 normales; no precisó tratamiento por este motivo. Grupo sanguíneo A+. La gestación fue controlada, de curso normal, con ecografías normales. Inmune para rubeola y negativa para toxoplasma, sífilis, virus de la inmunodeficiencia humana y virus de la hepatitis B. Parto a las 40 semanas, eutócico. Tiempo de bolsa rota de ocho horas, con líquido amniótico claro. Exudado rectovaginal para Streptococcus agalactiae positivo, con profilaxis antibiótica completa, sin signos de corioamnionitis. Nace una mujer viva, con test de Apgar 9/10 y reanimación neonatal 0. El peso de la recién nacida es de 4045 g, la longitud de 53,5 cm y el perímetro craneal de 35 cm.
+Dirección para correspondencia: Blanca Álvarez Fernández blanca.alvarez@hospitalreyjuancarlos.es

@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Belinda.
+Apellidos: Alaniz Olivas.
+NHC: 8439754.
+NASS: 38 47563379 20.
+Domicilio: Avda. Europa, 19.
+Localidad/ Provincia: Alcobendas.
+CP: 28109.
+Datos asistenciales.
+Fecha de nacimiento: 15/12/1913.
+País de nacimiento: España.
+Edad: 86 años Sexo: M.
+Fecha de Ingreso: 13/07/2000.
+Médico: María Jesús Morán  NºCol: 28 28 94675.
+Informe clínico del paciente: Paciente de 86 años afáquica tras extracción de cataratas en 1999 complicada con rotura capsular y salida de vítreo. Tres años más tarde, acude a consulta con sensación de cuerpo extraño y fotofobia. Percibe luz por ojo derecho, en la lámpara de hendidura se observa edema corneal en los 3 mm más periféricos. Se realiza microscopía especular. Se decide realizar queratoplastia penetrante debido a la baja densidad de células endoteliales centrales y a las molestias de la paciente. La córnea de la paciente se analiza histológicamente confirmando el diagnóstico de BML y mostrando desprendimiento y rotura de la membrana de Descemet y del endotelio en la zona de la periferia, siendo normal la zona central. A los 18 meses el botón corneal se mantiene transparente, sin edema, consiguiéndose una visión corregida de 0,2 (por edema macular quístico).
+Responsable clínico: María Jesús Morán. Paseo de los Parques nº 26, ch.2. Alcobendas 28109 Madrid, España e-mail: mjmoransoto@hotmail.com

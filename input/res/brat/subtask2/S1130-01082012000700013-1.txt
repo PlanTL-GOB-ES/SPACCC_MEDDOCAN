@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Luis.
+Apellidos: Brenes Cruz.
+NHC: 7843645.
+NASS: 27 85647805 34.
+Domicilio: C/ José Cádiz Salvatierra, 3, Bajo A.
+Localidad/ Provincia: Madrid.
+CP: 28028.
+Datos asistenciales.
+Fecha de nacimiento: 19/11/1971.
+País de nacimiento: España.
+Edad: 67   Sexo: H.
+Fecha de Ingreso: 20/04/2018.
+Médico: Vanesa Bango García  NºCol: 28 28.
+Mujer de 40 años, natural de Filipinas, que había regresado de su país 15 días antes, ingresa por pancreatitis aguda. Presenta leucocitosis con eosinofilia, hipertransaminasemia leve (< 90 mg/dl) y bilirrubina normal. Se realiza una ecografía abdominal en la que se observa una vesícula distendida con paredes engrosadas y, en su interior, una estructura alargada hiperecogénica con movimientos ondulatorios espontáneos. Se extendía por el conducto biliar principal desde la vesícula hasta la papila. Ante este hallazgo, se administra albendazol y se realiza una colangiopancreatografía retrógrada endoscópica (CPRE) 24 horas después para extraer el parásito. Sin embargo, la papila estaba rasgada y no se objetivó el mismo. Una nueva ecografía y una colangiorresonancia magnética confirmaron la ausencia de parásito en la vía biliar. La paciente evolucionó favorablemente y fue dada de alta.
+Dirección para correspondencia E. Mencía Gutiérrez C/ Cedro, 23 Camino de Heros, 4 28250 Torrelodones (Madrid) España E-mail: emencia.hdoc@salud.madrid.org

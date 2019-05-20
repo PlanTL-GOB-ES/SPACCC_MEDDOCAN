@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Sebastian .
+Apellidos: Prados Menendez.
+NHC: 2705749.
+Domicilio: Av Independencia No.1703-A, Trojes de Cristal.
+Localidad/ Provincia: Majadahonda.
+CP: 01009.
+Datos asistenciales.
+Fecha de nacimiento: 21/05/2011.
+País: España.
+Edad: 84 años  Sexo: M.
+Fecha de Ingreso: 28/09/2018.
+Servicio: Urgencias.
+Episodio: 358784.
+Médico: Pedro Martínez-García   NºCol: 04 04 74125.
+Paciente de 54 años, hipertenso y tabáquico, programado para tiroidectomía total. Inducción anestésica sin alteraciones hemodinámicas, pero con modificación de onda T y segmento ST sugerente de isquemia. La ETE no mostraba alteraciones de la motilidad ventricular. Se decide suspender y realizar coronariografía que fue normal.
+Correspondencia: Dr. Mario Concha R Marcoleta 367. Tercer piso. División de Anestesiología. Santiago-Chile. Teléfono : 56 2 6398766 Fax 6327620. E-mail: mconcha@med.puc.cl.

@@ -1,0 +1,15 @@
+Datos del paciente.
+Nombre:  Zakia.
+Apellidos: Abarau.
+NHC: 7025899.
+Domicilio: Av. Beniardá, 17, 5 B.
+Localidad/ Provincia: Barcelona.
+CP: 08024.
+Datos asistenciales.
+Fecha de nacimiento: 15/08/2014.
+País: España.
+Edad: 3 años Sexo: M.
+Fecha de Ingreso: 21/09/2017.
+Médico: Javier Rodó Salas NºCol: 08 08 59602.
+Informe clínico del paciente:Paciente de 3 años (94 cm, 10 Kg), niña, de ascendencia afgana, nacida en España, con signos de desnutrición, que presentaba quemaduras de segundo grado en región anterior y posterior muslo derecho, flanco derecho y mesogastrio (25% de superficie corporal quemada) secundaria a una explosión desde hace 4 días. Se aplicó tratamiento tópico que resultó ineficaz. Debido a la evolución tórpida de la lesión, se decidió desbridamiento mecánico local y aplicación de sulfadiacina argéntica y apósito Tulgrasum® cicatrizante impregnado de antibiótico (bacitracina-zinc, neomicina, sulfato de polimixina B). Para permitir el procedimiento se administró de forma previa midazolam (1 mg i.m) y a los 5 minutos ketamina (60 mg i.m). Se consiguió analgesia (grado 0 según la escala verbal del dolor) y sedación a los 10 minutos (puntuación 4 en escala Ramsay), permitiendo realizar la cura sin incidencias durante 22 minutos. El paciente recuperó sensibilidad y vigilia a los 120 minutos de la administración del tratamiento. El grado de amnesia del procedimiento quirúrgico valorado por la escala de Korttila y Linnolia fue total.
+Remitido por: Dr. Javier Rodó Salas Sección de Urología Pediátrica Hospital Sant Joan de Déu Passeig Sant Joan de Déu, 2 08950 Esplugues. Barcelona. (España). jrodo@hsjdbcn.org

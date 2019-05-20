@@ -1,0 +1,22 @@
+Nombre: Lucia.
+Apellidos: Juan Sevilla.
+NHC: 4789725.
+Domicilio: Calle de Sinesio Delgado 56, 7mo D.
+Localidad/ Provincia: Madrid.
+CP: 28029 .
+Datos asistenciales.
+Fecha de nacimiento:19/02/2009.
+País: España.
+Edad: 7 años Sexo: M.
+Fecha de Ingreso: 23/08/2016.
+Servicio: Urgencias.
+Episodio: 52344562.
+Médico: María del Pilar Martín-Tamayo Blázquez NºCol: 28 28 57496.
+Motivo de ingreso: ptosis palpebral.
+Historia Actual: niña de siete años que acude al Servicio de Urgencias por ptosis palpebral derecha y dolor periorbitario de 24 horas de evolución, que no cede con analgésicos habituales, encontrándose afebril, con nauseas y vómitos esporádicos y sin proceso infeccioso intercurrente.
+Antecedentes: La paciente no presentaba antecedentes personales ni familiares de interés, salvo un episodio similar al descrito en los dos años previos, con una duración de dos semanas, que cedió espontáneamente sin medicación. 
+Exploración física: En la exploración física se objetivaba una parálisis de la supraducción y de la aducción de la mirada del ojo derecho, con ptosis palpebral, sin afectación pupilar ni alteración de otros pares craneales. 
+Resumen de pruebas complementarias: Se realizó un hemograma y una bioquímica general, velocidad de sedimentación globular, proteína C reactiva, hemoglobina glicosilada, anticuerpos anti-ADN, anticuerpos antinucleares (ANA), anticuerpos extraíbles del núcleo (ENA), anticuerpos anticitoplasma de neutrófilos (ANCA), y resonancia magnética craneal, siendo todos los resultados normales. 
+Evolución y comentarios: Se diagnosticó síndrome de Tolosa-Hunt y se pautó tratamiento oral con prednisona 1 mg/kg/día durante cinco días. En las siguientes 48 horas se reevaluó a la paciente, que presentó una resolución completa de la oftalmoplejia y del dolor, con persistencia de ptosis palpebral leve, que se mantuvo durante los siguientes seis meses.
+Diagnóstico: síndrome de TH
+Remitido por: Dra. María del Pilar Martín-Tamayo Blázquez Email: mpmtamayo@hotmail.com Hospital Universitario La Paz Paseo de la Castellana, 261, 28046 Madrid

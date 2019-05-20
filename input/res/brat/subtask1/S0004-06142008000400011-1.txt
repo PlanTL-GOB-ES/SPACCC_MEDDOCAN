@@ -1,0 +1,18 @@
+Nombre: Trinidad.
+Apellidos: López San Cristobal.
+NHC: 5674805.
+NASS: 78 64154213 22.
+Domicilio: C/ San Pedro, 4, 5 A.
+Localidad/ Provincia: Madrid.
+CP: 08213.
+Datos asistenciales.
+Fecha de nacimiento: 31/01/1991.
+País: España.
+Edad: 35 años  Sexo: H.
+Fecha de Ingreso: 08/06/2018.
+Médico: José Pérez Silvestre   NºCol: 11 11 54682.
+Paciente de 69 años, que consulta por aumento de volumen en teste derecho, indoloro, de tres meses evolución. A la exploración física se aprecia masa testicular, de consistencia irregular con transiluminación negativa. Como pruebas complementarias destacan un estudio de marcadores para tumores testiculares negativo, imágenes ecográficas nodulares múltiples en testículo derecho y un TAC sin signos sugestivos de adenopatías ni afectación visceral.
+Tras la realización de una orquiectomía inguinal y análisis de las muestras obtenidas, se diagnostica de linfoma difuso tipo T, de células grandes y medianas en estadío I(E)-A.
+
+Como tratamiento se le administra quimioterapia citorreductiva según esquema R-CHOP, manteniendo su proceso en remisión a los tres años de seguimiento.
+Dirección para correspondencia: Paloma Delgado Bavai Tarbes, 8 - 2º B 22005 Huesca. (España) paldel77@yahoo.es

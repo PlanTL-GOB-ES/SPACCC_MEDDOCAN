@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Matias.
+Apellidos: Diez Perez.
+NHC: 368503.
+NASS: 46 72470346 91.
+Domicilio: C/ Julio Palacios, 6.
+Localidad/ Provincia: Badajoz.
+CP: 29001.
+Datos asistenciales.
+Fecha de nacimiento: 21/09/1975.
+País: España.
+Edad: 38 años  Sexo: H.
+Fecha de Ingreso: 04/06/2015.
+Médico: Mario Ramírez Backhaus  NºCol: 28 28 15235.
+Varón de 30 años remitido a nuestro centro con disminución del nivel de conciencia tras consumo de heroína con depresión respiratoria (presión parcial de O2 en sangre arterial: 73 mmHg con fracción de oxígeno inspirado del 50%), que revierte tras la oxigenoterapia y naloxona. Presenta tumefacción de brazo y glúteo derechos y anuria.
+En la analítica de ingreso destacan los siguientes datos: GOT: 1.212 UI/l, GPT: 343 UI/l, CPK a las pocas horas del ingreso: 47.876 UI/l, creatinina: 1,5 mg/dl y potasio: 6,1 mmol/l. A tenor de los datos se diagnostica de posible síndrome compartimental con rabdomiolisis e IRA secundaria. Se decide su paso a quirófano donde se realizan fasciotomías de tríceps y glúteo derechos, se inicia perfusión de dopamina a dosis pre-ß, manitol a 0,5 g/kg y corrección de la hiperpotasemia con la terapia habitual: sueros glucosados con insulina y bicarbonato. Durante su evolución presenta un cuadro de edema agudo de pulmón por sobrecarga hídrica que responde bien al tratamiento. Es dado de alta sin secuelas.
+Dirección para correspondencia Miren Gómez Ayechu Servicio de Anestesiología, Reanimación y Terapéutica del Dolor Hospital de Navarra C/ Irunlarrea, 3 31008 Pamplona Tfno. 848 42 21 74

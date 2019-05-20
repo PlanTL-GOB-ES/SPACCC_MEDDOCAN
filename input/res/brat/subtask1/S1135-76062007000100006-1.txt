@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Hector.
+Apellidos: Bordonaba Esposito.
+NASS: 87 92789265 83.
+Domicilio: C/ Manoteras, 8, 4 A.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 22/11/1979.
+País: Cuba.
+Edad: 45 años  Sexo: H.
+Fecha de Ingreso: 26/03/2014.
+Médico: José Ferreras Granado  NºCol: 28 28 57880.
+Mujer de 25 años diagnosticada clínicamente de miocardiopatía hipertrófica obstructiva en tratamiento farmacológico con antiarrítmicos (Amiodarona) y betabloqueantes (Propanolol). La madre había fallecido súbitamente a los 48 años por la misma enfermedad. Una noche salió a cenar con los compañeros de trabajo regresando al domicilio sobre las 4 horas de la madrugada. No manifestó ninguna sintomatología y se acostó en el sofá del salón. Poco después el perro comenzó a ladrar por lo que el padre se levantó encontrándola inconsciente. Se avisó a los servicios de emergencia 061 que se limitaron a constatar el fallecimiento.
+
+Dirección para correspondencia: Dr. Antonio Rico. Servicio de Patología Forense. IML de Sevilla. Avda. Sánchez Pizjuán s/n. 41009 SEVILLA. Tel. 954370644, Fax 954906834. E-mail: iaf.sevilla@andaluciajunta.es

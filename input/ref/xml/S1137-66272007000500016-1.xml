@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Idoia.
+Apellidos: Intxaurrondo García.
+NHC: 2398629.
+NASS: 34 58702578 53.
+Domicilio: Calle de Acella, 1.
+Localidad/ Provincia: Pamplona.
+CP: 31008.
+Datos asistenciales.
+Fecha de nacimiento: 06/03/1980.
+País: España.
+Edad: 27 años Sexo: M.
+Fecha de Ingreso: 29/11/2007.
+Médico: Iñaki Otermin Maya NºCol: 31 10 32581.
+Informe clínico del paciente: paciente de 27 años afecta de artritis juvenil de 12 años de evolución que afecta a rodillas, tobillo derecho y 1ª MTCF derecha. En el estudio presenta HLA B-27 positivo, ANAS negativos y FR negativo. No presenta afectación axial ni extraarticular. En tratamiento con dosis medias-altas de corticoides, 10-30 mg/día de prednisona con respuesta incompleta, tras no respuesta a salazopirina, metotrexate, hidroxicloroquina y corticoides a dosis bajas, así como infiltraciones en ambas rodillas y tobillo con corticoides y sinoviortesis isotópica de ambas rodillas con Ytrio 90.
+Tras proponer a la paciente tratamiento con etanercept, se inicia a dosis plenas aceptadas para artritis juvenil, artritis reumatoide y espondilitis anquilopoyética, con respuesta completa y mantenida.
+Ante el deseo de ser madre referido por la paciente y su marido, se indica la poca experiencia con este tipo de fármacos y desaconsejamos el embarazo. En diciembre del 2005, tras 3 años asintomática sin precisar AINES ni corticoides, acude a consulta por estar embarazada de dos semanas (fecha de última regla 26/11/2005) por lo que, de acuerdo con la paciente retiramos etanercept, iniciando tratamiento con prednisona en caso de brote. Dos semanas más tarde, la paciente acude a consulta refiriendo brote oligoarticular incapacitante, por lo que ha iniciado tratamiento con etanercept, a dosis de 25 mg dos veces por semana. Volvemos a indicar la falta de experiencia y de acuerdo con la paciente, marido y autoridades sanitarias, mantenemos el tratamiento con seguimiento estricto. Añadimos al tratamiento AAS 50 mg/día, hierro y ácido fólico.
+La fecha prevista de parto es el 23/08/2006. El embarazo transcurre sin complicaciones y sin actividad de artritis, con anemia y elevación mantenida de reactantes de fase aguda, que se normalizan completamente tras el parto, que ocurre sin complicaciones, con recién nacido a término normal. Se aconseja y acepta lactancia artificial. Se mantiene tratamiento en preparto y puerperio con etanercept estando asintomática y con analítica normal sin datos inflamatorios ni anemia.
+No se han detectado malformaciones ni problemas médicos en el niño, a los 13 meses de seguimiento.
+Remitido por: Dr. Iñaki Otermin Maya. Servicio de Medicina Interna Clínica Ubarmin 31486. Elcano Navarra E-mail: inaki.otermin.maya@cfnavarra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T28" start="9" end="14" text="Idoia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T27" start="27" end="46" text="Intxaurrondo García" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T26" start="53" end="60" text="2398629" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="68" end="82" text="34 58702578 53" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T24" start="95" end="113" text="Calle de Acella, 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T23" start="137" end="145" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T22" start="151" end="156" text="31008" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T20" start="200" end="210" text="06/03/1980" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T21" start="218" end="224" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T18" start="232" end="239" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="246" end="247" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T19" start="267" end="277" text="29/11/2007" TYPE="FECHAS" comment=""/>
+    <NAME id="T15" start="287" end="305" text="Iñaki Otermin Maya" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="313" end="324" text="31 10 32581" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T17" start="368" end="375" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="1155" end="1160" text="madre" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="1191" end="1197" text="marido" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="1288" end="1306" text="diciembre del 2005" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="1444" end="1454" text="26/11/2005" TYPE="FECHAS" comment=""/>
+    <OTHER id="T1" start="1834" end="1840" text="marido" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="2014" end="2024" text="23/08/2006" TYPE="FECHAS" comment=""/>
+    <OTHER id="T7" start="2520" end="2524" text="niño" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T14" start="2575" end="2593" text="Iñaki Otermin Maya" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2624" end="2639" text="Clínica Ubarmin" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2640" end="2645" text="31486" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2647" end="2653" text="Elcano" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2654" end="2661" text="Navarra" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2670" end="2701" text="inaki.otermin.maya@cfnavarra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

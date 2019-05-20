@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: David.
+Apellidos: Ruiz Montero .
+NHC: 7134615.
+NASS: 45 37678645 63.
+Domicilio: Calle ventisquero 72, 4 H.
+Localidad/ Provincia: Madrid.
+CP: 28047.
+Datos asistenciales.
+Fecha de nacimiento: 28/06/1945.
+País de nacimiento: España.
+Edad: 14  Sexo: H.
+Fecha de Ingreso: 18/06/2011.
+Servicio: Oftalmología.
+Episodio: 7843567.
+Médico: Jeremías Torres Sierra   NºCol: 28 28 56425.
+Mujer de 60 años con dolor epigástrico irradiado a espalda y síndrome consuntivo. En una ecografía abdominal se halló una masa en la cabeza de páncreas de 4 x 6 cm, de bordes mal definidos, heterogénea e hipoecogénica, sin invasión vascular ni líquido libre y dos nódulos hepáticos de naturaleza incierta. Se completó el estudio con inyección de un bolo convencional de 2,4 ml del contraste ecográfico hexafluoruro de azufre (Sonovue®, Bracco, Milán). La fase arterial (10-30 segundos) definió una masa pancreática hipocaptante en relación al parénquima vecino que estenosaba la arteria hepática y esplénica. En la fase venosa (30-120 segundos) se demostró la permeabilidad del eje venoso esplenoportomesentérico y el barrido hepático en fase tardía (> 120 segundos) detectó múltiples lesiones hipocaptantes. En resumen, las imágenes ecográficas fueron compatibles con masa pancreática de naturaleza maligna con invasión vascular arterial y metastásica hepática. Estos datos fueron corroborados con una TAC helicoidal. En la figura 1 se observa cómo las imágenes angiográficas con ecografía contrastada y angioTAC fueron equiparables. La PAAF guiada por ecografía de un nódulo hepático fue diagnóstica de adenocarcinoma pancreático. La paciente fue sometida a quimioterapia paliativa.
+Correspondencia a: Juan Pablo Rojas H. E-mail: juanpa8506@hotmail.com

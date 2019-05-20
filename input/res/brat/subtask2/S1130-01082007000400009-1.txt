@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Romina .
+Apellidos: Alvarez Gamez.
+NHC: 8972604.
+NASS: 5637110 .
+Domicilio: Av, serrano 34, Bajo A.
+Localidad/ Provincia: Madrid.
+CP: 46026.
+Datos asistenciales.
+Fecha de nacimiento: 19/03/1986.
+País de nacimiento: España.
+Edad: 54  Sexo: M.
+Fecha de Ingreso: 08/02/2017.
+Médico: Sonia Martínez Machuca   NºCol: 19 19 98741.
+Un varón de 61 años presentó emesis tras algunos episodios de arcadas. Tenía cirrosis hepática pero sin hemorragias previas. Una endoscopia alta reveló un desgarro amplio de 10 cm que afectaba a la mucosa y la submucosa del esófago distal, respetando un segmento de 2 cm de largo proximal a la línea Z. La laceración presentaba una hemorragia rezumante lenta que se detuvo con la inyección de 6 cc de adrenalina al 1:10000 y la aplicación de 17 endoclips para cerrar la laceración. La recurrencia de la hemorragia 8 días después se controló con la aplicación de otros 4 endoclips. No hubo ninguna otra recurrencia hemorrágica y se repitió la endoscopia en la semana 6 y la semana 24, no observándose lesión alguna.
+
+Dirección para correspondencia: Dr. Pedro Martínez-García. Instituto de Medicina Legal. C/ Sánchez Barcaiztegui nº 3- 2º. 11071 Cádiz. Tfno: 956 203 145 y 956 203 146.

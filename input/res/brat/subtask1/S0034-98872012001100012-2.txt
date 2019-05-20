@@ -1,0 +1,15 @@
+Datos del paciente.
+Nombre: Pascual.
+Apellidos: Ferrio Alvarez.
+NHC: 4756758.
+Domicilio: Calle arzobispo morcillo 16, 5C.
+Localidad/ Provincia: Valencia.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 19/05/1954.
+País: España.
+Edad: 74 años  Sexo: M.
+Fecha de Ingreso: 14/05/2011.
+Médico: Miguel Ángel Fernández Vaquero  NºCol: 46 03 15574.
+Mujer de 40 años, casada, sin hijos. Sin antecedentes de importancia. Inició rash cutáneo en extremidades levemente pruriginoso. Al día siguiente presentó dolor e impotencia funcional de manos y muñecas, leve rigidez matinal, por lo que consultó. En el examen físico destacaba a nivel cutáneo, escasas lesiones eritematosas en antebrazos, no palpables, confluentes. El examen cardiopulmonar y abdominal era normal, y en el examen articular se evidenció sinovitis de muñecas, metacarpofalángicas e interfalángicas proximales de ambas manos. Laboratorio: hemograma normal, función hepática y renal conservadas. Se solicitó serología para Parvovirus B19 que resultó IgM positivo. Recibió tratamiento sintomático con paracetamol con resolución completa a las 48 horas. Luego de 1 mes de seguimiento la paciente se mantuvo asintomática.
+Dirección para correspondencia: Raúl González García c/ Los Yébenes 35, 8º C 28047 Madrid, España Email: raugg@maxmail.com

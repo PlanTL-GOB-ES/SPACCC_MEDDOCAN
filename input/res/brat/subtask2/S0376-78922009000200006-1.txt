@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Ignacio  .
+Apellidos: Castro Gil.
+NHC: 704564.
+Domicilio: C/ Jacinto Benavente, 4, 3, D.
+Localidad/ Provincia: Valencia.
+CP: 33001.
+Datos asistenciales.
+Fecha de nacimiento: 05/02/1965.
+País de nacimiento: España.
+Edad: 71 años  Sexo: H.
+Fecha de Ingreso: 24/05/2018.
+Médico: Francisco Javier Borrego Utiel  NºCol: 28 28 74161.
+Mujer de 55 años de edad, diagnosticada de carcinoma basocelular en canto interno de ojo izquierdo por el Servicio de Dermatología de nuestro Hospital que la envía para tratamiento quirúrgico al Servicio de Cirugía Plástica. Practicamos resección tumoral con márgenes de 0.6 cm. Después de confirmar que los límites quirúrgicos estaban sanos mediante biopsia por congelación, procedimos a la reconstrucción con la técnica descrita.
+
+Dirección para correspondencia: Dra. Jezabel de Abullarade Unidad Médica Atlacatl del Instituto Salvadoreño del Seguro Social San Salvador. El Salvador e-mail: drdeabullarade@gmail.com

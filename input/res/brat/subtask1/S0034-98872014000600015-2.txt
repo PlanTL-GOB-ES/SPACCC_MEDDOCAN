@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Pedro.
+Apellidos: Larrea Barrios.
+NHC: 2078655.
+NASS: 25 63134095.
+Domicilio: Calle Via Limite, 45, Bajo C.
+Localidad/ Provincia: Zaragoza.
+CP: 08005 .
+Datos asistenciales.
+Fecha de nacimiento: 12/04 /2011.
+País: España.
+Edad: 32 años  Sexo: H.
+Fecha de Ingreso: 12/12/2016.
+Servicio: Urgencias.
+Episodio: 1330431.
+Médico: María Teresa Brieva Herrero  NºCol: 28 28 97654.
+Mujer, 51 años. Quince años antes del ingreso se trató un cáncer cervicouterino con radioterapia. En un control por hipertensión arterial se encontró edema bilateral de extremidades inferiores, elevación de la creatinina, hidronefrosis bilateral, atrofia e hipofunción del riñón izquierdo y una masa retroperitoneal. No se efectuó biopsia. Se instalaron catéteres ureterales y la creatinina se normalizó. En los 35 meses siguientes se cambiaron regularmente los catéteres ureterales y la función renal se mantuvo normal, sin evidencias de recidiva del cáncer cervicouterino.
+Correspondencia a: Dr. Jorge Vega Stieb 5 norte 1035, Viña del Mar. Teléfono 56-32-2974237 Fax 56-32-2970050 jvegastieb@gmail.com

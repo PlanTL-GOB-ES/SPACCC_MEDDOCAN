@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Guillermo.
+Apellidos: Piña Barba.
+NHC: 4756758.
+NASS: 74 35670165 14.
+Domicilio: C/ Telémaco, 4, 2 D.
+Localidad/ Provincia: Sevilla.
+CP: 41089.
+Datos asistenciales.
+Fecha de nacimiento: 14/09/1950.
+País de nacimiento: España.
+Edad: 60 años Sexo: H.
+Fecha de Ingreso: 21/07/2011.
+Médico: Angel Moreno Vega  NºCol: 41 41 87441.
+Informe clínico del paciente: Paciente varón de 60 años de edad, fumador, enolismo severo, que presenta como antecedentes patológicos hipertensión arterial y episodio de pancreatitis aguda enólica en noviembre del 2003, en cuyo ingreso se realizó TC abdominal que objetivó inflamación pancreática difusa con exudados, así como la presencia de dos tumoraciones en valva anterior de riñón izquierdo, una de ellas de características tomodensitométricas que sugerían un quiste hemorrágico o con alto contenido proteico, sin poder descartar una tumoración sólida.
+Tras la recuperación del cuadro inflamatorio agudo se comentó el caso con nosotros, y continuamos el estudio de dicha tumoración mediante la realización de nuevo TC abdominal de control en febrero 2004, observando la persistencia de ambas lesiones renales. Dadas las características radiológicas de la tumoración indicamos la intervención quirúrgica. El día 29 de marzo del 2004 realizamos tumorectomía renal izquierda vía lumbotomía.
+El resultado de anatomía patológica de la pieza resultó ser granuloma esteatonecrótico con abundante pigmento férrico, característico de las necrosis grasas secundarias a pancreatitis.
+Responsable clínico: Dr. Angel Moreno Vega.  Pasaje Petunia, 6 E-41089 Sevilla bertsand@terra.es; oncojerez@saludalia.com

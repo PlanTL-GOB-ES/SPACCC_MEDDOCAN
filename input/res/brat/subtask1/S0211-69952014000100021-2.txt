@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Belen.
+Apellidos: Hidalgo Lopez .
+NHC: 8347523.
+NASS: 56 02347896 33.
+Domicilio: Calle del Arzobispo Apaolaza, 3.
+Localidad/ Provincia: Barcelona.
+CP: 28046.
+Datos asistenciales.
+Fecha de nacimiento: 15/06/1975.
+País de nacimiento: España.
+Edad: 35 años  Sexo: M.
+Fecha de Ingreso: 05/03/2017.
+Servicio: Urgencias.
+Episodio: 7824373.
+Médico: Ignacio Heras Rincón          NºCol: 46 45 89753.
+Varón de 50 años, IRC terminal secundaria a nefropatía diabética en tratamiento sustitutivo renal con hemodiálisis, cardiopatía isquémica crónica, miocardiopatía dilatada de origen isquémico, retinopatía diabética, accidente vascular cerebral hace años; ingresa en servicio de medicina interna por episodio de cetoacidosis diabética. Durante el ingreso se detectan múltiples lesiones maculopapulosas, eritematosas, con zona descamativa hiperqueratósica central, de distribución universal. Se consulta con servicio de dermatología, se realiza biopsia cutánea de las lesiones y se diagnostica de enfermedad de Kyrle.
+
+Dirección para correspondencia: José M. Graña Servicio de Nefrología Hospital Universitario de la Ribera Ctra de Corbera Km 1 46600, Alzira, Valencia E-mail: jografa22@gmail.com

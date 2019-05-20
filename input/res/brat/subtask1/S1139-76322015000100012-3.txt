@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Josué.
+Apellidos: Torremocha Gil.
+NHC: 9815678.
+Domicilio: Calle del Monasterio de Las Huelgas, 19.
+Localidad/ Provincia: Madrid.
+CP: 28049 .
+Datos asistenciales.
+Fecha de nacimiento: 27/09/2017.
+País: España.
+Edad: 9 meses Sexo: H.
+Fecha de Ingreso: 30/06/2018.
+Servicio: Urgencias.
+Médico: Irene García Osés  NºCol: 28 28 70354.
+Informe clínico del paciente: Varón de nueve meses de edad que consulta por eritema perianal intenso. Se realiza un primer frotis rectal con resultado del test de detección rápida de antígeno estreptocócico negativo a las 24 horas, por lo que se inicia tratamiento con clotrimazol. Al no evolucionar bien, se decide repetir el frotis rectal y faringoamigdalar, encontrándose un resultado positivo para la detección rápida de antígeno estreptocócico en la muestra rectal y negativo en la faringoamigdalar. El cultivo de de la muestra rectal fue negativo para hongos y demostró crecimiento de EBHGA. Se inició tratamiento con penicilina oral durante diez días, con resolución del cuadro.
+Remitido por: Dra. Irene García Osés. Email: irene_garcia_oses@yahoo.es Hospital Infanta Sofía Paseo de Europa, 34, 28703 San Sebastián de los Reyes, Madrid

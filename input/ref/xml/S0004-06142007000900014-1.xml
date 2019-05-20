@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Carmen.
+Apellidos: Alaniz Pineda.
+NHC: 4568983.
+Domicilio:  Calle La Ventilla, 18, 2,D.
+Localidad/ Provincia: Madrid.
+CP: 28035.
+Datos asistenciales.
+Fecha de nacimiento: 23/10/1958.
+País: España.
+Edad: 58 años Sexo: M.
+Fecha de Ingreso: 23/05/2017.
+Médico:  Ignacio Rodríguez Gómez  NºCol: 28 28 734568.
+Informe clínico del paciente:Mujer de 58 años de edad que es estudiada por el Servicio de digestivo por dolor en hipocondrio derecho de 6 meses de evolución, acompañándose de alteración del hábito intestinal. No presenta síndrome general ni clínica urológica.
+A la exploración física impresiona de buen estado general, normohidratada y normocoloreada y con obesidad moderada. No existe hábito cushingoide ni estigmas de virilización. Las cifras tensionales son normales.
+La auscultación cardiopulmonar es normal. El abdomen es globuloso, blando y depresible, dificultando la palpación de posibles masas u organomegalias, mostrando leve dolor a la presión profunda en hipocondrio derecho, no presentando signo de Murphy.
+En cuanto a las exploraciones complementarias, el análisis rutinario bioquímico y hematológico, así como las pruebas de función suprarrenal se encuentran en rangos de normalidad.
+La ecografía demuestra la presencia de una tumoración en el área suprarrenal derecha de aproximadamente 6x6 cm. No se observan metástasis hepáticas.
+La TAC confirma la masa referida, en íntimo contacto con la pared de vena cava inferior a la que aparentemente desplaza, sin poder descartarse infiltración de la misma. No existe evidencia de afectación ganglionar retroperitoneal ni metástasis a otro nivel. No se demuestra asimismo presencia de trombosis tumoral.
+Ante estos hallazgos se decide practicar RMN para una correcta definición de la afectación de tejidos vecinos, informando de idénticos hallazgos de la TAC y sin poder predecir de modo definitivo la infiltración parietal.
+Con el diagnóstico de masa suprarrenal se decide intervención, que se lleva a cabo a través de una incisión subcostal derecha transperitoneal. Se aborda la región suprarrenal derecha, evidenciándose una voluminosa tumoración a dicho nivel. Se inicia la disección de la misma, no hallándose plano de separación en la zona de contacto con la pared lateral y posterior de vena cava, por lo que se decide exéresis de la misma tras control venoso proximal y distal a la masa y con sutura con polipropileno de la pared de la vena cava inferior.
+La paciente sigue un curso postoperatorio favorable, sin desarrollar complicaciones. Cursa alta al séptimo día postintervención.
+El estudio histológico macroscópico demuestra una pieza de 6 x 8 cm. de consistencia elástica y fácil corte, de aspecto carnoso y coloración pardo-grisácea. Se reconocen restos de tejido suprarrenal en periferia, de aspecto aparentemente normal.
+La microscopía nos informa de una proliferación de elementos celulares de estirpe estromal, con núcleos pleomórficos de gran tamaño, con células multinucleadas que adoptan un patrón fascicular. El índice mitótico es elevado ( 7 m/ 10 campos de gran aumento). Existen zonas de necrosis intratumoral e invasión de tejido suprarrenal presente en área periférica.
+El diagnóstico definitivo es de LEIOMIOSARCOMA DE CAVA.
+En cuanto a la evolución, los controles, tanto analíticos como de imagen, realizados en el período postquirúrgico precoz muestran normalidad. Se remite el caso al Servicio de Oncología que decide tratamiento radioterápico de consolidación sobre lecho quirúrgico, iniciándose éste a los 40 días tras la intervención.
+Se realizaron nuevos controles a los seis, nueve, doce y veinticuatro meses, resultando todos ellos normales.
+Actualmente la paciente se encuentra viva y libre de enfermedad, tras 28 meses de seguimiento.
+Remitido por:Dr. Ignacio Rodríguez Gómez Email: urogomez@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="29" end="35" text="Carmen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="48" end="61" text="Alaniz Pineda" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="68" end="75" text="4568983" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T14" start="89" end="115" text="Calle La Ventilla, 18, 2,D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T11" start="139" end="145" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="151" end="156" text="28035" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="200" end="210" text="23/10/1958" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="218" end="224" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="232" end="239" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="246" end="247" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="267" end="277" text="23/05/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="288" end="311" text="Ignacio Rodríguez Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="320" end="332" text="28 28 734568" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="363" end="368" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="372" end="379" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="3786" end="3809" text="Ignacio Rodríguez Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3817" end="3837" text="urogomez@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

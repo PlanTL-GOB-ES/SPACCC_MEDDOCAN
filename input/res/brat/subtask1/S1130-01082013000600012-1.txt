@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Sebastian.
+Apellidos: Andrade Olivera.
+NHC: 3578654.
+NASS: 12 97642583 56.
+Domicilio: C/ Raymundo Fdz Villaverde, 4, 1 D.
+Localidad/ Provincia: Madrid.
+CP: 28923.
+Datos asistenciales.
+Fecha de nacimiento: 08/05/1945.
+País de nacimiento: España.
+Edad: 42 años  Sexo: H.
+Fecha de Ingreso: 24/11/2015.
+Médico: Daniel Lopez García   NºCol: 41 41 31846.
+Varón de 60 años sin antecedentes personales de interés que consultó por molestias epigástricas, ictericia, coluria y acolia de pocos días de evolución. El examen físico solamente reveló ictericia. La analítica mostró AST 57 U/l, ALT 172 U/l, GGT 564 U/l, FA 272 U/l, bilirrubina total 8,15 mg/dl, bilirrubina directa 5,72 mg/dl. Serología para hidatidosis positiva. La TC evidenció una gran masa quística de 20 × 10 × 12 cm en el lóbulo hepático izquierdo, con vesículas en su interior, que comprimía la cava inferior y a través del hiato se extendía al mediastino, desplazando la aorta descendente, el esófago y la aurícula derecha. Recibió tratamiento con albendazol durante cuatro semanas y posteriormente fue intervenido. A través de laparotomía media, se procedió a punción-aspiración del quiste, esterilización con suero salino hipertónico y quistoperiquistectomía parcial, con drenaje de la cavidad residual. La biopsia confirmó la naturaleza hidatídica del quiste. No hubo complicaciones postoperatorias y fue alta en el 7.o día de postoperatorio, manteniendo el tratamiento con albendazol.
+Dirección para correspondencia: Juan Antonio Guisado Macías, C/ Rafael Lucenqui nº 10, 6º F, 06004, Badajoz, Correo electrónico: jguisadom@medynet.com

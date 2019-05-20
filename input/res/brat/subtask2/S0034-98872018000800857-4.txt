@@ -1,0 +1,15 @@
+Datos del paciente.
+Nombre: Carlos.
+Apellidos: Gallardo Muñiz .
+NHC: 139587451/23.
+Domicilio: Calle San Juan de Ribera, 2.
+Localidad/ Provincia: Madrid.
+CP: 28024.
+Datos asistenciales.
+Fecha de nacimiento: 28/01/2018.
+País: España.
+Edad: 40 años  Sexo: M.
+Fecha de Ingreso: 28/11/2017.
+Médico: Isabel Baldor Tubet  NºCol: 28 28 57496.
+Mujer de 70 años, diestra, ingresó por cefalea intensa y vómitos, debilidad de hemicuerpo izquierdo y disartria. En vigilia, orientada, inatenta, hemiplejia faciobraquiocrural (FBC) izquierda e incapacidad para abrir los ojos. La TC de cerebro mostró lesión hipodensa extensa en territorio de la arteria cerebral media izquierda, con pequeño foco hemorrágico. Presentó neumonía intrahospitalaria, resuelta con tratamiento antibiótico. Durante este período, la PC se mantuvo, sin compromiso de la oculomotilidad. Al sexto día inició a entreabrir los párpados con ayuda frontal. Al octavo, noveno día logró mantener apertura parcial de los párpados, solo abrió completamente los ojos al décimo día y al decimosegundo sin ayuda frontal.
+Dirección para correspondencia: Esperanza Molero Silvero. Servicio de Medicina Intensiva. Hospital Central de la Defensa Gómez Ulla. Glorieta del Ejército, 1. 28047 Madrid. España. emolsil@oc.mde.es

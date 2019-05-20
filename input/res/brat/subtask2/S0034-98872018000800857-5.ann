@@ -1,0 +1,13 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 35	Maria .
+T2	NOMBRE_SUJETO_ASISTENCIA 47 59	Zamora Lopez
+T3	CALLE 108 130	Calle del Prado 1, 4 A
+T4	TERRITORIO 166 171	45003
+T5	PAIS 233 239	España
+T6	EDAD_SUJETO_ASISTENCIA 247 254	61 años
+T7	NOMBRE_PERSONAL_SANITARIO 303 324	Ángel García Escudero
+T8	SEXO_SUJETO_ASISTENCIA 346 1412	Mujer de 64 años, diestra, dislipidémica y tabáquica. Ingresó desorientada, disártrica, con hemiplejia izquierda. La TC cerebral mostró el signo de la cuerda en ACM derecha, pérdida de la diferenciación córtico-subcortical en el hemisferio derecho. Era incapaz de abrir los ojos a la orden, aún con esfuerzo frontal. La oculomotilidad voluntaria y refleja estaba conservada. Manifestaba intensa cefalea, el control imagenológico del tercer día mostró un infarto que comprometía todo el territorio de la arteria cerebral media del lado derecho. Según los especialistas no tenía indicación neuroquirúrgica. Se trasladó a la unidad de pacientes críticos con sedación y monitoreo invasivo con captor de presión intracraneana, retirado después del tercer día. Cuando readquirió vigilancia elevaba los párpados de manera incompleta y transitoria, mejoró poco a poco la persistencia de la apertura. Extubada, siguió mejorando desde el punto de vista general, logrando apertura ocular completa sin esfuerzos después del día decimotercero.
+T9	CALLE 1414 1435	C/ Mar Océana 4, 2º B
+T10	TERRITORIO 1437 1442	28230
+T11	TERRITORIO 1443 1452	Las Rozas
+T12	TERRITORIO 1454 1460	Madrid
+T13	NUMERO_TELEFONO 1470 1482	91 636 03 66

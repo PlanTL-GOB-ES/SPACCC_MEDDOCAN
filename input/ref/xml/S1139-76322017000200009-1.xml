@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Alejandro.
+Apellidos: Martinez Espinosa.
+NHC: 8457890.
+Domicilio: Calle Pinto Nolla, 23, 3C.
+Localidad/ Provincia: Madrid.
+CP: 28056.
+Datos asistenciales.
+Fecha de nacimiento: 11/10/2010.
+País: España.
+Edad: 5 años Sexo: H.
+Fecha de Ingreso: 30/01/2016.
+Médico: Júlia Morata Alba NºCol: 28 28.
+Informe clínico del paciente: niño de cinco años de edad afecto de dermatitis atópica desde los primeros meses de vida, sin otros antecedentes personales ni familiares de interés. Como antecedente infeccioso, destacar que había padecido varicela un año antes sin complicaciones y lesión compatible con herpes labial en el padre unos días antes.
+Consultaron en el Servicio de Urgencias por lesiones cutáneas vesiculosas, eritematosas, de dos días de evolución. Algunas de las lesiones presentaban signos de impetiginización sin signos de celulitis. Las lesiones cutáneas estaban distribuidas en ambos miembros inferiores, superiores y tronco. El resto de la exploración fue anodina. Fiebre de 38 °C máximo desde doce horas antes. No presentaba otra sintomatología. No había un ambiente familiar de infección en el momento de la consulta.
+Ante la sospecha de erupción variceliforme de Kaposi se decidió su ingreso para el inicio del tratamiento intravenoso con aciclovir a 20 mg/kg/día. Se asoció al tratamiento amoxicilina-clavulánico oral a 50 mg/kg/día y curas diarias con clorhexidina.
+Se realizó al ingreso un estudio analítico con hemograma y bioquímica, sin elevación de reactantes de fase aguda, y se extrajo serología para virus herpes simple 1 y 2, Coxsackie, citomegalovirus, toxoplasma, virus de Epstein Barr, parvovirus y virus herpes humano tipo 6.
+La evolución clínica fue favorable, desapareciendo la fiebre en las primeras 24 horas de ingreso y sin aparición de complicaciones sistémicas ni cutáneas.
+A partir del tercer día, las lesiones estaban todas en fase de costra con desprendimiento progresivo de las lesiones costrosas sin incidencias.
+Se decidió el alta al cuarto día de ingreso, completando tratamiento oral con aciclovir durante siete días más.
+A la semana del ingreso no mostraba restos de lesiones cutáneas salvo su dermatitis atópica ya conocida. El resultado de la serología fue negativo para todo lo estudiado salvo IgM positivo para virus herpes simple tipo 1.
+Remitido por: Júlia Morata Alba. Correo electrónico: juliamorataalba@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="29" end="38" text="Alejandro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="51" end="68" text="Martinez Espinosa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="75" end="82" text="8457890" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T14" start="95" end="120" text="Calle Pinto Nolla, 23, 3C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="144" end="150" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="156" end="161" text="28056" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="205" end="215" text="11/10/2010" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="223" end="229" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="237" end="243" text="5 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="250" end="251" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="271" end="281" text="30/01/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="291" end="308" text="Júlia Morata Alba" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="316" end="321" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="353" end="357" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="361" end="371" text="cinco años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T18" start="419" end="433" text="primeros meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="645" end="650" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2331" end="2348" text="Júlia Morata Alba" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

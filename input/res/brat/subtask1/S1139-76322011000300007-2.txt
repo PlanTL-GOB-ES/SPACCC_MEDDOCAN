@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre:  Juan.
+Apellidos: Salvador Castañeda.
+NHC: 3245806.
+Domicilio: Av/ Herrera Oria, 83.
+Localidad/ Provincia: Madrid.
+CP: 28030.
+Datos asistenciales.
+Fecha de nacimiento:20/02/2013.
+País: España.
+Edad: 3 años Sexo: H.
+Fecha de Ingreso: 01/03/2016.
+Médico: María del Rosario García Luzardo  NºCol: 28 28 96028.
+Informe clínico del paciente: Varón de tres años de edad, traído a Urgencias por haber presentado en la hora previa dos episodios de un minuto de duración aproximadamente, consistentes en desconexión ambiental, mirada perdida e hipertonía generalizada; ambos episodios cedieron solos. Dos días antes había comenzado con diarrea y vómitos, no había presentado fiebre. No tenía antecedentes personales de interés. Entre sus antecedentes familiares destacaba únicamente un hermano de seis años que había presentado dos crisis febriles.
+En la exploración física no presentaba datos de deshidratación ni alteraciones neurológicas. Se realizaron hemograma, bioquímica y gasometría venosa, que fueron normales.
+Permaneció en observación durante 20 horas sin presentar nuevas crisis y buena tolerancia a la hidratación oral. En el coprocultivo se detectó rotavirus. Seguimiento posterior sin presentar nuevas crisis y con desarrollo psicomotor normal.
+Remitido por: María del Rosario García Luzardo, saragarlu@telefonica.net

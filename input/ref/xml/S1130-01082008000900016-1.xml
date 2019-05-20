@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Andrés.
+Apellidos: Rivera Guijarro.
+NHC: 7865748.
+NASS: 28 76134805 13.
+Domicilio:  Avda. Islas Filipinas, 34.
+Localidad/ Provincia: Madrid.
+CP: 28047.
+Datos asistenciales.
+Fecha de nacimiento: 02/02/1948.
+País de nacimiento: España.
+Edad: 68 años Sexo: H.
+Fecha de Ingreso: 03/03/2017.
+Servicio: Anestesiología, Reanimación y Terapéutica del Dolor.
+Episodio: 6-473-803.
+Médico: Ricardo Navarro Suay  NºCol: 28 28 57981.
+Informe clínico del paciente: Varón de 68 años asintomático, sin antecedentes de interés, remitido para estudio de una lesión a nivel del proceso uncinado del páncreas. La misma fue detectada incidentalmente por ecografía abdominal realizada para el estudio una de lumbalgia.
+En la imagen de la tomografía computerizada de abdomen se describe una masa inhomogénea a nivel del proceso uncinado con un diámetro en sentido anteroposterior de 3,6 cm, borrosidad de la grasa peripancreática y dilatación del conducto pancreático principal.
+Se procede a una exploración con equipo lineal de ecoendoscopia (PENTAX UX 3630) donde se excluye la invasión de vía biliar y estructuras adyacentes. El estudio citológico del material obtenido por PAAF guiada por ecoendoscopia fue negativo para malignidad.
+Con la sospecha de adenocarcinoma se realiza una duodenopancreatectomía cefálica con disección de ganglios linfáticos. Macroscópicamente se describe una lesión grisácea bien delimitada de 1,8 cm x 1 cm de consistencia blanda con aspecto necrótico en su centro con diagnóstico histopatológico de quiste linfoepitelial.
+Responsable clínico: Dr. Ricardo Navarro Suay Servicio de Anestesiología, Reanimación y Terapéutica del Dolor Hospital Universitario Central de la Defensa "Gómez Ulla" Glorieta del Ejército, 1 28047 Madrid e-mail: r_navarro_suay@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="34" text="Andrés" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="62" text="Rivera Guijarro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="69" end="76" text="7865748" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="84" end="98" text="28 76134805 13" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="112" end="137" text="Avda. Islas Filipinas, 34" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="161" end="167" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="173" end="178" text="28047" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="222" end="232" text="02/02/1948" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="254" end="260" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="268" end="275" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="282" end="283" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="303" end="313" text="03/03/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T7" start="388" end="397" text="6-473-803" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T9" start="407" end="427" text="Ricardo Navarro Suay" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="436" end="447" text="28 28 57981" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="479" end="484" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="488" end="495" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1585" end="1605" text="Ricardo Navarro Suay" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1670" end="1727" text="Hospital Universitario Central de la Defensa &quot;Gómez Ulla&quot;" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1728" end="1752" text="Glorieta del Ejército, 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1753" end="1758" text="28047" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1759" end="1765" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1774" end="1797" text="r_navarro_suay@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

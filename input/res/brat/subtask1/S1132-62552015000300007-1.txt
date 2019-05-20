@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Santiago.
+Apellidos: Pichardo Vazquez.
+NHC: 3578694.
+Domicilio: C/ Mendez Alvaro, 19, 3 A.
+Localidad/ Provincia: Madrid.
+CP: 06004.
+Datos asistenciales.
+Fecha de nacimiento: 10/05/1948.
+País: España.
+Edad: 83 años  Sexo: M.
+Fecha de Ingreso: 06/05/2016.
+Servicio: Cirugía Oral y Maxilofacial.
+Médico: Itziar Coloma González    NºCol: 02 02 32201.
+Varon de 45 años de edad, trabajador de la construcción. Acude por evolución tórpida de lesión en primer dedo del miembro inferior izquierdo que había sido tratada en su centro de atención primaria. El paciente tenía mal control de las glucemias y llevaba el tratamiento antidiabético de forma caótica. No fumador, no dislipemia.
+Acude al Servicio de Urgencias del Hospital por empeoramiento del cuadro clínico con fiebre y deterioro del estado general.
+En el estudio analítico presentaba una leucocitosis elevada con desviación izquierda, discreta anemia, aumento de la VSG, aumento de PCR, deterioro de función renal, deterioro del estudio de coagulación, es decir, una afectación sistémica.
+En la exploración vascular presentaba pulsos positivos a todos los niveles en ambos miembros inferiores, lo que nos indicaba que no existía obstrucción vascular arterial; Doppler CW normal. Así mismo presentaba secreción purulenta a través de fístula en el primer dedo y lesión necrótica del 2o dedo de dicha extremidad, con colección en la planta del pie y celulitis del antepie y tercio inferior de pierna.
+
+En la urgencia se inició tratamiento antibiótico y drenaje de la colección y pasó a planta. En el estudio de RMN del pie se evidenció signos de osteomielitis del primer dedo y colección en planta del pie.Una vez que el estado general y los parámetros analíticos mejoraron, el paciente fue llevado a quirófano donde se realizó una amputación transmetatarsiana de primer dedo y limpieza de las cavidades que tenía en el pie. Posteriormente en planta se realizaron curas diarias durante dos semanas, hasta que el lecho de amputación tuvo buen tejido de granulación y fue enviado a casa para continuar las curas ambulatorias.
+
+Dirección para correspondencia: Felipe Sainz Hospital Central de la Defensa Gómez-Ulla. Servicio de Angiología y Cirugía Vascular. c/ Glorieta del Ejército s/n, Madrid. Correo Electrónico: sainz.felipe@gmail.com

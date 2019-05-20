@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Juan Manuel .
+Apellidos: Moreno Guerra.
+NHC: 3082365.
+NASS: 75 46815490 26.
+Domicilio: Calle Losada Martí 23, 5 B..
+Localidad/ Provincia: Salamanca.
+CP: 06233.
+Datos asistenciales.
+Fecha de nacimiento: 23/010/1990.
+País: España.
+Edad: 50 años  Sexo: H.
+Fecha de Ingreso: 09/11/2015.
+Médico: Raquel Salazar Mendez  
+Paciente varón de 54 años que acude por tumoración en hemiescroto derecho de dos años de evolución, permaneciendo todo este tiempo de manera asintomática. Como antecedentes de interés está intervenido de hidrocele izquierdo. En la exploración física se palpa ligero aumento de tamaño, no doloroso, de cola epididimaria derecha de aproximadamente 2 cms En ecografía testicular lesión de límites bien definidos (14 mm) con buena transmisión sónica y vascularizada en el estudio doppler que comprime y desplaza polo inferior del testículo, siendo este de tamaño y ecoestructura normales. Teste izquierdo con hallazgos compatibles con orquiepididimitis crónica.
+Dirección para correspondencia: Pablo Garrido Abad Servicio de Urología Hospital de la Princesa Diego de León, 28006 Madrid. (España). pgabad@hotmail.com

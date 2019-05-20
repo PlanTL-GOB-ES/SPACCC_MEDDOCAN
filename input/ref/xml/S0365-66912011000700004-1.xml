@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Fabian.
+Apellidos: Pineda Marin.
+NHC: 3745490.
+NASS: 45 47549458 09.
+Domicilio: Av. las Provincias, 13.
+Localidad/ Provincia: Madrid .
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 21/01/1991.
+País de nacimiento: España.
+Edad: 26 años Sexo: H.
+Fecha de Ingreso: 14/07/2017.
+Médico: Raquel Salazar Mendez  NºCol: 28 28 62500.
+Informe clínico del paciente: Varón de 26 años de edad que presenta disminución de agudeza visual (AV) en ojo izquierdo (OI) de dos años de evolución. Portador de la mutación causal de la enfermedad de VHL, padre y hermano con manifestaciones sistémicas del síndrome. A la exploración, la AV del OI es 0,4. En el fondo de ojo izquierdo se aprecia tumoración endofítica anaranjada de dos diámetros de papila en arcada temporal superior con vasos nutricios dilatados. En la tomografía de coherencia óptica (OCT) se evidencia edema quístico difuso en polo posterior y en la angiografía (AFG), hiperfluorescencia precoz de la lesión con fuga en tiempos tardíos. Se solicita estudio sistémico que muestra, además, múltiples nódulos sólidos en ambos riñones sugerentes de hipernefroma bilateral (posteriormente confirmado tras practicarse nefrectomía radical izquierda), un nódulo hipercaptante en la suprarrenal derecha, un probable tumor neuroendocrino pancreático y múltiples hemangioblastomas en protuberancia y médula espinal, con leve edema medular asociado.
+Se inicia fotocoagulación con láser argón en dos sesiones durante las cuales se produce hemorragia subretiniana a lo largo de la arcada vascular y hemorragia vítrea (HV). A los dos meses y ante la ausencia de reabsorción de la HV, se decide vitrectomía 23G, durante la que se completa el tratamiento de la lesión mediante endoláser. A los tres meses de la cirugía, la AV es 0,6. La OCT revela buen perfil foveal, con resolución del edema macular. La AFG confirma el cierre de los vasos nutricios, la lesión presenta un aspecto cicatricial, y aunque capta desde tiempos precoces, no hay fuga, apreciándose vasos de suplencia en la periferia de la lesión.
+Responsable clínico: Dra. Raquel Salazar Mendez. Correo Electrónico: raquelsalazarmendez@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="34" text="Fabian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="47" end="59" text="Pineda Marin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="66" end="73" text="3745490" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="81" end="95" text="45 47549458 09" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="108" end="130" text="Av. las Provincias, 13" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="154" end="160" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="167" end="172" text="28036" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="216" end="226" text="21/01/1991" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="248" end="254" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="262" end="269" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="276" end="277" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="297" end="307" text="14/07/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="317" end="338" text="Raquel Salazar Mendez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="347" end="358" text="28 28 62500" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="390" end="395" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T5" start="399" end="406" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T4" start="567" end="572" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T3" start="575" end="582" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="2099" end="2120" text="Raquel Salazar Mendez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2142" end="2171" text="raquelsalazarmendez@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

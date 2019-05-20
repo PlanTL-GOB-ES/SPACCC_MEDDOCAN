@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Izan.
+Apellidos: Gomez Bonilla.
+NHC: 7894132.
+NASS: 39 48762865 76.
+Domicilio: C/ Berrocal, 14.
+Localidad/ Provincia: Málaga.
+CP: 28034.
+Datos asistenciales.
+Fecha de nacimiento: 28/05/1995.
+País de nacimiento: España.
+Edad: 70 años  Sexo: M.
+Fecha de Ingreso: 24/05/2018.
+Médico: Luz Belén Zambrano Centeno  NºCol: 28 28 47136.
+Un hombre de 54 años de edad sin historia médica previa ni hábitos tóxicos, ingresó en el hospital con una historia de dolor periumbilical, fiebre de 38 a 38,5 °C, meterorismo y náuseas sin vómitos de un mes de evolución. Un día antes de su ingreso notó una masa en el abdomen con aumento del dolor abdominal y desaparición de la fiebre. En la exploración física el paciente tenía buen estado general. La temperatura, pulso, tensión arterial, cabeza, cuello, corazón y pulmones eran normales. La exploración abdominal reveló una masa periumbilical izquierda, dura, dolorosa a la palpación con un diámetro de 10 cm. No había signos de peritonismo ni hepatoesplenomegalia. En los análisis presentaba 14.000 leucocitos/mm3 con desviación a izquierda y una VSG de 94 mm/h. El hematocrito, recuento plaquetario, tiempos de coagulación, bioquímica general, orina elemental y sedimento fueron normales. La radiografía simple de abdomen mostró un aumento de densidad en hipogastrio y la ecografía abdominal demostró una masa de ecogenicidad heterogénea en el músculo recto izquierdo. La TAC abdominal descubrió una masa en pared abdominal con bordes infiltrativos localizada en el músculo recto izquierdo que llega al epiplon mayor, sin afectación visceral. El tránsito gastrointestinal v el enema opaco demostraron divertículos en la 3ª porción duodenal y en colon distal sin signos de diverticulitis o perforación. Se realizó una biopsia con aguja de la masa guiada por TAC y el examen histológico reveló una reacción inflamatoria y la presencia de colonias de Actinomyces. Se instauró tratamiento con clindamicina vía oral (600 mg/6 horas) durante 45 días con buena respuesta clínica y desaparición de la masa. El tratamiento se cambió a Penicilina V vía oral (800 mg/6 horas) durante 1 año. Un TAC abdominal realizado 6 meses después fue normal. Durante el año de seguimiento no hubo reaparición de la masa.
+Dirección para correspondencia: Dra. Patricia Clares Montón. Servicio de Cardiología. Hospital Central de la Defensa Gómez Ulla. Glorieta del Ejército s/n. 28047. Madrid. patri_clares@hotmail.com

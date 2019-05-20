@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Martina .
+Apellidos: Valencia Lopez.
+NHC: 2345645.
+NASS: 78 43563074 56.
+Domicilio: Calle del Alcalde Pablo Durán y Pérez de Castro, 6, 11, A.
+Localidad/ Provincia: Oviedo.
+CP: 15706.
+Datos asistenciales.
+Fecha de nacimiento: 12/01/1960.
+País: España.
+Edad: 69 años  Sexo: M.
+Fecha de Ingreso: 15/04/2016.
+Médico: Francisco Javier Candel   NºCol: 15 15 74870.
+Varón de 72 años, con contraindicación para tratamiento complementario con BCG, al que se administró MMC postRTU sin efectos secundarios. Posteriormente, inició tratamiento con gemcitabina intravesical del que recibió ocho dosis con buena tolerancia, cinco semanales y tres mensuales (la sexta semana no se administró por prostatitis con urinocultivo positivo para Enterococcus faecalis).
+Dirección para correspondencia: Correo electrónico: rocio.gavira.sspa@juntadeandalucia.es (Rocío Gavira Moreno).

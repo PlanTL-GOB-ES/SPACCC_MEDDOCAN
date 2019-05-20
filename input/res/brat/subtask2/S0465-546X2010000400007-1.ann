@@ -1,0 +1,15 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 35	Sandra.
+T2	NOMBRE_SUJETO_ASISTENCIA 47 60	Serra Alvarez
+T3	CALLE 109 126	Av. de Pío XII, 4
+T4	TERRITORIO 150 156	Huesca
+T5	TERRITORIO 162 167	28034
+T6	PAIS 243 249	España
+T7	EDAD_SUJETO_ASISTENCIA 257 264	77 años
+T8	NOMBRE_PERSONAL_SANITARIO 313 331	Pilar Fraile Gómez
+T9	SEXO_SUJETO_ASISTENCIA 354 1726	Mujer de 34 años de edad, de profesión enfermera, que acude a la Unidad Médica de Valoración de Incapacidades del INSS para valoración de IT. El motivo de la baja actual es dolor neuropático (no aporta informes).
+T10	NOMBRE_PERSONAL_SANITARIO 3267 3282	Navarro Chumbes
+T11	HOSPITAL 3328 3364	Hospital Universitario Ramón y Cajal
+T12	CALLE 3366 3404	Carretera de Colmenar Viejo, Km 9, 100
+T13	TERRITORIO 3406 3411	28049
+T14	TERRITORIO 3412 3418	Madrid
+T15	PAIS 3420 3426	España

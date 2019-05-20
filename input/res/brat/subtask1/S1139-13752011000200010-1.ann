@@ -1,0 +1,26 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 48 61	Franco Romero
+T2	ID_ASEGURAMIENTO 83 97	34 87567350 65
+T3	TERRITORIO 150 156	Madrid
+T4	TERRITORIO 162 167	28029
+T5	PAIS 243 249	España
+T6	EDAD_SUJETO_ASISTENCIA 257 264	80 años
+T7	NOMBRE_PERSONAL_SANITARIO 313 380	Marta García Torrelles   NºCol: 28 28 57412.
+T8	CALLE 382 422	Teresa Pérez López, Modesta Mojón Barcia
+T9	TERRITORIO 424 446	María Luz Sordo Castro
+T10	TERRITORIO 448 468	Manuela Pérez Freire
+T11	SEXO_SUJETO_ASISTENCIA 563 1403	Mujer de 50 años diagnosticada al nacimiento de Epidermólisis Bullosa Distrófica Recesiva con afectación de dos terceras partes de la superficie cutánea y con manifestaciones ampollosas desde el período neonatal. A los 45 años de edad es derivada a Consultas de Nefrología para seguimiento por incremento progresivo de los niveles de creatinina en sangre. Se le realiza biopsia renal evidenciando datos compatibles con enfermedad túbulointersticial inflamatoria con depósitos de inmunocomplejos. Se instaura tratamiento conservador con corticoides con mínima mejoría analítica. Un año más tarde es diagnosticada de Insuficiencia Renal Crónica en estadio V (Ccr 10 ml/min y Cr 4,5mg/dl). Se realiza fístula arterio-venosa en miembro superior derecho (húmero-cefálica) y se incluye en programa de hemodiálisis crónica.
+T12	FAMILIARES_SUJETO_ASISTENCIA 2206 4216	Familiares
+T13	NOMBRE_PERSONAL_SANITARIO 4250 4272	Antonio López González
+T14	HOSPITAL 4292 4315	Complexo Hospitalario U
+T15	TERRITORIO 4317 4325	A Coruña
+T16	CALLE 4330 4345	As Xubias no 84
+T17	TERRITORIO 4346 4351	15006
+T18	TERRITORIO 4352 4360	A Coruña
+T19	CORREO_ELECTRONICO 4369 4401	antonio.lopez.gonzalez@sergas.es
+T20	NOMBRE_PERSONAL_SANITARIO 4435 4457	Antonio López González
+T21	HOSPITAL 4477 4500	Complexo Hospitalario U
+T22	TERRITORIO 4502 4510	A Coruña
+T23	CALLE 4515 4530	As Xubias no 84
+T24	TERRITORIO 4531 4536	15006
+T25	TERRITORIO 4537 4545	A Coruña
+T26	CORREO_ELECTRONICO 4554 4586	antonio.lopez.gonzalez@sergas.es

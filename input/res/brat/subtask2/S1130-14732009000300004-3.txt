@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Dania.
+Apellidos: Maldonado Bárcenas.
+NHC: 4135413.
+NASS: 78 92785623 45.
+Domicilio: Av de Villava, 90.
+Localidad/ Provincia: Madrid.
+CP: 06600.
+Datos asistenciales.
+Fecha de nacimiento: 23/01/1956.
+País de nacimiento: España.
+Edad: 41 A  Sexo: M.
+Fecha de Ingreso: 20/02/2018.
+Médico: Pedro Veiga San Román  NºCol: 15 15 42013.
+Niña de 1 día de edad y 40 semanas de gestación que precisó asistencia con forceps en el parto. Sufre una fractura deprimida frontal derecha. Neurológicamente asintomática, fue intervenida realizándose elevación de la fractura. Tras dos años de seguimiento es dada de alta con control por resonancia normal.
+
+Dirección para correspondencia: José Maria Belinchón de Diego. Servicio de Neurocirugía. Hospital General Universitario de Valencia. Av Tres Cruces s/n. 46014 Valencia.

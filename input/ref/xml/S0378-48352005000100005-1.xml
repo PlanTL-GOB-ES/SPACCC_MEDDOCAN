@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Manuela   .
+Apellidos: Garcia Cano.
+NHC: 6562044.
+NASS: 59 47811288 96.
+Domicilio: Av. Ramón Pradera, 36.
+Localidad/ Provincia: Valladolid.
+CP: 47005.
+Datos asistenciales.
+Fecha de nacimiento: 24/10/1933.
+País de nacimiento: España.
+Edad: 80 años Sexo: M.
+Fecha de Ingreso: 27/05/2014.
+Servicio: Oncología.
+Episodio: 1919796.
+Médico: Ana Rosa Rubiales NºCol: 47 47 47297.
+Informe clínico del paciente: Mujer de 80 años que refería la presencia de una tumoración en la mama izquierda desde hacía dieciséis años de la que no había querido consultar por miedo al diagnóstico y a los posibles tratamientos. Aunque refería que al principio el crecimiento había sido lento e indolente, en los dos últimos años había progresado hasta el punto llegar a autoamputar la mama. Había acudido finalmente a la Consulta animada por sus familiares tras presentar dolor dorsal y disnea progresiva, más evidentes en las semanas previas. Presentaba en ese momento adenopatías axilares y supraclaviculares ipsilaterales. En la radiografía de tórax se encontraron signos de derrame pleural y una probable linfangitis carcinomatosa. La gammagrafía ósea mostraba captaciones múltiples. El diagnóstico clínico se confirmó mediante punción de un nódulo que sobresalía sobre el lecho mamario; la citología fue compatible con carcinoma ductal infiltrante. La paciente comenzó tratamiento con tamoxifeno. Dos días después presentó de manera repentina un empeoramiento importante de los dolores dorsales por lo que fue preciso aumentar la analgesia. En las dos semanas siguientes la propia paciente fue retirando los analgésicos hasta llegar a suspenderlos. Tras una elevación transitoria, tanto el CA153 como la fosfatasa alcalina fueron disminuyendo hasta alcanzar niveles normales. Al cabo de seis meses se había obtenido una respuesta completa de las adenopatías si bien persistía un pequeño resto en el lecho mamario; la gammagrafía mostraba una cierta atenuación de las zonas hipercaptantes y se apreciaba una clara mejoría de la afectación pulmonar. La paciente mantuvo la respuesta durante 22 meses. Tras la progresión recibió varias líneas de tratamiento hormonal. Falleció al cabo de 56 meses del diagnóstico.
+Responsable clínico: Dra. Ana Rosa Rubiales Oncología Médica Hospital Clínico Universitario C/ Ramón y Cajal, 3 E-47005 Valladolid E-mail: asrubiales@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="35" text="Manuela" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="51" end="62" text="Garcia Cano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="69" end="76" text="6562044" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="84" end="98" text="59 47811288 96" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="111" end="132" text="Av. Ramón Pradera, 36" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="156" end="166" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="172" end="177" text="47005" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="221" end="231" text="24/10/1933" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="253" end="259" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="267" end="274" text="80 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="281" end="282" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="302" end="312" text="27/05/2014" TYPE="FECHAS" comment=""/>
+    <ID id="T12" start="345" end="352" text="1919796" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T11" start="362" end="379" text="Ana Rosa Rubiales" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="387" end="398" text="47 47 47297" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="430" end="435" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="439" end="446" text="80 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="849" end="859" text="familiares" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T10" start="2245" end="2262" text="Ana Rosa Rubiales" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2280" end="2310" text="Hospital Clínico Universitario" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2311" end="2330" text="C/ Ramón y Cajal, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2331" end="2338" text="E-47005" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2339" end="2349" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2358" end="2380" text="asrubiales@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

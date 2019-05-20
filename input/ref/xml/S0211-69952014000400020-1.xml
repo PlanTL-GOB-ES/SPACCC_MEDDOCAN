@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sandra .
+Apellidos: Ducret.
+NHC: 7361802.
+NASS: 78 78364507 12.
+Domicilio: Calle General Ramirez, 14.
+Localidad/ Provincia: El Ejido, Almeria.
+CP: 04700.
+Datos asistenciales.
+Fecha de nacimiento: 19/09/1946.
+País de nacimiento: Bulgaria.
+Edad: 67 años Sexo: M.
+Fecha de Ingreso: 31/07/2014.
+Servicio: Nefrología.
+Médico: María Eugenia Palacios Gómez  NºCol: 04 04 45112.
+Informe clínico del paciente: Mujer de 67 años, natural de Bulgaria, hipertensa, diabética, obesa, dislipémica y con enfermedad renal crónica (ERC) posiblemente secundaria a diabetes y/o nefroangiosclerosis, en HD desde enero de 2008. Ámbito socioeconómico bajo, convivencia con animales y mala higiene personal.
+Se realiza fístula arteriovenosa (FAV) humerocefálica izquierda, con evolución tórpida, realizando HD por CVC transitorio (múltiples retiradas y nuevas canalizaciones por infecciones de puerta de entrada del catéter [PEC]).
+Ingresa por cuadro de fiebre y escalofríos tras diálisis, compatible con bacteriemia, con hemocultivos positivos a Staphylococcus (St.) aureus. Asocia infección en PEC, por lo que se retira el catéter, que se cultiva, creciendo AX, junto con St. aureus y Enterococcus faecalis. Con tratamiento combinado para los tres gérmenes desaparece el cuadro infeccioso clínica y bacteriológicamente.
+Responsable clínico: María Eugenia Palacios Gómez, Unidad de Nefrología, Hospital de Poniente, Carretera de Almerimar, S/N, 04700, El Ejido, Almería E-mail: eugeniapgomez@gmail.com E-mail: mariaeugenia.palacios@ephpo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T27" start="28" end="34" text="Sandra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T26" start="48" end="54" text="Ducret" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="61" end="68" text="7361802" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="76" end="90" text="78 78364507 12" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T23" start="103" end="128" text="Calle General Ramirez, 14" TYPE="CALLE" comment=""/>
+    <LOCATION id="T22" start="152" end="160" text="El Ejido" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="162" end="169" text="Almeria" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="175" end="180" text="04700" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="224" end="234" text="19/09/1946" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="256" end="264" text="Bulgaria" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="272" end="279" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="286" end="287" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="307" end="317" text="31/07/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="349" end="377" text="María Eugenia Palacios Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="386" end="397" text="04 04 45112" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="429" end="434" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="438" end="445" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T10" start="458" end="466" text="Bulgaria" TYPE="PAIS" comment=""/>
+    <DATE id="T9" start="619" end="632" text="enero de 2008" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="1347" end="1375" text="María Eugenia Palacios Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1399" end="1419" text="Hospital de Poniente" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="1421" end="1448" text="Carretera de Almerimar, S/N" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1450" end="1455" text="04700" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1457" end="1465" text="El Ejido" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1467" end="1474" text="Almería" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="1483" end="1506" text="eugeniapgomez@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T1" start="1515" end="1545" text="mariaeugenia.palacios@ephpo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

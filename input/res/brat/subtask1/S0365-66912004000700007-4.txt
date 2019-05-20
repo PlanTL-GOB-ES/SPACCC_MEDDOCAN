@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Gustavo.
+Apellidos: Ramos Pirez.
+NHC: 3764548.
+NASS: 74 39843756 87 .
+Domicilio: C/ Vicente Calderón, 34.
+Localidad/ Provincia: Livorno.
+CP: 30002.
+Datos asistenciales.
+Fecha de nacimiento: 03/04/1961.
+País de nacimiento: España.
+Edad: 7 años  Sexo: H.
+Fecha de Ingreso: 21/01/2015.
+Médico: Rafael García Cañas   NºCol: 29 29 13247.
+Hombre de 38 años con diagnóstico de EB en 1986, con antecedentes de uveítis anterior con hipopión en el OD, aftas orales recidivantes y tromboflebitis en la extremidad inferior izquierda. El paciente fue tratado con prednisona y ciclosporina, pero tuvo una media de 3 recidivas de uveítis anuales hasta 1997.
+En 1999 fue preciso cambiar la ciclosporina por micofenolato mofetilo debido a nefrotoxicidad con insuficiencia renal e hipertensión arterial. Fue necesario también administrar tratamiento para la osteopenia inducida por corticosteroides.
+El paciente no había sufrido una recidiva desde 1997 pero se inició la GCAP en un esfuerzo por reducir las dosis de mantenimiento de fármacos inmunosupresores. La AV era de percepción luminosa en dos cuadrantes en el OD y de 0,6 en el OI.
+Dirección para correspondencia: Mª Ángeles Carceller Ruiz, C/ Alfonso XIII, 29, 13300-Valdepeñas (Ciudad Real). Telf: 657951424, e-mail: mangelescarceller@hotmail.com

@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Maria Asuncion .
+Apellidos: Piqueras Rubio.
+NHC: 3485623.
+NASS: 80 93467298 65.
+Domicilio: Paseo de San Eugenio 48 .
+Localidad/ Provincia: Pamplona.
+CP: 28007.
+Datos asistenciales.
+Fecha de nacimiento: 27/11/1988.
+País de nacimiento: España.
+Edad: 38 años  Sexo: M.
+Fecha de Ingreso: 20/08/2015.
+Médico: Mario Martín Hernández  NºCol: 28 08 51560.
+JRA. Varón de 16 años. Sobrino. Sin antecedentes de interés. Asintomático. Erupciones cutáneas generalizadas, especialmente en cara, brazos y piernas, muy pruriginosas desde la infancia, diagnosticado de dermatitis herpetiforme (DH). En la analítica destaca una ligera leucopenia (4.800), con descenso del colesterol total (116 mg/dl). La TTG fue normal (0,88 U/ml). Es DQ2 (-) y DQ8 (+). Las biopsias duodenales fueron normales (estadio 0 de Marsh). Se le puso a DSG hace 10 meses, con buena respuesta clínica y analítica, con desaparición de las lesiones cutáneas.
+Dirección para correspondencia: Luis Rodrigo. Servicio de Digestivo. Hospital Universitario Central de Asturias. C/ Celestino Villamil, s/n. 33006 Oviedo. Fax: 985-27-36-14. e-mail: lrodrigos@terra.es

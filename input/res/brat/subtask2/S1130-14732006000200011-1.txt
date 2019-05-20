@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Angel.
+Apellidos: Moreno Ruiz .
+NHC: 4354983.
+NASS: 28 43875654 55.
+Domicilio: Calle Villa de Marin, 1.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 15/02/1997.
+País de nacimiento: España.
+Edad: 21 años Sexo: M.
+Fecha de Ingreso: 10/06/2018.
+Médico: Vicente Javier Clemente SuárezNºCol: 28 28 65890.
+Informe clínico del paciente: Varón de 21 años de edad, que ingresa en el Servicio de Neurocirugía por presentar nódulos en región parietal izquierda que han aumentando de volumen en los últimos 7 meses.
+Como antecedentes personales relevantes destacan: hemofilia A moderada e intervención quirúrgica de escafocefalia en la infancia (craniectomía+bandas de silicona+fijación ósea con hemoclips). Presentó hematoma intraparenquimatoso cerebral espontáneo que fue tratado de forma conservadora. No existen episodios conocidos de traumatismo.
+El examen físico reveló una tumoración elástica indolora, no pulsátil, de superficie lisa, cubierta de "scalp" normal y con un tamaño de 5x3x3 cm. en la región parietal izquierda. El examen neurológico fue normal.
+Los hallazgos de laboratorio fueron: hemoglobina, 16g/ dl; hematocrito, 50%; leucocitos, 6710, con un recuento diferencial normal; plaquetas, 211000; actividad de protrombina, 97%; TTPA: 59seg. Factor VIII: 19%.
+La radiografía simple y TAC de cráneo mostraron una lesión osteolítica de márgenes escleróticos a nivel parietal izquierdo con erosión de la tabla externa e interna y expansión del díploe. La RMN revela un nódulo parietal en el mismo lado, bien delimitado, con distintas áreas de señal en su interior, con hemoglobina en distintos estadios de evolución: alta densidad de señal para la metahemoglobina y baja densidad de señal para la desoxihemoglobina.
+La TAC de tórax, abdomen y pelvis, sasí como la gammagrafía ósea, descartaron tumor o metástasis ósea. El paciente recibió 50U/kg/d de Factor VIII previo a la cirugía lo cual aumentó su nivel de Factor VIII al 89% del normal. A lo largo de la operación recibió una infusión intravenosa continua de 5U/kg/h de Factor VIII.
+Intervención quirúrgica
+Bajo anestesia local se realizó incisión del "scalp" sobre la tumoración y mediante disección subperióstica se observó elevación y erosión de la tabla externa, conteniendo el díploe tejido fibroso cigatricial en torno a un hematoma en distintos estadios de organización y, además, tejido plástico (bandas de silicona). La tabla interna estaba adelgazada, con abalonamiento irregular y defecto óseo.
+Se extirpó el hematoma, el tejido granular y cuerpo extraño (silicona) así como la tabla externa adelgazada y elevada, hasta llegar a hueso de grosor y aspecto normal mediante curetaje óseo.
+El examen histológico confirmó la presencia de hematoma antiguo y tejido de granulación.
+Tras la cirugía, el Factor VIII se mantuvo en el 80% de la actividad normal hasta que se retiró el material de sutura.
+Responsable clínico:  Vicente Javier Clemente Suárez. Departamento de Motricidad, Rendimiento Humano y Gestión del Deporte. Facultad de Ciencias de la Actividad Física y el Deporte. Universidad Europea de Madrid. Calle Tajo, s/n, 28670 Villaviciosa de Odón Madrid, España e-mail: vctxente@yahoo.es

@@ -1,0 +1,19 @@
+Nombre: Gloria.
+Apellidos: Perez Duarte.
+NHC: 2589631.
+NASS: 78 34502760 46.
+Domicilio: C/ Alcalá, 28, 3 A.
+Localidad/ Provincia: Ciudad de Mexico.
+CP: 08014.
+Datos asistenciales.
+Fecha de nacimiento: 08/01/1988.
+País: España.
+Edad: 31 años  Sexo: M.
+Fecha de Ingreso: 14/06/2017.
+Servicio: Urgenicas.
+Episodio: 78135436.
+Médico: Maria Lourdes Maldonado Morales  NºCol: 28 20 78096.
+Paciente de 72 años de edad con antecedentes de ulcus gástrico, diabetes mellitus tipo 2 insulinizada, angina estable, hipertensión arterial, dislipemia y accidente cerebrovascular isquémico con secuela residual en mano derecha. Tratamiento habitual con clopidogrel, carvedilol, nitroglicerina transdérmica, atorvastatina y omeprazol.
+Consulta en febrero 2005 por masa a nivel de fosa iliaca derecha. En exploración ginecológica, presenta una lesión que parece depender de útero. En marzo 2005, se le practica histerectomía y doble anexectomía, junto con resección del tercio final de íleon, al identificarse una masa fibrosada adherida a éste. Anatomía patológica: endometrio atrófico, cervicitis crónica folicular; tumor gastrointestinal del estroma (GIST) ileal de 8 cm de tamaño, con 2-3 metástasis por cada 50 campos de gran aumento, hipercelularidad, celularidad epitelioide, pleomorfismo celular, necrosis focal; c-kit positivo. Valorada en consultas externas de Oncología Médica, se solicita como estudio de extensión: analítica completa: hemoglobina 11,7 mg/dl, con resto de parámetros normales; tomografía axial computerizada (TAC) toraco-abdomino-pélvica: colelitiasis, pequeño nódulo suprarrenal derecho de 2 cm de características benignas; gammagrafía ósea: negativa para metástasis óseas. En octubre se solicitó una tomografía por emisión de positrones (PET), que reflejó la presencia de un depósito patológico de fluorodeoxiglucosa (FDG) a nivel de fosa iliaca derecha, localizado sobre asas intestinales, con un SUV máximo de 8,12. Ante estos hallazgos, se inicia tratamiento con imatinib a dosis de 400 mg/día. La tolerancia a dicho tratamiento ha sido adecuada. En el nuevo estudio de reevaluación, tres meses tras el inicio del tratamiento, persiste el nódulo suprarrenal derecho, sin cambios en el tamaño ni en el aspecto, y la PET no revela la presencia de ninguna lesión residual.
+
+Dirección para correspondencia: María José Molina Garrido. Hospital General Universitario de Elche. Camí de l'Almazara, 11. 03232 Elche. Alicante. e-mail: mjmolinagarrido@hotmail.com

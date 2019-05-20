@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Benito.
+Apellidos: Llosa Lozano .
+NHC: 8597254.
+NASS: 43 75620756 31.
+Domicilio: Calle de Antonio Salcés, 24, 3, B.
+Localidad/ Provincia: Valencia.
+CP: 46009.
+Datos asistenciales.
+Fecha de nacimiento: 27/08/1956.
+País de nacimiento: España.
+Edad: 60 años Sexo: H.
+Fecha de Ingreso: 10/01/2017.
+Servicio: Urología.
+Episodio: 8349623.
+Médico: Vanesa Bango García NºCol: 46 46 58941.
+Informe clínico del paciente: Varón de 60 años, con antecedentes de infecciones urinarias de repetición, que acudió a urgencias por presentar una masa en la zona inferior del abdomen, de unos seis meses de evolución, que sangraba de forma espontánea y le provocaba un intenso dolor.
+Durante la exploración física, se apreció una placa de extrofia vesical en hipogastrio y un pene epispádico completo, que no fueron corregidos quirúrgicamente durante su infancia. Destacaba una formación exofítica en el seno de la placa, de 10 cm de diámetro y consistencia dura, con superficie friable que sangraba al mínimo roce. No se palparon adenopatías inguinales y el resto de la exploración no aportó otros hallazgos.
+En el análisis de sangre, se objetivó una creatinina de 2,2 mg/dL siendo el resto de parámetros normales.
+Tras ingreso hospitalario para completar estudio, se realizó ecografía renal bilateral en la que se apreció dilatación grado III/IV de ambos sistemas pielocaliciales. La urografía intravenosa, mostró una anulación funcional del riñón derecho, con retraso en la eliminación del izquierdo.
+Se biopsió la masa sospechosa obteniendo el resultado histopatológico de adenocarcinoma vesical.
+La TC toraco-abdomino-pélvico y el rastreo óseo no mostraron evidencia de metástasis.
+El paciente se intervino quirúrgicamente, realizándose una cistoprostatectomía radical con linfadenectomía más derivación tipo Indiana y cierre del defecto de pared abdominal con fascia lata. El análisis histopatológico de la pieza quirúrgica reflejó la existencia de un adenocarcinoma tipo intestinal con algunas células en anillo de sello. Los márgenes de la pieza se encontraban infiltrados, con afectación extensa de partes blandas adyacentes y peritoneo y se aislaron dos adenopatías ilíacas infiltradas por el tumor. El estadio tumoral correspondía a un T4bN2M0.
+El servicio de Oncología Médica desestimó tratamiento coadyuvante al considerar que no aumentaría la supervivencia del enfermo.
+En el control de los 6 meses tras la cirugía, se palpó una adenopatía inguinal izquierda, indolora y de consistencia aumentada, junto con induración de los bordes de la herida quirúrgica, hallazgo compatible con recidiva local del tumor que se confirmó mediante biopsia de la zona sospechosa. El rastreo óseo en este momento continuó siendo negativo y en la TC se observó una masa heterogénea de bordes mal definidos en el lecho quirúrgico.
+El paciente falleció 2 meses después por una sepsis de origen urinario.
+Responsable clínico: Dra. Vanesa Bango García Servicio de Urología. Hospital Universitario La Fe de Valencia. Avenida Campanar, 21 - 46009 Valencia Tel.: 963 862 700 E-mail autor: vaneban45@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="34" text="Benito" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="47" end="59" text="Llosa Lozano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="67" end="74" text="8597254" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="82" end="96" text="43 75620756 31" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="109" end="142" text="Calle de Antonio Salcés, 24, 3, B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="166" end="174" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="180" end="185" text="46009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="229" end="239" text="27/08/1956" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T1" start="261" end="267" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="275" end="282" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="289" end="290" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="310" end="320" text="10/01/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T13" start="352" end="359" text="8349623" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T12" start="369" end="388" text="Vanesa Bango García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="396" end="407" text="46 46 58941" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="439" end="444" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="448" end="455" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2931" end="2950" text="Vanesa Bango García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2973" end="3013" text="Hospital Universitario La Fe de Valencia" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="3015" end="3035" text="Avenida Campanar, 21" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3038" end="3043" text="46009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3044" end="3052" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="3059" end="3070" text="963 862 700" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T2" start="3085" end="3106" text="vaneban45@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

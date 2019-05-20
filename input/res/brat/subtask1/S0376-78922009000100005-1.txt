@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Saúl.
+Apellidos: Flores Castillo.
+NHC: 2784563.
+NASS: 28 73457802 36.
+Domicilio: Calle Catedral, 23.
+Localidad/ Provincia: Murcia.
+CP: 30120.
+Datos asistenciales.
+Fecha de nacimiento: 19/02/1990.
+País de nacimiento: España.
+Edad: 24 años Sexo: H.
+Fecha de Ingreso: 27/06/2014.
+Médico: Álvaro Fernández García NºCol: 30 30 25501.
+Informe clínico del paciente: Varón de 24 años de edad que sufre una severa lesión por aplastamiento en miembro superior izquierdo. Tras una atención inicial, el paciente presenta exposición de la placa de osteosíntesis en el tercio distal del radio y trombosis de las anastomosis de revascularización radial y cubital a nivel del carpo. La ausencia de flujo reverso en la arteria interósea posterior fue constatada mediante Doppler de Ultrasonidos.
+Tras el desbridamiento se procedió a realizar un bypass radio-cubital con injerto de vena safena para revascularización del miembro. Como medio de cobertura del material de osteosíntesis y la anastomosis distal del by-pass se planteó un colgajo en hélice de perforante interósea posterior de 15x7,5 cm en la cara dorsal del antebrazo. La perfornte cutánea se halló 4 cm proximal a la articulación distal.
+Una vez que el colgajo pudo ser pivotado en los vasos perforantes cutáneos de la arteria interósea posterior se procedió a su rotación 90 grados por el borde cubital del antebrazo hasta alcanzar la cara volar del carpo. La zona donante se cubrió con un injerto de piel parcial.
+Responsable clínico:  Dr. Álvaro Fernández García C/ Mariano Estrada Lorca nº 15, Portal 2, Piso 1ºD. El Palmar. 30120 Murcia. España. e-mail: alvaro.fernandez@telefonica.net

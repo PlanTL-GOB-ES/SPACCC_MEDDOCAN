@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Raúl.
+Apellidos: Vargas Castro.
+NHC: 2789354.
+Domicilio: Calle San Bernardo, 29 4F.
+Localidad/ Provincia: Tres Cantos, Madrid.
+CP: 03459.
+Datos asistenciales.
+Fecha de nacimiento: 24/11/1979.
+País: España.
+Edad: 12 años  Sexo: H.
+Fecha de Ingreso: 21/11/2017.
+Servicio: Urgencias.
+Episodio: 1919796.
+Médico: Maria Mora Alba   NºCol: 36 36 58794.
+Paciente mujer de 70 años y 62 kg de peso. Diagnosticada de espondiloartrosis lumbar con radiculopatía, en tratamiento con Durogesic® Matrix 50 μg/h, paracetamol 1 g, ocasionalmente, y pregabalina 75 mg/12 h desde hace 4 meses (EVA, 3-4). Acude a la consulta por mal control analgésico desde hace 2 semanas, en tratamiento con fentanilo genérico 100 μg/h (EVA, 8). Se prescribe nuevamente Durogesic® 50 μg/h y se mantiene tratamiento inicial, siendo valorada a los 15 días, donde se evidencia la mejoría clínica (EVA, 4).
+
+Dirección para correspondencia: Mariano Casado Blanco Instituto de Medicina Legal de Badajoz Campus Universitario Avda. de Elvas s/n 06071 Badajoz E-mail: mariano.casado@justicia.es

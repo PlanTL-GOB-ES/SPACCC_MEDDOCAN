@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Alfonso.
+Apellidos: Diaz Sierra.
+NHC: 8973552.
+NASS: 89 56785477 01.
+Domicilio: C/ Melquiades, 2, 6, 1.
+Localidad/ Provincia: Madrid.
+CP: 28047.
+Datos asistenciales.
+Fecha de nacimiento: 01/06/1979.
+País de nacimiento: España.
+Edad: 38 años Sexo:H.
+Fecha de Ingreso: 08/01/2018.
+Médico: René Salas Cabrera NºCol: 28 28 57992.
+Informe clínico del paciente: Hombre de 38 años de edad, con hepatitis B como único antecedente personal de interés, que presentaba un cuadro de polaquiuria y tenesmo vesical de 11 meses de evolución acompañado de hematuria terminal sin coágulos.
+En la exploración física el abdomen era blando y depresible sin visceromegalias ni otras alteraciones. Al tacto rectal, la próstata tenía un volumen I/IV, era elástica, mal definida y casi plana. Genitales normales.
+Análisis de sangre con hemograma, bioquímica, coagulación y PSA dentro de parámetros normales. Análisis de orina con pH 5,5. Sedimento urinario con 15-20 leucocitos/campo y moco abundante. Urocultivo estéril.
+La citología de orina era negativa para células tumorales malignas y en la ecografía renal, vesical y prostática no se encontraron alteraciones, siendo la próstata homogénea, de contornos bien definidos, de 17 x 20 mm.
+Las urografías intravenosas mostraban unos riñones y uréteres normales, y un desplazamiento de la vejiga hacia la izquierda y arriba por una masa pélvica subvesical (sin defectos de relleno vesicales apreciables). En la cistouretrografía se observaba una compresión vesical extrínseca.
+En la cistoscopia realizada no se observaban alteraciones endovesicales. En la TAC abdóminopélvica se observaba una gran masa pélvica anterior a la vejiga, que medía 12 cm de diámetro, de contornos bien definidos, que desplazaba la vejiga hacia atrás y a la izquierda, y las asas intestinales cranealmente, con plano graso de separación entre la masa y la vejiga. Tras la administración de contraste la masa realzaba su densidad.
+Puesto que no quedaba claro su origen, se realizó RNM, confirmando que sus medidas eran 8x12x13cm, bien delimitada, localizada por delante de la vejiga y rechazando a éstas hacia atrás y a la izquierda. La masa formaba lobulaciones y se delimitaba por una fina cápsula. La sospecha diagnóstica en la RNM era de fibroadenoma del uraco por su aspecto lobulado y presencia de tejido fibroso con zonas nodulares que realzaban con la inyección de contraste iv.
+El diagnóstico de la PAAF fue 'tumor morfológicamente benigno, probablemente adenomatoide'.
+Ante los hallazgos anteriormente descritos, se decidió la extirpación del tumor. En el tacto bimanual, la masa se movilizaba a la compresión prostática. A través de una incisión media infraumbilical y acceso extraperitoneal se identificó una masa pélvica situada a la derecha de la vejiga y que parecía depender de la cara anterior prostática. Tras la apertura de la fascia endopelviana se seccionó el fino pedículo prostático del cual dependía la masa. La biopsia intraoperatoria fue informada como tumor epitelial maligno con intensa fibrosis reactiva. No se realizó la prostatectomía a la espera de un diagnóstico definitivo, dado que macroscópicamente parecía benigna.
+El estudio histopatológico describía, macroscópicamente, una tumoración nodular de superficie lisa de 12,5x12,5x7 cm, que pesaba 50 g. En uno de sus bordes existía un delgado pedículo de 0,7 mm de longitud. Microscópicamente se componía de una proliferación de células fusiformes sin atipias en cantidad variable, adoptando en algunas áreas un patrón tipo hemangiopericitoide, asociada a una gran diferenciación de gruesos haces de colágena que predominan en el tumor. Había focos muy aislados de células atípicas con <4 mitosis/10 campos de gran aumento. El pedículo presentaba estructuras arteriales y venosas rodeadas por un tejido conjuntivo en el seno del cual se identificaban nidos con diferenciación fibroblástica. El estudio inmunohistoquímico mostró positividad para CD34, D99 y vimentina, antidesmina focalmente positiva y keratinas de amplio espectro, citoqueratina 7, EMA, actina, enolasa, S-100, cromogranina y p53 negativas. El índice de proliferación tumoral expresado por el Ki67 fue inferior al 1%.
+El diagnóstico definitivo fue de tumor fibroso solitario.
+Tras tres años de seguimiento el paciente no presenta recidiva de la enfermedad en la RNM y está asintomático.
+Responsable clínico: René Salas Cabrera Servicio de Urología. HULP. Correo Electronico. revimcaribe@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="28" end="35" text="Alfonso" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="48" end="59" text="Diaz Sierra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="66" end="73" text="8973552" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="81" end="95" text="89 56785477 01" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="108" end="130" text="C/ Melquiades, 2, 6, 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="154" end="160" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="166" end="171" text="28047" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="215" end="225" text="01/06/1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="247" end="253" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="261" end="268" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="274" end="275" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="295" end="305" text="08/01/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="315" end="333" text="René Salas Cabrera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="341" end="352" text="28 28 57992" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="384" end="390" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T4" start="394" end="401" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="4389" end="4407" text="René Salas Cabrera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T2" start="4430" end="4434" text="HULP" TYPE="HOSPITAL" comment=""/>
+    <CONTACT id="T1" start="4456" end="4477" text="revimcaribe@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

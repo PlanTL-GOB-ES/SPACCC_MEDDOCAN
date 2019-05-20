@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Maria.
+Apellidos: Natalizzo Vauro.
+NHC: 2987562.
+NASS: 87 63678940 36.
+Domicilio: Carrer de Santa Eugenia, 46.
+Localidad/ Provincia: Pamplona.
+CP: 28013.
+Datos asistenciales.
+Fecha de nacimiento: 10/05/1978.
+País: España.
+Edad: 77 años  Sexo: H.
+Fecha de Ingreso: 30/04/2015.
+Médico: Jose Miguel Mora Ordóñez  NºCol: 08 08 12364.
+Mujer de 65 años de edad, también referida por el Servicio de Dermatología con diagnóstico de carcinoma basocelular en el canto interno de ojo derecho. Practicamos resección tumoral con margen libre de 0.5 cm confirmado mediante biopsia por congelación. El defecto se extendió hasta la pared lateral de la nariz. La reconstrucción se hizo también con la técnica descrita.
+
+Dirección para correspondencia: Dra. Jezabel de Abullarade Unidad Médica Atlacatl del Instituto Salvadoreño del Seguro Social San Salvador. El Salvador e-mail: drdeabullarade@gmail.com

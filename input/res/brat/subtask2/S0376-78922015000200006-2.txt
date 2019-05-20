@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Ángel.
+Apellidos: Pérez Navarro.
+NHC: 7845633.
+NASS: 31 92740649 04.
+Domicilio: C/ Francos Rodríguez, 28.
+Localidad/ Provincia: Madrid.
+CP: 28030.
+Datos asistenciales.
+Fecha de nacimiento: 06/06/1950.
+País: España.
+Edad: 85  Sexo: M.
+Fecha de Ingreso: 16/10/2017.
+Médico: Juan José Arén Frontera   NºCol: 28 28 21009.
+Paciente de 53 años con antecedente de carcinoma de útero y ovario con recaída en pared abdominal además de lesión retroperitoneal y hernia incisional sobre cicatriz de colostomía. Fue tratada por el Servicio de Cirugía Gastrointestinal practicándosele resección quirúrgica local ampliada de la lesión de la pared abdominal, resección de la lesión retroperitoneal y reparación del defecto de la fascia con malla.
+Recibimos a la pacientes tras este procedimiento con un defecto desde región púbica a hipogastrio de 24 x 13 cm. Procedimos a su cobertura con colgajo anterolateral de muslo pediculado e injertos de piel parcial para la zona donante. Como en el caso anterior, realizamos la trasposición del colgajo por debajo del recto anterior.
+
+Dirección para correspondencia: Dr. Marino Alejandro Cardona González Cirugía Plástica, Grupo Reconstructivo, Instituto Nacional de Cancerología Av. 1a No 9-85 Bogotá, D.C., Colombia e-mail: dr.alejandrocardona@gmail.com

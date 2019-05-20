@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Julieth.
+Apellidos: Guijarro Fariñas.
+NHC: 7846283.
+NASS: 23 71989456 02.
+Domicilio: Calle de Acella, 1.
+Localidad/ Provincia: Madrid.
+CP: 06411.
+Datos asistenciales.
+Fecha de nacimiento: 27/03/1952.
+País: España.
+Edad: 43 Años  Sexo: M.
+Fecha de Ingreso: 31/03/2018.
+Servicio: Oftalmologia.
+Episodio: 746589123.
+Médico: Sonia Pérez Oliván  NºCol: 08 20 87416.
+Mujer de 29 años de edad con inicio a los 8 años de tumoraciones nodulares en labio superior que respetaban filtrum en un 80%, nariz, cejas, nasion y lóbulos auriculares. En un primer tiempo quirúrgico se realizó resección de piel de espesor total de ambos hemilabios, resección en huso de ambas cejas, reconstrucción de hemilabios con colgajos nasogenianos de base inferior y resección de triángulos de espesor total en lóbulos auriculares de forma bilateral.
+
+En un segundo tiempo quirúrgico, 6 meses después, se realizó colocación de expansor tisular en la frente, rectangular de 100 cc, con llenado intraoperatorio de 10 cc, y que después se infiltró semanalmente a partir de la tercera semana postcolocación con un 10% de su capacidad, hasta completar el llenado a las 9 semanas. Una vez concluida la expansión se intervino quirúrgicamente, 12 semanas después, para retirada del expansor y rotación de colgajo frontal, así como corrección de pliegues epicantales secundarios a la resección de la piel de las cejas.
+
+Un mes después de la rotación del colgajo, procedimos a adelgazarlo y otro mes más tarde, seccionamos el pedículo.
+
+Dirección para correspondencia: Dra. Claudia Gutiérrez Gómez Puente de Piedra # 150 T-2 C-420 Col. Toriello Guerra C.P. 14050 México D.F. México e-mail: clauggdelh@yahoo.com.mx

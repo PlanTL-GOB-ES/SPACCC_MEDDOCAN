@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Ramona.
+Apellidos: Alondo Rodriguez.
+NHC: 57926.
+NASS: 34 78654702 56.
+Domicilio: Calle las lomas 29, 3C.
+Localidad/ Provincia: Madrid.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 06/03/1942.
+País: España.
+Edad: 74 años Sexo: M.
+Fecha de Ingreso: 05/11/2016.
+Médico: Laura Crespo Pérez NºCol: 28 28 47168.
+Historia del paciente: Mujer de 74 años cirrótica VHC asociada a hemocromatosis estadio B8 de Child con múltiples ingresos con el diagnóstico de encefalopatía hepática severa recurrente (17 ingresos en 20 meses). La ecografía abdominal convencional objetivó un parénquima hepático heterogéneo sin lesiones ocupantes de espacio compatible con hepatopatía crónica, una vena porta permeable de 13 mm y un bazo homogéneo discretamente aumentado de tamaño (13 cm). Por otro lado, el estudio doppler desmostró la inversión del flujo en las venas porta y esplénica, sin visualizarse un claro shunt porto-sistémico. Se realizó entonces un angioTC que reveló la existencia de una marcada circulación colateral y un shunt espleno-renal asociado. La paciente mantuvo cifras de amonio persistentemente elevadas. Mediante radiología intervencionista se procedió a la embolización parcial del shunt con microcoils consiguiéndose un notable enlentecimiento del flujo sanguíneo a través del shunt. La ecografía abdominal postembolización demostró un flujo portal hepatópeto con persistencia de flujo hepatófugo en la vena esplénica y disminución de la circulación colateral periesplénica.
+Tras la embolización la paciente experimentó una mejoría clínica inmediata y las cifras de amonio se normalizaron. En los 18 meses siguientes a la embolización del shunt ha precisado ingreso hospitalario en tres ocasiones, en relación con descompensación hidrópica leve, síndrome hepatorrenal y encefalopatía hepática grado I. Se realizó una endoscopia oral post-embolización en la que no se objetivaron varices esófago-gástricas.
+Remitido por: Laura Crespo Pérez. Departamento de Gastroenterología. Hospital Universitario Ramón y Cajal. Ctra. de Colmenar, km 9,100. 28034 Madrid. Fax: 91 336 87 85. e-mail: lcreper@yahoo.es / jgraus@ya.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="15" text="Ramona" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="28" end="44" text="Alondo Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="51" end="56" text="57926" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="64" end="78" text="34 78654702 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="91" end="113" text="Calle las lomas 29, 3C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="137" end="143" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="149" end="154" text="28036" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="198" end="208" text="06/03/1942" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="216" end="222" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="230" end="237" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="244" end="245" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="265" end="275" text="05/11/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="285" end="303" text="Laura Crespo Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="311" end="322" text="28 28 47168" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="347" end="352" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="356" end="363" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="1942" end="1960" text="Laura Crespo Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1997" end="2033" text="Hospital Universitario Ramón y Cajal" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="2035" end="2062" text="Ctra. de Colmenar, km 9,100" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2064" end="2069" text="28034" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2070" end="2076" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="2083" end="2095" text="91 336 87 85" TYPE="NUMERO_FAX" comment=""/>
+    <CONTACT id="T2" start="2105" end="2121" text="lcreper@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T1" start="2124" end="2137" text="jgraus@ya.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

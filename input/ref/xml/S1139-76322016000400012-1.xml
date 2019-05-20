@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Alma Marin Moreno .
+Apellidos: Marin Moreno.
+NHC: 4567653.
+Domicilio: Calle Sangenjo, 29, 3D .
+Localidad/ Provincia: Madrid.
+CP: 28034.
+Datos asistenciales.
+Fecha de nacimiento: 13/08/2016.
+País: España.
+Edad: 1 mes Sexo: M.
+Fecha de Ingreso: 01/10/2016.
+Servicio: Pediatría.
+Episodio:  9874565651.
+Médico: Julia Morata Alba NºCol: 28 28 70726.
+Historia Actual: Niña de un mes y medio de edad que es remitida a la consulta de Pediatría por un riñón derecho pélvico y un mechón blanco de pelo en la región frontal.
+Procede de la primera gestación de una madre sana. Embarazo controlado sin incidencias, con ecografías normales salvo por el riñón derecho pélvico. Parto vaginal, instrumentado a la edad gestacional de 38 semanas. Peso al nacimiento de 2320 gramos, Apgar 10/10. Otoemisiones correctas bilaterales.
+Antecedentes: Antecedentes familiares: padres de raza blanca, madre sana de 25 años, padre sano de 36 años, salvo manchas acrómicas en el tercio medio de ambos muslos, sin haber sido diagnosticado de ninguna enfermedad. Se desconocen otros antecedentes familiares.
+Exploración: La paciente está asintomática; su ritmo intestinal y diuresis son normales. En la exploración física presenta un mechón de pelo blanco frontal y una mácula acrómica de forma triangular en la región frontal. No tiene otras lesiones cutáneas. El resto de la exploración es normal, con desarrollo psicomotor hasta el momento normal.
+Resumen de pruebas complementarias: Se sospecha clínicamente un piebaldismo, pero se solicitan pruebas complementarias para comprobar que no presenta anomalías oftalmológicas ni sordera, que deben estar ausentes para confirmar el diagnóstico clínico de piebaldismo. Con la valoración oftalmológica se descartaron lesiones oculares y se realizaron potenciales evocados auditivos, que fueron normales.
+En la ecografía abdominal se confirmó la presencia de un riñón derecho pélvico sin otras anomalías.
+Se solicitó estudio analítico (hemograma y química), que fue normal, y estudio genético para mutación del gen KIT (OMIM 164920) (4q12), que fue negativo. Se detectó una variante en heterocigosis en el gen KIT de significado clínico desconocido [c.2509G>A;(p.Ala837Thr)] (en el padre también resultó negativo).
+Remitido por: Julia Morata Alba. Hospital Ramón y Cajal. Ctra. De Colmenar Viejo, km. 9,100, 28034 Madrid. Correo electrónico: juliamorataalba@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T27" start="28" end="45" text="Alma Marin Moreno" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T26" start="59" end="71" text="Marin Moreno" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="78" end="85" text="4567653" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T24" start="98" end="120" text="Calle Sangenjo, 29, 3D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T23" start="145" end="151" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T22" start="157" end="162" text="28034" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T20" start="206" end="216" text="13/08/2016" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T21" start="224" end="230" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T18" start="238" end="243" text="1 mes" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="250" end="251" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T19" start="271" end="281" text="01/10/2016" TYPE="FECHAS" comment=""/>
+    <ID id="T12" start="315" end="325" text="9874565651" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T14" start="335" end="352" text="Julia Morata Alba" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="360" end="371" text="28 28 70726" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T15" start="390" end="394" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T17" start="398" end="412" text="un mes y medio" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="581" end="586" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="879" end="900" text="padres de raza blanca" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="902" end="923" text="madre sana de 25 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="925" end="946" text="padre sano de 36 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="2225" end="2230" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T13" start="2272" end="2289" text="Julia Morata Alba" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2291" end="2313" text="Hospital Ramón y Cajal" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2315" end="2349" text="Ctra. De Colmenar Viejo, km. 9,100" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2351" end="2356" text="28034" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2357" end="2363" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2385" end="2410" text="juliamorataalba@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

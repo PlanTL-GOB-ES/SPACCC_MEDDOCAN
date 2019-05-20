@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Eduardo.
+Apellidos: Gomez Martin.
+NHC: 7610828.
+NASS: 72 36478560 60.
+Domicilio: C/ Madrid, 129, 2, 1.
+Localidad/ Provincia: Málaga.
+CP: 29043.
+Datos asistenciales.
+Fecha de nacimiento: 29/05/1995.
+País de nacimiento: España.
+Edad: 20 años Sexo: H.
+Fecha de Ingreso: 11/11/2015.
+Médico: M.a Teresa González López NºCol: 29 29 57470.
+Informe clínico del paciente: Varón de 20 años, pescador, sin antecedentes médicos de interés que presenta dolor y tumefacción en el dedo índice de 2 días de evolución, tras punción con una espina de pescado. A la exploración se objetivan los cuatro signos de Kanavel (hinchazón simétrica y actitud en semiflexión del dedo, dolor a la palpación sobre el trayecto tendinoso flexor del segundo dedo y dolor con la extensión pasiva del dedo.
+Ecográficamente se observó un área hipoecogénica alrededor del tendón flexor del dedo índice y una marcada hipervascularización sinovial. En la exploración quirúrgica se evacuó una pequeña cantidad de pus dentro de la vaina sinovial mediante un drenaje con apertura de las poleas A1 y A5 y sistema de irrigación.
+Responsable clínico: M.a Teresa González López Servicio de Cirugía Cardiovascular. Hospital Regional Universitario Carlos Haya. Málaga. draglezlopez@hotmail.com

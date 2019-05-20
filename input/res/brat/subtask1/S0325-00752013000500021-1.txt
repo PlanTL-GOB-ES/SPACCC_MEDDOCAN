@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Ramiro.
+Apellidos: Sanchez Garcia.
+NHC: 4375280.
+NASS: 47 84327650 05.
+Domicilio: Calle Rostrán, 27.
+Localidad/ Provincia: Madrid.
+CP: 11510.
+Datos asistenciales.
+Fecha de nacimiento: 21/05/1983.
+País: Chile.
+Edad: 21 años  Sexo: H.
+Fecha de Ingreso: 13/06/2007.
+Servicio: Urgencias.
+Episodio: 3658934.
+Médico: Carlos Moreno García  NºCol: 28 28 93458.
+Niño de 8 años que consulta por pérdida de cabello de un mes de evolución. Al examen físico se observa zona alopécica de fondo limpio, asintomática, que compromete la zona occipital y se extiende hacia la zona parietal.
+Se realizó diagnóstico clínico de alopecia areata. Se le solicitó laboratorio general, perfil tiroideo y búsqueda de sedimentos para celiaquía para descartar otras enfermedades asociadas, siendo todos los resultados dentro de los límites normales. El paciente inició un tratamiento local con mometaso-na gotas y minoxidil junto con psicoterapia. Luego de los dos meses aún no se ha observado respuesta satisfactoria al tratamiento indicado.
+Correspondencia: Dra. María MartaBuján: mariambujan@yahoo.com.

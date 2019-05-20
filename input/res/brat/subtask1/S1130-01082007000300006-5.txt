@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Roberto.
+Apellidos: Higueras Patiño.
+NHC: 78623791/784.
+NASS: 23 45065909 38 .
+Domicilio: Calle Génova, 23, 1 A.
+Localidad/ Provincia: Zaragoza.
+CP: 33001.
+Datos asistenciales.
+Fecha de nacimiento: 26/05/1964.
+País de nacimiento: España.
+Edad: 50 años  Sexo: H.
+Fecha de Ingreso: 06/06/2018.
+Médico: Alfonso Vidal Casariego   NºCol: 24 24 693.
+FGR. Mujer de 35 años. Sobrina. Hija de JoRB (caso 4). Soltera. Nacida de 8 meses, con una vuelta de cordón umbilical alrededor del cuello y por parto distócico. Como consecuencia de ello, padece una parálisis cerebral con importante retraso mental y psicomotriz, camina con dificultad con muletas y utiliza parcialmente una silla de ruedas. Se encuentra muy hinchada habitualmente y le sientan muy mal las comidas. Ardores epigástricos frecuentes, acompañados de reflujo. Hábito intestinal muy estreñido, precisando empleo habitual de laxantes. En la analítica existe un descenso persistente de ferritina (6 ng/ml) y del IST (13,4%) sin anemia acompañante. Presenta anticuerpos anti-tiroideos ligeramente positivos (163 U/ml), con normofunción tiroidea. La TTG es ligeramente positiva (1,9), el DQ2 es negativo, siendo DQ8 (+) y las biopsias duodenales mostraron un claro aumento de los linfocitos intraepiteliales (estadio 1 de Marsh).
+Dirección para correspondencia: Luis Rodrigo. Servicio de Digestivo. Hospital Universitario Central de Asturias. C/ Celestino Villamil, s/n. 33006 Oviedo. Fax: 985-27-36-14. e-mail: lrodrigos@terra.es

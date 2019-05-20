@@ -1,0 +1,19 @@
+Nombre:  Paula.
+Apellidos: Lloret Sanchez.
+NHC: 145454.
+NASS: 87 45239547 44.
+Domicilio: Avenida de la barceloneta 19, 3 I.
+Localidad/ Provincia: Barcelona.
+CP: 08005.
+Datos asistenciales.
+Fecha de nacimiento: 03/01/1985.
+País: España.
+Edad: 33 años Sexo: M.
+Fecha de Ingreso: 15/04/2018.
+Médico: Pablo Gómez Faíña  NºCol: 08 08 48574.
+Motivo de ingreso: disminución de agudeza visual.
+Historia Actual: Paciente mujer de 33 años que consultó por disminución de agudeza visual de larga evolución y graves molestias debidas a una conocida sequedad ocular. 
+Su agudeza visual era de 20/100 con ojo derecho (OD) y 20/400 con ojo izquierdo (OI). La biomicroscopía reveló hiperemia conjuntival mixta, neovascularización corneal bilateral implicando a la totalidad de la superficie corneal (tanto superficial como profunda) y queratopatía punteada superficial difusa. El test de Schirmer fue de 10 mm OD y de 5 mm OI, siendo el menisco lagrimal de ambos ojos marcadamente reducido. La presión intraocular era de 14 mm de Hg en ambos ojos. Fue administrado un tratamiento tópico a base de fluorometolona, pomada de eritromicina y abundante lubricación ocular. La agudeza visual se mantuvo para el ojo derecho, no obstante, mejoró notablemente para el ojo izquierdo pasando a ser de 20/50.
+Una exploración física dermatológica y neurológica detallada revelaron queratoeritema y sordera neurosensorial, siendo la paciente diagnosticada de síndrome KID. La historia familiar era negativa para problemas similares y no existía consanguinidad. Se realizó análisis molecular genético del gen GJB2, cuya mutación y relación con el síndrome KID ha sido recientemente establecida, resultando positiva para nuestra paciente.
+Antecedentes: Desde la infancia la paciente sufría sequedad cutánea generalizada, anhidrosis, piosis cutánea, lesiones cutáneas hiperqueratósicas, pérdida de cuero cabelludo, ausencia de cejas y madarosis sin alteraciones de la posición palpebral. 
+Remitido por: Dr.Pablo Gómez Faíña C/ Gran Vía Carlos III, 95, 5º 1ª esc.B. 08028 Barcelona España E-mail: 3683pgf@comb.es

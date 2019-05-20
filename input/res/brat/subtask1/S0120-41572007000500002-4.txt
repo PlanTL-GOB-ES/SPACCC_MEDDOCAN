@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Roberto.
+Apellidos: Perez Gomez.
+NHC: 982756.
+NASS: 36 71394325 11.
+Domicilio: Avenida Alarcos, 25, 4 der..
+Localidad/ Provincia: Madrid.
+CP: 15703.
+Datos asistenciales.
+Fecha de nacimiento: 01/02/1975.
+País: España.
+Edad: 65 años  Sexo: M.
+Fecha de Ingreso: 21/12/2011.
+Médico: Agapito Adrián Núñez Serrano  NºCol: 28 28 01346.
+Hombre de 31 años, soldado, procedente del municipio de Girón, Santander. Consultó en repetidas ocasiones, por cuadro de astenia, adinamia y fiebre esporádica. Luego de cuatro meses de esta sintomatología y múltiples manejos médicos, se realizó gota gruesa encontrándose formas de T. cruzi según el reporte del Laboratorio Clínico del Hospital San Juan de Dios de Girón, confirmado por el Laboratorio Departamental de Salud Pública de Santander. Según este último, las pruebas serológicas IgG fueron negativas. No se envió suero para confirmación en el INS, como tampoco información más detallada acerca de la historia clínica. Se prescribió tratamiento con benzonidazol a dosis de 300 mg/día por 60 días.
+Dirección para correspondencia:  Dra. Rosa María Jiménez Rodríguez.  Servicio de Urología. 5ª planta.  Hospital Universitario Virgen del Rocío.  Avda. Manuel Siurot S/N.  E-41013. Sevilla. (España)  E-mail: ros_j_r@hotmail.com 

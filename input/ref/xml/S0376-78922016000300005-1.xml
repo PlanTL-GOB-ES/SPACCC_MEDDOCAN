@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Valeria.
+Apellidos: Vinuesa Gallardo.
+NHC: 1487633.
+Domicilio: Av. Marconi, 9.
+Localidad/ Provincia: Madrid.
+CP: 28030.
+Datos asistenciales.
+Fecha de nacimiento: 15/11/2011.
+País de nacimiento: España.
+Edad: 8 días Sexo: M.
+Fecha de Ingreso: 23/11/2011.
+Médico: Ignacio Aníbal Capdevilla NºCol: 28 28.
+Informe clínico del paciente: Paciente neonato de 8 días de edad, sexo femenino, pretérmino de 36 semanas y peso elevado (3.600 gr.), que sufre asfixia periparto con encefalopatía neonatal moderada-grave. Debido a la asfixia periparto, se le realiza en el hospital comarcal de origen tratamiento con hipotermia sistémica aplicando sistema CritiCool® (MTRE, Mennen Medical Corp, EE.UU.). A los 8 días de ingreso se le traslada a la Unidad de Vigilancia Pediátrica del Hospital 12 de Octubre. Durante su estancia en esta unidad se pasa interconsulta al Servicio de Cirugía Plástica por lesión cutánea dorsal de aparición precoz. En la valoración observamos una tumoración en espalda, en línea media, de 11x13x4 cm, parcialmente fluctuante, con escara negruzca central de 5 cm de diámetro aproximadamente.
+Solicitamos ecografía de partes blandas para intentar establecer el diagnóstico, que informa de necrosis grasa licuefactiva. Realizamos 2 punciones para evacuar el contenido sin obtener éxito, por lo que decidimos realizar desbridamiento quirúrgico y aplicación de terapia de vacío (Renasys®, Smith&Nephew®, Londres, Reino Unido), al 11er día de ingreso. La terapia fue dispuesta a una presión de 100 mmHg, realizando ciclos continuos y cambios de apósitos cada 72 horas.
+La paciente fue intervenida quirúrgicamente tras 21 días de tratamiento con terapia de vacío, presentando en el momento de la cirugía una herida de buen aspecto, con un fondo con presencia de tejido de granulación y sin exudado. Se procedió al avance de los tejidos, quedando una zona central cruenta de 1 cm2. La paciente permaneció ingresada en el Servicio de Neonatología de nuestro hospital y finalmente fue dada de alta a los 5 días de postoperatorio, con una edad de 45 días de vida.
+Tras 8 meses de evolución la paciente presenta una herida estable, sin dolor, que le permite llevar una vida normal, contabilizando 2 puntos en base a la Escala de Cicatrización de Vancouver (Vancouver Scar Scale).
+Responsable clínico: Dr. Ignacio Aníbal Capdevilla Servicio de Cirugía Plástica Hospital Nuestra Señora del Rosario Madrid, España igcapdevila@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T30" start="28" end="35" text="Valeria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T29" start="48" end="64" text="Vinuesa Gallardo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T28" start="71" end="78" text="1487633" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T27" start="91" end="105" text="Av. Marconi, 9" TYPE="CALLE" comment=""/>
+    <LOCATION id="T26" start="129" end="135" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T25" start="141" end="146" text="28030" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T24" start="190" end="200" text="15/11/2011" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T22" start="222" end="228" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T21" start="236" end="242" text="8 días" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T20" start="249" end="250" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T23" start="270" end="280" text="23/11/2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T19" start="290" end="315" text="Ignacio Aníbal Capdevilla" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T18" start="323" end="328" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T16" start="369" end="376" text="neonato" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T17" start="380" end="386" text="8 días" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="401" end="409" text="femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T13" start="687" end="706" text="Mennen Medical Corp" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T14" start="708" end="714" text="EE.UU." TYPE="PAIS" comment=""/>
+    <LOCATION id="T12" start="797" end="819" text="Hospital 12 de Octubre" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T1" start="1426" end="1438" text="Smith&amp;Nephew" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T11" start="1441" end="1448" text="Londres" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T10" start="1450" end="1461" text="Reino Unido" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="2078" end="2085" text="45 días" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T2" start="2276" end="2285" text="Vancouver" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T8" start="2287" end="2307" text="Vancouver Scar Scale" TYPE="INSTITUCION" comment=""/>
+    <NAME id="T7" start="2335" end="2360" text="Ignacio Aníbal Capdevilla" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2390" end="2425" text="Hospital Nuestra Señora del Rosario" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2426" end="2432" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2434" end="2440" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="2441" end="2462" text="igcapdevila@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Josué.
+Apellidos: Cerna Rodriguez.
+NHC: 3271693.
+NASS: 29 23892036 09.
+Domicilio: Av. duque de pastrana 96, 2D.
+Localidad/ Provincia: Madrid.
+CP: 18014.
+Datos asistenciales.
+Fecha de nacimiento: 15/03/1948.
+País de nacimiento: España.
+Edad: 80 años  Sexo: H.
+Fecha de Ingreso: 19/03/2017.
+Médico: Pedro Ramos Sanchez  NºCol: 20 20 41127.
+Mujer de 21 años, con diagnóstico de EF a los 9 años de edad en contexto de estudio familiar. Síntomas se iniciaron a la edad de 3 a 4 años con dolor quemante en ambos pies, logrando alivio transitorio al colocar sus pies en superficies frías. Crisis de dolor desencadenadas por fiebre y ejercicio. Refiere intolerancia al calor y ocasional sensación de mareos. Escasos angioqueratomas. Terapia de reemplazo iniciada recientemente. Evaluación clínica y neurofisiológica compatible con compromiso neuropático de fibras mielínicas delgadas y amielínicas. Ausencia de RSC en los pies y evaluación intervalo R-R límites normales.
+Dirección para correspondencia: C. Ruiz-Zorrilla López, Unidad de Nefrología, Hospital Río Hortega, Dulzaina, 2, 47012, Valladolid E-mail: carlosruizzorrilla@hotmail.com

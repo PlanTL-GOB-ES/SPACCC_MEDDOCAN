@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Miguel.
+Apellidos: Martinez Fuentes.
+NHC: 7635956.
+NASS: 12 17845723 56.
+Domicilio: Calle Cuenca, 34, 1 C.
+Localidad/ Provincia: San Fernando, Cadiz.
+CP: 11100 .
+Datos asistenciales.
+Fecha de nacimiento: 30/08/1955.
+País de nacimiento: España.
+Edad: 56 años Sexo: H.
+Fecha de Ingreso: 19/12/2011.
+Médico: María Soto Delgado NºCol: 11 11 50124.
+Historia Actual:  varón de 56 años de edad, sin antecedentes personales de interés, que consulta por episodios autolimitados de hematuria macroscópica monosintomática de 2 meses de evolución.
+Exploración física: Al tacto rectal, la próstata estaba bien delimitada y era de consistencia adenomatosa (grado II/IV).
+Pruebas complementarias: Las exploraciones complementarias realizadas fueron las siguientes:
+- Hemograma, bioquímica, urocultivo, citología de orina y sedimento: dentro de la normalidad. PSA: 1,46 ng/ml.
+- Ecografía urológica: quistes sinusales renales bilaterales. Vejiga normal.
+- Urografía intravenosa : distorsión pielocalicial por los quistes antes mencionados. Uréteres permeables. Vejiga normal. En la placa posmiccional llamaba la atención la presencia de una 'fuga de contraste' hacia la cavidad abdominal.
+- Cistoscopia: masa de aspecto sólido de pequeño tamaño localizada en cúpula vesical.
+Evolución: Ante estos hallazgos se procedió a la resección transuretral (RTU) de la lesión, con el resultado histopatológico de adenocarcinoma que infiltra la pared vesical.
+Tras este diagnóstico se realiza estudio de extensión mediante radiografía de tórax (que es informada como normal) y TAC abdominopélvico donde se objetiva una estructura tubular que se extiende desde la cúpula vesical hasta el ombligo con pared gruesa sobre todo cercana a vejiga (uraco persistente con posible infiltración de la pared por tumor) además de moderada cantidad de líquido libre en cavidad peritoneal.
+Una semana antes del tratamiento quirúrgico definitivo, el paciente ingresó por cuadro de fiebre alta acompañada de síntomas miccionales, dolor abdominal, vómitos y anorexia.
+A la exploración física, el paciente presentaba distensión abdominal con cierto grado de irritación peritoneal. En la analítica destacaba la presencia de una leucocitosis con neutrofilia. Tras instaurar tratamiento antibiótico parenteral de amplio espectro, el paciente mejoró de su sintomatología a excepción de la distensión abdominal. En la ecografia abdominal realizada se objetivaba una gran cantidad de líquido ascítico con tabiques en su interior.
+Con la sospecha diagnostica de adenocarcinoma de uraco se realizó una cistectomía parcial amplia que incluía la cúpula vesical, gran masa a nivel de uraco y ombligo, además de una linfadenectomía pélvica. Durante el acto quirúrgico objetivamos una gran cantidad de material mucoide infiltrando toda la cavidad peritoneal (se tomaron varias muestras de distintas localizaciones para estudio histológico). El diagnóstico anatomopatológico de la pieza quirúrgica fue de adenocarcinoma mucinoso de uraco con extensión a vejiga urinaria y peritoneo. El informe histológico del material mucoide enviado fue de pseudomixoma peritoneal.
+En la actualidad, después de 1 año de seguimiento, el paciente se encuentra asintomático y con estudio de extensión libre de enfermedad.
+Responsable clínico: Dr. María Soto Delgado. Cecilio Pujazón nº 26 1º 1. 11100 San Fernando (Cádiz)
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="34" text="Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="47" end="63" text="Martinez Fuentes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="70" end="77" text="7635956" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="85" end="99" text="12 17845723 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="112" end="133" text="Calle Cuenca, 34, 1 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="157" end="169" text="San Fernando" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="171" end="176" text="Cadiz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="182" end="187" text="11100" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="232" end="242" text="30/08/1955" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="264" end="270" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="278" end="285" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="292" end="293" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="313" end="323" text="19/12/2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="333" end="351" text="María Soto Delgado" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="359" end="370" text="11 11 50124" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="390" end="395" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="399" end="406" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="3297" end="3315" text="María Soto Delgado" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="3317" end="3343" text="Cecilio Pujazón nº 26 1º 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3345" end="3350" text="11100" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3351" end="3363" text="San Fernando" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="3365" end="3370" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Marc .
+Apellidos: Machado Briceño.
+NHC: 7235651.
+NASS: 12 39048761 55.
+Domicilio: Paseo de Gil González, 18, 3, 1.
+Localidad/ Provincia: Madrid.
+CP: 45004.
+Datos asistenciales.
+Fecha de nacimiento: 03/01/1975.
+País de nacimiento: España.
+Edad: 51 años  Sexo: M.
+Fecha de Ingreso: 28/11/2017.
+Médico: Ignacio Rubio Tortosa   NºCol: 15 15 48903.
+Se trata de un varón de 46 años con antecedentes personales de infección por VIH diagnosticada en 2006, en tratamiento con tenofovir/emtricitabina y efavirenz desde hace 7 años, con carga viral indetectable y linfocitos CD4 > 500/ml, fumador de 10 cig./día y no bebedor. El paciente estaba en seguimiento en consultas por disfagia mixta, que refería a nivel esofágico alto, sobre todo para sólidos, no progresiva, de 10 años de evolución. Había presentado varios episodios ocasionales de impactación alimentaria que no requirieron extracción endoscópica. No refería odinofagia, ni síndrome constitucional, vómitos ni pirosis.
+Se realizó una gastroscopia en la que se apreciaron múltiples orificios diverticulares en esófago proximal. Se tomaron biopsias de esófago proximal y medio en las que se descartó infiltración de la mucosa por eosinófilos.
+Dado que los hallazgos endoscópicos no justificaban la clínica del paciente, se solicitaron una manometría y pHmetría esofágicas y EGD para completar el estudio. La pHmetría y manometría y esofágicas objetivaron reflujo ácido patológico, además de un trastorno motor de cuerpo esofágico leve de tipo inespecífico. Se apreciaba también un cricofaringeo hipotenso con componente deglutorio normal y un esfínter esofágico inferior normotenso, con relajaciones incompletas e incoordinadas. En el EGD se apreciaron imágenes compatibles pseudodiverticulosis intramural esofágica que llevaron al diagnóstico del paciente y de la causa de su disfagia.
+Dirección para correspondencia: Prof. Dr. Antonio Gómez Sanabria. Facultad de CC de la Educación (UCA). Avda. República Saharaui s/n. 11519 Puerto Real. (Cádiz). E-mail: antonio.sanabria@uca.es

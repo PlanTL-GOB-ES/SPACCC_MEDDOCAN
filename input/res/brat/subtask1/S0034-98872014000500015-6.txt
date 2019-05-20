@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Juan José.
+Apellidos: Serra Ortega .
+NHC: 7834564.
+NASS: 87 44263865 11.
+Domicilio: 500 Villa Fontana Sur.
+Localidad/ Provincia: México DF.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 06/02/1982.
+País de nacimiento: España.
+Edad: 10 años  Sexo: M.
+Fecha de Ingreso: 13/09/2014.
+Médico: Antonio Segura Huerta  NºCol: 08 08 56997.
+Hombre de 49 años que consultó por debilidad progresiva de miembros inferiores de 24 h de evolución con progresión a miembros superiores en las últimas horas. Destacaba entre sus antecedentes un episodio similar dos años antes que mejoró con el aporte de potasio. Presentaba adecuada hidratación cutáneo mucosa, apirexia y TA de 130/90 mm Hg. En la exploración neuromuscular se objetivó una cuadriparesia leve a predominio de miembros inferiores con reflejos osteotendinosos conservados. El valor de K+pl era de 1,8 mEq/L y la CK estaba elevada. Se inició reposición electrolítica con buena respuesta clínica y normalización del K+pl y CK.
+Correspondencia a: Prof. Agda. Dra. Liliana Gadola. Centro de Nefrología. Departamento de Fisiopatología. Hospital de Clínicas. Av. Italia s/n, esq. Las Heras. Piso 15, Ala Central. lilianagad@gmail.com

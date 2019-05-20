@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Sara.
+Apellidos: Diez Navarro.
+NHC: 8973589.
+NASS: 24 57734895 45.
+Domicilio: Av. Damián Téllez Lafuente, 19.
+Localidad/ Provincia: Sevilla.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 15/08/2010.
+País de nacimiento: España.
+Edad: 42 años  Sexo: H.
+Fecha de Ingreso: 10/04/2012.
+Médico: Daniel Lopez García   NºCol: 30 30 57256.
+Mujer de 68 años, con antecedentes de epilepsia y polimialgia reumática, en tratamiento con 10 mg/día de prednisona. Presenta dolor, aumento de tamaño e impotencia funcional en aquíleo derecho a las siete días de iniciar tratamiento con levofloxacino (500 mg/día) indicado por una infección urinaria. Mediante Ecografía se demuestra la existencia de rotura parcial del tendón. Tras retirar el fármaco y tratamiento conservador con reposo y ortesis el cuadro se resuelve en dos meses.
+Dirección para correspondencia: Marta Medrano San Ildefonso. C/ Condes de Aragón, 20, 4D. 50009 Zaragoza. e-mail: mmedrano@unizar.es

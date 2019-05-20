@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Daniel.
+Apellidos: Navalón Pascual.
+NHC: 7456785.
+NASS: 74 57456745 66.
+Domicilio: C/ Juan Alvarez Rico, 5, 2 A.
+Localidad/ Provincia: Tarragona.
+CP: 43007.
+Datos asistenciales.
+Fecha de nacimiento: 24/11/1935.
+País de nacimiento: España.
+Edad: 81 años Sexo: H.
+Fecha de Ingreso: 06/06/2017.
+Médico: Manuel Mirón Rubio  NºCol: 43 43 54213.
+Informe clínico del paciente: Varón de 81 años, con antecedentes de fibrilación auricular crónica, que acudió a nuestro hospital por cuadro de dísnea progresiva de 2 meses de evolución, acompañada de astenia y pérdida de peso no cuantificada. El paciente estaba afebril, objetivándose semiología de derrame pleural derecho. La radiografía de tórax confirmó el derrame pleural y un ensanchamiento mediastínico sin afectación de parénquima pulmonar. El análisis de sangre fue normal. La toracocentesis mostró un líquido espeso de aspecto lechoso con 1400 leucocitos/mm3 con un 10% de neutrófilos y 90% de linfocitos, proteinas 49 gr/L (cociente pleuroplasmático: 0'66), LDH 262 U/L (cociente pleuroplasmático: 0,75), glucosa 10,2 mmol/L, ADA 16 U/L, colesterol 1,75 mmol/L y triglicéridos 12,8 mmol/L. La citología y el cultivo convencional fueron negativos. La intradermoreacción de Mantoux fue negativa.
+La fibrobroncoscopia no mostró lesiones endobronquiales. La tinción de Ziehl-Neelsen y el cultivo en medio de Löwenstein-Jensen del lavado broncoalveolar fueron negativos. Una TC toracoabdominal mostró múltiples masas adenopáticas en el mediastino y derrame pleural bilateral de predominio derecho. Se realizó una punción-aspiración con aguja fina guiada por TC de la masa mediastínica, sin poderse recoger muestra de tejido adenopático. Se realizó entonces, toracoscopia con biopsia pleural y pulmonar, y colocación de un tubo de drenaje pleural. La anatomia patológica mostró lesiones granulomatosas crónicas compatibles con tuberculosis tanto en pleura como en pulmón. La PCR para Mycobacterium tuberculosis fue positiva en la biopsia pulmonar y negativa en pleura. Se inició tratamiento con Isoniazida 300 mg/día, Rifampicina 600 mg/día y Pirazinamida 1250 mg/día. Pese al tratamiento instaurado, el paciente presentó un empeoramiento clínico e insuficiencia respiratoria, siendo exitus. Se realizó la necropsia que informó de quilotórax bilateral, linfadenitis crónica granulomatosa caseificante compatible con tuberculosis de ganglios linfáticos mediastínicos y diseminación miliar pleuropulmonar bilateral, hepática, suprarrenal izquierda y renal.
+Responsable clínico:  Manuel Mirón Rubio. Servicio de Medicina Interna. Hospital Universitario Joan XXIII. C/Doctor Mallafré Guash,4. 43007 Tarragona. e-mail: mmiron70@hjxxiii.scs.es

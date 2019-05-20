@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Ángel .
+Apellidos: Pérez Soler.
+CIPA: nhc-32182565.
+NASS: 13 06423578 65.
+Domicilio: Avenida las naciones 125, 3B.
+Localidad/ Provincia: Huesca.
+CP: 22005.
+NHC: 32182565.
+Datos asistenciales.
+Fecha de nacimiento: 29/09/1954.
+País: España.
+Edad: 61  Sexo: H.
+Fecha de Ingreso: 13/12/2015.
+Médico: Paloma Delgado Bavai NºCol: 22 22 26452.
+Historia Actual y antecedentes: Paciente de 61 años, con antecedentes de prostatectomía radical con linfadenectomía obturatriz de estadiaje por carcinoma de próstata medianamente diferenciado (suma Gleason 5), con afectación microscópica limitada de los márgenes de resección. A los tres meses de la cirugía prostática consulta por un aumento de volumen testicular derecho, con marcadores de tumor testicular negativos, masa con áreas irregulares en ecografía y disminución de flujo vascular en estudio doppler. La evaluación preoperatoria había incluido un TAC abdominal sin hallazgos. El TAC post orquiectomía detecta adenopatías retroperitoneales desde área inguinal hasta bifurcación de renales.
+Tras practicarle una orquiectomía inguinal fue diagnosticado de linfoma testicular difuso de célula grande tipo B.
+Se le administró una primera pauta de quimioterapia citorreductiva según esquema R-CHOPx8, con remisión completa tras la inducción. Presentó una recidiva precoz tratada en segunda línea mediante esquema IFOVM / DHAP, con remisión inicial tras tres ciclos y posteriormente una nueva recidiva, falleciendo a los 14 meses del diagnóstico.
+Remitido por: Paloma Delgado Bavai. Calle Tarbes, 8 - 2º B 22005 Huesca. (España) paldel77@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="14" text="Ángel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="28" end="39" text="Pérez Soler" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="51" end="59" text="32182565" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="67" end="81" text="13 06423578 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="94" end="122" text="Avenida las naciones 125, 3B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="146" end="152" text="Huesca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="158" end="163" text="22005" TYPE="TERRITORIO" comment=""/>
+    <ID id="T16" start="170" end="178" text="32182565" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="222" end="232" text="29/09/1954" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="240" end="246" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="254" end="256" text="61" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="264" end="265" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="285" end="295" text="13/12/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="305" end="325" text="Paloma Delgado Bavai" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="333" end="344" text="22 22 26452" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T8" start="390" end="397" text="61 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1511" end="1531" text="Paloma Delgado Bavai" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1533" end="1555" text="Calle Tarbes, 8 - 2º B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1556" end="1561" text="22005" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1562" end="1568" text="Huesca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1571" end="1577" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="1579" end="1596" text="paldel77@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

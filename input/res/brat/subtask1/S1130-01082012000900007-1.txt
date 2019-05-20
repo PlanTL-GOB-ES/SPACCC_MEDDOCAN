@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Tatiana.
+Apellidos: Reyes Moreno.
+NHC: 7856544.
+NASS: 47 16203430 65.
+Domicilio: Calle Virgen de la Cabeza, 34, 1 C.
+Localidad/ Provincia: Madrid.
+CP: 20118.
+Datos asistenciales.
+Fecha de nacimiento: 19/01/1954.
+País de nacimiento: España.
+Edad: 22   Sexo: H.
+Fecha de Ingreso: 31/05/2011.
+Médico: Nelson Arturo Rodríguez Marco   NºCol: 45 45 12563.
+Mujer de 74 años de edad que ingresó por ictericia obstructiva. La tomografía computerizada mostró una tumoración en cabeza pancreática con dilatación de la vía biliar extrahepática y metástasis pulmonares. Se indicó drenaje biliar mediante CPRE.
+La papila tenía signos de infiltración tumoral. No se logró la canulación biliar tras varios intentos con papilotomo y se accedió al tramo distal coledocal mediante precorte, sin conseguir avanzar la guía a través de la estenosis. Se cambió el duodenoscopio por un ecoendoscopio lineal, con la intención de realizar un drenaje biliar guiado por ecoendoscopia, y se visualizó una perforación de 10 mm (tipo I, Stapfer) en pared posterior del bulbo duodenal, seguramente causado por la punta del ecoendoscopio. Se colocó un clip OTSC atraumático (9,5 a 11 mm) consiguiendo el cierre y se aplicaron dos endoclips en un margen para asegurar el sellaje completo. La TC abdominal informó de retroneumoperitoneo, sin líquido libre. El paciente se mantuvo en dieta absoluta y antibioticoterapia. El tránsito gastrointestinal a los 5 días no mostró fugas. Se reinició dieta oral al sexto día y el drenaje biliar se completó mediante CTPH.
+Correspondencia a: Malak H. Wehbe American University of Beirut Hospital. P.O. Box: 11-0236- Family Medicine Department. Riad El Solh, Beirut:1107-2020. Lebanon-Beirut., fax number: 00-961-1-371 123, tel: 00-961-1-350000, Ext: 3044. Mob: +961 70 10 60 34 dr_malakwehbe@hotmail.com

@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Alejandro.
+Apellidos: Navarro Becker.
+NHC: 206526.
+NASS: 47 23467430 16.
+Domicilio: C/ de Tui, 3, 1, C.
+Localidad/ Provincia: Pamplona.
+CP: 28035.
+Datos asistenciales.
+Fecha de nacimiento: 01/04/1942.
+País de nacimiento: España.
+Edad: 38 años  Sexo: H.
+Fecha de Ingreso: 14/12/2014.
+Médico: Diego Vicente Baz  NºCol: 28 28 96380.
+OVS. Varón de 9 años. Sobrino-nieto. Hijo de CRS (caso 5). Rinitis alérgica de repetición desde el año de nacer y erupciones cutáneas recurrentes, pruriginosas compatibles con DH. No molestias digestivas. Hábito intestinal normal, con ligera tendencia al estreñimiento. Analítica normal. TTG dentro de límites normales (0,9). Es DQ2 (+). La biopsia duodenal fue informada como cambios mínimos (estadio 1 de Marsh). Lleva 1 año a DSG, con buena respuesta.
+
+Dirección para correspondencia: Luis Rodrigo. Servicio de Digestivo. Hospital Universitario Central de Asturias. C/ Celestino Villamil, s/n. 33006 Oviedo. Fax: 985-27-36-14. e-mail: lrodrigos@terra.es

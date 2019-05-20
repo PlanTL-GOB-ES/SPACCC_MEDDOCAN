@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Joaquin.
+Apellidos: Ferrio Alvarez.
+NHC: 4075964.
+NASS: 78 64375670 15.
+Domicilio: C/ Arnaiz, 4, 3 A.
+Localidad/ Provincia: Albacete.
+CP: 50009.
+Datos asistenciales.
+Fecha de nacimiento: 27/09/2017.
+País de nacimiento: España.
+Edad: 84 años  Sexo: H.
+Fecha de Ingreso: 03/11/2017.
+Servicio: Oftalmología.
+Médico: Victor Diniz Borborema dos Santos  NºCol: 08 08 45698.
+Varón de 28 años de edad que acude a urgencias por dolor abdominal y estreñimiento de horas de evolución. El paciente no tiene antecedentes de interés, pero cuenta que ha sido obligado a ingerir "bolas de hachís" 24 h antes de acudir a urgencias. En el momento del ingreso en el hospital el paciente presenta dolor difuso, sin fiebre ni características peritonícas del dolor a la exploración. Analíticamente, no existen alteraciones, y en la Rx de abdomen aparecen niveles de delgado sin dilatación de ciego por lo que se decide manejo conservador. Tras 24 h de evolución el paciente continúa con dolor y signos de obstrucción intestinal asociados a ligera irritación peritoneal en hemiabdomen izquierdo por lo que se decide cirugía.
+En la cirugía aparece perforación en la unión rectosigmoidea causada por una de "las bellotas ingeridas", con peritonitis fecaloidea. Se realiza Hartmann y colostomía con extracción de 26 cuerpos extraños identificados como bolas de hachís. Tras 72 h el paciente presenta nuevo cuadro de obstrucción intestinal, por lo que se reinterviene con carácter urgente y realiza lavado de colon con extracción de 16 cuerpos extraños. El postoperatorio del paciente es tórpido con infección de la herida quirúrgica y un episodio de íleo paralítico, pero es dado de alta tras 30 días de hospitalización.
+
+Dirección para correspondencia: Pablo Franquelo Morales Servicio de Urgencias Hospital Virgen de la Luz Hermandad de Donantes de Sangre no 2 16002.Cuenca. España Correo electrónico: pfranquelo@yahoo.es

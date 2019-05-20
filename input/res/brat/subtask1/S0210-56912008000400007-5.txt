@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: Isabel.
+Apellidos: Sanchez Rivas.
+NHC: 270058.
+NASS: 07 81545702 87.
+Domicilio: Calle La Orozca, 23, 2, 3.
+Localidad/ Provincia: Madrid.
+CP: 08216.
+Datos asistenciales.
+Fecha de nacimiento: 13/06/1939.
+País de nacimiento: España.
+Edad: 71 años  Sexo: M.
+Fecha de Ingreso: 20/12/2016.
+Servicio: Oftalmología.
+Episodio: .
+Médico: Manel Enrubia Iglesias  NºCol: 28 28 64657.
+Se trata de un varón de 45 años que sufrió un accidente de coche. En la valoración inicial estaba estable hemodinámicamente. La TACHT corporal al ingreso mostraba: seudoaneurisma de la aorta torácica distal a la arteria subclavia izquierda con sangrado periaórtico. Ingresó en la UCI, donde se inició el tratamiento médico. A las 36 horas se le realizó una reparación quirúrgica con endoprótesis en la aorta torácica descendente por la vía femoral izquierda. Hubo una oclusión asintomática de la arteria subclavia izquierda.
+La TACHT de control a los 6 días mostraba una correcta localización de la endoprótesis. Al décimo día presentó una pericarditis aguda y fue dado de alta al decimosexto día, asintomático.
+
+Dirección para correspondencia: Dra. P. Ortiz Ballujera. Servicio de Medicina Intensiva (UCI). Hospital Universitari de Girona Doctor Josep Trueta. Avda. de França, s/n. 17007 Girona. España. Correo electrónico: ballujera@hotmail.com

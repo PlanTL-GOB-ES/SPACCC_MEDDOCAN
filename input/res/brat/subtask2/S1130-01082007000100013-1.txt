@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: Antonio.
+Apellidos: Perez Garcia .
+NHC: 7342574.
+NASS: 39 83589066 51.
+Domicilio: C/ Las Avenidas, 56, 7 D.
+Localidad/ Provincia: Santander.
+CP: 39008.
+Datos asistenciales.
+Fecha de nacimiento: 05/04/1977.
+País de nacimiento: España.
+Edad: 39 años Sexo: M.
+Fecha de Ingreso: 10/08/2016.
+Servicio: Urología.
+Episodio: 7842659.
+Médico: Roberto Ballestero Diego NºCol: 39 39 25547.
+Historia Actual: Paciente de 39 años VIH positivo, categoría C3, que consultó en urgencias de nuestro hospital por dolor abdominal. Presentaba adenopatías cervicales bilaterales por infección por Mycobacterium, de la cual se encontraba en tratamiento. El dolor abdominal había comenzado ocho horas antes en el epigastrio y posteriormente se localizó en fosa iliaca derecha. 
+Exploración física: La exploración física reveló ligera distensión abdominal con signos de irritación peritoneal.
+Pruebas complementarias: La única alteración encontrada en el análisis de sangre fue una leve leucocitosis (11,70 x 103/mL) con neutrofilia (78%). La bilirrubina, amilasa, y enzimas hepáticas eran normales. En la ecografía abdominal se observó la presencia de hepatomegalia, esplenomegalia y adenopatías peripancreáticas, paraaórticas y celiacas. No se visualizó el apéndice ni líquido libre peritoneal. El paciente fue intervenido con el diagnóstico clínico de apendicitis aguda. En la exploración quirúrgica el apéndice era macroscópicamente normal, no se observaron adenopatías y se realizó una apendicectomía. El postoperatorio inmediato transcurrió sin incidencias y el paciente fue dado de alta 48 horas después. El estudio histopatológico de la pieza demostró la presencia de leishmanias en el apéndice y en dos ganglios del mesoapéndice. Con este resultado se inició tratamiento médico de la Leishmaniasis.
+Responsable clínico: Dr. Roberto Ballestero Diego Servicio de Urología Hospital Universitario Marqués de Valdecilla Avenida de Valdecilla s/n 39008 Santander (España) rbdballestero@yahoo.es

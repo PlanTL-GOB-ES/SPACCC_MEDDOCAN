@@ -1,0 +1,15 @@
+Datos del paciente.
+Nombre: Nora .
+Apellidos: Khantuck.
+NHC: 7435638.
+Domicilio: Calle de Antonio Salcés, 24, 3, B.
+Localidad/ Provincia: Madrid.
+CP: 15702.
+Datos asistenciales.
+Fecha de nacimiento: 05/09/1952.
+País de nacimiento: España.
+Edad: 38 años  Sexo: H.
+Fecha de Ingreso: 15/08/2017.
+Médico: María García Pous   NºCol: 46 46 58701.
+Mujer, 67 años. Cuatro años antes del ingreso se diagnosticó un cáncer de mama derecha. Consultó por dolor abdominal, náuseas, edema bilateral de ambas extremidades inferiores y oliguria. Existía insuficiencia renal, hidronefrosis bilateral y aumento de la densidad del tejido retroperitoneal, compatible con FRP. Se intentó infructuosamente instalar catéteres ureterales, se efectuó nefrostomía que funcionó defectuosamente e ingresó a hemodiálisis. No se efectuó biopsia retroperitoneal por sus condiciones generales y se prescribió prednisona. La paciente falleció en el hospital a las 6 semanas de su ingreso.
+Correspondencia a: Dr. Jorge Vega Stieb 5 norte 1035, Viña del Mar. Teléfono 56-32-2974237 Fax 56-32-2970050 jvegastieb@gmail.com

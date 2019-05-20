@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Rafael.
+Apellidos: Bordonava Rojas.
+NHC: 164253.
+NASS: 28 38956749 65.
+Domicilio: Avenida Olivos 4109 altura ruta Panamericana km 35,5.
+Localidad/ Provincia: Málaga.
+CP: 11010.
+Datos asistenciales.
+Fecha de nacimiento: 06/07/1999.
+País de nacimiento: España.
+Edad: 60 años  Sexo: M.
+Fecha de Ingreso: 06-09-2017.
+Médico: Rebeca Parada López  NºCol: 31 31 20548.
+Varón de 7 años con infección por VIH adquirida por transmisión vertical, diagnosticada a los 5 años de edad. Consultó por lesiones cutáneas maculares con un centro necrótico. Posteriormente, se agregó episodios de cefaleas intensas asociadas a fiebre. Fue internado con diagnóstico probable de meningitis. Dentro del estudio de líquido céfalo-raquídeo (LCR) se realizó tinción con tinta china que resultó positiva y en el cultivo hubo aislamiento de Cryptococcus neoformans. En ese momento, tenía linfocitos CD4 de 158 céls/mm3 (9%). Recibió tratamiento con anfotericina B deoxicolato i.v y posteriormente fluconazol por vía oral con buena evolución. Se mantuvo hospitalizado con tratamiento antifúngico durante 42 días. Tres meses después se inició monoterapia con zidovudina (AZT), que luego de 8 meses se cambió a didanosina (ddI). Posteriormente, recibió biterapia con ddI y ritonavir. Falleció a los 8 años de edad.
+Correspondencia a: Jorge Quian jorgeq@internet.com.uy

@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: Marcos .
+Apellidos: Santos Alarcón.
+NHC: 2734643.
+NASS: 37 56479563 25.
+Domicilio: C/ Lavapiés, 94, 3, A.
+Localidad/ Provincia: Madrid.
+CP: 28037.
+Datos asistenciales.
+Fecha de nacimiento: 01/08/1951.
+País de nacimiento: España.
+Edad: 66 años Sexo: H.
+Fecha de Ingreso: 27/12/2017.
+Médico: Ignacio Zubillaga Rodríguez NºCol: 28 45 58961.
+Informe clínico del paciente: Varón de 66 años, de origen vietnamita y actualmente con residencia en EE. UU., acude a Urgencias de nuestro centro tras presentar dolor súbito en epigastrio, brusco y que asocia a comida copiosa. El dolor se irradia al hombro izquierdo. En la exploración aparece sudoración y palidez mucocutánea con pulsos distales conservados.
+El paciente se encuentra hipotenso y taquicárdico, su ECG es normal y ante la urgencia del cuadro se solicita ecografía abdominal que nos informa de masa en segmento hepático VI sugestiva de hepatocarcinoma y de la existencia de líquido libre intracavitaria; a continuación se realiza TAC de abdomen con contraste que nos informa de hemoperitoneo muy abundante y de lesión en segmento VI hepático compatible con hepatocarcinoma probablemente roto y con foco hiperdenso junto a la lesión que sugiere sangrado activo. La analítica nos muestra cifras de hemoglobina de 8,8 g/l, hematocrito de 0,249 L/L y 14,310 leucocitos con neutrofilia.
+Dada la situación de inestabilidad del paciente y los hallazgos de las pruebas de imagen decidimos intervención quirúrgica urgente.
+En la laparotomía se identifica la lesión descrita en la ecografía y el TAC y se decide realizar segmentectomía, lavado y drenaje de cavidad.
+A los 7 días (4 de ellos en la Unidad de Cuidados Intensivos) el paciente es dado de alta hospitalaria.
+Responsable clínico: Ignacio Zubillaga Rodríguez. Servicio de Cirugía Oral y Maxilofacial. Hospital Universitario 12 de Octubre. Avenida de Córdoba s/n. 28041 Madrid E-mail: ignaciozubillaga@yahoo.es

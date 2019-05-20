@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Sergio.
+Apellidos: Arandún .
+NHC: 8935720.
+NASS: 47 23467430 16.
+Domicilio: Calle Chile, 11  .
+Localidad/ Provincia: Ciudad Real.
+CP: 13002.
+Datos asistenciales.
+Fecha de nacimiento: 02/04/2018.
+País: España.
+Edad: 27 años  Sexo: H.
+Fecha de Ingreso: 23/10/2015.
+Médico: Esther Campos Mollo  NºCol: 28 28 97403.
+Varón de 45 años de edad, sin antecedentes personales de interés que acude a la consulta de urología por dolor testicular bilateral de 4 años de evolución. La exploración física es normal y la ecografía escrotal realizada con un transductor de alta frecuencia (10 Mhz) pone de manifiesto la presencia de una MT bilateral. Debido a la no existencia de factores de riesgo (criptorquidia, atrofia, infertilidad, neoplasia intratubular de células germinales, disgenesia gonadal, tumor testicular contralateral, administración exógena de estrógenos) se decide seguimiento con autoexploración física mensual y valoración urológica con ecografía escrotal anual, sin realización de biopsia. A los 4 años de seguimiento no ha desarrollado un tumor invasivo de células germinales.
+
+Dirección para correspondencia Nuria Rodríguez García Servicio de Urología Hospital de Getafe Ctra. Toledo, Km. 12,500 28905 Getafe. Madrid (España). nuriaroga8@yahoo.es

@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Hugo.
+Apellidos: Otegi Lopez.
+NHC: 678910.
+NASS: 08 57628946 45.
+Domicilio: Calle las colinas, 23, 4 D.
+Localidad/ Provincia: Madrid.
+CP: 39008.
+Datos asistenciales.
+Fecha de nacimiento: 05/02/1965.
+País de nacimiento: España.
+Edad: 65 años  Sexo: H.
+Fecha de Ingreso: 04/07/2015.
+Servicio: Urologia.
+Episodio: 2215183.
+Médico: Manuel Jesús Rodríguez-López   NºCol: 28 28 57554.
+Paciente varón de 26 años de edad, diagnosticado de síndrome poslaminectomía y hernia discal dorsal, en tratamiento con Durogesic® 25 μg/h durante 2 años, con buena eficacia y seguridad. Se cambia por fentanilo genérico, notándose un empeoramiento del cuadro doloroso. Se vuelve a cambiar a Durogesic®, y de nuevo se estabiliza la analgesia.
+Dirección para correspondencia: Francisco Javier González Barcala Servicio de Neumología Hospital de Pontevedra Loureiro Crespo, 2 36002 Pontevedra Tfno. 34-607819141 E-mail: fjgbarcala@telefonica.net

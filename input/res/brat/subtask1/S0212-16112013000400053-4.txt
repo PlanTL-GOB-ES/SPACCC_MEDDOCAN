@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Matteo  .
+Apellidos: Benavente Rivero.
+NHC: 89725.
+Domicilio: Calle del Monasterio de Las Huelgas, 19.
+Localidad/ Provincia: La Coruña.
+CP: 31001.
+Datos asistenciales.
+Fecha de nacimiento: 15/12/1979.
+País de nacimiento: España.
+Edad: 37 años  Sexo: M.
+Fecha de Ingreso: 16/10/2014.
+Médico: Pedro Infante Cossío 
+Varón de 68 años diagnosticado de adenocarcinoma de cardias estenosante. Se practicó laparotomía exploradora en la que se apreció gran extensión tumoral a nivel local así como afectación de epiplon y mesocolon. Se desestimó cirugía oncológica y se colocó yeyunostomía de alimentación. El paciente fue dado de alta con NED por yeyunostomía, tras lo que se inició tratamiento quimioterápico.
+
+Dirección para correspondencia: María Teresa Fernández López. Médico Adjunto del Servicio de Endocrinología y Nutrición. Complexo Hospitalario Universitario de Ourense. C/ Villa Valencia, 20-6o A. 32002 Ourense. España. E-mail: maria.teresa.fernandez.lopez@sergas.es

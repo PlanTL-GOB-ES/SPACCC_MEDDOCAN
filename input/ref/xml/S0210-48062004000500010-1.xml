@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Manuel.
+Apellidos: Fernández García.
+CIPA: nhc-2545164.
+NASS: .
+Domicilio: Calle Sierra Pambley, 6, 3H.
+Localidad/ Provincia: León.
+CP:24003.
+NHC: 2545164.
+Datos asistenciales.
+Fecha de nacimiento: 28/01/2018.
+País: España.
+Edad: 5 días de nacido Sexo:.
+Fecha de Ingreso: 02/02/2018.
+Especialidad:Urología.
+Médico:María Isabel González Pérez NºCol: 24 24 45612.
+Número de teléfono de la madre: 637 909 232.
+Historia Actual: Niño de 5 días de nacido, que nace en la 40 semana de gestación con parto vía vaginal y presentación cefálica. El peso al nacer es de 3.700 gr y la talla 47 cm. Se solicita valoración urológica ante la existencia de gran aumento de tamaño escrotal bilateral.
+Exploración física:En la exploración física, se objetiva hidrocele a tensión en hemiescroto derecho e hidrocele leve el lado izquierdo, con transiluminación positiva. El teste izquierdo es de características normales en cuanto a morfología y consistencia, siendo dificultosa la palpación testicular derecha por la presencia de hidrocele a tensión.
+Resumen de pruebas complementarias:En la analítica sanguínea destaca moderada leucocitosis. El sedimento de orina fue normal. La ecografía doppler se realizó ajustando a los niveles más bajos del ecógrafo tanto la frecuencia de pulso como el filtro de pared. Los hallazgos fueron de hidrocele bilateral, siendo de gran tamaño el del lado derecho, presentando el teste derecho flujo doppler arterial conservado, aunque con un índice de resistencia (IR) elevado (IR=0,82; Normal: 0,48-0,75), ausencia de flujo venoso y ecogenicidad heterogénea, sugiriendo áreas de desestructuración. El testículo izquierdo es normal ecográficamente, presentando una velocidad de pico sistólica de 11 cm/s y diastólica de 5 cm/s, siendo el IR de 0,55.
+Ante la sospecha de compromiso vascular testicular se decide exploración quirúrgica a las dieciocho horas del nacimiento. Apreciamos hidrocele a tensión sin objetivar torsión del cordón, apareciendo el teste de coloración violácea y aspecto necrótico, por lo que se realizó orquiectomía.
+Evolución y comentarios: La evolución post-operatoria se desarrolló sin complicaciones inmediatas.
+La anatomía patológica de la pieza fue de infarto hemorrágico testicular.
+A los ocho meses de seguimiento el paciente se encuentra asintomático habiendo desaparecido el hidrocele izquierdo.
+Remitido por: María Isabel González Pérez. Servicio de Medicina Intensiva del Complejo Hospitalario de León. Altos de Nava s/n. 24071 León.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="8" end="14" text="Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="27" end="43" text="Fernández García" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="55" end="62" text="2545164" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="83" end="110" text="Calle Sierra Pambley, 6, 3H" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="134" end="138" text="León" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="143" end="148" text="24003" TYPE="TERRITORIO" comment=""/>
+    <ID id="T16" start="155" end="162" text="2545164" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="206" end="216" text="28/01/2018" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="224" end="230" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="238" end="244" text="5 días" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="280" end="290" text="02/02/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="322" end="349" text="María Isabel González Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="357" end="368" text="24 24 45612" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T2" start="395" end="400" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <CONTACT id="T1" start="402" end="413" text="637 909 232" TYPE="NUMERO_TELEFONO" comment=""/>
+    <OTHER id="T9" start="432" end="436" text="Niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="440" end="446" text="5 días" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2363" end="2390" text="María Isabel González Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2427" end="2456" text="Complejo Hospitalario de León" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2458" end="2475" text="Altos de Nava s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2477" end="2482" text="24071" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2483" end="2487" text="León" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: Mario .
+Apellidos: Chavez Montero.
+NHC: 2035647.
+NASS: 74 35613653 01.
+Domicilio: Calle San Benito, 16, 3, A.
+Localidad/ Provincia: Madrid.
+CP: 41329.
+Datos asistenciales.
+Fecha de nacimiento: 25/05/1942.
+País de nacimiento: España.
+Edad: 78 años  Sexo: M.
+Fecha de Ingreso: 29/05/2011.
+Episodio: .
+Médico: José Alberto Hermida Pérez     NºCol: 28 28.
+Mujer de 45 años, sin antecedentes oftalmológicos de interés. Acude a urgencias por náuseas, visión borrosa y dolor en ambos ojos. A la exploración oftalmológica presenta una agudeza visual de movimiento de manos en ambos ojos con inflamación en cámara anterior y vitritis con desprendimiento seroso que afecta a polo posterior de ambos ojos.
+
+Es enviada a nuestro servicio para valoración y tratamiento. Tras iniciar tratamiento corticoideo a altas dosis (200 mg intravenosos de prednisolona que al tercer día se reducen paulatinamente a 160 mg, 120 mg, 80 mg y 60 mg cada tres días, pasando posteriormente a tratamiento con prednisona vía oral), se realiza una angiografía fluoresceínica y un OCT de control. La paciente permanece estable durante el primer año de seguimiento con tratamiento, presentando una agudeza visual de 9/10 en ojo derecho y 8/10 en ojo izquierdo. En el fondo de ojo se observa una atrofia generalizada del epitelio pigmentario con movilización de pigmento.
+
+Dirección para correspondencia: Begoña de Domingo Barón Moas de Abaixo, 4 C 15897 Santiago de Compostela (La Coruña) España E-mail: bdedbar@yahoo.es

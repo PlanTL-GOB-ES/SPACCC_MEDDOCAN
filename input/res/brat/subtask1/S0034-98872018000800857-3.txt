@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Tomás.
+Apellidos: Ferrero Ferrero.
+NHC: 384546.
+NASS: 07 81545702 87.
+Domicilio: Cra. 8a #99-55.
+Localidad/ Provincia: Pamplona, Navarra.
+CP: 50009.
+Datos asistenciales.
+Fecha de nacimiento: 24/07/1961.
+País: España.
+Edad: 53 años  Sexo: Mujer.
+Fecha de Ingreso: 14/06/2018.
+Médico: Nuria López Rodríguez   NºCol: 33 33 15674.
+Hombre de 66 años, zurdo, hipertenso, despertó desorientado y disártrico, con déficit sensitivo-motor de extremidades derechas. Ingresó en vigilia, cumplía órdenes simples, sin embargo, mantenía cerrados los ojos, la apertura mecánica de los párpados mostró pupilas iguales, oculomotilidad conservada con mirada preferencial a izquierda, hemiplejia faciobraquiocrural derecha y hemianopsia. La TC de cerebro mostró hematoma fronto-parietal izquierdo. Al segundo día, debido al progresivo deterioro clínico, fue necesario drenar el hematoma, que evolucionó sin complicaciones. Permaneció comprometido de conciencia hasta el sexto día. Cuando recuperó la vigilancia podía apretar la mano izquierda, pero era incapaz de abrir voluntariamente los ojos, se pudo comprobar que conservaba la oculomotilidad voluntaria y dirigía la mirada a la orden. Desde el octavo día inició apertura palpebral parcial y transitoria del ojo izquierdo. En los días subsiguientes lograba la elevación transitoria de ambos párpados, notándose al decimosegundo día mayor apertura del ojo derecho. Después del decimotercer día tenía elevación persistente de ambos párpados.
+Dirección para correspondencia: Dra. Helena Ascaso Til Servicio de Urología. Fundació Puigvert Cartagena, 340-350 - 08025 Barcelona Tel.: 932 275 400 E-mail autor: hascasotil@yahoo.es

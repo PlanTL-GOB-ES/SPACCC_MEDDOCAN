@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Leticia.
+Apellidos: Marín Rodriguez.
+NHC: 754695.
+NASS:54 65745645 37.
+Domicilio: Calle Valdemingómez 96, 10A.
+Localidad/ Provincia: Madrid.
+CP: 28035.
+Datos asistenciales.
+Fecha de nacimiento: 28/05/1995.
+País: España.
+Edad: 22 años Sexo: M.
+Fecha de Ingreso: 02/02/2018.
+Médico:Ana Zaragoza Herrero NºCol:28 28 52513.
+Historia del paciente: se le realizó una VPP asistida con triamcinolona a una paciente que presentaba la luxación de un cuadrante de cristalino a cavidad vítrea con edema macular secundario en su ojo izquierdo (OI). Tras la facofragmentación, al realizar el pelado de la membrana limitante interna, se observó un marcado edema macular. Debido a dicho edema se inyectaron 5 mg/0,1 ml de triamcinolona acetonido (Trigon depot® Bristol-Myers Squibb SL, Anagni Frosinone, Italia) al terminar la intervención.
+Tras una buena evolución postoperatoria inmediata, acudió a los cuatro días a la consulta con pérdida de agudeza visual (AV) indolora y sensación de cuerpo extraño en el OI. La AV era menor de 0,05, presentando un hipopión de 3,4 mm formado por el depósito de finas opacidades cristalinas sin signos inflamatorios, presión intraocular de 10 mmHg y lente de cámara anterior bien posicionada. En el fondo de ojo se observaba una turbidez vítrea marcada.
+El cuadro clínico que presentaba la paciente hacía pensar en una endoftalmitis infecciosa, tóxica o pseudoendoftalmitis. Dada la precocidad de aparición, la ausencia de signos inflamatorios, salvo el pseudohipopión de gran tamaño, su naturaleza cristalina y que la paciente tenía una lente de cámara anterior que facilitó la difusión de la triamcinolona, el cuadro fue orientado hacia una pseudoendoftalmitis y se decidió controlarla estrechamente con ciprofloxacino colirio cada 2 h (Oftacilox®, Alcon Cusi, El Masnou, Barcelona, España) y Poly-pred colirio® cada 8h (Allergan, Wesport, Co. Mayo, Irlanda). A los cuatro días, se encontraba asintomática, presentando bullas en el epitelio corneal y un hipopión de 4,3 mm. Al no observar mejoría del epitelio corneal se realizó una limpieza quirúrgica de la cámara anterior con suero a los siete días. Tres meses después se encontraba asintomática, su mejor agudeza visual corregida era de 0,3, y la córnea era transparente sin restos de triamcinolona en cámara anterior.
+Remitido por: Dra. Ana Zaragoza Herrero Correo electrónico: ana.zaragoza@hotmail.com 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T27" start="8" end="15" text="Leticia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T26" start="28" end="43" text="Marín Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="50" end="56" text="754695" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="63" end="77" text="54 65745645 37" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T23" start="90" end="117" text="Calle Valdemingómez 96, 10A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T22" start="141" end="147" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="153" end="158" text="28035" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T20" start="202" end="212" text="28/05/1995" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T19" start="220" end="226" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T18" start="234" end="241" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T17" start="248" end="249" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="269" end="279" text="02/02/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T15" start="288" end="308" text="Ana Zaragoza Herrero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T14" start="315" end="326" text="28 28 52513" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T2" start="753" end="776" text="Bristol-Myers Squibb SL" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T1" start="778" end="794" text="Anagni Frosinone" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="796" end="802" text="Italia" TYPE="PAIS" comment=""/>
+    <LOCATION id="T4" start="1782" end="1792" text="Alcon Cusi" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T13" start="1794" end="1803" text="El Masnou" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="1805" end="1814" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T11" start="1816" end="1822" text="España" TYPE="PAIS" comment=""/>
+    <LOCATION id="T3" start="1854" end="1862" text="Allergan" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T9" start="1864" end="1871" text="Wesport" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T8" start="1873" end="1881" text="Co. Mayo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T10" start="1883" end="1890" text="Irlanda" TYPE="PAIS" comment=""/>
+    <NAME id="T7" start="2325" end="2345" text="Ana Zaragoza Herrero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T6" start="2366" end="2390" text="ana.zaragoza@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

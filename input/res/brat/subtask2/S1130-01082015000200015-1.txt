@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: María.
+Apellidos: Fernandez Miguel.
+NHC: 4230987.
+Domicilio: Avda. de la Estación, 2.
+Localidad/ Provincia: La coruña.
+CP: 31250.
+Datos asistenciales.
+Fecha de nacimiento: 23/12/1952.
+País: Cuba.
+Edad: 18 años  Sexo: H.
+Fecha de Ingreso: 13/03/2016.
+Médico: Pablo Garrido Abad         NºCol: 28 28 94267.
+Presentamos el caso de una mujer de 53 años aquejada de dolor en hipocondrio derecho. Es diagnosticada de colelitiasis mediante ecografía abdominal que no reportó otras anormalidades.
+Realizamos un abordaje laparoscópico en posición francesa con 4 puertos. El triángulo de Calot se disecó según técnica habitual, ya que tanto bolsa de Hartman como conducto cístico y arteria cística se encontraban extrahepáticos y visibles. Tras la exposición de la visión crítica realizamos hepatotomía y disección cuidadosa del lecho vesicular.
+La paciente fue dada de alta en menos de 24 horas sin complicaciones.
+Dirección para correspondencia: Correo electrónico: ravipuc@hotmail.com (R. Villar)

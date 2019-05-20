@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Estefanía.
+Apellidos: Salgado Sandoval.
+NHC: 6918705.
+NASS: 56 89527056 79.
+Domicilio: Av. Miguel de Cervantes, 25, 1H.
+Localidad/ Provincia: Tarancón, Cuenca.
+CP: 16400.
+Datos asistenciales.
+Fecha de nacimiento: 15/07/1977.
+País: España.
+Edad: 40 años Sexo: M.
+Fecha de Ingreso: 23/02/2018.
+Servicio:Urgencias.
+Episodio: 2597851623.
+Médico: María Pilar Orgaz Gallego NºCol: 16 16 89231.
+Informe clínico del paciente: Mujer de 40 años que acudió al servicio de urgencias del centro de salud por otalgia unilateral derecha y cefalea de 3 días de evolución. Se trató como una otitis externa con gotas de beclometasona + clioquinol. Al día siguiente volvió a urgencias por cefalea que cedió casi completamente con terapia analgésica intravenosa, asociándole al tratamiento previo dexketoprofeno 25 mg/8 h. Dos días después vino a la consulta refiriendo cefalea punzante, sensación opresiva a nivel periorbitario y acúfenos en el oído derecho, objetivándose en la exploración ausencia de inflamación en el conducto auditivo externo (CAE), hiperemia selectiva de la cadena osicular sin alteración timpánica y discreto nistagmo horizontal, indicándole tratamiento con levofloxacino 500 mg/24 h, betahistina y baja laboral. A los dos días acudió por el parte de incapacidad temporal refiriendo mejoría del dolor ótico, pero cierta sensación de inestabilidad, sustituyéndose betahistina por sulpiride 50 mg/8 h. Cuarenta y ocho horas después consultó por "no encontrarse mejor"; notaba parestesias en la hemicara derecha desde esa misma mañana, ageusia en la hemilengua derecha y durante la entrevista apreciamos blefaroespasmos en el ojo izquierdo, confirmándose en la exploración una parálisis facial periférica derecha (asimetría facial al sonreír y al soplar, así como una ligera abertura ocular derecha al indicarle que cerrara los ojos), por lo que se derivó a urgencias de hospital para valoración otorrinolaringológica. La audiometría mostró una leve caída en agudos en el oído derecho. Los pares craneales fueron normales excepto el VII. No tenía nistagmus espontáneo. La otoscopia mostró hiperemia en la porción superior del CAE y se visualizaron pequeñas vesículas en el pabellón auricular derecho, por lo que fue ingresada con el diagnóstico de "Síndrome de Ramsay Hunt derecho" para iniciar tratamiento con aciclovir intravenoso y control evolutivo.
+Remitido por: María Pilar Orgaz Gallego. Centro de Salud de Tarancón. C/ Camino Corral de Almaguer, s/n. C.P. 16400. Tarancón. Cuenca (España). Correo electrónico: mporgaz@sescam.jccm.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="28" end="37" text="Estefanía" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="50" end="66" text="Salgado Sandoval" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="73" end="80" text="6918705" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="88" end="102" text="56 89527056 79" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="115" end="146" text="Av. Miguel de Cervantes, 25, 1H" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="170" end="178" text="Tarancón" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="180" end="186" text="Cuenca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="192" end="197" text="16400" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="241" end="251" text="15/07/1977" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="259" end="265" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="273" end="280" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="287" end="288" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="308" end="318" text="23/02/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T13" start="350" end="360" text="2597851623" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T12" start="370" end="395" text="María Pilar Orgaz Gallego" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="403" end="414" text="16 16 89231" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="446" end="451" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="455" end="462" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2397" end="2422" text="María Pilar Orgaz Gallego" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2424" end="2451" text="Centro de Salud de Tarancón" TYPE="CENTRO_SALUD" comment=""/>
+    <LOCATION id="T6" start="2453" end="2486" text="C/ Camino Corral de Almaguer, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2493" end="2498" text="16400" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2500" end="2508" text="Tarancón" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2510" end="2516" text="Cuenca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2518" end="2524" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2547" end="2569" text="mporgaz@sescam.jccm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Marcos.
+Apellidos: Baeza Pisma.
+NHC: 8439754.
+NASS: 45 61378056 56.
+Domicilio: Calle Pacífico, 44 1B.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 11/02/1957.
+País de nacimiento: España.
+Edad: 17 años  Sexo: H.
+Fecha de Ingreso: 23/05/2018.
+Médico: Antonio Palomeque Jiménez  NºCol: 28 28 16541.
+Mujer de 70 años, con antecedentes de hipertensión arterial y tabaquista de 20 paquetes/año, en quien un LNH sistémico se presentó con características clínicas de un SAA, en su variante disección de aorta descendente. Se presentó al servicio de emergencias luego del inicio de un dolor dorsal agudo y disnea. La TAC reveló la presencia de una gran masa de tejido blando, periaórtico, tóraco-abdominal y un gran derrame pleural derecho, sin adenopatías. Posteriormente se realizó una resonancia magnética nuclear (RMN). Se internó en la Unidad de Cuidados Intensivos, donde se realizó un ecocardiograma transesofágico que descartó la disección aórtica. Se realizó toracocentesis, donde se aspiraron cerca de 2 litros de líquido hemorrágico, cuya citología reveló células malignas compatibles con LNH.
+
+La biopsia de médula ósea mostró linfoma de células pequeñas, fenotipo B. La biopsia por laparotomía de la masa periaórtica mostró LNH folicular de bajo grado con lo cual se arribó al diagnóstico de LP.
+La quimioterapia con CHOP-R fue efectiva, con resolución inicial completa de la masa objetivado por TAC, pero desarrolló luego quilotórax, malnutrición y falleció.
+Correspondencia a: Dr. Pablo Young. Hospital Británico. Perdriel 74 (1280) Buenos Aires, Argentina. Tel: 5411 43096400. Fax: 5411 43043393. E mail: mailto:pabloyoung2003@yahoo.com.ar

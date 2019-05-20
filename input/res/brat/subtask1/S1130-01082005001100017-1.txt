@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Manuel José .
+Apellidos: Pedroche Muñoz.
+NHC: 21412043.
+NASS: 89 56206853 21.
+Domicilio: Avda. Los Vientos, 44.
+Localidad/ Provincia: Barcelona.
+CP: 24701.
+Datos asistenciales.
+Fecha de nacimiento: 19/12/2011.
+País de nacimiento: España.
+Edad: 8 dias  Sexo: H.
+Fecha de Ingreso: 16/05/2016.
+Episodio: 7843034.
+Médico: Isabel Dapena Sevilla  NºCol: 28 28 17114.
+Varón de 64 años con antecedente de TBC antigua y exfumador acude a Urgencias por dolor intenso en hemiabdomen izquierdo de comienzo brusco, acompañado de náuseas y vómitos en posos de café. A la exploración se encuentra hemodinámicamente estable, con abdomen doloroso. Analíticamente presenta leucocitosis de 27.800/L con neutrofilia del 83,2% y hemoglobina de 8,3 g/L, resto sin interés. La radiografía de tórax pone de manifiesto un derrame pleural derecho; se solicita ecografía abdominal que muestra tumoración heterogénea en hipocondrio izquierdo entre bazo y riñón sugestiva de hematoma. La TAC abdominal confirma la existencia de hematoma retroperitoneal izquierdo sugestivo de aneurisma de arteria esplénica de tumor suprarrenal sangrante.
+Dirección para correspondencia: Mariola Sirvent Ochando. Servicio de Farmacia. Clínica Vistahermosa. Av. Denia, 103. 03013 Alicante. E-mail: m.sirvento@telefonica.net

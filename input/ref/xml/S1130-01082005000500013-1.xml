@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Sandra.
+Apellidos: Peña Nieto.
+NHC: 9823465.
+NASS: 76 34647986 53.
+Domicilio: Calle de Miquel Roca i Junyent, 5 .
+Localidad/ Provincia: Zaragoza.
+CP: 50011.
+Datos asistenciales.
+Fecha de nacimiento: 21/11/1973.
+País: España.
+Edad: 43 años Sexo:.
+Fecha de Ingreso: 01/03/2017.
+Servicio:.
+Episodio:.
+Médico: Jorge Subirá Ríos NºCol: 50 50 56851.
+Motivo de ingreso:.
+Historia clinica del paciente: Mujer, 43 años, con antecedentes de exéresis de melanoma cutáneo maligno nodular en hombro izquierdo (Breslow: 3,9 mm; nivel IV de Clark; pT3bN0M0) en 1998. Fue tratada con interferón durante un año. Los controles cada 6 meses, fueron negativos. A los 5 años ingresa en el Servicio de Cirugía por un episodio de oclusión intestinal. TAC abdominal: invaginación de intestino delgado. Tratamiento: intervención quirúrgica urgente: resección segmentaria de íleon por tumoración intraluminal que afectaba la serosa. Se palparon más tumoraciones polipoideas que no se resecaron, por no disponer de diagnóstico peroperatorio durante la cirugía de urgencia. El postoperatorio fue correcto y sin complicaciones.
+Estudio macroscópico : superficie serosa lisa, sonrosada, pliegues preservados y dos tumoraciones que ocupan parcialmente la luz (3,5 x 1,5 x 4 cm y 1,2 x 1 x 1 cm). Al corte, la superficie era sólida, homogénea, marronosa con áreas negruzcas y la consistencia blanda.
+Microscópicamente: células de citoplasma amplio, eosinofílico o claro con un núcleo vesicular y nucléolo prominente. Focalmente había melanina en el citoplasma. Se observaban abundantes mitosis. Las células tumorales ulceraban la mucosa y infiltraban difusamente toda la pared intestinal y focalmente el mesenterio y en otras áreas ocupaban luces vasculares. Las células tumorales eran positivas para los anticuerpos monoclonales HMB 45 y proteína S-100.
+En base a la información clínica, la imagen histológica y el resultado de la immunohistoquímica el diagnóstico definitivo fue de metástasis en intestino delgado de melanoma cutáneo conocido.
+Se inicia estudio para valorar opción quirúrgica de rescate: tránsito de intestino delgado que informa como mínimo dos lesiones más en la unión yeyuno-ileal, y un PET donde se aprecia captación en la línea media abdominal, siendo el resto del estudio normal.
+La paciente es reintervenida. Se practica resección intestinal de dos segmentos de yeyuno y íleon respectivamente, quedando macroscópicamente libre de enfermedad. El estudio patológico nos mostró que los tumores tenían las mismas características histológicas anteriormente descritas.
+Remitido por: Jorge Subirá Ríos. Plaza San Francisco 7, 3D 50006 Zaragoza. (España). kokedoc@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="15" text="Sandra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="28" end="38" text="Peña Nieto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="45" end="52" text="9823465" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="60" end="74" text="76 34647986 53" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="87" end="120" text="Calle de Miquel Roca i Junyent, 5" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="145" end="153" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="159" end="164" text="50011" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="208" end="218" text="21/11/1973" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="226" end="232" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="240" end="247" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="273" end="283" text="01/03/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="315" end="332" text="Jorge Subirá Ríos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="340" end="351" text="50 50 56851" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="404" end="409" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="411" end="418" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T6" start="555" end="559" text="1998" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="2580" end="2597" text="Jorge Subirá Ríos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2599" end="2624" text="Plaza San Francisco 7, 3D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2625" end="2630" text="50006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2631" end="2639" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2642" end="2648" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2651" end="2670" text="kokedoc@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

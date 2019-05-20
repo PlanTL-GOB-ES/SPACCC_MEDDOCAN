@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Ana Maria.
+Apellidos: Martel Rajoy.
+NHC: 546534.
+NASS:25 87045626 23.
+Domicilio: Av. de los Reyes Leoneses, 3.
+Localidad/ Provincia: León.
+CP: 24008.
+Datos asistenciales.
+Fecha de nacimiento: 10/10/1964.
+País: España.
+Edad: 53 años Sexo: M.
+Fecha de Ingreso: 16/10/2017.
+Episodio: 368556.
+Médico: Miguel Cordero-Coma NºCol: 24 24 67845.
+Historia Actual: Mujer de 53 años de edad diagnosticada de esclerosis tuberosa a los 29 años por la presencia de múltiples lesiones faciales (adenoma sebáceo). Antecedente de mastopatía fibroquística de mama y bocio coloide. Sus padres e hijos no presentan signos de la enfermedad. Refiere desde dos años antes dos lesiones palpebrales que le provocan picor y lagrimeo en el ojo derecho. A la exploración presenta múltiples lesiones faciales con distribución en alas de mariposa, de aspecto plano, bien delimitadas (algunas se superponen), rojizas y no descamativas de aproximadamente 0,4 a 0,8 cm de eje mayor. A nivel periungueal tanto en dedos de pies como de manos presenta fibromas (Tumores de Koeman), y una mancha hipopigmentada en tórax. En párpado inferior izquierdo presenta dos lesiones que afectan a borde libre palpebral, nodulares, de aspecto quístico y color blanco-amarillento, localizadas en 1/3 medio y 1/3 externo del párpado de 0,5 y 0,3 cm de diámetro. El diagnóstico clínico fue de quistes epidérmicos de inclusión. El resto de la exploración tanto oftalmológica (fondo de ojo) como sistémica (TAC craneal, torácico y abdominal) fueron normales. El tratamiento quirúrgico consistió en la resección de las dos tumoraciones palpebrales mediante dos cuñas que englobaban las lesiones, con buen resultado estético y funcional. El diagnóstico histopatológico fue de angiofibroma por la presencia de una pronunciada proliferación colágena asociada a hiperplasia angiomatosa. Después de 18 meses de seguimiento no se ha evidenciado recurrencia.
+Remitido por: Miguel Cordero-Coma. Hospital de León C/. Altos de Nava, s/n 24080 León. España E-mail: miguelcorderocoma@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T27" start="9" end="18" text="Ana Maria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T26" start="31" end="43" text="Martel Rajoy" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="50" end="56" text="546534" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="63" end="77" text="25 87045626 23" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T23" start="90" end="118" text="Av. de los Reyes Leoneses, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T22" start="142" end="146" text="León" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="152" end="157" text="24008" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T20" start="201" end="211" text="10/10/1964" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T19" start="219" end="225" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T18" start="233" end="240" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T17" start="247" end="248" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="268" end="278" text="16/10/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T15" start="290" end="296" text="368556" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T14" start="306" end="325" text="Miguel Cordero-Coma" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="333" end="344" text="24 24 67845" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="363" end="368" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="372" end="379" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="431" end="438" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="575" end="581" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="584" end="589" text="hijos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1920" end="1939" text="Miguel Cordero-Coma" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1941" end="1957" text="Hospital de León" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1958" end="1980" text="C/. Altos de Nava, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1981" end="1986" text="24080" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1987" end="1991" text="León" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1993" end="1999" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2008" end="2035" text="miguelcorderocoma@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

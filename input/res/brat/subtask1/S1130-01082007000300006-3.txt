@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Arturo .
+Apellidos: Pacheco Ortiz.
+NHC: 4564903.
+NASS: 47 20939857 30.
+Domicilio: Calle puente cesures, 16.
+Localidad/ Provincia: Madrid.
+CP: 17001.
+Datos asistenciales.
+Fecha de nacimiento: 05/12/1936.
+País de nacimiento: España.
+Edad: 65 años  Sexo: H.
+Fecha de Ingreso: 15/06/2016.
+Servicio: Anestesiología, Reanimación y Terapéutica del Dolor.
+Médico: José Pérez Silvestre   NºCol: 45 45 87952.
+JoRB. Mujer de 57 años. Hermana. Casada y con 1 hija única de 35 años con EC (caso 6). Tuvo tres abortos (uno antes y dos después del parto de su hija). Rinitis alérgica asociada. Asintomática desde el punto de vista digestivo. En el hemograma presenta leucopenia persistente (4.450), sin anemia asociada. Presentó positividad transitoria a los anticuerpos anti-músculo liso (AML) a título medio (1/320), en una determinación realizada hace 2 años, con PFH normales, que posteriormente desaparecieron sin tratamiento inmunosupresor. La TTG estaba discretamente elevada (1,5 U/ml). Es DQ2 (+) y la biopsia duodenal muestra la presencia de un denso infiltrado inflamatorio crónico a nivel de la lámina propia, sin atrofia de vellosidades (estadio 2 de Marsh). Está con DSG desde hace un año, con buena respuesta.
+Dirección para correspondencia: Luis Rodrigo. Servicio de Digestivo. Hospital Universitario Central de Asturias. C/ Celestino Villamil, s/n. 33006 Oviedo. Fax: 985-27-36-14. e-mail: lrodrigos@terra.es

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre: José Antonio .
+Apellidos: Duran Navarro.
+CIPA: 21413043.
+NASS: 73 4563215 45.
+Domicilio: Av. de Huelva, 6.
+Localidad/ Provincia: Badajoz.
+CP: 06005.
+NHC: nhc-21413043.
+Datos asistenciales.
+Fecha de nacimiento: 15/03/1954.
+País: España.
+Edad:  59 Sexo: H.
+Fecha de Ingreso: 29/12/2017.
+Especialidad:.
+Médico:Eduardo Sánchez   NºCol: 29 06 1995.
+Motivo de ingreso: Herida de arma de fuego.
+Historia Actual: Se trata de un paciente de 59 años que ingresa con una herida de arma de fuego con orificio de entrada en la nalga, de unos 4 milímetros de diámetro y sin orificio de salida. Además presenta otra herida de bala en el muslo derecho con orificio de entrada por detrás y salida por delante, sin afectación de estructuras importantes. El paciente está consciente, orientado y con una ligera defensa abdominal. 
+Exploración y pruebas complementarias: En la radiografía simple de abdomen aparece una bala situada a la altura de la sínfisis del pubis, así como una fractura de la rama descendente derecha del mismo. El enfermo llega en retención, siendo imposible el sondaje, por lo que se pone un catéter suprapúbico. Después se efectúa una laparotomía, no encontrándose ninguna otra lesión, realizándose una colostomía izquierda. Al día siguiente se realiza una uretrografía, comprobándose que hay paso de contraste desde la uretra hasta el recto, lo que provoca fiebre alta con escalofríos que se mantiene durante unos días. Posteriormente, cinco días después de la primera intervención, se lleva el paciente al quirófano, se realiza una colonoscopia evidenciándose la perforación rectal. Seguidamente se introduce un uretrotomo endoscópico hasta la uretra prostática visualizándose el orificio, aparentemente grande, que une la uretra con el recto. A pesar de todo se consigue encontrar el camino que lleva hasta la vejiga y por último se deja una sonda del dieciocho.
+Acto seguido, en el mismo acto quirúrgico, se hace una laparotomía hasta la sínfisis del pubis, se revisa de nuevo el abdomen comprobándose que no hay ninguna lesión. A continuación se diseca el espacio de Retzius y mediante control radiológico, se palpa la cara anterior de la próstata, que está hiperplásica, hasta conseguir tocar el proyectil. Seguidamente con una pinza de anillo y siempre bajo control radiológico se consigue agarrar y extraer la bala. El postoperatorio cursa sin incidencias y el paciente es dado de alta a los pocos días con la sonda.
+Evolución: A los tres meses el paciente está asintomático, se le hace una nueva colonoscopia, se comprueba que el orificio rectal ha desaparecido y se cierra la colostomía, sin incidencias. Sin embargo la sonda se le deja tres meses más, es decir un total de seis meses. Transcurrido este tiempo se realiza de nuevo una uretrografía, se comprueba que la brecha se ha cerrado y se retira la sonda. Seis meses más tarde, el paciente vuelve para control, está asintomático y con una función sexual normal; esta vez se realiza tan sólo un ultrasonido, que es normal y es dado de alta definitiva.
+Remitido por: Eduardo Sánchez de Badia Calle Strachan, 4 -2º piso 29015- Badajoz (España) edusaba@telefonica.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="21" text="José Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="35" end="48" text="Duran Navarro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="56" end="64" text="21413043" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="72" end="85" text="73 4563215 45" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="98" end="114" text="Av. de Huelva, 6" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="138" end="145" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="151" end="156" text="06005" TYPE="TERRITORIO" comment=""/>
+    <ID id="T16" start="167" end="175" text="21413043" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="219" end="229" text="15/03/1954" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="237" end="243" text="España" TYPE="TERRITORIO" comment=""/>
+    <AGE id="T13" start="252" end="254" text="59" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="261" end="262" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="282" end="292" text="29/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="316" end="331" text="Eduardo Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="341" end="351" text="29 06 1995" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T8" start="441" end="448" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3045" end="3069" text="Eduardo Sánchez de Badia" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3070" end="3096" text="Calle Strachan, 4 -2º piso" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3097" end="3102" text="29015" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3104" end="3111" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3113" end="3119" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="3121" end="3143" text="edusaba@telefonica.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Roberto .
+Apellidos: Mendez Lorenzo.
+NHC: 8238612.
+NASS: 83 28634576 54.
+Domicilio: Paseo de las palmeras .
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento:28/06/1945.
+País de nacimiento: España.
+Edad: 72 años Sexo: H.
+Fecha de Ingreso: 30/07/2017.
+Médico: Noemí Ruiz del Río NºCol:28 28 90172.
+Informe clínico del paciente: Paciente varón de 72 años de edad que sufre un traumatismo craneoencefálico grave, por un accidente de tráfico, presentando en el momento del ingreso una puntuación de 8 en la escala del coma de Glasgow. Clínicamente asociaba traumatismo grave torácico y pélvico que precisó intubación orotraqueal y drenaje torácico. La TAC craneal mostró un sangrado intraventricular y una ligera hemorragia subaracnoidea frontoparietal derecha, que evolucionaron como higromas subdurales. No existían lesiones en la fosa posterior. En la TAC facial se apreció una fractura múltiple del macizo facial incluyendo el techo y la pared medial de la órbita izquierda.
+Cuando el paciente abandona la UCI y se encuentra clínicamente estable, el estudio oftalmológico puso de manifiesto una AV de 0,7 en ambos ojos. En la biomicroscopía se apreciaba una facoesclerosis moderada sin presencia de otras alteraciones. En la funduscopía se encontró como hallazgo casual fibras nerviosas mielinizadas en ambos ojos, las papilas eran normales y no existían alteraciones del polo posterior ni lesiones periféricas. En el estudio de la motilidad ocular intrínseca apareció una anisocoria con midriasis del ojo izquierdo. En cuanto a la motilidad extrínseca se observó una parálisis de ambos nervios abductores y del motor ocular común izquierdo completa (incluyendo ptosis). Clínicamente se manifestaba con tortícolis, así como diplopía en todas las posiciones, resultando incapacitante.
+Dado que ninguna de las lesiones descritas radiológicamente justificaban los hallazgos clínicos, ni eran susceptibles de tratamiento quirúrgico, se decidió completar el estudio mediante una RM craneal para encontrar una explicación fisiopatológica a los hallazgos clínicos. Dicha exploración reveló la existencia de petequias subcorticales y lesiones focales de cuerpo calloso, todo ello compatible con el diagnóstico de daño axonal difuso. No se encontraron lesiones estructurales en el tronco del encéfalo.
+Tras cuatro meses de evolución el paciente presentaba una parálisis combinada que no había mejorado clínicamente. Como procedimiento terapéutico se practicó la inyección de toxina botulínica (5 UI Botox) en ambos rectos medios. La mejoría clínica se mantuvo durante tres meses, período tras el que reaparecieron los síntomas.
+Responsable clínico: Noemí Ruiz del Río C./ Melchor Fernández Almagro, nº 29, 8º D 28029 Madrid España E-mail: noeruizdelrio@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="35" text="Roberto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="49" end="63" text="Mendez Lorenzo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="70" end="77" text="8238612" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="85" end="99" text="83 28634576 54" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="112" end="133" text="Paseo de las palmeras" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="158" end="164" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="170" end="175" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="218" end="228" text="28/06/1945" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="250" end="256" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="264" end="271" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="278" end="279" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="299" end="309" text="30/07/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="319" end="337" text="Noemí Ruiz del Río" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="344" end="355" text="28 28 90172" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="396" end="401" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="405" end="412" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2700" end="2718" text="Noemí Ruiz del Río" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2719" end="2761" text="C./ Melchor Fernández Almagro, nº 29, 8º D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2762" end="2767" text="28029" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2768" end="2774" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2775" end="2781" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2790" end="2812" text="noeruizdelrio@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

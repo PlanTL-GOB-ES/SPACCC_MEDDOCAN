@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Iris.
+Apellidos: Massoti Fernandez.
+NHC: 4896750.
+NASS: 84 56872485 67.
+Domicilio: C/ José Cádiz Salvatierra, 3, Bajo A.
+Localidad/ Provincia: Madrid.
+CP: 28041.
+Datos asistenciales.
+Fecha de nacimiento: 30/08/1955.
+País: Cuba.
+Edad: 75 años  Sexo: M.
+Fecha de Ingreso: 07/03/2018.
+Episodio: 5843556.
+Médico: Rosario Ruiz Domínguez  NºCol: 29 29 46698.
+Paciente varón de 70 años de edad que sufre fractura abierta infrasindesmal de peroné (grado II de Gustilo), pierna derecha, tratada de urgencia mediante reducción y fijación interna. El postoperatorio se complica con una infección, y se remite a nuestro Servicio con el diagnóstico de osteomielitis crónica por Bacteroides vulgatus y lesión cutánea con pérdida de sustancia de 8 cm de diámetro.
+Se realiza intervención quirúrgica, retirando el material de oteosíntesis y desbridando el foco de osteomielitis. Tras esto se aprecia exposición de tejido óseo y de tendón tibial posterior, con comunicación intraarticular.
+
+Se decide combinar el tratamiento antibiótico intravenoso y la terapia de vacío Renasys® a -125 mm Hg y monitorización microbiológica de la lesión para plantear cobertura quirúrgica. La evolución de la lesión con la terapia de vacío es satisfactoria manteniendo cultivos de herida negativos, de forma que en 4 semanas se logra el cierre del defecto, requiriendo solo cobertura, bajo anestesia local, mediante injerto cutáneo. Después de la primera cura realizada a los 4 días de la intervención, se comprueba prendimiento total del injerto y el paciente es dado de alta hospitalaria.
+
+Dirección para correspondencia: Dra. Concepción Lorca García Servicio de Cirugía Plástica y Quemados Hospital La Fe Avenida Campanar 21. 46009 Valencia. España e-mail: conchi_lg@hotmail.com

@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: Daniel.
+Apellidos: Macias Betanco.
+NHC: 7645745.
+NASS: 28 76347043 12.
+Domicilio: Av. Palomero, 3, 5 A.
+Localidad/ Provincia: Vigo.
+CP: 36204.
+Datos asistenciales.
+Fecha de nacimiento: 25/09/1969.
+País de nacimiento: España.
+Edad: 45 años Sexo: H.
+Fecha de Ingreso: 21/11/2014.
+Servicio: Oftalmología.
+Médico: M.ª Carmen Blanco Rivera  NºCol: 28 28.
+Informe clínico del paciente: varón de 45 años que acudió por urgencias por disminución de visión en su ojo izquierdo, de aparición brusca. Como antecedente reciente destacaba que el paciente había sufrido un episodio gripal unos días antes. Se realizó una exploración oftalmológica completa que determinó una agudeza visual de unidad en su ojo derecho, siendo los datos de la exploración del mismo compatibles con la normalidad, incluyendo el fondo de ojo. La exploración del ojo izquierdo, sin embargo, mostró una agudeza visual de 0,800 y en el fondo de ojo se observaron unas lesiones en área macular y foveolar central de aspecto anaranjado y redondeadas. Dado el antecedente gripal y el cuadro clínico del paciente, se pautó tratamiento con AINEs (ibuprofeno 600 mg/12 horas) y se solicitaron una AGF y un EOG.
+El EOG mostró una ligera alteración en el ojo izquierdo, siendo compatible con la normalidad en el ojo derecho. La AGF en el ojo derecho fue compatible con la normalidad, pero en el ojo izquierdo se observaron unas áreas hiperfluorescentes con un punto hipofluorescente central, sin difusión de contraste en tiempos tardíos.
+Las pruebas complementarias confirmaron el diagnóstico de sospecha de ERA y dado que la evolución del mismo es a resolverse de forma espontánea, se suspendió el tratamiento con AINEs.
+El paciente evolucionó favorablemente, recuperando la visión de unidad en su ojo izquierdo entre la 3.ª y 4.ª semana del inicio del cuadro clínico.
+Responsable clínico: Dra,  M.ª Carmen Blanco Rivera Servicio de Oftalmología. Complexo Hospitalario Universitario de Vigo (CHUVI) C/. Pizarro, 22 36204 Vigo (Pontevedra) España E-mail: mcarmenbr@wanadoo.es

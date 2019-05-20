@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Carolina.
+Apellidos: Diaz Miguel.
+NHC: 8263401.
+NASS: 79 83268953 05.
+Domicilio: Calle Fuencarral 51, 6A.
+Localidad/ Provincia: Valencia.
+CP: 600008.
+Datos asistenciales.
+Fecha de nacimiento: 02/02/1948.
+País de nacimiento: España.
+Edad: 5 años  Sexo: M.
+Fecha de Ingreso: 15/12/2015.
+Médico: Mª José Vela Muñoz Avda  NºCol: 11 11 50124.
+Hombre de 86 años. En enero 2008 ingresa por hipoglucemia secundaria a antidiabéticos orales, el paciente presenta demencia con baja ingesta, se decide colocación de sonda nasogástrica (SNG) para alimentación por vía enteral, tras presentar varios episodios de arrancamiento de sonda, se practicó gastrostomía radiológica percutánea (GRP). A los 2 meses del alta acude al servicio de urgencias por arrancamiento de la sonda de gastrostomía, ante la ausencia de sondas de recambio, se decide colocación de sonda Foley de 14 french, desde entonces son múltiples las visitas al servicio de urgencias con problemas en relación con la sonda. Es ingresado por vómitos e intolerancia a la nutrición enteral. El paciente presenta abundante residuo bilioso por la sonda Foley. Se decide realizar un estudio radiológico con contraste radiológico a través de la sonda, ante la mala tolerancia enteral y ausencia de alteraciones radiológicas a nivel intestinal, observándose como se puede ver en la figura 1 el paso directo del contraste directamente a la luz intestinal. Se extrajo la sonda Foley por el servicio de cirugía sin presentar complicaciones y se colocó sonda de gastrostomía por parte del servicio de radiología intervencionista, siendo dado de alta con nutrición enteral en bolos.
+
+Dirección para correspondencia: Francisco Arrieta Blanco. Unidad de Nutrición y Dietética. Hospital Universitario Ramón y Cajal. Madrid. E-mail: arri68@hotmail.com

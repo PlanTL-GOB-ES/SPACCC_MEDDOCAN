@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Nora .
+Apellidos: Vidal Vázquez.
+NHC: 2756876.
+NASS: 98 10567859 06.
+Domicilio: Calle de Ororbia, 8 , 4 Der..
+Localidad/ Provincia: Pamplona, Navarra.
+CP: 31015.
+Datos asistenciales.
+Fecha de nacimiento: 29/06/1949.
+País: España.
+Edad: 67 años Sexo: M.
+Fecha de Ingreso: 14/10/2013.
+Servicio: Cirugia oral y maxilofacial.
+Episodio: 94565643.
+Médico: Daniel Pastor Zuazaga NºCol: 31 31 57905.
+Informe clínico del paciente: Paciente de 67 años de edad, fumadora de 6 cigarrillos/día. Diagnosticada previamente de Cáncer de mama (T2 N0 M0) tratado mediante cirugía asociada a quimioterapia y radioterapia. Debido a la progresión metastásica del carcinoma de mama se inició el tratamiento con bisfosfonatos (pamidronato a dosis de 90 mg e.v. 20 ciclos). Tras los primeros 9 ciclos de pamidronato es cuando la paciente es remitida a nuestra consulta de Cirugía Oral y Maxilofacial por parte de su oncólogo por sensación de quemazón y dolor gingival difuso con gingivorragias habituales, presentando una lesión ulcerosa de 5 mm de diámetro en el borde lateral de hemilengua derecha muy dolorosa.
+Se indicó la exodoncia del molar asociado con la lesión por decúbito lingual y de otros cuatro dientes sin viabilidad, apareciendo aproximadamente un mes tras cada exodoncia una lesión por exposición ósea en el lugar de las extracciones. Se realizaron desbridamientos limitados de las necrosis óseas complementados con antibioterapia (amoxicilina-clavulánico, claritromicina) y gel de clorhexidina. La evolución fue favorable en todas las zonas salvo la del molar mandibular, en la que la exposición del hueso perpetuaba el decúbito lingual, requiriendo una segunda ostectomía más agresiva. A pesar de no desaparecer completamente esta exposición se logró un correcto control del dolor de la paciente al desaparecer la lesión lingual. 
+Remitido por: Dr. Daniel Pastor Zuazaga Servicio de Cirugía Oral y Maxilofacial Hospital Virgen del Camino - Pamplona (Navarra) C/ Irunlarrea 4 C.P.: 31008 Teléfono: 848 429400 - Fax: 848 429924 E-mail: dapazu@hotmail.com E-mail: jgaratec@cfnavarra.es

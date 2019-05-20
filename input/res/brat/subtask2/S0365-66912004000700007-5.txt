@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Patricia.
+Apellidos: Marín Requena.
+NHC: 295764.
+NASS: 73 45673045 64.
+Domicilio: Avenida de pastrana 66, 6A.
+Localidad/ Provincia: Badajoz.
+CP: 36004.
+Datos asistenciales.
+Fecha de nacimiento: 30/11/1939.
+País de nacimiento: España.
+Edad: 41 años  Sexo: M.
+Fecha de Ingreso: 27/05/2014.
+Médico: Pilar Molina Aguilar  NºCol: 13-87-71356.
+Hombre de 23 años con diagnóstico de EB en febrero de 2003 tras padecer vasculitis retiniana y vitritis en ambos ojos, trombosis de rama temporal en el OD y aftas orales recidivantes. Mala respuesta a 1 mg/kg/día de prednisona y a triamcinolona subtenoniana en el OD.
+
+Debido al rechazo del paciente a otro tratamiento inmunosupresor, se inició GCAP como tratamiento coadyuvante, la AV era de 0,6 en el OD y de 0,9 en el OI.
+
+Dirección para correspondencia: Adoración Martín-Gómez, Unidad de Hemodiálisis, Hospital de Poniente, Ctra. Málaga núm. 119, 04700, El Ejido, Almería doritamg@gmail.com doritamg@mixmail.com

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Joaquin.
+Apellidos: Zafra Monedero.
+NHC: 8456231.
+NASS: 75 63745637 54.
+Domicilio: C/ Montera, 27, 2 B.
+Localidad/ Provincia: Madrid.
+CP: 28001.
+Datos asistenciales.
+Fecha de nacimiento: 04/07/1970.
+País de nacimiento: España.
+Edad: 44 años Sexo: H.
+Fecha de Ingreso: 28/05/2015.
+Médico: Ander Galdeano Mondragón NºCol: 28 28 57910.
+Informe clínico del paciente: Varón de 44 años, soltero, que vive con su madre y que trabaja en un empleo protegido. Diagnóstico de Esquizofrenia Residual (F20.5, CIE-10) (11) en seguimiento en su Centro de Salud Mental y con tratamiento psicofarmacológico con 400 mg de amisulpi-ride, 10 mg de olanzapina y 10 mg de diazepam. Consumos no diarios pero mantenidos en el tiempo de tramadol, cannabis, alcohol y cocaína. Como antecedentes somáticos destacar una dificultad en la marcha, camina con una muleta, como consecuencia de un politraumatismo tras precipitación en contexto de un episodio psicótico hace 14 años.
+El paciente es hallado por su madre en el domicilio inconsciente sin respuesta a estímulos y sin poder precisar el tiempo que llevaba en ese estado. Autointoxicación con una gran cantidad no determinada de tramadol, benzodiacepinas, alcohol y cocaína. Abordaje en Unidad de Cuidados Intensivos durante 6 días. Como complicaciones destacar rabdomiolisis, insuficiencia renal aguda y proceso neumónico. TAC craneal normal. Estabilización y traslado a planta de Medicina Interna, una semana de ingreso, superación somática del episodio.
+Traslado al Servicio de Psiquiatría, ingreso voluntario. Durante los cinco primeros días de ingreso en la Unidad de Psiquiatría el paciente permanece estable psicopatológicamente. No descompensación psicótica, crítica del episodio que define como "colocón" y del que señala no poder recordar los condicionantes concretos pero sí una discusión previa con la madre. Adaptado a los ritmos de la Unidad, participa en actividades de Terapia Ocupacional. Eutímico, dentro de la defectualidad previa, planes concretos de futuro, salidas con la familia con adecuada respuesta, posibilidad de alta y seguimiento en su Centro de Salud Mental.
+Sin embargo, tras estos primeros días asintomático, el paciente empieza a presentar de forma progresiva episodios de desorientación temporo-espacial acompañados de marcada bradipsiquia, ataxia (de muleta a andador) y enlentecimiento motor generalizado. Fallos mnésicos acompañados por un esfuerzo por recordar, afasia y apraxia. No obstante el paciente se encuentra tranquilo en actitud plácida. No angustia, sueño mantenido. Sin modificaciones en el tratamiento psiquiátrico previo.
+Pese a la insistencia de la familia en señalar "un brote psicótico" (...) el cuadro se enmarca en un deterioro cognitivo de características corticales con llamativa afectación del sistema atencional, función ejecutiva, función mnésica y lingüística. En el EEG destaca una marcada lenificación y atenuación difusa de ritmo de fondo. Tras la valoración por Medicina Interna y Neurología se procede a su traslado al Servicio de Neurología.
+En la RMN craneal inicial se observa cómo supratentorialmente existe un patrón de leucodistrofia difuso de predominio fronto parietal hiperintenso en T2 y con discreto componente de restricción en las secuencias de difusión. (RMN-T2, imagen 1; RMN-T2-FLAIR, imagen 2).
+Diez días después, estableciendo comparación con la RMN anterior se aprecia mayor alteración de señal en las secuencias de difusión con progresión del cuadro en T2 y T2-FLAIR a nivel parieto-occipital bilateral y regresión en T2-FLAIR en polos frontales y temporales.
+Durante los veinte días de ingreso en Neurología no se objetiva clínica infecciosa ni alteración analítica alguna y la determinación de serologías y anticuerpos es normal. Se concluye que las alteraciones tanto clínicas como de neuroimagen son compatibles con una Encefalopatía Hipóxica Tardía quedando la duda de la posibilidad de lesiones leucodistróficas previas en sustancia blanca. Sin embargo no hay antecedentes familiares de interés y tampoco existe una historia previa que sugiera la presencia de una leucodistrofia. Durante su estancia en Neurología el paciente lentamente va mejorando de forma espontánea, manteniéndose el tratamiento psiquiátrico previo. Al ingreso solamente era capaz de andar con un andador necesitando ser dirigido. Al alta se desplaza con bastones sin dificultad, es capaz de echar monedas en la máquina para tomar un café, ha mejorado de forma muy importante la bradipsiquia y la memoria pero todavía tiene momentos de desorientación. Acude diariamente al Servicio de Rehabilitación.
+Responsable clínico: Dr. Ander Galdeano Mondragón (andergaldio@gmailcom)
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="35" text="Joaquin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="48" end="62" text="Zafra Monedero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="69" end="76" text="8456231" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="84" end="98" text="75 63745637 54" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="111" end="130" text="C/ Montera, 27, 2 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="154" end="160" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="166" end="171" text="28001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="215" end="225" text="04/07/1970" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="247" end="253" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="261" end="268" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="275" end="276" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="296" end="306" text="28/05/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="316" end="340" text="Ander Galdeano Mondragón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="348" end="359" text="28 28 57910" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="391" end="396" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="400" end="407" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T7" start="409" end="416" text="soltero" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="434" end="439" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T5" start="1008" end="1013" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="2049" end="2056" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="2657" end="2664" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="4646" end="4670" text="Ander Galdeano Mondragón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T3" start="4672" end="4692" text="andergaldio@gmailcom" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Maria.
+Apellidos: Rubio Benito.
+NHC: 3046589.
+NASS: 37 36578967 10.
+Domicilio: C/ Cantabria, 86, 2 G.
+Localidad/ Provincia: Almería.
+CP: 21029.
+Datos asistenciales.
+Fecha de nacimiento: 24/04/2015.
+País de nacimiento: España.
+Edad: 27 años  Sexo: M.
+Fecha de Ingreso: 23/10/2009.
+Médico: Adrián Areizaga Osés  NºCol: 28 28 64748.
+Individuos de sexo masculino entre 25 a 40 y 35 a 45 años respectivamente. Se registraron los siguientes conjuntos lesivos:
+1.- Fracturas lineales, transversas u oblicuas completas o incompletas adyacentes a la articulación costo-condral o a la altura de la línea mamilar. El número de costillas afectado puede ser consecutivo y típicamente afecta a la segunda costilla y continúa hasta la undécima.
+
+2.- Fracturas lineales, transversas u oblicuas completas o incompletas adyacentes al tubérculo costal o en la línea para paravertebral. Cualquier costilla puede ser afectada, desde la primera hasta la última.
+3.- Fracturas lineales, transversas u oblicuas, completas o incompletas en otras regiones costales afectando típicamente a una sola costilla.
+Los tres tipos de fracturas presentados pueden incluir deformación plástica de la parte afectada si la fractura fue incompleta o la falla de la tabla interna de la costilla a manera de las llamadas 'buckle fractures' (Love y Symes 2004).
+
+Dirección para correspondencia: Dr. José Pablo Baraybar. Equipo Peruano de Antropología Forense (EPAF). Av. Mello Franco #341, Jesús María, Lima 11, Perú. E-mail: baraybar@epafperu.org.

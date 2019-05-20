@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Arturo.
+Apellidos: Maldonado Bárcenas.
+NHC: 72839.
+NASS: 57 88752634 56.
+Domicilio: C/ Arjona, 23, 4 A.
+Localidad/ Provincia: Valencia.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 07/04/1952.
+País: España.
+Edad: 53 años  Sexo: H.
+Fecha de Ingreso: 03/06/2017.
+Médico: Isabel Crehuet Rodríguez  
+Niño de dos años y medio de edad, procedente de zona rural del municipio de Puerto Leguízamo, Putumayo. Fue llevado al Hospital de María Angelines por presentar un cuadro de 15 días consistente en fiebre alta e intermitente, astenia y adinamia. El examen físico reveló fiebre, adenopatías múltiples y leve hepatoesple-nomegalia. Se realizó gota gruesa lográndose identificar tripomastigotes de T. cruzi. La radiografía de tórax y el electrocardiograma fueron normales. El cuadro cedió rápidamente, se inició tratamiento etiológico con benzonidazol en dosis de 100 mg/día por 60 días. El diagnóstico fue confirmado en el INS por lámina de extendido de sangre periférica y cultivo positivo un mes depués de tomado. La serología inicial con técnica de IFI a los cinco días de sintomatología fue negativa, pero una segunda, a las dos semanas, fue positiva con resultado 1:64. En estudio de campo no se identificaron vectores ni otros pacientes infectados cuyas muestras fueron sometidas a extendido de sangre periférica y serología. Se logró aislar en cultivo hasta luego de seis meses. La PCR fue reactiva.
+Dirección para correspondencia Dr. D. Vicente Baz Servicio de Oncología Médica Hospital Juan Ramón Jiménez Avda. Ronda Norte, s/n E-21005 Huelva E-mail: dvicentebaz@yahoo.es

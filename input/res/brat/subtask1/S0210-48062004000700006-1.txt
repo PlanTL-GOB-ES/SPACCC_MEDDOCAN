@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Maria.
+Apellidos: Cruz Osores.
+NHC: 7895673.
+NASS: 37 86573566 30.
+Domicilio: Calle los Andes, 17, 1, A.
+Localidad/ Provincia: Oviedo.
+CP: 33423.
+Datos asistenciales.
+Fecha de nacimiento: 23/01/1956.
+País de nacimiento: España.
+Edad: 60 años Sexo: M.
+Fecha de Ingreso: 19/03/2016.
+Médico: Silvino Rubio Barbón NºCol: 33 33 68971.
+Informe clínico del paciente: Paciente de 60 años con antecedentes de trastornos depresivos, con intento de autolesión, que segun su esposo, Diego Maldonado Jimenez, se ha provocado politraumatismo con fractura de sacro, rama iliopubiana derecha (2 años de evolución); cursando posteriormente con infecciones urinarias de repetición, estreñimiento e incontinencia de patrón irritativo.
+A la exploración física presenta genitales externos atrógicos, test Boney negativo y discreto cistocele.
+En la analítica presenta una bioquímica con parámetros normales y función renal conservada. Destaca un sedimento con leucocituria y bactiuria.
+El urocultivo está contaminado. En el estudio urográfico presenta una buena función bilateral, con una moderada ectasia pieloureteral derecha, falta de repleción vesical y rechazo de la misma.
+Scan abdomino-pélvico: bazo, área pancreática, riñones con discreta ectasia ureteral derecha. Fecaloma gigante que ocupa la práctica totalidad de la pelvis y que produce gran desplazamiento vesical.
+Se consulta con la unidad de Digestivo, donde se procede a ingreso para extracción manual y terapia de enemas evacuantes; proceder a la limpieza del recto-sigma.
+En posteriores controles se ha notado mejoría de su cuadro miccional y control del estreñimiento.
+Responsable clínico: Dr. Silvino Rubio Barbón. Acacias, 30. 33423 Soto de Llanera. Oviedo, Asturias. e-mail: 71616620@eresmas.net

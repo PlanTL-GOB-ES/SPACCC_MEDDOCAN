@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Ezequiel.
+Apellidos: Lopez Pereira.
+NHC: 7856544.
+NASS: 78 45678567 05.
+Domicilio: C/ Vinuesa, 4, 6 A.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 23/08/1957.
+País de nacimiento: España.
+Edad: 60 años Sexo: H.
+Fecha de Ingreso: 29/12/2017.
+Médico: Luis Roberto León  NºCol: 28 28 57103.
+Informe clínico del paciente: Paciente varón de 60 años, con síndrome de Alport, microhematuria y proteinuria de 4 g/día, creatinina de 2 mg/dl, urea 123 mg/dl, pérdida moderada de la audición, hipertensión arterial tratada con enalapril 20 mg, obesidad con IMC = 36,26 (P 120 kg, h 1,81 m), glucemias en ayunas alteradas (menor a 126 mg/dl), Hb glucosilada normal, dislipidemia e hiperuricemia en tratamiento. Ex-fumador de un paquete al día. Normotiroideo. Biopsia renal (realizada en 1995): MO (12 glomérulos) esclerosis focal y segmentaria glomerular en evolución a glomerulopatía esclerosante, IF con Ig M de leve intensidad en mesangio e IgA y M en cilindros tubulares. ME 2 glomérulos. MB capilar con engrosamiento irregular y desdoblamiento focal de la lámina densa. Podocitos con fusión total de pedicelos. En un sector, borramiento de la estructura glomerular con depósito de abundante material amorfo, electrón denso. Las alteraciones de la lámina densa son compatibles con enfermedad de Alport, el resto de los hallazgos con glomerulonefritis esclerosante focal. Ecografía renal: RD 95,6 x 52 x 53, RI 99 x 51 x 52. Doppler renal sin alteraciones.
+Se indica dieta baja en proteínas, hipocalórica y se agrega al tratamiento losartán en dosis de 75 mg/día (máxima tolerada por el paciente). Se observa reducción muy leve de proteinuria a 3,6 g/día. Se realiza cirugía de by-pass gástrico, y presenta en su evolución disminución de 35 kg en total, llegando a IMC de 25,6. Control nefrológico: creatinina 1,56 mg/dl, proteinuria 0,3 g/día, urea 65 mg/dl y normotensión con enalapril 5 mg/d; se mantiene dosis mínima de hipolipemiantes, normouricemia y normoglucemias.
+Antecedentes familiares:
+Hermano mayor de 65 años con nefropatía e hipoacusia neurosensorial bilateral y síndrome de Alport.
+Hermano menor de 58 años también con nefropatía e hipoacusia y síndrome de Alport.
+Hermana de 55 años de edad con nefropatía sin hipoacusia.
+Tío materno fallecido a los 60 años de edad por nefropatía de causa no aclarada y sin hipoacusia, que además ha tenido un hijo varón y una nieta con nefropatía sin hipoacusia.
+Madre con nefropatía desde la infancia con posible síndrome de Alport. 
+Según comenta, dos primos hermanos de 67 años y 62 años de edad respectivamente, con diagnóstico clínico de hemocromatosis hereditaria.
+Tres años después de la cirugía, la buena evolución del paciente está relacionada con el cumplimento del tratamiento (dieta), ejercicio aeróbico y apoyo clínico-psicológico.
+Responsable clínico: Dr. Luis Roberto León, Email: lleon@intramed.com

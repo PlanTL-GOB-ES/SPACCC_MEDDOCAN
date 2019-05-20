@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Raquel.
+Apellidos: Moncada Lopez.
+NHC: 7385609.
+NASS: 89 35672561 02.
+Domicilio: Av, Planetario, 43, 3D.
+Localidad/ Provincia: Madrid.
+CP: 28027.
+Datos asistenciales.
+Fecha de nacimiento: 16/06/1934.
+País de nacimiento: España.
+Edad: 78 años Sexo: M.
+Fecha de Ingreso: 04/08/2012.
+Médico: Luz Adriana Templo Soto  NºCol: 08 08 57798.
+Informe clínico del paciente: Mujer de 78 años, remitida del servicio de cirugía general al de clínica de dolor por dolor abdominal crónico secundario a angina intestinal. Sin antecedentes de enfermedades cronicodegenerativas. Se le realizaron 2 laparotomías en 6 meses y 1 laparoscopia diagnóstica por episodios de isquemia mesentérica.
+- Diagnóstico: isquemia mesentérica corroborada por tomografía computarizada con contraste venoso y arterial.
+- Enfermedad actual: paciente con dolor abdominal crónico, generalizado, severo, de 6 meses de evolución, que no remite con analgésicos habituales. Dolor de tipo cólico, EVA 10/10, EVERA severo, incapacitante, episódico, que se acompaña en ocasiones de náusea y vómito, sin factores que lo aumenten o disminuyan.
+- Exploración física: peso 45 kg; talla 1,50 m; presión arterial 90/50 mmHg; frecuencia cardíaca 65; frecuencia respiratoria 18. Consciente, orientada, hidratada, con palidez de mucosas y tegumentos, caquéctica. Cara, cabeza y cuello sin alteraciones, cardiopulmonar sin compromiso, abdomen con dolor generalizado en todos los cuadrantes, severo, a la palpación superficial y profunda, peristalsis presente y de características normales, sin masas palpables. Resto de exploración física normal.
+- Diagnóstico algológico: dolor abdominal crónico de tipo visceral severo.
+- Diagnóstico etiológico: angina intestinal (isquemia mesentérica).
+Evolución clínica
+Terapéutica con opiáceos potentes (hidromorfona, metadona, oxicodona, morfina y fentanilo transdérmico) y adyuvantes, como antagonistas del calcio, nitratos, etc., realizando diferentes rotaciones y esquemas de manejo de acuerdo a su evolución clínica. No candidata a intervencionismo por estado clínico y por anticoagulación con acenocumarina, y por el uso de antiagregantes plaquetarios.
+Responsable clínico: Dra. Luz Adriana Templo Soto. Correo electrónico: luzadrianatemplos@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="34" text="Raquel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="47" end="60" text="Moncada Lopez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="67" end="74" text="7385609" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="82" end="96" text="89 35672561 02" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="109" end="131" text="Av, Planetario, 43, 3D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="155" end="161" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="167" end="172" text="28027" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="216" end="226" text="16/06/1934" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="248" end="254" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="262" end="269" text="78 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="276" end="277" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="297" end="307" text="04/08/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="317" end="340" text="Luz Adriana Templo Soto" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="349" end="360" text="08 08 57798" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="392" end="397" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="401" end="408" text="78 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2195" end="2218" text="Luz Adriana Templo Soto" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2240" end="2269" text="luzadrianatemplos@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

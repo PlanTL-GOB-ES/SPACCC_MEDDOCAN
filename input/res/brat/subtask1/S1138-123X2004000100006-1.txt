@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Marcela.
+Apellidos: Pila Fernandez.
+NHC: 7509063.
+NASS: 94 75962398 20.
+Domicilio: C/ Lavapiés, 94, 3, A.
+Localidad/ Provincia: Barcelona.
+CP: 06912.
+Datos asistenciales.
+Fecha de nacimiento: 03/15/1996.
+País de nacimiento: España.
+Edad: 83 años  Sexo: H.
+Fecha de Ingreso: 05/05/2018.
+Médico: Paula San Miguel Fraile   NºCol: 22 22 26452.
+Paciente de cinco años de edad, que presentaba una mordida abierta anterior dentoalveolar y aumento del resalte, relacionado con el hábito de succión digital nocturno y ocasionalmente durante el día. La maloclusión en esta etapa presentaba un pronóstico favorable para el tratamiento dado que las alteraciones morfológicas se concentraban en la región anterior dentaria, mostrando una correcta relación interarcada, un perfil adecuado y un patrón de crecimiento favorable. El paciente presentaba respiración nasal y la musculatura perioral tenía un funcionamiento correcto.
+
+El tratamiento elegido consistió en una placa Hawley (debido a la disposición a cooperar por parte del paciente para abandonar el hábito) con reja lingual. El problema se resolvió en 6 meses, manteniendo el trata miento durante otros 6 meses para evitar recidivas.
+
+Dirección para correspondencia: Universidad Camilo José Cela. Facultad de Ciencias de la Salud. Departamento de Psicología. C/Castillo de Alarcón, 49. Urb. Villafranca del Castillo. 28692 Madrid. Correo electrónico: imagan@ucjc.edu (I. Magán-Uceda).

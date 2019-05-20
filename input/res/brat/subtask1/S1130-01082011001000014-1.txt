@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Cesar.
+Apellidos: Nuñez Vinuesa.
+NHC: 71375421.
+NASS: 74 75436537 98.
+Domicilio: C/ Pinto, 5.
+Localidad/ Provincia: Barcelona.
+CP: 28032.
+Datos asistenciales.
+Fecha de nacimiento: 17/04/1949.
+País de nacimiento: España.
+Edad: 52 años  Sexo: H.
+Fecha de Ingreso: 21/01/2015.
+Médico: Maria Teresa Martínez Iturriaga  NºCol: 41 41 03264.
+Presentamos un caso de una paciente de 41 años, de nacionalidad argentina, que acude al servicio de urgencias por dolor abdominal y estreñimiento. A la exploración, presenta discomfort abdominal en hemiabdomen inferior con sensación de masa en hipogastrio. Tacto rectal normal. Se descarta patología ginecológica y se realiza Rx abdomen que muestra abundante material fecal. La analítica con marcadores tumorales es normal y el TAC abdominal objetiva un fecaloma recto-sigmoidal y dilatación del colon. Los enemas de limpieza son efectivos y se practica fibrocolonoscopia que es normal. Durante el ingreso se reinterroga a la paciente destacando como antecedente familiar la muerte de su madre por afectación cardíaca por ECH a los 45 años. Se realiza serología de ECH siendo esta positiva. La paciente es sometida a tratamiento conservador, con buena evolución y siendo dada de alta sin necesidad de intervención quirúrgica.
+Dirección para correspondencia: Martha Lucia Marín Botero Universidad de Antioquia Facultad de Odontología Calle 64 # 52-59 Medellín. Colombia Correo electrónico: marthaluciamarin@gmail.com

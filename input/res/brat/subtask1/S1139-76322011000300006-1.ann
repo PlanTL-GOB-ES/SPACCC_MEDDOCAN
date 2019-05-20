@@ -1,0 +1,14 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 37	Macarena.
+T2	NOMBRE_SUJETO_ASISTENCIA 49 60	Rios Blanco
+T3	CALLE 87 112	Carrer de Jaume II, 17 3A
+T4	TERRITORIO 150 155	28034
+T5	PAIS 217 223	España
+T6	EDAD_SUJETO_ASISTENCIA 231 238	24 años
+T7	NOMBRE_PERSONAL_SANITARIO 287 312	Manuel Sanchez de Antonio
+T8	FAMILIARES_SUJETO_ASISTENCIA 1573 1583	familiares
+T9	FAMILIARES_SUJETO_ASISTENCIA 1584 1589	Madre
+T10	FAMILIARES_SUJETO_ASISTENCIA 1715 3260	Padre de 34 años. Glucemias basales altas (100-125 mg/dl), sin sobrepeso; talla 175 cm. Hermanastro (vía paterna) de 12 años, RNPT de peso elevado para la edad gestacional. Abuela materna hipertensa. Abuela paterna diabética en tratamiento con dieta. Historia familiar importante de hiperglucemia en la rama paterna: abuela, tres tíos-abuelos, tres tíos y dos primos paternos.
+T11	NOMBRE_PERSONAL_SANITARIO 3569 3595	M.a Carmen Cubero Sobrados
+T12	CORREO_ELECTRONICO 3597 3614	kr_qb@hotmail.com
+T13	NOMBRE_PERSONAL_SANITARIO 3648 3674	M.a Carmen Cubero Sobrados
+T14	CORREO_ELECTRONICO 3676 3693	kr_qb@hotmail.com

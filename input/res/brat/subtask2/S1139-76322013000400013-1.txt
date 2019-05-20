@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Aitor .
+Apellidos: Santana Ruiz.
+NHC: 4356456.
+NASS: 34 78567058 15.
+Domicilio: C/ El Ejido, 28, 4, A.
+Localidad/ Provincia: Buenos Aires.
+CP: 36203.
+Datos asistenciales.
+Fecha de nacimiento: 15/05/1952.
+País de nacimiento: España.
+Edad: 53 años  Sexo: M.
+Fecha de Ingreso: 09/11/2015.
+Médico: Lourdes Gómez Rodríguez  NºCol: 02 02 95410.
+Varón de cuatro años de edad sin antecedentes médicos de interés que presenta lesiones hipopigmentadas posinflamatorias residuales que dibujan el contorno de uno de estos tatuajes un mes después de su realización, afectando a la superficie de extensión de ambos antebrazos. Las lesiones representan a Ash® y Pikachu®, los personajes protagonistas de la serie de dibujos animados Pokemon®.
+
+En las dos semanas previas había consultado en un centro médico de la localidad en la que veraneaba porque presentaba, en la zona del tatuaje, lesiones vesiculoampollosas sobre una base eritematosa, pruriginosas y sin signos de sobreinfección secundaria. Pasado un año, aún se aprecian lesiones residuales con prurito ocasional.
+
+Dirección para correspondencia: Esther Maiso Merino esther.maiso@gmail.com

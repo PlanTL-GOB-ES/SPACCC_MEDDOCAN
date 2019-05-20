@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Rocio.
+Apellidos: Pérez Ontiveros.
+NHC: 22 75689632 36.
+NASS: 95 40235690 32.
+Domicilio: Av, de Leon 66, 1H.
+Localidad/ Provincia: Lleida.
+CP: 06233.
+Datos asistenciales.
+Fecha de nacimiento: 05/04/1937.
+País de nacimiento: España.
+Edad: 10 años  Sexo: Varón.
+Fecha de Ingreso: 15/08/2016.
+Servicio: Oftalmologia.
+Médico: Ender Goñi Moreno   NºCol: 15 15 31525.
+Varón de 71 años que consulta por dolor abdominal, observándose en la ecografía, una masa renal. Se realizó una biopsia tru-cut diagnosticada de tumor mesenquimal benigno. Fue intervenido quirúrgicamente. Recibimos una pieza de 21x18x16 cm., 4 Kg. de peso, capsulada en donde se reconocía un tumor blanquecino bien delimitado localizado en el polo superior del riñón. Al corte, el aspecto era fasciculado, con áreas edematosas y pequeñas hendiduras. A los diez años del diagnóstico el paciente se encuentra asintomático.
+
+Hallazgos histológicos
+Fueron similares en ambos casos. Se trataba de una proliferación de células fusocelulares con zonas de diferentes densidades sin atípias ni mitosis. Este patrón vagamente nodular presentaba ocasionalmente estructuras epiteliales quísticas. Las células del estroma eran positivas para CD-34 y vimentina. Ultraestructuralmente el tumor presenta células mesenquimales inmaduras.
+
+Dirección para correspondencia Irene Amat Villegas Pedro de Alejandría Nº 1, 2º D 31014 Pamplona. Navarra. (España). ireneyander@wanadoo.es

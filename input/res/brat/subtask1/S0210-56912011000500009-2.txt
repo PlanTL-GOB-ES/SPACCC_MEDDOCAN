@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Margarita Josefina.
+Apellidos: Chamoy Lozano.
+NHC: Calle Tres Palomas, 27.
+Domicilio: Calle Monforte de lemos 129, 2 E.
+Localidad/ Provincia: Madrid.
+CP: 28031.
+Datos asistenciales.
+Fecha de nacimiento: 06/02/1990.
+País: España.
+Edad: 71 años  Sexo: M.
+Fecha de Ingreso: 15/11/2017.
+Médico: María Teresa Fernández López  NºCol: 18 18 65685.
+Mujer de 29 años diagnosticada de lupus eritematoso sistémico que había ingresado en la planta de hospitalización por insuficiencia respiratoria y anemización (hemoglobina, 5,3 gr/dl). Unas horas después ingresó en UCI por un nuevo episodio de sangrado alveolar con inestabilidad respiratoria y un cociente pO2/FiO2 de 140 (Ventimask 50% 10 lpm). A las 24h del ingreso, se realizó fibrobroncoscopia diagnóstica, con lavado broncoalveolar (LBA) utilizando una CPAP-B según el protocolo descrito, sin complicaciones y obteniendo un contenido hemático cuyo cultivo fue negativo. Los datos de las muestras de gasometría antes y después de la fibrobroncoscopia se muestran en la Tabla 1.
+
+Dirección para correspondencia: mlgomezgrande2000@yahoo.es (M.L. Gómez Grande)

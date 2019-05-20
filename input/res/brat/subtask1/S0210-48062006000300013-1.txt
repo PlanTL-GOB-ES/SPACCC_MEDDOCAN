@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Sonia.
+Apellidos: Perez Torres.
+NHC: 9874512.
+NASS: 47 84327650 05.
+Domicilio: Calle vitrubio 3, 3 C.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 24/08/1942.
+País de nacimiento: España.
+Edad: 56 años  Sexo: H.
+Fecha de Ingreso: 04/11/2015.
+Médico: Francisco Javier Alados Arboledas   NºCol: 28 28 62003.
+Paciente de 34 años que ingresó para estudio de un priapismo recurrente de bajo flujo, sin antecedentes patológicos de interés. No fue posible demostrar una etiología asociada a su enfermedad.
+Debido a la buena respuesta a la administración intracavernosa de entre 2-10 mg de metoxamina, con excelente tolerancia pero con recurrencia del priapismo, se aleccionó al paciente en la autoinyección domiciliaria con dicho fármaco.
+Fue necesaria su utilización varias veces durante aproximadamente un mes; posteriormente el paciente ha conservado sin problemas la función eréctil.
+
+Dirección para correspondencia: Dr. R. Rodríguez Tolrà Hospital Universitario de Bellvitge Feixa Llarga, s/n 08907 Hospitalet de Llobregat (Barcelona) E-mail: jrtol@wanadoo.es

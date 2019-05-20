@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Andres.
+Apellidos: Rubio Bustamante .
+NHC: 996543.
+Domicilio: C/ Castilla y León, 3, 4 D.
+Localidad/ Provincia: Madrid.
+CP: 28008.
+Datos asistenciales.
+Fecha de nacimiento: 19/04/2000.
+País de nacimiento: España.
+Edad: 18 meses  Sexo: H.
+Fecha de Ingreso: 01/03/2016.
+Médico: Paloma Delgado Bavai 
+Varón de 74 años
+Antecedentes personales: HTA esencial previa (En tratamiento con Enalapril), Hipercolesterolemia.
+Litiasis cálcica de 1 cm en infundíbulo de cáliz superior y otra de las mismas dimensiones en infundíbulo de cáliz inferior de riñón izquierdo.
+Leoch de litiasis superior (3.900 impactos, a intensidad 3-4). Ecografía renal a la terminación de la litotricia normal, no hematoma detectable.
+Ocho horas después de la Leoch, dolor lumbar intenso y nauseas que requiere analgesia intensa. Diez horas más tarde abombamiento lumbar y hematoma cutáneo diagnosticándose con ecografía y Tac de hematoma subcapsular con rotura capsular. Palidez cutaneomucosa intensa con Hb de 7,6 y Hto 22, pero hemodinámicamente estable. Se administraron 3 concentrados de hematíes. Permaneció ingresado en hospital 13 días. Se optó por tratamiento conservador.
+
+Cuatro meses después el Tac de control es semejante al inicial. Y un año después persiste el hematoma aunque de menor tamaño.
+
+Dirección para correspondencia: Dr. Héctor Pastor Navarro Servicio de Urología Complejo Hospitalario Universitario de Albacete Hermanos Falcó, s/n - 02006 Albacete Tel.: 967 597 100 E-mail autor: hektorpn@hotmail.com

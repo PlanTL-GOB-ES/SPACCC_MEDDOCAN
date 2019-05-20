@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Sergio.
+Apellidos: Gijon Rubio.
+NHC: 5244552.
+NASS: 34 89556785 64.
+Domicilio: Calle Sama de Langreo, 27, 5 C.
+Localidad/ Provincia: Zaragoza.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 07/07/1938.
+País de nacimiento: España.
+Edad: 4 años  Sexo: H.
+Fecha de Ingreso: 23/10/2016.
+Médico: Júlia Morata Alba  NºCol: 28 28 34615.
+Mujer de 28 años, con antecedentes de «Síndrome de múltiples puntos blancos evanescentes» en ambos ojos hace 7 años y buena respuesta a corticoterapia oral. Acude a urgencias de nuestro hospital por disminución de agudeza visual bilateral y cefalea de 15 días de evolución. A la exploración oftalmológica presenta una agudeza visual de 3/10 con reacción inflamatoria en cámara anterior y desprendimiento de retina exudativo bilateral. Se inicia tratamiento corticoideo oral a altas dosis (80 mg de prednisona), constatándose una buena respuesta inicial. Al mes del tratamiento se observa una recidiva del desprendimiento de retina foveal en el ojo izquierdo, por lo que se asocia a su tratamiento CyA (dosis inicial de 4 mg/kg/día). Tras nueve meses de seguimiento, presenta una agudeza visual de unidad en el ojo derecho y de 8/10 en el ojo izquierdo con movilización pigmentaria en cuatro cuadrantes y fibrosis subretiniana.
+
+Dirección para correspondencia: Begoña de Domingo Barón Moas de Abaixo, 4 C 15897 Santiago de Compostela (La Coruña) España E-mail: bdedbar@yahoo.es

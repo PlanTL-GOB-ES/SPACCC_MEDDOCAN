@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Sandro.
+Apellidos: Reye Oviedo.
+NHC: 7438498.
+NASS: 83 45978369 13.
+Domicilio: Avda. Diego de León, 24.
+Localidad/ Provincia: Barcelona.
+CP: 08025.
+Datos asistenciales.
+Fecha de nacimiento: 30/05/1968.
+País de nacimiento: España.
+Edad: 46 años Sexo: H.
+Fecha de Ingreso: 03/06/2014.
+Servicio: Urología.
+Médico: Raúl Hernando Martínez-Rodríguez NºCol: 08 08 22845.
+Informe clínico del paciente: Varón de 46 años de edad, sin antecedentes patológicos de interés salvo vasectomía a los 42 años, que acudió al servicio de urgencias por tumoración perineal de inicio insidioso y aumento progresivo del tamaño en los últimos días, sin repercusión sobre la capacidad eréctil ni la micción. Negaba rotundamente antecedente traumático. A la exploración presentaba tumoración perineal de localización paracavernosa izquierda, no fluctuante, no dolorosa, de consistencia fibroelástica.
+Se realizó ecografía de partes blandas con orientación diagnóstica hacia hematoma perineal dependiente de porción proximal de cuerpo cavernoso izquierdo.
+En la Resonancia Magnética Nuclear se describía área hipointensa de aproximadamente 8x2x0,8 cm. localizada en región posterior de cuerpo cavernoso izquierdo con integridad de túnica albugínea y fascia de Buck.
+Se realizó estudio bacteriológico de material obtenido mediante punción con cultivo negativo.
+Se instauró tratamiento antiagregante vía oral y medidas físicas presentando reabsorción del hematoma y resolución completa a los 4 meses.
+Responsable clínico: Dr. Raúl Hernando Martínez-Rodríguez Servicio de Urología. Fundación Puigvert. Cartagena, 340-350 - 08025 Barcelona. Tel.: 934 169 700 E-mail autor: dr.rmartinez@yahoo.es

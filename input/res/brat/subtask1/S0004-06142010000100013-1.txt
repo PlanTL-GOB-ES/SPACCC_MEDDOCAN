@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Marc.
+Apellidos: Castro Gomez.
+NHC: 3874564.
+NASS: 89 42370560 45.
+Domicilio: Av/ Silgado, 4, 3 Izq..
+Localidad/ Provincia: Madrid.
+CP: 28032.
+Datos asistenciales.
+Fecha de nacimiento: 10/03/1985.
+País de nacimiento: España.
+Edad: 40 años  Sexo: H.
+Fecha de Ingreso: 25/06/2018.
+Médico: Andrés Rodríguez Lorenzo  NºCol: 11 11 21504.
+Varón de 34 años que acudío a la consulta de urología por sintomatología obstructiva de tracto urinario bajo (LUTS), sin otra clínica asociada. La exploración física, incluyendo el tacto rectal, no mostraba alteraciones. La analítica de sangre y la radiografía de abdomen eran normales, sin embargo el análisis de orina mostraba presencia de leucocitos y eritrocitos. En la flujometría se evidenciaba una clara disminución del flujo máximo, y se observaba un defecto de repleción en la uretrocistografía, que se confirmó mediante resonancia nuclear magnética (Sagital T2) como una masa homogénea en la luz uretral prostática.
+
+Se realizó una resección transuretral de una masa lisa y pediculada de unos 5 cm. localizada en la uretra prostática. La evolución postquirúrgica fue excelente. El estudio histológico mostraba típicamente fascículos entrelazados de células fusiformes con moderados/abundantes citoplasmas eosinofílicos y núcleos de localización central sin actividad mitótica. Estos hallazgos confirmaron el diagnostico de LU.
+
+Dirección para correspondencia: Pablo Garrido Abad Santiago Bernabeu, 4 - 5o 4 28036 Madrid (España) pgabad@hotmail.com

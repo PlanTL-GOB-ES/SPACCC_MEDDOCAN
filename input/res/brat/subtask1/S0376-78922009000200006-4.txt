@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Roberto.
+Apellidos: Jaramillo Pinto.
+NHC: 7346578.
+NASS: 34 89556785 64.
+Domicilio: Calle La colmena 19, 5C.
+Localidad/ Provincia: Girona.
+CP: 35009.
+Datos asistenciales.
+Fecha de nacimiento: 01/06/1979.
+País: España.
+Edad: 22 años  Sexo: H.
+Fecha de Ingreso: 14/12/2014.
+Episodio: 6422329.
+Médico: Juan de Dios Beas Jiménez  NºCol: 28 28 46325.
+Mujer de 67 años de edad en la que se diseñó un colgajo zigomático de mejilla después de resección completa de carcinoma basocelular en canto interno de ojo izquierdo tras biopsia por congelación y comprobación de límites sanos de resección tumoral. Se puede notar en las imágenes que la resección llega cerca del borde interno de la ceja izquierda y aún así el defecto queda fácilmente cubierto por el colgajo zigomático de mejilla sin ninguna retracción.
+
+Dirección para correspondencia: Dra. Jezabel de Abullarade Unidad Médica Atlacatl del Instituto Salvadoreño del Seguro Social San Salvador. El Salvador e-mail: drdeabullarade@gmail.com

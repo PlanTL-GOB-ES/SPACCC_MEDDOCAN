@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Matías.
+Apellidos: Manrique Garcia.
+NHC: 76194955.
+NASS: 27 23793464 99.
+Domicilio: Calle Melchor Fernandez, 3.
+Localidad/ Provincia: Asturias.
+CP: 28109.
+Datos asistenciales.
+Fecha de nacimiento: 21/06/1952.
+País de nacimiento: España.
+Edad: 51 años  Sexo: M.
+Fecha de Ingreso: 24/07/2016.
+Médico: Francisco Arnaiz de las Revillas  NºCol: 06 06 85203.
+Varón de 46 años que fue diagnosticado de VHL presentando hemangiomas capilares en AO y, como afectación sistémica, un hemangioblastoma cerebeloso que fue extirpado en su totalidad, quistes renales y una tumoración sólida renal en estudio. En la actualidad, presenta en el OD una AV de la unidad. En la funduscopia observamos dos hemangiomas capilares retinianos (HCR9 endofíticos, uno temporal superior, de aspecto anaranjado de mayor tamaño, bien delimitado, con una arteria nutricia dilatada, y otro temporal inferior, de pequeño tamaño y aspecto rojizo, con vasos nutricios tortuosos. En la angiografía se observa una hiperfluorescencia debida al relleno de los HCR con un aumento de la intensidad en el tiempo. En el OI presenta una prótesis por antiguo DR traccional.
+
+Dirección para correspondencia: Correo electrónico: anadupi83@hotmail.com (A.B. González Escobar)

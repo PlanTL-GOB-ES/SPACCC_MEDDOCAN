@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Mario.
+Apellidos: Dominguez Moreno.
+NHC: 0285967.
+NASS: 28 19237866 22.
+Domicilio: C/ Fermín Caballero, 24.
+Localidad/ Provincia: Pamplona.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 28/11/1979.
+País de nacimiento: España.
+Edad: 46 años  Sexo: H.
+Fecha de Ingreso: 03/06/2010.
+Médico: Fabio Jiménez Borrero  NºCol: 28 28 23580.
+Caso 1. Varón de 31 años, apendicectomía laparoscópica ocho años antes. Cuadro de dolor en fosa iliaca derecha, náuseas y vómitos, leucocitosis con desviación izquierda de 3 días de evolución. La tomografía axial computarizada confirma el diagnóstico. Se practica resección de un muñón apendicular de 3 cm a través de una incisión pararrectal. Fiebre en el postoperatorio inmediato, con alta a la semana.
+Caso 2. Varón de 29 años, apendicectomía laparoscópica en otro centro dos años antes, sin disponer de informes. Dolor y peritonismo en fosa iliaca derecha de tres días de evolución. Leucocitosis y desviación izquierda. Ecografía abdominal con engrosamiento del muñón apendicular. Se realiza extirpación del muñón de 1,5 cm a través de incisión de Mac Burney, siendo dado de alta tres días después sin complicaciones.
+  Dirección para correspondencia: Miguel Álvarez-Múgica    Servicio de Urología I    Hospital Universitario Central de Asturias    Celestino Villamil s/n    33006 Oviedo. Asturias (España).    malvarez79@mixmail.com

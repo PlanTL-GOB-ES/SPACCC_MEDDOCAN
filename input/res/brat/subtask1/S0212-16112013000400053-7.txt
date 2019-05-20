@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Maialen.
+Apellidos: Cabrera Arias.
+NHC: 8726589.
+Domicilio: C/ Cea Bermúdez, 12, 3 A.
+Localidad/ Provincia: Oviedo.
+CP: 02356.
+Datos asistenciales.
+Fecha de nacimiento: 30/05/1968.
+País de nacimiento: España.
+Edad: 65 años  Sexo: H.
+Fecha de Ingreso: 23/02/2015.
+Servicio: Oftalmología.
+Médico: Ignacio Aníbal Capdevilla   NºCol: 15 15 1995.
+Varón de 52 años con adenocarcinoma de la unión esófagogástrica tratado con quimioterapia. Posteriormente se realizó gastrectomía total ampliada a esófago y radioquimioterapia postcirugía. Durante este proceso mantuvo buen estado nutricional con modificaciones dietéticas y el uso de suplementos. Trascurridos unos meses desde la finalización del tratamiento presentó pérdida ponderal grave y muy rápida con un índice de masa corporal (IMC) de 14,5 kg/m2. Se descartó recidiva tumoral y se colocó SNY para NE (permitiéndose ingesta oral ad libitum), que se mantuvo en domicilio hasta que el paciente alcanzó un IMC de 19 kg/m2 e ingesta oral adecuada. A los dos meses de retirar la sonda presentó una nueva caída ponderal, diagnosticándose de esofagitis/yeyunitis rádica crónica. Tras realizar yeyunostomía se reinició NE con recuperación ponderal progresiva. Actualmente el paciente tiene un IMC de 24 kg/m2 y está en fase de retirada de NED.
+En la tabla I pueden verse las complicaciones surgidas con los catéteres de yeyunostomía, la forma en que se solventaron dichas complicaciones, así como el tiempo de permanencia de los mismos y el motivo de finalización del SNE.
+
+Dirección para correspondencia: María Teresa Fernández López. Médico Adjunto del Servicio de Endocrinología y Nutrición. Complexo Hospitalario Universitario de Ourense. C/ Villa Valencia, 20-6o A. 32002 Ourense. España. E-mail: maria.teresa.fernandez.lopez@sergas.es

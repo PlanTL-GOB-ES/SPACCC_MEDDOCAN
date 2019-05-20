@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Pedro.
+Apellidos: Dominguez Murillo.
+NHC: 80926.
+NASS:07 61345896 47.
+Domicilio: Calle Navarrete, 7.
+Localidad/ Provincia: Granada.
+CP: 18001.
+Datos asistenciales.
+Fecha de nacimiento: 25/07/1965.
+País: España.
+Edad: 50 años Sexo: H.
+Fecha de Ingreso: 04/11/2015.
+Médico: Diego Márquez Medina  NºCol: 18 18 65685.
+Historia del paciente: Presentamos el caso de un paciente varón de 50 años con crisis de sudoración profusa, pérdida del 10% del peso corporal y dolor en rodilla izquierda, sin fiebre, de seis meses de evolución, que consulta por dolor y aumento de tamaño en el muslo izquierdo. En su analítica (incluyendo LDH) no se apreciaron valores anormales y, clínicamente, fue diagnosticado de osteomielitis del trocánter izquierdo. La radiología de pelvis mostró una única lesión lítica en la cabeza femoral izquierda confirmada por TAC, 99Tc y 67Ga gammagrafía. La biopsia ósea fue informada como afectación linfoproliferativa ósea con posibilidad de tratarse de un LH.
+Un mes después, remitido a nuestra Unidad de Oncología, el examen físico reveló una masa adenopática de 7 cms de diámetro en la axila izquierda y adenopatías bilaterales inguinales de meses de evolución. La sintomatología previa fue interpretada como síntomas B y nuevos datos de laboratorio mostraban una b2µglobulina de 5 mg/l, LDH 670 y serología de VIH y hepatovirus negativa.
+Se realizó biopsia de la masa axilar, informada como LH tipo esclerosis nodular. La arquitectura del ganglio estaba distorsionada por tractos fibrosos entre nódulos de linfocitos, células plasmáticas, neutrófilos, histiocitos y células CD-30 +, con citoplasma claro y núcleos lobulados. Existía una positividad focal para CD-15 y EMA y casi todas las células tumorales eran Ki-67 +. La biopsia de médula ósea fue informada como fibrosis asociada a infiltración por LH. La TAC mostraba adenopatías en la axila izquierda, supraclaviculares, mediastino, retroperitoneo, pelvis e ingles.
+Del 24-2-2000 al 29-9-2000, el paciente recibió siete ciclos de QT en régimen ABVD. Al segundo ciclo, los síntomas B y las adenopatías periféricas habían desaparecido. Al cuarto, los valores de ß2µglobulina (1'7 mg/l) y LDH (398) eran normales, y, al sexto, la TAC sólo mostraba esclerosis de la pala ilíaca izquierda, la biopsia de médula ósea no presentaba infiltración por LH y la gammagrafía con 67Galio fue negativa. El 15-1-2001, se consolidó la respuesta con 3 ciclos de QT en régimen MOPP y con RT (36 Gy) sobre el fémur izquierdo. Hasta el día de hoy el paciente se encuentra libre de recaída.
+Regímenes de QT empleados en el tratamiento
+ABVD (cada 2 semanas): Doxorubicina 25 mg/m2 + Bleomicina 10 mg/m2 + Vinblastina 6 mg/m2 + Dacarbazina 375 mg/m2.
+COPP (cada 4 semanas): Día 1: Ciclofosfamida 650 mg/m2 + Vincristina 1'4 mg/m2 + Procarbazina 100 mg/m2. Día 8: Ciclofosfamida 650 mg/m2 + Vincristina 1'4 mg/m2. Días 1-14: Prednisona 40 mg/m2.
+Remitido por: Dr. Diego Márquez Medina. Secretaría de Servicio de Oncología Médica y Radioterápica Hospital Clínico Universitario San Cecilio de Granada Avda. Doctor Olóriz, 16 E-18012 Granada E-mail:dmarmed@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="9" end="14" text="Pedro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="27" end="44" text="Dominguez Murillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="51" end="56" text="80926" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="63" end="77" text="07 61345896 47" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="90" end="108" text="Calle Navarrete, 7" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="132" end="139" text="Granada" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="145" end="150" text="18001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="194" end="204" text="25/07/1965" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="212" end="218" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="226" end="233" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="240" end="241" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="261" end="271" text="04/11/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="281" end="301" text="Diego Márquez Medina" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="310" end="321" text="18 18 65685" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="381" end="386" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="390" end="397" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="1955" end="1964" text="24-2-2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="1968" end="1977" text="29-9-2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="2376" end="2385" text="15-1-2001" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="2924" end="2944" text="Diego Márquez Medina" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3005" end="3058" text="Hospital Clínico Universitario San Cecilio de Granada" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3059" end="3082" text="Avda. Doctor Olóriz, 16" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3083" end="3090" text="E-18012" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3091" end="3098" text="Granada" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3106" end="3125" text="dmarmed@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

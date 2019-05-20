@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Daniel.
+Apellidos: Macias Betanco.
+NHC: 7645745.
+NASS: 28 76347043 12.
+Domicilio: Av. Palomero, 3, 5 A.
+Localidad/ Provincia: Vigo.
+CP: 36204.
+Datos asistenciales.
+Fecha de nacimiento: 25/09/1969.
+País de nacimiento: España.
+Edad: 45 años Sexo: H.
+Fecha de Ingreso: 21/11/2014.
+Servicio: Oftalmología.
+Médico: M.ª Carmen Blanco Rivera  NºCol: 28 28.
+Informe clínico del paciente: varón de 45 años que acudió por urgencias por disminución de visión en su ojo izquierdo, de aparición brusca. Como antecedente reciente destacaba que el paciente había sufrido un episodio gripal unos días antes. Se realizó una exploración oftalmológica completa que determinó una agudeza visual de unidad en su ojo derecho, siendo los datos de la exploración del mismo compatibles con la normalidad, incluyendo el fondo de ojo. La exploración del ojo izquierdo, sin embargo, mostró una agudeza visual de 0,800 y en el fondo de ojo se observaron unas lesiones en área macular y foveolar central de aspecto anaranjado y redondeadas. Dado el antecedente gripal y el cuadro clínico del paciente, se pautó tratamiento con AINEs (ibuprofeno 600 mg/12 horas) y se solicitaron una AGF y un EOG.
+El EOG mostró una ligera alteración en el ojo izquierdo, siendo compatible con la normalidad en el ojo derecho. La AGF en el ojo derecho fue compatible con la normalidad, pero en el ojo izquierdo se observaron unas áreas hiperfluorescentes con un punto hipofluorescente central, sin difusión de contraste en tiempos tardíos.
+Las pruebas complementarias confirmaron el diagnóstico de sospecha de ERA y dado que la evolución del mismo es a resolverse de forma espontánea, se suspendió el tratamiento con AINEs.
+El paciente evolucionó favorablemente, recuperando la visión de unidad en su ojo izquierdo entre la 3.ª y 4.ª semana del inicio del cuadro clínico.
+Responsable clínico: Dra,  M.ª Carmen Blanco Rivera Servicio de Oftalmología. Complexo Hospitalario Universitario de Vigo (CHUVI) C/. Pizarro, 22 36204 Vigo (Pontevedra) España E-mail: mcarmenbr@wanadoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="34" text="Daniel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="47" end="61" text="Macias Betanco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="68" end="75" text="7645745" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="83" end="97" text="28 76347043 12" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="110" end="130" text="Av. Palomero, 3, 5 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="154" end="158" text="Vigo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="164" end="169" text="36204" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="213" end="223" text="25/09/1969" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="245" end="251" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="259" end="266" text="45 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="273" end="274" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="294" end="304" text="21/11/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="338" end="362" text="M.ª Carmen Blanco Rivera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="371" end="376" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="408" end="413" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="417" end="424" text="45 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="1879" end="1903" text="M.ª Carmen Blanco Rivera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="1930" end="1973" text="Complexo Hospitalario Universitario de Vigo" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="1975" end="1980" text="CHUVI" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="1982" end="1997" text="C/. Pizarro, 22" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1998" end="2003" text="36204" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2004" end="2008" text="Vigo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2010" end="2020" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2022" end="2028" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2037" end="2057" text="mcarmenbr@wanadoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

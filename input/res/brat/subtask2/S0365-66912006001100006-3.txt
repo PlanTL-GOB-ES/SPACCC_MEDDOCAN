@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Tomas.
+Apellidos: Pérez Soler.
+NHC: 57926.
+NASS: 84 24958768 30.
+Domicilio: Av, Planetario, 43, 3D.
+Localidad/ Provincia: Ciudad de México.
+CP: 28034.
+Datos asistenciales.
+Fecha de nacimiento: 24/08/1960.
+País de nacimiento: España.
+Edad: 9 años  Sexo: H.
+Fecha de Ingreso: 03/05/2015.
+Médico: Ramiro Cabello Benavente   NºCol: 48 48 46560.
+Varón de 45 años, diabético tipo I desde hace 14 años, diagnosticado de retinopatía diabética no proliferativa severa en la última revisión oftalmológica. Acude a su revisión habitual mostrando una intensa rubeosis iridis en el ojo izquierdo. Se toman fotografías del segmento anterior y se realiza un OCT de iris que muestra una señal hiperreflectante en la superficie externa del iris, correspondiente al área de neovasos. En este caso, el OCT muestra que la configuración del ángulo esclero-corneal es abierta. Posteriormente, el paciente es tratado mediante panfotocoagulación retiniana.
+Dirección para correspondencia: Francisco Javier Lara Medina Complejo Hospitalario La Mancha-Centro 13600 Alcázar de San Juan ( Ciudad Real) España E-mail: flarmed@hotmail.com

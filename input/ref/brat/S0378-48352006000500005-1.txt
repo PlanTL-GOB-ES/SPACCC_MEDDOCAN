@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Juan.
+Apellidos: Brenes Palacios.
+NHC: 4356393.
+NASS: 87 34567345 49.
+Domicilio: C/ Santa Teresa, 29, 4 Der..
+Localidad/ Provincia: Valencia.
+CP: 46009 .
+Datos asistenciales.
+Fecha de nacimiento: 19/11/1949.
+País de nacimiento: España.
+Edad: 63 años Sexo: H.
+Fecha de Ingreso: 13/03/2013.
+Servicio: Oncología.
+Episodio: 8943479.
+Médico: Antonio Segura Huerta NºCol: 46 46 58971.
+Historia Actual: Varón de 63 años sin antecedentes de interés. Consultó por presentar una lesión nodular a nivel del cuadrante dorso-lumbar derecho de un mes de evolución y rápido crecimiento, asociado a un cuadro de astenia y anorexia desde hacía tres meses, con pérdida de peso de 10 kg. No refería otro tipo de sintomatología. 
+Exploración física: A la exploración física destacaba únicamente una discreta hepatomegalia. A nivel dorso-lumbar derecho se observaba la lesión nodular de 5x3 cm, de coloración violácea, no adherida a planos profundos pero que producía dolor al roce y a la movilización.
+Pruebas complementarias: Analíticamente sólo destacaba una urea de 74 mg/dl, con creatinina de 1.93 mg/dl y GGT 83 UI/L con GOT/GPT normales. Se realizó una radiografía de tórax que objetivaba una elevación de diafragma izquierdo y una elongación aórtica, sin otros hallazgos. Se realizó biopsia de la lesión en piel con diagnostico anatomopatológico de metástasis de adenocarcinoma. Ante estos hallazgos se realizó una TAC toraco-abdomino-pélvica que evidenció un engrosamiento de la unión esófago-gástrica, con adenopatías gástricas izquierdas de >1cm de diámetro además de lesiones hepáticas sugestivas de metástasis. La gastroscopia mostró una lesión compatible con neoplasia de cardias. La biopsia dio el resultado de adenocarcinoma. Ante el diagnóstico de adenocarcinoma gástrico metastático, el paciente inició tratamiento quimioterápico con cisplatino (70mg/m2 cada 21 días) y 5-fluorouracilo en infusión continua de 48 horas semanal (3 gr/m2, días 1,8,15). Este esquema es uno de los empleados en primera línea en este tumor y está incluido en las directrices del grupo español para el tratamiento de los tumores del tubo digestivo (TTD).
+Evolución: Tras el segundo ciclo presentó toxicidad hematológica importante con neutropenia febril. Desarrolló un shock séptico y falleció en ese contexto.
+Responsable clínico:  Dr. Antonio Segura Huerta. Servicio de Oncología Médica Hospital Universitario La Fe Avenida Campanar, 21 E-46009 Valencia segura_ang@gva.es

@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Daniel.
+Apellidos: Mejía Andrade.
+NHC: 2847413.
+NASS: 72 45743603 21.
+Domicilio: Avenida de legazpi 97, 1D.
+Localidad/ Provincia: Arganda del Rey, Madrid.
+CP: 08243.
+Datos asistenciales.
+Fecha de nacimiento: 27/08/2009.
+País de nacimiento: España.
+Edad: 34 años  Sexo: M.
+Fecha de Ingreso: 21/10/2011.
+Médico: Jorge Planelles Gómez   NºCol: 31 28 56980.
+Varón de 25 años de edad que sufre accidente de tránsito con impacto en miembro inferior izquierdo, resultando con fractura de cóndilos femorales y pérdida de rótula con necrosis de partes blandas en rodilla izquierda. Se practicaron curas durante 3 semanas sin resultados satisfactorios, exponiéndose los cóndilos femorales, por lo que fue necesario su cobertura con 2 colgajos de gemelos según la técnica descrita.
+
+Dirección para correspondencia: Dr. Carlos Márquez Zevallos Hospital Clínica Kennedy Alborada Calle Crotos Av. Rodolfo Baquerizo Nazur (Alborada XII etapa). Guayaquil, Ecuador. e-mail: dr_carlos_marquez@yahoo.com

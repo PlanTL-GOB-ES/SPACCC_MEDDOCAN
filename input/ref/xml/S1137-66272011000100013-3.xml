@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Esteban.
+Apellidos: ColmenerO Rodriguez.
+NHC: 0285967.
+NASS: 43 08625098 57.
+Domicilio: Av. Augusto González Besada, 5 4A.
+Localidad/ Provincia: 36001.
+CP: 36001.
+Datos asistenciales.
+Fecha de nacimiento: 19/05/1970.
+País: España.
+Edad: 45 años Sexo: H.
+Fecha de Ingreso: 21/12/2015.
+Médico: José Jesús Blanco Pérez NºCol: 36 28 20145.
+Informe clínico del paciente: Varón de 45 años, trabajador en canteras durante 15 años. Diagnosticado de silicosis complicada en FMP. Exfumador desde hace dos años, de 25 paquetes/año. Tuberculosis pulmonar en 2007. Acudió al Servicio de Urgencias en marzo 2009 con hemoptisis amenazante, precedida de tos y expectoración marronácea de 4 semanas de evolución. En la exploración física destacar constantes vitales dentro de la normalidad y roncus bilaterales en la auscultación pulmonar. En la analítica sérica destacar leucocitosis (11.280 células/μl con 80% de neutrófilos) sin otras alteraciones. La fibrobroncoscopia permitió ver un gran coágulo en bronquio de lóbulo superior derecho. La TAC mostraba afectación intersticial micronodular bilateral y difusa, algunos nódulos calcificados, de predominio en lóbulos superiores y conglomerados que habían aumentado respecto a estudios previos, con aparición de material en su interior, así como engrosamiento pleural nodular y difuso. El cultivo fue positivo para Aspergillus fumigatus en esputo y en aspirado bronquial. En sangre las precipitinas IgG resultaron positivas y el antígeno galactomanano negativo. Se realizó embolización de arterias bronquiales del LSI con control de la hemoptisis y se instauró tratamiento con voriconazol con buena evolución al año de tratamiento con negativización de las precipitinas séricas.
+Remitido por: José Jesús Blanco Pérez. C/ Rosal 23. 36760 Pontevedra E-mail: josejesus.blanco.perez@sergas.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="16" text="Esteban" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="29" end="48" text="ColmenerO Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="55" end="62" text="0285967" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="70" end="84" text="43 08625098 57" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="97" end="130" text="Av. Augusto González Besada, 5 4A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="154" end="159" text="36001" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="165" end="170" text="36001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="214" end="224" text="19/05/1970" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="232" end="238" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="246" end="253" text="45 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="260" end="261" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="281" end="291" text="21/12/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="301" end="324" text="José Jesús Blanco Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="332" end="343" text="36 28 20145" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="375" end="380" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="384" end="391" text="45 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <PROFESSION id="T7" start="393" end="415" text="trabajador en canteras" TYPE="PROFESION" comment=""/>
+    <DATE id="T6" start="555" end="559" text="2007" TYPE="FECHAS" comment=""/>
+    <DATE id="T5" start="596" end="606" text="marzo 2009" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="1737" end="1760" text="José Jesús Blanco Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="1762" end="1773" text="C/ Rosal 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1775" end="1780" text="36760" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1781" end="1791" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1800" end="1832" text="josejesus.blanco.perez@sergas.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Mateo.
+Apellidos: Sanchez Rodriguez.
+NHC: 4790356.
+NASS: 47 52670894 67.
+Domicilio: C/ Principe de Vergara, 55, 3 B.
+Localidad/ Provincia: Madrid.
+CP: 28015.
+Datos asistenciales.
+Fecha de nacimiento: 30/04/1985.
+País de nacimiento: España.
+Edad: 33 años Sexo: H.
+Fecha de Ingreso: 27/06/2018.
+Médico: Antonio Rico García NºCol: 28 28 55680.
+Informe clínico del paciente: Varón de 33 años, sin antecedentes patológicos conocidos, que ingresó en un servicio de urgencias hospitalario a las 7.43 h, procedente de su domicilio, con el diagnóstico de "traumatismo craneal ocasionando ictus isquémico". La tarde anterior había sufrido un golpe con un balón en el cuello mientras jugaba un partido de fútbol como portero.
+Durante su ingreso se practicó TAC craneal, que puso de manifiesto un infarto isquémico en el territorio de la arteria cerebral media derecha como consecuencia de una disección traumática de la arteria carótida interna derecha.
+Presentó hipertensión endocraneal y herniación cerebral con evolución hacia muerte encefálica, por lo que entró en programa de donación de órganos falleciendo 10 días después de su ingreso.
+Responsable clínico: Dr. Antonio Rico García. E-mail: anricoga@gmail.com

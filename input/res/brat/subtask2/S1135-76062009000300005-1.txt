@@ -1,0 +1,30 @@
+Nombre: Patricia.
+Apellidos: Rosa Martinez.
+NHC: 3456723.
+NASS: 80 93467298 65.
+Domicilio: Calle Yamal, 5, 4 A.
+Localidad/ Provincia: Pamplona, Navarra.
+CP: 28002.
+Datos asistenciales.
+Fecha de nacimiento: 23/10/1974.
+País: España.
+Edad: 39 años  Sexo: M.
+Fecha de Ingreso: 02/12/2017.
+Servicio: .
+Episodio: 3489648532.
+Médico: Carlos Moreno García  NºCol: 09 28 94165.
+Niña de 5 meses y 15 días de edad, segunda hija con un hermano de 6 años sano, que ingresó en el hospital derivada por su pediatra por lenta somatometría (Percentil 3), IMC de 14 kg/m2 (desnutrición leve) y rechazo de alimento. A la exploración inicial se observó desnutrición, acrocianosis que aumentaba con el llanto, taquicardia, ligera disnea y soplo pansistólico II-III en varias localizaciones a la auscultación. Fue diagnosticada de cardiopatía congénita: Transposición de grandes vasos con septum integro (TGV con SI), siendo intervenida quirúrgicamente de forma urgente. En primer lugar se procedió a la ampliación mediante cateterismo del foramen oval, y posteriormente se realizó fístula subclavia-pulmonar y banding en arteria pulmonar. La evolución en el postoperatorio fue desfavorable, falleciendo en la UCI de pediatría 8 días después del ingreso.
+Los padres solicitaron la realización de una autopsia médico-legal ante la sospecha de una mala actuación facultativa.
+Autopsia:
+a) Examen Externo
+Peso de 6440 g, talla de 64 cm (IMC: 15.6 kg/m2), perímetro cefálico de 39.5 cm, perímetro torácico de 45 cm y abdominal de 42 cm.
+b) Examen Interno
+Encéfalo de 620 g con un infarto cerebral isquémico extenso a nivel parieto-occipital izquierdo correspondiente al territorio de irrigación de la arteria cerebral media.
+
+Se procedió a la extracción y fijación del bloque cardiopulmonar para su posterior examen macroscópico, en el que destacaba la existencia de una TGV intervenida quirúrgicamente presentando un banding en arteria pulmonar, una fístula entre subclavia derecha y arteria pulmonar, y ampliación de comunicación interauricular (foramen oval), así como hipertrofia de ventrículo derecho con adelgazamiento de la pared del ventrículo izquierdo. Presentaba a su vez una anomalía de la salida de las arterias coronarias, observándose la presencia de dos ostium coronarios que salían del mismo seno.
+
+En el examen histológico del corazón se encontró una pericarditis serofibrinosa y, a nivel del miocardio, focos de necrosis subendocárdica con calcificación distrófica secundarios a la cirugía. En los pulmones se observaba la presencia de membranas hialinas como signo de distrés respiratorio. Por otro lado, el encéfalo presentaba signos de encefalopatía anóxica e infarto parietal reciente.
+
+Así, a la luz de los resultados macro y microscópicos, se determinó que la causa de la muerte fue un Infarto cerebral isquémico en paciente intervenida de Transposición de grandes arterias.
+
+Dirección para correspondencia: Dr. Antonio Rico. Servicio de Patología Forense. IML de Sevilla. Av. Sánchez Pizjuán, s/n. 41009 Sevilla. Tel. 955 928 020, Fax 955 928 023. E-mail: iaf.sevilla@andaluciajunta.es

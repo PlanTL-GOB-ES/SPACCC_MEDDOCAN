@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Antonio.
+Apellidos: Fernandez Barrios.
+NHC: 7834690.
+Domicilio: Calle la Poveda 26, bajo A.
+Localidad/ Provincia: Santiago de Compostela, A Coruña.
+CP: 36001.
+Datos asistenciales.
+Fecha de nacimiento: 28/02/1979.
+País de nacimiento: España.
+Edad: 38 años  Sexo: H.
+Fecha de Ingreso: 25/07/2016.
+Médico: Javier Paz Moreno-Arrones  
+Mujer de 41 años que acude a nuestra consulta por presentar una tumoración no dolorosa, de lento crecimiento en los últimos seis meses a nivel maxilar superior, entre los premolares 14 y 15, que permanecen vitales, desplazando ligeramente sus raíces. No hay dolor, ni alteraciones tróficas ni signos de inflamación. A la exploración se apreciaba una expansión en la corteza vestibular, con integridad de la misma. En la radiografía existía una imagen radiolúcida entre las raíces de los premolares superiores.
+
+El estudio histopatológico nos dio el diagnóstico de OKC con aisladas microinclusiones córneas en la pared quística que ofrece aislado componente cartilaginoso; no se observa proliferación celular ameloblástica.
+
+Dirección para correspondencia: Dr. Sergio Llanos Hospital del Trabajador de Santiago Ramón Carnicer 185, 5o Piso. Providencia-Santiago. Chile. e-mail: Sergiollanos3@gmail.com

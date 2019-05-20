@@ -1,0 +1,22 @@
+﻿Nombre: Saúl.
+Apellidos: Jarquin Henao.
+CIPA: nhc-3645461.
+NASS: 46 23465705 69.
+Domicilio: Av. de la Constitución, 18.
+Localidad/ Provincia: Valladolid.
+CP: 18014.
+NHC: Calle Tres Palomas, 27.
+Datos asistenciales.
+Fecha de nacimiento: 26/06/2014.
+País: España.
+Edad: 29  Sexo: H.
+Fecha de Ingreso: 23/12/2014.
+Especialidad: urologia.
+Médico: Alfonso Vidal Casariego   NºCol: 30 30 22503.
+Se trata de una mujer de 71 años, proveniente de Palmira (población del suroccidente de Colombia cerca a la Costa Pacífica), referida a la Clínica Sebastián de Belalcázar de Cali, por historia de 20 días de evolución de fiebre y tos productiva,asociada a pérdida de peso de seis meses (4 kg) y una infección de vías aéreas superiores con tratamiento antibiótico y evolución tórpida.
+En el examen físico se encontró hepatoesplenomegalia y adenopatía de 3 cm en la axila derecha; no se observaron manifestaciones cutáneas.
+En el cuadro hemático inicialmente se observó anemia y leucopenia, seguidas por leucocitosis,linfocitosis (11.000/mm 3 ) y neutropenia absoluta. Se encontraron niveles de deshigrogenasa láctica de 300 mg/dl y calcio sérico de 7,1 mg/dl.
+Se obtuvieron biopsias de ganglio linfático y médula ósea con el fin de descartar un linfoma. Estos dos tejidos y la sangre estaban infiltrados por una neoplasia de células T con importante pleomorfismo nuclear. En los extendidos de sangre se observaron "células flor" ( flower cells ) y se identificó un fenotipo CD3+,CD2+, CD4+, CD5+, CD7-, CD8-, CD56- y TdTen las células tumorales, tanto en la biopsia de ganglio linfático como en la de médula ósea y en la citometría de flujo de sangre periférica.
+
+Teniendo en cuenta los hallazgos anteriores, se sospechó una leucemia/linfoma de célula T del adulto; por consiguiente, se solicitaron las pruebas ELISA y Western Blot para HTLV 1-2, las cuales resultaron positivas, confirmando el diagnóstico. El resultado del Western blot fue positivo para HTLV-1 con presencia de bandas p19, GD21 y rgp46-I. La forma de leucemia identificada correspondió a leucemia aguda. La paciente falleció antes de iniciar el tratamiento.
+Correspondencia: Eneko Barbería Marcalain. Av. Marià Fortuny, 73. 43204 REUS. Tfno: 977 34 42 19 1 Médico Forense. Juzgados de 1ª Instancia e Instrucción de Reus (Tarragona).

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Matteo  .
+Apellidos: Bagagglia.
+NHC: 9654845.
+Domicilio: 4, Piazza della Repubblica.
+Localidad/ Provincia: Livorno.
+CP: 57122.
+Datos asistenciales.
+Fecha de nacimiento: 13/01/1941.
+País: Italia.
+Edad: 64 años Sexo: H.
+Fecha de Ingreso: 02/03/2005.
+Médico: Javier Rosada .
+Historia Actual: Varón italiano de 64 años ingresa en marzo del 2005 por intensa cefalea, fiebre continua y pancitopenia. En la historia resulta padecer de LNH di tipo B grado II (Real) ya tratado con quemioterapia según el esquema CHOP-R y sucesivamente con altas dosis de ciclofosfamida con el objetivo de movilizar las células estaminales en previsión de autotrasplante, por otra parte, nunca efectuado. Una reciente TAC total body describía una remisión de la enfermedad linfomatosa mientras la biopsia osteomedular evidencia una mielodisplasia secundaria en ausencia de infiltración neoplásica.
+Exploración física: A su ingreso en el hospital en la exploración física se aprecia fiebre de 39 °C, palidez cutaneomucosa y esplenomegalia, PA 110/70 mmHg, frecuencia cardiaca 128 latidos por minuto. El resto de la exploración física inicial es compatible con la normalidad.
+Resumen de pruebas complementarias:Los primeros análisis muestran, entre otras cosas, pancitopenia con neutropenia de 830/ul. Se efectuaban exámenes virológicos (negativos) y hemocultivos seriados. Una TAC de cráneo no mostraba lesiones focales agudas ni signos de ipertensión cerebral. El paciente se trata con terapia de sostén, factores de crecimiento granulocitario, antimicóticos y antibióticos de amplio espectro de acción, con remisión del cuadro hematológico y resolución de la fiebre. Por el persistir de la cefalea y la aparición sucesiva de signos meníngeos se efectuaba una punción lumbar diagnóstica. El análisis microscópico del LCR muestra un incremento del número total de células, constituidas por un gran número de neutrófilos, megacariocitos y células mieloides con maduración intermedia; cuadro representativo de una población medular. El análisis citológico inmunohistoquímico se presentaba compatible con metaplasia mieloide: factor VIII y mieloperoxidasa positivos en los elementos morfológicamente compatibles. El análisis repetido del LCR en comparación con la sangre periférica y el hecho que ninguna raquicéntesis fuera traumática o de difícil ejecución excluye la contaminación. Mientras tanto resulta positivo el hemocultivo a Sterotrophomonas maltophilia sensible al tratamiento antibiótico en acto. 
+Evolución y comentarios: Dos semanas después del ingreso las condiciones neurológicas del paciente empeoran, entra en coma cerebral y fallece.
+Remitido por: Javier Rosada. Via Sproni 16. 57125 Livorno, Italia. e-mail: javierosadamed@yahoo.it
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="8" end="14" text="Matteo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="29" end="38" text="Bagagglia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="45" end="52" text="9654845" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="65" end="91" text="4, Piazza della Repubblica" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="115" end="122" text="Livorno" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="128" end="133" text="57122" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="177" end="187" text="13/01/1941" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="195" end="201" text="Italia" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="209" end="216" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="223" end="224" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="244" end="254" text="02/03/2005" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="264" end="277" text="Javier Rosada" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="297" end="302" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="315" end="322" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="334" end="348" text="marzo del 2005" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="2644" end="2657" text="Javier Rosada" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2659" end="2672" text="Via Sproni 16" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2674" end="2679" text="57125" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2680" end="2687" text="Livorno" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2689" end="2695" text="Italia" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2705" end="2728" text="javierosadamed@yahoo.it" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

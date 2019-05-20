@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Ramon.
+Apellidos: Aznar Rivas.
+NHC: 2405698.
+NASS: 34 78654702 56.
+Domicilio: Calle Patricio Jimenez, 6, 3, B.
+Localidad/ Provincia: Mexico DF.
+CP: 28047.
+Datos asistenciales.
+Fecha de nacimiento: 20/02/2013.
+País de nacimiento: España.
+Edad: 56 años  Sexo: H.
+Fecha de Ingreso: 12/11/2016.
+Médico: Fabricio Aguirre-Balsalobre   NºCol: 08 08 76541.
+Paciente varón de 68 años con antecedentes de H.T.A. y cardiopatía isquémica en tratamiento. No alergias ni otros antecedentes de interés.
+Consulta por hematuria con coágulos intermitente sin otros síntomas urológicos destacables de un mes de evolución.
+La exploración física es compatible con la normalidad.
+El estudio ecográfico no detecta anomalías de interés, con riñones y vías excretoras normales, próstata discretamente aumentada de tamaño y vejiga sin hallazgos.
+En la cistoscopia practicada se aprecia una tumoración papilar en cara lateral izquierda retromeatal que se extiende hasta vertiente anterior del cuello vesical. Se practica resección transuretral.
+El diagnóstico anatomopatológico fue de adenoma de Brunner (papiloma invertido) sobre varios fragmentos resecados que en conjunto miden 10x15x5 mm..
+
+El paciente permanece asintomático tras 24 meses de seguimiento.
+Dirección para correspondencia: José Antonio Cánovas Ivorra Urbanización Montiboli 188 A-6 03570 Villajoyosa. Alicante. (España). jacanovas@hotmail.com

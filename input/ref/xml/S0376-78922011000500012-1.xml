@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Pascual.
+Apellidos: Domenech Paul.
+NHC: 786353.
+NASS: 98 76245678 04.
+Domicilio: Avinguda de Santa Eulàlia, 236 .
+Localidad/ Provincia: Terrassa, Barcelona.
+CP:08223.
+Datos asistenciales.
+Fecha de nacimiento: 08/05/1986.
+País: España.
+Edad: 31 años Sexo: H.
+Fecha de Ingreso: 19/11/2017.
+Médico: Eva Guisantes NºCol:08 08 47356.
+Historia Actual: Varón de 31 años con antecedentes a destacar de esplenectomía postraumática 14 años antes y sobrepeso. Presentó sepsis por neumococo que provocó fallo multiorgánico (renal, respiratorio, hematológico y hemodinámico) e ingreso en Unidad de Cuidados Intensivos (UCI). Permaneció intubado durante 11 días y posteriormente fue trasladado a planta de Medicina Interna. Debido a la mala perfusión secundaria a la sepsis aparecieron lesiones necróticas en extremidades superiores y principalmente inferiores distales. Inicialmente valorado por Cirugía Vascular, se indicó tratamiento con prostaglandinas durante 21 días. Tras mejoría del estado general y desaparición del riesgo vital y tras 7 semanas ingresado en Medicina Interna, fue trasladado a Cirugía Plástica para tratamiento de las lesiones necróticas residuales.
+Al ingreso en nuestro Servicio presentaba múltiples lesiones de pequeño tamaño en antebrazos, manos y muslos que epitelizaron adecuadamente con tratamiento tópico. Como complicación de mayor relevancia existía necrosis plantar izquierda con amplia escara en zona muda plantar que fue desbridada en sala de hospitalización, anestesia plantar izquierda, necrosis seca de 3o, 4o y 5o dedos del pie derecho y úlcera pretibial derecha de 10 x 5 cm.
+Exploración física Y pruebas complementarias: Realizamos intervención quirúrgica para desbridamiento plantar izquierdo y pretibial derecho y desbridamientos diarios en sala para reducir la mayor parte de los esfacelos y escaras. Tras 20 días de desbridamientos diarios en la habitación del paciente, sin anestesia local (no presentaba dolor debido a la anestesia plantar y a que era tejido necrótico), se inició terapia V.A.C.® en planta del pie izquierdo para favorecer granulación, evitar sobreinfección y permitir una cobertura posterior del defecto. Se aplicaron esponjas de poliuretano (VAC GranuFoam®), con presión negativa continua de 125 mmHg las primeras 48h y posteriormente se continuó con presión negativa intermitente (5 minutos con aspiración y 2 sin aspiración). La primera semana se utilizaron esponjas con plata (VAC GranuFoam Silver® ) para mejorar el efecto antibacteriano dada la persistencia de esfacelos. El contenedor del VAC® recogió abundante exudado durante el tratamiento. Empleamos el Sistema VAC ATS® Therapy. El tratamiento completo duró 20 días y los cambios de esponjas se realizaron 3 veces por semana.
+El paciente pudo seguir realizando ejercicios de fisioterapia durante el tratamiento, transportando cómodamente su sistema VAC® en la mano, cuando acudía a las sesiones en silla de ruedas.
+La evolución fue muy favorable, con desaparición de los esfacelos residuales, formación de tejido de granulación de color rojo vivo, sin aparición de sobreinfección y obteniéndose un lecho adecuado para recibir un injerto de piel.
+Evolución y comentarios: Una semana después de retirar la terapia VAC® el paciente fue intervenido para cobertura del defecto plantar izquierdo con injerto de piel de espesor parcial tomado del muslo del mismo lado, amputación de 3o, 4o y 5o dedos del pie derecho e injerto de piel sobre defecto residual pretibial derecho. Los injertos prendieron adecuadamente y las heridas cicatrizaron bien.
+El paciente fue dado de alta tras 4 meses y medio de ingreso hospitalario y 2 semanas después de la intervención de cobertura con injerto de piel. Al alta deambulaba con ayuda de muletas. Seis semanas después del alta deambulaba de forma autónoma con ayuda de una plantilla especial colocada por el podólogo, aunque requiere cuidados habituales por el podólogo debido a la anestesia plantar que obliga a un seguimiento estricto de la piel de esta zona.
+Remitido por: Dra. Eva Guisantes. Servicio de Cirugía Plástica, Hospital de Terrassa Ctra. Torrebonica, s/n 08227 Terrassa (Barcelona) España e-mail: draguisantes@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="8" end="15" text="Pascual" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="28" end="41" text="Domenech Paul" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="48" end="54" text="786353" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="62" end="76" text="98 76245678 04" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="89" end="119" text="Avinguda de Santa Eulàlia, 236" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="144" end="152" text="Terrassa" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="154" end="163" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="168" end="173" text="08223" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="217" end="227" text="08/05/1986" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="235" end="241" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="249" end="256" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="263" end="264" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="284" end="294" text="19/11/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="304" end="317" text="Eva Guisantes" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="324" end="335" text="08 08 47356" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="354" end="359" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="363" end="370" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="4037" end="4050" text="Eva Guisantes" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="4082" end="4102" text="Hospital de Terrassa" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="4103" end="4125" text="Ctra. Torrebonica, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="4126" end="4131" text="08227" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="4132" end="4140" text="Terrassa" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="4142" end="4151" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="4153" end="4159" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="4168" end="4190" text="draguisantes@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

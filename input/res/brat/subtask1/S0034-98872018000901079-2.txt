@@ -1,0 +1,15 @@
+Nombre: Antonio.
+Apellidos: Pérez Godín.
+NHC: 3245789.
+Domicilio: Paseo de Rovira 28, 1 D.
+Localidad/ Provincia: Sevilla.
+CP: 47001.
+Datos asistenciales.
+Fecha de nacimiento: 04/07/1945.
+País: España.
+Edad: 61 años  Sexo: H.
+Fecha de Ingreso: 14/09/2017.
+Servicio: Urgencias.
+Médico: Juan Iglesias Martín   NºCol: 28 28 80480.
+Mujer de 27 años migrañosa, EF diagnosticada a la edad de 25 años, en estudió con niveles enzimáticos por antecedente materno de Fabry. Inicia a los 16 años episodios de dolor abdominal intensos tipo cólico no asociado a ingesta de alimentos. Posteriormente evoluciono con episodios de dolor 3 veces al mes, de moderada intensidad y autolimitados. Sin complicaciones de EF, mínimos angioqueratomas. Sin terapia de reemplazo enzimático. Sin síntomas sensitivos. La evaluación clínica y neurofisiológica resulto normal.
+Dirección para correspondencia: Dr. Gustavo Jiménez Muñoz Ledo Hospital Aranda de la Parra Hidalgo 311, consultorio 504 León, Guanajuato 3700. México drgustavojimenezml@gmail.com

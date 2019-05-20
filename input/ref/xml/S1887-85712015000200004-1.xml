@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Mounir.
+Apellidos: Zidan.
+NHC: 2798356.
+NASS: 47 80635075 03.
+Domicilio: Calle San Benito, 16.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 13/03/1989.
+País: Afganistán.
+Edad: 29 años Sexo: H.
+Fecha de Ingreso: 15/05/2018.
+Médico: Ricardo Navarro Suay  NºCol: 28 28 56802.
+Informe clínico del paciente: Presentamos el caso de un varón, de 29 años (165 cm, 68 Kg), afgano, policía, que durante un atentado sufrió un traumatismo abierto en codo derecho secundario al impacto de arma de fuego (probablemente AK-74 de 7,62 mm). Tras el incidente, se le colocó un torniquete a nivel humeral, se le aplicó un hemostático granulado a nivel tópico (Celox® SAM Medical Products, Newport, Oregon, EEUU) y se administró ácido tranexámico (1 g iv). Fue evacuado por medio de un helicóptero medicalizado hasta el Role 2E español de Herat (Afganistán) llegando a la sala de triaje 70 minutos después de sufrir la lesión.
+En la valoración primaria, el herido presentaba GCS 15 ptos, SatO2 periférica de 98%, frecuencia cardíaca de 110 lpm, tensión arterial no invasiva de 130/80 mmHg y con buen control del dolor (EVA 2/10) tras administración de midazolam (3 mg iv) y ketamina (30 mg iv). Se confirmó la presencia de herida de arma de fuego con orificio de entrada en codo sin orificio de salida. En la radiografía se evidenció una fractura distal de húmero izquierdo, una fractura proximal de cúbito izquierdo y fractura proximal de radio izquierdo.
+Se decidió intervención quirúrgica para desbridamiento, limpieza, extracción de las esquirlas óseas y colocación de un fijador externo en brazo izquierdo bajo anestesia general.
+Durante la realización del estudio preanestésico no se encontraron alteraciones de consideración en la analítica sanguínea, en el ECG o la valoración de la vía aérea. El paciente no recordaba cuándo había sido su última ingesta y aceptó el consentimiento informado en presencia de un intérprete.
+En quirófano se utilizó una monitorización grado I (SatO2 periférica, frecuencia cardíaca, tensión arterial no invasiva y capnografía) incrementada con dispositivo de análisis biespectral (BIS®), monitor continuo de hemoglobina (Masimo® Radical 7) y termómetro orofaríngeo. Se premedicó al herido con midazolam (1 mg iv) y con ketamina (20 mg iv). Tras 3 minutos de desnitrogenización con FiO2 al 80% consiguiendo una SatO2 del 100%, se procedió a la inducción de anestésica de secuencia rápida con fentanilo (150 μg iv), propofol (130 mg iv) y rocuronio (30 mg iv). Se realizó laringoscopia estándar (Cormak II), se aisló la vía aérea con tubo endotraqueal de 7,5 mm y se rellenó el balón de neumotaponamiento con aire (8 ml). Tras seleccionar parámetros de ventilación protectiva (VT 420 ml, PEEP 7, FiO2 45%) no fue necesaria la realización de maniobras de reclutamiento alveolar. El mantenimiento anestésico se realizó con mezcla de O2, aire y sevofluorano. Durante los 75 minutos del procedimiento quirúrgico el paciente se mantuvo con tendencia a la taquicardia. La intervención realizada fue reducción abierta bajo control de escopia, osteosíntesis transarticular mediante implantación de fijador externo Hoffmann II Stryker en configuración multiplanar, lavado pulsátil de la herida y desbridaje del tejido necrótico que implicaba al extesor carpi ulnaris, flexor carpi ulnaris y tendón tricipital.
+Se administró profilaxis antitetánica, antibiótica (cefazolina 2 g iv y metronidazol 500 mg iv), gastroprotectora (omeprazol 40 mg iv), antiemética (granisetron 3 mg iv), antiinflamatoria (desketoprofeno 50 mg iv), ocular (pomada oculos-epitelizante junto con cierre palpebral forzado), ortopédica (protección articular) y térmica (regulación de la temperatura del quirófano, calentador de fluidos y manta de aire caliente). Para mejorar el control del dolor, además de realizar una analgesia multimodal (metamizol 2 g iv, paracetamol 1 g iv, ketamina 30 mg iv y fentanilo 150 μg iv) se utilizó un bloqueo nervioso periférico ecoguiado a nivel interescalénico empleando 37 mg de bupivacaína 0,25%. La educción se realizó sin incidencias y no fue necesaria la antagonización de opiáceos ni la reversión del relajante muscular. El paciente ingresó estable y con buen control del dolor en la unidad de cuidados intensivos y posteriormente pasó a sala de hospitalización. Fue dado de alta del Role 2E a las 72 horas de sufrir el atentando, siendo evacuado a un hospital militar afgano para su curación de partes blandes y futura osteosíntesis.
+Remitido por: Dr. Ricardo Navarro Suay r_navarro_suay@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="29" end="35" text="Mounir" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="48" end="53" text="Zidan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="60" end="67" text="2798356" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="75" end="89" text="47 80635075 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="102" end="122" text="Calle San Benito, 16" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="146" end="152" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="158" end="163" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="207" end="217" text="13/03/1989" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="225" end="235" text="Afganistán" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="243" end="250" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="257" end="258" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="278" end="288" text="15/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="298" end="318" text="Ricardo Navarro Suay" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="327" end="338" text="28 28 56802" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="396" end="401" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="406" end="413" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T7" start="431" end="437" text="afgano" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <PROFESSION id="T6" start="439" end="446" text="policía" TYPE="PROFESION" comment=""/>
+    <OTHER id="T5" start="875" end="882" text="español" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T3" start="886" end="891" text="Herat" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="893" end="903" text="Afganistán" TYPE="PAIS" comment=""/>
+    <LOCATION id="T2" start="4442" end="4465" text="hospital militar afgano" TYPE="HOSPITAL" comment=""/>
+    <NAME id="T9" start="4543" end="4563" text="Ricardo Navarro Suay" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="4564" end="4587" text="r_navarro_suay@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

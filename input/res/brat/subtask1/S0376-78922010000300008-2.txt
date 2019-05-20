@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Enrique.
+Apellidos: Inurria Bonilla.
+NHC: 5289067.
+NASS: 47 80635075 03.
+Domicilio: Calle Agustín de Foxá, 15, 9, A.
+Localidad/ Provincia: Madrid.
+CP: 49238.
+Datos asistenciales.
+Fecha de nacimiento: 06/06/1983.
+País de nacimiento: España.
+Edad: 33 años  Sexo: Femenino.
+Fecha de Ingreso: 24/05/2017.
+Médico: Celia Quicios Dorado   NºCol: 45 45 19065.
+Mujer de 31 años de edad con diagnóstico de carcinoma basocelular nodular en ceja izquierda que requirió resección local amplia, originando un defecto de 5.5x3.7 cm. en el tercio externo de dicha ceja. Diseñamos un colgajo en isla de arteria temporal izquierda que se tunelizó hacia el defecto, fijándolo en el mismo y logrando la reconstrucción completa de la subunidad de la ceja. Posteriormente la paciente requirió depilación con láser para lograr completa simetría con respecto a la contralateral.
+
+Dirección para correspondencia: Dra. Jennifer Gaona Silva Carrera 7 A No. 127 A 69 Apto 505 Bogota - Colombia j.gaona.s@gmail.com

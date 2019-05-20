@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Pablo.
+Apellidos: Gonzalez Huerta.
+NHC: 2057834.
+NASS: 29 78451236 95.
+Domicilio: Calle Melchor Fernandez 8, 13 B.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 27/11/1987.
+País: España.
+Edad: 30 años Sexo: H.
+Fecha de Ingreso: 22/05/2018.
+Servicio: Urgencias.
+Médico: Roberto Sánchez Burgos NºCol: 28 28 74652.
+Motivo de ingreso: Agresión con múltiples heridas.
+Historia Actual: Varón de 30 años de edad, que tras sufrir una agresión es trasladado a urgencias del Hospital Universitario La Paz por presentar múltiples heridas incisas en la cara, el cuello, el cuero cabelludo y la mano izquierda. A su llegada ingresa en la Unidad de Cuidados Intensivos por presentar hipotermia marcada, Glasgow 10, acidosis metabólica grave, hipopotasemia y fracaso renal agudo, precisando ventilación mecánica durante 24 horas. Tras la resolución del cuadro orgánico agudo y la sutura primaria de las heridas, el paciente es trasladado a planta tras 48 horas, y recibe el alta hospitalaria a la semana de ingreso.
+A los 6 días del alta, el paciente acude de nuevo a urgencias por dolor y tumefacción a nivel preauricular izquierdo, subyacente a la cicatriz quirúrgica de una de las heridas faciales. Los síntomas incluyen tinnitus y a la exploración física se objetiva limitación de la apertura oral y una tumoración preauricular izquierda de 2 × 2 cm, de consistencia blanda y pulsátil a la palpación y a la inspección. A la auscultación de la masa se percibe murmullo sincrónico con el flujo sistólico arterial.
+Pruebas complementarias: Se realiza ecografía parotídea, donde se observa una imagen compatible con fístula arteriovenosa intraparotídea izquierda de alto flujo.
+En la tomografía computarizada (TC) cervicofacial y cervical se objetiva una imagen sugestiva de bolsón vascular de 36 × 25 × 24 cm, situado por detrás de la rama vertical mandibular izquierda, entre el lóbulo profundo y superficial de la glándula parótida, a nivel de la vena retromandibular. Se observa una probable imagen de aferencia arterial proveniente de ramas de la arteria carótida externa, con drenaje venoso hacia la vena yugular externa.
+Con vistas a un diagnóstico de certeza se lleva a cabo una angiografía donde se manifiesta una lesión vascular cuya aferencia fundamental es la porción proximal de la arteria maxilar interna y cuyos drenajes venosos se dirigen en sentido superior hacia el plexo pterigoideo y en sentido descendente a la vena yugular externa. Se observa, asimismo, que existe flujo retrógrado de la arteria facial hacia el bolsón. El tratamiento se realiza en el mismo acto mediante embolización, a través de microcateterismo de la arteria maxilar interna y con su oclusión mediante espiral de platino de 3 × 8 mm. No obstante, en el control angiográfico final se observa relleno retrógrado tardío desde la arteria facial izquierda.
+Evolución y comentarios: El paciente fue dado de alta con seguimiento ambulatorio, observándose una evidente mejoría clínica. La angio-TC reveló la oclusión de la arteria maxilar interna con cierre y trombosis del bolsón fistuloso. El seguimiento ambulatorio al mes y a los 6 meses mostró la ausencia de complicaciones o recidiva.
+Remitido por: Roberto Sánchez Burgos. Correo electrónico: ro_sb@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="9" end="14" text="Pablo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="27" end="42" text="Gonzalez Huerta" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="49" end="56" text="2057834" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="64" end="78" text="29 78451236 95" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="91" end="122" text="Calle Melchor Fernandez 8, 13 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="146" end="152" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="158" end="163" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="207" end="217" text="27/11/1987" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="225" end="231" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="239" end="246" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="253" end="254" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="274" end="284" text="22/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="315" end="337" text="Roberto Sánchez Burgos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="345" end="356" text="28 28 74652" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="426" end="431" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="435" end="442" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T2" start="511" end="540" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <NAME id="T4" start="3220" end="3242" text="Roberto Sánchez Burgos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3264" end="3281" text="ro_sb@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

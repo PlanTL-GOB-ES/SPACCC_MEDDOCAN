@@ -1,0 +1,17 @@
+Nombre: Isaac.
+Apellidos: Suescun Zaldivar.
+CIPA: nhc-56789516.
+NASS: 29 85647856 45.
+Domicilio: Calle Sangenjo, 32 .
+Localidad/ Provincia: Leganés, Madrid.
+CP: 28010.
+NHC: 7264684.
+Datos asistenciales.
+Fecha de nacimiento: 15/08/2014.
+País: España.
+Edad: 62 años  Sexo: H.
+Fecha de Ingreso: 20/12/2017.
+Especialidad: Urgencias.
+Médico: Diego Rodríguez Álvarez  NºCol: 50 50 98653.
+Paciente varón de 78 años de edad, diagnosticado de cáncer de vejiga con metástasis, en tratamiento con Durogesic® 75 μg/h durante 2 años, con buena eficacia y seguridad. En oncología se cambia por fentanilo genérico, notándose un empeoramiento del cuadro doloroso. Se vuelve a cambiar a Durogesic®, y de nuevo se estabiliza la analgesia.
+Correspondencia: Dr. Claudio Castaños. ccastanos@garrahan.gov.ar

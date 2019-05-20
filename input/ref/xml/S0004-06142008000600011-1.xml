@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Víctor .
+Apellidos:Nuñez Jimenez .
+CIPA: nhc-346798.
+NASS: 74 3141698 12.
+Domicilio: Avda. de Federico Soto, 1 .
+Localidad/ Provincia: Alicante.
+CP: 03001.
+NHC:346798.
+Datos asistenciales.
+Fecha de nacimiento: 28/02/1954.
+País: España.
+Edad: 56  Sexo: H.
+Fecha de Ingreso: 07/06/2010.
+Especialidad:.
+Médico:  Joaquín Ulises Juan Escudero   NºCol: 06 03 21395.
+Motivo de ingreso: Paciente de 56 años remitido a nuestro servicio por hallazgo incidental de masa renal de 5 cm de diámetro máximo, mesorrenal izquierda.
+Antecedentes: Como único antecedente el paciente padece hiperuricemia, y no refiere haber presentado episodios de hematuria.
+Exploración física y pruebas complementarias:  En el centro donde se diagnosticó se realizó estudio de extensión con radiografía de tórax, hemograma, bioquímica y tomografía computerizada abdomino-pélvica, donde se evidenció trombo tumoral que se extendía por la vena renal hasta la vena cava retrohepática. Ante este caso se decidió en el centro emisor, colocar filtro en vena cava inferior para evitar la progresión y la embolización de dicho trombo. Posteriormente el paciente fue remitido a nuestro centro para valorar tratamiento quirúrgico, ya que el centro emisor carecía de servicio de cirugía cardiaca.
+Para completar estudio realizamos urografías por resonancia magnética (Uro-RNM), y estudio angiográfico mediante tomografia computerizada (angio-TC) con cavografía para valorar con la máxima precisión posible el alcance del trombo y la posible infiltración vascular tumoral. En ambas exploraciones se informa de la extensión retrohepática del trombo, la aparente ausencia de infiltración vascular y de adenopatías, así como la presencia de filtro metálico inmediatamente por encima del trombo, responsable de la artefactación de las imágenes.
+Evolución y comentarios: Con el diagnóstico de neoformación renal estadio T3bN0M0 con trombo tumoral nivel II, se decide intervenir, conjuntamente con el servicio de cirugía cardiaca de nuestro centro, realizando esternotomía y laparotomía subcostal izquierda y, previa liberación del ángulo esplénico del colon mediante apertura del retroperitoneo a nivel del mesenterio, nefrectomía radical izquierda permaneciendo la pieza de nefrectomía anclada por la vena renal trombosada. Posteriormente, y bajo circulación extracorpórea con hipotermia profunda y retroperfusión cerebral, se procede a la retirada del filtro por cierre del mismo y tracción bajo control fluoroscópico desde su punto de inserción a nivel yugular, con control por auriculotomía derecha de la posible diseminación a pulmón de pequeños trombos durante la maniobra de retirada, para realizar acto seguido la resección de la vena renal y su ostium por sospecha de infiltración de los mismos y trombectomía por tracción para reparar posteriormente el defecto con un parche de Goretex®, precisando por este motivo el paciente anticoagulación con dicumarínicos durante 3 meses, hasta la endotelización del injerto sintético. La anatomía patológica revela la existencia de adenocarcinoma renal, grado III de Furhman que infiltra la cápsula renal sin sobrepasarla así como la vena renal, no encontrándose infiltrada la vena cava (pT3bNoMo) con trombo de origen exclusivamente tumoral.
+El paciente sigue en revisiones en nuestras consultas hasta que, en el TC de control a los 12 meses se evidencia lesión lítica en lámina posterior de la vértebra L2, tras estudio de extensión con gammagrafía y TC total-body que confirman que se trata de una lesión única, es remitido al servicio de neurocirugía donde es intervenido realizándose resección de dicha lesión. 
+Actualmente, han transcurrido 20 meses de seguimiento tras la nefretomía, el paciente se encuentra en revisiones por nuestro servicio y el servicio de oncología médica, encontrándose asintomático y sin signos de recidiva
+Diagnóstico Principal: neoformación renal estadio T3bN0M0
+Remitido por: Dr.Joaquín Ulises Juan Escudero Plaza Juan Carlos I, Nº 7 03370 Redován. Alicante. (España). chimojuan@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="15" text="Víctor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="28" end="41" text="Nuñez Jimenez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="54" end="60" text="346798" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="68" end="81" text="74 3141698 12" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="94" end="119" text="Avda. de Federico Soto, 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="144" end="152" text="Alicante" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="158" end="163" text="03001" TYPE="TERRITORIO" comment=""/>
+    <ID id="T17" start="169" end="175" text="346798" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="219" end="229" text="28/02/1954" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="237" end="243" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="251" end="253" text="56" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="261" end="262" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="282" end="292" text="07/06/2010" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="318" end="346" text="Joaquín Ulises Juan Escudero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="356" end="367" text="06 03 21395" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T9" start="400" end="407" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3921" end="3949" text="Joaquín Ulises Juan Escudero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3950" end="3975" text="Plaza Juan Carlos I, Nº 7" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="3976" end="3981" text="03370" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="3982" end="3989" text="Redován" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="3991" end="3999" text="Alicante" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="4002" end="4008" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="4011" end="4032" text="chimojuan@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

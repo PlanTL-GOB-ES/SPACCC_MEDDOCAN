@@ -1,0 +1,15 @@
+Datos del paciente.
+Nombre: Marisol.
+Apellidos: Roca Caballero .
+NHC: 7436571.
+Domicilio: Calle Finisterra, 18.
+Localidad/ Provincia: Barcelona.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 29/08/1975.
+País: España.
+Edad: 30 años  Sexo: H.
+Fecha de Ingreso: 28/05/2012.
+Médico: Elena Martí Toro Althaia  NºCol: 41 41 71469.
+Hombre de 46 años con antecedentes de infección respiratoria la semana previa, luego de cinco días comenzó con disartria, diplopía, vértigo y ataxia. Al examen se objetivó disartria, midriasis con reflejos fotomotores (RFM) disminuidos, paresia del recto superior izquierdo, nistagmus bihorizontal, ROT abolidos, dismetría bilateral y Romberg positivo. Se estudió con RM encéfalo normal. La EMG presentó alteración del reflejo de pestañeo. Sin disociación en LCR y anticuerpos anti-GQ1b positivos en suero. Evolucionó con sopor, midriasis arrefléctica, biparesia facial y paresia de extremidades superiores. Requirió intubación para manejo de vía aérea y monitorización por disautonomía. Se establecieron los diagnósticos de SMF, SGB y EB. Recibió IgIV (0,4 gr/kg/día por 5 días consecutivos). A los 6 meses tenía examen neurológico normal.
+Correspondencia a: Dr. Reinaldo Uribe San Martín Marcoleta 350 2º piso, Santiago de Chile. Teléfono: 02-23543316 E-mail: rmuribe@uc.cl

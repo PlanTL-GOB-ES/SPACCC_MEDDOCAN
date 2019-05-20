@@ -1,0 +1,19 @@
+T1	NOMBRE_SUJETO_ASISTENCIA 28 35	Alicia.
+T2	NOMBRE_SUJETO_ASISTENCIA 47 63	Fernandez Alonso
+T3	ID_ASEGURAMIENTO 85 99	78 92645072 95
+T4	CALLE 112 132	Calle Finisterra, 18
+T5	TERRITORIO 167 172	21071
+T6	PAIS 234 240	España
+T7	EDAD_SUJETO_ASISTENCIA 248 255	69 años
+T8	NOMBRE_PERSONAL_SANITARIO 347 373	Maria Isabel Fuente García
+T9	SEXO_SUJETO_ASISTENCIA 395 17010	Mujer de 53 años que acude a consulta muy preocupada porque presenta desde hace 8 días fiebre de predominio vespertino de 38ºC, astenia intensa y aporta una analítica con alteración de la VSG (velocidad de sedimentación globular). Previamente a las 48 h del inicio del cuadro, había visitado a un médico particular, el cual la exploró descartando patología grave y le solicitó una analítica. La paciente al recibir la analítica a los 6 días del inicio del cuadro, acude al centro de salud por la persistencia de los síntomas. En la analítica realizada se observa: hemograma con fórmula y recuento dentro de la normalidad, bioquímica general, perfil hepático y coagulación sin alteraciones y una VSG (velocidad de sedimentación globular) de 110 mm/1ª h. La enferma tiene síntomas intensos de ansiedad (angustia), por el miedo y sospecha de tener una posible neoplasia oculta, ya que su madre murió recientemente de cáncer de mama. En la anamnesis además de los síntomas reseñados anteriormente, refiere molestias en la zona anterior del cuello y en ocasiones una sensación mal definida de presión o “vuelco” en la región precordial. No tiene ningún antecedente médico de interés, ni toma fármacos de forma habitual.
+T10	NOMBRE_PERSONAL_SANITARIO 19707 19729	Carmelo Prieto Zacundo
+T11	CALLE 19730 19771	C/ Cobos de Segovia 7, portal 4, piso 5ºA
+T12	TERRITORIO 19772 19777	28005
+T13	TERRITORIO 19778 19784	Madrid
+T14	CORREO_ELECTRONICO 19793 19808	cprieto@nexo.es
+T15	NOMBRE_PERSONAL_SANITARIO 19827 19849	Carmelo Prieto Zacundo
+T16	CALLE 19850 19891	C/ Cobos de Segovia 7, portal 4, piso 5ºA
+T17	TERRITORIO 19892 19897	28005
+T18	TERRITORIO 19898 19904	Madrid
+T19	CORREO_ELECTRONICO 19913 19928	cprieto@nexo.es

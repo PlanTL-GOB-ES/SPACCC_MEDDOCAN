@@ -1,0 +1,15 @@
+Datos del paciente.
+Nombre: Carolina .
+Apellidos: Rojo Quezada.
+NHC: 7894562.
+Domicilio: Av. Ginzo De Lima, 13.
+Localidad/ Provincia: Tolosa.
+CP: 31008.
+Datos asistenciales.
+Fecha de nacimiento: 06/08/1971.
+País de nacimiento: España.
+Edad: 38 años  Sexo: H.
+Fecha de Ingreso: 07/12/2017.
+Médico: Gracia Álvarez Fernández  NºCol: 28 28 65589.
+Mujer de 58 años con diagnóstico de enfermedad de Niemann-Pick con disfagia orofaringea, episodios de broncoaspiración y desnutrición calórico-proteica secundaria. Se inició nutrición enteral, a través de sonda nasogástrica (SNG), realizándose posteriormente GEP ante la necesidad de nutrición enteral permanente.
+Dirección para correspondencia: Ignacio Jiménez Varo. Hospital Universitario Virgen del Rocío. Reyes Católicos, 19 - 5o. Sevilla. España. E-mail: ignaciojimenez85@hotmail.com

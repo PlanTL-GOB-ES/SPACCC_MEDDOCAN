@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Juan Manuel.
+Apellidos: Garcia Pantoja.
+NHC: 7845123.
+NASS: 61 65132546 22.
+Domicilio: Av Montes Pirineos 770, Lomas de Chapultepec V Secc..
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 19/05/1925.
+País de nacimiento: España.
+Edad: 52  Sexo: H.
+Fecha de Ingreso: 02/02/2018.
+Médico: Jesús Ignacio Tornero Ruiz  NºCol: 29 29 51778.
+Mujer de 50 años con pirosis y regurgitaciones ácidas que fue remitida a nuestro servicio para la realización de una endoscopia oral programada. En dicha exploración se encontraron más de 100 lesiones milimétricas, redondeadas, sobreelevadas y blanco-amarillentas, distribuidas de forma difusa a lo largo de todo el esófago e identificadas histológicamente como glándulas sebáceas.
+Dirección para correspondencia: antonyvegavega@gmail.com (A. Vega Vega)

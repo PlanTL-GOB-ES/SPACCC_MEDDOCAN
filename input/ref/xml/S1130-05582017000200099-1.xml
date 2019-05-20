@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Carolina.
+Apellidos: Fernandez Toledo.
+NHC: 4578123.
+NASS: 29 85647856 45.
+Domicilio: Calle Julio Vidal 19.
+Localidad/ Provincia: Alcalá de Henares.
+CP: 28002.
+Datos asistenciales.
+Fecha de nacimiento: 24/01/1995.
+País: España.
+Edad:  23 años Sexo: M.
+Fecha de Ingreso: 15/04/2018.
+Médico: Antonio Lemos Aguilar  NºCol: 28 28 56425.
+Informe clínico del Paciente: Paciente de sexo femenino, de 23 años de edad, no fumadora, sin antecedentes médico-quirúrgicos de relevancia ni alergias medicamentosas conocidas. Acudió a la consulta a causa de un aumento de volumen en la encía vestibular inferior, adyacente a orificio mentoniano izquierdo, de 2 meses de evolución, con crecimiento activo. No fue relacionado con causas traumáticas. Al examen clínico, se advirtió un nódulo de 0,5 cm de diámetro, de consistencia fibroelástica a la palpación, de coloración similar a la de la mucosa normal, parcialmente adherido a planos profundos e indoloro. En el estudio radiológico, no se observaron particularidades en la zona de la lesión.
+Bajo anestesia local, se realizó una biopsia escisional de la lesión. El estudio anatomopatológico reveló una proliferación de células fusiformes dispuestas en fascículos cortos arremolinados, con abundantes estructuras vasculares de apariencia mixomatosa, con aislados depósitos de colágeno y focos de infiltrado linfocitario con hematíes extravasados. Se efectuaron, asimismo, estudios inmunohistoquímicos que resultaron positivos para vimentina y actina muscular lisa y negativos para alk-protein 1, beta catenina, CD 34, desmina, S-100. La expresión de Ki67 fue de 5 a 6% de núcleos marcados. Este cuadro se corresponde con el diagnóstico de fascitis nodular. Se realizó un seguimiento de 18 meses, sin observarse recidiva.
+Remitido por: Antonio Lemos Aguilar. Centro de Salud Puerta de Madrid. Avda. del Ejército, 61. C.P. 28002. Alcalá de Henares. Madrid (España). Correo electrónico: antonio.aguilar@salud.madrid.org
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="17" text="Carolina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="30" end="46" text="Fernandez Toledo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="53" end="60" text="4578123" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="68" end="82" text="29 85647856 45" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="95" end="115" text="Calle Julio Vidal 19" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="139" end="156" text="Alcalá de Henares" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="162" end="167" text="28002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="211" end="221" text="24/01/1995" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="229" end="235" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="244" end="251" text="23 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="258" end="259" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="279" end="289" text="15/04/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="299" end="320" text="Antonio Lemos Aguilar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="329" end="340" text="28 28 56425" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="389" end="397" text="femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="402" end="409" text="23 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="1781" end="1802" text="Antonio Lemos Aguilar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1804" end="1836" text="Centro de Salud Puerta de Madrid" TYPE="CENTRO_SALUD" comment=""/>
+    <LOCATION id="T6" start="1838" end="1860" text="Avda. del Ejército, 61" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1867" end="1872" text="28002" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1874" end="1891" text="Alcalá de Henares" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1893" end="1899" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1901" end="1907" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1930" end="1962" text="antonio.aguilar@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

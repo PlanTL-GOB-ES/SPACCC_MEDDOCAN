@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Angel.
+Apellidos: Moreno Ruiz .
+NHC: 4354983.
+NASS: 28 43875654 55.
+Domicilio: Calle Villa de Marin, 1.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 15/02/1997.
+País de nacimiento: España.
+Edad: 21 años Sexo: M.
+Fecha de Ingreso: 10/06/2018.
+Médico: Vicente Javier Clemente SuárezNºCol: 28 28 65890.
+Informe clínico del paciente: Varón de 21 años de edad, que ingresa en el Servicio de Neurocirugía por presentar nódulos en región parietal izquierda que han aumentando de volumen en los últimos 7 meses.
+Como antecedentes personales relevantes destacan: hemofilia A moderada e intervención quirúrgica de escafocefalia en la infancia (craniectomía+bandas de silicona+fijación ósea con hemoclips). Presentó hematoma intraparenquimatoso cerebral espontáneo que fue tratado de forma conservadora. No existen episodios conocidos de traumatismo.
+El examen físico reveló una tumoración elástica indolora, no pulsátil, de superficie lisa, cubierta de "scalp" normal y con un tamaño de 5x3x3 cm. en la región parietal izquierda. El examen neurológico fue normal.
+Los hallazgos de laboratorio fueron: hemoglobina, 16g/ dl; hematocrito, 50%; leucocitos, 6710, con un recuento diferencial normal; plaquetas, 211000; actividad de protrombina, 97%; TTPA: 59seg. Factor VIII: 19%.
+La radiografía simple y TAC de cráneo mostraron una lesión osteolítica de márgenes escleróticos a nivel parietal izquierdo con erosión de la tabla externa e interna y expansión del díploe. La RMN revela un nódulo parietal en el mismo lado, bien delimitado, con distintas áreas de señal en su interior, con hemoglobina en distintos estadios de evolución: alta densidad de señal para la metahemoglobina y baja densidad de señal para la desoxihemoglobina.
+La TAC de tórax, abdomen y pelvis, sasí como la gammagrafía ósea, descartaron tumor o metástasis ósea. El paciente recibió 50U/kg/d de Factor VIII previo a la cirugía lo cual aumentó su nivel de Factor VIII al 89% del normal. A lo largo de la operación recibió una infusión intravenosa continua de 5U/kg/h de Factor VIII.
+Intervención quirúrgica
+Bajo anestesia local se realizó incisión del "scalp" sobre la tumoración y mediante disección subperióstica se observó elevación y erosión de la tabla externa, conteniendo el díploe tejido fibroso cigatricial en torno a un hematoma en distintos estadios de organización y, además, tejido plástico (bandas de silicona). La tabla interna estaba adelgazada, con abalonamiento irregular y defecto óseo.
+Se extirpó el hematoma, el tejido granular y cuerpo extraño (silicona) así como la tabla externa adelgazada y elevada, hasta llegar a hueso de grosor y aspecto normal mediante curetaje óseo.
+El examen histológico confirmó la presencia de hematoma antiguo y tejido de granulación.
+Tras la cirugía, el Factor VIII se mantuvo en el 80% de la actividad normal hasta que se retiró el material de sutura.
+Responsable clínico:  Vicente Javier Clemente Suárez. Departamento de Motricidad, Rendimiento Humano y Gestión del Deporte. Facultad de Ciencias de la Actividad Física y el Deporte. Universidad Europea de Madrid. Calle Tajo, s/n, 28670 Villaviciosa de Odón Madrid, España e-mail: vctxente@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="33" text="Angel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="46" end="57" text="Moreno Ruiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="65" end="72" text="4354983" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="80" end="94" text="28 43875654 55" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="107" end="130" text="Calle Villa de Marin, 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="154" end="160" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="166" end="171" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="215" end="225" text="15/02/1997" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="247" end="253" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="261" end="268" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="275" end="276" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="296" end="306" text="10/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="316" end="346" text="Vicente Javier Clemente Suárez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="353" end="364" text="28 28 65890" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="396" end="401" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="405" end="412" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T10" start="2951" end="2981" text="Vicente Javier Clemente Suárez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="3053" end="3109" text="Facultad de Ciencias de la Actividad Física y el Deporte" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T7" start="3111" end="3140" text="Universidad Europea de Madrid" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T6" start="3142" end="3157" text="Calle Tajo, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3159" end="3164" text="28670" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3165" end="3185" text="Villaviciosa de Odón" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3186" end="3192" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3194" end="3200" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3209" end="3226" text="vctxente@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

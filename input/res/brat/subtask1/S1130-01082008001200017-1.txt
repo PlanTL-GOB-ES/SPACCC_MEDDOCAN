@@ -1,0 +1,15 @@
+Nombre: Marcos.
+Apellidos: Torrejon Garcia.
+NHC: 376492.
+Domicilio: Av. Nicaragua, 45, 1 D.
+Localidad/ Provincia: Madrid.
+CP: 45600.
+Datos asistenciales.
+Fecha de nacimiento: 19/12/2010.
+País: España.
+Edad: 2 años  Sexo: H.
+Fecha de Ingreso: 20/01/2016.
+Médico: Carmen Gómez Candela   NºCol: 24 24 56102.
+Varón de 29 años que ingresa por ictericia de un mes de evolución con una analítica que evidenciaba anemia, trombopenia y elevación de la bilirrubina y enzimas de colestasis. La tomografía computerizada (TC) mostró una masa de 13 cm en segmentos IV, V y VIII. Al mes del ingreso falleció por shock hipovolémico con una autopsia compatible con ASH.
+
+Dirección para correspondencia: L. Quiñones Ortiz Servicio de Nefrología, Hospital Cabueñes, Gijón, Asturias
