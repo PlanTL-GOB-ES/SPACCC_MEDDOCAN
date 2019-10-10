@@ -4,8 +4,6 @@
 
 
 ## Introduction
-------------
-
 This script is the COBALAB version of the original evaluation script. It
 has been adapted to fit the requirements of the platform, but otherwise, 
 it works exactly like the original script.
@@ -25,13 +23,11 @@ additional metric where the spans are merged if only non-alphanumerical
 characters are found between them.
 
 ## Prerequisites
--------------
 
 This software requires to have Python 3 installed on your system.
 
 
 ## Directory structure
--------------------
 
 <pre>
 annotated_corpora/
@@ -72,7 +68,6 @@ This directory where the script outputs the results for the run.
 
 
 ## Usage
------
 
 The user can select different folders using the command line:
 
@@ -82,13 +77,10 @@ usage: evaluate.py input_folder/ output_folder/
 
 
 ## Contact
-------
-
 Siamak Barzegar (siamak.barzegar@bsc.es)
 
 
 ## License
--------
 
 Copyright (c) 2019 Secretaría de Estado para el Avance Digital (SEAD)
 
