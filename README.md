@@ -43,9 +43,11 @@ distribution we include the development set).
 Gold standard files must be placed under the `ref` directory and 
 system files (User submission) under the `res` directory. 
 The `ref` directory contains two subdirectories with the files in `brat` and `xml` formats. 
-The `res` directory can contain two subdirectories with the files in `brat` and `xml` formats, and 
-at least one of them is required.
-In this evaluation, we have two tasks (`subtask1` and `subtask2`), therefore the res directory should follow the below structure (In this example we show `brat` format, you can submit `xml` format):
+The `res` directory can contain two subdirectories with the files in `brat` and `xml` formats, 
+and at least one of them is required.
+In this evaluation, we have two tasks (`subtask1` and `subtask2`), 
+therefore the res directory should follow the below structure 
+(In this example we show `brat` format, you can submit `xml` format):
 |- res
      |- brat
            |- subtask1
@@ -61,7 +63,8 @@ Files in the previous directories must be in the appropriate format: `.ann`
 and `.txt` for `brat`, and `.xml` for `xml`. 
 
 Note1: the `brat` format is used by the script. 
-Note2: Users must put all annotated files that exist in `ref` directory under `res` directory, otherwise they could not see their results.
+Note2: Users must put all annotated files that exist in `ref` directory under `res` directory,
+ otherwise they could not see their results.
 
 output/
 This directory where the script outputs the results for the run.
