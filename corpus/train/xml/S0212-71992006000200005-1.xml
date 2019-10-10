@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sergio .
+Apellidos: Castilblanco Macía.
+NHC: 8348576.
+NASS: 24 46564730 12.
+Domicilio: Calle Rellano, 23, 1C.
+Localidad/ Provincia: Oviedo.
+CP: 33006.
+Datos asistenciales.
+Fecha de nacimiento: 31/10/1986.
+País de nacimiento: España.
+Edad: 29 años Sexo: H    .
+Fecha de Ingreso: 14/08/2016.
+Médico: Ana María García Bernárdez NºCol: 33 33 97181.
+Historia Actual:  varón de 29 años de edad, que acude a nuestra consulta por un cuadro de un mes de evolución que consistía en fiebre diaria de 39º-40º, dolor intenso de características pleuríticas en el hemitórax izquierdo y tos con expectoración abundante de color negruzco. No tenía antecedentes médicos ni quirúrgicos de interés. Era fumador de 20 cigarrillos/día desde hacía 10 años. 
+Exploración física: La exploración física fue rigurosamente normal, exceptuando la auscultación pulmonar en la que presentaba una disminución global del murmullo vesicular con zonas aisladas de egofonía. 
+Pruebas complementarias: Se realizaron diversos estudios analíticos que incluyeron: hemograma, bioquímica general, gasometría arterial basal, aclaramiento de creatinina, calciuria, proteinograma, dosificación de inmunoglobulinas y complemento, proteína C reactiva, factor reumatoide, determinación de la enzima convertidora de angiotensina y marcadores biológicos, siendo todos los resultados normales. La espirometría realizada mostró un patrón restrictivo. Se realizó un test de difusión pulmonar que puso de manifiesto una difusión disminuida (65%), compatible con una reducción de la superficie de intercambio. En la radiografía simple de tórax se apreciaba un patrón intersticial bilateral. Se realizó una TC torácica donde se vieron múltiples lesiones quísticas pulmonares, ninguna de ellas mayor de 2 centímetros, distribuidas en ambos pulmones especialmente en los lóbulos superiores y medios. Se observó también una lesión lítica a nivel del cuarto arco costal izquierdo. Se solicitó al Servicio de Cirugía Torácica la realización de una biopsia pulmonar abierta. Se tomaron muestras de los lóbulos superior e inferior del pulmón izquierdo. El estudio histopatológico mostró en el parénquima pulmonar, una infiltración por eosinófilos y por células mononucleares con núcleos arriñonados típicos de las células de Langerhans. Las tinciones inmunohistoquímicas S-100 y CD1a fueron positivas. Se realizó estudio de microscopía electrónica y se observaron las características células de Langerhans con núcleo polilobulado y con profundas indentaduras. Se vieron también estructuras formadas por dos dobles membranas apuestas, separadas por una estructura densa que cumple las características de un gránulo de Birbeck en su porción tubular. 
+Evolución: Con el diagnóstico de HPCL se recomendó al paciente abandono del hábito tabáquico y se le citó para realizar TC torácico de control a los 6 meses. En este estudio se observó la desaparición casi completa de las lesiones quísticas persistiendo la imagen lítica costal.. Clínicamente el paciente presentó una mejoría importante estando asintomático a no ser por la persistencia de un leve dolor costal en el hemitórax izquierdo que se correspondía con la lesión ósea observada en la TC.
+Responsable clínico: Ana María García Bernárdez Servicio de Medicina Interna I Hospital Universitario Central de Asturias C/ Celestino Villamil, s/n. 33006 Oviedo.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="34" text="Sergio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="48" end="66" text="Castilblanco Macía" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="73" end="80" text="8348576" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T1" start="88" end="102" text="24 46564730 12" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="115" end="136" text="Calle Rellano, 23, 1C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="160" end="166" text="Oviedo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="172" end="177" text="33006" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="221" end="231" text="31/10/1986" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="253" end="259" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="267" end="274" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="281" end="282" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="306" end="316" text="14/08/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="326" end="352" text="Ana María García Bernárdez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="360" end="371" text="33 33 97181" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="391" end="396" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="400" end="407" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="3231" end="3257" text="Ana María García Bernárdez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3289" end="3331" text="Hospital Universitario Central de Asturias" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3332" end="3358" text="C/ Celestino Villamil, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3360" end="3365" text="33006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3366" end="3372" text="Oviedo" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

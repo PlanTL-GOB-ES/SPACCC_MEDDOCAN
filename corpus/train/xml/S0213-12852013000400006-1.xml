@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sara.
+Apellidos: Martinez Rodriguez.
+NHC: 8267482.
+NASS: 39 76892809 03.
+Domicilio: Avda. San Sebastian, 23, 1 A.
+Localidad/ Provincia: Getxo .
+CP: 48930.
+Datos asistenciales.
+Fecha de nacimiento:06/08/1955.
+País de nacimiento: España.
+Edad: 57 años Sexo: M.
+Fecha de Ingreso: 12/07/2013.
+Médico: Rafael Crovetto Martínez  NºCol: 48 28 57910.
+Informe clínico del paciente: Mujer de 57 años que acudió al gabinete odontológico para realizar el tratamiento de una caries en la cara oclusal del 2o molar inferior derecho (47) Con la paciente semitumbada, sin extensión cervical, se realizó la infiltración de anestesia local sin que se presentaran reacciones anómalas. Posteriormente se procedió a realizar un fresado de la caries con la turbina. Durante el fresado la paciente presentó un vértigo rotatorio. El vértigo cedió en el mismo momento en que se de detuvo el trabajo con la turbina. Reiniciado el fresado la paciente volvió a presentar vértigo rotatorio, mas leve en esta ocasión lo que permitió terminar la obturación sin problemas añadidos. La paciente fue remitida al Otorrinolaringólogo para estudio de su vértigo en respuesta al sonido intenso (fenómeno de Tullio). La anamnesis, las pruebas audiológicas (audiometría e impedanciometría), vestibulares (registro de nistagmus vértico-rotatorio frente a estímulos sonoros de elevada intensidad), neurofisiológicos (registro de potenciales vestibulares miogénicos evocados anormales) y la tomografía computarizada demostraron la existencia de una dehiscencia del canal semicircular superior derecho.
+Responsable clínico: Rafael Crovetto Martínez. Avda. Máximo Aguirre, 5, 4o B Getxo. Vizcaya. España E-mail: macdlt@telefonica.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="32" text="Sara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="45" end="63" text="Martinez Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="70" end="77" text="8267482" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="85" end="99" text="39 76892809 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="112" end="140" text="Avda. San Sebastian, 23, 1 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="164" end="169" text="Getxo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="176" end="181" text="48930" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="224" end="234" text="06/08/1955" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="270" end="277" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="284" end="285" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="305" end="315" text="12/07/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="325" end="349" text="Rafael Crovetto Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="358" end="369" text="48 28 57910" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="401" end="406" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="410" end="417" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1608" end="1632" text="Rafael Crovetto Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1634" end="1663" text="Avda. Máximo Aguirre, 5, 4o B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1664" end="1669" text="Getxo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1671" end="1678" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1680" end="1686" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1695" end="1716" text="macdlt@telefonica.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Cesar.
+Apellidos: Massoti Fernandez.
+NHC: 384546.
+NASS: 46 27896474 38.
+Domicilio: Av/ portugal 65, 3D.
+Localidad/ Provincia: La coruña.
+CP: 15006.
+Datos asistenciales.
+Fecha de nacimiento: 19/05/1954.
+País: España.
+Edad: 59 años Sexo: H.
+Fecha de Ingreso: 29/02/2013.
+Médico: José Ferreras Granado NºCol: 15 15 36985.
+Informe Clinico: Varón de raza caucásica de 59 años de edad que es remitido a nuestro Servicio refiriendo dolor lancinante en el cuerpo mandibular izquierdo así como hipoestesia labio - mentoniana de ese mismo lado desde hacía un mes. La exploración intraoral fue normal. Se realizó un estudio radiográfico mediante ortopantomografía y TC que reveló la presencia de una lesión osteolítica bien delimitada de unos 2,5 cm de diámetro localizada a nivel de la rama ascendente mandibular izquierda. Se llevó a cabo una biopsia de la lesión. El estudio histológico demostró una imagen compatible con lesión metastásica de adenocarcinoma, probablemente de tipo mucosecretor. Se realizó entonces una gammagrafía ósea que mostró zonas de hipercaptación en la rama ascendente mandibular izquierda, cuerpo vertebral izquierdo a nivel de T12, 8ª costilla derecha y en unión costocondral de 6ª costilla derecha. La TC toraco - abdominal evidenció una gran masa afectando al cuerpo y antro gástrico, con adenopatías regionales y un nódulo en el lóbulo superior pulmonar izquierdo. Se le administró un tratamiento combinado con radio y quimioterapia. El paciente falleció 2 meses después. La autopsia confirmó el origen gástrico de la metástasis.
+Remitido por: Dr. José Ferreras Granado. CHU Juan Canalejo Servicio de Cirugía Oral y Maxilofacial As Xubias de Arriba, 84 15006 La Coruña, España Email: joseferreras@terra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="14" text="Cesar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="27" end="44" text="Massoti Fernandez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="51" end="57" text="384546" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="65" end="79" text="46 27896474 38" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="92" end="111" text="Av/ portugal 65, 3D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="135" end="144" text="La coruña" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="150" end="155" text="15006" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="199" end="209" text="19/05/1954" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="217" end="223" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="231" end="238" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="245" end="246" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="266" end="276" text="29/02/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="286" end="307" text="José Ferreras Granado" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="315" end="326" text="15 15 36985" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="345" end="350" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T8" start="354" end="368" text="raza caucásica" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="372" end="379" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T1" start="1579" end="1600" text="José Ferreras Granado" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1602" end="1619" text="CHU Juan Canalejo" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="1660" end="1683" text="As Xubias de Arriba, 84" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1684" end="1689" text="15006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1690" end="1699" text="La Coruña" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1701" end="1707" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="1715" end="1736" text="joseferreras@terra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

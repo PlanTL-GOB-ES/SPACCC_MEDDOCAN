@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Sandra.
+Apellidos: Terraza Baeza.
+NHC: 2897564.
+Domicilio: Calle de Nicaragua, 23, 3D.
+Localidad/ Provincia: Alicante.
+CP: 03459.
+Datos asistenciales.
+Fecha de nacimiento: 06/12/1990.
+País: España.
+Edad: 27 años Sexo: M.
+Fecha de Ingreso: 07/06/2018.
+Servicio: Ginecología.
+Médico:  José Antonio Cánovas Ivorra NºCol: 03 08 65748.
+Informe clínico del paciente: Paciente de 27 años de edad sin alergias ni antecedentes de interés. Acude desde la consulta de Ginecología donde se aprecia en un estudio ecográfico una imagen neoformativa en el área retrotrigonal derecha. No presenta ningún síntoma urológico asociado.
+En la urografía intravenosa practicada se confirma el hallazgo ecográfico de defecto de replección en área lateral derecha, así como el estudio mediante T.A.C.
+En la cistoscopia practicada se aprecia un área sobreelevada sin alteración de la mucosa a ese nivel.
+Se practica resección transuretral que confirma el hallazgo de leiomioma vesical.
+La evolución postoperatoria es satisfactoria así como el seguimiento en consultas externas mediantes estudios endoscópicos anuales.
+Remitido por: Dr. José Antonio Cánovas Ivorra Urbanización Montiboli 188 A-6 03570 Villajoyosa. Alicante. (España). jacanovas@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="29" end="35" text="Sandra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="48" end="61" text="Terraza Baeza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="68" end="75" text="2897564" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="88" end="114" text="Calle de Nicaragua, 23, 3D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="138" end="146" text="Alicante" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="152" end="157" text="03459" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="201" end="211" text="06/12/1990" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="219" end="225" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="233" end="240" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="247" end="248" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="268" end="278" text="07/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="312" end="339" text="José Antonio Cánovas Ivorra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="347" end="358" text="03 08 65748" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T8" start="402" end="409" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1139" end="1166" text="José Antonio Cánovas Ivorra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1167" end="1197" text="Urbanización Montiboli 188 A-6" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1198" end="1203" text="03570" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1204" end="1215" text="Villajoyosa" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1217" end="1225" text="Alicante" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1228" end="1234" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1237" end="1258" text="jacanovas@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

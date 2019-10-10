@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Idoia.
+Apellidos: Larrea Isidro.
+NHC: 3208765.
+NASS: 47 85365073 45.
+Domicilio: Paseo de Amara, 5.
+Localidad/ Provincia: Donostia.
+CP: 20014.
+Datos asistenciales.
+Fecha de nacimiento: 19/07/1946.
+País de nacimiento: España.
+Edad: 71 años Sexo: M.
+Fecha de Ingreso: 04/12/2017.
+Médico: Aintzane Orkaizagirre Gómara NºCol: 20 20 45710.
+Informe clínico del paciente: Mujer de 71 años, con antecedentes de diabetes mellitus tipo 2, remitida por ulceración corneal de probable etiología herpética del ojo izquierdo de dos meses de evolución, acompañada de dolor ocular leve. La paciente refirió haber sufrido inflamación ocular asociada a dermatitis frontal, compatible con herpes zoster, dos años antes. En la primera visita presentaba una agudeza visual de 0,4 en el ojo derecho y cuenta dedos a 1 metro en el ojo izquierdo, catarata leve bilateral, tonometría normal y fondo de ojo sin alteraciones significativas en ambos ojos. En el ojo izquierdo se observó una ulceración corneal superficial y central, con infiltrados bien delimitados en los bordes, asociada a reacción inflamatoria en cámara anterior (tyndall celular 2+).
+Se realizó una toma de muestras para cultivo microbiológico mediante raspado corneal, y se prescribió itraconazol oral 200 mg/24h asociado a tratamiento tópico con anfotericina B 0,15%, cefazolina 50 mg/ml y tobramicina 15 mg/ml, basado en la principal sospecha de queratitis fúngica. El cultivo mostró crecimiento de Candida albicans, razón por la que se mantuvo el mismo tratamiento. La queratitis empeoró rápidamente hasta la perforación corneal en el curso de 6 días, precedida por un aumento importante del dolor, hiperemia grave, extensión del defecto epitelial corneal, aparición de infiltración estromal densa (necrosis), hipopion e hipertensión ocular. Se realizó de urgencia un trasplante de membrana amniótica (triple capa), precedido intraoperatoriamente por una nueva toma de muestras mediante raspado corneal para su cultivo microbiológico. El resultado de este cultivo (aerobio y anaerobio) fue negativo para bacterias.
+Como tratamiento médico se inició la administración de voriconazol vía intravenosa (200 mg/24 h) asociado a aceclofenaco oral, lágrimas artificiales sin conservantes y brimonidina tópica. Tras 10 días se sustituyó la administración intravenosa de voriconazol por la vía oral (200 mg/24 h) y se mantuvo durante 6 semanas. El cuadro clínico respondió favorablemente al tratamiento, desapareciendo progresivamente los signos inflamatorios durante los primeros 15 días. La paciente sólo presentó visión borrosa al inicio del tratamiento y un aumento leve de LDH en sangre, sin otros efectos secundarios. Se observó una buena integración del injerto de membrana amniótica, aunque posteriormente precisó la realización de una queratoplastia penetrante debido a la cicatrización corneal residual (leucoma adherente).
+Responsable clínico:  Dr. Aintzane Orkaizagirre Gómara. Paseo Doctor Begiristain 105, 20014 Donostia-San Sebastián (País Vasco), España. aintzane.orkaizagirre@ehu.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="33" text="Idoia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="46" end="59" text="Larrea Isidro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="66" end="73" text="3208765" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="81" end="95" text="47 85365073 45" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="108" end="125" text="Paseo de Amara, 5" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="149" end="157" text="Donostia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="163" end="168" text="20014" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="212" end="222" text="19/07/1946" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="244" end="250" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="258" end="265" text="71 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="272" end="273" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="293" end="303" text="04/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="313" end="341" text="Aintzane Orkaizagirre Gómara" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="349" end="360" text="20 20 45710" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="392" end="397" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="401" end="408" text="71 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2925" end="2953" text="Aintzane Orkaizagirre Gómara" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2955" end="2983" text="Paseo Doctor Begiristain 105" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2985" end="2990" text="20014" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2991" end="3013" text="Donostia-San Sebastián" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3015" end="3025" text="País Vasco" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3028" end="3034" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3036" end="3064" text="aintzane.orkaizagirre@ehu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

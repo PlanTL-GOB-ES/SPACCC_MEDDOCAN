@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Alejandra.
+Apellidos: Castro Maradiaga.
+NHC: 4567542.
+NASS: 34 97853021 02.
+Domicilio: Calle San Benito, 16, 3, A.
+Localidad/ Provincia: Madrid.
+CP: 28032.
+Datos asistenciales.
+Fecha de nacimiento: 29/05/1997.
+País de nacimiento: España.
+Edad: 19 años Sexo: F.
+Fecha de Ingreso: 18/11/2016.
+Médico: Jorge Espinoza NºCol: 28 28 36895.
+Informe clínico del paciente: Paciente del sexo femenino, de 19 años de edad, que consulta por dolor leve recurrente a nivel de la hemimandíbula izquierda, asociado a una parestesia de la zona mencionada, especialmente a nivel del labio inferior. Describe además un leve dolor al masticar en molares y premolares del lado afectado.
+En el examen físico se observa una leve asimetría facial por un aumento de volumen ubicado en la zona más posterior del cuerpo mandibular y rama ascendente derecha. El aumento de volumen es indoloro. Intrabucalmente se observa tabla ósea externa abombada a nivel de la zona del segundo molar. Situación similar, pero con expansión de ambas tablas, se pesquisa a la palpación de la rama ascendente mandibular. Tercer molar ausente clínicamente.
+Con la hipótesis diagnóstica de quiste mandibular odontogénico o tumor odontogénico se solicita estudio imagenológico previo a biopsia. La radiografía panorámica revela una extensa lesión radiolúcida de límites netos, uniloculada y que compromete la totalidad de la rama ascendente mandibular. Asociada a la lesión, se observa el tercer molar incluido en posición baja y en distoversión.
+Se programa una biopsia incisional durante la cual, y de acuerdo a las características clínicas de la lesión, se instala una cánula de descompresion. El informe histopatológico revela un ameloblastoma uniquístico de crecimiento intramural tipo IIIa de Ackermann9.
+Tras 10 meses de seguimiento clínico-radiográfico, con la presencia de una cánula de descompresión cuya longitud es reducida gradualmente, se constata la reducción casi total de la lesión quística ameloblástica, por lo que se efectúa cirugía de enucleación y curetaje de la cavidad residual, además de exodoncia del tercer molar involucrado 15.
+Responsable clínico: Jorge Espinoza Correo electrónico: jorgeantoespino@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="37" text="Alejandra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="50" end="66" text="Castro Maradiaga" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="73" end="80" text="4567542" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="88" end="102" text="34 97853021 02" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="115" end="141" text="Calle San Benito, 16, 3, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="165" end="171" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="177" end="182" text="28032" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="226" end="236" text="29/05/1997" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="258" end="264" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="272" end="279" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="286" end="287" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="307" end="317" text="18/11/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="327" end="341" text="Jorge Espinoza" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="349" end="360" text="28 28 36895" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="410" end="418" text="femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="423" end="430" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2156" end="2170" text="Jorge Espinoza" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2191" end="2216" text="jorgeantoespino@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

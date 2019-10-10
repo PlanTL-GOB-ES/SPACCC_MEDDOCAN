@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Yago.
+Apellidos: Fernandez Benitez.
+NHC: 3894762.
+Domicilio: Calle Via Limite, 44, 3 A.
+Localidad/ Provincia: Madrid.
+CP: 28046.
+Datos asistenciales.
+Fecha de nacimiento: 15/08/2010.
+País de nacimiento: España.
+Edad: 4 años Sexo: H.
+Fecha de Ingreso: 21/09/2014.
+Médico: Maria Encarnacion Correa Pérez NºCol: 28 28 57810.
+Informe clínico del paciente: Paciente de 4 años remitido a consulta de Oftalmología en junio de 2008 desde Pediatría, con diagnóstico de ptosis congénita de ojo izquierdo, que según los padres se evidenciaba desde los dos años. Los padres refieren que tiende a frotarse mucho ese ojo. Embarazo normal, a término por cesárea. Únicamente destacan problemas de coagulación de la madre durante el embarazo, tratados con heparina subcutánea.
+A la exploración se aprecia discreta asimetría entre párpados superiores, tercio interno del párpado superior izquierdo discretamente descendido. No se palpan masas en esa zona. La agudeza visual es de 0,8 en ambos ojos con el test de la E de Snellen. Motilidad ocular normal, test de Cover negativo. Fondo de ojo sin alteraciones.
+Acude para nueva valoración a los cinco meses, refiriendo picor en ojo izquierdo. En la nueva exploración se aprecia discreto abultamiento en tercio interno del párpado superior de ojo izquierdo. No se aprecia clara limitación de la motilidad de dicho ojo, pero parece estar en ligera hipotropia. Resto de la exploración normal. Se plantea diagnóstico diferencial entre alteración de la motilidad o masa orbitaria. Se decide valoración por oftalmología infantil y se solicita técnica de imagen.
+En la consulta con oftalmología infantil una semana después, se aprecia agudeza visual sin corrección, de 1 en ojo derecho, y 0,7 en ojo izquierdo, que con 1,25 a 40o llega a la unidad. Cover test negativo en posición primaria con discreta limitación a la aducción y elevación, estereopsis normal y fondo de ojo sin alteraciones. Se intuye por palpación una masa en tercio interno de párpado superior. En el tiempo de espera hasta que se realizó la resonancia magnética nuclear (RMN) el astigmatismo aumenta.
+La RMN evidencia tumoración en ángulo superointerno de órbita izquierda, que comprime el globo ocular, compatible con quiste dermoide, por lo que se indica tratamiento quirúrgico. Se realizó orbitomía anterior a través de tercio interno de pliegue palpebral. Intraoperatoriamente se detecta una lesión bien definida en cuadrante superointerno orbitario que se extrae en su totalidad. A la semana de la intervención se recupera la simetría entre ambos párpados superiores, y la posición del ojo.
+Responsable clínico: Dra. Maria Encarnacion Correa Pérez. Email: maria_en_correa@yahoo.es 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="32" text="Yago" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="45" end="62" text="Fernandez Benitez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="69" end="76" text="3894762" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="89" end="114" text="Calle Via Limite, 44, 3 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="138" end="144" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="150" end="155" text="28046" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="199" end="209" text="15/08/2010" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="231" end="237" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="245" end="251" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="258" end="259" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="279" end="289" text="21/09/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="299" end="329" text="Maria Encarnacion Correa Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="337" end="348" text="28 28 57810" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T8" start="392" end="398" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="438" end="451" text="junio de 2008" TYPE="FECHAS" comment=""/>
+    <OTHER id="T5" start="537" end="543" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="569" end="577" text="dos años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="583" end="589" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T4" start="727" end="732" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2645" end="2675" text="Maria Encarnacion Correa Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T2" start="2684" end="2708" text="maria_en_correa@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

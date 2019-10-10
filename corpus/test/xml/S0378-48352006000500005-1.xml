@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan.
+Apellidos: Brenes Palacios.
+NHC: 4356393.
+NASS: 87 34567345 49.
+Domicilio: C/ Santa Teresa, 29, 4 Der..
+Localidad/ Provincia: Valencia.
+CP: 46009 .
+Datos asistenciales.
+Fecha de nacimiento: 19/11/1949.
+País de nacimiento: España.
+Edad: 63 años Sexo: H.
+Fecha de Ingreso: 13/03/2013.
+Servicio: Oncología.
+Episodio: 8943479.
+Médico: Antonio Segura Huerta NºCol: 46 46 58971.
+Historia Actual: Varón de 63 años sin antecedentes de interés. Consultó por presentar una lesión nodular a nivel del cuadrante dorso-lumbar derecho de un mes de evolución y rápido crecimiento, asociado a un cuadro de astenia y anorexia desde hacía tres meses, con pérdida de peso de 10 kg. No refería otro tipo de sintomatología. 
+Exploración física: A la exploración física destacaba únicamente una discreta hepatomegalia. A nivel dorso-lumbar derecho se observaba la lesión nodular de 5x3 cm, de coloración violácea, no adherida a planos profundos pero que producía dolor al roce y a la movilización.
+Pruebas complementarias: Analíticamente sólo destacaba una urea de 74 mg/dl, con creatinina de 1.93 mg/dl y GGT 83 UI/L con GOT/GPT normales. Se realizó una radiografía de tórax que objetivaba una elevación de diafragma izquierdo y una elongación aórtica, sin otros hallazgos. Se realizó biopsia de la lesión en piel con diagnostico anatomopatológico de metástasis de adenocarcinoma. Ante estos hallazgos se realizó una TAC toraco-abdomino-pélvica que evidenció un engrosamiento de la unión esófago-gástrica, con adenopatías gástricas izquierdas de >1cm de diámetro además de lesiones hepáticas sugestivas de metástasis. La gastroscopia mostró una lesión compatible con neoplasia de cardias. La biopsia dio el resultado de adenocarcinoma. Ante el diagnóstico de adenocarcinoma gástrico metastático, el paciente inició tratamiento quimioterápico con cisplatino (70mg/m2 cada 21 días) y 5-fluorouracilo en infusión continua de 48 horas semanal (3 gr/m2, días 1,8,15). Este esquema es uno de los empleados en primera línea en este tumor y está incluido en las directrices del grupo español para el tratamiento de los tumores del tubo digestivo (TTD).
+Evolución: Tras el segundo ciclo presentó toxicidad hematológica importante con neutropenia febril. Desarrolló un shock séptico y falleció en ese contexto.
+Responsable clínico:  Dr. Antonio Segura Huerta. Servicio de Oncología Médica Hospital Universitario La Fe Avenida Campanar, 21 E-46009 Valencia segura_ang@gva.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="32" text="Juan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="45" end="60" text="Brenes Palacios" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="67" end="74" text="4356393" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="82" end="96" text="87 34567345 49" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="109" end="136" text="C/ Santa Teresa, 29, 4 Der." TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="160" end="168" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="174" end="179" text="46009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="224" end="234" text="19/11/1949" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="270" end="277" text="63 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="284" end="285" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="305" end="315" text="13/03/2013" TYPE="FECHAS" comment=""/>
+    <ID id="T9" start="348" end="355" text="8943479" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T8" start="365" end="386" text="Antonio Segura Huerta" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="394" end="405" text="46 46 58971" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="424" end="429" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="433" end="440" text="63 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2340" end="2361" text="Antonio Segura Huerta" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2392" end="2420" text="Hospital Universitario La Fe" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2421" end="2441" text="Avenida Campanar, 21" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2442" end="2449" text="E-46009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2450" end="2458" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2459" end="2476" text="segura_ang@gva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Pablo.
+Apellidos: Barrantes Garrido.
+NHC: 8495645.
+NASS: 73 56256790 45.
+Domicilio: C/ Principe de Vergara, 98.
+Localidad/ Provincia: Madrid.
+CP: 28016.
+Datos asistenciales.
+Fecha de nacimiento: 30/04/1941.
+País de nacimiento: España.
+Edad: 79 años Sexo: H.
+Fecha de Ingreso: 04/06/2015.
+Médico: Jose Luis Del Castillo Pardo de Vera NºCol: 28 28 58990.
+Informe clínico del paciente: Varón de 79 años de edad que, tras colecistectomía laparoscópica programada reconvertida por dificultades anatómicas, debuta desde el primer día postoperatorio con fístula biliar externa por drenaje ambiental. En las pruebas de imagen practicadas, algunas de ellas repetidas incluso por dos veces (ecografía, TAC, TAC con drenaje pigtail del biloma, cRMN, ERCP diagnóstica y posterior ERCP con colocación incluso de endoprótesis biliar de 7 cm 10 F), no se pudo demostrar la causa de la fístula biliar persistente, presentando la integridad de la vía biliar intra- y extrahepática, con características anatómicas y funcionales de apariencia normal. El débito de la fístula biliar externa sin embargo oscilaba entre 200 y 400 cc. diarios. La analítica demostraba una alanini aminotransferasa de 109 U/l (7-40 U/l); aspartato aminotransferasa de 98 U/l (7-40 U/l); GGT de 120 U/l (7-40 U/l); fosfatasa alcalina de 262 U/l (7-40 U/l); bilirrubina total de 1,8 mg/dl (0,2-1,3 mg/dl). A pesar del drenaje biliar interno de la vía biliar principal, la persistencia de la fístula biliar externa hizo sospechar que nos encontrábamos ante un conducto aberrante, por lo que se decidió su intervención 45 días después de la colecistectomía inicial, solicitando nuestra colaboración intraoperatoriamente ante las dificultades encontradas en la identificación e interpretación de los hallazgos del campo operatorio en el hilio biliar. Sólo intraoperatoriamente la práctica de una colangiografía a través de la boquilla de la fístula biliar yuxtahiliar demostró que la lesión estaba originada en un conducto aberrante del sectorial anterior derecho independiente (segmentos V-VIII), sin relación ninguna con el resto del árbol biliar intrahepático, confirmando la sospecha diagnóstica y posibilitando el tratamiento de la lesión mediante una colangioloyeyunostomía con asa en Y de Roux tutorizada transanastomótica mediante un catéter siliconado de alimentación pediátrica. El 7º día postoperatorio se realizó una colangiografía transcatéter con normalidad absoluta de la anastomosis y ausencia de fugas, pudiendo ser dado de alta el paciente. El tutor transanastomótico se retiró al mes de la cirugía tras un segundo control colangiográfico demostrando la total integridad y funcionalidad de la anastomosis practicada. En los controles anuales el paciente mantiene una total normalidad de las pruebas analíticas.
+Responsable clínico: Dr. Jose Luis Del Castillo Pardo de Vera Hospital Universitario La Paz Servicio de Cirugía Maxilofacial Pº de la Castellana 261 28046 Madrid Tlf. 917277336 - 606409021 E-mail: delcastillo6@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="33" text="Pablo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="46" end="63" text="Barrantes Garrido" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="70" end="77" text="8495645" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="85" end="99" text="73 56256790 45" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="112" end="138" text="C/ Principe de Vergara, 98" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="162" end="168" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="174" end="179" text="28016" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="223" end="233" text="30/04/1941" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="255" end="261" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="269" end="276" text="79 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="283" end="284" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="304" end="314" text="04/06/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="324" end="360" text="Jose Luis Del Castillo Pardo de Vera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="368" end="379" text="28 28 58990" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="411" end="416" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="420" end="427" text="79 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="2836" end="2872" text="Jose Luis Del Castillo Pardo de Vera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2873" end="2902" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="2936" end="2959" text="Pº de la Castellana 261" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2960" end="2965" text="28046" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2966" end="2972" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="2978" end="2987" text="917277336" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T2" start="2990" end="2999" text="606409021" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="3008" end="3032" text="delcastillo6@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

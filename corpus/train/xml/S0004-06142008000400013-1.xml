@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre: Laura.
+Apellidos:  Vidal Vicente.
+CIPA: nhc-4654652.
+NASS: 32 45632789 56.
+Domicilio: c/ Santa Teresa de Jesús, 8.
+Localidad/ Provincia: OVIEDO.
+CP: 33007.
+NHC:4654652.
+Datos asistenciales.
+Fecha de nacimiento: 07/02/1954.
+País: España.
+Edad:  52 Sexo: M.
+Fecha de Ingreso: 07/05/2006.
+Especialidad: Ginecologia.
+Médico:  Antonio Jalón Monzón       NºCol: 28 33 56565.
+Antecedentes: hipertensión arterial.
+Historia Actual: Mujer de 52 años de edad Consultó al Servicio de Ginecología por metrorragias acompañadas de dolor abdominal. No refería hematuria ni dolor en fosas renales. 
+Exploración física y pruebas complementarias: Se realizó ecografía vaginal que demostró masa anexial izquierda de 7 cm de diámetro mayor y muy vascularizada, con útero grande y ovario derecho de características normales. Con la sospecha de carcinoma ovárico primario se completó el estudio de estadificación con la realización de TC abdómino-pélvico, identificándose una masa compleja en polo inferior de riñón derecho, de 64 x 65 mm de diámetro, con intensa captación de contraste y áreas hipodensas centrales. Se informó, así mismo, de otros dos pequeños nódulos de 17 y 10 mm dependientes del polo superior del mismo riñón de similares características que las lesiones anteriores. El anejo izquierdo presentaba una lesión sólido-quística de 90 x 65 mm, con intensa captación de contraste. No se observaron adenopatías regionales ni implantes metastásicos peritoneales.
+Evolución y comentarios: Con la sospecha diagnóstica de carcinoma ovárico primario y metástasis renal secundaria, se practicó histerectomía total y doble anexectomía, realizándose en el mismo acto quirúrgico nefrectomía radical derecha. El estudio histológico intraoperatorio de la estructura ovárica se informó como metástasis de carcinoma de células renales en ovario. El diagnóstico histológico renal definitivo fue de carcinoma de células renales grado I de Fuhrman extendiéndose a grasa perirrenal, sin infiltrar la vena renal.
+Responsable clinico: Antonio Jalón Monzón. Calle Electra, 1 - 4º L 33208 Gijón. Asturias. (España). ajalonm@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="14" text="Laura" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="28" end="41" text="Vidal Vicente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="53" end="60" text="4654652" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="68" end="82" text="32 45632789 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="95" end="122" text="c/ Santa Teresa de Jesús, 8" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="146" end="152" text="OVIEDO" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="158" end="163" text="33007" TYPE="TERRITORIO" comment=""/>
+    <ID id="T17" start="169" end="176" text="4654652" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="220" end="230" text="07/02/1954" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="238" end="244" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="253" end="255" text="52" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="262" end="263" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="283" end="293" text="07/05/2006" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="331" end="351" text="Antonio Jalón Monzón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="365" end="376" text="28 33 56565" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="432" end="437" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="441" end="448" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2017" end="2037" text="Antonio Jalón Monzón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2039" end="2062" text="Calle Electra, 1 - 4º L" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2063" end="2068" text="33208" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2069" end="2074" text="Gijón" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2076" end="2084" text="Asturias" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2087" end="2093" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2096" end="2115" text="ajalonm@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

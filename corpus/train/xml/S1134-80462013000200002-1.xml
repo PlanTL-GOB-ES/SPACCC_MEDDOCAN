@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Alejandro.
+Apellidos: Pinchet Rubio.
+NHC: 5689724.
+NASS: 45 58257894 53.
+Domicilio: Av. Rianxo 72, 3 A.
+Localidad/ Provincia: Lugo.
+CP: 27003.
+Datos asistenciales.
+Fecha de nacimiento: 03/10/1979.
+País: España.
+Edad: 38 años Sexo: H.
+Fecha de Ingreso: 24/05/2018.
+Servicio: Anestesiología.
+Médico: Carlos López Carballo NºCol: 27 27 33541.
+Motivo de ingreso: cuadro de hematuria macroscópica, acompañada de dolor suprapúbico, portador de sonda uretral desde 72 h antes del ingreso por retención aguda de orina.
+Historia Actual: El paciente ingresa con disfunción vesical crónica (hiperactividad del detrusor), asociada a dolor intenso refractario, secundario a espasmos vesicales, en paciente con necesidad de lavado continuo vesical, a cargo del Servicio de Urología en el hospital, siendo sometido a estudio con técnicas de imagen. 
+Antecedentes: Entre sus antecedentes personales destacan una lumbociatalgia derecha por protusiones discales lumbares, urolitiasis remota tratada con litotricia extracorpórea y un síndrome miccional crónico de larga evolución, en el contexto de una hipertrofia benigna de próstata según biopsia prostática, a tratamiento crónico con tamsulosina por vía oral (vo), tras dos resecciones transuretrales prostáticas previas.
+Resumen de pruebas complementarias: En la ecografía abdominopélvica se objetivaron signos de "vejiga de lucha", sin datos de uropatía obstructiva, y la tomografía computarizada abdominopélvica con contraste reveló hipertrofia prostática y engrosamiento parietal difuso vesical, compatible con hipertrofia del detrusor. Se procede a cambio de sonda uretral por una sonda adaptada a lavado vesical continuo, para disolución de coágulos intravesicales. Durante la instauración del lavado vesical aparecen episodios de dolor suprapúbico tipo cólico, acompañados de intenso cortejo neurovegetativo y reflujo de líquido vesical hematúrico, contra gravedad, del suero de lavado vesical, situado unos sesenta centímetros sobre el nivel paciente. Tras descartar problemas obstructivos y de posicionamiento de la sonda uretral, se diagnostica de espasmos vesicales por hiperactividad del detrusor y se inicia tratamiento con butilbromuro de hioscina, metamizol y dexketoprofeno intravenosos (iv), tolterodina y alprazolam, ambos por vo, y cloruro mórfico subcutáneo sin éxito. Dada la persistencia de la clínica dolorosa y la intolerancia a la terapia de lavado vesical, se decide la colocación de un catéter epidural lumbar en el espacio intervertebral L3-L4, por el que se administra un bolo de 80 mg de lidocaína al 2% con 50 μg de fentanilo y posteriormente se inicia una perfusión de levobupivacaína al 0,125% con fentanilo, a razón de 5 mg/hora y 4 μg/hora respectivamente. Tras la instauración del bloqueo epidural se consigue un excelente control de sintomatología dolorosa y de las manifestaciones urodinámicas de espasmo vesical, con un nivel de bloqueo sensitivo a nivel del dermatoma T12 y con un bloqueo motor en grado 0 en la escala de Bromage. Se mantiene con la citada perfusión hasta la explantación accidental del catéter epidural, que ocurre siete días más tarde, iniciándose analgesia iv con cloruro mórfico a 0,96 mg/hora. Al décimo día de ingreso se interviene de forma programada bajo anestesia intradural, para adenomectomía prostática retropúbica, según técnica de Millin, manteniéndose como analgesia postoperatoria la pauta de cloruro mórfico iv, asociado a paracetamol iv. Así mismo se mantuvo la tolterodina vo. A las 48 h de postoperatorio, y todavía bajo terapia de lavados continuos vesicales, reaparecen los episodios de espasmos vesicales dolorosos, de similares características a los previos, precisando aumentar el ritmo de la infusión de cloruro mórfico hasta 1,8 mg/hora. Se descarta la colocación de nuevo catéter epidural, por heparinización profiláctica postoperatoria. 
+Evolución y comentarios: Tras la retirada del lavado vesical continuo postoperatorio por cese de la hematuria, el cuadro clínico desaparece completamente. El paciente refirió un mayor alivio del dolor con el bloqueo epidural, respecto a la combinación terapéutica de espasmolíticos, cloruro mórfico y tolterodina.
+Remitido por: Carlos López Carballo. Servicio de Anestesiología, Reanimación y Tratamiento del Dolor Hospital Lucus Augusti San Cibrao s/n (27003) Lugo. e-mail: carlos.lopez.carballo@sergas.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="9" end="18" text="Alejandro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="31" end="44" text="Pinchet Rubio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="51" end="58" text="5689724" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="66" end="80" text="45 58257894 53" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="93" end="111" text="Av. Rianxo 72, 3 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="135" end="139" text="Lugo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="145" end="150" text="27003" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="194" end="204" text="03/10/1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="212" end="218" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="226" end="233" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="240" end="241" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="261" end="271" text="24/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="307" end="328" text="Carlos López Carballo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="336" end="347" text="27 27 33541" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <NAME id="T7" start="4195" end="4216" text="Carlos López Carballo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T2" start="4282" end="4304" text="Hospital Lucus Augusti" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T1" start="4305" end="4319" text="San Cibrao s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="4321" end="4326" text="27003" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="4328" end="4332" text="Lugo" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="4342" end="4373" text="carlos.lopez.carballo@sergas.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Patricia .
+Apellidos: Perez Torres.
+NHC: 1779464.
+NASS: 43 66946505 99.
+Domicilio: Calle Azucenas, 5, 3, A .
+Localidad/ Provincia: Madrid.
+CP: 28039.
+Datos asistenciales.
+Fecha de nacimiento: 11/11/1937.
+País de nacimiento: España.
+Edad: 74 años Sexo: M.
+Fecha de Ingreso: 26/12/2011.
+Servicio: Oftalmología.
+Episodio: 3748011.
+Médico: Enrique Santos Bueso NºCol: 28 28 82676.
+Historia Actual: Paciente mujer de 74 años de edad que acudió a urgencias por haber sufrido un traumatismo contuso casual en su domicilio, de moderada intensidad en el ojo izquierdo (OI), al golpearse con el borde de la mesilla de noche.
+Antecedentes: Entre los antecedentes destacaban ametropía leve sin corrección óptica y diabetes mellitus tipo 2 en tratamiento con antidiabéticos orales. No presentaba ningún otro antecedente personal ni familiar de interés.
+Exploración: Su agudeza visual (AV) era de 0,6 en ojo derecho y percepción de luz que no mejoraba con estenopeico en OI. En la exploración con lámpara de hendidura se apreciaba hematoma y edema en párpado superior izquierdo, conjuntiva íntegra con quemosis intensa generalizada, córnea íntegra y transparente e hipema del 100% que impedía valorar el resto de estructuras oculares. Se apreciaba hipotonía del OI con una presión intraocular de 5 mm Hg.
+Se realizaron pruebas de imagen (tomografía computarizada y resonancia magnética) apreciando la existencia de una herida incisa escleral paralimbar nasal superior de 10 mm aproximadamente y presencia de cristalino íntegro prolapsado en el espacio subconjuntival.
+La quemosis conjuntival evolucionó rápidamente a hiposfagma generalizado permitiendo apreciar la existencia de una masa subconjuntival nasal superior que se correspondía con el cristalino prolapsado.
+Evolución: La paciente fue intervenida realizándose una peritomía de 360º, extracción del cristalino prolapsado, sutura de la herida escleral y tratamiento con antibioterapia intravenosa y tópica reforzada.
+Al mes de la cirugía la paciente presentaba AV de movimiento de manos que mejoraba a 0,1 con corrección de + 14,00 dioptrías. En la lámpara de hendidura se apreciaba córnea transparente, corectopia nasal superior con pérdida de tejido iridiano y restos adheridos. El fondo de ojo, que no se apreciaba por opacidad de medios, presentaba retina in situ en la ecografia modo B.
+A los doce meses se realizó cirugía combinada de vitrectomía vía pars plana y sutura de lente intraocular a sulcus, alcanzando una AV espontánea de 0,3 a los dieciocho meses.
+Responsable clínico: Dr. Enrique Santos Bueso Servicio de Oftalmología. Hospital Clínico San Carlos Avda. Prof. Martín Lagos, s/n 28040 Madrid España E-mail: esbueso@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="36" text="Patricia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="50" end="62" text="Perez Torres" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="69" end="76" text="1779464" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="84" end="98" text="43 66946505 99" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="111" end="134" text="Calle Azucenas, 5, 3, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="159" end="165" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="171" end="176" text="28039" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="220" end="230" text="11/11/1937" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="252" end="258" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="266" end="273" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="280" end="281" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="301" end="311" text="26/12/2011" TYPE="FECHAS" comment=""/>
+    <ID id="T12" start="347" end="354" text="3748011" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T11" start="364" end="384" text="Enrique Santos Bueso" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="392" end="403" text="28 28 82676" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="431" end="436" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="440" end="447" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2564" end="2584" text="Enrique Santos Bueso" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2611" end="2638" text="Hospital Clínico San Carlos" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2639" end="2668" text="Avda. Prof. Martín Lagos, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2669" end="2674" text="28040" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2675" end="2681" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2682" end="2688" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2697" end="2716" text="esbueso@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

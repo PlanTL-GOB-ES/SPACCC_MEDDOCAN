@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Maria.
+Apellidos: Fernández Alejandre.
+NHC:  780135.
+NASS: 12 34870615 74.
+Domicilio: Calle Hilera, 13 2B.
+Localidad/ Provincia: Málaga.
+CP: 29007.
+Datos asistenciales.
+Fecha de nacimiento: 19/05/1973.
+País: España.
+Edad: 45 años Sexo: M.
+Fecha de Ingreso: 15/06/2018.
+Servicio: Oftalmologia.
+Episodio: 358784.
+Médico: Ana Chinchurreta Capote NºCol: 29 29 47125.
+Motivo de ingreso: Mujer de 45 años que es remitida desde el servicio de neurocirugía por pérdida de visión súbita bilateral tras cirugía de derivación ventrículoperitoneal de un higroma subdural temporal y absceso occipital craneal. Todo ello resultado de una complicación postquirúrgica subaguda. Quince días antes había sido intervenida de descompresión preventiva medular por Malformación de Arnold-Chiari I.
+Historia Actual: La paciente contaba con una clínica de 16 años de evolución, con cefaleas de intensidad leve, inestabilidad, mareos rotatorios, vómitos autolimitados de duración variable y nistagmus vertical leve desde hacía un año. Éste último ayudó a la sospecha y diagnóstico de la malformación congénita, ya que el resto de su sintomatología la relacionaba con la colitis ulcerosa que sufría hacía años.
+Exploración y pruebas complementarias: La agudeza visual (AV) en la primera exploración fue de movimiento de manos en ambos ojos. Las reacciones pupilares fueron de 2+ sin defecto pupilar aferente relativo. Presentaba un nistagmus en sacudida hacia abajo de frecuencia alta y amplitud media. El fondo de ojo mostró hemorragia retrohialoidea premacular y vítrea bilateral, confirmada con tomografía óptica de coherencia (OCT) y ecografía ocular. Todos estos hechos fueron compatibles con ST.
+Se le realizó una hialoidectomía posterior en su ojo derecho (OD) previa instilación de colirio anestésico y uso de láser Nd:YAG 15 pulsos (rango de 4-7 mJ/pulso) en la parte más inferior del hematoma. La hialoides posterior se rompió y drenó inmediatamente sangre a la cavidad vítrea. Se opta por una actitud expectante en su ojo izquierdo (OI).
+Evolución y comentarios: La AV al año, tras varias revisiones con notable mejoría, era de 0,6 en el OD y 0,1 en el OI. La OCT reveló una membrana epirretiniana premacular de reciente aparición en su OI. La frecuencia del nistagmus bajó y la amplitud pasó a ser leve. El hemovítreo bilateral seguía en reabsorción de forma lenta y progresiva.
+La enferma rechazó cirugía ocular alguna, estando satisfecha con el resultado visual alcanzado.
+Remitido por: Ana Chinchurreta Capote Hospital Civil C.H. Carlos Haya. Servicio de Oftalmología Plaza del Hospital Civil, s/n Málaga España E-mail: achinchu@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="14" text="Maria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="27" end="46" text="Fernández Alejandre" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="54" end="60" text="780135" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="68" end="82" text="12 34870615 74" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="95" end="114" text="Calle Hilera, 13 2B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="138" end="144" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="150" end="155" text="29007" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="199" end="209" text="19/05/1973" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="217" end="223" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="231" end="238" text="45 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="245" end="246" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="266" end="276" text="15/06/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T11" start="312" end="318" text="358784" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="328" end="351" text="Ana Chinchurreta Capote" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="359" end="370" text="29 29 47125" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="391" end="396" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="400" end="407" text="45 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2484" end="2507" text="Ana Chinchurreta Capote" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2508" end="2539" text="Hospital Civil C.H. Carlos Haya" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2566" end="2595" text="Plaza del Hospital Civil, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2596" end="2602" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2603" end="2609" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2618" end="2638" text="achinchu@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

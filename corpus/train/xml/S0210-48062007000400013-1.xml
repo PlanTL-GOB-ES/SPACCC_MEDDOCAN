@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Vicente.
+Apellidos: Idiazabal Munguía.
+CIPA: nhc-79468516.
+NASS: 22 69459745 12.
+Domicilio: Av. de Bayona 48, 4D.
+Localidad/ Provincia: Pamplona.
+CP: 31080.
+NHC: 79468516.
+Datos asistenciales.
+Fecha de nacimiento: 04/04/1956.
+País: España.
+Edad: 60 años  Sexo: Varón .
+Fecha de Ingreso: 31/05/2016.
+Especialidad: urologia.
+Médico: Armando Rincón Mayans NºCol: 11 31 50569.
+Historia Actual: Paciente de 60 años diagnosticado de carcinoma papilar urotelial de alto grado (T1 G2-3) múltiple tratado mediante RTU vesical el 12/01/05 y posterior RTU por probable recidiva el 9/05/05 (AP: tejido inflamatorio crónico) al que se indicó tratamiento complementario con instilaciones de BCG una dosis semanal, durante seis semanas acude a nuestro centro por un cuadro constitucional de deterioro del estado general con marcada astenia, fiebre de hasta 39,5 ºC de predominio vespertino, dolores articulares de inicio en pie derecho, con afectación posterior de pie izquierdo, tobillos, muñecas, manos y dedos de las manos (afectación simétrica y sumatoria) junto con conjuntivitis con marcado enrojecimiento ocular y secreción purulenta. No aftas ni otras lesiones orales ni genitales referidas. Sin otra sintomatología ni signos de localidad infecciosa.
+Pruebas complementarias: En la analítica realizada presentaba marcada leucocitosis (22.180 con 80% de neutrofilos), VSG 100 a la 2ª hora y PCR 49 mg/dl. A esto se añadía alteración de enzimas hepáticas.
+Serología para hepatitis negativas, así como para Yersinia y Chlamydia. Tanto los hemocultivos, urocultivos y coprocultivo negativos. Cultivo de bacilo de Koch en orina con tinción de Kinyoun negativa. HLA B27 y FR negativos.
+Posteriormente se realizó artrocentesis de tobillo derecho con líquido de características inflamatorias. Cultivo y cristales negativos.
+Dada la negatividad de las pruebas realizadas y la artrocentesis, como diagnóstico diferencial, nos planteamos poliartritis secundaria a instilaciones con BCG.
+Evolución y comentarios: Iniciamos tratamiento con indometacina y corticoides (metilprednisolona 40 mg) con buena respuesta clínica y analítica. Al alta el paciente continuó tratamiento con indometacina 75 mg (1-0-1) durante 21 días.
+El paciente acudió a revisión pasados tres meses, estando asintomático de su dolencia.
+Remitido por: Dr. Armando Rincón Mayans Departament de Urología. Clínica Universitaria. Universidad de Navarra. Avda. Pío XII, 36. 31080 Pamplona Tel.: 948 255 400 Fax: 948 296 500 E-mail: arincon@alumni.unav.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T27" start="9" end="16" text="Vicente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T26" start="29" end="46" text="Idiazabal Munguía" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="58" end="66" text="79468516" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="74" end="88" text="22 69459745 12" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T23" start="101" end="121" text="Av. de Bayona 48, 4D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T22" start="145" end="153" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="159" end="164" text="31080" TYPE="TERRITORIO" comment=""/>
+    <ID id="T20" start="171" end="179" text="79468516" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T19" start="223" end="233" text="04/04/1956" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="241" end="247" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="255" end="262" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="270" end="275" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="296" end="306" text="31/05/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="340" end="361" text="Armando Rincón Mayans" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="369" end="380" text="11 31 50569" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T12" start="411" end="418" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="529" end="537" text="12/01/05" TYPE="FECHAS" comment=""/>
+    <DATE id="T10" start="579" end="586" text="9/05/05" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="2317" end="2338" text="Armando Rincón Mayans" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T2" start="2364" end="2385" text="Clínica Universitaria" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T1" start="2387" end="2409" text="Universidad de Navarra" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T8" start="2411" end="2428" text="Avda. Pío XII, 36" TYPE="CALLE" comment=""/>
+    <LOCATION id="T7" start="2430" end="2435" text="31080" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="2436" end="2444" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T5" start="2451" end="2462" text="948 255 400" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T4" start="2468" end="2479" text="948 296 500" TYPE="NUMERO_FAX" comment=""/>
+    <CONTACT id="T3" start="2488" end="2510" text="arincon@alumni.unav.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

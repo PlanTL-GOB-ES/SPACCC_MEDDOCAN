@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Matias.
+Apellidos: Estrada Soto.
+NHC: 7834563.
+NASS: 73 64507235 06.
+Domicilio: Calle Principe de Vergara, 93, 2A.
+Localidad/ Provincia: Getafe.
+CP: 28905.
+Datos asistenciales.
+Fecha de nacimiento: 28/02/1950.
+País: España.
+Edad: 65 años Sexo: H.
+Fecha de Ingreso: 28/08/2015.
+Servicio: Endocrinologia.
+Médico: Isabel Pavón de Paz NºCol: 28 28.
+Informe clínico del paciente: Paciente varón de 65 años diagnosticado de OI a raíz de estudio de una hija también afectada. No presentaba antecedentes familiares previos de la enfermedad.
+Refería antecedente de varias fracturas (en número aproximado de 6-7) durante la infancia y la adolescencia tras traumatismos mínimos, la primera del húmero a los 2 años de edad. Durante la edad adulta había tenido dos nuevas fracturas en codo y hombro. Todas habían sido tratadas de forma conservadora. Recibió tratamiento con calcio durante la infancia. También había presentado a lo largo de su vida múltiples esguinces y varias roturas musculares. Diagnosticado de otoesclerosis, había sido intervenido quirúrgicamente para estapedectomía de ambos oídos.
+Fue remitido a nuestra consulta por osteoporosis detectada en densitometría ósea (DXA), que mostraba unas T-scores de -3,4 en columna lumbar (L1-L4), -3 en cuello femoral y -2,8 en fémur total. Se encontraba asintomático.
+En la exploración física llamaba la atención una talla de 162 cm, escleras azules y presencia de dentinogénesis imperfecta. No presentaba deformidades torácicas, ni en columna dorsolumbar ni en miembros, salvo en codo derecho (postfractura). No se apreciaba hiperlaxitud.
+El estudio del metabolismo calcio-fósforo mostró niveles normales de calcio, fósforo, calciuria, y parathormona (PTHi). Los niveles de 25 hidroxivitamina D (25OHCC) estaban en rango de insuficiencia: 22 ng/ml (valores deseables >30 ng/ml). Los marcadores de remodelado óseo se encontraban en rango normal. Se descartaron otras causas endocrinas de osteoporosis.
+Como parte de nuestro protocolo de estudio de pacientes afectados de OI, se realizó una radiografía de columna cervical que descartó impresión basilar, y una radiografía de tórax en la que se evidenciaron cambios degenerativos en columna; el ecocardiograma mostró una mínima dilatación de la aorta ascendente; las pruebas de función respiratoria resultaron normales, y en la ecografía de abdomen se descartó litiasis renal.
+Se realizó estudio genético mediante secuenciación masiva por NGS (Next-Generation Sequencing) de los genes COL1A1, COL1A2, CRTAP y LEPRE1, detectándose en el gen COL1A1 una deleción en heterocigosis de una Guanina (c.3524delG). Esta mutación da lugar a un cambio en la pauta de lectura, lo cual, a nivel de la proteína del colágeno, origina un codón de parada prematuro (p.Gly1175Valfs*64) por lo que es probable que se trate de un cambio patógeno. Se detectaron otros cambios que fueron considerados polimorfismos.
+Se recomendó tratamiento con alendronato semanal asociado a suplementos diarios de calcio y vitamina D, evidenciándose una discreta mejoría densitométrica tras 1 año de tratamiento (T-scores de -3,2 en columna lumbar, -2,9 en cuello femoral y -2,4 en fémur total).
+Remitido por: Isabel Pavón de Paz Servicio de Endocrinología Hospital Universitario de Getafe Ctra. de Toledo, Km 12,5 28905 Getafe - Madrid (España) Correo electrónico: pavonisa@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="29" end="35" text="Matias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="48" end="60" text="Estrada Soto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="67" end="74" text="7834563" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="82" end="96" text="73 64507235 06" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="109" end="142" text="Calle Principe de Vergara, 93, 2A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="166" end="172" text="Getafe" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="178" end="183" text="28905" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="227" end="237" text="28/02/1950" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T19" start="245" end="251" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="259" end="266" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="273" end="274" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="294" end="304" text="28/08/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="340" end="359" text="Isabel Pavón de Paz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="367" end="372" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="413" end="418" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T15" start="422" end="429" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="475" end="479" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="725" end="731" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T12" start="3197" end="3216" text="Isabel Pavón de Paz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3244" end="3276" text="Hospital Universitario de Getafe" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="3277" end="3301" text="Ctra. de Toledo, Km 12,5" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3302" end="3307" text="28905" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3308" end="3314" text="Getafe" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3317" end="3323" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3325" end="3331" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3353" end="3370" text="pavonisa@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Hector.
+Apellidos: Lozano Paez.
+NHC: 2956349.
+NASS: 31 49865378 88.
+Domicilio: Avenida, Pio Xll, 23, 3C.
+Localidad/ Provincia: Pamplona.
+CP: 31015.
+Datos asistenciales.
+Fecha de nacimiento: 15/03/1984.
+País: España.
+Edad: 34 años Sexo: H.
+Fecha de Ingreso: 18/06/2018.
+Médico: Ana Arillo Crespo  NºCol: 28 28.
+Informe clínico del paciente: Varón de 34 años, fumador de 15 cigarros al día, con antecedentes de esofagitis péptica, hernia de hiato y asma bronquial no alérgico. Padre diabético. Cuadro de dolor abdominal intenso en flanco izdo, heces pastosas y aumento de los ruidos abdominales, que es valorado en atención primaria interpretando inicialmente el cuadro como posible gastroenteritis aguda. La exploración evidenciaba leve dolor a la palpación en hemiabdomen izdo y discreto aumento del peristaltismo. Ante la persistencia del dolor, se solicitan diversas pruebas complementarias.
+Mientras está pendiente de nueva valoración, 10 días después de su visita a atención primaria, acude al servicio de Urgencias hospitalarias por presentar de nuevo episodio de intenso dolor abdominal en flanco izquierdo, acompañado en esta ocasión de diaforesis, nerviosismo y palidez cutánea. Valorado en tres ocasiones en servicios de urgencias, es diagnosticado y tratado como cólico renal. Presión arterial de 136/95 mm de Hg; frecuencia cardiaca: 89 l/min; temperatura: 37,7o; sudoroso. A la exploración abdominal presenta dolor en flanco izquierdo con sucusión renal izquierda positiva. El resto de la exploración física es normal. Las radiografías de tórax y abdomen son normales. Se objetiva mínima leucocitosis (10.500), leve hiponatremia y PCR=13.
+Al no mostrar mejoría clínica con tratamiento sintomático se realiza ecografía abdomino-pélvica donde se evidencia una tumoración en glándula suprarrenal izquierda. Tras este resultado se pide TAC donde se objetiva una masa de 6,5 cm de diámetro dependiente de la glándula suprarrenal izquierda que plantea realizar diagnóstico diferencial entre feocromocitoma o carcinoma suprarrenal.
+Tras este resultado se deriva al servicio de Urología y de éste al de Medicina Interna para estudio funcional, en el intento de descartar feocromocitoma. La determinación de metanefrinas y catecolaminas en orina muestra una lectura de más de cinco veces el valor normal para metanefrinas totales en orina y para catecolaminas libres urinarias. Se diagnostica de masa suprarrenal izquierda funcionante, con marcada elevación de metanefrinas por probable feocromocitoma. Una vez integrado el diagnóstico de feocromocitoma se decide practicar adrenalectomía total izquierda laparoscópica previo bloqueo con dosazoxina 4 mg/día. El análisis anatomopatológico de los hallazgos quirúrgicos demuestra que se trata de un feocromocitoma maligno de 130 g y 6 x 6 cm, con extensa necrosis, marcado pleomorfismo celular, abundantes mitosis atípicas (<50 x 10 cga), invasión capsular y un trombo tumoral en una vena de grueso calibre (la vena clampada), sin extensión extraadrenal. El periodo transoperatorio transcurre sin complicaciones. Durante todo el proceso el paciente presenta cifras tensionales normales con buen estado general, y no se lleva a cabo ningún tratamiento.
+Remitido por: Dra. Ana Arillo Crespo Centro de Salud Chantrea C/ San Cristóbal s/n 31015 Pamplona E-mail: aarilloc@cfnavarra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="29" end="35" text="Hector" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="48" end="59" text="Lozano Paez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="66" end="73" text="2956349" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="81" end="95" text="31 49865378 88" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="108" end="132" text="Avenida, Pio Xll, 23, 3C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="156" end="164" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="170" end="175" text="31015" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="219" end="229" text="15/03/1984" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="237" end="243" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="251" end="258" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="265" end="266" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="286" end="296" text="18/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="306" end="323" text="Ana Arillo Crespo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="332" end="337" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="369" end="374" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="378" end="385" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="504" end="509" text="Padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3251" end="3268" text="Ana Arillo Crespo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3269" end="3293" text="Centro de Salud Chantrea" TYPE="CENTRO_SALUD" comment=""/>
+    <LOCATION id="T4" start="3294" end="3314" text="C/ San Cristóbal s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3315" end="3320" text="31015" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3321" end="3329" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3338" end="3359" text="aarilloc@cfnavarra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

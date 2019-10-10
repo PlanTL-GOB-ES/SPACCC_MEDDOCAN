@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Iñaki .
+Apellidos: Alonso Idiazabañ.
+NHC: 3459634.
+Domicilio: Calle Uzturre 12, 3A.
+Localidad/ Provincia: Andoain.
+CP: 20140.
+Datos asistenciales.
+Fecha de nacimiento: 28/03/1994.
+País: España.
+Edad: 24 años Sexo:H.
+Fecha de Ingreso: 17/05/2018.
+Servicio: Oftalomologia.
+Médico: Ane Gibelalde González NºCol:20 20 87462.
+Motivo de ingreso: varón de 24 años de edad, que acude a urgencias por disminución de la AV bilateral y cefalea de dos días de evolución. 
+Antecedentes: Como antecedentes personales destacables el paciente refería un cuadro gripal la semana previa tratado con ibuprofeno 600 mg. 
+Exploración y pruebas complementarias: A la exploración la AV del ojo derecho es de bultos y la AV de ojo izquierdo es de 0,05. Las pupilas son isocóricas y normorreactivas y la biomicroscopía del polo anterior es normal. En la oftalmoscopía observamos lesiones confluentes blanco-grisáceas en polo posterior en ambos ojos que afectan a la fóvea. Ante la sospecha de EPPMA, se realizó una angiografía fluoresceínica (AGF), donde se observan áreas de hipofluorescencia marcadas en tiempos precoces que se convierten en áreas de hiperfluorescencia en tiempos tardíos. La angiografía con verde de indocianina (ICG), muestra áreas de hipofluorescencia en la coroides que corresponden a las lesiones placoides que están en relación con la hipoperfusión coroidea que acompaña a esta patología. La tomografía de coherencia óptica muestra un engrosamiento retiniano con hiperreflectividad a nivel de las capas retinianas externas. Se inició tratamiento corticoideo oral (prednisona 60 mg) que se prolongó durante una semana.
+Por otra parte, el paciente refería una cefalea intensa que mejoró con el tratamiento corticoideo y que reapareció al suspender la medicación por lo tanto ante la sospecha de vasculitis cerebral, que se asocia en ocasiones a este cuadro, se realizó una angiorresonancia magnética nuclear (angioRMN), en la que no se observaban signos de vasculitis.
+Se solicitó estudio de histocompatibilidad de HLA B-7 y HLA DR2, que resultó ser positivo.
+En cuanto a la evolución, la agudeza visual mejoró paulatinamente pero al mes de seguimiento el paciente refiere diplopía en la visión lejana. A la exploración se observa una parálisis del VI par craneal derecho, con leve limitación de la abducción del ojo derecho, hecho que se confirmó con el Test de Hess-Lancaster. Se realizó una inyección de toxina botulínica en el recto medio del ojo derecho y a la semana desapareció la diplopía.
+Evolución y comentarios: En la actualidad la diplopía han desaparecido y la AV es de 0,7 en ojo derecho y de 0,8 en ojo izquierdo. En la OCT, se demuestra una recuperación de la arquitectura foveal, pero con un aumento de la reflectividad retiniana en ambos ojos.
+Remitido por: Ane Gibelalde González C/. Mimendi, 14, 2.º B 20140 Andoain (Guipúzcoa) España E-mail: anegibelalde@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="14" text="Iñaki" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="28" end="44" text="Alonso Idiazabañ" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="51" end="58" text="3459634" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="71" end="91" text="Calle Uzturre 12, 3A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="115" end="122" text="Andoain" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="128" end="133" text="20140" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="177" end="187" text="28/03/1994" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="195" end="201" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="209" end="216" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="222" end="223" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="243" end="253" text="17/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="288" end="310" text="Ane Gibelalde González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="317" end="328" text="20 20 87462" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="349" end="354" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="358" end="365" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2783" end="2805" text="Ane Gibelalde González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2806" end="2828" text="C/. Mimendi, 14, 2.º B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2829" end="2834" text="20140" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2835" end="2842" text="Andoain" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2844" end="2853" text="Guipúzcoa" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2855" end="2861" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2870" end="2894" text="anegibelalde@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Ramon.
+Apellidos: Garcia Vicente.
+NHC: 497832.
+NASS: 16 23792415 73.
+Domicilio: Calle Joaquin Vidal, 36.
+Localidad/ Provincia: Vizcaya.
+CP: 48902.
+Datos asistenciales.
+Fecha de nacimiento: 11/11/1951.
+País: España.
+Edad: 66 años Sexo: H.
+Fecha de Ingreso: 21/12/2017.
+Servicio: Urología.
+Médico: Juan Gabriel Pereira Arias NºCol: 48 28 98699.
+Informe clínico del paciente: paciente de 66 años de edad con antecedentes médicos de gastrectomía subtotal por adenocarcinoma gástrico hace cuatro años e hipertensión arterial en tratamiento con espironolactona. El paciente es remitido por el Servicio de Digestivo valorado por un cuadro de larga evolución caracterizado por: anorexia, pérdida de 12 kilos en 6 meses (peso actual 42 kilos), anemia hipocrómica y estreñimiento. En la exploración física se objetivó una gran tumoración de consistencia firme, indolora, móvil y que ocupaba las tres cuartas partes del abdomen.
+Dados los antecedentes de adenocarcinoma gástrico, el severo deterioro del estado general, el estreñimiento y la anemia; la primera sospecha clínica sugerida fue: ascitis por carcinomatosis, obstrucción intestinal tumoral o tumoración abdominal. Los datos analíticos reflejaban una hemoglobina 7,5 gr/dl, 3,35 millones de hematies, 27% de hematocrito, VCM 71,3, RDW 18, VSG 37 mm/h, PCR 0,7, PSA 2,6 ng/ml, creatinina 0,89 y urea 24. Los marcadores tumorales hepáticos y digestivos resultaron anodinos. La gastroscopia reflejó un pólipo inflamatorio en muñón gástrico, sin evidencia de recidiva tumoral. Resultó imposible la realización de una colonoscopia por el desplazamiento intestinal e intolerancia del paciente. La ecografía abdominopélvica reveló la presencia de una tumoración quística con tabiques incompletos, de contenido anecoico mixto, que ocupaba la totalidad de la cavidad abdominal. Se identificaba riñón izquierdo de características normales, no evidenciándose la presencia del riñón derecho.
+Ante el hallazgo de lesión quística voluminosa intraabdominal se remite a nuestra consulta donde se realizó urografía intravenosa con resultado de anulación funcional derecha, normofunción contralateral y gran efecto masa que desplaza el luminograma digestivo hacia el hipocondrio izquierdo e impronta sobre la pared lateral derecha del cistograma. La TAC objetivó una gran masa quística de 29,5 cm x 27,5 cm x 16 cm, con múltiples tabiques y paredes bien definidas que ocupa la práctica totalidad del abdomen. Se identifica imagen cálcica en teórica zona de pelvis renal de riñón hidronefrótico con compresión y desplazamiento de todas las estructuras abdominales.
+Ante la sospecha diagnóstica de hidronefrosis gigante secundaria a uropatía obstructiva litiásica, se evaluó la posibilidad de drenaje percutáneo y posterior nefrectomía. Se realizó nefrectomía simple derecha por lumbotomía subcostal evacuando 7.800 mililitros de contenido serohemático. Se practicó linfadenectomía hiliar ampliada ante el hallazgo de adenopatías a dicho nivel. El cultivo del fluido resulto negativo, no realizándose citología por no existir sospecha clínica ni radiológica de tumoración urotelial.
+El resultado del examen histológico constató la presencia de un riñón de aspecto multiquístico, con marcada dilatación del sistema pielocalicial y atrofia parenquimatosa severa (espesor 0,5 cm). El revestimiento epitelial presentaba cambios de displasia de diferentes grados, can áreas de patrón papilar y zonas de infiltración del parénquima renal.
+En otras zonas se identificaron nidos sólidos de células de citoplasma amplio, claro y de alto grado nuclear (grado 3 de Fuhrman); así como infiltración ganglionar de carcinoma de células renales tipo célula clara.
+La evolución posterior fue desfavorable, con aparición de metástasis hepáticas y el eventual fallecimiento del paciente a los dos meses.
+Remitido por: Dr.Juan Gabriel Pereira Arias Servicio de Urología. Hospital San Eloy. Avenida Antonio Miranda, 5 Baracaldo 48902. Vizcaya. (España) urología.saneloy@hsel.osakidetza.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="29" end="34" text="Ramon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="61" text="Garcia Vicente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="68" end="74" text="497832" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="82" end="96" text="16 23792415 73" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="109" end="132" text="Calle Joaquin Vidal, 36" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="156" end="163" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="169" end="174" text="48902" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="218" end="228" text="11/11/1951" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="236" end="242" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="250" end="257" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="264" end="265" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="285" end="295" text="21/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="325" end="351" text="Juan Gabriel Pereira Arias" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="359" end="370" text="48 28 98699" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T9" start="414" end="421" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3860" end="3886" text="Juan Gabriel Pereira Arias" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3909" end="3926" text="Hospital San Eloy" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="3928" end="3954" text="Avenida Antonio Miranda, 5" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3955" end="3964" text="Baracaldo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3965" end="3970" text="48902" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3972" end="3979" text="Vizcaya" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3982" end="3988" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3990" end="4026" text="urología.saneloy@hsel.osakidetza.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

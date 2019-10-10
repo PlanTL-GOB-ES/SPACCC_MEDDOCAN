@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Jesús.
+Apellidos: Andrade Trevi.
+NHC: 7346983.
+NASS: 78 32471657 65.
+Domicilio: C/ Virgen del Puerto, 94, 3 D.
+Localidad/ Provincia: Ciudad Real.
+CP: 13600.
+Datos asistenciales.
+Fecha de nacimiento: 10/08/1943.
+País de nacimiento: España.
+Edad: 69 años Sexo: H.
+Fecha de Ingreso: 21/07/2013.
+Médico: Mauro Oruezábal Moreno NºCol: 13 13 57894.
+Informe clínico del paciente: Varón de 69 años de edad con antecedentes de adenocarcinoma de próstata estadio D2 con metástasis óseas múltiples que había recibido hacía un mes y medio tratamiento de químioterapia con mitoxontrone y prednisona con respuesta clínica y analítica. Entre los antecedentes personales destacaba cirugia de quiste hidotídico pulmonar hace 50 años que requirió transfusión de hemoderivados, bypass iliofemoral izquierda en 1991 por isquemia arterial crónica y aneurisma en aorta abdominal de 3 cm en seguimiento.
+Ingresó por un cuadro de astenia, anorexia, prurito e ictericia mucocutánea, con coluria y acolia de dos semanas de evolución. En la exploración física destacaba ictericia mucocutánea, hepatomegalia a unos 23 cm de reborde costal derecho dolorosa a la palpación profunda sin peritonismo.
+El análisis de sangre mostró: Hb 13,5, leucocitos 3.900 (linfocitos 53%), plaquetas 159.000, actividad de protrombina 53%, INR 1,58, fibrinógeno 221, tiempo de cefalina 42,9, urea 38, creatinina 0,8, glucosa 110, proteínas totales 6,3, GOT 904, GPT 990, bilirrubina total 10,7 (directa 7,2), GGT 399, foshtasa alcalina 349, LDH 905. Serologia VIH negativo. IgM VHA negativo, HBsAg+, antiHBs-, lgM anticore+, HBeAg+ y antiHBe-. Marcadores VHC negativos. DNA VHB positivo.
+La ecografía abdominal no mostró hallazgos relevantes excepto hígado de tamaño normal con ecogenicidad difusamente aumentada sin lesiones focales, permeabilidad vascular ni signos de hipertensión portal.
+Se realizó una biopsia hepática transyugular sin complicaciones cuyo diagnóstico fue de hepatitis aguda de etiología viral, con cambios regenerativos y ligera fibrosis portal. Había áreas de colapso hepatocitario y necrosis en puente.
+Dada la gran probabilidad de fracaso hepático fulminante por su enfermedad de base, se decidió administrar adefovir dipivoxil por uso compasivo para el control de la hepatitis aguda viral. Tras el inicio del tratamiento el paciente experimentó una evolución clínica favorable con progresiva normalización de la función hepática. El DNA del VHB fue negativo a los dos meses del inicio del tratamiento.
+A los 3 meses de tratamiento el análisis de control mostró una bilirrubina total de 1,1, GOT 36, GPT 25, GGT 72 FA 426, pudiendo comenzar tratamiento de quimioterapia de segunda línea con docetaxel por elevación del PSA y reaparición de dolor en columna dorsal y hombro derecho.
+Responsable clínico: Dr. Mauro Oruezábal Moreno Hospital General La Mancha Centro Constitución, 3 E-13600 Alcázar de San Juan (Ciudad Real) E-mail: mauroo@sescam.jccm.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="33" text="Jesús" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="46" end="59" text="Andrade Trevi" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="66" end="73" text="7346983" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="81" end="95" text="78 32471657 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="108" end="137" text="C/ Virgen del Puerto, 94, 3 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="161" end="172" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="178" end="183" text="13600" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="227" end="237" text="10/08/1943" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="259" end="265" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="273" end="280" text="69 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="287" end="288" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="308" end="318" text="21/07/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="328" end="350" text="Mauro Oruezábal Moreno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="358" end="369" text="13 13 57894" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="401" end="406" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="410" end="417" text="69 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="819" end="823" text="1991" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="2812" end="2834" text="Mauro Oruezábal Moreno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2835" end="2868" text="Hospital General La Mancha Centro" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2869" end="2884" text="Constitución, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2885" end="2892" text="E-13600" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2893" end="2912" text="Alcázar de San Juan" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2914" end="2925" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2935" end="2956" text="mauroo@sescam.jccm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Raul.
+Apellidos: Bartra JImenez.
+CIPA: nhc-7134615.
+NASS: 98 12854154 45.
+Domicilio: Passeig de Sant Joan de Déu, 2, 10 A.
+Localidad/ Provincia:Barcelona.
+CP: 28041.
+NHC: 7134615.
+Datos asistenciales.
+Fecha de nacimiento:  29/05/1976.
+País: España.
+Edad: 41 Sexo: H.
+Fecha de Ingreso: 13/09/2017.
+Médico: Orlando Rodríguez Faba NºCol: 08 08 16432.
+Motivo de ingreso: dolor e induración dorsal de pene.
+Antecedentes: fumador de 20 cigarrillos al día, y exéresis de quistes en ambas mamas. No existían trastornos de la coagulación ni enfermedades de interés.
+Historia Actual:paciente de 41 años que consultó por dolor e induración dorsal de pene a nivel del tercio proximal de una semana de evolución. El paciente refirió que desde hacía una semana empezó con dolor en el dorso del pene a nivel de la raíz donde palpaba un nódulo indurado y móvil.
+Exploración física: A la exploración física los genitales externos eran normales, salvo la palpación dolorosa del nódulo descrito.
+Resumen de pruebas complementarias: Se realizó Ecografía doppler en la que se objetivó una induración dorsal correspondiente a trombosis segmentaria de la vena dorsal superficial del pene siendo permeable el resto de su trayecto.
+Evolución y comentarios: El paciente recibió tratamiento con antiinflamatorios no esteroideos y antibióticos durante cuatro semanas experimentando mejoría clínica del dolor y disminución de la induración.
+Se solicitó además una resonancia magnética pélvica de control a las seis semanas en la que no se evidenciaron datos de lesión que sugiriesen trombosis u otro tipo de patología en la localización de la vena dorsal de pene.
+Remitido por:  Dr. Orlando Rodríguez Faba. Calle Sardenya, 74, 3º 1 08005-Barcelona.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="9" end="13" text="Raul" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="26" end="40" text="Bartra JImenez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="52" end="59" text="7134615" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="67" end="81" text="98 12854154 45" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="94" end="130" text="Passeig de Sant Joan de Déu, 2, 10 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="153" end="162" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="168" end="173" text="28041" TYPE="TERRITORIO" comment=""/>
+    <ID id="T15" start="180" end="187" text="7134615" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="232" end="242" text="29/05/1976" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="250" end="256" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="264" end="266" text="41" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="273" end="274" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="294" end="304" text="13/09/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="314" end="336" text="Orlando Rodríguez Faba" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="344" end="355" text="08 08 16432" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T7" start="594" end="601" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1663" end="1685" text="Orlando Rodríguez Faba" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1687" end="1711" text="Calle Sardenya, 74, 3º 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1712" end="1717" text="08005" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1718" end="1727" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

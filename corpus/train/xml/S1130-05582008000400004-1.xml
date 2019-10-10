@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan.
+Apellidos: Perez Loyola.
+NHC: 7896350.
+NASS: 38 65974897 56.
+Domicilio: Calle Arzobispo Morcillo, 16.
+Localidad/ Provincia: Madrid.
+CP: 28039.
+Datos asistenciales.
+Fecha de nacimiento: 02/05/1920.
+País de nacimiento: España.
+Edad: 73 años Sexo: H.
+Fecha de Ingreso: 06/08/1993.
+Servicio: Medicina Interna.
+Médico: Leonor Barroso Saenz   NºCol: 28 28 29083 .
+Informe clínico del paciente: varón de 73 años ingresó en el servicio de medicina interna con el diagnóstico provisional de metástasis ósea de tumor primario desconocido. Había perdido 15 kg en 18 meses y manifestaba anorexia, estreñimiento, dolor del muslo izquierdo y elevación de las concentraciones sanguíneas de calcio, bilirrubina y las fosfatasas ácida y alcalina. La gammagrafía ósea demostró zonas múltiples de mayor captación y osteoartropatía hipertrófica, sugiriendo enfermedad metastásica.
+La historia personal del paciente no ofrecía nada reseñable, salvo haber sido intervenido por un tumor maxilar a la edad de 18 años (1938). No estaba disponible el diagnóstico histológico de este tumor.
+Durante el ingreso, se encontraron niveles elevados de parathormona urinaria y de calcio sanguíneo. La ecografía cervical demostró aumento del tamaño de la glándula paratiroidea inferior derecha.
+El paciente se sometió a hemitiroidectomía derecha con excisión de la paratiroides agrandada y la glándula ipsilateral; se normalizó inmediatamente la calcemia. El estudio histopatológico demostró carcinoma infiltrante de la paratiroides inferior e hiperplasia de la paratiroides superior.
+Dos años más tarde, se presentó de nuevo dolor óseo y estreñimiento con niveles elevados de calcio y de parathormona en sangre. En una nueva intervención, se hizo una hemitiroidectomía, paratiroidectomía izquierda y timectomía. Se normalizó la calcemia pero el paciente murió dos años más tarde por causas no relacionadas.
+Responsable clínico: Leonor Barroso Saenz. Email: leonorbarroso@netcabo.pt
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="28" end="32" text="Juan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="45" end="57" text="Perez Loyola" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="64" end="71" text="7896350" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="79" end="93" text="38 65974897 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="106" end="134" text="Calle Arzobispo Morcillo, 16" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="158" end="164" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="170" end="175" text="28039" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="219" end="229" text="02/05/1920" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="251" end="257" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="265" end="272" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="279" end="280" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="300" end="310" text="06/08/1993" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="348" end="368" text="Leonor Barroso Saenz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="378" end="389" text="28 28 29083" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="422" end="427" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="431" end="438" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T2" start="1028" end="1032" text="1938" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="1928" end="1948" text="Leonor Barroso Saenz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1957" end="1981" text="leonorbarroso@netcabo.pt" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

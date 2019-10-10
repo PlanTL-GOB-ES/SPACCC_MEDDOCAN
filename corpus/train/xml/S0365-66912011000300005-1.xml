@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sebastian.
+Apellidos: Rodriguez Betanco.
+NHC: 8934753.
+NASS: 28 34537589 34.
+Domicilio: C/ Pacífico, 28, 2 A.
+Localidad/ Provincia: Madrid.
+CP: 28041.
+Datos asistenciales.
+Fecha de nacimiento: 28/05/1931.
+País de nacimiento: España.
+Edad: 85 años Sexo: H.
+Fecha de Ingreso: 16/08/2016.
+Médico: Jaime Otero Millas. NºCol: 28 28 97485.
+Informe clínico del paciente: Paciente de 85 años enviado por pérdida brusca de agudeza visual (AV) en ojo izquierdo (OI). No tomaba medicaciones ni tenía antecedentes patológicos oftalmológicos ni generales.
+A la exploración, mostró AV de movimiento de manos (MM) en OI. En fondo de ojo (FO) se apreció una lesión macular redondeada, blanco-amarillenta, con un probable macroaneurisma retiniano en su límite temporal superior. Fue estudiada con tomografía de coherencia óptica (OCT), que mostró una masa prerretiniana de densidad uniforme, retenida por la hialoides posterior, que correspondía a un acúmulo de fibrina.
+Tras valorar con el paciente la posibilidad de realizar vitrectomía para evacuar la fibrina premacular, se adoptó una actitud expectante. La evolución fue buena, con recuperación de AV con el OI, que era de 4/10 a los 3 meses.
+Al aclararse la fibrina, se observó un macroaneurisma en arcada temporal superior. Se realizaron AGF y un nuevo OCT, que mostró recuperación de la morfología foveal, con hialoides posterior despegada. Al comprobar que el aneurisma era permeable, se decidió realizar fotocoagulación alrededor del mismo. La exploración del OD no mostró alteraciones.
+La fotocoaulación causó la trombosis del aneurisma. La AV del OI se mantuvo en 4/10.
+Un año después, el paciente volvió a acudir a nuestro hospital, esta vez por pérdida aguda de visión en OD. Presentaba AV con OD de MM y 4/10 con OI. En FO había una hemorragia prerretiniana OD.
+Se adoptó de nuevo actitud expectante, con recuperación de AV, que mejoró a 4/10 en 3 meses. Se realizó AGF que evidenció un macroaneurisma arterial en arcada temporal inferior OD, mientras con OCT se apreció despegamiento de la hialoides posterior en mácula.
+Se realizó fotoCoagulación alrededor del aneurisma, con trombosis del mismo.
+Actualmente el paciente presenta AV de 4/10 en AO, con cataratas corticonucleares densas que se operará próximamente.
+Además se hizo un estudio de riesgo vascular del paciente, que descubrió HTA y fibrilación auricular, que se están controlando con tratamiento médico.
+Responsable clínico: Dr: Jaime Otero Millas. Email: jmateomil@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="28" end="37" text="Sebastian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="50" end="67" text="Rodriguez Betanco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="74" end="81" text="8934753" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T14" start="89" end="103" text="28 34537589 34" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T13" start="116" end="136" text="C/ Pacífico, 28, 2 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T12" start="160" end="166" text="Madrid" TYPE="CALLE" comment=""/>
+    <LOCATION id="T11" start="172" end="177" text="28041" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="221" end="231" text="28/05/1931" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T9" start="253" end="259" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="267" end="274" text="85 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="281" end="282" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T6" start="302" end="312" text="16/08/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="322" end="340" text="Jaime Otero Millas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="349" end="360" text="28 28 97485" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T3" start="404" end="411" text="85 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="2469" end="2487" text="Jaime Otero Millas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2496" end="2517" text="jmateomil@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Fernando.
+Apellidos: Sanchez Torres.
+NHC: 78564633.
+NASS: 78 45963214 12.
+Domicilio: Calle General Ramirez 14, 8B.
+Localidad/ Provincia: Madrid.
+CP: 28008.
+Datos asistenciales.
+Fecha de nacimiento: 15/10/1944.
+País: España.
+Edad: 72 años Sexo: H.
+Fecha de Ingreso: 03/01/2017.
+Médico: Inés Contreras Saenz NºCol: 28 28 54698.
+Informe clinico del paciente:Varón de 72 años, sin antecedentes médicos de interés y bajo tratamiento con antiinflamatorios desde el año 2011 por cervicalgia crónica, que acudió al servicio de urgencias refiriendo una importante alteración de la marcha y pérdida progresiva de fuerza en extremidades durante los últimos 6 meses acompañada de disfagia para sólidos y moderados síntomas disneicos. A la exploración física se objetiva hemiparesia espástica izquierda, hiperreflexia generalizada, signo de Romberg positivo y ataxia. La RMN muestra un engrosamiento de partes blandas alrededor de la apófisis odontoides condicionando una grave estenosis del canal raquídeo, sobre todo de la mitad izquierda, con compromiso de la unión bulbomedular y unas voluminosas proliferaciones sindesmofíticas anteriores a nivel de C2-C6, predominando en C4-C5, que deforman y obliteran parcialmente la vía aérea.
+Bajo el diagnóstico de enfermedad de Forestier, el paciente fue sometido inicialmente a cirugía por vía transoral realizándose resección del arco anterior del atlas y de la apófisis odontoides sin mejoría neurológica, por lo que se realizó un abordaje cervical anterolateral externo y resección de las proyecciones osteofíticas anteriores de C3-C4-C5. La evolución postoperatoria mostró progresiva mejoría clínica de la disfagia y la hemiparesia con ausencia de síntomas respiratorios.
+Remitido por: Inés Contreras C/ Martín de los Heros, 80, 5º D 28008 Madrid España E-mail: inescon3@yahoo.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="17" text="Fernando" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="30" end="44" text="Sanchez Torres" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="51" end="59" text="78564633" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="67" end="81" text="78 45963214 12" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="94" end="122" text="Calle General Ramirez 14, 8B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="146" end="152" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="158" end="163" text="28008" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="207" end="217" text="15/10/1944" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="225" end="231" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="239" end="246" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="253" end="254" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="274" end="284" text="03/01/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="294" end="314" text="Inés Contreras Saenz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="322" end="333" text="28 28 54698" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="364" end="369" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="373" end="380" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T6" start="472" end="476" text="2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="1733" end="1747" text="Inés Contreras" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1748" end="1780" text="C/ Martín de los Heros, 80, 5º D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1781" end="1786" text="28008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1787" end="1793" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1794" end="1800" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1809" end="1827" text="inescon3@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

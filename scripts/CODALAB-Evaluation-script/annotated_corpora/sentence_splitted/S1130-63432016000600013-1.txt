@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Enrique.
+Apellidos: Bueno Diaz.
+NHC: 8394670.
+NASS: 48 36907256 18.
+Domicilio: Calle Vinateros, 55, 3, A.
+Localidad/ Provincia: Madrid.
+CP: 28034.
+Datos asistenciales.
+Fecha de nacimiento: 15/02/1942.
+País de nacimiento: España.
+Edad: 75 años Sexo: H.
+Fecha de Ingreso: 19/06/2017.
+Médico: Esperanza Bueno Juana  NºCol: 28 28.
+Informe clínico del paciente: Varón de 75 años, con antecedentes de hiperuricemia en tratamiento con Alopurinol que ingresa para realización de resección transuretral de próstata.
+Postoperatorio inmediato sin incidencias con tratamiento con Pantoprazol, Ciprofloxacino, Paracetamol, Enantyum y Alopurinol. Al cuarto día de postoperatorio presenta mareos, temblor con componente mioclónico en extremidades y tronco e incapacidad para caminar, sin verse alteraciones analíticas. En esta situación se pauta Rivotril y se suspende el tratamiento con Ciprofloxacino, desapareciendo la clínica mioclónica y mejorando el estado del paciente, por lo que se decide el alta hospitalaria.
+Responsable clínico: Dra. Esperanza Bueno Juana Correo electrónico: espemune90@gmail.com

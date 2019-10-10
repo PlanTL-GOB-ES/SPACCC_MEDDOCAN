@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Marina.
+Apellidos: Vilanova Fernández.
+NHC: 4875694.
+NASS: 85 62786597 86.
+Domicilio: C/ Valencia, 2, 5 C.
+Localidad/ Provincia: Ciudad Real.
+CP: 13600.
+Datos asistenciales.
+Fecha de nacimiento: 30/05/1941.
+País de nacimiento: España.
+Edad: 75 años Sexo: M.
+Fecha de Ingreso: 13/09/2016.
+Médico: Mª José Vela Muñoz Avda NºCol: 13 13 52012.
+Informe clínico del paciente: Paciente de 75 años, diagnosticada casualmente por ecografía rutinaria de una masa sólida en polo superior de riñón derecho. Un año y medio después acude a nuestra consulta. No había seguido ningún tratamiento. Permanece asintomática.
+Exploraciones radiológicas
+Tórax PA y L: adenopatías calcificadas en mediastino, presencia de algún tracto fibroso aislado en base izquierda.
+TAC abdominal: a nivel del polo superior del riñón derecho y en situación interna, se aprecia una masa sólida de unos 5 cm, en su crecimiento hacia abajo llega a tocar con el seno renal, creciendo por detrás de las estructuras vasculares.
+Tras administración de contraste se aprecia captación intensa, destacando la presencia de una cicatriz central. Los contornos son nítidos y aparece la masa encapsulada con respecto al parénquima renal.
+No se aprecian signos de afectación de la vena renal, ni extensión a espacio perirrenal, ni adenopatías.
+En conclusión, masa renal a determinar, aunque con oncocitoma.
+Gammagrafía ósea: aumento de depósitos de captación a nivel de la 5ª vértebra lumbar, y otro a nivel cervical, compatibles con procesos osteodegenerativos.
+Tratamiento y Evolución: con el diagnóstico de presunción de adenocarcinoma renal localizado se realiza nefrectomía parcial superior derecha. El diagnóstico intraoperatorio califica al tumor como adenocarcinoma de células claras e indica márgenes de resección libres (T1G1).
+Sin embargo, el informe definitivo de anatomía patológica informa que 'el tumor renal tiene una diferenciación aparentemente tiroidea. El estudio inmunohistoquímico parece confirmar el origen tiroideo de la tumoración, pues habiéndose utilizado anticuerpos antitiroglobulina, vimentina, AE3-AE1, CAM5.2, alfa1 antitripsina, calcitonina, enolasa neuroespecífica y antígeno carcinoembrionario. Las células son positivas para antitiroglobulina, CAM5.2 y S-100'.
+La paciente rehusó realizar exploraciones complementarias y tratamientos inmediatos, pero a los 4 meses comenzó con disfonía y sensación de cuerpo extraño en cuello.
+El TAC cervico-torácico evidencia una masa en el lóbulo tiroideo izquierdo de 5-3-6 cm, con crecimiento hacia el mediastino superior, con afectación del istmo tiroideo, adenopatías de 1 cm de diámetro en grupo yugulo-carotídeo medio y un incontable número de lesiones nodulares en ambos campos pulmonares, compatibles con micrometástasis.
+Se realiza tiroidectomía total y vaciamiento ganglionar funcional izquierdo y laringuectomía total por invasión local de la neoplasia.
+El informe anatomopatológico confirma la existencia de un carcinoma poco diferenciado folicular de tiroides.
+Se le realiza complementariamente una sesión con dosis ablativa de Yodo-131.
+Responsable clínico: Dra. Mª José Vela Muñoz Avda. Cervera nº 14 13600 Alcázar de San Juan (Ciudad Real)
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="34" text="Marina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="47" end="65" text="Vilanova Fernández" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="72" end="79" text="4875694" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="87" end="101" text="85 62786597 86" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="114" end="133" text="C/ Valencia, 2, 5 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="157" end="168" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="174" end="179" text="13600" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="223" end="233" text="30/05/1941" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="255" end="261" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="269" end="276" text="75 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="283" end="284" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="304" end="314" text="13/09/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="324" end="342" text="Mª José Vela Muñoz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="355" end="366" text="13 13 52012" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T6" start="410" end="417" text="75 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="3126" end="3144" text="Mª José Vela Muñoz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="3145" end="3164" text="Avda. Cervera nº 14" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3165" end="3170" text="13600" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3171" end="3190" text="Alcázar de San Juan" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="3192" end="3203" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

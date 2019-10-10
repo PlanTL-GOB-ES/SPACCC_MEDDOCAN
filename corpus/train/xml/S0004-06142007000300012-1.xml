@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre: Francisco Javier .
+Apellidos:Gallardo Esteban.
+CIPA: nhc-118848.
+NASS: 65 21413043 65.
+Domicilio: Paseo de la castellana 87. 9F.
+Localidad/ Provincia: Madrid.
+CP: 28025.
+NHC:118848.
+Datos asistenciales.
+Fecha de nacimiento: 30/05/1966.
+País: España.
+Edad: 52 Sexo: H.
+Fecha de Ingreso: 25/05/2018.
+Médico: José Emilio Hernández       NºCol: 28 28 01354.
+Antecedentes: Paciente de 52 años con antecedentes personales de insuficiencia renal terminal de etiología no filiada que recibió un trasplante heterotópico en FID procedente de donante cadáver en Enero de 1999. Previamente había precisado hemodiálisis desde 1980 a 1983, y diálisis peritoneal desde entonces hasta el momento del trasplante renal.
+No existieron complicaciones postrasplante. Al paciente se le administró triple terapia inmunosupresora con Ciclosporina, Prednisona y Micofenolato, presentando diuresis inmediata con mejoría progresiva de la función renal, siendo la creatininemia al alta de 1,8 mg/dl.
+Después de un periodo postrasplante no complicado y asintomático de 51 meses en el que mantuvo una función renal estable (creatininemia: 1,2-1,4 mg/dl) en una ecografía de control se objetivó un nódulo sólido de 1,5 cm vascularizado en el polo inferior del injerto renal. La posterior PAAF ecodirigida reveló que se trataba de un CCR. 
+En Junio de 2003 mediante reapertura de la incisión de Gibson previa en FID, y tras la liberación del injerto renal de las adherencias circundantes, se identificó una tumoración exofítica bien circunscrita de 1.5 cm en su polo inferior-cara anterior. Se practicó tumorectomía con margen de más de 0,5 cm de parénquima macroscópicamente sano, enviándose intraoperatoriamente muestras de la base que fueron informadas como libres de afectación tumoral. Con fines hemostáticos se realizaron puntos intraparenquimatosos de los vasos sangrantes, y puntos de aproximación de 'colchonero' apoyados en Goretex y Surgicel. El diagnóstico histopatológico definitivo fue un carcinoma papilar renal tipo I, grado 2 de Fuhrman, estadio I de la UICC (pT1a, Nx, Mx) con márgenes de resección y grasa peritumoral sin afectación tumoral. No existieron complicaciones en el curso postoperatorio de la tumorectomía, y no se modificó la terapia inmunosupresora.
+En el seguimiento a casi tres años, realizado con periodicidad inicialmente trimestral y posteriormente semestral, mediante estudio de la función renal y ecografía o RM no hay evidencia de recidiva tumoral a día de hoy, manteniéndose una adecuada función renal con creatininemia de 1,18 mg/dl, y aclaramiento de creatinina de 115,5 ml/min sin proteinuria.
+Remitido por: José Emilio Hernández. Calle Francisco del Pino, 6 2ºA 28021 Madrid. Email dr_emiliohernandez@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="9" end="25" text="Francisco Javier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="38" end="54" text="Gallardo Esteban" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="66" end="72" text="118848" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="80" end="94" text="65 21413043 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="107" end="136" text="Paseo de la castellana 87. 9F" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="160" end="166" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="172" end="177" text="28025" TYPE="TERRITORIO" comment=""/>
+    <ID id="T18" start="183" end="189" text="118848" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="233" end="243" text="30/05/1966" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="251" end="257" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="265" end="267" text="52" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="274" end="275" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="295" end="305" text="25/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="315" end="336" text="José Emilio Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="350" end="361" text="28 28 01354" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T10" start="389" end="396" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="560" end="573" text="Enero de 1999" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="622" end="626" text="1980" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="629" end="633" text="1983" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="1320" end="1333" text="Junio de 2003" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="2629" end="2650" text="José Emilio Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2652" end="2683" text="Calle Francisco del Pino, 6 2ºA" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2684" end="2689" text="28021" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2690" end="2696" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2704" end="2734" text="dr_emiliohernandez@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Diana.
+Apellidos: Valladares Fernandez.
+NHC: 3647301.
+NASS: 29 16472056 33.
+Domicilio: Calle Carrion, 20, 4 C.
+Localidad/ Provincia: Marbella.
+CP: 29602.
+Datos asistenciales.
+Fecha de nacimiento: 15/08/1972.
+País de nacimiento: España.
+Edad: 43 años Sexo: M.
+Fecha de Ingreso:  05/06/2016.
+Médico: José Javier Arenas Villafranca NºCol: 29 29 51778.
+Informe clínico del paciente: Mujer de 43 años diagnosticada de cáncer de cervix en 2007 tratada con braquiterapia y radioterapia. Tras presentar un cuadro de sigmoiditis actínica y obstrucción intestinal a finales de 2009 es intervenida de resección intestinal a lo Hartman con resultado de colostomía de descarga. En ese momento la paciente pesaba 41,5 kg, 165 cm (IMC = 15). Durante el periodo posterior su peso fluctuó entre 38 y 42 kg a pesar del seguimiento nutricional sufriendo hasta cinco ingresos uno de ellos por abceso intrabadominal y fístula ureteroenteral por lo que se practica una nefrostomía izquierda.
+En noviembre de 2011 es intervenida de resección ileocecal con anastomosis laterolateral por fístula intestinal. En el postoperatorio presenta un cuadro comicial secundario a imipenem que provocó el ingreso en UCI. Precisando soporte nutricional por vía parenteral durante 20 días.
+En enero 2012 sufre nuevo ingreso por insuficiencia renal crónica grado III multifactorial instaurándose tratamiento nutricional con dieta de protección renal. La situación clínica requiere de nuevo NP durante 10 días por vómitos incoercibles e imposibilidad de ingesta oral.
+En septiembre de 2012 reingresa a causa de una fístula suprapúbica, iniciando de nuevo NP con el objetivo de renutrir a la paciente para afrontar una nueva intervención quirúrgica, en ese momento presentaba IMC = 13 (37 kg, 169 cm). Al décimo tercer día, tras ganancia ponderal de 4 kg, la paciente desarrolla un cuadro alérgico que inicia con eritema y prurito. Se procede a la suspensión del Antibiótico (9 días con meropenem) y se administra tratamiento con corticoides y antihistamínico. La evolución continúa tórpida en las horas siguientes apareciendo edemas y dificultad para respirar. En ese momento se decide suspender NP observándose una mejoría en la sintomatología. Dado la necesidad imprescindible de nutrición preoperatoria, se elabora un protocolo de reintroducción de NP:
+1. Inicio de NPT con aporte exclusivo de aminoácidos, glucosa y electrolitos, utilizándose una fuente de aminoácidos distinta a la de la preparación anterior. Iniciar siempre en horario de mañana con monitorización estrecha de la paciente.
+2. Tras 48 h, si no ha habido manifestaciones de reaparición de la alergia, añadir cantidades crecientes de lípidos a la parenteral durante las próximas 72 h.
+3. En caso de buena tolerancia, valorar la necesidad de añadir vitaminas y oligoelementos a la mezcla.
+Se reinicia NP con buena tolerancia y sin complicaciones, aportando hacia el 4o día NP completa con macro y micronutrientes según necesidades de la paciente.
+Tras objetivarse recuperación nutricional se decide intervención quirúrgica con mala evolución postoperatoria y necesidad de ingreso en Unidad de Cuidados Intensivos por desarrollo de shock séptico de origen abdominal y fracaso multiorgánico que finaliza en el fallecimiento de la paciente.
+Responsable clínico: Dr. José Javier Arenas Villafranca. Hospital Costa del Sol. A7, km. 187. 29602 Marbella. Málaga E-mail: jjavier.arenas@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T28" start="28" end="33" text="Diana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T27" start="46" end="66" text="Valladares Fernandez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T26" start="73" end="80" text="3647301" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="88" end="102" text="29 16472056 33" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T24" start="115" end="137" text="Calle Carrion, 20, 4 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T23" start="161" end="169" text="Marbella" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T22" start="175" end="180" text="29602" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T21" start="224" end="234" text="15/08/1972" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T20" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T19" start="270" end="277" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T18" start="284" end="285" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="306" end="316" text="05/06/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T16" start="326" end="356" text="José Javier Arenas Villafranca" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T15" start="364" end="375" text="29 29 51778" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T14" start="407" end="412" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="416" end="423" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="461" end="465" text="2007" TYPE="FECHAS" comment=""/>
+    <DATE id="T11" start="595" end="599" text="2009" TYPE="FECHAS" comment=""/>
+    <DATE id="T10" start="1001" end="1018" text="noviembre de 2011" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="1283" end="1293" text="enero 2012" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="1559" end="1577" text="septiembre de 2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="3320" end="3350" text="José Javier Arenas Villafranca" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3352" end="3374" text="Hospital Costa del Sol" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3376" end="3387" text="A7, km. 187" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3389" end="3394" text="29602" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3395" end="3403" text="Marbella" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3405" end="3411" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3420" end="3444" text="jjavier.arenas@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

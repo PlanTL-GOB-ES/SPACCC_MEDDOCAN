@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Triana.
+Apellidos: Rivera Ordoñez.
+NHC: 2078655.
+Domicilio: Av. de Manuel Torres, 1.
+Localidad/ Provincia: Málaga.
+CP: 29003.
+Datos asistenciales.
+Fecha de nacimiento: 26/01/2006.
+País: España.
+Edad: 11 años Sexo: M.
+Fecha de Ingreso: 14/04/2017.
+Servicio: Tratamiento del Dolor.
+Médico: Manuel José Rodríguez López  NºCol: 29 29 85120.
+Informe clínico del paciente: Niña de 11 años de edad cuando se realizó el diagnóstico de esguince de tobillo izquierdo tratado en Traumatología Pediátrica. Fue diagnosticada de SDRC de tobillo y pie izquierdo por Reumatología Pediátrica e inicia tratamiento farmacológico; al no obtener alivio es derivada a la Unidad del Dolor.
+Primero fue tratada farmacológicamente sin conseguir un alivio adecuado del dolor, por lo que se decidió (previa información y consentimiento paterno) implantar, en quirófano y bajo anestesia general, un catéter epidural lumbar iniciándose, a través de él, una infusión continua de anestesia local durante dos semanas. En ese tiempo el alivio del dolor fue total, pero este cesó al detener la administración de anestesia local. Por este motivo se decidió (previa información y consentimiento de los padres) la implantación, en quirófano y bajo anestesia general, de un electrodo octopolar en cordones medulares posteriores para estimulación de la pierna izquierda. El sistema se programó una vez despierta la paciente consiguiéndose una muy buena localización de las parestesias. Dos semanas más tarde se revisó a la paciente que continuaba con la buena respuesta tanto del dolor como del resto de la sintomatología, por lo que se decidió la implantación de un generador de impulsos implantable y programable y su conexión con el electrodo. En la actualidad continúa en tratamiento con la estimulación medular con remisión total del cuadro.
+Remitido por: Manuel José Rodríguez López. Unidad de Tratamiento del Dolor Hospital Regional Universitario "Carlos Haya" Avda. Carlos Haya, s/n 29010 Málaga e-mail: maje1946@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="8" end="14" text="Triana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="27" end="41" text="Rivera Ordoñez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="48" end="55" text="2078655" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T20" start="68" end="91" text="Av. de Manuel Torres, 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="115" end="121" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="127" end="132" text="29003" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="176" end="186" text="26/01/2006" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="194" end="200" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="208" end="215" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="222" end="223" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="243" end="253" text="14/04/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="296" end="323" text="Manuel José Rodríguez López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="332" end="343" text="29 29 85120" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="375" end="379" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="383" end="390" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="817" end="824" text="paterno" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="1174" end="1180" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="1830" end="1857" text="Manuel José Rodríguez López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1891" end="1936" text="Hospital Regional Universitario &quot;Carlos Haya&quot;" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1937" end="1959" text="Avda. Carlos Haya, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1960" end="1965" text="29010" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1966" end="1972" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1981" end="1998" text="maje1946@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

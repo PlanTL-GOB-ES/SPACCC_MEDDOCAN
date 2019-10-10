@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Estefania.
+Apellidos: Salgado Ibarra.
+NHC: 2389563.
+Domicilio: Calle Del Cid Campeador, 66, 4B.
+Localidad/ Provincia: Madrid.
+CP: 28041.
+Datos asistenciales.
+Fecha de nacimiento: 27/09/2002.
+País: España.
+Edad: 13 años Sexo: H.
+Fecha de Ingreso: 15/12/2015.
+Médico: Maria del Carmen Cubero Sobrados   NºCol: 28 28 65002.
+Informe clínico del paciente: Joven de 13 años que acude al centro de salud acompañada de su madre, quien solicita que se le aplique la vacuna antituberculosa. Proyecta un viaje de estudios a Estados Unidos y refieren que es uno de los requisitos para poder acceder a la educación en ciertos centros de ese país. Se le informa de la no disponibilidad de la vacuna en el centro de salud, ya que no es una vacunación presente en el calendario vigente de inmunizaciones de la Comunidad de Madrid, así como de la posibilidad de asistir al Centro de Vacunación Internacional. No obstante, la madre refiere que, por su profesión, tiene acceso a dicha vacuna y solicita tan solo que le sea aplicada en el centro, aportando dicha vacuna la propia familia.
+Tras la administración de la vacuna y al quejarse la niña de dolor en el lugar de la inyección, acompañado de sensación de mareo, se procede a atenderla según el protocolo de actuación. Revisando el cartonaje del envase de la vacuna se constata que el vial de 2 ml que se ha inoculado no es monodosis, forma de presentación habitual de las vacunas, sino que contenía 20 dosis, que se inocularon vía intramuscular, dado el volumen de la presentación (la dosis habitual para adulto es de 0,1 ml, inyectados por vía subcutánea).
+Tras comprobar que el estado de la niña es bueno y que presenta constantes vitales normales, se informa a la familia del error cometido y se procede a informar a las autoridades sanitarias pertinentes. Para recabar la mayor información posible sobre la vacuna, nos ponemos en contacto con el Instituto de Toxicología y el Servicio de Medicina Preventiva del Hospital Universitario 12 Octubre, Dirección Gerencia del Área de Referencia, así como con el Servicio de Infecciosas del mismo hospital y con el laboratorio fabricante (Pharmacia Spain) y el Centro de Vacunación Internacional.
+Se hizo seguimiento clínico a la niña en el Servicio de Enfermedades Infecciosas del Hospital Universitario 12 de Octubre durante seis meses, realizándose estudios analíticos con pruebas de inmunidad, siendo todas las pruebas normales tanto al inicio del evento como en su evolución. No desarrolló ni en el periodo inmediato ni durante el tiempo de seguimiento ningún tipo de reacción en el lugar de la inyección, por lo que fue dada de alta sin haber presentado incidencia alguna. No recibió ningún tratamiento antituberculoso durante su seguimiento.
+Remitido por: Dra. Maria del Carmen Cubero Sobrados kr_qb@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T32" start="28" end="37" text="Estefania" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T31" start="50" end="64" text="Salgado Ibarra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T30" start="71" end="78" text="2389563" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T29" start="91" end="122" text="Calle Del Cid Campeador, 66, 4B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T28" start="146" end="152" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T27" start="158" end="163" text="28041" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T25" start="207" end="217" text="27/09/2002" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T26" start="225" end="231" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T23" start="239" end="246" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T21" start="253" end="254" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T24" start="274" end="284" text="15/12/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T19" start="294" end="326" text="Maria del Carmen Cubero Sobrados" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T17" start="336" end="347" text="28 28 65002" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T20" start="379" end="384" text="Joven" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T22" start="388" end="395" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="442" end="447" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T15" start="541" end="555" text="Estados Unidos" TYPE="PAIS" comment=""/>
+    <LOCATION id="T14" start="822" end="841" text="Comunidad de Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="884" end="918" text="Centro de Vacunación Internacional" TYPE="INSTITUCION" comment=""/>
+    <OTHER id="T12" start="936" end="941" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="1088" end="1095" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="1150" end="1154" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="1658" end="1662" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="1732" end="1739" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T9" start="1915" end="1939" text="Instituto de Toxicología" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T8" start="1981" end="2014" text="Hospital Universitario 12 Octubre" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="2151" end="2166" text="Pharmacia Spain" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T7" start="2173" end="2207" text="Centro de Vacunación Internacional" TYPE="INSTITUCION" comment=""/>
+    <OTHER id="T6" start="2242" end="2246" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T5" start="2294" end="2330" text="Hospital Universitario 12 de Octubre" TYPE="HOSPITAL" comment=""/>
+    <NAME id="T18" start="2780" end="2812" text="Maria del Carmen Cubero Sobrados" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T4" start="2813" end="2830" text="kr_qb@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Pedro.
+Apellidos: Piqueras Rubio.
+NHC: 8437634.
+NASS:82 76892756 0.
+Domicilio: Av. las Cruces, 29.
+Localidad/ Provincia: Valencia.
+CP: 46528.
+Datos asistenciales.
+Fecha de nacimiento: 21/12/1961.
+País de nacimiento: España.
+Edad: 53 años Sexo: H.
+Fecha de Ingreso: 04/08/2015.
+Médico: Jose María Belinchón NºCol: 46 46 11250.
+Informe clínico del paciente: Varón, de 53 años de edad, que comenzó con dolor e impotencia en ambos miembros inferiores, adormecimiento de piernas con parestesias y en las últimas semanas dificultad para la marcha. Los síntomas se aliviaban parcialmente al acostarse y no empeoraban sentado. La sintomatología predominante era sensitiva, con intenso dolor en miembros inferiores.
+El dolor aumentaba con maniobras de Valsalva y sufría empeoramientos cíclicos.
+Todo el cuadro comenzó en Septiembre del 2002, un año antes de ser visto en consulta de Neurocirugía.
+El paciente refería, como únicos antecedentes, dolores de espalda y una intervención de hernia inguinal bilateral hacía años, bajo anestesia general.
+En las imágenes de Resonancia Magnética se observó, una colección polilobulada, intrarraquídea, extradural que comprimía el saco dural en el 90% de su volumen. Se informó por radiólogo como quiste sinovial L2-L3.
+No se efectuó angiografía espinal, aunque ni en las imágenes de Resonancia ni en el acto quirúrgico se apreció ningún tipo de malformación vascular.
+Intervención
+Se efectúa una laminectomía desde L4 hasta L2. En L3 y L2 comienza a obtenerse fragmentos de tejido óseo y cartilaginoso, infiltrados por un líquido oscuro que, además, se derrama al campo operatorio con un aspecto similar al "fuel-oil". Se elimina el tejido de la zona, descomprimiendo el saco dural, y se procede al cierre de la incisión.
+Anatomía patológica
+El informe de Anatomía Patológica describe las muestras tanto extemporáneas como postoperatorias como tejido osteocartilaginoso, músculo y tejido fibroso, con zonas de hemorragia y macrófagos en la periferia cargados de pigmento hemosidérico.
+No se observan otro tipo de lesiones ni célula maligna o atípica alguna.
+Resultado postoperatorio
+El postoperatorio cursó con una recuperación excelente sin complicaciones y una mejoría total de los síntomas.
+Tras un año de seguimiento el paciente permanece totalmente asintomático.
+Responsable clínico: Jose María Belinchón. Servicio de Neurocirugía. Consorcio Hospital General Universitario, Universidad de Valencia. Av. Tres Cruces s/n. 46014 Valencia, Spain.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="33" text="Pedro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="46" end="60" text="Piqueras Rubio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="67" end="74" text="8437634" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="81" end="94" text="82 76892756 0" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="107" end="125" text="Av. las Cruces, 29" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="149" end="157" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="163" end="168" text="46528" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="212" end="222" text="21/12/1961" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="244" end="250" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="258" end="265" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="272" end="273" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="293" end="303" text="04/08/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="313" end="333" text="Jose María Belinchón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="341" end="352" text="46 46 11250" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="384" end="389" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="394" end="401" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="840" end="859" text="Septiembre del 2002" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="2349" end="2369" text="Jose María Belinchón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2397" end="2437" text="Consorcio Hospital General Universitario" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2439" end="2462" text="Universidad de Valencia" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T4" start="2464" end="2483" text="Av. Tres Cruces s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2485" end="2490" text="46014" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2491" end="2499" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2501" end="2506" text="Spain" TYPE="PAIS" comment=""/>
+  </TAGS>
+</MEDDOCAN>

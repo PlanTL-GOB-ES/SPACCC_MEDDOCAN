@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Asier .
+Apellidos: Ramos Carrasco.
+NHC: 7062827.
+NASS: 13 80800902 84.
+Domicilio: Av. de Lugo, 21, 7 A.
+Localidad/ Provincia: Santiago de Compostela, A Coruña.
+CP: 15703.
+Datos asistenciales.
+Fecha de nacimiento: 12/02/1999.
+País de nacimiento: España.
+Edad: 18 años Sexo: H.
+Fecha de Ingreso: 24/04/2017.
+Servicio: Medicina Interna.
+Episodio: 6422329.
+Médico: Alejandro Cabarcos Ortiz de Barrón NºCol: 15 15 31525.
+Historia Actual: Paciente varón de 18 años que acude al servicio de urgencias por cefalea intensa y quebrantamiento remitido por su médico de cabecera ante la falta de mejoría con tratamiento convencional de infecciones respiratorias altas de carácter vírico. 
+Antecedentes: Entre los antecedentes personales solamente destaca haber padecido mononucleosis infecciosa. Tras un cuadro catarral de una semana de evolución, con malestar general, tos seca y fiebre (hasta 38,5 ºC), desarrolla cefalea global, más intensa a nivel frontal, en las últimas 48 horas, inicialmente sin rinorrea ni obstrucción nasal. Aisladamente presentó mínima secreción nasal purulenta que alguna vez ha sido sanguinolenta en los últimos días. No ha presentado pérdida de conciencia, convulsiones, tiritona ni escalofríos.
+Exploración física: Al realizar la exploración física, hallamos: Tª: 37,5 ºC; TA: 137/73 mmHg; P: 71 lpm. Buen aspecto general con correcta hidratación y perfusión muco-cutánea. No impresiona de afectado. Facies febril. No puntos dolorosos en la percusión de senos paranasales. A nivel cutáneo presenta un rash maculoso y eritematoso que afecta a tronco y cuello. No se palpan adenopatías látero-cervicales, axilares ni inguinales. La auscultación cardíaca es rítmica, sin presencia de soplos. La auscultación pulmonar presenta un murmullo vesicular conservado, sin presencia de roncus, crepitantes ni sibilantes. El abdomen es blando, depresible y no se palpan masas ni megalias. Las extremidades superiores e inferiores no presentan datos patológicos, con pulsos distales presentes. La exploración neurológica es rigurosamente normal, sin datos de focalidad ni de meningismo.
+Pruebas complementarias: Se procede a la realización de las correspondientes exploraciones complementarias, con radiografía de tórax rigurosamente normal, analítica de orina no patológica y hemograma en el que destaca leucocitosis con presencia de formas jóvenes (cayados: 4%) lo que obliga a plantear el diagnóstico diferencial entre sinusitis y meningitis; por lo que se realizó punción lumbar con 3 células de predominio linfoide y 0,3 gr/dl de proteínas y sin consumo de glucosa. Al tiempo un estudio radiográfico de senos paranasales en donde no se observaron datos compatibles con sinusitis; a continuación, para descartar complicaciones intracraneales (tipo trombosis de seno cavernoso / encefalitis) se realizó el estudio de TAC craneal en el que se evidenció ocupación del seno esfenoidal izquierdo que se relaciona con sinusopatía aguda.
+Evolución: Una vez confirmado en diagnóstico de sinusitis esfenoidal, se decide ingreso hospitalario para realizar una correcta vigilancia evolutiva del paciente e iniciar tratamiento antibiótico intravenoso con cefalosporinas de tercera generación, tratamiento con el que el paciente evoluciona correctamente, sin complicaciones, cediendo la cefalea y la febrícula en el plazo de 48 horas y encontrándose asintomático en el momento del alta hospitalaria.
+Responsable clínico: Dr. Alejandro Cabarcos Ortiz de Barrón Servicio de Medicina Interna. Hospital Clínico Universitario - Hospital Gil Casares. C/ A Choupana s/n. 15706 Santiago de Compostela. A Coruña. Fax: 981 950 501. e-mail: med028799@nacom.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="28" end="33" text="Asier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="47" end="61" text="Ramos Carrasco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="68" end="75" text="7062827" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="83" end="97" text="13 80800902 84" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="110" end="130" text="Av. de Lugo, 21, 7 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="154" end="176" text="Santiago de Compostela" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="178" end="186" text="A Coruña" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="192" end="197" text="15703" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="241" end="251" text="12/02/1999" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="273" end="279" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="287" end="294" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="301" end="302" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="322" end="332" text="24/04/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T13" start="372" end="379" text="6422329" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T12" start="389" end="423" text="Alejandro Cabarcos Ortiz de Barrón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="431" end="442" text="15 15 31525" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="470" end="475" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="479" end="486" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3449" end="3483" text="Alejandro Cabarcos Ortiz de Barrón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3514" end="3567" text="Hospital Clínico Universitario - Hospital Gil Casares" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="3569" end="3586" text="C/ A Choupana s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3588" end="3593" text="15706" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3594" end="3616" text="Santiago de Compostela" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3618" end="3626" text="A Coruña" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="3633" end="3644" text="981 950 501" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="3654" end="3672" text="med028799@nacom.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

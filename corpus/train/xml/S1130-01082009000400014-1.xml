@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Carmen Inés.
+Apellidos: Salinas Torres.
+NHC:  9876257868/85.
+Domicilio: Calle Guerrero 12, Buenavista, Cuauhtémoc .
+Localidad/ Provincia:CDMX, México.
+CP: 06350.
+Datos asistenciales.
+Fecha de nacimiento: 02/08/1941.
+País: México.
+Edad: 73 años Sexo: Femenino.
+Fecha de Ingreso: 20/11//2014.
+Médico: Dolores Carrasco Ortiz .
+Historia del paciente: Mujer de 73 años que ingresa para cirugía programada por adenocarcinoma gástrico tras quimioterapia neodyuvante, realizándose una gastrectomía subtotal con reconstrucción mediante gastroyeyunostomía en Y de Roux. Como antecedente previo existía una probable alergia a la vitamina B (Neuromade®). En el postoperatorio presentó una fístula de la anastomosis gastroyeyunal manejada de forma conservadora, con exteriorización cutánea que obligó al inicio de nutrición parenteral (NPT) sin aporte de tiamina. Al mes presentó un deterioro neurológico consistente en desorientación, bradipsiquia, tendencia al sueño, nistagmus horizontal y oftalmoparesia que obligó a su ingreso en la unidad de cuidados intensivos para realización de test intradérmico de tiamina. Este resultó negativo y se procedió a la administración controlada de tiamina con recuperación completa del cuadro clínico.
+Remitido por: Dra. Dolores Carrasco Ortiz. Ixtaccihuatl 11 Col. Condesa México D.F. 6100 E-mail: patobu1@servidor.unam.mx
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="8" end="19" text="Carmen Inés" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="32" end="46" text="Salinas Torres" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="54" end="67" text="9876257868/85" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="80" end="121" text="Calle Guerrero 12, Buenavista, Cuauhtémoc" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="145" end="149" text="CDMX" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="151" end="157" text="México" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="163" end="168" text="06350" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="212" end="222" text="02/08/1941" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="230" end="236" text="México" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="244" end="251" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="258" end="266" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="286" end="297" text="20/11//2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="307" end="329" text="Dolores Carrasco Ortiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="355" end="360" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="364" end="371" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1256" end="1278" text="Dolores Carrasco Ortiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1280" end="1299" text="Ixtaccihuatl 11 Col" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1301" end="1308" text="Condesa" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1309" end="1320" text="México D.F." TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1321" end="1325" text="6100" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1334" end="1358" text="patobu1@servidor.unam.mx" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Alvaro.
+Apellidos: Romero Castilla.
+NHC: 7256911.
+NASS: 32 5675634 56.
+Domicilio: Calle Maspalomas, 21, 2, A.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 04/07/1955.
+País de nacimiento: España.
+Edad: 61 años Sexo: H.
+Fecha de Ingreso: 14/08/2016.
+Médico: Alejandra Mogedas Vegara  NºCol: 28 28 33021.
+Informe clínico del paciente:  varón de 61 años. Como antecedentes patológicos destacaba ser alérgico a claritromicina, padecer esófago de Barret, temblor esencial y de anemia ferropénica crónica. Su madre falleció tras un carcinoma renal.
+Fue intervenido en 2005 de carcinoma renal (p T3b Nx M1). Presentaba en el momento del diagnóstico metástasis suprarrenales bilaterales, lesión metastásica a nivel pulmonar y dudosa hepática. Se le realizó nefrectomía derecha y suprarrenalectomía izquierda. Posteriormente, inició ensayo clínico con interferón y bevacizumab con respuesta parcial de las lesiones metastásicas.
+En 2010 tras la aparición de tumoración parotídea se realiza una punción -aspiración con aguja fina (PAAF) guiada por ecografía compatible con metástasis de carcinoma renal.
+Para estudio de la extensión de la lesión se realiza una resonancia magnética (RM) cervical en la que se visualiza una tumoración a nivel parotídeo derecho que compromete tanto el lóbulo superficial como el profundo y que tiene un tamaño de 2,6*3,4*3,4cm y es compatible con una tumoración metastásica.
+La tomografía por emisión de positrones (PET) realizada informa de una lesión hipermetabólica a nivel parotídeo derecho compatible con proceso metastásico.
+Tras el estudio por parte de nuestro comité de tumores se decidió como tratamiento de elección la realización de una parotidectomía radical debido a la afectación de ambos lóbulos parotídeos.
+La anatomía patológica reveló una masa de patrón morfológico e inmunohistoquímico compatible con metástasis de carcinoma de células claras renales. Para esta caracterización fue necesario emplear citoqueratinas, antígeno epitelial de membrana (EMA), vimentina y cd10. Así mismo, se puso de manifiesto la afectación de estructuras profundas vasculares y nerviosas por lo que se decidió realizar radioterapia postoperatoria.
+En el postoperatorio el paciente realizó un episodio de seroma a nivel de la herida quirúrgica que fue resuelto sin complicaciones. La evolución postoperatoria fue favorable y fue dado de alta, realizándose control de las heridas en consultas externas.
+Responsable clínico: Alejandra Mogedas Vegara. alfmgvg@hotmail.com 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="34" text="Alvaro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="47" end="62" text="Romero Castilla" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="69" end="76" text="7256911" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="84" end="97" text="32 5675634 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="110" end="136" text="Calle Maspalomas, 21, 2, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="160" end="166" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="172" end="177" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T2" start="221" end="231" text="04/07/1955" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="253" end="259" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="267" end="274" text="61 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="281" end="282" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="302" end="312" text="14/08/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="322" end="346" text="Alejandra Mogedas Vegara" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T1" start="355" end="366" text="28 28 33021" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="399" end="404" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="408" end="415" text="61 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T5" start="627" end="631" text="2005" TYPE="FECHAS" comment=""/>
+    <DATE id="T4" start="988" end="992" text="2010" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="2507" end="2531" text="Alejandra Mogedas Vegara" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T3" start="2533" end="2552" text="alfmgvg@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

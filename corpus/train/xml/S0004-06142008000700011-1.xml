@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Jesús .
+Apellidos: Carmona Velasco.
+CIPA: nhc-7946135.
+NASS: 78 95413267 89.
+Domicilio: Calle Nava, 18 .
+Localidad/ Provincia: Oviedo.
+CP: 33001.
+NHC: 7946135.
+Datos asistenciales.
+Fecha de nacimiento: 26/01/1975.
+País: España.
+Edad:42  Sexo: H.
+Fecha de Ingreso: 23/04/2017.
+Especialidad:Urologia.
+Médico:Oscar Miranda Aranzubía  NºCol: 20 33 19534.
+Motivo de ingreso: nódulo en testículo derecho.
+Antecedentes: sin antecedentes médicos de interés, y con una cirugía de vasectomía como único antecedente urológico
+Historia Actual: varón de 42 años que acude a nuestra consulta por hallazgo casual de un nódulo en testículo derecho.
+Exploración física y pruebas complementarias: Ante la exploración fisica se solicita ecografía que nos informa de una imagen bien delimitada, de densidad homogénea, hipoecoica, localizada en polo superior de teste derecho. Los marcadores tumorales alfa-feto proteína, beta-HCG, resultaron dentro de la normalidad, así como el resto de la exploración física, donde no se objetivó signos de sobreproducción hormonal.
+Evolución y comentarios: Se decide por tanto exploración quirúrgica del mismo, realizándose biopsia intraoperatoria de dicho nódulo, que se informa como tumor fusiforme de bajo grado sin poder descartar malignidad, por lo que se decide practicar orquiectomía radical derecha vía inguinal.
+El paciente presentó una buena evolución postoperatoria siendo dado de alta al día siguiente.
+En el seguimiento posterior de este paciente no se ha objetivado signos de recurrencia o progresión
+Diagnóstico Principal: tumor fusiforme del estroma sexual no específico.
+Remitido por: Oscar Miranda Aranzubía Servicio de Urología Hospital Universitario Central de Asturias Oviedo Asturias. (España). mirandaaranzubia@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="14" text="Jesús" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="28" end="43" text="Carmona Velasco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="55" end="62" text="7946135" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="70" end="84" text="78 95413267 89" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="97" end="111" text="Calle Nava, 18" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="136" end="142" text="Oviedo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="148" end="153" text="33001" TYPE="TERRITORIO" comment=""/>
+    <ID id="T16" start="160" end="167" text="7946135" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="211" end="221" text="26/01/1975" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="229" end="235" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="242" end="244" text="42" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="252" end="253" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="273" end="283" text="23/04/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="315" end="338" text="Oscar Miranda Aranzubía" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="347" end="358" text="20 33 19534" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="541" end="546" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="550" end="557" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1627" end="1650" text="Oscar Miranda Aranzubía" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1672" end="1714" text="Hospital Universitario Central de Asturias" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1715" end="1721" text="Oviedo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1722" end="1730" text="Asturias" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1733" end="1739" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1742" end="1768" text="mirandaaranzubia@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

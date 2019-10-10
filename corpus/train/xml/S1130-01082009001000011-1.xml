@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Julia.
+Apellidos: Rojo Quezada.
+NHC: 78396.
+NASS: 89276892576.
+Domicilio: Calle Marqués de Cádiz, 1 3E.
+Localidad/ Provincia: Cádiz.
+CP: 11005.
+Datos asistenciales.
+Fecha de nacimiento: 13/09/1968.
+País: España.
+Edad: 46 años Sexo: M.
+Fecha de Ingreso: 19/12/2014.
+Médico: José Antonio Contreras Ibañez NºCol: 11 11 88546.
+Informe Clínico: Mujer de 46 años con dispepsia de varios años de evolución que no mejora con tratamiento médico-dietético. La endoscopia revela una lesión submucosa de 1 cm de diámetro, localizada en cara posterior de antro gástrico sin signos de ulceración. La biopsia es sugestiva de congestión moderada y edema focal de lámina propia. A nivel antral, en el tránsito gastrointestinal (TGI) y en la tomografía computerizada (TAC), se objetiva un defecto de repleción con pérdida de pliegues mucosos compatibles con tumoración previamente descrita. Durante el seguimiento, se realizan diversas eco-endoscopias (EE), visualizándose una lesión hipoecoica, homogénea, de bordes regulares, que parece depender de la capa muscular propia, de 2 x 1,6 cm de consistencia blanda, compatible con tumor del estroma tipo leiomioma, sin signos ecográficos que sugieran malignidad. No adenopatías significativas. PAAF: celulariad epitelial sin malignidad.
+El aumento de tamaño de la lesión, la persistencia de los síntomas, la ausencia de un diagnóstico definitivo y la imposibilidad para descartar malignidad nos hizo plantearnos su extirpación quirúrgica.
+La extirpación se realiza por vía laparoscópica, identificando la lesión gracias a una endoscopia intraoperatoria y a la tinción con tinta china previa a la cirugía. Se efectúa una gastrostomía anterior y se realiza la resección con una endograpadora lineal de 45 mm (Ethicon Endo-surgery). Posteriormente se cierra la gastrostomía mediante una sutura continua de seda.
+Desde el punto de vista macroscópico, la lesión presenta una consistencia sólida y la superficie externa es de color amarillo-blanquecino. El estudio microscópico identificó tejido pancreático heterotópico con predominio de ductos irregularmente dilatados.
+El postoperatorio transcurre sin incidencias, reiniciando la ingesta oral al 4º día y siendo dada de alta al 7º día. En el momento actual la paciente se encuentra asintomática.
+Remitido por: José Antonio Contreras Ibañez Hospital Universitario Puerta del Mar Servicio Oncología Médica (9a planta) Avda. Ana de Viya 21. 11009 Cádiz. (España). joseantonio.contrerasibaez@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="8" end="13" text="Julia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="26" end="38" text="Rojo Quezada" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="45" end="50" text="78396" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="58" end="69" text="89276892576" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="82" end="110" text="Calle Marqués de Cádiz, 1 3E" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="134" end="139" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="145" end="150" text="11005" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="194" end="204" text="13/09/1968" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="212" end="218" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="226" end="233" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="240" end="241" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="261" end="271" text="19/12/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="281" end="310" text="José Antonio Contreras Ibañez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="318" end="329" text="11 11 88546" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="348" end="353" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="357" end="364" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2295" end="2324" text="José Antonio Contreras Ibañez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2325" end="2362" text="Hospital Universitario Puerta del Mar" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2401" end="2421" text="Avda. Ana de Viya 21" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2423" end="2428" text="11009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2429" end="2434" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2437" end="2443" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2446" end="2482" text="joseantonio.contrerasibaez@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

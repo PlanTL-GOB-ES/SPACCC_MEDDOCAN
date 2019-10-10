@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Sonia.
+Apellidos: Pérez Gómez.
+NHC: 9645675.
+NASS: 98 72568259 72.
+Domicilio: Calle profesor Waskman 14, 4 Izq.
+Localidad/ Provincia: Madrid.
+CP:28014.
+Datos asistenciales.
+Fecha de nacimiento: 21/08/1947.
+País: España.
+Edad: 70 años Sexo: M.
+Fecha de Ingreso: 03/12/2017.
+Episodio: 638744.
+Médico: José María Lasso NºCol: 28 28 97462.
+Historia del paciente: Mujer de 70 años, intervenida por el Servicio de Cirugía Cardíaca por un problema valvular complejo. Presentó múltiples complicaciones postquirúrgicas que agravaron su estado general por fallo de bomba. Tras dos semanas de ingreso, comenzó a desarrollar un cuadro séptico con origen en el mediastino. Se realizó apertura de la herida quirúrgica, con exposición del corazón, y curas diarias con suero fisiológico. El equipo de Cirugía Cardiaca realizó, a las dos semanas de la primera intervención, un colgajo de epiplon para reparar el defecto, sin éxito. A los 2 meses del ingreso, la paciente todavía permanecía en la Unidad de Cuidados Intensivos (UCI) con soporte ventilatorio asistido, coma inducido por fármacos y había desarrollado una polineuropatía generalizada; exposición amplia del corazón, con apertura de la pleura en ambos hemitórax y herniación de un lóbulo pulmonar izquierdo con los movimientos respiratorios. Se decidió realizar reconstrucción mediante colgajo de dorsal ancho y material aloplástico (Gore-tex®) para reparar el defecto central y la herniación pulmonar. Se empleó para cubrir el defecto parte del colgajo de epiplón efectuado previamente. La paciente evolucionó favorablemente, el cuadro neurológico mejoró paulatinamente y fue trasladada a planta 18 días más tarde, para ser dada de alta a su domicilio al mes de la intervención. La paciente falleció 6 meses más tarde por neumonía que afectó al pulmón derecho.
+Remitido por: Dr. José María Lasso. Jefe de Sección de Microcirugía. Cirugía Plástica y Reparadora. Hospital Gregorio Marañón. Área 3400. Dr Esquerdo 46, 28007 Madrid. España.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="14" text="Sonia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="27" end="38" text="Pérez Gómez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="45" end="52" text="9645675" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="60" end="74" text="98 72568259 72" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="87" end="119" text="Calle profesor Waskman 14, 4 Izq" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="143" end="149" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="154" end="159" text="28014" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="203" end="213" text="21/08/1947" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="221" end="227" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="235" end="242" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="249" end="250" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="270" end="280" text="03/12/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T11" start="292" end="298" text="638744" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="308" end="324" text="José María Lasso" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="332" end="343" text="28 28 97462" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="368" end="373" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="377" end="384" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1834" end="1850" text="José María Lasso" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1916" end="1941" text="Hospital Gregorio Marañón" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1954" end="1968" text="Dr Esquerdo 46" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1970" end="1975" text="28007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1976" end="1982" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="1984" end="1990" text="España" TYPE="PAIS" comment=""/>
+  </TAGS>
+</MEDDOCAN>

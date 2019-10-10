@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Luis Miguel .
+Apellidos: Suárez Castro.
+NASS: 15 50201565 22.
+Domicilio: Avda. de los Empresarios 15, 1F.
+Localidad/ Provincia: Cádiz.
+CP: 11319.
+NHC: 76194955.
+Datos asistenciales.
+Fecha de nacimiento: 28/05/1992.
+País: España.
+Edad: 25 años  Sexo: Varón .
+Fecha de Ingreso: 03/06/2018.
+Especialidad: Urología.
+Médico: Manuel Soto Delgado NºCol: 11 11 26484.
+Antecedentes: sin antecedentes personales de interés.
+Historia Actual: Varón de 25 años de edad que consulta por tumoración en ambos testes de dos semanas de evolución.
+Exploración física:  Masa dura que ocupa más de la mitad del testículo izquierdo. Teste derecho aumentado de consistencia sobre todo en su parte posterior.
+Resumen de pruebas complementarias: Eco escrotal : Tumoración sólida de 37x21 mm, hipoecoica en teste derecho. Dos lesiones sólidas en teste izquierdo de 32x17 mm y de 7 mm de características ecográficas similares a las encontradas en teste derecho. Todo ello compatible compatible con neoplasia testicular bilateral multicéntrica. Varicocele izquierdo.
+Marcadores tumorales: AFP: normal; ß-HCG: 6,15 mUI/ml (valor normal: < de 2,5 mUI/ml); LDH: normal.
+Estudio de extensión (TAC toracoabdominopélvico): crecimientos adenopáticos a nivel retroperitoneal (N2) y lesiones metastásicas hepáticas (M1).
+Tratamiento quirúrgico: Orquiectomía radical bilateral por vía inguinal. El paciente desechó la posibilidad de colocar prótesis.
+Diagnóstico Principal: seminoma con elevado índice mitótico e invasión vascular (pT2) en ambos testes (seminoma anaplásico).
+Tratamiento: quimioterapia sistémica con el esquema etopósido y cisplatino (4 ciclos).
+Evolución: Actualmente, y tras 24 meses de seguimiento, hay negativización de marcadores tumorales con ausencia de adenopatías retroperitoneales y metástasis hepáticas (remisión completa).
+El paciente declinó la posibilidad de congelar el semen previo a la cirugía radical.
+Remitido por: Dr. Manuel Soto Delgado. Servicio de Urología. Hospital Puerto Real. Ctra. Nacional IV, Km 665. 11510 Puerto Real - Cádiz. Tel.: 956 005 000 E-mail: manuelsotocorreo@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="20" text="Luis Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="34" end="47" text="Suárez Castro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="55" end="69" text="15 50201565 22" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="82" end="113" text="Avda. de los Empresarios 15, 1F" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="137" end="142" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="148" end="153" text="11319" TYPE="TERRITORIO" comment=""/>
+    <ID id="T18" start="160" end="168" text="76194955" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="212" end="222" text="28/05/1992" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="230" end="236" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="244" end="251" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="259" end="264" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="285" end="295" text="03/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="329" end="348" text="Manuel Soto Delgado" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="356" end="367" text="11 11 26484" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="440" end="445" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="449" end="456" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1926" end="1945" text="Manuel Soto Delgado" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1969" end="1989" text="Hospital Puerto Real" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="1991" end="2016" text="Ctra. Nacional IV, Km 665" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2018" end="2023" text="11510" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2024" end="2035" text="Puerto Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2038" end="2043" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2051" end="2062" text="956 005 000" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="2071" end="2096" text="manuelsotocorreo@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

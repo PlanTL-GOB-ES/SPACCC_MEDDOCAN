@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Patricia.
+Apellidos: Allende Rodriguez.
+NHC: 9654757.
+NASS: 78 43567034 05 .
+Domicilio: Av. de la Alhambra, 12, 2, B.
+Localidad/ Provincia: Granada.
+CP: 18001.
+Datos asistenciales.
+Fecha de nacimiento: 13/01/1976.
+País: España .
+Edad:42 años Sexo: M.
+Fecha de Ingreso: 05/06/2018.
+Servicio: Cirugia Oral y Maxilofacial.
+Episodio: 7843034.
+Médico: Luis Miguel Capitán Cañadas  NºCol: 18 18 72150.
+Informe clínico del paciente: Paciente mujer de 42 años de edad, sin antecedentes personales de interés, que acude remitida por su médico de cabecera, a la consulta de Cirugía Oral y Maxilofacial del Hospital Universitario Virgen de las Nieves de Granada, por presentar múltiples lesiones de aspecto papilomatoso en labio superior de aproximadamente quince años de evolución, según refiere la paciente. En la exploración intraoral de la paciente se puede apreciar asimismo la presencia de lengua de aspecto escrotal. Bajo anestesia local y en dos tiempos quirúrgicos, se procede a la exéresis completa de las lesiones. El estudio anatomopatológico de las mismas tipifica las lesiones como fibropapilomas.
+Por el característico aspecto empedrado de las lesiones mucosas, acompañadas en la exploración sistémica de triquilemomas cutáneos en regiones acrales, el largo tiempo de evolución de las mismas y la presencia de antecedentes familiares directos (madre fallecida de neoplasia de tiroides a los 49 años con presencia del mismo tipo de lesiones en mucosa labial, hermana con patología mamaria no filiada e hija intervenida de carcinoma papilar de tiroides) se decide derivar a la paciente al Servicio de Ginecología para despistaje de patología neoplásica mamaria, dada la fuerte sospecha, entre los diagnósticos diferenciales propuestos, de encontrarnos frente a un síndrome de Cowden.
+En el Servicio de Ginecología de nuestro Hospital, la paciente es diagnosticada de patología fibroquística mamaria bilateral y de carcinoma ductal infiltrante grado GII de mama izquierda, que requiere tumorectomía más vaciamiento axilar homolateral y tratamiento complementario con quimio-radioterapia postoperatoria. Ante el diagnóstico clínico de genodermatosis de hamartomas múltiples (la paciente presenta una lesión patognomónica, un criterio mayor y tres criterios menores), se inicia un completo proceso de despistaje tumoral sistémico.
+La paciente es valorada en el Servicio de Digestivo, donde se detecta la presencia de pólipos asintomáticos en mucosa rectal y colónica subsidiarios de seguimiento clínico; posteriormente es remitida al Servicio de Endocrinología para valoración de aumento de tamaño progresivo del tiroides asociado a hipertiroidismo clínico. Tras descartar malignidad mediante estudio citohistológico, la paciente es intervenida por el Servicio de Cirugía Endocrina practicándosele tiroidectomía total. El resultado anatomopatológico concluyente diagnostica la lesión como bocio coloide multinodular.
+A los cinco meses de la cirugía tiroidea y tras la realización de una ecografía abdominopélvica de rutina, se detecta una masa en riñón derecho, que tras estudio con Tomografía Computerizada, presenta características radiológicas de malignidad. Derivada al Servicio de Urología, se decide practicar nefrectomía radical derecha más linfadenectomía supracava. El estudio histológico del espécimen quirúrgico diagnostica la lesión como carcinoma renal de células claras y granulares de componente fundamentalmente tubular. No precisa tratamientos complementarios postquirúrgicos.
+En la actualidad la paciente presenta disminución progresiva de agudeza visual no filiada en estudio por parte del Servicio de Oftalmología.
+Todos los procesos neoplásicos diagnosticados y tratados fueron detectados en estadios iniciales. Por el momento la paciente se encuentra en remisión completa de toda la patología tumoral diagnosticada y tratada. Pese a tener casi desde el principio un claro diagnóstico clínico, la paciente ha sido estudiada en el Centro Nacional de Investigaciones Oncológicas [Departamento de Genética Humana] confirmándose de manera definitiva que es portadora de la mutación c1093lnaGGAT en el gen PTEN, lo que ratifica el diagnóstico genético de Síndrome de Cowden. El estudio se ha ampliado al resto de familiares de primer grado para efectuar un adecuado despistaje e iniciar un estrecho seguimiento clínico en caso necesario.
+Remitido por: Dr. Luis Miguel Capitán Cañadas Servicio de Cirugía Oral y Maxilofacial Hospital Universitario Virgen de las Nieves. CRT. Carretera de Jaén s/n. Granada. España. E-mail: luismxf@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T31" start="29" end="37" text="Patricia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T30" start="50" end="67" text="Allende Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T29" start="74" end="81" text="9654757" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T28" start="89" end="103" text="78 43567034 05" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T27" start="117" end="145" text="Av. de la Alhambra, 12, 2, B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T26" start="169" end="176" text="Granada" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T25" start="182" end="187" text="18001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T24" start="231" end="241" text="13/01/1976" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T23" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T22" start="263" end="270" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T21" start="277" end="278" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T20" start="298" end="308" text="05/06/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T19" start="359" end="366" text="7843034" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T18" start="376" end="403" text="Luis Miguel Capitán Cañadas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T17" start="412" end="423" text="18 18 72150" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T16" start="464" end="469" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T15" start="473" end="480" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T14" start="625" end="668" text="Hospital Universitario Virgen de las Nieves" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T13" start="672" end="679" text="Granada" TYPE="TERRITORIO" comment=""/>
+    <OTHER id="T12" start="1377" end="1382" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="1424" end="1431" text="49 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="1491" end="1498" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="1534" end="1538" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T9" start="3979" end="4025" text="Centro Nacional de Investigaciones Oncológicas" TYPE="INSTITUCION" comment=""/>
+    <OTHER id="T1" start="4257" end="4283" text="familiares de primer grado" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="4400" end="4427" text="Luis Miguel Capitán Cañadas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="4468" end="4511" text="Hospital Universitario Virgen de las Nieves" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="4513" end="4539" text="CRT. Carretera de Jaén s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="4541" end="4548" text="Granada" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="4550" end="4556" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T4" start="4566" end="4585" text="luismxf@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

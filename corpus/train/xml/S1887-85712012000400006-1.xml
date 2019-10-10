@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Belen.
+Apellidos: Jarquin Henao.
+NHC: 9823574.
+NASS: 92 73784634 05.
+Domicilio: Av. de América 86, 7E.
+Localidad/ Provincia: Madrid.
+CP: 28042.
+Datos asistenciales.
+Fecha de nacimiento: 27/11/1959.
+País: España.
+Edad: 47 años Sexo: M.
+Fecha de Ingreso: 24/04/2007.
+Servicio: Cirugía General y Aparato Digestivo.
+Médico: Miguel García Oria NºCol: 28 28 95710.
+Motivo de ingreso: Mujer de 47 años que consulta en urgencias por un cuadro de 8 horas de evolución con dolor abdominal continuo y difuso, junto con vómitos, primero alimentarios y posteriormente biliosos. 
+Antecedentes: La paciente tiene únicamente como antecedentes personales, la realización de dos cesáreas. 
+Exploración física: En urgencias presenta una tensión arterial de 122/85 mmHg, una frecuencia cardíaca de 91 latidos por minuto y una temperatura axilar de 35.9 oC. La exploración abdominal revela una cicatriz de laparotomía media infraumbilical, la presencia de ruidos disminuidos, y dolor a la palpación de manera difusa sin claros signos de irritación peritoneal. No existen hernias inguinales o crurales.
+Pruebas complementarias: En el análisis de sangre destacan tan solo una glucemia de 122 mg/dL, una leucocitosis de 15.240 uL, junto con neutrofília del 93%, siendo el resto de parámetros normales. La radiografía simple de abdomen es compatible con suboclusión de intestino delgado, y colelitiasis. La TAC de urgencias revela la presencia de asas de intestino delgado dilatadas y sugiere la posibilidad de una torsión intestinal.
+Los hallazgos en las exploraciones complementarias, junto con el empeoramiento clínico de la paciente durante el periodo de observación y estudio, aumentando los vómitos y el dolor abdominal, así como apareciendo signos de irritación peritoneal en hemiabdomen inferior, hacen que se le proponga una laparoscópia exploradora. 
+Evolución y comentarios: La sospecha diagnóstica en ese momento es de oclusión intestinal por bridas, y el tiempo trancurrido desde el ingreso en urgencias, de 16 h.
+Bajo anestesia general se realiza laparoscópia exploradora, identificando en la pelvis de la paciente un asa de intestino delgado estrangulada y necrosada, este asa ocupa la derecha de la figura 3 (color morado/negro), la cual es una fotografía intraoperatoria directa del monitor de la cámara laparoscópica. La parte izquierda de esa imagen se corresponde con el ileon pre-herniario (de color rosa normal), entre ambas zonas de ileon está la trompa de Falopio derecha la cual está adherida a la pared abdominal anterior y bajo ella se extiende el ligamento ancho (no visible en la imagen) y que tendría el orificio a través del cual se produce la herniación, en la figura 4 el autor representa un dibujo esquemático para comprender mejor la anatomía de los hallazgos intraoperatorios. La gran dilatación de asas de intestino delgado, disminuye mucho el espacio de trabajo necesario para manipular el instrumental quirúrgico por laparoscópia. Ese hecho, junto con el riesgo de perforación al manipular el asa necrosada, así como la imposibilidad de identificar con seguridad las estructuras anatómicas, obligan a una reconversión a cirugía abierta. La reconversión se realiza mediante una laparotomía infraumbilical iterativa y se aprecia que la causa de la obstrucción y estrangulación del ileon, es una hernia interna a través de la hoja derecha del ligamento ancho del útero. Se procede a la reducción de la hernia, resección de 25 cm de ileon necrosado y reconstrucción con anastomosis termino-terminal manual. Sobre el orificio herniario se realiza el cierre con sutura continua de seda 0/0. El postoperatorio transcurre con normalidad y la paciente es dada de alta con buen estado clínico a los 11 días del ingreso. El control postoperatorio al mes es correcto.
+Remitido por: Dr. Miguel García Oria. Servicio de Cirugía General y Aparato Digestivo Hospital Central de la Defensa "Gómez Ulla" Glorieta del Ejercito s/n. 28047. Madrid mgarse4@oc.mde.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="29" end="34" text="Belen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="47" end="60" text="Jarquin Henao" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="67" end="74" text="9823574" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="82" end="96" text="92 73784634 05" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="109" end="130" text="Av. de América 86, 7E" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="154" end="160" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="166" end="171" text="28042" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="215" end="225" text="27/11/1959" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="233" end="239" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="247" end="254" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="261" end="262" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="282" end="292" text="24/04/2007" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="349" end="367" text="Miguel García Oria" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="375" end="386" text="28 28 95710" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="407" end="412" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="416" end="423" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3817" end="3835" text="Miguel García Oria" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3885" end="3928" text="Hospital Central de la Defensa &quot;Gómez Ulla&quot;" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3929" end="3954" text="Glorieta del Ejercito s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3956" end="3961" text="28047" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3963" end="3969" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3970" end="3987" text="mgarse4@oc.mde.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

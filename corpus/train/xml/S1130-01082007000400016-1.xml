@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Deborah.
+Apellidos: Tostado Recamal.
+NHC: 98076.
+NASS: 34 77890568 90.
+Domicilio: C/ Hita, 4 .
+Localidad/ Provincia: Alcalá de Henares.
+CP: 28805.
+Datos asistenciales.
+Fecha de nacimiento: 25/08/1943.
+País: España.
+Edad: 73 años Sexo: M.
+Fecha de Ingreso: 21/12/2016.
+Servicio: Urgencias.
+Médico: Isabel Baldor Tubet NºCol: 28 08 64731.
+Historia Actual: Mujer de 73 años que consulta por ictericia y síndrome constitucional de menos de 2 meses de evolución.
+En el Servicio de Urgencias se evidenció una gran hepatomegalia dolorosa y en las pruebas analíticas destacaba leucocitosis con neutrofilia y alteración mixta del perfil hepático de predominio colestásico (fosfatasa alcalina y GGT más de 10 veces el valor normal y ALT y AST menos de 3 veces el valor normal), sin insuficiencia hepática.
+A las 24 horas del ingreso comenzó con un cuadro confusional que evolucionó rápidamente al coma y fiebre mayor de 39 ºC. Se realizaron ecografía y TAC abdominales, objetivando múltiples lesiones hepáticas ocupantes de espacio, hipodensas, sólidas y que se distribuían en ambos lóbulos ocupando prácticamente todo el órgano, sugerentes de MTS. No se encontró ningún foco infeccioso, varios hemocultivos fueron estériles y, mediante TAC, se había descartado la presencia de lesiones cerebrales.
+Analíticamente se deterioró el perfil hepático presentando una importante elevación de transaminasas en el rango de hepatitis aguda (ALT y AST mayores de 20 veces el valor normal con importante aumento de la LDH) y datos de insuficiencia hepática con deterioro progresivo de la función renal.
+A pesar de tratamiento intensivo con medidas antiencefalopatía, drogas vasoactivas, antibióticos de amplio espectro a dosis elevadas (para cubrir como posible foco el SNC) y transfusión de plasma fresco congelado, la paciente falleció a los 5 días del ingreso como consecuencia de un fallo multiorgánico, sin llegar a establecerse la naturaleza de las lesiones hepáticas ni su origen debido a la rápida evolución. Por este motivo se realizó la autopsia clínica.
+En la necropsia se confirmó la existencia de MTS hepáticas extensas. El tumor primario fue un adenocarcinoma cecal de 3 x 2 cm de diámetro, estadio D de Dukes y IV de Astler-Coller. Presentaba infiltración de serosa y grasa perivascular e infiltración linfática y venular. MTS en ganglios locorregionales infradiafragmáticos y en parénquima pulmonar. Además se observaron lesiones de hepatitis isquémica asociada y colangiolitis y extensa autolisis pancreática y peripancreática.
+Remitido por: Dra. Isabel Baldor Tubet. Centro de Rehabilitación Psicosocial "Alcalá de Henares". C/ Pablo Coronel, 18. 28802 Alcalá de Henares. Telfs.: 918823884 / 918823984 / 619128686. Correo electrónico: ibaldor@telefonica.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="8" end="15" text="Deborah" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="28" end="43" text="Tostado Recamal" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="50" end="55" text="98076" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="63" end="77" text="34 77890568 90" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="90" end="100" text="C/ Hita, 4" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="125" end="142" text="Alcalá de Henares" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="148" end="153" text="28805" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="197" end="207" text="25/08/1943" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="215" end="221" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="229" end="236" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="243" end="244" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="264" end="274" text="21/12/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="305" end="324" text="Isabel Baldor Tubet" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="332" end="343" text="28 08 64731" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="362" end="367" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="371" end="378" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T10" start="2551" end="2570" text="Isabel Baldor Tubet" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="2572" end="2628" text="Centro de Rehabilitación Psicosocial &quot;Alcalá de Henares&quot;" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T7" start="2630" end="2650" text="C/ Pablo Coronel, 18" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="2652" end="2657" text="28802" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2658" end="2675" text="Alcalá de Henares" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T4" start="2685" end="2694" text="918823884" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T3" start="2697" end="2706" text="918823984" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T2" start="2709" end="2718" text="619128686" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="2740" end="2762" text="ibaldor@telefonica.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

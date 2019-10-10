@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Rosaura Nicole.
+Apellidos: Natalizzo Vauro.
+NHC: 077239875/89.
+Domicilio: Av. España 1324.
+Localidad/ Provincia: Mendoza.
+CP: 5500.
+Datos asistenciales.
+Fecha de nacimiento: 28/11/1979.
+País: Argentina.
+Edad: 38 años Sexo: Femenino.
+Fecha de Ingreso: 18/06/2018.
+Médico:  Arturo Jorge Castillo.
+Caso clínico: Paciente mujer, edad 38 años, diagnosticada de enfermedad celiaca con anticuerpos antitransglutaminasa 46 U (v.n. hasta 5) y biopsia duodenal compatible con enfermedad celiaca. Posteriormente presenta dos abortos espontáneos y un accidente isquémico transitorio cerebral. Actualmente cursa sexto mes de embarazo con anticuerpos anticardiolipina IgM 75 MPL/ml (v.n. hasta 20) y anticardiolipina IgG en valores normales. Estudio hematológico no evidenció otras alteraciones protrombóticas. Sigue tratamiento con heparina subcutánea y dieta libre de gluten.
+Remitido por: Arturo Jorge Castillo. C/ Videla Castillo, 1996. 5500 Mendoza, Argentina. e-mail: arturo.jorge@speedy.com.ar
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="9" end="23" text="Rosaura Nicole" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="36" end="51" text="Natalizzo Vauro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="58" end="70" text="077239875/89" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T17" start="83" end="98" text="Av. España 1324" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="122" end="129" text="Mendoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="135" end="139" text="5500" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="183" end="193" text="28/11/1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="201" end="210" text="Argentina" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="218" end="225" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="232" end="240" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="260" end="270" text="18/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="281" end="302" text="Arturo Jorge Castillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="327" end="332" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="339" end="346" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="887" end="908" text="Arturo Jorge Castillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="910" end="934" text="C/ Videla Castillo, 1996" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="936" end="940" text="5500" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="941" end="948" text="Mendoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="950" end="959" text="Argentina" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="969" end="995" text="arturo.jorge@speedy.com.ar" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

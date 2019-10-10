@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Eduardo.
+Apellidos: Gomez Martin.
+NHC: 7610828.
+NASS: 72 36478560 60.
+Domicilio: C/ Madrid, 129, 2, 1.
+Localidad/ Provincia: Málaga.
+CP: 29043.
+Datos asistenciales.
+Fecha de nacimiento: 29/05/1995.
+País de nacimiento: España.
+Edad: 20 años Sexo: H.
+Fecha de Ingreso: 11/11/2015.
+Médico: M.a Teresa González López NºCol: 29 29 57470.
+Informe clínico del paciente: Varón de 20 años, pescador, sin antecedentes médicos de interés que presenta dolor y tumefacción en el dedo índice de 2 días de evolución, tras punción con una espina de pescado. A la exploración se objetivan los cuatro signos de Kanavel (hinchazón simétrica y actitud en semiflexión del dedo, dolor a la palpación sobre el trayecto tendinoso flexor del segundo dedo y dolor con la extensión pasiva del dedo.
+Ecográficamente se observó un área hipoecogénica alrededor del tendón flexor del dedo índice y una marcada hipervascularización sinovial. En la exploración quirúrgica se evacuó una pequeña cantidad de pus dentro de la vaina sinovial mediante un drenaje con apertura de las poleas A1 y A5 y sistema de irrigación.
+Responsable clínico: M.a Teresa González López Servicio de Cirugía Cardiovascular. Hospital Regional Universitario Carlos Haya. Málaga. draglezlopez@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="35" text="Eduardo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="48" end="60" text="Gomez Martin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="67" end="74" text="7610828" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="82" end="96" text="72 36478560 60" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="109" end="129" text="C/ Madrid, 129, 2, 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="153" end="159" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="165" end="170" text="29043" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="214" end="224" text="29/05/1995" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="246" end="252" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="260" end="267" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="274" end="275" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="295" end="305" text="11/11/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="315" end="340" text="M.a Teresa González López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="348" end="359" text="29 29 57470" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="391" end="396" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="400" end="407" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <PROFESSION id="T5" start="409" end="417" text="pescador" TYPE="PROFESION" comment=""/>
+    <NAME id="T4" start="1134" end="1159" text="M.a Teresa González López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="1196" end="1239" text="Hospital Regional Universitario Carlos Haya" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T2" start="1241" end="1247" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1249" end="1273" text="draglezlopez@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

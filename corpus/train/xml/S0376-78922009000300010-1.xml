@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Ricardo.
+Apellidos: Dos Santos Riquelme.
+NHC: 690435.
+Domicilio: Av. Beira Mar, 2340.
+Localidad/ Provincia: Meireles, Fortaleza.
+CP: 60165-121.
+Datos asistenciales.
+Fecha de nacimiento: 31/03/2000.
+País: Brasil.
+Edad: 18 años Sexo: F.
+Fecha de Ingreso: 13/05/2018.
+Médico: Francisco de Assis Montenegro Cido Carvalho.
+Historia del paciente: Paciente de 18 años de edad que 5 meses antes había sido víctima de grave quemadura eléctrica por 13.800 voltios en la cara al intentar salvar a un compañero de trabajo. Presentaba una lesión extensa con pérdida de los dos labios y de la nariz. Gran retracción cicatricial perioral y de las áreas adyacentes que imposibilitaba la utilización de cualquier tipo de colgajo local para la reconstrucción de la zona. En la región nasal tenía pérdida de sustancia cutánea y del forro nasal, así como de parte de la cobertura cartilaginosa del dorso, punta, colmuela y alas nasales. Había sido sometido 4 meses antes a reconstrucción quirúrgica con colgajo frontal en otro Servicio, pero que evolucionó a necrosis.
+Se programó reconstrucción mediante colgajo bipediculado de región cervical anterior, descrito por Tsur (3), para la reconstrucción de los labios y un colgajo supratroclear derecho para la reconstrucción del forro nasal y otro izquierdo para la cobertura nasal.
+Se produjo un pérdida parcial del colgajo de cobertura supratroclear izquierdo y una pequeña pérdida parcial del colgajo supratroclear derecho para el forro nasal, que se observaron a los 3 días de postoperatorio. En el decimoquinto día se liberó uno de los pedículos del colgajo cervical y a los 30 días, se libero el otro, tras integración completa del colgajo al labio superior. A partir de aquí, se realizaron varios colgajos bajo anestesia local, cada 2 meses, para la reconstrucción del labio inferior, de la colmuela y de la punta nasal, y también se practicó adelgazamiento por desgrasamiento de los colgajos principales. En total, se practicaron 7 procedimientos complementarios.
+En la evolución apareció edema residual persistente del colgajo cervical, queloides y cicatrices hipertróficas en las zonas donantes que fueron tratados con corticoides intralesionales.
+La reconstrucción final, 2 años después de realizado el colgajo de Tsur, hizo posible crear una estructura de expresión emocional aunque con funcionalidad limitada; los retoques y refinamientos mejoraron el resultado final, logrando un aspecto estético y de continencia alimentaria satisfactorios, que agradaban suficientemente al paciente.
+En la actualidad, 4 años después de la cirugía inicial, no se han programado más tratamientos quirúrgicos.
+Remitido por: Dr. Francisco de Assis Montenegro Cido Carvalho. Rua Ana Bilhar, 44/ 202 - Meireles. Fortaleza - CE Brasil e-mail: drcidocarvalho@yahoo.com.br
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="9" end="16" text="Ricardo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="29" end="48" text="Dos Santos Riquelme" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="55" end="61" text="690435" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="74" end="93" text="Av. Beira Mar, 2340" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="117" end="125" text="Meireles" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="127" end="136" text="Fortaleza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="142" end="151" text="60165-121" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="195" end="205" text="31/03/2000" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="213" end="219" text="Brasil" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="227" end="234" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="241" end="242" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="262" end="272" text="13/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="282" end="325" text="Francisco de Assis Montenegro Cido Carvalho" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T8" start="362" end="369" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T7" start="554" end="593" text="pérdida de los dos labios y de la nariz" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2661" end="2704" text="Francisco de Assis Montenegro Cido Carvalho" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2706" end="2729" text="Rua Ana Bilhar, 44/ 202" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2732" end="2740" text="Meireles" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2742" end="2751" text="Fortaleza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2757" end="2763" text="Brasil" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2772" end="2799" text="drcidocarvalho@yahoo.com.br" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

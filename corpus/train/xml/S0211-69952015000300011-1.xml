@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Roberto.
+Apellidos: Santana Garcia.
+NHC: 6639584.
+NASS: 87 44263865 11.
+Domicilio: Calle fermin caballero 19, 5D.
+Localidad/ Provincia: Madrid.
+CP:28029.
+Datos asistenciales.
+Fecha de nacimiento: 13/01/1976.
+País: España.
+Edad: 40 años Sexo: Varón.
+Fecha de Ingreso: 19/09/2016.
+Episodio: 7833365.
+Médico:  NºCol: 28 28 18998.
+Historia Actual:  paciente que acude a urgencias por la aparición de edemas. 
+Antecedentes: familiar de madre con amiloidosis renal no filiada.
+El informe de la biopsia renal de la madre refiere resistencia al permanganato, lo que parece descartar amiloidosis AA, e induce a considerar, en el momento en el que se hizo el diagnóstico, la posibilidad de una amiloidosis AL. El paciente no recibe ningún tratamiento farmacológico
+Exploración física: A la exploración física destaca presión arterial de 135/75 mmHg y edemas bimaleolares, sin otros datos de interés. 
+Resumen de pruebas complementarias:Las pruebas de laboratorio confirman la presencia de síndrome nefrótico (albúmina sérica de 2,5 g/dl, colesterolemia de 275 mg/dl y proteinuria de 6 g/24 h), sin alteraciones en el sedimento y filtrado glomerular normal. El espectro electroforético en sangre y orina, el estudio inmunológico y la ecografía renal son normales. Se realiza biopsia renal, observándose 19 glomérulos con una estructura totalmente distorsionada por un depósito hialino en disposición nodular, con positividad para rojo Congo y tioflavina; los túbulos y los vasos no muestran alteraciones significativas, siendo el resultado compatible con amiloidosis. En el estudio sobre muestra en parafina se evidencia marcada positividad para proteína AP, que es una parte de la sustancia amiloide común en todos los tipos de amiloidosis, con negatividad para cadenas ligeras y proteínas AA, B2 microglobulina y transtirretina. Se realiza estudio complementario con anticuerpos frente a fibrinógeno y lisozima, resultando los depósitos de sustancia amiloide positivos para la cadena A alfa del fibrinógeno (Afib). Sin embargo, en el estudio genético no se encuentra ninguna mutación en el gen de la cadena Afib, y sí se demuestra una mutación previamente no descrita en el gen de la apolipoproteína AI (apo AI). Ante esta discrepancia se analiza la biopsia de la madre, que contiene depósito glomerular en la corteza y depósito masivo a nivel medular. El depósito a nivel medular no está descrito en la amiloidosis Afib, siendo muy característico de la apo AI. Se concluye que los primeros resultados de la inmunohistoquímica no son fiables por no haberse hecho en las condiciones adecuadas, confirmándose posteriormente mediante la misma técnica la presencia de apo AI.
+Se realiza estudio de extensión, con ecocardiograma y electromiograma, sin evidencia de afectación cardiaca ni neuropatía autonómica. 
+Evolución y comentarios: En la evolución se detecta un aumento progresivo de transaminasas, sugerente de afectación hepática. Estos resultados son concordantes con este tipo de amiloidosis familiar, con afectación preferentemente renal y hepática. A pesar de la normalidad inicial, la función renal se deteriora progresivamente hasta requerir terapia renal sustitutiva en un plazo de 2 años. El paciente recibe tratamiento con diálisis peritoneal durante 4 años, hasta que es intervenido realizándose trasplante renal de donante cadáver. Presenta un postoperatorio complicado con rotura esplénica, en el contexto de su enfermedad, con depósito de amiloide en bazo, siendo necesaria una esplenectomía urgente. Finalmente, el paciente es dado de alta en situación estable.
+Remitido por: Dr. Pablo Martínez-Miguel. Correo electrónico: pmmiguel@salud.madrid.org
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="8" end="15" text="Roberto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="28" end="42" text="Santana Garcia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="49" end="56" text="6639584" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="64" end="78" text="87 44263865 11" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="91" end="120" text="Calle fermin caballero 19, 5D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="144" end="150" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="155" end="160" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="204" end="214" text="13/01/1976" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="222" end="228" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="236" end="243" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="250" end="255" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="275" end="285" text="19/09/2016" TYPE="FECHAS" comment=""/>
+    <ID id="T7" start="297" end="304" text="7833365" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <ID id="T6" start="322" end="333" text="28 28 18998" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="439" end="444" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T4" start="516" end="521" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T3" start="2263" end="2268" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="3595" end="3616" text="Pablo Martínez-Miguel" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3638" end="3663" text="pmmiguel@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

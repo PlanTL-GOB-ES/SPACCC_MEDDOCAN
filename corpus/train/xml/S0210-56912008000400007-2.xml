@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Jedet.
+Apellidos: Sanchez Garcia.
+NHC: 7845123.
+NASS: 23 56487946 12.
+Domicilio: Carrer del Dr. Castany 28, 8A.
+Localidad/ Provincia: Girona.
+CP: 17002.
+Datos asistenciales.
+Fecha de nacimiento: 14/09/1986.
+País: España.
+Edad: 31 años Sexo: H.
+Fecha de Ingreso: 11/12/2017.
+Servicio: Medicina intensiva.
+Médico:Paula Ortiz Ballujera NºCol: 17 17 85236.
+Historia Actual: El paciente era un varón de 31 años de edad que sufrió un accidente de motocicleta. La radiografía de tórax mostraba un ensanchamiento mediastínico. La TACHT al ingreso mostró un seudoaneurisma de aorta torácica distal a la salida de la arteria subclavia izquierda con un importante hematoma periaórtico y mediastínico asociado con hemotórax bilateral.
+Ingresó en la UCI, donde se consiguió un control estricto de la tensión arterial. A las 8 horas del traumatismo se colocó una endoprótesis en la aorta torácica descendente por vía ilíaca izquierda. La arteria subclavia izquierda quedó parcialmente ocluida sin repercusión clínica. A las 24 horas fue dado de alta a planta y a la semana se le dio el alta hospitalaria, ya que estaba asintomático.
+Remitido por: Dirección para correspondencia: Dra. Paula Ortiz Ballujera. Servicio de Medicina Intensiva (UCI). Hospital Universitari de Girona Doctor Josep Trueta. Avda. de França, s/n. 17007 Girona. España. Correo electrónico: ballujera@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="8" end="13" text="Jedet" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="26" end="40" text="Sanchez Garcia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="47" end="54" text="7845123" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="62" end="76" text="23 56487946 12" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="89" end="118" text="Carrer del Dr. Castany 28, 8A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="142" end="148" text="Girona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="154" end="159" text="17002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="203" end="213" text="14/09/1986" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="221" end="227" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="235" end="242" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="249" end="250" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="270" end="280" text="11/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="319" end="340" text="Paula Ortiz Ballujera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="348" end="359" text="17 17 85236" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="397" end="402" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="406" end="413" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1178" end="1199" text="Paula Ortiz Ballujera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1239" end="1290" text="Hospital Universitari de Girona Doctor Josep Trueta" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1292" end="1312" text="Avda. de França, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1314" end="1319" text="17007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1320" end="1326" text="Girona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1328" end="1334" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1356" end="1377" text="ballujera@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

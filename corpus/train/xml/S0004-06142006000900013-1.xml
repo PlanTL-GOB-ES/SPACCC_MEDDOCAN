@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Sara.
+Apellidos: Garcia Perez.
+NHC: 2349857.
+NASS: 47 37850282 13.
+Domicilio: Calle Patricio Jimenez, 6, 3, B.
+Localidad/ Provincia: Madrid.
+CP: 28013.
+Datos asistenciales.
+Fecha de nacimiento: 21/05/1944.
+País: España.
+Edad: 73 años Sexo: M.
+Fecha de Ingreso: 11/11/2017.
+Servicio: Ginecologia.
+Médico:  NºCol: 28 28 20192.
+Informe clínico del paciente: paciente de 73 años de edad que acude a consulta ginecológica por metrorragia. A la exploración no se observa patología ginecológica y es derivada al servicio de urología para estudio. La paciente tiene antecedentes personales de histerectomía previa hace 20 años por leiomiomas, y acude a consulta de urología desde hace cuatro años por cuadro de dolor, hematuria e infecciones urinarias de repetición, habiéndose realizado en las primeras consultas estudio urológico que incluye citoscopia con biopsia múltiple con el resultado anatomopatológico de inflamación y displasia urotelial. Posteriormente ha seguido revisiones periódicas, incluyendo citologías y citoscopias de control con biopsia fría, sin evidencia de neoplasia.
+Al ser derivada por la consulta a ginecología, se realiza estudio ecográfico en el que se observa una imagen hipoecoica adyacente a la vejiga, aconsejándose TAC. En el TAC pélvico se describe una tumoración ovalada, de contornos bien definidos, de densidad partes blandas, ligeramente heterogénea, de unos 5 cm de diámetro máximo, localizada adyacente al margen anterior izquierdo de la vejiga sin comunicación con la luz vesical, presentando unos márgenes mal definidos con aparente infiltración de la grasa perivesical, y que en el margen anterior e inferior presenta una imagen lineal de densidad partes blandas que parece contactar con la pared abdominal.
+Con el diagnóstico de masa prevesical sospechosa de quiste desmoide o tumoración de uraco persistente, se procede a la intervención quirúrgica. Se practica incisión de laparotomía media con resección del proceso neoformativo prevesical asociada a cistectomía parcial.
+En el estudio macroscópico de la pieza se describe una formación ovalada de consistencia elástica que mide 8x4 cm, y que al corte parece corresponder a una formación quística llena de material grisáceo y friable. En el estudio microscópico se puede ver que la pared de dicha cavidad está constituida por tejido fibromuscular y partiendo de ella se observa una neoplasia papilar grado III de epitelio transicional, que presenta un crecimiento fundamentalmente exofítico hacia la luz del ducto, sin infiltrar la totalidad de la pared. El tumor infiltra la pared muscular de la vejiga, incluida en uno de los extremos de resección, sin alcanzar la mucosa, no observándose neoplasia urotelial en el epitelio de revestimiento vesical.
+La paciente cursa sin incidentes destacables tras la intervención, siendo dada de alta hospitalaria y permanece asintomática actualmente.
+Remitido por: Dra.C. Lara Bohórquez Servicio de Anatomía Patológica Hospital Infanta Elena. Madrid (España) E-mail: clarab@andaluciajunta.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="29" end="33" text="Sara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="46" end="58" text="Garcia Perez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="65" end="72" text="2349857" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="80" end="94" text="47 37850282 13" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="107" end="138" text="Calle Patricio Jimenez, 6, 3, B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="162" end="168" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="174" end="179" text="28013" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="223" end="233" text="21/05/1944" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="241" end="247" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="255" end="262" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="269" end="270" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="290" end="300" text="11/11/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T7" start="341" end="352" text="28 28 20192" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T6" start="396" end="403" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="2926" end="2943" text="C. Lara Bohórquez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2976" end="2998" text="Hospital Infanta Elena" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="3000" end="3006" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3008" end="3014" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3024" end="3048" text="clarab@andaluciajunta.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

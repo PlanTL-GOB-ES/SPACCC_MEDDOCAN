@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Diego.
+Apellidos: Moreno Alvarez.
+NHC: 2793857.
+NASS: 34 5647382945.
+Domicilio: Calle Sinesio Delgado, 35.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 19/05/1925.
+País: España.
+Edad: 90 años Sexo: H.
+Fecha de Ingreso: 31/08/2015.
+Servicio:Urologia.
+Médico: Ignacio Rubio Tortosa  NºCol: 28 28 34257.
+Informe clínico del paciente: Paciente de 90 años que acude a su Urólogo de zona por aumento progresivo de hemiescroto izquierdo, de aproximadamente 2-3 años de evolución, y posible interferencia sobre patrón miccional.
+El único antecedente personal a reseñar era la hipertensión arterial.
+La exploración física pone de manifiesto un hemiescroto izquierdo de tamaño muy grande, a tensión, con transiluminación positiva y en el que no se puede palpar el testículo. El testículo derecho, que está lateralizado por el tamaño del hemiescroto izquierdo, y su epidídimo no presentaban alteraciones en su exploración. El paciente presenta un buen estado general.
+Ante estos hallazgos exploratorios, se solicitó una ecografía-doppler que nos fue informada como hidrocele izquierdo de gran tamaño, testículo izquierdo heterogéneo con zonas con flujo doppler aumentado y múltiples calcificaciones, que sugería orquiepididimitis crónica. Testículo derecho sin alteraciones.
+Se decidió realizar orquiectomia izquierda vía inguinal y realizar también la cura quirúrgica del hidrocele, del que se evacuaron 700 ml. El aspecto macroscópico de la pieza nos fue informada como testículo ocupado en su totalidad por una tumoración de 8,7 x 6 cm que no infiltra la cápsula. La tumo-ración presenta áreas sólidas de color anaranjado junto con áreas microquísticas hemorrágicas. La tumoración no parece macroscópicamente alcanzar la cabeza del epidídimo ni la túnica vaginal. Histológicamente se trataba de un tumor de células de Leydig con criterios de malignidad (positividad para vicentina, focalmente para CK22 y AEI-AE3 y S-100, siendo negativo para PLAP, CD30, CD117, CD45, CD20 y cromogramina). Pleomorfismo nuclear, actividad mitótica, focos de necrosis, sin observarse embolización vascular. La tumoración infiltra de forma focal la cápsula sin rebasarla. Rete testis, epidídimo y albugínea no infiltrados.
+El estudio de extensión con Rx de tórax y TAC abdomino-pélvico fue negativo. Los marcadores tumorales presentaban valores dentro de la normalidad.
+A los 10 meses de la intervención, el paciente presenta un buen estado general con marcadores negativos y sin signos radiológicos de metástasis a distancia. Se desestimó la posibilidad de tratamientos complementarios por la edad del paciente y la excelente evolución.
+Remitido por: Dr. Ignacio Rubio Tortosa Servicio de Urología Hospital General Universitario Gregorio Marañón. Madrid. (España) e-mail: nachorutor@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="29" end="34" text="Diego" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="47" end="61" text="Moreno Alvarez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="68" end="75" text="2793857" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="83" end="96" text="34 5647382945" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="109" end="134" text="Calle Sinesio Delgado, 35" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="158" end="164" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="170" end="175" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="219" end="229" text="19/05/1925" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="237" end="243" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="251" end="258" text="90 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="265" end="266" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="286" end="296" text="31/08/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="325" end="346" text="Ignacio Rubio Tortosa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="355" end="366" text="28 28 34257" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T6" start="410" end="417" text="90 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="2696" end="2717" text="Ignacio Rubio Tortosa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2739" end="2786" text="Hospital General Universitario Gregorio Marañón" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="2788" end="2794" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2797" end="2803" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2813" end="2835" text="nachorutor@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

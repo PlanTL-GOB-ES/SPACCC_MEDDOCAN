@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Marisol.
+Apellidos: Jimenez Garcia .
+NHC: 3745648.
+NASS: 89 56206853 21.
+Domicilio: Calle Antonio Muñoz Molina, 27, 8 A.
+Localidad/ Provincia: Madrid.
+CP: 28042.
+Datos asistenciales.
+Fecha de nacimiento:06/02/1990.
+País de nacimiento: España.
+Edad: 26 años Sexo: M.
+Fecha de Ingreso: 13/05/2016.
+Médico: Adriana Echeverría Goche NºCol: 28 28 57890.
+Informe clínico del paciente: Mujer de 26 años diagnosticada a los 18 años de colitis ulcerosa sin precisar tratamiento. En octubre de 2002 presenta nuevos episodios de diarreas de 3-4 deposiciones/día con sangre roja. Anamnesis por aparatos sin alteraciones destacables. Al tacto rectal se aprecia lesión excrecente a unos 3-5 cm de margen anal. Serología VIH, lues, virus de Epstein-Barr y citomegalovirus negativas. Se practican varias colonoscopias que informan de formación rectal a 2-3 cm de ano ulcerada en su superficie (informe anatomopatológico de lesión ulcerada con signos de displasia en el epitelio recubierta de material fibrino-leucocitario, no concluyentes) por lo que se instaura tratamiento con medidas higiénico dietéticas, enemas de corticoides e incluso con supositorios de 5-ASA. Una nueva colonoscopia informa de pólipo mixto hiperplásico-adenoma tubular de recto por lo que se remite para intervención quirúrgica que es llevada a cabo en enero 2004 practicando resección transanal de la lesión siendo el informe anatomopatológico de inflamación crónica inespecífica.
+Tras volver a analizar la historia de la paciente dada la discordancia entre la clínica, la histología de la lesión así como su evolución en el tiempo, se deciden revisar todas las piezas de biopsia, por el mismo anatomopatólogo, no encontrando evidencia de adenoma velloso ni de enfermedad inflamatoria intestinal en ninguna de las muestras y conjuntamente con él, se llega al diagnóstico de "cap poliposis".
+Responsable clínico: Dra. Adriana Echeverría Goche. Correo electrónico: adriana.echevarria.g@upch.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="35" text="Marisol" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="48" end="62" text="Jimenez Garcia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="70" end="77" text="3745648" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="85" end="99" text="89 56206853 21" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="112" end="147" text="Calle Antonio Muñoz Molina, 27, 8 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="171" end="177" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="183" end="188" text="28042" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="231" end="241" text="06/02/1990" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="263" end="269" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="277" end="284" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="291" end="292" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="312" end="322" text="13/05/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="332" end="356" text="Adriana Echeverría Goche" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="364" end="375" text="28 28 57890" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="407" end="412" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="416" end="423" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="444" end="451" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="501" end="516" text="octubre de 2002" TYPE="FECHAS" comment=""/>
+    <DATE id="T11" start="1340" end="1350" text="enero 2004" TYPE="FECHAS" comment=""/>
+    <NAME id="T3" start="1905" end="1929" text="Adriana Echeverría Goche" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1951" end="1980" text="adriana.echevarria.g@upch.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

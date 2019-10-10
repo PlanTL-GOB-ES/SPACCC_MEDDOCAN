@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: Imanol .
+Apellidos: Gijon Rubio.
+NHC: 9567092.
+NASS: 89 56724677 40.
+Domicilio: Plaza de Roma, 95, 4 B.
+Localidad/ Provincia: Terrasa.
+CP: 08210.
+Datos asistenciales.
+Fecha de nacimiento: 15/08/1951.
+País de nacimiento: España.
+Edad: 62 años Sexo: H.
+Fecha de Ingreso: 21/12/2014.
+Médico: Pablo March López  NºCol: 08 08 57991.
+Informe clínico del paciente: Varón de 62 años con diabetes mellitus tipo 2 de larga evolución secundaria a pancreatitis crónica calcificada con tendencia a hipoglucemias debidas a la administración de insulina rápida, múltiples ingresos por cuadros infecciosos urinarios y deterioro funcional.
+Al ingreso padecía de abandono de la higiene personal con descontrol de los hábitos de eliminación, malnutrición, insuficiencia renal crónica, cetoacidosis diabética y una úlcera sacra grado III.
+El cultivo del exudado de la úlcera mostró que era positivo para PAMR y Staphylococcus aureus resistente a meticilina (SARM) y el antibiograma mostró que la PAMR era sensible únicamente a colistina (CMI < 2) e intermedio a amikacina (CMI = 16). El SARM era sensible a cotrimoxazol (CMI < 1/19) e intermedio a clindamicina (CMI = 1,9).
+Se inició tratamiento con crema de colistina 0,1% con una aplicación diaria en la cura y se administró cotrimoxazol 800/160 mg oral cada doce horas para el tratamiento del SARM. Tras un mes de tratamiento, se observó una evolución clínica favorable de la úlcera, con crecimiento de bordes y tejido de granulación, lo cual no se había observado previamente al tratamiento tópico.
+El paciente falleció debido a insuficiencia renal crónica agudizada por sepsis urinaria, motivo por el que no se pudo disponer de un cultivo posterior al tratamiento.
+Responsable clínico: Pablo March López Correo electrónico: pmarch@mutuaterrassa.es Correo postal: Servicio de Farmacia. Hospital Universitari Mutua Terrassa. Plaza Dr. Robert, 5. 080221 Terrassa (Barcelona). España.

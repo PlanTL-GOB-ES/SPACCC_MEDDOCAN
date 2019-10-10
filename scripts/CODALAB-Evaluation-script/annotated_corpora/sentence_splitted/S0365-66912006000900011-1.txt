@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Raúl.
+Apellidos: Tostado Redondo.
+NHC: 8347981.
+NASS: 65 34670562 01.
+Domicilio: C/ Recamal, 23, 1 F.
+Localidad/ Provincia: Alcalá Meco.
+CP: 28805.
+Datos asistenciales.
+Fecha de nacimiento: 29/05/1995.
+País de nacimiento: España.
+Edad: 13 años Sexo: H.
+Fecha de Ingreso: 16/08/2008.
+Médico: Mario Gorroño Echebarría  NºCol: 28 28 67052.
+Informe clínico del paciente: Un niño de 13 años fue remitido para evaluación después de sufrir un traumatismo ocular en su ojo izquierdo con un tirachinas. La agudeza visual era en ambos ojos, 20/20. El examen del ojo derecho fue normal y, en el ojo izquierdo, se observó un microhifema y una uveítis anterior. El examen de fondo de ojo bajo dilatación demostró en el ojo izquierdo hemorragias retinianas redondeadas ecuatoriales. Los valores de presión intraocular fueron normales (15 mmHg y 12 mmHg respectivamente). El paciente desarrolló una isquemia retiniana periférica inferior (demostrada por AFG) tres semanas después del traumatismo (en este momento el paciente refirió un escotoma periférico temporal superior) con el desarrollo posterior, doce meses más tarde, de neovascularización retiniana en el cuadrante nasal inferior. El estudio hematológico completo y las pruebas de coagulación sanguínea fueron normales. Asimismo, el resultado del test de enfermedad de células falciformes fue negativo. El microhifema y las hemorragias retinianas se resolvieron con tratamiento médico (sulfato de atropina 1% y corticoides tópicos, protección ocular durante una semana, reposo en cama los primeros cuatro días con reanudación gradual de la actividad, y restricción de salicilatos y de antiinflamatorios no esteroideos, administración oral de ácido aminocaproico). Debido a la resolución completa del microhifema en la primera semana y en ausencia de resangrado, no se llevaron a cabo estudios adicionales de trastornos de la coagulación menos frecuentes, tales como déficit de factores VIII y XI o déficit de vitamina K. La isquemia retiniana fue tratada con fotocoagulación con láser de argón. Después de 15 meses de seguimiento, su agudeza visual final permanece en 20/20 sin otras complicaciones oculares.
+Responsable clínico: Dr. Mario Gorroño Echebarría Hospital Universitario Príncipe de Asturias Servicio de Oftalmología Ctra. Alcalá Meco, s/n 28805 Alcalá de Henares (Madrid) España E-mail: mbgech@yahoo.es

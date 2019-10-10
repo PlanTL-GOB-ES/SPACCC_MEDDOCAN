@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Julia.
+Apellidos: Vergara Labrandero.
+NHC: 5896749.
+NASS: 73 85630560 12.
+Domicilio: Calle del Alcalde Francisco Santero, 3, 1, B.
+Localidad/ Provincia: A coruña .
+CP: 15679.
+Datos asistenciales.
+Fecha de nacimiento: 08/05/1962.
+País de nacimiento: España.
+Edad: 54 años Sexo: M.
+Fecha de Ingreso: 06/12/2016.
+Médico:Andrés Felipe Pineda Restrepo   NºCol: 15 15 48903.
+Historia Actual: Mujer de 54 años de edad, sin antecedentes médicos de interés, remitida a consulta de Cirugía Plástica por un cuadro de 2 meses de evolución que comenzó con dolor y parestesias en la pierna derecha. En las últimas semanas había empeorado, presentando el pie caído y dificultades para la marcha. La clínica de la paciente era sugestiva de neuropatía del nervio ciático derecho.
+Exploración física: En la exploración física evidenciamos un aumento de tamaño en la cara posterior del muslo derecho y palpamos una tumoración profunda, de gran tamaño, de consistencia blanda y dolorosa al tacto.
+La clínica y la exploración física de la paciente sugerían una neuropatía del nervio ciático probablemente debida a compresión extrínseca por tumoración.
+Pruebas complementarias: Realizamos los siguientes estudios complementarios para concretar el diagnóstico:
+• Resonancia nuclear magnética (RNM): en la profundidad del compartimento posterior de la mitad distal del muslo derecho se visualiza una masa con unos diámetros máximos de 14 x 9 x 5 cm (craneocaudal x transverso x anteroposterior) mayoritariamente con una señal similar al tejido graso, aunque presentando en su interior algunos septos e imágenes micronodulares con intensidad de señal intermedia en T1 y alta en STIR y T2-SPIR. Dicha masa desplaza posteriormente el nervio ciático, hallazgos que si bien podrían estar en relación con un lipoma, sugieren también la necesidad de descartar un liposarcoma de bajo grado.
+• Electromiografía (EMG): compatible con compresión del nervio ciático a nivel de tercio distal del muslo derecho.
+Dada la clínica de la paciente y el hallazgo de una tumoración en la RNM, se decide realizar tratamiento quirúrgico de la tumoración.
+Llevamos a cabo intervención quirúrgica bajo anestesia raquídea, realizando resección de la tumoración y liberación del nervio ciático en el nivel de la tumoración. La paciente no presentó ninguna complicación postquirúrgica.
+El estudio anatomopatológico de la pieza quirúrgica revela macroscópicamente una gran tumoración de aspecto lipomatoso, amarilla, redondeada, bien delimitada, de tamaño 12 x 10 x 4 cm y 266,7 gr. de peso, que no presenta al corte zonas hemorrágicas ni necróticas.
+Microscópicamente se trata de tejido adiposo maduro, separado en lóbulos por finos tractos fibrosos y numerosos vasos de pequeño calibre en la periferia. Las células adiposas no muestran atipias ni figuras de mitosis.
+Evolución: La evolución de la paciente fue satisfactoria, presentando disminución paulatina del dolor y de las parestesias y recuperación gradual de la fuerza muscular hasta la normalidad. Después de un seguimiento postoperatorio de 15 meses, la paciente se encuentra asintomática, sin parestesias, sin dolor, sin alteración en la marcha y sin datos de recidiva.
+Responsable clínico: Dr. Andrés Felipe Pineda Restrepo C/ Francisco Añón, no13, 3-A 15679 El Temple-Cambre A Coruña, España e-mail: andrespineda78@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="33" text="Julia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="46" end="64" text="Vergara Labrandero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="71" end="78" text="5896749" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="86" end="100" text="73 85630560 12" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="113" end="157" text="Calle del Alcalde Francisco Santero, 3, 1, B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="181" end="189" text="A coruña" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="196" end="201" text="15679" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="245" end="255" text="08/05/1962" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="277" end="283" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="291" end="298" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="305" end="306" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="326" end="336" text="06/12/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="345" end="374" text="Andrés Felipe Pineda Restrepo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="384" end="395" text="15 15 48903" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="414" end="419" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="423" end="430" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3232" end="3261" text="Andrés Felipe Pineda Restrepo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3262" end="3290" text="C/ Francisco Añón, no13, 3-A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3291" end="3296" text="15679" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3297" end="3313" text="El Temple-Cambre" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3314" end="3322" text="A Coruña" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="3324" end="3330" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="3339" end="3365" text="andrespineda78@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

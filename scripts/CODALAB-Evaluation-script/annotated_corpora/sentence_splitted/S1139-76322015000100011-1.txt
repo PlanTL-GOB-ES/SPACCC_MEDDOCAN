@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre:  Ian.
+Apellidos: Torres Jarama.
+NHC: 3024567.
+Domicilio: Calle Montevideo,66.
+Localidad/ Provincia: Madrid.
+CP: 28003.
+Datos asistenciales.
+Fecha de nacimiento:15/08/2012.
+País: España.
+Edad: 4 años Sexo: H.
+Fecha de Ingreso: 21/09/2015.
+Médico: María El Kadaoui Calvo   NºCol: 28 28 85020.
+Informe clínico del paciente: Varón de cuatro años que, de forma súbita, hace diez días presenta alteración del habla consistente en repetición de sílabas y prolongación de sonidos. No tiene otra sintomatología neurológica. Los padres lo relacionan con un traumatismo craneal sufrido el día previo al inicio del cuadro. Previamente su lenguaje era pausado y se consideraba como normal para su edad. Presentaba una adecuada adquisición de habilidades del lenguaje y otros hitos del neurodesarrollo hasta el momento actual.
+En la exploración, el paciente presenta un lenguaje coherente con repetición de fonemas en las frases y pausas prolongadas entre los mismos. La pronunciación es correcta pero el paciente tiene que esforzarse para controlarla. Organiza oraciones de tres o cuatro palabras sin problemas sintácticos. Muestra una adecuada comprensión oral. El resto de exploración neurológica normal.
+Ante estos datos se diagnostica de tartamudeo del desarrollo y se recomienda la valoración por un logopeda.
+Remitido por: Dra. María El Kadaoui Calvo mariolikc@hotmail.com

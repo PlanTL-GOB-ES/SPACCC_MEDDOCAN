@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Maria.
+Apellidos: García de Córdoba.
+NHC: 7168569.
+NASS: 22 97684351 85.
+Domicilio: Av. de la Vega de Aca 18, Bajo A .
+Localidad/ Provincia: Almería.
+CP: 04003.
+Datos asistenciales.
+Fecha de nacimiento:06/08/1971.
+País: España.
+Edad: 46 años Sexo: M.
+Fecha de Ingreso: 15/10/2016.
+Servicio: Nefrología.
+Médico: Adoración Martín-Gómez NºCol: 04 04 85721.
+Motivo de ingreso:dolor en teste izquierdo irradiado a flanco ipsilateral, sin fiebre ni síndrome miccional acompañante.
+Antecedentes: sin antecedentes de interés
+Exploración física: anodina, salvo hipertensión arterial.
+Resumen de pruebas complementarias: Eco renal y testículo-prostática sin hallazgos. Se aprecia deterioro de la función renal rápidamente progresivo (creatinina 9,79 mg/dl, 4,85 g/24 proteinuria sin sedimento activo) y anemización progresiva (Hb 8,1 g/dl, volumen corpuscular medio 88 fl, hemoglobina corpuscular media 31,1, concentración de hemoglobina corpuscular media 35,4). Estudio inmunológico (anticuerpos antinucleares, anticuerpos anticitoplasma de neutrófilo, anti-MBG, antiestreptolisina, factor reumatoide, C3-4), serología viral y marcadores tumorales, normales. Proteinograma-inmunofijación con banda monoclonal inmunoglobulina (Ig)A-kappa. IgG 317, IgA 1446, IgM 15 mg/dl, cadena ligera libre (CLL, nefelometría Free-Lite®) kappa 4090 ng/ml, lambda 1. Ácido úrico 10,8, LDH 269, calcio 10,2, albúmina 3,3, B2 microglobulina 23340. Perfil hepático, lipídico y resto de hemograma, normal. Se diagnostica anatomopatológicamente nefropatía por cilindros de cadenas ligeras kappa (CLL-K) y MM IgA-kappa estadio IIIB de Durie Salmon, iniciándose tratamiento con bortezomib-dexametasona, junto a terapia depurativa renal con filtro de alto cut-off Theralite® a días alternos.
+Evolución y comentarios: Durante los dos meses siguientes, la cifra sérica de IgA desciende progresiva y significativamente, no así la de CLL-K prediálisis, pero se decide en sesión clínica multidisciplinaria continuar con el tratamiento establecido según protocolo de Hematología y rebiopsiar el riñón para valorar la continuación de la terapia depuradora. En la rebiopsia se observan lesiones tubulointersticiales crónicas de intensidad leve-moderada, prescribiéndose 6 ciclos más de diálisis de alto cut-off.
+A los tres meses del diagnóstico, tras 4 ciclos de quimioterapia, se decreta ineficacia de bortezomib, sustituyéndose por lenalidomida ajustada a función renal. Debido a motivos económicos, se imposibilita la continuación de la terapia depuradora de CLL (habiendo recibido un total de 18 sesiones), permaneciendo el paciente en terapia renal sustitutiva con diálisis convencional de alto flujo. Se confirma eficacia de lenalidomida (Task Force, SWOG y EMBT), bajo la cual está el paciente a los tres años del diagnóstico, además del tratamiento renal sustitutivo.
+Remitido por: Adoración Martín-Gómez Unidad de Nefrología Hospital de Poniente Ctra. Málaga, 119 04700, El Ejido, Almería doritamg@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="9" end="14" text="Maria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="27" end="44" text="García de Córdoba" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="51" end="58" text="7168569" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="66" end="80" text="22 97684351 85" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="93" end="125" text="Av. de la Vega de Aca 18, Bajo A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="150" end="157" text="Almería" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="163" end="168" text="04003" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="211" end="221" text="06/08/1971" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="229" end="235" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="243" end="250" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="257" end="258" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="278" end="288" text="15/10/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="320" end="342" text="Adoración Martín-Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="350" end="361" text="04 04 85721" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <NAME id="T7" start="2857" end="2879" text="Adoración Martín-Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2901" end="2921" text="Hospital de Poniente" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2922" end="2939" text="Ctra. Málaga, 119" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2940" end="2945" text="04700" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2947" end="2955" text="El Ejido" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2957" end="2964" text="Almería" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2965" end="2983" text="doritamg@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

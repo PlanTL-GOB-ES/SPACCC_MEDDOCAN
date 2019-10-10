@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Rocio.
+Apellidos: Yurena Valdez.
+NHC: 7348562.
+Domicilio:  Av. Mirasierra, 16,1 C.
+Localidad/ Provincia: Madrid.
+CP: 45023.
+Datos asistenciales.
+Fecha de nacimiento: 25/10/2005.
+País: España.
+Edad: 9 años Sexo: F.
+Fecha de Ingreso: 13/01/2015.
+Médico: Rosa Blanco Cortés Marina NºCol: 45 45 10521.
+Informe clínico del paciente: Niña de 9 años, sin antecedentes patológicos de interés, que acude por presentar exantema pruriginoso, con lesiones pápulo-eritematosas de pequeño tamaño que en algunas zonas se hacen confluyentes, afectando palmas y plantas. No existía enantema y la paciente se encontraba afebril. Como antecedente refiere estar tomando amoxicilina desde hace 9 días por una neumonía en LII diagnosticada en el hospital de referencia.
+Como diagnóstico diferencial se plantea inicialmente con: infección por Micoplasma pneumoniae, exantema vírico (probable mononucleosis infecciosa), alergia medicamentosa a amoxicilina y toxicodermia.
+Ante el cuadro clínico de la paciente se decide suspender el tratamiento antibiótico, se le pauta un antihistamínico para calmar el prurito y se le solicita una analítica de sangre.
+Los resultados de la primera analítica fueron: VSG 31; Hb 14.1 g/dl; Hto 41; leucocitos 8.200 (N 44,7%; L 42,1%; M 9,3%; E 3,6%); plaquetas 564.000; GOT 91 U/L; GPT 220 U/L; ferritina 445; IgE 25,13 U/L; RAST a amoxicilina negativo; serología a Micoplasma pneumoniae IgG e IgM negativa.
+Tras esta primera analítica, toma más fuerza la posible etiología vírica, probablemente un síndrome mononucleósico, y a las 2 semanas se realiza una analítica de control con los siguientes resultados: GOT 130 U/L; GPT 363 U/L; GGT 310 U/L; fosfatasa alcalina 352 U/L; VSG 8; ferritina 138; Paul Bunnell negativo; serología hepatitis A, B y C negativas; serología toxoplasma IgG e IgM negativa; serología CMV IgG positiva e IgM negativa; serología VEB IgG positiva e IgM negativa.
+Llegados a este punto se decide repetir la analítica al mes ampliando el estudio y descartando las causas más frecuentes de transaminitis. Los resultados fueron: GOT 228 U/L; GPT 483U/L; GGT 257U/L; CPK 87 U/L; alfa-1-antripsina 147 mg/dl; ceruloplasmina 3,23 mg/dl (22-58); cobre en plasma 43 mcg/dl (80-160); anticuerpos antinucleares, anti-DNA, anti-LKM negativos; IgA antitransglutaminasa negativos; alfa-fetoproteína negativa; serología brucela negativa, serología parvovirus B19 negativa.
+Tras esta analítica la sospecha se centra en la enfermedad de Wilson. Para completar el estudio se solicita cobre en orina, siendo el resultado de 170 mcg/24 h (normal: 0-60) y ecografía hepática donde se visualiza leve esteatosis.
+Con la sospecha de enfermedad de Wilson, se envía a la unidad de hepatología pediátrica de hospital de referencia donde confirman el diagnóstico e inician tratamiento con D-penicilamina.
+Remitido por: Dra. Rosa Blanco Cortés Marina rosapediatria@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="29" end="34" text="Rocio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="47" end="60" text="Yurena Valdez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="67" end="74" text="7348562" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T14" start="88" end="110" text="Av. Mirasierra, 16,1 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="134" end="140" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="146" end="151" text="45023" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="195" end="205" text="25/10/2005" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="213" end="219" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="227" end="233" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="240" end="241" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="261" end="271" text="13/01/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="281" end="306" text="Rosa Blanco Cortés Marina" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="314" end="325" text="45 45 10521" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="357" end="361" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="365" end="371" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2859" end="2884" text="Rosa Blanco Cortés Marina" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2885" end="2910" text="rosapediatria@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Remedios.
+Apellidos: Betanco Peña.
+NHC: 9823673.
+NASS: 89 54296726 05.
+Domicilio: Calle Valdivieso, 32.
+Localidad/ Provincia: Madrid.
+CP: 28312.
+Datos asistenciales.
+Fecha de nacimiento: 19/01/1954.
+País de nacimiento: España.
+Edad: 60 años Sexo: M.
+Fecha de Ingreso: 31/08/2014 .
+Médico: Cristina Camañas Troyano  NºCol: 28 28 63391.
+Informe clínico del paciente: Mujer de 60 años diagnosticada en enero de 2010 de LMC BCR-ABL positivo. Desde el diagnóstico hasta abril de 2011 recibió tratamiento con imatinib 400mg/día con aceptable tolerancia (síntomas moderados de cansancio, dolor, quemazón e hinchazón en piernas, edemas en párpados y aparición de lesiones blanquecinas en lecho ungueal) y respuesta hematológica muy rápida observándose normalización del hemograma en una semana. En abril de 2011, ante la progresión de la señal molecular y la adquisición de la mutación Y253F en sangre periférica (SP) y médula ósea (MO), se sustituyó imatinib por dasatinib 100mg/día. La mutación Y253F confiere resistencia a imatinib, sensibilidad intermedia a nilotinib y sensibilidad a dasatinib. La paciente presentó buena tolerancia clínica durante el tratamiento con dasatinib, excepto por la aparición de un cuadro de tos persistente y astenia, alcanzando respuesta molecular mayor.
+Durante el tratamiento con dasatinib, Remedios desarrolló pancitopenia con infiltración blástica de la MO, realizándose el diagnóstico de crisis blástica linfoide y detectándose la mutación T315I en el dominio ABL cinasa.
+Una vez alcanzada remisión morfológica del cuadro de crisis blástica tras la administración de quimioterapia de inducción con vincristina, daunorrubicina, esteroides y profilaxis intratecal y dada la exposición previa a imatinib y dasatinib, el Servicio de Hematología decide iniciar tratamiento con ponatinib en septiembre de 2012. Inicialmente la dosis administrada fue de 45mg día, que tuvo que ser disminuida a 30mg al día por intolerancia clínica, fundamentalmente dolor osteomuscular, astenia y elevación de tensión arterial, que obligó al ajuste del tratamiento antihipertensivo.
+Actualmente, la paciente mantiene la respuesta hematológica y molecular completa con aceptable tolerancia. Ha sido valorada recientemente en la consulta de pretrasplante del Servicio de Hematología para posibilidad de consolidación con TPH alogénico de donante no emparentado, ya que no dispone de hermano HLA compatible.
+Responsable clínico:  Cristina Camañas Troyano E-mail: cristina.camanas@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="36" text="Remedios" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="49" end="61" text="Betanco Peña" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="68" end="75" text="9823673" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="83" end="97" text="89 54296726 05" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="110" end="130" text="Calle Valdivieso, 32" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="154" end="160" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="166" end="171" text="28312" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="215" end="225" text="19/01/1954" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="247" end="253" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="261" end="268" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="275" end="276" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="296" end="306" text="31/08/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="317" end="341" text="Cristina Camañas Troyano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="350" end="361" text="28 28 63391" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="393" end="398" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="402" end="409" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T6" start="427" end="440" text="enero de 2010" TYPE="FECHAS" comment=""/>
+    <DATE id="T5" start="493" end="506" text="abril de 2011" TYPE="FECHAS" comment=""/>
+    <DATE id="T4" start="818" end="831" text="abril de 2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T24" start="1348" end="1356" text="Remedios" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T3" start="1845" end="1863" text="septiembre de 2012" TYPE="FECHAS" comment=""/>
+    <OTHER id="T2" start="2417" end="2424" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2463" end="2487" text="Cristina Camañas Troyano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2496" end="2522" text="cristina.camanas@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

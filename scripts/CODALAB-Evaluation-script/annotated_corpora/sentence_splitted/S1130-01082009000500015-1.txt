@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Sandra .
+Apellidos: De la Cruz Lorenzo.
+NHC: 3478564.
+NASS: 78 43567091 65.
+Domicilio: C/ Santiesteban, 27, 3, A.
+Localidad/ Provincia: Madrid.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 08/11/1924.
+País de nacimiento: España.
+Edad: 92 años Sexo: M.
+Fecha de Ingreso: 03/03/2017.
+Médico: Miguel Jiménez Peñalba NºCol: 28 28 57894.
+Informe clínico del paciente: Mujer de 92 años de edad, sin alergias medicamentosas conocidas, con antecedentes personales de hipertensión arterial, diabetes mellitus tipo 2, fibrilación auricular crónica y enfermedad de Alzheimer. Está a cargo de su hija con quién vive en la calle embajadores, 23, 2 A de Madrid. Ingresó por vómitos en posos de café, epigastralgia y pérdida de de peso en el último mes. La exploración física era irrelevante.
+En la analítica destacaba: hemoglobina 7,1 g/dl, hematocrito 23,8%, VCM 77, leucocitos 11.940, VSG 40 mm. Glucosa 206 mg/dl. Hierro 28 ug/dl.
+Se realizó una endoscopia oral en la que se visualizó una gran hernia de hiato y en tercio distal esofágico una úlcera profunda de aproximadamente 2 cm de diámetro con abundante exudado blanquecino en el cráter. Se realizó una biopsia y citología de la lesión. La histología demostró mucosa escamosa esofágica y numerosos gránulos de sulfuro conteniendo abundantes hifas consistentes con actinomicosis.
+Se inició tratamiento con penicilina G intravenosa durante unos días y posteriormente dada de alta con penicilina oral. La paciente fue perdida en el seguimiento.
+Responsable clínico: Dr. Miguel Jiménez Peñalba. Correo electrónico: mijipeñ@hotmail.com

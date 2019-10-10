@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Alberto.
+Apellidos: Buenafuente Roussell.
+NHC: 786345.
+NASS: 07 64578654 76.
+Domicilio: Calle la Rosaleda 28, 5A.
+Localidad/ Provincia: Barcelona.
+CP:08219.
+Datos asistenciales.
+Fecha de nacimiento: 15/08/1981.
+País: España.
+Edad: 35 años Sexo: H.
+Fecha de Ingreso: 21/11/2016.
+Médico:Pere Sanz-Gallén  NºCol: 08 08 46123.
+Historia Actual: hombre de 35 años, que trabajaba en el mantenimiento de instalaciones eléctricas, acudió al Servicio Médico de Empresa para un reconocimiento rutinario. Se encontraba asintomático. Había sido fumador de 10 cigarrillos/día hasta hacía 8 años. No era consumidor de bebidas alcohólicas, no tenía hábitos tóxicos ni tomaba regularmente ningún medicamento. No refería antecedentes familiares de muerte súbita ni tenía antecedentes personales de síncopes, lipotimias, convulsiones, respiración nocturna agónica o palpitaciones. En el reconocimiento médico no se encontraron alteraciones en el examen físico ni en las exploraciones complementarias rutinarias, con excepción de su ECG basal.
+Evolución y comentarios: Ante la sospecha de un síndrome de Brugada fue remitido a la Unidad de Arritmias del Hospital Clínic de Barcelona. Tras valoración clínica y electrocardiográfica y después de realizar un test de flecainida, se realizó un diagnóstico de SB. Para completar la estratificación del riesgo, se procedió también a un estudio electrofisiológico el cual mostró intervalos A-H de 128 mseg y HV de 44 mseg. Se realizó un protocolo de estimulación ventricular, sin inducción de arritmias ventriculares sostenidas, por lo cual y en conjunto con los datos clínicos del paciente se concluyó que el SB era de bajo riesgo arrítmico. Se recomendó evitar los fármacos y drogas listados en la Tabla 1 y el tratamiento enérgico de cualquier cuadro febril ya que está demostrado que la fiebre puede desencadenar arritmias ventriculares en pacientes portadores de SB6, citándose también para un estudio genético. Seis meses después, el paciente continúa asintomático.
+Remitido por: Pere Sanz-Gallén. Ronda del General Mitre 39 08017 Barcelona. España. Tfno: 933203624 Fax: 933203631 e-mail: 17039psg@comb.cat
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="8" end="15" text="Alberto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="28" end="48" text="Buenafuente Roussell" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="55" end="61" text="786345" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="69" end="83" text="07 64578654 76" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="96" end="120" text="Calle la Rosaleda 28, 5A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="144" end="153" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="158" end="163" text="08219" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="207" end="217" text="15/08/1981" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="225" end="231" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="239" end="246" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="253" end="254" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="274" end="284" text="21/11/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="293" end="309" text="Pere Sanz-Gallén" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="318" end="329" text="08 08 46123" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T13" start="348" end="354" text="hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T15" start="358" end="365" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <PROFESSION id="T9" start="387" end="428" text="mantenimiento de instalaciones eléctricas" TYPE="PROFESION" comment=""/>
+    <LOCATION id="T8" start="1142" end="1170" text="Hospital Clínic de Barcelona" TYPE="HOSPITAL" comment=""/>
+    <NAME id="T11" start="2017" end="2033" text="Pere Sanz-Gallén" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T1" start="2035" end="2061" text="Ronda del General Mitre 39" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="2062" end="2067" text="08017" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T7" start="2068" end="2077" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="2079" end="2085" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T5" start="2093" end="2102" text="933203624" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T4" start="2108" end="2117" text="933203631" TYPE="NUMERO_FAX" comment=""/>
+    <CONTACT id="T3" start="2126" end="2143" text="17039psg@comb.cat" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

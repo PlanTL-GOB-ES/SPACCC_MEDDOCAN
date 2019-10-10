@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Santiago.
+Apellidos: Gonzalez Espinosa.
+NHC: 5867202.
+NASS: 74 856395349 39.
+Domicilio: C/ General Yagüe, 23, 4 D.
+Localidad/ Provincia: Madrid.
+CP: 28028.
+Datos asistenciales.
+Fecha de nacimiento: 19/06/1978.
+País de nacimiento: España.
+Edad: 38 años Sexo: H.
+Fecha de Ingreso: 17/10/2016.
+Médico: Elena Martín Pérez NºCol: 28 28 54710.
+Historia Actual: Varón de 38 años, con antecedentes de enfermedad de Crohn de 3 años de evolución e ingresado en dos ocasiones por episodios de obstrucción intestinal que fueron tratados médicamente sin necesidad de cirugía. Desde su última admisión, 6 meses antes, el paciente había permanecido asintomático y dos semanas antes del ingreso, el paciente consultó a su médico de cabecera por fiebre y diarrea y se pensó que padecía de una exacerbación de la enfermedad de Crohn recibiendo tratamiento con corticoides sin mejora objetivable. Ante la persistencia de la fiebre, acude a urgencias con escalofríos, vómitos, anorexia y dolor en hipocondrio derecho.
+Exploración física: A la exploración, el paciente estaba febril (39 °C) con mal estado general, y abdomen distendido y doloroso en hipocondrio derecho pero sin hepatomegalia. La exploración cardiopulmonar era normal. 
+Pruebas complementarias: En el hemograma se observó leucocitosis de 26.500/mm3 con desviación a la izquierda, hemoglobina de 10,6 g/l, hematocrito 36,3%, plaquetas 490.000 y velocidad de sedimentación de 50 mm/h. La bioquímica sérica demostró niveles normales de transaminasas y fosfatasa alcalina, creatinina y urea. La RX de tórax era normal. La TAC abdominal puso de manifiesto la existencia de múltiples abscesos en el lóbulo hepático derecho. No se identificaron otros abscesos abdominales ni alteraciones de la vesícula biliar, vía biliar ni páncreas. Se inició tratamiento intravenoso empírico con Gentamicina 80 mg cada 8 horas y Clindamicina 600 mg cada 8 horas. Antes del tratamiento definitivo del absceso se realizó un estudio detallado para identificar la causa del absceso hepático. En la colonoscopia, no se observaron alteraciones y la evaluación radiológica del intestino delgado reveló varias estenosis a nivel de yeyuno e íleon pero sin evidencia de fístulas u obstrucción intestinal.
+Evolución: El absceso hepático fue drenado bajo control ecográfico, tomándose muestras del contenido del absceso para cultivo donde creció Streptococcus milleri. Los hemocultivos fueron estériles. La antibioterapia intravenosa se continuó durante 6 semanas. El drenaje se mantuvo durante 21 días y se retiró cuando el drenaje fue mínimo. Su recuperación fue satisfactoria, y fue dado de alta una vez finalizado el tratamiento antibiótico. Una TAC abdominal realizada 4 meses después mostró colapso de las cavidades de los abscesos.
+Responsable clínico: Dra. Elena Martín Pérez. C/ San Raimundo, 38, 2º Dcha. 28039 Madrid
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="36" text="Santiago" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="49" end="66" text="Gonzalez Espinosa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="73" end="80" text="5867202" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="88" end="103" text="74 856395349 39" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="116" end="141" text="C/ General Yagüe, 23, 4 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="165" end="171" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="177" end="182" text="28028" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="226" end="236" text="19/06/1978" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="258" end="264" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="272" end="279" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="286" end="287" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="307" end="317" text="17/10/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="327" end="345" text="Elena Martín Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="353" end="364" text="28 28 54710" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="383" end="388" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T5" start="392" end="399" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="2806" end="2824" text="Elena Martín Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="2826" end="2854" text="C/ San Raimundo, 38, 2º Dcha" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="2856" end="2861" text="28039" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2862" end="2868" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Marc .
+Apellidos: Paul Ferrer.
+CIPA: nhc-7894132.
+NASS:34 76134598 42.
+Domicilio: Av. Litoral, 30, 4H.
+Localidad/ Provincia: Barcelona.
+CP: 08005 .
+NHC: 7894132.
+Datos asistenciales.
+Fecha de nacimiento: 15/06/1979.
+País: España.
+Edad: 38  Sexo: H.
+Fecha de Ingreso: 13/01/2018.
+Especialidad:UROLOGIA.
+Médico: Mauricio Valverde Prat NºCol: 08 08 16495.
+Motivo de ingreso: Vasectomia.
+Antecedentes: sin antecedentes de interés
+Historia Actual: Varón de 38 años de edad acude a la consulta de urología solicitando la realización de una vasectomía.
+Exploración física: La exploración física reveló un sujeto normoconstituido, con pene, testes y epidídimos de tamaño y consistencia normales. Se palpaba claramente el conducto deferente derecho. No ocurría así con conducto deferente izquierdo que no se lograba palpar dentro del cordón espermático. El tacto rectal resultó anodino. 
+Resumen de pruebas complementarias: Ante la sospecha de agenesia del conducto deferente se realizó una ecografía transrectal en la que no se visualizó la vesícula seminal izquierda. Una UIV reveló la ausencia completa del riñón izquierdo. Posteriormente, una RNM confirmó la ausencia de la vesícula seminal, del conducto deferente y del uréter izquierdos. El paciente fue programado para vasectomía que se realizó sin incidencias en el lado derecho. Los seminogramas de control realizados a los tres meses de la intervención revelaron una azoospermia completa confirmando la sospecha clínica de agenesia deferencial asociada a agenesia renal y de la vesícula seminal homolateral. Se aconsejó a los familiares de primer grado del paciente (dos hijos, hermano varón y sendos hijos de éste) la realización de un estudio ecográfico, ante la potencial transmisión con carácter autosómico dominante de la agenesia renal, constatándose la presencia de ambos riñones en todos ellos. El test del sudor en el paciente fue asimismo negativo.
+Remitido por: Dr. Mauricio Valverde Prat. Email: valverdmegias@hotmail.com Barcelona, España.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="13" text="Marc" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="27" end="38" text="Paul Ferrer" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="50" end="57" text="7894132" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T10" start="64" end="78" text="34 76134598 42" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="91" end="110" text="Av. Litoral, 30, 4H" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="134" end="143" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="149" end="154" text="08005" TYPE="TERRITORIO" comment=""/>
+    <ID id="T18" start="162" end="169" text="7894132" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="213" end="223" text="15/06/1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="231" end="237" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="245" end="247" text="38" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="255" end="256" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="276" end="286" text="13/01/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="319" end="341" text="Mauricio Valverde Prat" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="349" end="360" text="08 08 16495" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="452" end="457" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="461" end="468" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="1627" end="1636" text="dos hijos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="1638" end="1651" text="hermano varón" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T3" start="1661" end="1666" text="hijos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1937" end="1959" text="Mauricio Valverde Prat" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T6" start="1968" end="1993" text="valverdmegias@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T5" start="1994" end="2003" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2005" end="2011" text="España" TYPE="PAIS" comment=""/>
+  </TAGS>
+</MEDDOCAN>

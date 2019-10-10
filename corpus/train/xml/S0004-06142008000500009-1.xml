@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Teresa.
+Apellidos: Chamoy Torremocha.
+NHC: 3046589.
+NASS: 09 46857457 38.
+Domicilio: Paseo de Gil González, 18, 3, 1.
+Localidad/ Provincia: León.
+CP: 24006.
+Datos asistenciales.
+Fecha de nacimiento: 11/02/1972.
+País: España.
+Edad:  46 años Sexo: M.
+Fecha de Ingreso: 24/05/2018.
+Médico: Javier Casasola Chamorro NºCol: 24 24 58702.
+Informe clínico del paciente: Mujer de 46 años de edad, con antecedente de endometriosis ovárica, a quien se practicó una histerectomía abdominal con doble anexectomía por endometriosis 45 días antes de acudir a consulta, remitida por su ginecólogo por presentar desde el postoperatorio inmediato dolor continuo en región iliaca y sacra derecha que mejoraba con antiinflamatorios y por objetivarse en una ecografía abdominal una discreta ectasia renal. A la exploración la paciente presenta dolor y defensa a la palpación profunda de fosa lumbar derecha y dolorimiento a la percusión y palpación de fosa lumbar izquierda, sugestivo de patología retroperitoneal.
+Se realiza urografía intravenosa (UIV) y Tomografía computerizada (TAC) simultáneos, observándose riñón derecho funcionante con retraso en la captación y eliminación de contraste y borramiento de la línea de psoas derecho. En la TAC se objetiva imagen lobulada de contenido líquido y con aparente extravasación de contraste, estando el uréter incluido en dicha formación. Con el diagnóstico de urinoma por ligadura o sección del uréter derecho y tras estudio preoperatorio se realiza, vía iliaca, ureterolisis y exéresis del urinoma, con anastomosis termino-terminal del uréter tras refrescamiento de los bordes y liberación de ambos extremos. Se deja catéter doble J tutorizando el uréter que se retira al mes de la cirugía. La evolución de la paciente ha sido favorable sin complicaciones en el postoperatorio. En el control al año de la intervención se objetiva buena función renal con normalidad de la vía urinaria en UIV.
+Remitido por: Dr. Javier Casasola Chamorro. Av. Sto Toribio de Mogrovejo, 70 5º Iz. 24006 León (España). sguga66@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="29" end="35" text="Teresa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="48" end="65" text="Chamoy Torremocha" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="72" end="79" text="3046589" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="87" end="101" text="09 46857457 38" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="114" end="145" text="Paseo de Gil González, 18, 3, 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="169" end="173" text="León" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="179" end="184" text="24006" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="228" end="238" text="11/02/1972" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="246" end="252" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="261" end="268" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="275" end="276" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="296" end="306" text="24/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="316" end="340" text="Javier Casasola Chamorro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="348" end="359" text="24 24 58702" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="391" end="396" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="400" end="407" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1968" end="1992" text="Javier Casasola Chamorro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1994" end="2032" text="Av. Sto Toribio de Mogrovejo, 70 5º Iz" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2034" end="2039" text="24006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2040" end="2044" text="León" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2046" end="2052" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2055" end="2071" text="sguga66@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

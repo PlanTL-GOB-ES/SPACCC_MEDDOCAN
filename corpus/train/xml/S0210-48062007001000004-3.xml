@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Miguel.
+Apellidos: Orozca Bueno.
+CIP: nhc-794613864.
+Domicilio: Carrer de Genaro Lahuerta Pintor, 23.
+Localidad/provincia: Valencia.
+CP: 46005.
+NHC: 794613864.
+Datos asistenciales.
+Fecha de nacimiento: 15/09/1988.
+País: España.
+Edad: 29 años Sexo: Varón .
+Fecha de Ingreso: 23/11/2017.
+Especialidad: Urología.
+Médico: Jorge Planelles Gómez  NºCol: 46 46 79486.
+Antecedentes: Como antecedentes personales sólo destaca el ser alérgico a las Sulfamidas. No antecedentes urológicos de interés.
+Historia Actual: Paciente de 29 años que es remitido a nuestra consulta tras cuadro de dolor en teste derecho 3 meses atrás que remitió con tratamiento antiinflamatorio. Un mes después tuvo un nuevo cuadro de dolor en testículo derecho que fue diagnosticado de orquiepididimitis pero que no se resolvió con tratamiento médico.
+Exploración física: A la exploración física se palpa tumoración en polo posteroinferior de teste derecho indolora.
+Resumen de pruebas complementarias: Ante la sospecha de tumor testicular se le solicita una analítica completa sanguínea con marcadores tumorales y una ecografía testicular, siendo los resultados de AFP 36.4 ng/ml y una Beta-hCG 4.2 mUI/ml. En la ecografía se observa una tumoración de 23 mm en polo inferior de teste derecho de características no quísticas sospechosa de neoplasia.
+Evolución y comentarios: Se le interviene quirúrgicamente mediante una orquiectomía radical inguinal derecha cuya Anatomía Patológica informa de Tumor de Células Germinales mixto de 2 cm formado por Carcinoma Embrionario y focos de Teratoma. No invasión vascular ni linfática. Albugínea, cordón espermático y epidídimo libres de tumor.
+Al ser un Tumor Germinal No Seminomatoso en Estadio I, se decide de mutuo acuerdo con el paciente no recibir tratamiento adyuvante con quimioterapia y seguir un control observacional estricto.
+Al paciente se le realizan los controles periódicos según protocolo del nuestro hospital permaneciendo libre de enfermedad en las técnicas de imagen, clínica y analíticamente durante 7 años y medio hasta que en un estudio ultrasonográfico de control se le detecta microcalcificaciones en testículo izquierdo único con nódulo hipoecoico de 7 mm x 9 mm, también con calcificaciones y sin aumento de flujo Doppler que es compatible con tumor testicular. Además se observa un varicocele izquierdo.
+La exploración física resulta anodina, y los marcadores tumorales están dentro de la normalidad.
+Tras orquiectomía inguinal izquierda, la Anatomía Patológica informa de Seminoma de 0,5 cm que infiltra cápsula sobre testículo atrófico con extensa Neoplasia Intratubular de Células Germinales. No infiltración vascular ni linfática.
+Diagnóstico Principal: Tumor Germinal No Seminomatoso en Estadio I
+Tratamiento: Se completó el tratamiento con quimioterapia y tratamiento hormonal sustitutivo.
+Actualmente lleva 4 años libre de enfermedad.
+Remitido por: Dr. Jorge Planelles Gómez Servicio de Urología Hospital Universitario Doctor Peset. Avda. Gaspar Aguilar, 90 - 46017 Valencia Tel.: 963 862 500 E-mail: jorge_planelles@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="8" end="14" text="Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="27" end="39" text="Orozca Bueno" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="50" end="59" text="794613864" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="72" end="108" text="Carrer de Genaro Lahuerta Pintor, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="131" end="139" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="145" end="150" text="46005" TYPE="TERRITORIO" comment=""/>
+    <ID id="T17" start="157" end="166" text="794613864" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="210" end="220" text="15/09/1988" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="228" end="234" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="242" end="249" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="256" end="261" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="282" end="292" text="23/11/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="326" end="347" text="Jorge Planelles Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="356" end="367" text="46 46 79486" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T1" start="527" end="534" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="2902" end="2923" text="Jorge Planelles Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2945" end="2980" text="Hospital Universitario Doctor Peset" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="2982" end="3006" text="Avda. Gaspar Aguilar, 90" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3009" end="3014" text="46017" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3015" end="3023" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="3030" end="3041" text="963 862 500" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T2" start="3050" end="3074" text="jorge_planelles@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

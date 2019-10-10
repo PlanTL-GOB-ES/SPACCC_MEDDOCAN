@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Mariana  .
+Apellidos: Otero Lago.
+NHC: 9872357.
+Domicilio: Plaza de la Estación 14, 3A.
+Localidad/ Provincia: Tres Cantos, Madrid.
+CP: 28760.
+Datos asistenciales.
+Fecha de nacimiento: 14/12/2004.
+País: España.
+Edad: 13 años Sexo: M.
+Fecha de Ingreso: 05/01/2018.
+Servicio: Urgencias.
+Episodio: 38753082.
+Médico: Cristina Remón García NºCol: 28 28 57103.
+Motivo de ingreso: edema palpebral.
+Historia Actual: Paciente mujer de 13 años de edad, que consulta por edema palpebral bilateral de tres días de evolución. En la anamnesis posterior dirigida refiere cefalea acompañante con leve odinofagia, sin fiebre asociada. 
+Antecedentes: sin antecedentes personales de interés
+Exploración física: A la exploración física se objetiva dicho edema palpebral bilateral sin otra afectación ocular, no presenta edemas en otras localizaciones y sí hipertrofia amigdalar 2/4 sin exudados. En los días sucesivos vuelve a consultar hasta en tres ocasiones por persistencia y aumento del edema palpebral, sin aparición de otra sintomatología. 
+Resumen de pruebas complementarias: Se realizan tira reactiva de orina en varias ocasiones sin detectarse proteinuria y cultivo de exudado faríngeo que resulta negativo. Ante los hallazgos clínicos y la negatividad de las pruebas realizadas hasta el momento, se solicita estudio analítico con hemograma, bioquímica sanguínea, perfil hepático y sedimento de orina con resultados normales excepto leucocitosis (18 460/µl) con predominio linfocítico (61,8%) y aumento de transaminasas (GOT 139 UI/l, GPT 184 UI/l). A los diez días del inicio del cuadro se produce resolución del edema palpebral sin haberse evidenciado a lo largo de la evolución fiebre, adenopatías ni hepatoesplenomegalia. Se realiza control analítico a las tres semanas encontrando un hemograma sin alteraciones y descenso de las transaminasas hasta valores normales (GOT 22 UI/l, GPT 16 UI/l). Ante la sospecha de síndrome mononucleósico se solicita serología de VEB y citomegalovirus (CMV), obteniéndose IgM positiva frente a VEB lo que permite la confirmación diagnóstica.
+Remitido por: Cristina Remón García. Hospital de Cantoblanco. Carr. Vía de Servicio, Km 14.500, 28049 Madrid. Teléfono: 915 86 75 76. Email: cristina.remon@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="8" end="15" text="Mariana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="30" end="40" text="Otero Lago" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="47" end="54" text="9872357" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T21" start="67" end="94" text="Plaza de la Estación 14, 3A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="118" end="129" text="Tres Cantos" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="131" end="137" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="143" end="148" text="28760" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="192" end="202" text="14/12/2004" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="210" end="216" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="224" end="231" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="238" end="239" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="259" end="269" text="05/01/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T8" start="302" end="310" text="38753082" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="320" end="341" text="Cristina Remón García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="349" end="360" text="28 28 57103" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="424" end="429" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="433" end="440" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="2091" end="2112" text="Cristina Remón García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2114" end="2137" text="Hospital de Cantoblanco" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2139" end="2171" text="Carr. Vía de Servicio, Km 14.500" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2173" end="2178" text="28049" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2179" end="2185" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2197" end="2209" text="915 86 75 76" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="2218" end="2242" text="cristina.remon@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

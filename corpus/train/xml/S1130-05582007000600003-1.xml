@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[                                           Nombre:  Alvaro .
+                                           Apellidos: Fariñas Guijarro.
+                                           NHC: 27855.
+                                           NASS: 78 23745134 66.
+                                           Domicilio: Calle Marquez de Viana 72 Bajo 1.
+                                           Localidad/ Provincia: Madrid.
+                                           CP:28036.
+Datos asistenciales.
+Fecha de nacimiento: 30/03/1960.
+País: España.
+Edad: 58 años Sexo: H.
+Fecha de Ingreso: 27/04/2018.
+Médico: Pedro Luis Martos Díaz  NºCol: 28 28 54796.
+Informe Clínico: Paciente de 58 años de edad con antecedentes de trombosis venosa en MMII. Resto sin interés. Presentaba una lesión ulcerada a nivel de la mucosa yugal izquierda de aproximadamente 3 cm de diámetro mayor compatible con carcinoma epidermoide. Se palpaba a su vez una adenopatía de 2 cm de diámetro en nivel I cervical.
+Se realiza intervención quirúrgica, procediéndose a la resección de la lesión tumoral con margen de seguridad y disección cervical funcional unilateral. La reconstrucción del defecto se realiza mediante injerto braquial medial del brazo izquierdo.
+Como pedículo del colgajo se tomó la ACCS, que se anastomosó con la arteria facial, y el tronco venoso tirolinguofacial (TVTLF), que se unió a una de las venas concomitantes de la ACCS, al no refluir sangre por la vena basílica. La longitud del pedículo fue de unos 6 cm, el diámetro de la arteria, de 1,5 mm y el de la vena, de 1 mm.
+El defecto intraoral quedó cubierto en su totalidad, aportando además suficiente volumen, y el cierre de la piel del brazo se realizó de forma directa sin precisar la necesidad de un injerto libre.
+Se procedió al alta de la paciente a los 10 días de la intervención contemplándose la correcta viabilidad del injerto.
+Remitido por: Pedro Luis Martos Díaz. Hospital de la Princesa. Departamento de Cirugía Maxilofacial. C/ Diego de León N° 62, 28006, Madrid, España. Email: plmartos@mixmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="52" end="58" text="Alvaro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="115" end="131" text="Fariñas Guijarro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="181" end="186" text="27855" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="237" end="251" text="78 23745134 66" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="307" end="339" text="Calle Marquez de Viana 72 Bajo 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="406" end="412" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="460" end="465" text="28036" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="509" end="519" text="30/03/1960" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="527" end="533" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="541" end="548" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="555" end="556" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="576" end="586" text="27/04/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="596" end="618" text="Pedro Luis Martos Díaz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="627" end="638" text="28 28 54796" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T11" start="669" end="676" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1888" end="1910" text="Pedro Luis Martos Díaz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1912" end="1935" text="Hospital de la Princesa" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1975" end="1997" text="C/ Diego de León N° 62" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1999" end="2004" text="28006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2006" end="2012" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2014" end="2020" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2029" end="2049" text="plmartos@mixmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

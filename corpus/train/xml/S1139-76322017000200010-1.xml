@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Aina .
+Apellidos: Moya Martin.
+NHC: 5224564.
+Domicilio: Plaza del ayuntamiento 19, 4A.
+Localidad/ Provincia: Valencia.
+CP: 46002.
+Datos asistenciales.
+Fecha de nacimiento: 25/08/2011.
+País: España.
+Edad: 2 años Sexo: M.
+Fecha de Ingreso: 30/06/2013.
+Servicio: Urgencias.
+Episodio: 25465425.
+Médico:  Isabel Errasti Viader NºCol: 46 20 58491.
+Motivo de ingreso: Lesiones Cutáneas.
+Historia Actual: Niña de dos años y diez meses acude a urgencias por lesiones cutáneas en tronco y prurito generalizado de 12 horas de evolución. Afebril, sin otra sintomatología. Se diagnostica de urticaria aguda parainfecciosa y faringoamigdalitis de probable etiología viral.
+A las 36 horas de evolución regresa por progresión de la afectación cutánea, con lesiones eritematodescamativas pruriginosas en las regiones periocular y peribucal y en placas salpicadas en el tronco y los grandes pliegues, junto con zonas de sobreinfección y lesiones de rascado en el tronco. Persiste el exudado faríngeo, permanece afebril y refieren dolor al cogerla. Se diagnostica de brote de dermatitis atópica con sobreinfección iniciándose tratamiento con deflazacort oral.
+A las 72 horas de evolución acude nuevamente por empeoramiento de las lesiones, asociando febrícula, decaimiento y dolor a la palpación de la piel. 
+Antecedentes: dermatitis atópica 
+Exploración física: En la exploración física se observan lesiones eritematosas no confluentes en el tronco, valoradas como habonosas y evanescentes, así como la presencia de exudado amigdalar. El test rápido de estreptococo en faringe es negativo. 
+Pruebas complementarias: Hemograma con leucocitosis de 17500/mm3 sin neutrofilia (neutrófilos: 51%, linfocitos: 34,8%) y proteína C reactiva en 4,3 mg/l. Finalmente se diagnostica de síndrome de piel escaldada, se decide ingreso para su tratamiento antibiótico intravenoso con clindamicina y cloxacilina. Sobre las lesiones palpebrales y periorales se aplican fomentos con borato sódico al 2% y pomada antibiótica. Se aísla Staphylococcus aureus meticilin-sensible en el exudado conjuntival, faríngeo y en una lesión cutánea; el hemocultivo resulta estéril. 
+Evolución y comentarios: La paciente evoluciona favorablemente y es dada de alta a los seis días del ingreso.
+Diagnóstico Principal: Síndrome de piel escaldada
+Remitido por: Dra. Isabel Errasti Viader. Hospital Clínico Universitario de Valencia. C/ de Blasco Ibáñez, 17, 46010 València Correo electrónico: ierrasti.1@alumni.unav.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="32" text="Aina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="46" end="57" text="Moya Martin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="64" end="71" text="5224564" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="84" end="113" text="Plaza del ayuntamiento 19, 4A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="137" end="145" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="151" end="156" text="46002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="200" end="210" text="25/08/2011" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="218" end="224" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="232" end="238" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="245" end="246" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="266" end="276" text="30/06/2013" TYPE="FECHAS" comment=""/>
+    <ID id="T7" start="309" end="317" text="25465425" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T9" start="328" end="349" text="Isabel Errasti Viader" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="357" end="368" text="46 20 58491" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="425" end="429" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="433" end="454" text="dos años y diez meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2339" end="2360" text="Isabel Errasti Viader" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2362" end="2404" text="Hospital Clínico Universitario de Valencia" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2406" end="2429" text="C/ de Blasco Ibáñez, 17" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2431" end="2436" text="46010" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2437" end="2445" text="València" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2466" end="2491" text="ierrasti.1@alumni.unav.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

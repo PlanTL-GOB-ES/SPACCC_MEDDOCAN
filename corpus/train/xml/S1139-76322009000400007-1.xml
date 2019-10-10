@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Leire  .
+Apellidos: Santana Lobo.
+NHC: 9280347.
+Domicilio: Calle de Sinesio Delgado 44, 2C.
+Localidad/ Provincia: Madrid.
+CP: 28039.
+Datos asistenciales.
+Fecha de nacimiento: 30/03/2000.
+País: España.
+Edad: 15 años Sexo: M.
+Fecha de Ingreso: 27/08/2015.
+Médico: David Agüero Orgaz  NºCol: 28 28 74598.
+Motivo de ingreso: Lesión eritematosa en MMII.
+Historia Actual: Se trata de una paciente de 15 años que acude a consulta por la aparición insidiosa, 3-4 días anteriores, de unas lesiones eritematosas en la superficie pretibial de ambas piernas, de forma simétrica que han aumentado en número y tamaño y alguna ha comenzado a cambiar de color, pudiendo apreciar cierto color amarillento.
+La paciente refiere infección leve de vías aéreas superiores la semana anterior sin otra clínica. Niega ingesta de fármacos.
+Antecedentes: sin antecedentes familiares ni personales de interés
+Exploración física: A la exploración física no se objetiva fiebre. Tensión arterial de 110/70 mm Hg, frecuencia cardíaca: 60 latidos por minuto y auscultación cardiorrespiratoria normal.
+Las lesiones presentan aspecto de nódulos cutáneos eritematosos levemente hipertérmicos y dolorosos a la palpación, cuyo diámetro va de 1 a 3 cm en superficie pretibial sin observarse lesiones en otras localizaciones.
+Resumen de pruebas complementarias: Dado que la exploración física de la paciente es normal, se solicitan como pruebas complementarias, para llegar al diagnóstico etiológico: hematología, fórmula, recuento y VSG; bioquímica con pruebas de función hepática, renal y tiroides; proteinograma; calcio y fósforo; factor reumatoide, proteína C reactiva (PCR) y anticuerpos antinucleares (ANA). Todos los valores se encontraban dentro de la normalidad. También se solicita radiografía de tórax, sin hallazgos patológicos; Mantoux negativo; ASLO que fue negativo y serología virus de Epstein Barr (VEB), con IgG positiva, IgM negativa; test embarazo negativo.
+Evolución y comentarios: Pasados 15 días las lesiones prácticamente habían desaparecido. La biopsia dio el diagnóstico definitivo. Dados los resultados de las pruebas complementarias y la evolución de la paciente se etiquetó como eritema nodoso de etiología idiopática.
+Diagnóstico Principal: eritema nodoso de etiología idiopática
+Tratamiento: Se recomienda reposo a la paciente y analgesia con paracetamol o AINES, y es derivada al servicio de dermatología para la realización de biopsia de confirmación.
+Remitido por: Dr. David Agüero Orgaz. Hospital Universitario La Paz. Paseo de la Castellana, 261, 28046 Madrid. Correo electrónico: davidorgaz@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="8" end="13" text="Leire" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="28" end="40" text="Santana Lobo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="47" end="54" text="9280347" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T17" start="67" end="98" text="Calle de Sinesio Delgado 44, 2C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="122" end="128" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="134" end="139" text="28039" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="183" end="193" text="30/03/2000" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="201" end="207" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="215" end="222" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="229" end="230" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="250" end="260" text="27/08/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="270" end="288" text="David Agüero Orgaz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="297" end="308" text="28 28 74598" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T10" start="402" end="409" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2471" end="2489" text="David Agüero Orgaz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2491" end="2520" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2522" end="2549" text="Paseo de la Castellana, 261" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2551" end="2556" text="28046" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2557" end="2563" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2585" end="2607" text="davidorgaz@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

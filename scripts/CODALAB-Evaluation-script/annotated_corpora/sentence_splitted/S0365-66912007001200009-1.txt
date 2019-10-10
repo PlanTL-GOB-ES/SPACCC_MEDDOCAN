@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre:  Juan.
+Apellidos: Martinez Espinosa .
+NHC: 7613744.
+NASS: 01 28647825 16.
+Domicilio: C/ Laskorain, 2, 1A.
+Localidad/ Provincia:  Vitoria.
+CP: 01009.
+Datos asistenciales.
+Fecha de nacimiento: 11/02/1957.
+País de nacimiento: España.
+Edad: 57 años Sexo: H.
+Fecha de Ingreso: 16/10/2014.
+Médico: Gonzaga Garay Aramburu NºCol:20 20 54770.
+Informe clínico del paciente: Se estudió en nuestra consulta a un paciente varón de 57 años con antecedentes de diabetes mellitus tipo II, hipertensión y cardiopatía isquémica, por presentar retinopatía diabética proliferativa. Su agudeza visual era de 20/50 en el ojo derecho (OD) y de 20/25 en el izquierdo (OI). Previamente había sido tratado con panretinofotocoagulación con láser argón en ambos ojos, así como con vitrectomía pars plana y pelado de membrana limitante interna con inyección de triamcinolona intravítrea en OD debido a una hemorragia vítrea y edema macular difuso crónico. No se observaban membranas neovasculares residuales en el examen del fondo de ojo, pero si microaneurismas y hemorragias en el polo posterior de ambos ojos. En el ojo izquierdo, se observaban algunos AMIR en la zona temporal de la macula.
+Se realizó una angiografía fluoreseceínica usando 5 ml de fluoresceína sódica al 10%. Se observaron áreas isquémicas ecuatoriales y en el ojo izquierdo edema macular difuso y la AMIR, pero no se observaron membranas neovasculares. En este ojo y después de 8 minutos de angiograma, ocurrió un sangrado activo de la AMIR. El movimiento de los ojos dejó diferentes trazos de sangre en la cavidad vítrea. El sangrado fue breve y autolimitado, sin síntomas inicialmente. Poco después el paciente empezó a notar miodesospsias. Dos semanas más tarde, la hemorragia vítrea se resolvió sin consecuencias.
+Responsable clínico: Gonzaga Garay Aramburu Servicio de Oftalmología. Hospital de Txagorritxu C/. José Atxotegi, s/n 01009 Vitoria-Gasteiz España E-mail: ggaray@htxa.osakidetza.net

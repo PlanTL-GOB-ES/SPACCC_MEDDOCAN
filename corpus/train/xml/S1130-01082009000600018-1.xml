@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Samantha.
+Apellidos: Martinez de Pablo.
+NHC: 256456.
+NASS: 78 36455636 80.
+Domicilio: Av. del Mediterráneo, 310, 8B.
+Localidad/ Provincia: Almería.
+CP: 04009.
+Datos asistenciales.
+Fecha de nacimiento: 14/08/1967.
+País: España.
+Edad:47 años Sexo: M.
+Fecha de Ingreso: 27/01/2015.
+Médico: Teresa Benedito Pérez de Inestrosa NºCol: 04 04 21412.
+Informe Clínico: Mujer de 47 años de edad a la que, sin síntomas digestivos previos, se le detecta en una analítica de seguimiento de rutina por parte de su ginecólogo unos niveles de antígeno carcinoembrionario (CEA) de 20,2 ng/ml. Se realizan, entonces: a) una ecografía abdomino-pélvica que informa de la presencia de una masa de 6,5 x 5,6 cm de disposición retrouterina y que parecía depender del anejo derecho; b) una colonoscopia completa sin hallazgos; y c) una laparoscopia diagnóstica que objetiva la presencia de una masa dependiente de ciego, muy vascularizada y de superficie lisa blanquecina, con ambos anejos normales y un útero hipoplásico. Remitida a nuestro servicio se realizó una tomografía axial computerizada (TAC) de abdomen y pelvis que confirmó la existencia de una masa pélvica de aspecto quístico de 11 x 8 cm, anterosuperior respecto a la vejiga y próxima a íleon terminal, que se encontraba encapsulada y sin signos de infiltración de órganos vecinos, ascitis ni adenomegalias en proximidad. Se intervino de forma electiva describiéndose la presencia de un mucocele apendicular de 12 cm de diámetro mayor sin líquido libre ni implantes en peritoneo y realizándose una ileocolectomía derecha oncológica con anastomosis ileotransversa; el postoperatorio transcurrió sin incidencias, siendo alta la paciente en el 5º día postoperatorio.
+El estudio histopatológico de la pieza evidenció un apéndice ileocecal de 9 x 5,5 cm ocupado por material mucoide, siendo informado de "mucocele secundario a tumor mucinoso apendicular de potencial incierto de malignidad"; sin ser posible certificar el grado de invasión local por la calcificación parietal. Los ocho ganglios linfáticos que se aislaron de la pieza de resección estaban libres de neoplasia.
+Después de 3 años de seguimiento, la paciente está asintomática y sus marcadores tumorales y TAC más recientes son absolutamente normales.
+Remitido por: Teresa Benedito Pérez de Inestrosa. Avenida Pedro Muñoz Seca 43, Ático F Aguadulce. Almería Correo electrónico: teresa.benedito@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="9" end="17" text="Samantha" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="30" end="47" text="Martinez de Pablo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="54" end="60" text="256456" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="68" end="82" text="78 36455636 80" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="95" end="124" text="Av. del Mediterráneo, 310, 8B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="148" end="155" text="Almería" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="161" end="166" text="04009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="210" end="220" text="14/08/1967" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="228" end="234" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="241" end="248" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="255" end="256" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="276" end="286" text="27/01/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="296" end="330" text="Teresa Benedito Pérez de Inestrosa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="338" end="349" text="04 04 21412" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="368" end="373" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="377" end="384" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2273" end="2307" text="Teresa Benedito Pérez de Inestrosa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2309" end="2345" text="Avenida Pedro Muñoz Seca 43, Ático F" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2346" end="2355" text="Aguadulce" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2357" end="2364" text="Almería" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2385" end="2410" text="teresa.benedito@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

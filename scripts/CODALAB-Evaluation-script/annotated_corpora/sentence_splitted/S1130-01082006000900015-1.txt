@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Marisol.
+Apellidos: Jimenez Garcia .
+NHC: 3745648.
+NASS: 89 56206853 21.
+Domicilio: Calle Antonio Muñoz Molina, 27, 8 A.
+Localidad/ Provincia: Madrid.
+CP: 28042.
+Datos asistenciales.
+Fecha de nacimiento:06/02/1990.
+País de nacimiento: España.
+Edad: 26 años Sexo: M.
+Fecha de Ingreso: 13/05/2016.
+Médico: Adriana Echeverría Goche NºCol: 28 28 57890.
+Informe clínico del paciente: Mujer de 26 años diagnosticada a los 18 años de colitis ulcerosa sin precisar tratamiento. En octubre de 2002 presenta nuevos episodios de diarreas de 3-4 deposiciones/día con sangre roja. Anamnesis por aparatos sin alteraciones destacables. Al tacto rectal se aprecia lesión excrecente a unos 3-5 cm de margen anal. Serología VIH, lues, virus de Epstein-Barr y citomegalovirus negativas. Se practican varias colonoscopias que informan de formación rectal a 2-3 cm de ano ulcerada en su superficie (informe anatomopatológico de lesión ulcerada con signos de displasia en el epitelio recubierta de material fibrino-leucocitario, no concluyentes) por lo que se instaura tratamiento con medidas higiénico dietéticas, enemas de corticoides e incluso con supositorios de 5-ASA. Una nueva colonoscopia informa de pólipo mixto hiperplásico-adenoma tubular de recto por lo que se remite para intervención quirúrgica que es llevada a cabo en enero 2004 practicando resección transanal de la lesión siendo el informe anatomopatológico de inflamación crónica inespecífica.
+Tras volver a analizar la historia de la paciente dada la discordancia entre la clínica, la histología de la lesión así como su evolución en el tiempo, se deciden revisar todas las piezas de biopsia, por el mismo anatomopatólogo, no encontrando evidencia de adenoma velloso ni de enfermedad inflamatoria intestinal en ninguna de las muestras y conjuntamente con él, se llega al diagnóstico de "cap poliposis".
+Responsable clínico: Dra. Adriana Echeverría Goche. Correo electrónico: adriana.echevarria.g@upch.com

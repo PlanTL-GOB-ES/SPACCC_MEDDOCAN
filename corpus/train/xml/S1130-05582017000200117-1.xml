@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Paula.
+Apellidos: VIdal Miguel.
+NHC: 5637828.
+NASS: 47 47182936 46.
+Domicilio: Av. embajadores 23, 5D.
+Localidad/ Provincia: Madrid.
+CP: 28001.
+Datos asistenciales.
+Fecha de nacimiento: 05/03/1946.
+País: España.
+Edad: 70 años Sexo: M.
+Fecha de Ingreso: 28/09/2016.
+Servicio: Cirugia Plastica.
+Episodio: 85634542.
+Médico: Ignacio Aníbal Capdevilla  NºCol:28 28 12478.
+Historia Actual: Una mujer de 70 años, acudió a urgencias de otro hospital por un dolor intenso en labio inferior acompañado de tumefacción y edema en labio, mentón y zona submandibular que le había despertado repentinamente por la noche. Se trató inicialmente con corticoides iv y analgesia, y se remitió a su domicilio. Cuatro días más tarde, la paciente llegó a urgencias de nuestro hospital al describir que la lesión se le había vuelto «negruzca y amarillenta». La lesión no era dolorosa ni presentaba fiebre ni otros síntomas acompañantes. En el interrogatorio la paciente refirió haber visto arañas recientemente en su vivienda. Este cuadro se contextualizaba en una epidemia de picaduras por la araña Loxosceles reclusa en la misma zona geográfica. En los 15 días previos se habían diagnosticado 7 casos de picaduras en miembros superiores e inferiores en urgencias.
+Antecedentes personales y familiares: cáncer de mama operado  hace 14 años 
+Las dos abuelas de Paula tuvieron cáncer de mama.
+Exploración física: A la exploración se apreció una lesión única de unos 2 cm, de aspecto necrótico y bien delimitada, que ocupaba el tercio lateral de la piel, bermellón y comisura del hemilabio inferior izquierdo rodeada de un halo blanco y violáceo. Intraoralmente se observó en continuidad una lesión pálida en mucosa con signos de necrosis y exudado fibrinoso que no se desprendía al raspado.
+Resumen de pruebas complementarias: Se solicitaron pruebas de laboratorio, se tomó biopsia y se instauró tratamiento con amoxicilina/clavulánico vo. Ante la sospecha de picadura de araña, se consultó con el servicio de enfermedades infecciosas. Se realizó el diagnóstico diferencial con lesiones cutáneo-mucosas necróticas, como celulitis, vasculitis, úlceras diabéticas, insuficiencia vascular, reacciones medicamentosas, quemaduras térmicas o químicas, infecciosas o traumáticas, descartándose todas ellas. A los 7 días, bajo anestesia local se realizó un desbridamiento del tejido necrótico. La clínica sugerente y el contexto epidemiológico, junto con los resultados de laboratorio y anatomía patológica y el diagnóstico diferencial, llevó al diagnóstico probable. 
+Evolución: A los 2 meses, dada la escasa repercusión estética y funcional del defecto cicatricial, no fue necesaria la reconstrucción del labio.
+Remitido por: Dr. Ignacio Aníbal Capdevilla. Servicio de Cirugía Plástica Hospital Nuestra Señora del Rosario Madrid, España igcapdevila@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="14" text="Paula" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="27" end="39" text="VIdal Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="46" end="53" text="5637828" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="61" end="75" text="47 47182936 46" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="88" end="110" text="Av. embajadores 23, 5D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="134" end="140" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="146" end="151" text="28001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="195" end="205" text="05/03/1946" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="213" end="219" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="227" end="234" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="241" end="242" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="262" end="272" text="28/09/2016" TYPE="FECHAS" comment=""/>
+    <ID id="T6" start="312" end="320" text="85634542" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T8" start="330" end="355" text="Ignacio Aníbal Capdevilla" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="363" end="374" text="28 28 12478" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="397" end="402" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="406" end="413" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T23" start="1331" end="1342" text="dos abuelas" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="1346" end="1351" text="Paula" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2708" end="2733" text="Ignacio Aníbal Capdevilla" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2764" end="2799" text="Hospital Nuestra Señora del Rosario" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="2800" end="2806" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2808" end="2814" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2815" end="2836" text="igcapdevila@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

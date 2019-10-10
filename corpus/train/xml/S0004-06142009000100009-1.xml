@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Luis.
+Apellidos: Cárcamo Mendoza.
+NHC: 4346057.
+NASS:56 02347896 33.
+Domicilio: Calle Vinuesa, 66, 3A.
+Localidad/ Provincia: Bilbao.
+CP: 40400.
+Datos asistenciales.
+Fecha de nacimiento: 10/11/1959.
+País: España.
+Edad: 55 años Sexo: H.
+Fecha de Ingreso: 13/12/2015.
+Médico: Ivan Olano Grasa  NºCol: 40 40 59720.
+Historia Actual: Paciente varón de 44 años, entre cuyos antecedentes personales destaca traumatismo testicular en la infancia que no precisó cirugía. Acude por aumento del tamaño del hemiescroto derecho asociado a leves molestias testiculares desde hace 7 meses y la autopalpación de una masa paratesticular derecha.
+Exploración física: A la exploración física se aprecia un pene sin hallazgos de interés, un teste izquierdo de tamaño, movilidad y consistencia normal, y un hemiescroto derecho aumentado de tamaño con un teste normal y una estructura adyacente en el polo superior separada del teórico teste derecho, no indurada ni dolorosa al tacto.
+Resumen de pruebas complementarias: De cara a una primera aproximación al diagnóstico se solicitan marcadores tumorales germinales, con resultado normal, y una ecografía testicular que describe una estructura adyacente a teste derecho en su polo superior diferenciada del mismo, de menor tamaño y ecográficamente similar al teste, asociada a hidrocele derecho, con lo que la sospecha inicial es de poliorquidismo con hidrocele asociado.
+Se realiza además una TAC donde se objetivan dos estructuras en hemiescroto derecho de similar aspecto, una de ellas de menor tamaño respecto de la otra, sin otros hallazgos exploratorios de interés.
+Se realiza escrototomía exploratoria donde se objetiva un hidrocele derecho y dos estructuras relacionadas entre sí, compatibles con teste, compartiendo epidídimo y deferente. Se toma biopsia de la estructura de menor tamaño y se realiza eversión de la vaginal para solución del hidrocele. La anatomía patológica dió como resultado tejido testicular conservado sin signos de atrofia.
+Remitido por: Dr. Ivan Olano Grasa Apartado de Correos 20134 48080 Bilbao. (España). Correo Electronico: estufano@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="29" end="33" text="Luis" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="46" end="61" text="Cárcamo Mendoza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="68" end="75" text="4346057" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="82" end="96" text="56 02347896 33" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="109" end="130" text="Calle Vinuesa, 66, 3A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="154" end="160" text="Bilbao" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="166" end="171" text="40400" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="215" end="225" text="10/11/1959" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="233" end="239" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="247" end="254" text="55 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="261" end="262" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="282" end="292" text="13/12/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="302" end="318" text="Ivan Olano Grasa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="327" end="338" text="40 40 59720" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="366" end="371" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="375" end="382" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2030" end="2046" text="Ivan Olano Grasa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2047" end="2072" text="Apartado de Correos 20134" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2073" end="2078" text="48080" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2079" end="2085" text="Bilbao" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2088" end="2094" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2117" end="2137" text="estufano@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

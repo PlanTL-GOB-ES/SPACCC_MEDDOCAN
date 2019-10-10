@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Esteban.
+Apellidos: Franco Romero.
+NHC: 94646874.
+NASS: 25 38594235 54.
+Domicilio: Calle Gustavo Pittaluga, 6 .
+Localidad/ Provincia: Málaga.
+CP: 29130.
+Datos asistenciales.
+Fecha de nacimiento: 21/09/1975.
+País: España.
+Edad: 42 años Sexo: H.
+Fecha de Ingreso: 13/01/2018.
+Episodio:1520368541.
+Médico: Jose Miguel Mora Ordóñez NºCol: 29 29 78451.
+Antecedentes: bebedor de más de 100 g de etanol al día, sin otros antecedentes de interés.
+Historia Actual: Hombre de 42 años que refiere un cuadro de 3 días de evolución (coincidiendo con un aumento en la ingesta habitual de alcohol) de febrícula, ictericia, dolor abdominal en hipocondrio derecho y distensión abdominal.
+Exploración física: En la exploración física destaca: ictericia muco-cutánea franca, encefalopatía grado I y ascitis. No se aprecia aumento del hígado, ni del bazo. La auscultación cardiorrespiratoria era normal. 
+Resumen de pruebas complementarias:En la analítica de ingreso se obtuvieron los siguiente resultados: leucocitos 26.820 por µl (neutrófilos, 77%), actividad de protrombina 40%, creatinina plasmática 1,9 mg/dl; urea 91mg/dl; bilirrubina total 21mg/dl; AST 164 U/l; ALT 103 U/l; GGT 152 UI/dl. Marcadores virales hepáticos negativos. La radiografía de tórax mostró un infiltrado alveolar basal derecho y la ecografía abdominal un hígado pequeño, con ecogenicidad aumentada y estructura homogénea; vía biliar normal; vena porta permeable, esplenomegalia, abundante ascitis. En la tomografía axial computarizada (TAC) de abdomen se pudo apreciar un hígado pequeño de contorno lobulado.
+Evolución: Con el juicio clínico de hepatitis alcohólica aguda sobre hepatopatía crónica con criterios de gravedad y Maddrey score de 71 ingresa en el servicio de digestivo. Se instaura un tratamiento con corticoides, nutrición enteral y antibioterapia empírica. Al quinto día de estancia se observa una progresión de la encefalopatía hepática hasta grado III y fracaso renal agudo en el contexto de un síndrome hepatorrenal tipo I. En la analítica se aprecia un empeoramiento de la función renal con valores de creatinina plasmática de 4,19 mg/dl; urea 140 mg/dl y bilirrubina total de 35,3 mg/dl, persistiendo los valores elevados de transaminasas y la alteración en el tiempo de protromina.
+Se añade al tratamiento pentoxifilina, (como terapia anti-TNF), terlipresina y albúmina, (como tratamiento para el SHR tipo I) y MARS, previa solicitud de consentimiento informado.
+Realizamos 3 sesiones, a días alternos, con ingreso del paciente en la Unidad de Cuidados Intensivos (UCI) para cada sesión. La duración aproximada de cada sesión fue 12 horas o hasta la coagulación del filtro. Se utilizó acceso venoso femoral, usado exclusivamente para este fin. La técnica de reemplazo renal asociada fue HDF veno-venosa continua. La anticoagulación fue variable con epoprostenol sódico 5 ng/kg/minuto, con heparina Na 5U/kg/hora o con ambos. El enfermo estuvo hemodinámicamente estable durante las sesiones, sin incidencias destacables.
+Remitido por: Jose Miguel Mora Ordóñez. Avda. Andalucía, 146. Urbanización Pinos de Alhaurín. Alhaurín de la Torre. 29130 Málaga. España. Correo electrónico: jumo111975@hotmail.com.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="16" text="Esteban" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="29" end="42" text="Franco Romero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="49" end="57" text="94646874" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="65" end="79" text="25 38594235 54" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="92" end="118" text="Calle Gustavo Pittaluga, 6" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="143" end="149" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="155" end="160" text="29130" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="204" end="214" text="21/09/1975" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="222" end="228" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="236" end="243" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="250" end="251" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="271" end="281" text="13/01/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T12" start="292" end="302" text="1520368541" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T11" start="312" end="336" text="Jose Miguel Mora Ordóñez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="344" end="355" text="29 29 78451" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="465" end="471" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="475" end="482" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3022" end="3046" text="Jose Miguel Mora Ordóñez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3048" end="3100" text="Avda. Andalucía, 146. Urbanización Pinos de Alhaurín" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3102" end="3122" text="Alhaurín de la Torre" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3124" end="3129" text="29130" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3130" end="3136" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="3138" end="3144" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="3166" end="3188" text="jumo111975@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

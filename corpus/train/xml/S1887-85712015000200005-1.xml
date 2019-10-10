@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Saúl.
+Apellidos: Mendienta Sanabria.
+NHC: 7892365.
+Domicilio: Calle Ibiza 67, 5B.
+Localidad/ Provincia: Madrid.
+CP: 28008.
+Datos asistenciales.
+Fecha de nacimiento: 10/05/2010.
+País: España.
+Edad: 10 años Sexo: H.
+Fecha de Ingreso: 13/08/2015.
+Médico: Ramon Tambeck Arauz  NºCol: 28 28 57941.
+Informe clínico del paciente: Paciente varón de cinco años de edad que tras sufrir un atentado con explosivo improvisado (Improvised Explosive Device-IED) en un lugar público es evacuado sobre un centro asistencial local siendo diagnosticado en primera instancia de fractura diafisaria de fémur izquierdo. La fractura no es adecuadamente reducida y se inmoviliza con una férula suropédica. Se evacua sobre el segundo escalón quirúrgico militar español ROLE 2 de Herat, Afganistán para tratamiento definitivo.
+Tras constatarse la inaceptable reducción fractuaria, se decide la realización de un procedimiento quirúrgico de Ortopedia de Control del Daño que consiste en una reducción e inmovilización mediante fijación externa.
+En ausencia de varillas endomedulares elásticas tipo TENS o fijadores externos para la edad pediátrica se decide una fijación externa mediante un fijador externo de muñeca (utilizado como método de circunstancias) sobre diáfisis femoral izquierda.
+En quirófano y previa optimización anestésica se procede al tiempo quirúrgico que implica un desbridamiento de las partes blandas necróticas con lavado pulsátil profuso. Mediante escopia se confirma la presencia de una fractura de diáfisis femoral de trazo transverso e inestable. Se procede a reducción cerrada con control de escopia de la fractura, realizándose una técnica de fijación externa mediante implantación de un fijador externo Stryker™ TRIAX (Fijador externo de muñeca y pequeños fragmentos utilizado aquí como método de circunstancias) en configuración monoplano y monotubo. Dos pines proximales y dos pines distales y comprobación bajo escopia de la correcta colocación de los pines.
+Remitido por: Dr. Ramon Tambeck Arauz. Hospital Universitario de La Princesa  Calle de Diego de León, 62, 28006 Madrid. correo electronico: rtambar@oc.mde.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="29" end="33" text="Saúl" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="46" end="64" text="Mendienta Sanabria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="71" end="78" text="7892365" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T20" start="91" end="109" text="Calle Ibiza 67, 5B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="133" end="139" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="145" end="150" text="28008" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="194" end="204" text="10/05/2010" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="212" end="218" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="226" end="233" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="240" end="241" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="261" end="271" text="13/08/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="281" end="300" text="Ramon Tambeck Arauz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="309" end="320" text="28 28 57941" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="361" end="366" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="370" end="380" text="cinco años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T7" start="784" end="789" text="Herat" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="791" end="801" text="Afganistán" TYPE="PAIS" comment=""/>
+    <NAME id="T9" start="2013" end="2032" text="Ramon Tambeck Arauz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2034" end="2071" text="Hospital Universitario de La Princesa" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2073" end="2099" text="Calle de Diego de León, 62" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2101" end="2106" text="28006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2107" end="2113" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2135" end="2152" text="rtambar@oc.mde.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

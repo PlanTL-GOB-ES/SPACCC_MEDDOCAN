@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Mateo.
+Apellidos: Chamoy Lozano.
+NHC: 78435.
+NASS: 54 37456147 65.
+Domicilio: Ronda de Toledo, 21.
+Localidad/ Provincia: Ciudad Real.
+CP: 13003.
+Datos asistenciales.
+Fecha de nacimiento: 24/03/1975.
+País: España.
+Edad: 43 años Sexo: H.
+Fecha de Ingreso: 15/05/2018.
+Servicio: Urgencias.
+Episodio:364526.
+Médico: Mauricio José Oruezábal Moreno NºCol: 13 13 21412.
+Motivo de ingreso:dolor epigástrico.
+Historia Actual:Varón de 43 años acudió a Urgencias por presentar dolor epigástrico continuo de comienzo brusco acompañado de náuseas y mareo. Hábito intestinal normal. Refiere episodios similares de menor intensidad que relaciona con la ingesta y que cedían con el ayuno. Astenia y anorexia moderada, con pérdida de peso de unos 15 Kg en los tres últimos meses.
+Antecedentes: fumador activo de unos 15 cigarrillos al día
+Exploración física: A la exploración estaba afebril, TA 80/40, palidez cutáneo-mucosa y el abdomen era blando, depresible, sin defensa ni signos de irritación peritoneal, aunque doloroso a la palpación en epigastrio con peristaltismo discretamente aumentado. 
+Resumen de pruebas complementarias: En la analítica destacó un Ht° de 30% con una Hb de 11.1 g/dl siendo el resto normal. La radiografía de abdomen se informó como dilatación de asas yeyunales con niveles hidroaereos. La ecografía abdominal puso de manifiesto la presencia en el plano de corte sagital una imagen en "pseudoriñón o sandwich" y en el corte axial imagen en "diana, ojo de buey o donnuts". La capa interna era hiperecoica y la capa externa hipoecoica, sospechoso de invaginación intestinal. Se decidió intervención quirúrgica y tras la inducción anestésica se palpó una masa abdominal localizada en mesogastrio lisa y móvil. Se realizó una laparotomía supraumbilical, apreciandose una intususpección de un asa yeyunal que fue imposible de reducir, por lo que se procedió a resección segmentaria de 30 cm de yeyuno conteniendo una tumoración de 4 x 4 x 2,5 cm que se informó como carcinoma anaplásico, con fenotipo rabdoide que invadía toda la pared e infiltraba la capa subserosa. El estudio inmunohistoquímico mostró alta positividad para citoqueratinas AE-1/AE-3, citoqueratina 7, citoqueratinas 5/6/8/18 y vimentina. Fueron negativos la citoqueratina 20, y los marcadores CD-30, CD-31, actina, desmina, CD-117, MELAN-A/M arp-1 y TTF-1, lo cual orientaba a un origen pulmonar.
+La TC torax confirmó la presencia de una masa hiliar derecha de unos 4 cm, polilobulada y de contornos espiculados, que englobaba el bronquio lobar superior aunque sin estenosarlo significativamente. Se realizó un broncoscopia que destacó un engrosamiento de la carina en su separación con el bronquio lobar superior derecho, con tumoración endobronquial que impedía el paso del broncoscopio al segmento posterior. La biopsia confirmó el diagnóstico de un carcinoma indiferenciado con el mismo patrón inmunohistoquímico que la masa intestinal.
+Evolución y comentarios: El postoperatorio cursó sin complicaciones, siendo dada de alta en buena situación clínica. Posteriormente fue tratado con carboplatino AUC 5 día 1, y gemcitabina 1250 mg/m2/día dias 1 y 8, cada 21 días, con respuesta parcial tras el cuarto ciclo de quimioterapia. A los seis meses del diagnóstico ingreso por deterioro cognitivo progresivo secundario a múltiples metástasis cerebrales frontoparietales derechas, falleciendo quince días después.
+Remitido por: Dr. Mauricio José Oruezábal Moreno Sección Oncología Médica Hospital General La Mancha Centro C/ Constitución, 3 E-13600 Alcázar de San Juan (Ciudad Real) mauroo@sescam.jccm.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="14" text="Mateo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="27" end="40" text="Chamoy Lozano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="47" end="52" text="78435" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="60" end="74" text="54 37456147 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="87" end="106" text="Ronda de Toledo, 21" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="130" end="141" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="147" end="152" text="13003" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="196" end="206" text="24/03/1975" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="214" end="220" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="228" end="235" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="242" end="243" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="263" end="273" text="15/05/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T10" start="305" end="311" text="364526" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T9" start="321" end="351" text="Mauricio José Oruezábal Moreno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="359" end="370" text="13 13 21412" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="425" end="430" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="434" end="441" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3416" end="3446" text="Mauricio José Oruezábal Moreno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3472" end="3505" text="Hospital General La Mancha Centro" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3506" end="3524" text="C/ Constitución, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3525" end="3532" text="E-13600" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3533" end="3552" text="Alcázar de San Juan" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3554" end="3565" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3567" end="3588" text="mauroo@sescam.jccm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

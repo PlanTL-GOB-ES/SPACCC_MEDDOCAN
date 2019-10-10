@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Juliana.
+Apellidos: Chamoy Rivas.
+NHC: 4736093.
+NASS: 39 48762865 76.
+Domicilio: Calle del Ferrol, 2, 4 D.
+Localidad/ Provincia: Madrid.
+CP: 28035.
+Datos asistenciales.
+Fecha de nacimiento: 06/12/1943.
+País de nacimiento: España.
+Edad: 71 años Sexo: M.
+Fecha de Ingreso: 04/08/2015.
+Médico: Ana Vereas Martínez NºCol: 28 28 56870.
+Informe clínico del paciente: Mujer de 71 años con antecedentes de hipertensión arterial, trasplante renal y coledocolitiasis, que acude al Servicio de Urgencias por presentar un cuadro de 24 horas de evolución de fiebre, dolor abdominal más intenso en fosa iliaca izquierda, diarrea líquida sin productos patológicos y vómitos alimentarios ocasionales.
+A la exploración la paciente presentaba febrícula, hallándose hemodinámicamente estable, bien hidratada, eupneica y normocoloreada. El abdomen era blando y depresible, con dolor a la palpación profunda, sin clara focalización y sin signos de irritación peritoneal.
+Como pruebas complementarias se realizaron una analítica que mostraba discreta leucocitosis (10.200/μl) con una PCR de 2 mg/dl, neutrofilia, y una radiografía simple de abdomen que fue normal. Ante la sospecha diagnóstica de diverticulitis aguda, se realizó una tomografía computerizada abdominal donde se observaban algunos divertículos en intestino delgado, evidenciándose un divertículo en yeyuno de 16 mm, con signos inflamatorios y que presentaba un cuerpo extraño en su interior de alta densidad y morfología en "Y", sugiriendo como primera posibilidad diagnóstica un hueso de animal. Se observaba también adyacente al divertículo, una milimétrica burbuja de neumoperitoneo e inflamación de la grasa adyacente, siendo estos hallazgos compatibles con diverticulitis aguda perforada de intestino delgado con cuerpo extraño en el interior del divertículo.
+Con estos resultados y ante el aceptable estado general de la paciente, se ingresa en planta para tratamiento mediante reposo digestivo, antibioterapia de amplio espectro vía intravenosa (Imipenem 500 mg cada 6 horas) y observación. Durante la estancia la paciente mejora la fiebre pero persiste el dolor abdominal, por lo que se decide intervención quirúrgica programada.
+Durante la intervención se evidenciaron múltiples divertículos a nivel de yeyuno, uno de ellos con signos inflamatorios, pero sin abscesos intraabdominales. La vesícula biliar aparece distendida y el colédoco muestra un diámetro mayor de 1 cm. Se realizó resección intestinal con reconstrucción mediante anastomosis laterolateral, colecistectomía y exploración de vía biliar tras confirmación de coledocolitiasis mediante colangiografía, extrayendo el cálculo y dejando un drenaje de Kehr de 4 mm en colédoco.
+El postoperatorio inmediato transcurrió sin incidencias, reintroduciendo la dieta con buena tolerancia y tránsito digestivo. Se realizó una colangiografía trans-Kehr que evidenció ausencia de coledocolitiasis. El décimo día postoperatorio la paciente comenzó con un cuadro súbito de dolor abdominal, asociado a hipotensión y elevación de enzimas pancreáticas y fue trasladada al UCI con el diagnóstico de pancreatitis aguda moderada, falleciendo a las 24 horas como consecuencia de un fracaso multiorgánico.
+Responsable clínico: Ana Vereas Martínez. Correo electrónico: avereas@saludcastillayleon.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="35" text="Juliana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="48" end="60" text="Chamoy Rivas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="67" end="74" text="4736093" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="82" end="96" text="39 48762865 76" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="109" end="133" text="Calle del Ferrol, 2, 4 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="157" end="163" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="169" end="174" text="28035" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="218" end="228" text="06/12/1943" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T9" start="250" end="256" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="264" end="271" text="71 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="278" end="279" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="299" end="309" text="04/08/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="319" end="338" text="Ana Vereas Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="346" end="357" text="28 28 56870" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="389" end="394" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="398" end="405" text="71 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="3249" end="3268" text="Ana Vereas Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3290" end="3319" text="avereas@saludcastillayleon.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

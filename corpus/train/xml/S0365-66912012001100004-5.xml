@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Hellen.
+Apellidos: Rodriguez Betanco.
+NHC: 7263570.
+NASS: 23 76475650 25.
+Domicilio: Calle Pontevedra, 16.
+Localidad/ Provincia: Madrid.
+CP: 28315.
+Datos asistenciales.
+Fecha de nacimiento: 05/06/1990.
+País de nacimiento: España.
+Edad: 21 años Sexo: M.
+Fecha de Ingreso: 14/08/2011.
+Médico: Ana Duarte-González Escobar NºCol: 28 28.
+Informe clínico del paciente:Mujer de 21 años y portadora del gen de VHL, presenta un hemangioblastoma cerebeloso diagnosticado hace 2 años, cuando al romperse acudió a Urgencias en parada cardiorrespiratoria. En la exploración oftalmológica, se aprecia en OI un HCR temporal superior de ½ diámetro papilar de aspecto amarillento, con otro HCR satélite, que, al igual que uno yuxtapapilar de pequeño tamaño, no se aprecian en la funduscopia pero sí en la angiografía, dando una imagen sacular hiperfluorescente siendo el resto de la exploración oftalmológica normal en AO al igual que el OCT de mácula, con una AV de la unidad en ambos ojos.
+Responsable clínico: Dra. Ana Duarte-González Escobar Correo electrónico: anadupi83@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="28" end="34" text="Hellen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="47" end="64" text="Rodriguez Betanco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="71" end="78" text="7263570" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T14" start="86" end="100" text="23 76475650 25" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T13" start="113" end="133" text="Calle Pontevedra, 16" TYPE="CALLE" comment=""/>
+    <LOCATION id="T12" start="157" end="163" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T11" start="169" end="174" text="28315" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="218" end="228" text="05/06/1990" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T9" start="250" end="256" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="264" end="271" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="278" end="279" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T6" start="299" end="309" text="14/08/2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="319" end="346" text="Ana Duarte-González Escobar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="354" end="359" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T3" start="390" end="395" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T2" start="399" end="406" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T1" start="1029" end="1056" text="Ana Duarte-González Escobar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T18" start="1077" end="1098" text="anadupi83@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

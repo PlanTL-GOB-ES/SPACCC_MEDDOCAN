@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Tamara.
+Apellidos: Otegui Rovira.
+NHC: 3245789.
+Domicilio: Calle de Tudela, 9 Sótano A.
+Localidad/ Provincia: Pamplona.
+CP: 31002.
+Datos asistenciales.
+Fecha de nacimiento: 23/05/2016.
+País: España.
+Edad: 7 meses Sexo: M.
+Fecha de Ingreso: 29/12/2017.
+Servicio: Pediatria.
+Médico: Sergio Aguilera NºCol: 31 28 22564.
+Informe clínico del paciente: Lactante de sexo femenino que ingresó a los 7 meses de vida por presentar una crisis generalizada tónico-clónica breve, sin proceso infeccioso ni fiebre asociada, que se repitió con similares características a las 23 horas del primer episodio, estando ingresada. No se observó inicio focal de la crisis, con constantes vitales mantenidas, exploración física y neurológica posterior normal. Los padres no referían antecedentes personales a destacar, acudía a las revisiones periódicas de salud y su desarrollo psicomotor y estaturo-ponderal seguía un curso normal. A su ingreso se realizó hemograma, pruebas de función renal, hepática, reactantes de fase aguda, ecografía cerebral y electroencefalograma, con resultado normal. Ante la observación de una situación sociofamiliar conflictiva, se realizó la búsqueda de tóxicos en orina, que resultaron positivos para cocaína en dos muestras sucesivas. La primera muestra arrojó un nivel cuantificado de metabolitos de cocaína en orina de 1,7 µg/ml y la segunda, recogida pocas horas después, 0,4 µg/ml (punto de corte de nuestro laboratorio en 0,3 µg/ml), que se negativizaron a las 48 horas del ingreso. El padre es fumador habitual de cannabis, pero los familiares negaron el consumo de cocaína en su domicilio ni en su ambiente sociofamiliar cercano y apuntaron la posibilidad de contacto con humo ambiental en un local cerrado donde estuvieron horas antes del inicio de las crisis. Bajo vigilancia por la asistente social asignada desde el alta, la paciente no ha vuelto a presentar crisis en los siguientes seis meses y el desarrollo psicomotor sigue un curso normal.
+Remitido por: Sergio Aguilera. Servicio de Pediatría Hospital Virgen del Camino 31008 Pamplona
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="8" end="14" text="Tamara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="27" end="40" text="Otegui Rovira" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="47" end="54" text="3245789" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T20" start="67" end="94" text="Calle de Tudela, 9 Sótano A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="118" end="126" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="132" end="137" text="31002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="181" end="191" text="23/05/2016" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="199" end="205" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="213" end="220" text="7 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="227" end="228" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="248" end="258" text="29/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="289" end="304" text="Sergio Aguilera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="312" end="323" text="31 28 22564" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T1" start="355" end="363" text="Lactante" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="372" end="380" text="femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="399" end="406" text="7 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="749" end="755" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="1510" end="1515" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T5" start="1558" end="1568" text="familiares" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="1989" end="2004" text="Sergio Aguilera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2028" end="2054" text="Hospital Virgen del Camino" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="2055" end="2060" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2061" end="2069" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

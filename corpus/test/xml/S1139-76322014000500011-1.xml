@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Sara.
+Apellidos: Baeza Pisma.
+NHC: 4726839.
+Domicilio: Calle de Castilla y Leon, 23.
+Localidad/ Provincia: Madrid.
+CP: 28016.
+Datos asistenciales.
+Fecha de nacimiento: 21/01/2006.
+País: España.
+Edad: 6 años Sexo: M.
+Fecha de Ingreso: 14/02/2012.
+Médico: Carlos Vega Aponte  NºCol: 28 28 67012.
+Informe clínico del paciente: Presentamos una niña de seis años de edad que consultó en el centro de salud por gonalgia derecha sin signos inflamatorios ni antecedentes de traumatismos. Se trató con ibuprofeno y tres meses más tarde volvió a la consulta con dolor e inflamación del quinto metatarsiano del pie derecho, de carácter progresivo, que le limitaba la deambulación. Posteriormente apareció dolor e inflamación en el dorso de la mano derecha. Ninguno de los síntomas se acompañaba de procesos gripales previos, infección gastrointestinal ni clínica urinaria y en todo momento se encontró afebril. Una semana más tarde acudió a la consulta por persistencia de los síntomas e impotencia funcional para mantener la bipedestación.
+Sus antecedentes personales, familiares y embarazo no revestían interés clínico. Su desarrollo psicomotor era normal. La paciente presentaba un peso de 23,5 kg, talla de 122 cm, frecuencia cardiaca de 74 lpm y aceptable estado general. En la exploración se observó rodilla derecha con dolor, inflamación y movilidad limitada a la flexión por dolor a 90°, peloteo rotuliano e inflamación leve con dolor del quinto metacarpofalángico de la mano derecha, y pie derecho con aumento de la sensibilidad a la presión en la base del quinto metatarsiano e inflamación local con dolor, sin deformidad ni crepitación. Sin déficit vasculonervioso. La exploración por aparatos fue normal, no presentaba exantemas, adenopatías ni visceromegalias. Las radiografías en todo momento fueron normales.
+Analítica: leve trombocitosis (425 000/µl), sin leucocitosis ni neutrofilia, proteína C reactiva 13 mg/ml, velocidad de sedimentación globular 52, anticuerpos antinucleares (ANA) positivo a 1/160, factor reumatoide negativo, anti-DNA negativo.
+Se realizó artrocentesis (bioquímica y cultivo) obteniendo líquido inflamatorio con 5360 células/ml, glucosa 69 mg/dl, proteínas 5,4 g/dl y cultivo negativo.
+Se inició tratamiento con ibuprofeno en dosis de 200 mg cada ocho horas, en espera de ser valorada por el especialista, con una leve mejoría. Se solicitó valoración por Reumatología Pediátrica, que amplió la analítica, realizó estudio oftalmológico e inició tratamiento con deflazacort. La analítica ampliada ofreció resultados negativos para anticuerpos antipéptidos cíclicos citrulinados, ENA, HLA B27 y serología hepatitis B y C. Los resultados también fueron normales en las pruebas tiroideas, el uroanálisis y la coagulación.
+Un mes después, fue revisada por Reumatología Pediátrica y se le diagnosticó artritis de rodilla derecha ANA(+) y probable AIJ, a causa de la persistencia de la inflamación y el dolor en la rodilla y el tarso derechos. Se completó el estudio con ecografía de pie e infiltración con corticoides. La ecografía fue normal y presentó buena evolución tras la infiltración.
+Remitido por: Dr. Carlos Vega Aponte: maurovega8@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="29" end="33" text="Sara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="46" end="57" text="Baeza Pisma" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="64" end="71" text="4726839" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T14" start="84" end="112" text="Calle de Castilla y Leon, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="136" end="142" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="148" end="153" text="28016" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="197" end="207" text="21/01/2006" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="215" end="221" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="229" end="235" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="242" end="243" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="263" end="273" text="14/02/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="283" end="301" text="Carlos Vega Aponte" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="310" end="321" text="28 28 67012" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="369" end="373" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="377" end="386" text="seis años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="3161" end="3179" text="Carlos Vega Aponte" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3181" end="3203" text="maurovega8@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

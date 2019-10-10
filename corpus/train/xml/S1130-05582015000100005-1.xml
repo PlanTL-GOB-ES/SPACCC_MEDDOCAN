@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Esteban.
+Apellidos: Rubio López.
+NHC: 5785467 .
+NASS: 87 54690245 68.
+Domicilio: Calle Loren Puig 19.
+Localidad/ Provincia: Barcelona.
+CP: 08546.
+Datos asistenciales.
+Fecha de nacimiento: 15/05/1987.
+País: España.
+Edad: 30 años Sexo: H.
+Fecha de Ingreso: 03/11/2017.
+Médico: Pedro Veiga San Román NºCol: 08 08 45698.
+Informe médico del paciente: Un varón de 30 años de edad sufrió un accidente durante la carga de un fusil de pesca submarina en su casa. Se avisó a emergencias. Después del protocolo "A, B, C" el examen clínico del paciente mostraba únicamente una herida penetrante a nivel de la región submandibular.
+El tamaño aproximado del arpón era de 80 cm de largo y 1 cm de diámetro con un trayecto intracraneal de unos 15 cm. Los bomberos cortaron cuidadosamente el arpón para facilitar el traslado del paciente al hospital.
+El paciente estaba hemodinámicamente estable, alerta y orientado (Glasgow 15), sin déficit neurológico y sin sangrado activo. Presentaba coágulos de sangre en el canal auditivo izquierdo.
+No había salida de líquido cefalorraquídeo por la herida de entrada ni por el conducto auditivo externo. La radiografía lateral de cráneo mostraba la trayectoria, la dirección y la existencia de mecanismo de barba en el arpón. Se realizó un TAC de urgencia que ponía de manifiesto la dirección de la flecha. El orificio de entrada estaba en la región submaxilar izquierda y penetraba hasta el sifón carotideo del peñasco del hueso temporal izquierdo, pasando muy cerca del seno petroso. La aleta del arpón se encontraba a nivel del cóndilo mandibular izquierdo en su cara interna. Bajo anestesia general e intubación nasotraqueal, el paciente fue colocado en posición supina y posición neutra de la cabeza. La posición del arpón, adyacente al cóndilo mandibular izquierdo dificultaba la apertura oral. A pesar de ello, el acceso se realizó por vía intraoral a nivel de pilar amigdalino izquierdo. Se practicó una incisión de 4 cm. Por este abordaje se procedió a realizar una exposición del arpón a nivel del mecanismo de la aleta. Posteriormente se procedió a la inactivación del mecanismo barba del arpón mediante una ligadura con hilo de acero.
+Por último y bajo control intraoral, se extrajo el arpón en el sentido contrario a su entrada.
+No se observó salida de líquido cefalorraquídeo por la herida de entrada ni por el acceso intraoral. Se suturó entonces con vicryl 3/0 la herida intraoral y con vicryl 4/0 el subcutáneo, y con prolene 4/0 la herida submandibular.
+Inmediatamente después de la operación se le practicó un TAC de control en el que solo se observa un pequeño neumoencéfalo.
+El paciente se mantuvo en observación durante 24 horas sin mostrar focalidad neurológica. Posteriormente, pasó a planta y fue dado de alta en el día 3 postoperatorio sin ningún tipo de trastorno neurológico. No se reportaron complicaciones.
+Un mes más tarde, se le realizó una audiometría que ponía de manifiesto una pérdida de audición conductiva del 60% en el oído izquierdo.
+Actualmente el paciente lleva una vida normal y está únicamente a la espera de una prótesis auditiva.
+Responsable clínico: Pedro Veiga San Román Correo electrónico: pvsr74@hotmail.com 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="8" end="15" text="Esteban" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="28" end="39" text="Rubio López" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="46" end="53" text="5785467" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="62" end="76" text="87 54690245 68" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="89" end="108" text="Calle Loren Puig 19" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="132" end="141" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="147" end="152" text="08546" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="196" end="206" text="15/05/1987" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="214" end="220" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="228" end="235" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="242" end="243" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="263" end="273" text="03/11/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="283" end="304" text="Pedro Veiga San Román" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="312" end="323" text="08 08 45698" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="357" end="362" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="366" end="373" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T3" start="425" end="460" text="fusil de pesca submarina en su casa" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <PROFESSION id="T2" start="747" end="755" text="bomberos" TYPE="PROFESION" comment=""/>
+    <NAME id="T5" start="3128" end="3149" text="Pedro Veiga San Román" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3170" end="3188" text="pvsr74@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

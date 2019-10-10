@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Maria.
+Apellidos: Silgado Aguirre.
+NHC: 3271693.
+NASS: 47 20127532 83.
+Domicilio: Calle Nueva, 20.
+Localidad/ Provincia: Pamplona.
+CP: 31001.
+Datos asistenciales.
+Fecha de nacimiento: 10/04/1938.
+País: España.
+Edad:78  años Sexo: M.
+Fecha de Ingreso: 08/05/2016.
+Médico: Valentina Fernández Ladrón NºCol: 31 28 22745.
+Historia Actual: Paciente de 78 años con antecedentes de hipertensión arterial, diabetes mellitus tipo 2, osteoporosis y cólicos nefríticos de repetición que 6 días antes del ingreso comienza con cuadro de dolor en fosa renal derecha con irradiación a rodilla ipsilateral, que es tratado ambulatoriamente con dexametaxona, lidocaína, cianocobalamina y tiamina sin resolución. Posteriormente comienza con sensación distérmica con temperatura termometrada superior a 38ºC, mal estado general, sintomatología urinaria y descompensación glucémica, por lo que ingresa en hospitalización.
+Exploración física: En la exploración física destaca una marcada afectación del estado general, fiebre, dolor en área sacra con puño percusión bilateral negativa y rodillas con signos flogóticos.
+Resumen de pruebas complementarias: En la analítica se observa leve leucocitosis sin desviación izquierda (12.100x103/mm3 con N 65%), hiperbilirrubinemia de predominio directo (BT: 3,4 mg/dl, BD: 2,7mg/dl), fosfatasa alcalina 215 U/L (35-104). El resto de la analítica no presenta alteraciones significativas.
+Como exploraciones complementarias se realizan hemo y urocultivos, punción y cultivos de líquido articular, TAC de columna abdominal y lumbosacra, resonancia magnética de columna lumbar y gammagrafia con Ga-67/MDP-Tc-99.
+En la TAC de columna abdominal y lumbosacra se observan densidades aéreas en músculos lumbar y psoas derechos y en localización intraespinal y dorsal. Se visualiza también gas en canal óseo que podría corresponder a rotura disco L4-L5.
+En la resonancia magnética de la columna lumbar se confirman imágenes compatibles con abscesos en músculos paravertebrales y psoas derechos, y dos colecciones que sugieren abscesos epidurales localizadas en L4-L5 y en D12-L4. Se objetiva una alteración de la señal del cuerpo de D12 tras administración de gadolinio traducida en edema óseo compatible con espondilitis y probable espondilodiscitis.
+En el barrido corporal combinado con Ga-67/MDP-Tc-99M existe hiperfijación patológica de ambos trazadores en rodillas y hombros sugiriendo proceso inflamatorio-infeccioso así como captación de galio muy aumentada en L4-L5 y en partes blandas paravertebrales compatibles con espondilodiscitis con posible infección de partes blandas adyacentes.
+Al ingreso se comenzó tratamiento antibiótico empírico con ciprofloxacino, confirmando posteriormente en microbiología (cultivos de sangre, orina y liquido articular) la presencia de Escherichia coli, con similar antibiograma.
+Evolución y comentarios: Durante los primeros días de tratamiento, la paciente alcanza ligera mejoría de la sintomatología coincidiendo con la instauración de antibiótico y antitérmicos. Al 10º día de ingreso reaparece la fiebre y progresivo empeoramiento del estado general. Al 12º de ingreso la paciente presenta cuadro de fibrilación auricular con respuesta ventricular rápida y parada cardiorrespiratoria sin respuesta a maniobras de resucitación.
+El diagnóstico fue infección urinaria por E. coli complicada con artritis séptica poliarticular, espondilodiscitis, abscesos epidurales, psoas y musculatura dorso-lumbar.
+Remitido por: Valentina Fernández Ladrón. Servicio de Medicina Interna Hospital de Navarra C/Irunlarrea, 3 31008 Pamplona Navarra Tfno. 848 42 21 34
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="14" text="Maria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="27" end="42" text="Silgado Aguirre" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="49" end="56" text="3271693" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="64" end="78" text="47 20127532 83" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="91" end="106" text="Calle Nueva, 20" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="130" end="138" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="144" end="149" text="31001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="193" end="203" text="10/04/1938" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="211" end="217" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="224" end="232" text="78  años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="239" end="240" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="260" end="270" text="08/05/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="280" end="306" text="Valentina Fernández Ladrón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="314" end="325" text="31 28 22745" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T11" start="356" end="363" text="78 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3479" end="3505" text="Valentina Fernández Ladrón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3536" end="3555" text="Hospital de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3556" end="3571" text="C/Irunlarrea, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3572" end="3577" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3578" end="3586" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3587" end="3594" text="Navarra" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3601" end="3613" text="848 42 21 34" TYPE="NUMERO_TELEFONO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

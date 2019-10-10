@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Alejandra.
+Apellidos:  Pacheco Ortiz.
+NHC: 897345.
+NASS:61 45678143 05.
+Domicilio: Calle Cartagena, 30 .
+Localidad/ Provincia: Murcia.
+CP: 30002.
+Datos asistenciales.
+Fecha de nacimiento: 06/12/1946.
+País: España.
+Edad: 72 años Sexo:.
+Fecha de Ingreso: 03/01/2017.
+Médico: Fernanda Ferrer Marín NºCol:32 32 56457.
+Antecedentes: tabaquismo (50 paquetes-año), enolismo y asma extrínseco que consulta por fiebre, tos productiva y aumento de su disnea habitual.
+Exploración física: En la exploración física presentaba febrícula (37.9º C), taquipnea e hipoventilación con sibilantes espiratorios. No se palpaban visceromegalias ni adenopatías.
+Resumen de pruebas complementarias: La analítica objetivó una discreta neutrofilia y una trombocitopenia leve y el cultivo y las tinciones de Gram y Ziehl-Neelsen de esputo fueron negativos. La radiografía de tórax mostraba una condensación paracardiaca izquierda, con broncograma aéreo, que borraba la silueta cardiaca y la tomografía axial computerizada (TAC) confirmó la existencia de un infiltrado pulmonar izquierdo, con afectación pleural. Con la sospecha diagnóstica de neumonía de la língula se inició tratamiento con broncodilatadores, oxigenoterapia y amoxicilina-clavulánico con mejoría clínica y desapareción de la febrícula. 
+Evolución y comentarios: La enferma fué dada de alta para control en consulta de neumología donde, ante la persistencia de la imagen de condensación, se prosiguió estudio. La broncoscopia evidenció signos inflamatorios inespecíficos en el árbol bronquial izquierdo con normalidad del derecho; la citología del aspirado y cepillado bronquial fué negativa para malignidad. La punción-aspiración con aguja fina (PAAF) guiada por TAC objetivó una proliferación linfoide monomorfa, sospechosa de linfoma no Hodgkin (LNH). Una biopsia pulmonar mediante minitoracotomía confirmó el diagnóstico de Linfoma linfocítico B de células pequeñas (LLBCP) CD 20 positivo, bcl-2 positivo, y p-53 negativo.
+Los estudios biológicos mostraron un aumento discreto de la VSG, de la b2-microglobulina y la presencia de una banda minimonoclonal IgM lambda en el proteinograma. La serologías víricas y el estudio de autoinmunidad (ANOES) fueron negativos. La ecografía abdominal mostró signos incipientes de hepatopatía crónica difusa y la TAC abdominal no mostraba adenopatías. Una nueva TAC torácica confirmó la presencia de una masa pulmonar densa, homogénea, de 5x7 cm, de forma triangular con base periférica y vértice pericárdico, que afectaba a la língula y el lóbulo superior izquierdo, acompañada de componente atelectásico con desviación del mediastino. La biopsia ósea descartó infiltración por linfoma.
+Con el diagnóstico de linfoma pulmonar primario (LPP) de bajo grado, se inició tratamiento oral con clorambucilo en pulsos, 40 mg por vía oral día 1, y prednisona, 100 mg/día por 4 días, cada 4 semanas. En la primera reevaluación, tras cuatro ciclos de quimioterapia, el tamaño de la masa tumoral no se había modificado por lo que se propuso a la enferma tratamiento con poliquimioterapia intravenosa que rechazó. Se inició entonces clorambucilo continuo a dosis de 3 mg/día. Una nueva TAC torácica mostró una disminución del diámetro de la masa pulmonar superior al 50% (8 meses después) y mayor del 75% (16 meses después de iniciado el tratamiento diario). Como efectos secundarios presentó toxicidad hematológica y hepática, ambas grado I de la OMS, por lo que se redujo la dosis de clorambucilo a 1 mg/día. Tras dos años de tratamiento continuado, la radiografía y la TAC torácica mostraban unos parénquimas pulmonares bien ventilados, apreciándose sólo algún tracto fibroso residual en el pulmón izquierdo. Un estudio gammagráfico con galio-67 mostraba hiperactividad a nivel del tercio medio de hemitórax izquierdo, confirmando así la existencia de enfermedad residual. A pesar de ello, la paciente se ha mantenido con abstención terapéutica, en remisión parcial muy buena (RPMB) y libre de progresión hasta la fecha (intervalo libre de progresión de 53 meses).
+Remitido por: Dra. Fernanda Ferrer Marín. Unidad de Hematología C/ S. Martín de Porres, 15 - 2º E-30001 Murcia paquiferrer@outlook.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="9" end="18" text="Alejandra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="32" end="45" text="Pacheco Ortiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="52" end="58" text="897345" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="65" end="79" text="61 45678143 05" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="92" end="111" text="Calle Cartagena, 30" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="136" end="142" text="Murcia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="148" end="153" text="30002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="197" end="207" text="06/12/1946" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T9" start="215" end="221" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="229" end="236" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="262" end="272" text="03/01/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="282" end="303" text="Fernanda Ferrer Marín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="310" end="321" text="32 32 56457" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <NAME id="T6" start="4064" end="4085" text="Fernanda Ferrer Marín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="4109" end="4140" text="C/ S. Martín de Porres, 15 - 2º" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="4141" end="4148" text="E-30001" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4149" end="4155" text="Murcia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="4156" end="4179" text="paquiferrer@outlook.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

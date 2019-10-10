@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Unai .
+Apellidos: Iglesias Navarro.
+NHC: 6846735.
+Domicilio: Calle de Eduardo Barreiros, 3.
+Localidad/ Provincia: Madrid.
+CP: 28041.
+Datos asistenciales.
+Fecha de nacimiento: 15/11/2006.
+País: España.
+Edad: 8 años Sexo: Varón.
+Fecha de Ingreso: 21/01/2015.
+Servicio: Urgencias.
+Episodio: 403785669.
+Médico: Maria Angeles Suárez Romero  NºCol: 28 28 57981.
+Historia Actual: Paciente de ocho años sin antecedentes personales ni familiares de interés. Acude a Urgencias porque, coincidiendo con un proceso catarral con odinofagia sin fiebre, presenta de forma brusca coprolalia, trastorno selectivo de la memoria (no recuerda y confunde algunos nombres de personas que conoce), comportamiento anómalo con hiperactividad y movimientos compulsivos. No pierde la conciencia ni existe alteración del tono muscular ni de la fuerza. La familia describe el cuadro como una alteración conductual explosiva y sorprendente. El episodio dura unos minutos y cuando llega a Urgencias se encuentra más tranquilo, aunque sigue presentando alteración del lenguaje y confusión en relación con su familia y el entorno en el que se encuentra. Refiere síntomas catarrales y dolor de garganta. Está afebril.
+Exploración física: En la exploración no se observan exantemas; la auscultación cardiopulmonar es normal. Exploración otorrinolaringológica: exudación amigdalar. Abdomen: blando, sin visceromegalias. La sensibilidad, el tono, la fuerza y los reflejos osteotendinosos son normales. No presenta signos de focalidad neurológica.
+Resumen de pruebas complementarias: Se realiza analítica sanguínea, que muestra 18 400 leucocitos (86 segmentados, tres cayados, seis linfocitos, tres monocitos), y 260 000 plaquetas. Bioquímica sin alteraciones en el cribado básico, proteína C reactiva (PCR): 11 mg/l. Se le recoge frotis de garganta que es positivo para Streptococcus pyogenes (grupo A).
+Ingresa para observación y estudio del proceso y se inicia tratamiento antibiótico con amoxicilina, que finaliza a los diez días. La clínica neuropsiquiátrica desaparece totalmente a las 24 horas tras el ingreso. Dada la rápida resolución y el buen estado general del niño, se decide dar el alta hospitalaria y continuar con estudio ambulatorio.
+Evolución y comentarios: Cuando le vemos en la consulta de Atención Primaria el paciente está asintomático, con exploración física y neurológica sin alteraciones. Se solicita resonancia magnética craneal y electroencefalograma, que resultan normales. Es visto por un proceso catarral a los tres meses, sin que se repitan los síntomas descritos en el episodio de amigdalitis previo. Permanece sin recaídas.
+Ha realizado estudio de exudado amigdalar en dos ocasiones por sendos procesos infecciosos, que han sido negativos. Se descarta así mismo su estado como portador, si bien no se han determinado los niveles de anticuerpos antiestreptolisina O (ASLO) por no haber vuelto a presentar recaídas clínicas.
+Remitido por: Dra: Maria Angeles Suárez Romero. Hospital Universitario 12 de Octubre. Avenida de Cordoba, s/n, 28041 Madrid. Correo electrónico: angelessuarez1968@gmail.com
+díselo 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="32" text="Unai" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="46" end="62" text="Iglesias Navarro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="69" end="76" text="6846735" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T21" start="89" end="118" text="Calle de Eduardo Barreiros, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="142" end="148" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="154" end="159" text="28041" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="203" end="213" text="15/11/2006" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="221" end="227" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="235" end="241" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="248" end="253" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="273" end="283" text="21/01/2015" TYPE="FECHAS" comment=""/>
+    <ID id="T10" start="316" end="325" text="403785669" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T12" start="335" end="362" text="Maria Angeles Suárez Romero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="371" end="382" text="28 28 57981" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T14" start="413" end="422" text="ocho años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="855" end="862" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="1104" end="1111" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="2163" end="2167" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T11" start="2965" end="2992" text="Maria Angeles Suárez Romero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2994" end="3030" text="Hospital Universitario 12 de Octubre" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="3032" end="3055" text="Avenida de Cordoba, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3057" end="3062" text="28041" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3063" end="3069" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="3091" end="3118" text="angelessuarez1968@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

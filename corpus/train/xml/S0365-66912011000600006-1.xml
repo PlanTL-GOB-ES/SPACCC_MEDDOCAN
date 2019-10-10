@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Claudia.
+Apellidos: Morales Maldonado.
+NHC: 234565.
+NASS: 43 76457565 47.
+Domicilio: Avenida de la albufera 206, 4F.
+Localidad/ Provincia: Madrid.
+CP: 28024.
+Datos asistenciales.
+Fecha de nacimiento: 06/03/1950.
+País: España.
+Edad: 67 años Sexo: M.
+Fecha de Ingreso: 15/08/2017.
+Servicio:Urgencias.
+Médico: Javier Paz Moreno-Arrones  NºCol: 28 28 74659.
+Motivo de ingreso: Mujer de 67 años que acude a Urgencias por edema conjuntival bilateral de 3 semanas de evolución, tras haberse tratado con lágrimas artificiales y pomada antibiótico-corticoidea tópica durante este periodo de tiempo sin mejoría. 
+Antecedentes: Como antecedentes personales destacaba una hipertensión arterial en tratamiento farmacológico, diabetes mellitus de difícil control y candidiasis oral de reciente diagnóstico.
+Exploración y pruebas complementarias: A la exploración oftalmológica se objetivó una quemosis conjuntival bilateral con lagrimeo intenso, siendo el resto de la exploración oftalmológica normal. La paciente refirió haber perdido 5 kg en las 2 últimas semanas, una sensación de hinchazón generalizada sobre todo en la cara junto con astenia y prurito generalizado.
+Tras una exploración sistémica se le diagnostica de sospecha de síndrome de Cushing. Los análisis hormonales revelaron una ACTH de 3 pg/mL (normal 10-55), cortisol plasmático basal de 35,3 mcg/dL y cortisol libre urinario (CLU) de 632 mcg/24h (normal < 180). La radiografía y la tomografía axial computarizada (TAC) de tórax fueron normales. En la TAC abdominal se le objetivó una masa adrenal izquierda de 8,2×5,4cm, sugestiva de carcinoma adrenal, sin adenopatías locorregionales.
+Evolución y comentarios: Dada la evolución clínica, se decidió iniciar tratamiento con ketoconazol 400mg/día previo a la cirugía con el objetivo de inhibir la secreción de cortisol suprarrenal, realizándose la exéresis de la tumoración adrenal junto con disección de la grasa circundante, presentando una resolución completa de la quemosis.
+La histología de la tumoración adrenal se informó como «carcinoma de la corteza suprarrenal con extensa zona de necrosis con actividad proliferativa, que infiltra la cápsula que la rodea invadiendo los vasos linfáticos pericapsulares». Tras una primera pauta de quimioterapia con cisplatino-etopósido, se le diagnosticó, 3 meses después, mediante una TAC toraco-abdomino-pélvica múltiples metástasis pulmonares bilaterales en ambos hemitórax y una recidiva local a nivel suprarrenal izquierdo, por lo que recibió tres ciclos quimioterápicos con ciclofosfamida, adriamicina y vincristina, sin mejoría, con progresión de la insuficiencia respiratoria y cardíaca, iniciándose tratamiento con taxol semanal durante 2 meses (quimioterápico antineoplásico), falleciendo debido a la insuficiencia respiratoria progresiva que presentaba.
+Remitido por: Javier Paz Moreno-Arrones Correo electrónico: javier_paz_moreno@hotmail.com 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="9" end="16" text="Claudia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="29" end="46" text="Morales Maldonado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="53" end="59" text="234565" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="67" end="81" text="43 76457565 47" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="94" end="124" text="Avenida de la albufera 206, 4F" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="148" end="154" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="160" end="165" text="28024" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="209" end="219" text="06/03/1950" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="227" end="233" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="241" end="248" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="255" end="256" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="276" end="286" text="15/08/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="316" end="341" text="Javier Paz Moreno-Arrones" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="350" end="361" text="28 28 74659" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="382" end="387" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="391" end="398" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="2834" end="2859" text="Javier Paz Moreno-Arrones" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2880" end="2909" text="javier_paz_moreno@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

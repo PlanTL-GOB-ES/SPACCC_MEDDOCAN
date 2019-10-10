@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Teresa.
+Apellidos: Puig Romero.
+NHC: 3248975.
+Domicilio: Carrer de la Serradora, 4, .
+Localidad/ Provincia: Valencia.
+CP: 46011.
+Datos asistenciales.
+Fecha de nacimiento: 24/12/2009.
+País: España.
+Edad: 8 años Sexo: M.
+Fecha de Ingreso: 23/05/2018.
+Médico: Pilar Molina Aguilar NºCol: 46 28 34675.
+Informe clinico del paciente: Paciente femenina de 8 años de edad con aumento de volumen hemimandibular izquierdo, de 5 meses de evolución, crecimiento rápido, doloroso. Intraoralmente expansión de cortical vestibular con desplazamiento de órganos dentales. Radiográficamente lesión que destruye parte de cuerpo y rama mandibular izquierda, pero conservando cóndilo y apófisis coronoides. Resultado de biopsia incisional, ameloblastoma plexiforme mandibular. Tomando en cuenta la conducta clínica agresiva local de la lesión, se realiza excisión en bloque. Se coloca prótesis de reconstrucción conservando cóndilo y apófisis coronoides. Postoperatorio sin complicaciones que comentar. Se conservan estructuras nerviosas (dentario inferior) y motoras. Buena apertura bucal, y adecuado aspecto facial. A los tres meses de su cirugía inicial se coloca en lecho quirúrgico matriz ósea mezclada con aspirado medular en un intento de estimular el crecimiento de hueso en lecho quirúrgico observando adecuada neoformación ósea a la fecha con oclusión dental aceptable. Buena apertura bucal, estética facial, así como conservación de sensibilidad y motricidad. Cinco años de control sin complicaciones.
+Remitido por: Pilar Molina Aguilar Servicio de Patología. Instituto de Medicina Legal Ciudad de la Justicia. Avenida del Saler, 14. 46013 Valencia E-mail: molina_pil@gva.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="8" end="14" text="Teresa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="27" end="38" text="Puig Romero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="45" end="52" text="3248975" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="65" end="90" text="Carrer de la Serradora, 4" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="116" end="124" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="130" end="135" text="46011" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="179" end="189" text="24/12/2009" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="197" end="203" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="211" end="217" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="224" end="225" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="245" end="255" text="23/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="265" end="285" text="Pilar Molina Aguilar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="293" end="304" text="46 28 34675" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="345" end="353" text="femenina" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="357" end="363" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="1515" end="1535" text="Pilar Molina Aguilar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1559" end="1586" text="Instituto de Medicina Legal" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="1587" end="1608" text="Ciudad de la Justicia" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T4" start="1610" end="1631" text="Avenida del Saler, 14" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1633" end="1638" text="46013" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1639" end="1647" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1656" end="1673" text="molina_pil@gva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Ramón.
+Apellidos: Carvajal Marín.
+NHC: 789543.
+NASS: 84 45674574 22.
+Domicilio: Avenida de Tirso de Molina 18, 1A .
+Localidad/ Provincia:Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 31/01/1960.
+País: España.
+Edad: 55 años Sexo: H.
+Fecha de Ingreso: 19/07/2015.
+Médico: Maria Antonia Rodríguez Navarro NºCol:28 28 11203.
+Historia Actual: paciente de 55 años, que fue remitido a nuestra unidad de dolor crónico por lumbalgia de más de 2 años de evolución. El paciente había sido intervenido 17 años antes para la implantación de una prótesis de válvula mitral y desde entonces presentaba fuga periprotésica, con hemólisis leve, en tratamiento con hierro, ácido fólico y anticoagulado con anticumarínicos.
+El sujeto refería dolor basal continuo en la zona lumbar, de intensidad leve, con una puntuación de 3 en la escala analógica visual, con exacerbaciones hasta una puntuación de 8, de predominio nocturno y frecuencia casi diaria. El dolor se localizaba en la zona dorsolumbar con irradiación hacia el área inguinogenital, más acusado en el lado derecho, pero de afectación bilateral. La duración de dichos episodios era variable, desde minutos a horas, comparándolo el paciente con una sensación de quemazón y agujetas. Presentaba mejoría discreta con ejercicio. No refería otros síntomas, como parestesias ni alteraciones del sueño.
+Exploración física: En la exploración, no presentaba limitación de la movilidad de la columna vertebral, tenía un discreto dolor a la flexión y signo del arco negativo, y palpación no dolorosa de las apófisis espinosas. Se identificaron puntos gatillo en la zona paravertebral, más relevantes en musculatura correspondiente al músculo cuadrado lumbar derecho; las pruebas para afectación del psoas y la articulación sacroilíaca derecha fueron positivas. No presentaba afectación de la sensibilidad.
+Resumen de pruebas complementarias: La resonancia magnética (RM) de la columna músculo dorsolumbar informó "polidiscopatía con cambios degenerativos en L4-L5, L5-S1 (disminución de intensidad de señal en T2 de los discos), sin improntas discales significativas sobre el canal medular y signos de artrosis interapofisaria dorsolumbar". La hemoglobina era de 10 g/dl.
+El juicio clínico estimado fue dorsalgia y lumbalgia secundarias a un síndrome miofascial y polidiscopatía degenerativa. Se instauró tratamiento médico con pregabalina, tramadol y paracetamol; recibió electroterapia transcutánea. Se practicó una infiltración con corticoides y anestésico local en los puntos gatillo correspondientes al músculo cuadrado lumbar derecho y las facetas lumbares bilaterales; ninguna de las medidas terapéuticas mejoró la lumbalgia. Se trató entonces con fentanilo transcutáneo; el paciente apreció una leve mejoría.
+Se revaluó al sujeto a los 3 meses de tratamiento. En la analítica se apreció un incremento de los parámetros medidores de hemólisis: descenso de hemoglobina (9,6 g/dl), hemoglobinuria 250 eritrocitos/campo, elevación de lactodeshidrogenasa (LDH 4.806 U/l) y bilirrubina total 4,38 mg/dl. En la ecocardiografía se evidenciaron una dilatación ventricular y una estenosis mitral severa con fuga perivalvular y elevado gradiente de presiones. 
+Evolución y comentarios: El paciente fue remitido al cirujano cardiovascular e intervenido para remplazar la válvula protésica malfuncionante.
+Después de la intervención, transcurrido un año, el enfermo permanece sin dolor lumbar.
+Remitido por: Dra. Maria Antonia Rodríguez Navarro Correo electrónico: marodrigueznavarro@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="9" end="14" text="Ramón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="27" end="41" text="Carvajal Marín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="48" end="54" text="789543" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T14" start="62" end="76" text="84 45674574 22" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T13" start="89" end="122" text="Avenida de Tirso de Molina 18, 1A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T12" start="146" end="152" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T11" start="158" end="163" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T9" start="207" end="217" text="31/01/1960" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="225" end="231" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T7" start="239" end="246" text="55 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T5" start="253" end="254" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="274" end="284" text="19/07/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="294" end="325" text="Maria Antonia Rodríguez Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="332" end="343" text="28 28 11203" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T6" start="374" end="381" text="55 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="3461" end="3492" text="Maria Antonia Rodríguez Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3513" end="3540" text="marodrigueznavarro@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

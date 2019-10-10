@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: José Manuel.
+Apellidos:  Vila Prieto.
+CIPA: nhc-1305469.
+NASS: 32 76462153 12.
+Domicilio: Calle Alonso de Freylas, 6, Bajo A.
+Localidad/ Provincia: Jaén.
+CP: 23002.
+NHC:1305469.
+Datos asistenciales.
+Fecha de nacimiento: 12/08/1944.
+País: España.
+Edad: 72  Sexo: H.
+Fecha de Ingreso: 23/10/2016.
+Médico: Mariano Urdiales Viedma  NºCol: 23 23 45120.
+Antecedentes:.
+Historia Actual: Paciente varón de 72 años de edad, que es remitido desde otro centro por nódulo tiroideo derecho de corta evolución, con signos de compresión de vía aérea
+Exploración física y pruebas complementarias: La ecografía mostró imágenes propias de bocio multinodular con presencia de un nódulo sólido en lóbulo derecho y la gammagrafía detectó un área fría a dicho nivel. Previamente al ingreso se había realizado una PAAF que resultó insuficiente para diagnóstico y su repetición posterior mostró signos de hiperplasia folicular, por lo que se decide realizar hemitiroidectomía derecha, con control intraoperatorio. Se detectó en la pieza un nodulo parduzco, pálido, de 2,6 cm que se procesó para estudio histológico (ver abajo). Tras el diagnóstico se indagó en la historia del paciente en otros Centros, descubriéndose que 17 años antes había sufrido una nefrectomía radical derecha por carcinoma renal. Tras 9 meses el paciente muestra hinchazón cervical y por técnicas de imagen se detectan múltiples adenopatías cervicales, así como imágenes ocupantes de espacio en seno piriforme izquierdo. 
+Evolución y comentarios: La evolución de las lesiones requiere la realización de traqueotomía. Tras tres meses de este último cuadro el paciente es remitido a Cuidados Paliativos ante la ausencia de posibilidades terapéuticas.
+Responsable clinico: Mariano Urdiales Viedma. Hospital San Juan de la Cruz 23400 Úbeda. Jaén. (España) mariano.urdiales.sspa@juntadeandalucia.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="8" end="19" text="José Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="33" end="44" text="Vila Prieto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="56" end="63" text="1305469" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="71" end="85" text="32 76462153 12" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="98" end="132" text="Calle Alonso de Freylas, 6, Bajo A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="156" end="160" text="Jaén" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="166" end="171" text="23002" TYPE="TERRITORIO" comment=""/>
+    <ID id="T18" start="177" end="184" text="1305469" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="228" end="238" text="12/08/1944" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="246" end="252" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="260" end="262" text="72" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="270" end="271" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="291" end="301" text="23/10/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="311" end="334" text="Mariano Urdiales Viedma" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="343" end="354" text="23 23 45120" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="397" end="402" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="406" end="413" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1728" end="1751" text="Mariano Urdiales Viedma" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1753" end="1781" text="Hospital San Juan de la Cruz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="1782" end="1787" text="23400" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="1788" end="1793" text="Úbeda" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1795" end="1799" text="Jaén" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1802" end="1808" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="1810" end="1851" text="mariano.urdiales.sspa@juntadeandalucia.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

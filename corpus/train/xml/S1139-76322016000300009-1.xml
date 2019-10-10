@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Luis.
+Apellidos: Yurena Diez.
+NHC: 7430825.
+Domicilio: Calle Fuencarral,57, 1D.
+Localidad/ Provincia: Madrid.
+CP: 28010.
+Datos asistenciales.
+Fecha de nacimiento: 28/05/1995.
+País: España.
+Edad: 10 años Sexo: H.
+Fecha de Ingreso: 14/09/2005.
+Médico: Raquel Ruiz Ruiz NºCol: 28 28 98250.
+Historia Actual: Niño de diez años de edad que acudió al Servicio de Urgencias por dolor testicular de cuatro horas de evolución. Refería que, estando previamente bien, inicia de modo progresivo molestias en el testículo izquierdo. No refería fiebre, ni traumatismo previo ni síndrome miccional. No presentaba antecedentes familiares ni personales de interés.
+Exploración física: La exploración clínica fue normal, salvo el testículo izquierdo que mostraba un discreto aumento del tamaño, eritematoso y molesto a la palpación, pero con alivio del dolor con el ascenso testicular. Reflejo cremastérico presente. Se palpan ambos testes normoposicionados, normoconformados, sin observarse lesiones cutáneas.
+Pruebas complementarias: Ante el dolor escrotal agudo se solicitó ecografía Doppler testicular para completar el estudio, observándose imágenes compatibles con epididimitis izquierda y descartando torsión testicular. Como hallazgo casual se observó una imagen de calcificación intratesticular derecha de 1,5 mm.
+Evolución: Se pautaron medidas de analgesia y recomendaciones para minimizar las molestias (elevación escrotal y reposo), explicando los signos de alarma ante los que consultar de nuevo. Evolucionó favorablemente.
+Dada la imagen de calcificación intratesticular, se citó a consultas de Pediatría para el seguimiento evolutivo en su centro de salud correspondiente, ubicado en la calle Miguel Hernandez, 23.
+En los primeros dos años de seguimiento el paciente ha permanecido asintomático y no se han observado cambios respecto al número ni distribución de las microcalcificaciones testiculares, así como tampoco se han referido cambios en la ecogenicidad del parénquima testicular. 
+Seguiremos realizando controles clínicos y ecográficos periódicos para valorar su evolución.
+Remitido por: Raquel Ruiz Ruiz E-mail: raquel.ruiz.ruiz@navarra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="32" text="Luis" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="45" end="56" text="Yurena Diez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="63" end="70" text="7430825" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T15" start="83" end="106" text="Calle Fuencarral,57, 1D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="130" end="136" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="142" end="147" text="28010" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="191" end="201" text="28/05/1995" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="209" end="215" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="223" end="230" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="237" end="238" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="258" end="268" text="14/09/2005" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="278" end="294" text="Raquel Ruiz Ruiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="302" end="313" text="28 28 98250" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="332" end="336" text="Niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="340" end="349" text="diez años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T2" start="1711" end="1737" text="calle Miguel Hernandez, 23" TYPE="CALLE" comment=""/>
+    <NAME id="T4" start="2121" end="2137" text="Raquel Ruiz Ruiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2146" end="2173" text="raquel.ruiz.ruiz@navarra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

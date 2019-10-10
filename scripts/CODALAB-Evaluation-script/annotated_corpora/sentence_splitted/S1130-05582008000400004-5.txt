@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Sheila.
+Apellidos: Paez Moncada.
+NHC: 2950786.
+Domicilio: Calle de la Vega, 9, 3 D.
+Localidad/ Provincia: Madrid.
+CP: 28047.
+Datos asistenciales.
+Fecha de nacimiento: 21/12/1995.
+País de nacimiento: España.
+Edad: 14 años Sexo: M.
+Fecha de Ingreso: 20/03/2010.
+Médico: Leonor Barroso Moreno. NºCol: 28 28 88317.
+Informe clínico del paciente: paciente de 14 años sometida a un estudio de detección bioquímica y radiológica. Se encontró hipocalcemia, hiperparatiroidismo, dos tumores maxilares (de los cuadrantes segundo y cuarto) y varios quistes renales.
+Se realizó paratiroidectomía derecha para tratar un adenoma paratiroideo. La calcemia permaneció normal durante un año, pero a partir de entonces empezó a aumentar. Sheila se intervino de nuevo (paratiroidectomía izquierda, tanto superior como inferior, y excisión de la mitad de la paratiroides superior derecha por un adenoma de la paratiroides superior izquierda). Las lesiones maxilares seguían creciendo y unos meses más tarde fueron resecados los dos fibromas osificantes.
+Posteriormente tuvo otro episodio de hiperparatiroidismo y fue intervenida para resecar el adenoma de la glándula restante. No hay ningún indicio de recidiva o de la presentación de tumores maxilares nuevos.
+Responsable clínico: Dra. Leonor Barroso Moreno. Hospital Universitario La Paz (HULP). Paseo de la Castellana, 261, 28046 Madrid

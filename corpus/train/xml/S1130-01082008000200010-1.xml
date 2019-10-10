@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Estefanía.
+Apellidos: Sanchez Diaz.
+NHC: 7435655.
+NASS: 78 43657805 16.
+Domicilio: Calle Mirasierra, 27.
+Localidad/ Provincia: Madrid.
+CP: 28028.
+Datos asistenciales.
+Fecha de nacimiento: 27/03/1943.
+País de nacimiento: España.
+Edad: 74 años Sexo:M.
+Fecha de Ingreso: 03/11/2017.
+Médico: Juan Antonio Chirinos Vega NºCol: 28 28 57412.
+Informe clínico del paciente: Paciente mujer de 74 años que ingresó por cuadro de dolor abdominal difuso, hiporexia y astenia de 2 semanas de evolución. Presentaba vómitos en posos de café y heces melénicas desde hacía 2 días. Como antecedentes personales refería: hipertensión en tratamiento con amiloride/hidroclorotiazida y dislipemia que controlaba con lovastatina. No era fumadora y negaba la ingesta de AINE, alcohol o anticonceptivos orales. Sus antecedentes familiares eran: madre fallecida de cancer gástrico, hermano con cirrosis hepática de etiología desconocida y hermana con carcinoma hepatocelular.
+- Exploración física: estabilidad hemodinámica. Dolor difuso a la palpación abdominal, sin signos de peritonismo.
+- Analítica al ingreso: hemoglobina: 13,5 mg/dl; hematocrito: 37,6%; plaquetas: 120.000 plaquetas/ml; bilirrubina: 247 mg/dl; fosfatasa alcalina: 220 UI/l; aspartato aminotransferasa: 59 UI/l; alanina aminotransferasa: 28 UI/l y gamma-glutamil transpeptidasa: 129 UI/l. Se realizó una gastroscopia de urgencia donde se evidenciaron varices esofágicas de mediano tamaño sin signos de alarma de sangrado inminente [F2 RC(-) según la clasificación de la Sociedad Japonesa para el Estudio de Hipertensión Portal] y múltiples erosiones con fibrina a nivel gástrico y duodenal sin signos de hemostasia reciente. En la tomografía computerizada y en la ecografía abdominal el hígado era de tamaño normal, de bordes levemente ondulados con un parénquima discretamente heterogéneo, sin lesiones ocupantes de espacio. A su vez se objetivó esplenomegalia, ascitis y derrame pleural izquierdo de escasa cuantía. Por otro lado, existía una trombosis portal completa no oclusiva a nivel del hilio hepático y de sus ramas, así como otro trombo a nivel de la vena mesentérica superior con presencia de circulación colateral en los ligamentos gastrohepático y periesplénico. El estudio etiológico de las diferentes causas de hepatopatía crónica incluyó: virus hepatotropos (VHB, VHC) y VIH, estudio de autoinmunidad, ceruloplasmina, ferritina y porfirinas en orina, siendo todos los Resultados negativos. Posteriormente se realizó una biopsia hepática percutánea con estudio hemodinámico que mostraba un gradiente de presión portal de 12 mmHg con flebografía normal. La biopsia mostró una alteración de la arquitectura hepática debida a hiperplasia hepatocitaria en la zona 1 de algunos de los acinos, con tendencia a ser nodular pero sin septos de fibrosis perinodulares. Los tractos portales mostraban la triada ducto-arteria-vena habituales, aunque la vena era a veces poco patente y se observaba alguna vena paraportal. Presentaban leve ampliación fibrosa y contenían leve infiltrado inflamatorio linfoplasmocitario con desbordamiento focal por la interfase periportal. En el lobulillo se observaba también algún foco inflamatorio, si bien no había cuerpos acidófilos ni otros hallazgos relevantes. Estos cambios fibroinflamatorios leves, la hiperplasia nodular irregular así como la ausencia de fibrosis perinodular descartan la presencia de cirrosis y son compatibles con una hipertensión portal no cirrótica. Ante la posibilidad de que todos los cambios hepáticos fuesen secundarios a una trombosis portal primaria se realizó un estudio de hipercoagulabilidad.
+Este estudio demostró una proteína S (pS) libre antigénica, pS total antigénica y pS libre anticoagulante de 56, 107 y 44% respectivamente, lo cual era sugestivo de un déficit de proteína S tipo I. El resto de parámetros de la coagulación (que incluyeron fibrinógeno, antitrombina, proteína C, anticuerpos anticardiolipina, resistencia a la proteína C activada, factor V Leyden, factor II G 20210A y homocisteína) se encontraban en el rango de la normalidad. Este resultado fue confirmado en un control posterior.
+A la paciente se le instauró tratamiento anticoagulante con acenocumarol y diuréticos de forma indefinida. En el seguimiento de la paciente no se han evidenciado nuevas descompensaciones.
+Responsable clínico: Dr. Juan Antonio Chirinos Vega. Paseo Marqués de Zafra, 12, 3ºD. 28028 Madrid. e-mail: juanochirinos@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="37" text="Estefanía" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="50" end="62" text="Sanchez Diaz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="69" end="76" text="7435655" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="84" end="98" text="78 43657805 16" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="111" end="131" text="Calle Mirasierra, 27" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="155" end="161" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="167" end="172" text="28028" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="216" end="226" text="27/03/1943" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="248" end="254" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="262" end="269" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="275" end="276" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="296" end="306" text="03/11/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="316" end="342" text="Juan Antonio Chirinos Vega" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="350" end="361" text="28 28 57412" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="402" end="407" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="411" end="418" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="846" end="851" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T3" start="882" end="889" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="939" end="946" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T8" start="1541" end="1597" text="Sociedad Japonesa para el Estudio de Hipertensión Portal" TYPE="INSTITUCION" comment=""/>
+    <NAME id="T10" start="4367" end="4393" text="Juan Antonio Chirinos Vega" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="4395" end="4426" text="Paseo Marqués de Zafra, 12, 3ºD" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="4428" end="4433" text="28028" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="4434" end="4440" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T4" start="4450" end="4475" text="juanochirinos@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

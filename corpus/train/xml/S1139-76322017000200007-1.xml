@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Marina .
+Apellidos: Casas Gómez.
+NHC: 8455635.
+Domicilio: Calle del Dr. Esquerdo 99, Bajo A .
+Localidad/ Provincia: Madrid.
+CP: 28007.
+Datos asistenciales.
+Fecha de nacimiento: 21/07/2007.
+País: España.
+Edad: 7 años Sexo: M.
+Fecha de Ingreso: 03/11/2014.
+Servicio/ Unidad: Infectología.
+Episodio: 524652564.
+Médico: Miguel Peñafiel Freire  NºCol: 28 28 97102.
+Historia Actual: Niña de siete años nacida en España y sin patología previa que es remitida a la Unidad de Infectología Pediátrica por adenopatías dolorosas submandibulares izquierdas de un mes de evolución, sin respuesta al tratamiento con amoxicilina-ácido clavulánico y antiinflamatorio oral.
+La paciente no había presentado fiebre, sudoración nocturna ni pérdida de peso. No estaba vacunada de BCG. Durante un mes al año visita Marruecos, donde tiene contacto con animales (ovejas, corderos) y consume lácteos sin pasteurizar.
+Exploración física: En la exploración física presenta un conglomerado submandibular izquierdo de adenopatías, doloroso a la palpación, duro, no rodadero ni adherido, la mayor de las adenopatías de 2 × 2 cm. El resto de la exploración física y anamnesis por aparatos no presentaba hallazgos patológicos.
+Resumen de pruebas complementarias: Dada la falta respuesta al tratamiento y teniendo en cuenta los datos epidemiológicos, se realizó la prueba de tuberculina, que fue positiva, con una induración de 10 mm con patrón vesicular a las 72 horas. La radiografía de tórax y la ecografía abdominal fueron normales.
+Las serologías de Brucella, virus de Epstein-Barr (VEB) y citomegalovirus (CMV) fueron negativas. La analítica mostró hemograma normal, velocidad de sedimentación globular (VSG) de 47 mm/hora y el interferon-gamma release assays (IGRA) (QuantiFERON(r)) fue positivo, con un valor de 10,15 (rango normal: 0-0,35).
+Se realizó una punción aspiración con aguja fina (PAAF) de la adenopatía, que mostraba un material espeso de coloración blanquecina. El cultivo y el estudio citológico revelaron un patrón de linfadenitis granulomatosa necrotizante.
+Evolución y comentarios: Dada la escasa afectación de la paciente y la sospecha de adenitis tuberculosa, se pautó un tratamiento domiciliario inicial con isoniacida, rifampicina y pirazinamida, a la espera del cultivo de la muestra obtenida mediante PAAF. El cultivo fue positivo para M. bovis, presentando un antibiograma con resistencia a pirazinamida y sensibilidad a estreptomicina, etambutol, isoniacida y rifampicina. Por este motivo se sustituyó la pirazinamida por etambutol durante dos meses, continuando posteriormente con isoniacida y rifampicina hasta finalizar seis meses. Los cultivos de micobacterias en jugos gástricos fueron negativos. Durante ese tiempo la paciente acudió a revisiones periódicas en el Servicio de Infectología Pediátrica, en las que se constató una buena evolución clínica y la resolución completa del proceso infeccioso.
+Remitido por:  Dr. Miguel Peñafiel Freire. Hospital General Universitario Gregorio Marañón. Calle del Dr. Esquerdo, 46, 28007 Madrid. Correo electrónico: mpfreire.89@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="34" text="Marina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="48" end="59" text="Casas Gómez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="66" end="73" text="8455635" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T21" start="86" end="119" text="Calle del Dr. Esquerdo 99, Bajo A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="144" end="150" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="156" end="161" text="28007" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="205" end="215" text="21/07/2007" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="223" end="229" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="237" end="243" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="250" end="251" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="271" end="281" text="03/11/2014" TYPE="FECHAS" comment=""/>
+    <ID id="T9" start="325" end="334" text="524652564" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T11" start="344" end="366" text="Miguel Peñafiel Freire" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="375" end="386" text="28 28 97102" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="405" end="409" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="413" end="423" text="siete años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T7" start="434" end="440" text="España" TYPE="PAIS" comment=""/>
+    <LOCATION id="T6" start="820" end="829" text="Marruecos" TYPE="PAIS" comment=""/>
+    <NAME id="T10" start="2953" end="2975" text="Miguel Peñafiel Freire" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2977" end="3024" text="Hospital General Universitario Gregorio Marañón" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3026" end="3052" text="Calle del Dr. Esquerdo, 46" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3054" end="3059" text="28007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3060" end="3066" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3088" end="3109" text="mpfreire.89@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

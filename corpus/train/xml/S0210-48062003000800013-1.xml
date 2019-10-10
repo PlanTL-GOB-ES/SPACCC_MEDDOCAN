@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Miguel.
+Apellidos: Hernando Diez.
+NHC: 0781235.
+NASS: 26 07896278 19.
+Domicilio: Paseo M.
+Localidad/ Provincia: Barcelona.
+CP: 08326.
+Datos asistenciales.
+Fecha de nacimiento: 26/01/1946.
+País: España.
+Edad: 67 años Sexo: H.
+Fecha de Ingreso: 30/06/2013.
+Servicio: Medicina Interna.
+Médico: Hellen Ascaso Til NºCol: 08 08 57910.
+Motivo de ingreso: Varón de 67 años de edad que ingresa en el servicio de medicina interna por síndrome constitucional, anemia y masa en flanco derecho.
+Historia Actual: Miguel presenta anorexia, astenia, y pérdida de 12 kilogramos de peso en 4 meses. Veinte días previos al ingreso, se inicia un dolor súbito en flanco y fosa renal derecha. La anamnesis urológica es normal. 
+Antecedentes: Como antecedentes personales de interés, destacan: accidente cerebro vascular en territorio de la cerebral media, secundaria a fibrilación auricular a los 64 años; enfermedad pulmonar obstructiva crónica; tratamiento habitual con dicumarínicos orales y amiodarona.
+Exploración física:  En la exploración física se palpa en hemiabdomen derecho, masa dolorosa. Resto de la exploración anodina. 
+Ppruebas complementarias: En el estudio analítico, destaca anemia normocítica y normocrómica (hemoglobina 10, 6), y prolongación de la VSG; el estudio bioquímico, urinario y de marcadores tumorales normal. La ecografía abdominal objetiva, masa renal derecha con patrón ultrasonográfico mixto de 17 x 13 centímetros de diámetro, con un área extraparenquimatosa compatible con hematoma. La tomografía axial computerizada de cuerpo completo (T.A.C.) evidenció masa mixta de predominio sólido en polo superior de riñón derecho, con probable infiltración del músculo psoas; no se objetivó adenopatías, ni trombosis vascular. Previo a la cirugía, y dado el gran tamaño de la masa tumoral se procede a la arteriografía, embolizando selectivamente, mediante colis, la arteria renal. Tres días después se realiza nefrectomía radical por vía anterior, apreciándose gran masa tumoral dependiente del riñón derecho, que no afecta al músculo psoas.
+Evolución: Histológicamente, a nivel macroscópico se objetiva masa tumoral de 10 centímetros de diámetro que afecta grasa perirrenal sin afectación de los sistemas excretor ni venoso. Microscópicamente es un tumor maligno fusocelular renal muy indiferenciado, tipo sarcomatoide grado 4 de Fuhrman, con infiltración perirrenal pero sin existir afectación de los sistemas excretor y venoso; pT3 G3 N0 M0. Tras la cirugía el paciente evoluciona favorablemente siendo dado de alta al décimo día post-operatorio.
+En la primera revisión, a los seis meses de la intervención, en la TAC de control, se evidencian dos masas quísticas heterogéneas en espacio retroperitoneal; la primera adyacente al músculo psoas de unos 12 centímetros de diámetro, con probable infiltración hepática y de colon ascendente; la segunda de 10 centímetros adyacente al músculo psoas. Se realiza punción aspiración por aguja fina (P.A.A.F.) ecodirigida siendo el resultado de metástasis de carcinoma renal. La gammagrafía ósea de cuerpo completo no evidenció lesiones metastásicas.
+A las 72 horas de la P.A.A.F. el paciente presenta mareo, distensión abdominal y anemia, realizándose analítica apreciándose la pérdida de 5 gr/dl de hemoglobina respecto al alta. La TAC en ese momento evidenció gran masa retroperitoneal, con intenso componente hemorrágico. Se realiza laparotomía exploradora, evacuando hematoma retroperitoneal, y realizando exéresis de tumoración quística hemorrágica, adherida al lóbulo caudado del hígado, que en la biopsia intraoperatoria se informa como tumoración maligna fusocelular de alto grado, parcialmente quística, compatible con recidiva de tumor renal, la evolución post-operatoria el paciente presenta nuevo hematoma retroperitoneal.
+Remitido por: Dra. Hellen Ascaso Til Servicio de Urología. Fundació Puigvert. Cartagena 340-350. 08025 Barcelona. Tel.: 93 416 97 00 E-mail autor: hascasotil@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="29" end="35" text="Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="48" end="61" text="Hernando Diez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="68" end="75" text="0781235" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="83" end="97" text="26 07896278 19" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="110" end="117" text="Paseo M" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="141" end="150" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="156" end="161" text="08326" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="205" end="215" text="26/01/1946" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="223" end="229" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="237" end="244" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="251" end="252" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="272" end="282" text="30/06/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="320" end="337" text="Hellen Ascaso Til" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="345" end="356" text="08 08 57910" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="377" end="382" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="386" end="393" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="528" end="534" text="Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3834" end="3851" text="Hellen Ascaso Til" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3874" end="3891" text="Fundació Puigvert" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="3893" end="3910" text="Cartagena 340-350" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3912" end="3917" text="08025" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3918" end="3927" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="3935" end="3947" text="93 416 97 00" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="3962" end="3981" text="hascasotil@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

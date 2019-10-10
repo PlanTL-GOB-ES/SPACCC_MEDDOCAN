@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Vanessa.
+Apellidos: Lorenzo Perez.
+NHC: 2086532.
+NASS: 89 45698395 62.
+Domicilio: Calle nuñez de Balboa 18, 6C.
+Localidad/ Provincia: Madrid.
+CP: 28040.
+Datos asistenciales.
+Fecha de nacimiento: 23/05/1994.
+País: España.
+Edad: 24 años Sexo: M.
+Fecha de Ingreso: 03/06/2018.
+Médico:  Marcelo Corti Guerra.
+Historia Actual: Mujer de 24 años, con serología reactiva para VIH desde 5 años atrás, sin tratamiento antirretroviral ni controles clínicos, que refiere comenzar un mes atrás, aproximadamente, con dolor en región maxilar inferior derecha. Realizó una consulta en un servicio de Odontología donde se comprueba tumefacción en región maxilar inferior derecha, a la altura del tercer molar inferior. Se indicó tratamiento con antibióticos y antiinflamatorios no esteroideos. Dos semanas después, consulta nuevamente sin mejoría de la sintomatología, refiriendo aumento del dolor y de la tumefacción. Se interpreta el cuadro como un flemón dentario y se indica amoxicilina/ácido clavulánico y corticoides. Una semana antes de su internación, y debido al aumento de tamaño de la tumoración descrita, se le realiza drenaje quirúrgico, obteniéndose material hemático. Se indican analgésicos y se mantiene igual esquema antibiótico. A los 5 días de este procedimiento es internada en nuestro hospital.
+Antecedentes: Como antecedentes epidemiológicos de valor refería adicción a cocaína inhalatoria, marihuana y tabaquismo.
+Exploración física: Al ingreso se encontraba lúcida, afebril, orientada en tiempo y espacio; en el examen físico se destacaba la existencia de una formación tumoral en región maxilar inferior derecha que se extendía al área submentoniana, de aproximadamente 10 × 10 cm, de color rojo-violáceo, indurada, dolorosa a la presión, que impedía el cierre de la boca, la masticación, la deglución y el habla. Comprometía la encía, incluyendo piezas dentarias, los tejidos blandos peribucales y el maxilar inferior derecho. Se palpaban adenomegalias submandibulares homolaterales, induradas, indoloras, adheridas a piel y planos profundos. El resto del examen físico no mostró alteraciones de relevancia clínica. 
+Resumen de pruebas complementarias: La Rx de tórax fue normal. El laboratorio de ingreso mostró: Hto: 35%, GB: 7.200/mm3 (N: 70%, E: 0,3%, B: 1,6%, M: 5,6%, L: 21%); VSG: 21 mm 1a hora; TGO: 41U/l, TGP: 31 U/l, FAL: 153 U/l, glucemia: 138 mg/dl, urea: 27 mg/dl, creatinina: 0,56 mg/dl, Na+: 136 mEq/l, K+: 4,1 mEq/l, concentración de protrombina 98%, KPTT: 30,6", test de embarazo: negativo, VRDL: no reactiva. Las serologías para Chagas y virus de hepatitis B y C resultaron negativas y para toxoplasmosis: IgM: negativa e IgG: positiva 1/64. El recuento de linfocitos T CD4+ fue de 235 cél/ml (16,3%), CD8: 872/mm3 (60,5%) y la carga viral para VIH arrojó 154.263 copias/ml (log10 4,74).
+Una ecografía abdominal reveló leve esplenomegalia heterogénea; resto, sin anormalidades. Se procedió a realizar biopsia escisional con fines diagnósticos; el examen histopatológico del material obtenido mostró una proliferación de células linfoides atípicas, de mediano a gran tamaño, con núcleos regulares, cromatina laxa, presencia de nucléolos adosados a la membrana celular y citoplasma anfófilo. También se observaron numerosas mitosis y fenómenos de apoptosis. La inmunohistoquímica reveló positividad frente a CD45, CD3, CD20, CD10 y Bcl-6 en las células neoplásicas, y negatividad para CD138, MUM-1 y Bcl-2. El índice de proliferación celular Ki67 fue de 99%. Los estudios microbiológicos del material de biopsia resultaron negativos para BAAR, hongos y gérmenes comunes. El diagnóstico histopatológico definitivo fue de LB primario de la cavidad oral. La biopsia de médula ósea no mostró infiltración por células linfoides atípicas. Las tinciones de Gram, Grocott y Ziehl Neelsen resultaron negativas.
+Evolución y comentarios: La paciente recibió 6 ciclos de quimioterapia basada en el esquema EPOCH-R (etopósido, prednisona, vincristina, ciclofosfamida, doxorrubicina, con rituximab y metrotexate intratecal). Los episodios de neutropenia fueron tratados con factor estimulante de colonias de granulocitos. Finalizado el tratamiento, se observó la desaparición completa de la lesión de la encía. Cuatro años después, la paciente se encuentra asintomática, sin evidencias de enfermedad neoplásica, con carga viral indetectable y CD4 362 cél/ml.
+Remitido por: Marcelo Corti Guerra. Correo electrónico: marcelocorti@fibertel.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="9" end="16" text="Vanessa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="29" end="42" text="Lorenzo Perez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="49" end="56" text="2086532" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T14" start="64" end="78" text="89 45698395 62" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T13" start="91" end="119" text="Calle nuñez de Balboa 18, 6C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T12" start="143" end="149" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T11" start="155" end="160" text="28040" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T9" start="204" end="214" text="23/05/1994" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="222" end="228" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T7" start="236" end="243" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T5" start="250" end="251" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="271" end="281" text="03/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T3" start="292" end="312" text="Marcelo Corti Guerra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="331" end="336" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="340" end="347" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="4394" end="4414" text="Marcelo Corti Guerra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="4436" end="4461" text="marcelocorti@fibertel.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

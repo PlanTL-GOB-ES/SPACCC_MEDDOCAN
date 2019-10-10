@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sebastian.
+Apellidos: Torrejon Garcia.
+NHC: 0265788.
+NASS: 78 92785623 45.
+Domicilio: Paseo de la Castellana, 81, 3, A.
+Localidad/ Provincia: Madrid.
+CP: 28035.
+Datos asistenciales.
+Fecha de nacimiento: 24/07/1961.
+País: España.
+Edad:53 años Sexo: H.
+Fecha de Ingreso: 15/11/2014.
+Médico:Pablo Garrido Abad  NºCol: 28 28.
+Informe clínico del paciente:Paciente varón de 53 años de edad que acude a la consulta de urología por masa testicular izquierda. En la exploración física destaca la palpación de una lesión en polo superior de testículo izquierdo, de consistencia firme y no dolorosa.
+Se realiza ecografía testicular donde se describe un área de 2 x 2 cms, de ecogenicidad heterogénea, con múltiples zonas quísticas, sugerente de posible neoplasia. Los marcadores tumorales son negativos. Ante la alta sospecha de tumor testicular, decidimos realización de orquiectomía radical izquierda.
+En el estudio histológico de la pieza quirúrgica, macroscópicamente se describe una tumoración bien delimitada, de 1.8 cms. de diámetro, color amarillento y consistencia pétrea. Microscópicamente se encuentra constituido por escamas córneas y nidos de epitelio escamoso en el que se reconocen las células epiteliales "en sombra". La mayor parte de este material se encuentra calcificado y osificado, observándose alrededor de la lesión, reacción fibrosa que determina la formación de una pseudocápsula que delimita el tumor. En esta pseudocápsula fibrosa se identifican focalmente haces de músculo liso. El parénquima testicular muestra un moderado edema intersticial. El epidídimo y el cordón espermático no presentan alteraciones histológicas relevantes. El diagnóstico anatomo-patológico informa de quiste dermoide testicular (teratoma maduro testicular), variante pseudopilomatrixoma.
+Tras la orquiectomía se realiza estudio de extensión mediante radiografía de tórax y TAC abdominopélvico, sin evidenciarse extensión sistémica de la enfermedad. Los marcadores tumorales testiculares (alfa-fetoproteína, beta-HCG y LDH) son negativos.
+El paciente se encuentra asintomático y libre de enfermedad en la actualidad tras 6 meses de seguimiento.
+Remitido por: Dr. Pablo Garrido Abad. C/ Arcos de la Frontera, 27 - 2oA 28023. Madrid. (España) pgabad@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="37" text="Sebastian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="50" end="65" text="Torrejon Garcia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="72" end="79" text="0265788" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="87" end="101" text="78 92785623 45" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="114" end="146" text="Paseo de la Castellana, 81, 3, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="170" end="176" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="182" end="187" text="28035" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="231" end="241" text="24/07/1961" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="262" end="269" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="276" end="277" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="297" end="307" text="15/11/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="316" end="334" text="Pablo Garrido Abad" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="343" end="348" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="388" end="393" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="397" end="404" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="2185" end="2203" text="Pablo Garrido Abad" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2239" end="2244" text="28023" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2246" end="2252" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2255" end="2261" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2263" end="2281" text="pgabad@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

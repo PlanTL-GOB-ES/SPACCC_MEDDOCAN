@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Lara.
+Apellidos: Martinez de la Puebla.
+NHC: 1456764.
+NASS: 18 47567469 54.
+Domicilio: Calle Monforte de lemos 129, 2 E.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 30/04/2003.
+País: España.
+Edad: 13 años Sexo: M.
+Fecha de Ingreso: 05/05/2016.
+Servicio: Oftalmología.
+Episodio: 19654874.
+Médico: Carlos Veiga de la Jara NºCol: 28 28 97654.
+Historia Actual: Mujer de 13 años es remitida para valoración oftalmológica por mala visión. Fenotípicamente era un niño de talla corta con una estatura de 133 cm, braquimorfia y braquidactilia en las cuatro extremidades.
+La paciente presentaba un error refractivo corregido de -13,00 -6,50 a 1º en el ojo derecho y de -16,00-6,25 a 179º en el izquierdo. Con dicha corrección alcanzaba una agudeza visual de 0,4 y 0,2 respectivamente. No existía diplopía monocular ni hallazgos en la motilidad ocular extrínseca e intrínseca.
+El diámetro corneal horizontal era de 12,0 mm en ambos ojos y la paquimetría de 613 y 611 micras respectivamente. La cámara anterior era estrecha, apreciándose iridofacodonesis bilateral. Se evidenció microesferofaquia con desplazamiento anterior de ambos cristalinos dentro de la cámara posterior.
+La presión intraocular era de 20 mmHg bilateralmente. Gonioscópicamente se apreció un ángulo estrecho simétrico en ambos ojos grado II según Schaffer.
+La exploración mediante topógrafo Orbscan-II (Topógrafo corneal, Baush and Lomb, U.S.A.) y el examen del fondo de ojo no mostraron alteraciones.
+Como prevención del cierre angular se realizó una iridotomía láser Nd:YAG en ambos ojos a las 10 y 2 horas respectivamente. Dada la estabilidad de la visión y la ausencia de diplopía se adoptó una actitud conservadora de acuerdo con el deseo de la familia del paciente mediante control de la agudeza visual, presión intraocular, documentación fotográfica y la realización de campos visuales para detectar la aparición de daño glaucomatoso.
+Revisando sus antecentes familiares se identificó al paciente como el menor de una familia de ocho hermanos, en la que -además del mencionado- un hermano y dos hermanas presentaban esferofaquia, braquimorfia y braquidactilia. Los padres eran sanos y ninguno de los hijos ha tenido descendencia.
+Remitido por: Carlos Veiga de la Jara Servicio de Oftalmología. Secretaría de Dacriología. Hospital Ramón y Cajal Ctra. de Colmenar, km. 9,100. 28034 Madrid España E-mail: veigajara@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T34" start="8" end="12" text="Lara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T33" start="25" end="46" text="Martinez de la Puebla" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T32" start="53" end="60" text="1456764" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T31" start="68" end="82" text="18 47567469 54" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T30" start="95" end="127" text="Calle Monforte de lemos 129, 2 E" TYPE="CALLE" comment=""/>
+    <LOCATION id="T29" start="151" end="157" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T28" start="163" end="168" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T27" start="212" end="222" text="30/04/2003" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T26" start="230" end="236" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T25" start="244" end="251" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T24" start="258" end="259" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T23" start="279" end="289" text="05/05/2016" TYPE="FECHAS" comment=""/>
+    <ID id="T22" start="325" end="333" text="19654874" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T21" start="343" end="366" text="Carlos Veiga de la Jara" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T20" start="374" end="385" text="28 28 97654" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T19" start="404" end="409" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T18" start="413" end="420" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T17" start="503" end="507" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T2" start="1428" end="1442" text="Baush and Lomb" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T3" start="1444" end="1450" text="U.S.A." TYPE="PAIS" comment=""/>
+    <OTHER id="T1" start="1756" end="1763" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="2015" end="2023" text="el menor" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="2042" end="2055" text="ocho hermanos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="2091" end="2101" text="un hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="2104" end="2116" text="dos hermanas" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="2178" end="2184" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="2213" end="2218" text="hijos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T10" start="2257" end="2280" text="Carlos Veiga de la Jara" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T9" start="2334" end="2356" text="Hospital Ramón y Cajal" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T8" start="2357" end="2385" text="Ctra. de Colmenar, km. 9,100" TYPE="CALLE" comment=""/>
+    <LOCATION id="T7" start="2387" end="2392" text="28034" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="2393" end="2399" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2400" end="2406" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T4" start="2415" end="2436" text="veigajara@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

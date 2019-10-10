@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Daniela.
+Apellidos: Rubio Bustamante .
+NHC: 3078956.
+NASS: 28 59784562 65.
+Domicilio: Calle Carnicer 14, 3D.
+Localidad/ Provincia: Madrid.
+CP: 28038.
+Datos asistenciales.
+Fecha de nacimiento: 06/03/2000.
+País: España.
+Edad: 18 años Sexo: M.
+Fecha de Ingreso: 23/05/2018.
+Servicio: Urgenicas.
+Médico: Ignacio Zubillaga Rodríguez  NºCol: 28 20 54621.
+Historia Actual: Mujer de 18 años remitida al Servicio de Urgencias del Hospital Universitario 12 de Octubre desde otro centro hospitalario tras sufrir accidente de tráfico con impacto directo craneofacial. La paciente no refirió antecedentes personales de interés y al ingreso presentaba un Glasgow Coma Scale (GCS) de 15.
+Exploración física: La exploración física revela importante edema y hematoma periorbitario bilateral con crepitación, otorragia derecha y rinorrea por fosa nasal izquierda. Valorada por el Servicio de Oftalmología no se evidenció disminución de la agudeza visual, diplopía ni alteraciones en los movimientos oculares extrínsecos aunque sí edema macular izquierdo. No existían alteraciones iniciales de pares craneales excepto parestesias en territorio de V1. A la palpación se objetiva importante decalaje en reborde supraorbitario izquierdo.
+Resumen de pruebas complementarias: Con el diagnóstico de sospecha de fractura de base de cráneo con fístula de líquido cefalorraquídeo asociada se solicita un TAC craneofacial donde se apreció fractura-hundimiento frontobasal izquierda conminuta con afectación asociada de la escama temporal ipsilateral y neumoencéfalo. Fractura de peñasco derecho en su porción más craneal lateral a los conductos semicirculares superiores. Fractura sin desplazamiento de la pared anterior del canal carotídeo derecho. A nivel del encéfalo existían múltiples focos contusivos hemorrágicos fundamentalmente localizados en ambos lóbulos frontales, fragmentos óseos endocraneales parieto-temporales y mínima hemorragia subaracnoidea en tentorio con hematoma epidural occipital derecho, probablemente por lesión en contragolpe.
+Tras la confirmación diagnóstica de fístula de líquido cefalorraquídeo (test beta-2 transferrina +) asociada a fractura compleja frontobasal se decide junto con el Servicio de Neurocirugía tratamiento quirúrgico realizando:
+Abordaje bicoronal y subcraneal izquierdo con exéresis de fragmentos frontobasales impactados. Reparación de desgarros durales basales mediante plastia de dura y adhesivo de fibrina tras aspirado de base frontal izquierda contusionada. Obliteración del seno frontal tras obturación del ducto con viruta ósea de calota y DBX (matriz ósea desmineralizada) y legrado de la mucosa sinusal. Reconstrucción de techo orbitario izquierdo con malla de titanio y fragmentos óseos fijados a la misma. Reducción y osteosíntesis de fracturas frontotemporales y reborde supraorbitario izquierdo. Pexia de músculo temporal.
+Evolución y comentarios: La paciente es valorada en revisiones periódicas posquirúrgicas sin presentar sintomatología. En las pruebas de imagen de control aparecen cambios posquirúrgicos y obliteración completa sinusal frontal.
+Dieciocho meses después de la intervención la paciente debutó de nuevo con rinorrea unilateral ocasional por fosa nasal derecha. Tras solicitar pruebas de imagen (TAC de alta resolución y RNM) se observó meningocele esfenoidal postraumático con defecto de base craneal paramedial de 1,5cm por 1,5cm. Asocia cavidad quística de líquido cefalorraquídeo frontobasal derecha.
+Dadas las características de la lesión se decide tratamiento endoscópico transnasal. Apertura de la pared anterior del seno esfenoidal con visualización del meningocele herniado. Disección intracraneal y coagulación con monopolar hasta su reducción progresiva intracraneal. Se delimita el defecto en la base craneal y se aplica adhesivo de fibrina. Se oblitera el seno esfenoidal con grasa abdominal. El drenaje lumbar se mantuvo hasta el 5.o día postoperatorio y el taponamiento nasal anterior fue retirado el mismo día sin evidenciar salida de líquido intranasal.
+Se realizan en el postoperatorio resonancias nucleares magnéticas de control donde se aprecia ausencia de meningocele previo y obliteración adecuada de defecto craneal con grasa autógena. En el momento actual la paciente se encuentra en el tercer año postoperatorio tras la última intervención sin recidiva de meningocele ni clínica de fístula de líquido cefalorraquídeo.
+Remitido por: Ignacio Zubillaga Rodríguez izubillaga.hdoc@salud.madrid.org 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="9" end="16" text="Daniela" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="29" end="45" text="Rubio Bustamante" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="53" end="60" text="3078956" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="68" end="82" text="28 59784562 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="95" end="116" text="Calle Carnicer 14, 3D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="140" end="146" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="152" end="157" text="28038" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="201" end="211" text="06/03/2000" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="219" end="225" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="233" end="240" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="247" end="248" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="268" end="278" text="23/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="309" end="336" text="Ignacio Zubillaga Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="345" end="356" text="28 20 54621" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="375" end="380" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="384" end="391" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T2" start="430" end="466" text="Hospital Universitario 12 de Octubre" TYPE="HOSPITAL" comment=""/>
+    <NAME id="T4" start="4420" end="4447" text="Ignacio Zubillaga Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="4448" end="4480" text="izubillaga.hdoc@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

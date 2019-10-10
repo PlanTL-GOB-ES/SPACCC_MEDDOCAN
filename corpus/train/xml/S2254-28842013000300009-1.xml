@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Inmaculada.
+Apellidos: Llanos Varela.
+NHC: 7036902.
+NASS: 08 26908567 15.
+Domicilio: Av. de Recolectos, 27.
+Localidad/ Provincia: Madrid.
+CP: 28002.
+Datos asistenciales.
+Fecha de nacimiento: 31/05/1942.
+País: España.
+Edad:73 años Sexo: M.
+Fecha de Ingreso: 15/03/2016.
+Médico: María Isabel Durán Muñoz NºCol: 28 28 34053.
+Informe clínico del paciente: Mujer de 73 años de edad con antecedentes personales de cardiopatía hipertensiva, hipercolesterolemia, diabetes tipo II, histerectomía por prolapso uterino y corrección de cistocele, hipotiroidismo primario, neuralgia del trigémino, asma bronquial, depresión, arterioesclerosis, colecistectomía por adenomioma de vesícula, insuficiencia suprarrenal y nefrectomía bilateral: derecha por pseudotumoración e izquierda por hematoma abcesificado, lo que la lleva a permanecer en tratamiento renal sustitutivo con diálisis peritoneal continua ambulatoria (DPCA) desde Enero del 2011. Durante el periodo de entrenamiento y en consultas posteriores, no se evidenció una mala realización de la técnica por parte de la paciente, ni refirió síntomas de neumoperitoneo.
+En Marzo del 2013, acude a urgencias por un cuadro de una semana de evolución de dolor abdominal, diarrea, nauseas sin vómitos y escalofríos sin fiebre.
+En la exploración física de urgencias presenta dolor a la palpación profunda de predominio en fosa iliaca derecha, palidez cutánea y extremidades sin edemas. TA: 100/60, Fc: 94 lpm., afebril, Fr: 24 rpm, Sat.O2:89%. Se realizó analítica (Hemograma, bioquímica y gasometría venosa), radiografía de tórax y abdomen donde aparece catéter de diálisis peritoneal bien colocado y neumoperitoneo. Tras ser valorada por el servicio de cirugía, se realiza TAC con contraste oral donde aparece un neumoperitoneo importante, sin apreciarse fugas del contraste ni perforación de una víscera hueca.
+Una vez realizada la valoración inicial de enfermería, con los datos anteriores y la entrevista a la paciente, no se aprecian problemas con la realización de la técnica.
+Procedemos a realizar intercambio de diálisis peritoneal según protocolo, para valorar la posibilidad de infección peritoneal. No se evidencian signos de infección (Líquido peritoneal claro), se recoge muestra de líquido para cultivo y análisis, con resultado de: leucocitos: 80/uL, descartando así la infección peritoneal.
+Dada la situación de la paciente, se procede al ingreso para observación. Se deja en dieta absoluta y con sueroterapia.
+Ante la posibilidad de que el neumoperitoneo esté en relación con la técnica de diálisis peritoneal, se decide que el personal de enfermería realice los intercambios de diálisis peritoneal según pauta y tras el drenaje, colocar a la paciente en posición de Trendelemburg para favorecer la salida del aire peritoneal.
+En estudios radiológicos posteriores se observa la disminución paulatina del neumoperitoneo, hasta quedar resuelto casi en su totalidad al alta de la paciente.
+Remitido por: María Isabel Durán Muñoz Profesor Martín Lagos s/n 28040 Madrid E-mail: iduran72@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="29" end="39" text="Inmaculada" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="52" end="65" text="Llanos Varela" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="72" end="79" text="7036902" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="87" end="101" text="08 26908567 15" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="114" end="135" text="Av. de Recolectos, 27" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="159" end="165" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="171" end="176" text="28002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="220" end="230" text="31/05/1942" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="238" end="244" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="251" end="258" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="265" end="266" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="286" end="296" text="15/03/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="306" end="330" text="María Isabel Durán Muñoz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="338" end="349" text="28 28 34053" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="381" end="386" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="390" end="397" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T6" start="943" end="957" text="Enero del 2011" TYPE="FECHAS" comment=""/>
+    <DATE id="T5" start="1142" end="1156" text="Marzo del 2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="2983" end="3007" text="María Isabel Durán Muñoz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="3008" end="3033" text="Profesor Martín Lagos s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3034" end="3039" text="28040" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3040" end="3046" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3055" end="3073" text="iduran72@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

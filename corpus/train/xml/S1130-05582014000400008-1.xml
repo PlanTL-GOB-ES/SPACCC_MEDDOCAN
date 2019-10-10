@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Dolores.
+Apellidos: Mendieta Paz.
+NHC: 5347657.
+NASS: 48 97562576 57.
+Domicilio: Av. duque de pastrana 96, 2D.
+Localidad/ Provincia: Madrid.
+CP: 28002.
+Datos asistenciales.
+Fecha de nacimiento: 17/07/1952.
+País: España.
+Edad: 63 años Sexo: M.
+Fecha de Ingreso: 20/12/2015.
+Médico: Luis Diaz Sarra NºCol: 28 28 45987.
+Informe clinico del paciente: Mujer de 63 años sin antecedentes de importancia que consulta por una masa de consistencia blanda de 3 cm de diámetro en la región parotídea izquierda con una evolución de 4 meses, acompañada de una parálisis periférica de la rama cervical del nervio facial con desviación de la comisura labial homolateral. La tumoración, móvil e indolora, se ponía en evidencia fácilmente con la palpación bimanual y era predominantemente intraoral. La paciente no presentaba adenopatías palpables significativas en el cuello y el resto del examen físico no presentaba particularidades.
+En interconsulta con Neurología se descartó la posibilidad de una parálisis facial central mediante una tomografía computarizada del cerebro.
+La ecografía de las partes blandas fue informada como una masa heterogénea sólida con densidad de las partes blandas en la región parotídea y sin presencia de ganglios de rango adenomegálico en el cuello.
+La punción aspiración con aguja fina bajo control ecográfico fue informada como negativa con material hemático en 2 oportunidades. Se decidió entonces realizar una biopsia por congelación bajo anestesia general con un abordaje intraoral por el cual la tumoración se presentaba accesible haciendo protrusión bajo la mucosa oral junto al ostium del conducto de Stenon.
+Tras incidir en la mucosa se halló un tumor laxo, color rojo vinoso, de aspecto vascular, que se extirpó sin dificultad por la misma incisión, comprobándose su continuidad con el tejido parotídeo de características normales. La biopsia por congelación informó una lesión compatible con un tumor vascular benigno. Se cerró la mucosa con puntos separados de ácido poliglicólico y se dio por finalizado el procedimiento. La evolución fue favorable con alta hospitalaria a las 24 h y recuperación completa de la parálisis facial a los 10 d del postoperatorio. No presenta evidencias de enfermedad tras 5 años de seguimiento. El informe histológico diferido fue hemangioma capilar de la parótida.
+Remitido por: Luis Diaz Sarra. Correo electrónico: lsarra@intramed.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="8" end="15" text="Dolores" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="28" end="40" text="Mendieta Paz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="47" end="54" text="5347657" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="62" end="76" text="48 97562576 57" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="89" end="117" text="Av. duque de pastrana 96, 2D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="141" end="147" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="153" end="158" text="28002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="202" end="212" text="17/07/1952" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="220" end="226" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="234" end="241" text="63 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="248" end="249" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="269" end="279" text="20/12/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="289" end="304" text="Luis Diaz Sarra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="312" end="323" text="28 28 45987" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="355" end="360" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="364" end="371" text="63 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2347" end="2362" text="Luis Diaz Sarra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2384" end="2403" text="lsarra@intramed.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

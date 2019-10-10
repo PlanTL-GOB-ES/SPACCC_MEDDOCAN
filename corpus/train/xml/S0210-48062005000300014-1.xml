@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Teresa .
+Apellidos: Tejado Pastrana.
+NHC: 7891634.
+NASS: 78 64750345 01.
+Domicilio: Calle Las Flores, 6, 10, C.
+Localidad/ Provincia: Madrid.
+CP: 28046.
+Datos asistenciales.
+Fecha de nacimiento: 07/01/1929.
+País de nacimiento: España.
+Edad: 84 años Sexo: M.
+Fecha de Ingreso: 24/04/2013.
+Servicio: Cirugía Plástica.
+Médico: Pedro Bolado Gutiérrez NºCol: 28 28 23580.
+Historia Actual: Paciente mujer de 84 años de edad con antecedentes de HTA, Hipertiroidismo, Diabetes Mellitus tipo II y síndrome de ansiedad. Remitida a la C. Externa de Urología desde el Servicio de Urgencias por un cuadro de hematuria franca monosintomática de varias semanas de evolución sin otra sintomatología asociada ni alteración del estado general.
+Exploración física: La exploración física puso de manifiesto la presencia de masa palpable a nivel de fosa lumbar derecha. El abdomen fue blando y depresible.
+Pruebas complementarias: El estudio ecográfico solicitado mostró gran masa sólida heterogénea en polo inferior del riñón derecho siendo el riñón contralateral normal. La vejiga presentó ecos internos compatibles con coágulos. El estudio cistoscópico resultó anodino.
+Asimismo fueron practicados TAC abdominopélvico, Rx torax, bioquímica hemática y hemograma.
+La TC mostró gran masa tumoral derecha de 9x10 cm heterogénea y con zonas hipodensas (áreas de necrosis) con distorsión del parénquima renal y su contorno, localizada en el polo inferior y con valores de atenuación inferiores a los del parénquima sano. La vena renal estaba trombosada y existían adenopatías locorregionales retroperitoneales.
+A nivel analítico destacaron la presencia de anemia ferropénica, aumento de la VSG y normocalcemia.
+Evolución: Se propone cirugía radical que la paciente y la familia rechazan y como alternativa se acepta embolización selectiva.
+Por punción en la arteria femoral común derecha se realiza arteriografía de aorta abdominal y posteriormente se cateteriza selectivamente la arteria renal derecha con un catéter angiográfico visceral Cobra 2 de 5 Fr, (Angiodinamics®). A continuación se emboliza la arteria que irriga al tumor con partículas de alcohol de polivinilo (PVA) de 355 a 500 micras (Contour®, Boston Scientific) ocluyendo totalmente el flujo de la misma y sin complicaciones inmediatas.
+Tras 24 horas de hospitalización, dada la buena evolución de la paciente, se decide alta hospitalaria en espera de sucesivos controles.
+A las 2 semanas postembolización la paciente consulta por cefalea realizándose TC cerebral que no muestra hallazgos de significación patológica. Tras 28 meses de seguimiento no se han vuelto a presentar episodios de hematuria y la única sintomatología destacable es insomnio y algia músculoesquelética, ambas controladas con tratamiento sintomático. Los valores de tensión arterial no se han visto modificados manteniendo cifras aceptables con IECAS y calcio antagonistas.
+Responsable clínico: Dr. Pedro Bolado Gutiérrez Servicio de Cirugía Plástica y Quemados Hospital Universitario La Paz Paseo de la Castellana, 261 28046 Madrid, España Correo electrónico: pboladog@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="34" text="Teresa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="48" end="63" text="Tejado Pastrana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="70" end="77" text="7891634" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="85" end="99" text="78 64750345 01" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="112" end="138" text="Calle Las Flores, 6, 10, C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="162" end="168" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="174" end="179" text="28046" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="223" end="233" text="07/01/1929" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="255" end="261" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="269" end="276" text="84 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="283" end="284" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="304" end="314" text="24/04/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="352" end="374" text="Pedro Bolado Gutiérrez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="382" end="393" text="28 28 23580" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="421" end="426" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="430" end="437" text="84 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="1774" end="1781" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T2" start="2214" end="2231" text="Boston Scientific" TYPE="INSTITUCION" comment=""/>
+    <NAME id="T9" start="2942" end="2964" text="Pedro Bolado Gutiérrez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="3005" end="3034" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="3035" end="3062" text="Paseo de la Castellana, 261" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="3063" end="3068" text="28046" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="3069" end="3075" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3077" end="3083" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="3104" end="3122" text="pboladog@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

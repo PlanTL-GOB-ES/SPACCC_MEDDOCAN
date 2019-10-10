@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Emilio.
+Apellidos: Guzman Navarro.
+NHC: 3689434.
+NASS: 43 65892805 47.
+Domicilio: Calle Portazgo, 96, 5 B.
+Localidad/ Provincia: Madrid.
+CP: 28027.
+Datos asistenciales.
+Fecha de nacimiento: 20/06/1985.
+País: España.
+Edad: 32 años Sexo: H.
+Fecha de Ingreso: 18/08/2017.
+Médico: Gustavo Emilio Muro Toledo  NºCol: 28 28 69586.
+Historia Actual: Varón de 32 años que acudió por lumbalgia de largo tiempo de evolución que se agudizó en los últimos días, así como pérdida de treinta libras de peso corporal en un período de tres meses aproximadamente. No se detectaron síntomas y signos de hiperfunción suprarrenal.
+Exploración física: En la exploración abdominal se palpó una tumoración dura en hipocondrio izquierdo que llegaba hasta el mesogastrio y fosa iliaca izquierda. 
+Resumen de pruebas complementarias: Los estudios imagenológicos realizados fueron: ultrasonido abdominal, radiografía de tórax, urograma descendente y tomografía axial computarizada.
+En la radiografía de tórax no se detectaron metástasis. Los hallazgos obtenidos en los demás estudios imagenológicos indicaron la presencia de una extensa masa bien delimitada, de contornos regulares y con señales heterogéneas sugerentes de áreas hemorrágicas y necróticas. Había desplazamiento de las estructuras vecinas con infiltración. No se demostró infiltración del hígado ni la vena cava inferior. El tratamiento consistió en la cirugía de exéresis por vía toraco-abdominal con clampaje de la aorta torácica para el control de la hemorragia transoperatoria. Se realizó además de la resección del tumor nefrectomía izquierda y esplenectomía en bloque con paquetes de adenopatías hiliares.
+Evolución y comentarios: La tumoración extirpada estaba bien encapsulada, con un pesó de 4350 g y un diámetro máximo de 24 cm.. Su estudio macroscópico mostró una masa sólida con áreas hemorrágicas. El tumor infiltraba la cápsula y la grasa perirrenal de todo el polo superior del riñón izquierdo así como el bazo. En el esudio histológico se comprobó el diagnóstico de un carcinoma de la glándula suprarrenal. La evolución postoperatoria fue satisfactoria y egresó al décimo día de la intervención. La supervivencia fue de seis meses. El fallecimiento se produjo por progresión de la enfermedad.
+Remitido por: Dr. Gustavo Emilio Muro Toledo Correo Electrónico: dramartin@polcentro.ssp.sld.cu
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="29" end="35" text="Emilio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="48" end="62" text="Guzman Navarro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="69" end="76" text="3689434" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="84" end="98" text="43 65892805 47" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="111" end="134" text="Calle Portazgo, 96, 5 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="158" end="164" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="170" end="175" text="28027" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="219" end="229" text="20/06/1985" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="237" end="243" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="251" end="258" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="265" end="266" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="286" end="296" text="18/08/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="306" end="332" text="Gustavo Emilio Muro Toledo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="341" end="352" text="28 28 69586" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="371" end="376" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="380" end="387" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="2293" end="2319" text="Gustavo Emilio Muro Toledo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2340" end="2370" text="dramartin@polcentro.ssp.sld.cu" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

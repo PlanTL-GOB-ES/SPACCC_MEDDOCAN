@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Ignacio.
+Apellidos: Herrejon Valero.
+NHC: 3495981.
+NASS: 47 56358907 50.
+Domicilio: Avenida de la república, 19, 3 A.
+Localidad/ Provincia: Alicante.
+CP:03520.
+Datos asistenciales.
+Fecha de nacimiento: 25/12/1952.
+País: España.
+Edad: 58 años Sexo: H.
+Fecha de Ingreso: 21/09/2011.
+Médico: Luis Picó Vicent  NºCol: 03 03 20150.
+Informe clínico del paciente: Varón de 58 años de edad y superficie corporal de 2,02 m_ con cardiopatía isquémica e insuficiencia renal crónica secundaria a nefroangioesclerosis. Informado sobre técnicas dialíticas optó por DP al desear un tratamiento domiciliario. El 23-enero-2004 se le implantó sin incidencias un catéter autoposicionante para DP mediante método quirúrgico. Una radiografía de tórax preoperatoria no mostró derrame pleural ni otras alteraciones destacables.
+El 30-marzo-2004 se inició DP continua ambulatoria (DPCA) con 3 intercambios diarios de 2.000 cc al 1,36%. A las 48 horas el paciente refirió drenajes de 2.500 cc tras 8 h. de estancia, por lo que la pauta se modificó a 2 intercambios diarios con mismo volumen y glucosa para minimizar el efecto negativo de la ultrafiltración excesiva sobre la función renal residual (FRR). Tras 1 semana en DPCA, el día 6-abril-2004 consultó por disnea de medianos esfuerzos con ortopnea de 48 horas de evolución. Tenía diuresis abundante, drenajes de 2.300-2.400 cc por intercambio y peso estable. A la exploración destacaba una disminución del murmullo vesicular en la base pulmonar derecha, compatible con la existencia de derrame pleural a ese nivel, que se confirmó en una radiografía de tórax.
+Con diagnóstico de sospecha de hidrotórax en DPCA se practicó toracocentesis diagnóstica derecha que mostró un líquido amarillo claro con proteínas < 1 g/dl, 17 leu/mm3, 40 hem/mm3 y 197 mg/dl de glucosa para una glucemia de 108 mg/dl. Ante la confirmación diagnóstica de hidrotórax se suspendió la DPCA y se mantuvo al paciente ambulante y sin diálisis dada su buena FRR. Los síntomas mejoraron ya al día siguiente y en una revisión realizada una semana después se comprobó ausencia de derrame pleural.
+El 20-abril-2004, tras 2 semanas sin DP, se ingresó al paciente y se reinició DPCA en decúbito con 6 intercambios/día de 1.000 cc al 1,36% para minimizar la presión intraperitoneal, sin que se produjera recidiva inicial del hidrotórax. Tras 4 días sin problemas se aumento el volumen de infusión a 1.500 cc y se permitió la deambulación. El día 27-abril-2004 fue dado de alta. Tras 3 días en su domicilio y 10 después de reiniciar la DPCA acudió de nuevo al hospital con recidiva del hidrotórax derecho. En esta ocasión, y tras suspender la DPCA de inmediato, se implantó un catéter para hemodiálisis (HD) en vena femoral derecha. La buena evolución del caso durante los primeros días tras reiniciar la DPCA nos animó a un nuevo intento de solucionar el problema mediante reposo peritoneal, esta vez más prolongado.
+El 31-mayo-2004, tras un mes de reposo peritoneal, reinició de nuevo DPCA con 5 intercambios diarios de 1.000 cc al 1,36% y reposo absoluto en cama, recidivando en esta ocasión el hidrotórax tan solo 48 horas después. De nuevo se suspendió la DPCA y se reinició HD. Ante la ineficacia del tratamiento conservador, y de acuerdo con el enfermo, se indicó pleurodesis con talco que los cirujanos torácicos realizaron el 18-junio-2004 sin incidencias ni problemas posteriores. Una radiografía de tórax realizada 4 días después de la toracocentesis demostró ausencia de derrame pleural. Tras mantener al paciente en HD durante 5 semanas más según recomendación de los cirujanos torácicos, el día 26-julio-2004 reinicio DPCA con 4 intercambios/día de 1500 cc al 1,36%, esta vez ya sin incidencias. Actualmente, 15 meses después de reiniciar la DPCA tras la pleurodesis, el enfermo continúa en DPCA sin recidiva del hidrotórax, usa 4 intercambios/día de 2 litros al 1,36% y está realmente satisfecho de poder mantenerse en el tipo de diálisis que había elegido.
+Remitido por: Dr. Luis Picó Vicent Servicio Nefrología, planta 7 A Hospital General Universitario de Alicante Avda Pintor Baeza s/n 03010 Alicante Correo electrónico: pico_lui@gva.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T30" start="29" end="36" text="Ignacio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T29" start="49" end="64" text="Herrejon Valero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T28" start="71" end="78" text="3495981" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T27" start="86" end="100" text="47 56358907 50" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T26" start="113" end="145" text="Avenida de la república, 19, 3 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T25" start="169" end="177" text="Alicante" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T24" start="182" end="187" text="03520" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T22" start="231" end="241" text="25/12/1952" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T23" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T20" start="263" end="270" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T18" start="277" end="278" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T21" start="298" end="308" text="21/09/2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T16" start="318" end="334" text="Luis Picó Vicent" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T14" start="343" end="354" text="03 03 20150" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T17" start="386" end="391" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T19" start="395" end="402" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="625" end="638" text="23-enero-2004" TYPE="FECHAS" comment=""/>
+    <DATE id="T12" start="837" end="850" text="30-marzo-2004" TYPE="FECHAS" comment=""/>
+    <DATE id="T11" start="1239" end="1251" text="6-abril-2004" TYPE="FECHAS" comment=""/>
+    <DATE id="T10" start="2126" end="2139" text="20-abril-2004" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="2468" end="2481" text="27-abril-2004" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="2942" end="2954" text="31-mayo-2004" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="3356" end="3369" text="18-junio-2004" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="3630" end="3643" text="26-julio-2004" TYPE="FECHAS" comment=""/>
+    <NAME id="T15" start="4012" end="4028" text="Luis Picó Vicent" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="4061" end="4103" text="Hospital General Universitario de Alicante" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="4104" end="4125" text="Avda Pintor Baeza s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="4126" end="4131" text="03010" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4132" end="4140" text="Alicante" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="4161" end="4176" text="pico_lui@gva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

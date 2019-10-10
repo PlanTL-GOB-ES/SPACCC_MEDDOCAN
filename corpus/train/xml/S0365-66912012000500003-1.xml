@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Belen.
+Apellidos: Figueroa Martinez.
+NHC: 4027580.
+NASS: 28 76956915 32.
+Domicilio: Calle Yamal, 5, 4 A.
+Localidad/ Provincia: Madrid.
+CP: 28035.
+Datos asistenciales.
+Fecha de nacimiento: 21/11/1957.
+País de nacimiento: España.
+Edad: 51 años Sexo: M.
+Fecha de Ingreso: 13/07/2009 .
+Médico: Juan Iglesias Martín  NºCol: 28 28 15235.
+Informe clínico del paciente: Mujer de 51 años de edad, sin antecedentes personales de interés, remitida a la Unidad de Uveítis de nuestro centro por episodios de dolor ocular y disminución progresiva de agudeza visual en ambos ojos de 3 años de evolución, que habían cedido parcialmente con corticoides.
+A la exploración presenta una agudeza visual mejor corregida (AVMC) de 0,7 en ojo derecho (OD) y 0,5 en ojo izquierdo (OI). La presión intraocular era de 28 y 19mmHg, respectivamente. La biomicroscopia del segmento anterior en el OD denotaba un enrojecimiento ligero del sector temporal.
+El fondo de ojo derecho presentaba hemorragia en astilla peripapilar inferior, pliegues retinocoroideos temporales superiores y exudados lipídicos, con la retina aplicada.
+La imagen obtenida con ecografía en modo B muestra un engrosamiento escleral difuso junto con fluido en la cápsula de Tenon adyacente dando lugar al signo «de la T».
+Se realiza una interconsulta a Medicina Interna, que lleva a cabo una exploración por aparatos y sistemas, e igualmente se solicitan marcadores bioquímicos y sanguíneos (VSG, PCR, ANA, ANCA, FR, B27, serología infecciosa), que descartan la presencia de enfermedad sistémica asociada. También se solicita una resonancia magnética nuclear (RM) y una tomografía axial computarizada, que descartan otro tipo de lesión ocular u orbitaria.
+A la vista de los resultados la paciente se diagnostica de escleritis posterior idiopática y de hipertensión ocular secundaria al tratamiento farmacológico corticoideo, y se instaura de nuevo tratamiento con prednisona oral junto con antihipertensivos oculares.
+Se hacen controles trimestrales, entre los cuales la paciente padece episodios recurrentes de dolor ocular y enrojecimiento de ambos ojos, evidenciándose solo signos sutiles tanto en la ecografía (leve engrosamiento esclerocoroideo) como en el fondo de ojo. Para poder valorar en estas situaciones dudosas la actividad inflamatoria empleamos la OCT, evidenciándose la presencia de pliegues a nivel de la retina interna/EPR/coriocapilar como signos indirectos de inflamación escleral, de tal manera que la OCT permitió una adecuada monitorización de la paciente hasta conseguir una situación clínica estable, manifestada en este caso por la ausencia de anomalías tomográficas.
+Dada la cronicidad del proceso y la necesidad de requerir tratamiento corticoideo por tiempo prolongado, se introdujo tratamiento de mantenimiento con metotrexato, con rescate corticoideo.
+Actualmente la paciente se encuentra estable, sin que se aprecien signos inflamatorios en la exploración oftalmológica ni en las pruebas tomográficas ni ecográficas.
+Responsable clínico: Dr. Juan Iglesias Martín. Correo electrónico: juaniglesiasmartin@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="33" text="Belen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="46" end="63" text="Figueroa Martinez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="70" end="77" text="4027580" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="85" end="99" text="28 76956915 32" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="112" end="131" text="Calle Yamal, 5, 4 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="155" end="161" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="167" end="172" text="28035" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="216" end="226" text="21/11/1957" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="248" end="254" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="262" end="269" text="51 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="276" end="277" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="297" end="307" text="13/07/2009" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="318" end="338" text="Juan Iglesias Martín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="347" end="358" text="28 28 15235" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="390" end="395" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="399" end="406" text="51 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="3043" end="3063" text="Juan Iglesias Martín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3085" end="3115" text="juaniglesiasmartin@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Cesar.
+Apellidos: Ramiñon Baez.
+NHC: 8934573.
+NASS: 48 35873568 09.
+Domicilio: C/ la Sierra, 23.
+Localidad/ Provincia: Lugo.
+CP: 27042.
+Datos asistenciales.
+Fecha de nacimiento: 05/01/1971.
+País de nacimiento: España.
+Edad: 47 años Sexo: H.
+Fecha de Ingreso: 15/06/2018.
+Médico: Javier Fandiño  NºCol: 27 27 89578.
+Informe clínico del paciente:varón de 47 años de edad, sin antecedentes de interés, con historia de cefalea y ocasionalmente vértigo en los últimos cuatro años, que consulta por trastorno inespecífico de la visión. La exploración neurológica resultó ser normal, excepto la detección de una cuadrantanopsia homónima inferior derecha en el estudio campimétrico. No existían malformaciones o anomalías asociadas a nivel de sistema nervioso central ni fuera de éste. La tomografía computarizada (TC) resultó ser normal. Se le practicó un estudio con RM que demostró, en secuencias T1 y en proyección parasagital, dos focos de hiperseñal situados en la cisterna cuadrigémina y en el labio superior de la cisura calcarina izquierda compatibles con el diagnóstico de lipomas.
+No se realizó intervención quirúrgica, permaneciendo el paciente con idéntica sintomatología dos años después.
+Responsable clínico: Dr. Javier Fandiño. C/Montevideo 17- 3º. 27001 Lugo. España.

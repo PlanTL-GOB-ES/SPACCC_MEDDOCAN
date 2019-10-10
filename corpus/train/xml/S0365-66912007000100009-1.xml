@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Mabel.
+Apellidos: Valeriano Gradiz.
+NHC: 7236529.
+NASS: 73 46093560 22.
+Domicilio: Calle Sangenjo, 32 .
+Localidad/ Provincia: Madrid.
+CP: 28034.
+Datos asistenciales.
+Fecha de nacimiento: 26/07/1944.
+País de nacimiento: España.
+Edad: 69 años Sexo: M.
+Fecha de Ingreso: 12/10/2013.
+Médico:  Beatriz Puerto Hernández NºCol: 28 28 93560.
+Informe clínico del paciente: Mujer de 69 años ingresada por astenia y fatiga en el curso de un brote de arteritis de la temporal en tratamiento de mantenimiento con glucocorticoides.
+Se consulta de forma urgente con el oftalmólogo por disminución de agudeza visual (AV), dolor, lagrimeo y dificultad para abrir los párpados del ojo derecho (OD), asociado a exoftalmos ipsilateral de comienzo incierto.
+La AV era de 0,3 en el OD y 0,6 en el ojo izquierdo (OI) con un defecto pupilar aferente relativo de 3+/4+ en el OD. Existía leve hiperemia conjuntival, restricciones en las supraducciones del OD con diplopia vertical y leve exoftalmos ipsilateral con párpados edematosos a tensión. La presión intraocular (PIO) era de 15 mmHg y de 17 mmHg en supraducción del OD y 14 mmHg en el OI. La mácula era normal y la papila no presentaba edema ni palidez.
+Dos meses antes, la AV era de 0,8 en ambos ojos con cataratas incipientes.
+Ante este cuadro clínico se solicita un TAC orbitario urgente en el que aparece engrosamiento sin clara forma de huso de los músculos recto inferior y recto lateral del OD, sobre todo en los dos tercios distales con discreto aumento de la grasa orbitaria, así como ocupación de las celdillas etmoidales posteriores y de la fosa pterigomaxilar.
+Se decide instaurar tratamiento con metilprednisolona 250 mg intravenosa cada 6 horas durante 3 días. La paciente es evaluada 2 días después y ya refiere mejoría significativa. En el campo visual se observa una reducción concéntrica que posteriormente se normaliza.
+Tras ocho meses, la AV del OD intervenido de cataratas es la unidad, con reflejos pupilares normales y sin palidez papilar. La TAC y la RMN muestran una ocupación inespecífica de la fosa pterigopalatina y del vértice orbitario con leve engrosamiento distal de los músculos recto inferior y recto lateral compatible con pseudotumor orbitario.
+Responsable clínico:  Beatriz Puerto Hernández Hospital Ramón y Cajal Ctra. de Colmenar, km. 9,100 28034 Madrid España E-mail: beapuertoh@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="33" text="Mabel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="46" end="62" text="Valeriano Gradiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="69" end="76" text="7236529" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="84" end="98" text="73 46093560 22" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="111" end="129" text="Calle Sangenjo, 32" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="154" end="160" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="166" end="171" text="28034" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="215" end="225" text="26/07/1944" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="247" end="253" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="261" end="268" text="69 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="275" end="276" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="296" end="306" text="12/10/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="317" end="341" text="Beatriz Puerto Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="349" end="360" text="28 28 93560" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="392" end="397" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="401" end="408" text="69 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2262" end="2286" text="Beatriz Puerto Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2287" end="2309" text="Hospital Ramón y Cajal" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2310" end="2338" text="Ctra. de Colmenar, km. 9,100" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2339" end="2344" text="28034" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2345" end="2351" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2352" end="2358" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2367" end="2389" text="beapuertoh@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

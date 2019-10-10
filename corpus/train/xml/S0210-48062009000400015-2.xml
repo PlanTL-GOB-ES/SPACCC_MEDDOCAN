@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Gabriel .
+Apellidos: Garrido Carrasco.
+NHC: 7509063.
+NASS: 66 57360597 61.
+Domicilio: Rúa María de Berdiales, 22, .
+Localidad/ Provincia: Vigo, Pontevedra.
+CP: 36203.
+Datos asistenciales.
+Fecha de nacimiento: 01/04/1939.
+País de nacimiento: España.
+Edad: 75 años Sexo: H.
+Fecha de Ingreso: 23/12/2014.
+Servicio: Urología.
+Episodio: 8330939.
+Médico: Luis Andrade Fariña NºCol: 36 36 42841.
+Informe clínico del paciente: Varón de 75 años que es encontrado accidentado en la vía pública, con trauma cráneo-encefálico, fracturas en extremidades superior e inferior derechas y costales, con enfisema subcutáneo intenso, y hematuria leve. Ingresa en la Unidad de Cuidados Intensivos para soporte ventilatorio y en los estudios de imagen de la pelvis se le encuentra fractura cerrada de huesos pelvianos con esquirla ósea improntando en la vejiga. Una reconstrucción de las imágenes de TAC parecía descartar la lesión vesical penetrante. Sin embargo, una vez estabilizadas las constantes vitales, se realiza cistoscopia que demuestra perforación de la pared vesical anterior por la esquirla ósea. Por un acceso suprapúbico se reparó la vejiga y extirpó el fragmento óseo, sin secuelas y con posterior buena curación de las fracturas.
+Responsable clínico: Dr. Luis Andrade Fariña Servicio de Urología. Hospital POVISA Salamanca 5 - 36211 Vigo, Pontevedra Tel.: 986 413144 E-mail autor: luisfarina@yahoo.com Información: Nota clínica
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="28" end="35" text="Gabriel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="49" end="65" text="Garrido Carrasco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="72" end="79" text="7509063" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="87" end="101" text="66 57360597 61" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="114" end="140" text="Rúa María de Berdiales, 22" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="166" end="170" text="Vigo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="172" end="182" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="188" end="193" text="36203" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="237" end="247" text="01/04/1939" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T1" start="269" end="275" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="283" end="290" text="75 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="297" end="298" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="318" end="328" text="23/12/2014" TYPE="FECHAS" comment=""/>
+    <ID id="T14" start="360" end="367" text="8330939" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T13" start="377" end="396" text="Luis Andrade Fariña" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="404" end="415" text="36 36 42841" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="447" end="452" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="456" end="463" text="75 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="1280" end="1299" text="Luis Andrade Fariña" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="1322" end="1337" text="Hospital POVISA" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="1338" end="1349" text="Salamanca 5" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="1352" end="1357" text="36211" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="1358" end="1362" text="Vigo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1364" end="1374" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="1381" end="1391" text="986 413144" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T2" start="1406" end="1426" text="luisfarina@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

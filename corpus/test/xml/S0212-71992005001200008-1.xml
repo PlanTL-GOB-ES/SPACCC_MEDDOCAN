@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Ramon.
+Apellidos: Casado Bierzo .
+NHC: 164253.
+NASS:32 64125896 32.
+Domicilio: Calle Mendez Alvado 46.
+Localidad/ Provincia: Cuenca.
+CP: 16004.
+Datos asistenciales.
+Fecha de nacimiento: 01/10/1960.
+País: España.
+Edad: 57 años Sexo: H.
+Fecha de Ingreso: 16/12/2017.
+Médico: Javier García-Cano NºCol: 16 16 03844.
+Historia Actual: Paciente de 57 años con ingresos hospitalarios repetidos por epigastralgia acompañadas de elevaciones mínimas de la amilasa. El paciente estaba diagnosticado de adenoma prostático. Refería dolor epigástrico y distensión abdominal durante las comidas que le obligaba a interrumpir la ingesta. En tres ocasiones el paciente acudió a Urgencias. Se observó únicamente una leve elevación de la amilasa (155 UI, normal < 100). Para intentar llegar a un diagnóstico se realizaron una ecografía abdominal trancutánea, gastroscopia, colonoscopia y TC abdominal. Todas las pruebas fueron normales. Finalmente se realizó una colangiopancreatografía por resonancia magnética (CPRM). En ella sólo se observó que el colédoco y el Wirsung desembocaban separados en la pared duodenal. Inicialmente se interpretó como una variante de la normalidad que puede aparecer hasta casi en un 24% sujetos normales (1). No obstante, ante lo invalidante de los síntomas (el paciente refería epigastralgia casi con todas las comidas) se le propuso realiazar una colangiopancreatografía retrógrada endoscópica (CPRE).
+Existía una historia de alergia a contrastes yodados, por lo que se realizó una profilaxis con glucocorticoides. En la imagen endoscópica la papila presentaba un aspecto fláccido. Se canuló profundamente la vía biliar y se introdujo una guía de 0.025 pulgadas para asegurar el acceso al colédoco. La introducción del contraste para la colangiopancreatografía se realizó desde el mismo orificio papilar. Durante la inyección la papila presentó una distensión visible en la imagen endoscópica y que apareció como una estructura quística en la colangiografía. El Wirsung también se dibujó durante la inyección de contraste pero se vació inmediatamente por lo que no quedó reflejado en las radiografías. Se realizó el diagnóstico de coledococele y se procedió a seccionarlo mediante una esfinerotomía biliar. El paciente no presentó complicaciones de la intervención endoscópica y el dolor durante la ingesta no ha reaparecido tras dos años de seguimiento.
+Remitido por: Dr. Javier García-Cano. C/ Federico Mayor Zaragoza, 2, 5A, 16002 Cuenca. e-mail: j.garcia-cano@terra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="9" end="14" text="Ramon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="27" end="40" text="Casado Bierzo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="48" end="54" text="164253" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="61" end="75" text="32 64125896 32" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="88" end="110" text="Calle Mendez Alvado 46" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="134" end="140" text="Cuenca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="146" end="151" text="16004" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="195" end="205" text="01/10/1960" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="213" end="219" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="227" end="234" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="241" end="242" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="262" end="272" text="16/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="282" end="300" text="Javier García-Cano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="308" end="319" text="16 16 03844" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T6" start="350" end="357" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="2397" end="2415" text="Javier García-Cano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2417" end="2450" text="C/ Federico Mayor Zaragoza, 2, 5A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2452" end="2457" text="16002" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2458" end="2464" text="Cuenca" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2474" end="2496" text="j.garcia-cano@terra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

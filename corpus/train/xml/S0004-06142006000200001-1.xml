@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Matilde.
+Apellidos: Ugarte Dominguez.
+NHC: 1347609.
+NASS: 20 46381972 03.
+Domicilio: Calle de las Margaritas, 13.
+Localidad/ Provincia: Albacete.
+CP: 02349.
+Datos asistenciales.
+Fecha de nacimiento: 01/01/1987.
+País: España.
+Edad: 31 años Sexo: M.
+Fecha de Ingreso: 20/05/2018.
+Servicio: Urología.
+Médico: Hector Pastor Navarro  NºCol: 02 02 45098.
+Informe clínico del paciente: Paciente con antecedentes de hernia de hiato y dos cesáreas a los 22 y 24 años. A los 31 años consultó por referir desde la segunda cesárea y cada vez con mayor intensidad, cuadro de síndrome miccional, acompañado de algias pelvianas y perineales, en los días previos, durante y posteriores a la menstruación. No refería hematurias ni fiebre. A la exploración los genitales externos y el abdomen no mostraban alteraciones. Fue tratada en múltiples ocasiones con antisépticos urinarios, aunque nunca se demostraron urocultívos positivos. La ecografía renal era normal y a nivel de vejiga se apreció en cara posterior una imagen excrecente, hiperecogénica de 1,5 cm. Se realizó cistoscopia a mediados del ciclo menstrual describiéndose la existencia de pequeña área, mínimamente sobreelevada, deslustrada, retrotrigonal, que al contacto con el cistoscopio produce equímosis tenues, no identificandose en aquel momento como la imagen de la endometriosis.
+La paciente se perdió para controles durante 3 años, durante los cuales continuó con la misma sintomatología, siendo tratada por su ginecólogo quien efectuó laparoscopia diagnostica no apreciando focos endometriósicos pélvicos, pero sí cuadro adherencial a paredes pélvicas y vejiga solidaria a cuerpo uterino.
+La paciente acudió de nuevo a nuestro servicio, realizandose ecografía y TAC. En ecografía abdominal, y transvaginal se aprecia formación ecogénica en suelo vesical 2 x 1,5x2,7.
+En TAC abdominopélvico, no se observó patología a nivel de órganos abdominales, comprobándose en vejiga la presencia de una masa de 2x3 cm en cara posterior sin plano de diferenciación claro con el útero.
+A los 34 años y con la sospecha de posible endometriosis se realizó endoscopia vesical bajo anestesia, pocos días antes de la menstruación, observándose masa de aspecto morular de unos 3 cm, retrotrigonal, con mucosa algo edematosa, íntegra y con áreas de color azulado. Se practicó RTU, mostrando al seccionar con el asa pequeñas cavidades, que se correspondían con glándulas endometriales quistificadas, de las que al corte manaba sangre retenida, en forma de fluido negruzco.
+El estudio histopatológico, confirmó la presencia de nidos intramusculares de glándulas de tipo endometrial, rodeados de estroma endometrial edematoso, sin signos de malignidad; todo ello compatible con el diagnóstico de endometriosis.
+La paciente fue tratada durante 6 meses con análogos de LH-RH. Cinco años después esta completamente asintomática y con varias ecografías vesicales y dos cistoscopias durante este periodo sin evidencia de recidiva.
+Remitido por: Dr.Hector Pastor Navarro Servicio de Urología Hospital General Universitario Hermanos Falcó, s/n 02006 Albacete. (España)
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="29" end="36" text="Matilde" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="49" end="65" text="Ugarte Dominguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="72" end="79" text="1347609" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="87" end="101" text="20 46381972 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="114" end="141" text="Calle de las Margaritas, 13" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="165" end="173" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="179" end="184" text="02349" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="228" end="238" text="01/01/1987" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="246" end="252" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="260" end="267" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="274" end="275" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="295" end="305" text="20/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="335" end="356" text="Hector Pastor Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="365" end="376" text="02 02 45098" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T9" start="474" end="476" text="22" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="479" end="486" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="494" end="501" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="2060" end="2067" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T11" start="3001" end="3022" text="Hector Pastor Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3044" end="3074" text="Hospital General Universitario" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3075" end="3094" text="Hermanos Falcó, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3095" end="3100" text="02006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3101" end="3109" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="3112" end="3118" text="España" TYPE="PAIS" comment=""/>
+  </TAGS>
+</MEDDOCAN>

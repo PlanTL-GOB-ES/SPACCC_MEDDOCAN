@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre: Alejandro.
+Apellidos: Peña Rodriguez .
+CIPA: nhc-589654.
+NASS: 15 15694 65.
+Domicilio: Teatinos 180.
+Localidad/ Provincia: Santiago, Chile.
+CP: 7591538.
+NHC: 589654.
+Datos asistenciales.
+Fecha de nacimiento: 13/10/1932.
+País: Chile .
+Edad: 85 Sexo: H.
+Fecha de Ingreso: 09/06/2017.
+Especialidad: .
+Médico: Octavio Castillo  NºCol: 8483.
+Motivo de ingreso: Paciente de 85 años, trabajador de la construcción jubilado, sin antecedentes médicos ni quirúrgicos previos, quien consulta acompañado de su hija por ocasionales episodios de mareo.
+Exploración física: Al examen físico se pesquisa un pulso irregular de 92 por minuto, presión arterial de 110 / 80, examen cardio-pulmonar normal y un IMC (Índice de Masa Corporal) de 26. El examen abdominal revela una masa en flanco derecho, indolora, que se desplaza con los movimientos respiratorios.
+Resumen de pruebas complementarias: El electrocardiograma muestra una arritmia completa por fibrilación auricular, hemograma normal con una velocidad de sedimentación de 36 mm/hr, Creatinina de 1.03 mg/dl, albúmina y proteínas totales normales, y función hepática normal. Se realiza una tomografía computada de abdomen que muestra una masa quística multilocular de 12 cm. de diámetro en el polo inferior del riñón derecho.
+Evolución y comentarios: Con el diagnóstico de tumor renal derecho se discute con el paciente y la familia los riesgos de la cirugía, quienes aceptan el procedimiento. Tres semanas después del diagnóstico se realiza una nefrectomía radical laparoscópica mano asistida, indicada por el volumen de la masa tumoral.
+Se lleva a cabo el procedimiento quirúrgico con la colocación de 4 trócares. Dos de 10 mm., uno subcostal derecho y otro pararectal derecho a nivel del ombligo, este último para la introducción de la cámara. Se instalan además 2 trócares de 5 mm. en el epigastrio para separación del hígado. La introducción de la mano del cirujano se realiza a través de una incisión oblicua en la fosa ilíaca derecha. Se realiza la nefrectomía radical de forma habitual preservando la glándula suprarrenal. El riñón es colocado en una bolsa de polietileno y se extrae a través de la incisión de la fosa ilíaca.
+El tiempo quirúrgico fue de 100 minutos, con sangrado estimado inferior a 100 ml. No hubo alteraciones hemodinámicas intraoperatorias ni postoperatorias.
+El postoperatorio inmediato evoluciona sin complicaciones, requiriendo analgésicos no esteroideos (Ketorolaco) para control de dolor. Se indica alta médica a las 36 horas de la cirugía.
+En el control ambulatorio a los 9 días de la cirugía el paciente se encontraba asintomático y sus exámenes mostraban una hemoglobina de 13.7 mg/dl, Creatinina de 1.74 mg/dl y Nitrógeno ureico de 23.0 mg/dl. La biopsia fue informada como riñón y tejido adiposo perirenal que en conjunto pesaban 1.400 gr. Hacía el polo inferior y en íntimo contacto con el riñón se encontraba un tumor de 9.5 cm., de consistencia firme, que al corte presentaba extensas áreas quísticas, amarillo-anaranjadas, reblandecidas, necróticas, con contenido hemorrágico y que no traspasaba la cápsula renal. En la periferia del tumor se reconocían áreas tumorales de aspecto adiposo bien delimitadas, amarillo pálidas, que en conjunto constituían una tumoración de 15 cm de diámetro y que quedaban en íntimo contacto con la sección quirúrgica, separada de ella por una delgada lámina de tejido fibroso de 0.1 cm de espesor.
+Al examen histológico el parénquima renal presentaba arquitectura conservada. La porción tumoral central presentaba una proliferación neoplásica hipercelular, de células fusadas, estrelladas, epiteloides, algunas gigantes, con escaso citoplasma mal delimitado, con núcleos irregulares de nucléolos prominentes y elevada tasa mitótica; las células se disponían en sábanas en medio de un estroma mixoide moderadamente abundante en algunos sectores con caracteres de mixofibrosarcoma G3 (fibrohistiocitoma maligno variante mixoide).
+En las porciones periféricas, el tumor presentaba un aspecto claramente adiposo mejor diferenciado con caracteres de mixoliposarcoma G1-2. El tumor adiposo quedo separado de la sección quirúrgica por una delgada lámina de tejido fibroso de 1 mm de espesor.
+El informe anatomopatológico concluyo de que se trataba de un mixoliposarcoma perirenal con indiferenciación hacia mixofibrosarcoma G3 (fibrohistiocitoma maligno variante mixoide). El paciente actualmente se encuentra asintomático y con una función renal estable luego de 9 meses de la cirugía.
+Diagnóstico Principal: tumor renal derecho
+Responsable clinico: Dr Octavio Castillo Calle Santa María 0500 Providencia. Santiago de Chile. Email: octaviocastillo@vtr.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="9" end="18" text="Alejandro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="31" end="45" text="Peña Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="58" end="64" text="589654" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="72" end="83" text="15 15694 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="96" end="108" text="Teatinos 180" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="132" end="140" text="Santiago" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="142" end="147" text="Chile" TYPE="PAIS" comment=""/>
+    <LOCATION id="T18" start="153" end="160" text="7591538" TYPE="TERRITORIO" comment=""/>
+    <ID id="T17" start="167" end="173" text="589654" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="217" end="227" text="13/10/1932" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="235" end="240" text="Chile" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="249" end="251" text="85" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="258" end="259" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="279" end="289" text="09/06/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="315" end="331" text="Octavio Castillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="340" end="344" text="8483" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T9" start="377" end="384" text="85 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="507" end="511" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="1374" end="1381" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="4571" end="4587" text="Octavio Castillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="4588" end="4605" text="Calle Santa María" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="4606" end="4610" text="0500" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="4611" end="4622" text="Providencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="4624" end="4641" text="Santiago de Chile" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="4650" end="4673" text="octaviocastillo@vtr.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

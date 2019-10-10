@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Ramiro.
+Apellidos: Alfaro Soto.
+NHC: 4835758.
+NASS: 28 76235749 90.
+Domicilio: Calle Vía Límite, 12, 4 B.
+Localidad/ Provincia: Madrid.
+CP: 28046.
+Datos asistenciales.
+Fecha de nacimiento: 21/07/1944.
+País de nacimiento: España.
+Edad: 68 años Sexo: H.
+Fecha de Ingreso: 10/05/2013.
+Médico: David Crespo Marcos NºCol: 28 28 79354.
+Informe clínico del paciente:  Varón de 68 años, sin alergias medicamentosas conocidas, con antecedentes de HTA, insuficiencia renal crónica leve, fibrilación auricular crónica, déficit de antitrombina III que llevó a isquemia intestinal por trombosis venosa mesentérica nueve años antes, con resección de 150 cm de yeyuno e íleon.
+En marzo de 2005 acudió al Servicio de Urgencias tras haber presentado en su domicilio dos deposiciones melénicas. Se realizó una endoscopia digestiva alta, visualizándose una porción de mucosa depapilada del duodeno sin sangrado activo. En la colonoscopia se objetivaron múltiples lesiones teleangiectásicas sin sangrado activo. Posteriormente, se realizó estudio con cápsula endoscópica, que reveló múltiples equimosis en duodeno, yeyuno, íleon y ciego.
+Tras varios episodios similares de HDB que requirieron transfusiones, se repitieron las endoscopias y la cápsula, sin nuevos hallazgos. También se realizó gammagrafía con hematíes marcados, resultando compatible con la existencia de angiodisplasia de intestino delgado. Durante uno de los episodios se realizó una angiografía mesentérica, apreciándose extravasación a nivel de fístula arteriovenosa y realizando embolización con coils, tras la cual presentó un cuadro de abdomen agudo y persistencia del sangrado, realizándose laparotomía y encontrando isquemia de la anastomosis previa, en posible relación con la embolización. Se practica nueva resección de íleon, quedando unos 80 cm con la válvula ileocecal intacta.
+Pese a la intervención continuó con los cuadros de HDB, por lo que se intentó tratamiento con somatostatina, sin respuesta.
+En los 28 meses que siguieron al primer episodio el paciente requirió un total de 132 concentrados de hematíes.
+Ante el fracaso de todas las terapias previas y la no pertinencia de nuevos tratamientos quirúrgicos, se comenzó el tratamiento con talidomida a dosis de 100 mg al día a principios de julio de 2007. Ocho meses después, el paciente no ha presentado nuevos episodios de HDB ni ha requerido de ninguna transfusión. Actualmente el paciente es seguido de forma mensual en consultas externas, se encuentra asintomático salvo por parestesias ocasionales y leves en miembros inferiores, con electromiograma normal. El paciente ha presentado un episodio de TEP bilateral resuelto con el tratamiento anticoagulante. Dados los antecedentes de déficit de antitrombina III y el hecho de que la trombofilia no está descrita entre los posibles efectos secundarios de la talidomida, pensamos que este evento no es achacable al uso de la misma.
+Responsable clínico: Dr. David Crespo Marcos. Email. dcrespo@fhalcorcon.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="34" text="Ramiro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="47" end="58" text="Alfaro Soto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="65" end="72" text="4835758" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="80" end="94" text="28 76235749 90" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="107" end="132" text="Calle Vía Límite, 12, 4 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="156" end="162" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="168" end="173" text="28046" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="217" end="227" text="21/07/1944" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="263" end="270" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="277" end="278" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="298" end="308" text="10/05/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="318" end="337" text="David Crespo Marcos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="345" end="356" text="28 28 79354" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="389" end="394" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="398" end="405" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="693" end="706" text="marzo de 2005" TYPE="FECHAS" comment=""/>
+    <DATE id="T2" start="2287" end="2300" text="julio de 2007" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="2956" end="2975" text="David Crespo Marcos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2984" end="3005" text="dcrespo@fhalcorcon.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

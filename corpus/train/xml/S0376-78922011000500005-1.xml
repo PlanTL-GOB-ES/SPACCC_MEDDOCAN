@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Roberto.
+Apellidos: Mojacar Miguel.
+NHC: 704564.
+NASS: 78 92365646 56.
+Domicilio: Paseo de San Eugenio 48 .
+Localidad/ Provincia: 45003.
+CP: 45003.
+Datos asistenciales.
+Fecha de nacimiento: 13/01/1962.
+País: España.
+Edad: 54 años Sexo: H.
+Fecha de Ingreso: 17/11/2016.
+Médico:  NºCol:.
+Historia Actual del paciente: Varón de 54 años con los siguientes antecedentes personales: exalcohólico, exfumador, enfermedad pulmonar obstructiva crónica (EPOC) calificada como incapacidad respiratoria de tipo mixto moderado-severo, hepatopatía, poliartrosis, polimialgia reumática y esófago de Barret. Debido a tratamiento corticoideo crónico, sufre en mayo del 2010 un aplastamiento osteoporótico vertebral por el que se le practica intervención quirúrgica consistente en fusión vertebral D2-D7 y vertebroplastia D4-D5. Un mes después es trasladado a nuestro hospital con diagnóstico de síndrome de lesión medular transversa D4 ASIA C para evaluación y tratamiento rehabilitador; este último aspecto resultó imposible desde el primer momento por la inestabilidad de la lesión vertebral. Además era necesario realizar curas locales diarias y cada 2-3 días curas regladas en quirófano por presentar también una herida abierta, infectada y esfacelada en la región vertebral dorsal alta. Se intentó de esta manera mantener el material de osteosíntesis e impedir la evolución clínica de su lesión medular. Finalmente, ante la imposibilidad de rebajar la carga bacteriana de la herida y proceder al cierre de la misma, optamos por retirar todo el material de osteosíntesis en el mes de octubre. Pautamos curas con antisépticos locales hasta conseguir un lecho adecuado para realizar, en enero del 2011, un colgajo de trapecio con paleta cutánea para cubrir el defecto existente. En el postoperatorio inmediato de esta intervención se realizaron maniobras posturales intempestivas que produjeron de forma iatrogénica una congestión venosa del colgajo descrito. Un mes después, procedimos a desbridar los tejidos afectados y colocamos 2 sistemas VAC® portátiles durante un mes: uno para gestionar el exudado generado en la zona del despegamiento muscular y otro en la parte craneal y caudal de la paleta cutánea. Elegimos para el apósito la modalidad de espuma negra (granufoam: poliuretano de 400-600 micrómetros de poro) porque se trataba de una herida residual de dimensiones relativamente pequeñas (4 x 5 cm), con escasos signos de infección y por la necesidad de mejorar el flujo sanguíneo local para limitar la pérdida de tejido y favorecer así la generación de tejido de granulación. La terapia se instauró de forma continua a -125mmHg las primeras 48 horas y luego se bajó a -75mmHg hasta el final del tratamiento.
+En marzo de 2011 cubrimos con autoinjertos las 3 zonas anteriormente descritas, ya granuladas y los fijamos con un sistema VAC® portátil de última generación (VIA®) durante una semana más a -75 mmHg, pasando entonces el paciente a cargo del Servicio de Rehabilitación para continuar con su programa de recuperación de la marcha.
+Remitido por: Dr. José Manuel Arévalo Velasco. Hospital Nacional de Parapléjicos de Toledo C/ Finca de la Peraleda s/n 45071 Toledo. España e-mail: josemarevalo@hotmail.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="9" end="16" text="Roberto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="29" end="43" text="Mojacar Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="50" end="56" text="704564" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="64" end="78" text="78 92365646 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="91" end="114" text="Paseo de San Eugenio 48" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="139" end="144" text="45003" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="150" end="155" text="45003" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="199" end="209" text="13/01/1962" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="217" end="223" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="231" end="238" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="245" end="246" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="266" end="276" text="17/11/2016" TYPE="FECHAS" comment=""/>
+    <OTHER id="T13" start="325" end="330" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="334" end="341" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="651" end="664" text="mayo del 2010" TYPE="FECHAS" comment=""/>
+    <DATE id="T2" start="1579" end="1586" text="octubre" TYPE="FECHAS" comment=""/>
+    <DATE id="T10" start="1680" end="1694" text="enero del 2011" TYPE="FECHAS" comment=""/>
+    <DATE id="T1" start="2717" end="2730" text="marzo de 2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="3061" end="3088" text="José Manuel Arévalo Velasco" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="3090" end="3133" text="Hospital Nacional de Parapléjicos de Toledo" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="3134" end="3161" text="C/ Finca de la Peraleda s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="3162" end="3167" text="45071" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="3168" end="3174" text="Toledo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3176" end="3182" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="3191" end="3214" text="josemarevalo@hotmail.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

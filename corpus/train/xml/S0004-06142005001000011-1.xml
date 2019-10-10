@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre: Gonzalo .
+Apellidos: Castro Cruz .
+CIPA: nhc-456125.
+NASS: 55-55012378-99.
+Domicilio: calle monforte de lemos 129, 8C.
+Localidad/ Provincia: Madrid, Madrid.
+CP:28029.
+       NHC: 456125.
+Datos asistenciales.
+Fecha de nacimiento: 12-03-1960.
+País: España.
+Edad: 58 Sexo: H.
+Fecha de Ingreso: 27/03/2017.
+Especialidad: Neurología .
+Médico: Ignacio Heras Rincón         NºCol: 13-87-71356.
+Motivo de ingreso: parestesias en ambas extremidades inferiores (EEII) y temblores en manos.
+Antecedentes: hipertensión arterial diagnosticada en 2012, en tratamiento farmacológico, cardiopatía isquémica por enfermedad coronaria con angioplastia transluminal de la coronaria derecha en 2014 (desde entonces asintomático, pruebas de esfuerzo posteriores negativas), dislipemia tipo II. Intervenido de criptorquídia bilateral y amigdalectomizado en juventud.
+Antecedentes familiares: un primo materno con agenesia renal unilateral y una prima materna con trasplante por insuficiencia renal.
+Historia Actual: El paciente riñón izquierdo trasplantado ingresa por parestesias en ambas extremidades inferiores (EEII) y temblores en mano. Ademas sufre de una IRC progresiva secundaria a glomerulonefritis tipo IgA con esclerosis focal y segmentaria asociada diagnosticada en 2014.El trasplante renal cursó sin incidencias (riñón izquierdo en fosa ilíaca derecha con 2 arterias en parche único y vena que se abocan a ilíacas externas), con función eficaz inmediata del injerto, sin rechazo agudo y niveles elevados de ciclosporina sin toxicidad clínica aparente. El paciente recibe tratamiento con ciclosporina 8mg/Kg, micofenolato mofetilo 2gr/día, y prednisona 1mg/Kg, disminuyendo progresivamente las cifras en controles posteriores, a los 2 años del trasplante, el paciente refiere por primera vez sensación de inestabilidad a la marcha y temblores en las manos que aumentan progresivamente iniciándose estudio por Servicio de neurología.
+Exploración física y pruebas complementarias: A la exploración física no se observa déficit motor pero sí disminución de la sensibilidad vibratoria en ambas EEII, reflejos osteotendinosos (ROT) vivos y reflejo cutaneoplantar (RCP) en extensión. La resonancia magnética nuclear (RMN) no mostró lesiones a nivel cerebral o espinal, el análisis del líquido cefalorraquídeo (LCR) mostró pleocitosis linfocitaria sin bandas oligoclonales, los potenciales evocados resultaron alterados a nivel tibial y fueron los test serológicos, ELISA, y la reacción en cadena de la polimerasa (PCR) los que fueron positivos para HTLV-I en LCR y sangre en el primer caso y en sangre la PCR. Se demostró una alta carga viral.
+Evolución y comentarios: En estos momentos el paciente es dependiente para funciones básicas de la vida diaria como aseo, deambulación (se desplaza en silla de ruedas), alimentación (no es capaz de sostener una cuchara)
+Diagnóstico Principal: paraparesia espástica tropical (TSP)
+Tratamiento: Ha rechazado tratamiento con Interferón por la posibilidad de rechazo del trasplante.Desde punto vista de la función renal, en todo momento se ha mantenido correcta con niveles de creatinina oscilantes entre 1-1-2.
+Remitido por: Dr. Ignacio Heras Rincón. Hospital Universitario 12 de octubre. Avenida de Córdoba s/n, 28041 Madrid, España Email: nachohr1@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="9" end="16" text="Gonzalo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="30" end="41" text="Castro Cruz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="54" end="60" text="456125" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="68" end="82" text="55-55012378-99" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="95" end="126" text="calle monforte de lemos 129, 8C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="150" end="156" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="158" end="164" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="169" end="174" text="28029" TYPE="TERRITORIO" comment=""/>
+    <ID id="T18" start="188" end="194" text="456125" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="238" end="248" text="12-03-1960" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="270" end="272" text="58" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="279" end="280" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="300" end="310" text="27/03/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="347" end="367" text="Ignacio Heras Rincón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="383" end="394" text="13-87-71356" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <DATE id="T10" start="542" end="546" text="2012" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="682" end="686" text="2014" TYPE="FECHAS" comment=""/>
+    <OTHER id="T27" start="881" end="894" text="primo materno" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T28" start="931" end="944" text="prima materna" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="1264" end="1268" text="2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="3162" end="3182" text="Ignacio Heras Rincón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3184" end="3220" text="Hospital Universitario 12 de octubre" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3222" end="3244" text="Avenida de Córdoba s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3246" end="3251" text="28041" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3252" end="3258" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3260" end="3266" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3274" end="3294" text="nachohr1@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

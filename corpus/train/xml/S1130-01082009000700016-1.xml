@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Fabricio.
+Apellidos: Espinosa Carrillo.
+NHC: 52476.
+NASS:34 56564457 36.
+Domicilio: Avda Juan Carlos I, 16 3A .
+Localidad/ Provincia: Cuenca.
+CP: 16004.
+Datos asistenciales.
+Fecha de nacimiento: 26/10/1938.
+País: España.
+Edad: 77 años Sexo: H.
+Fecha de Ingreso: 24/11/2015.
+Servicio: Urgencias.
+Médico: Pablo Franquelo Morales  NºCol: 16 16 91023.
+Historia Actual:Presentamos el caso de un paciente de 77, acudió de forma programada a nuestro centro para la realización de una colonoscopia previa preparación intestinal con la solución evacuante de Bohn. Durante el procedimiento sufrió una perforación intestinal a nivel de colon sigmoide, motivo por el cual fue sometido a intervención quirúrgica urgente objetivándose una perforación de 1 centímetro de longitud y de bordes limpios que fue suturada mediante sutura simple dejando un drenaje de penrose. Fue trasladado a la Unidad de Cuidados Intensivos (UCI) en el postoperatorio inmediato.
+Antecedentes: hipertensión arterial y cardiopatía isquémica que se encontraba en estudio por un cuadro de molestias abdominales inespecíficas y una anemia de reciente aparición. 
+Evolución: A su llegada a la UCI se procedió a la administración de antibióticos de amplio espectro previa toma de muestras microbiológicas. Entre las pruebas complementarias realizadas se llevó a cabo una cuantificación seriada de PCT y proteína C reactiva (PCR) observándose unos valores de PCR normales (0,25 mg/dl) y de PCT discretamente elevados (0,6 ng/ml). En las mediciones realizadas a las 2 horas y a las 12 horas del ingreso del paciente en UCI se produjo un importante incremento de los valores de PCT (12,73 y 220 ng/ml) mientras que los de PCR sólo se elevaron ligeramente (0,8 y 15,5 mg/dl). En el cultivo del drenaje abdominal se aisló un Enterobacter cloacae sensible a la pauta antibiótica administrada. La evolución posterior fue favorable siendo dado de alta a las 72 horas de ingreso en la UCI.
+Remitido por: Pablo Franquelo Morales. Servicio de Urgencias, Hospital Virgen de la Luz, C/ Hermandad de Donantes de Sangre nº 2, 16002-Cuenca (España). E-mail: pfranquelo@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="17" text="Fabricio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="30" end="47" text="Espinosa Carrillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="54" end="59" text="52476" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="66" end="80" text="34 56564457 36" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="93" end="118" text="Avda Juan Carlos I, 16 3A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="143" end="149" text="Cuenca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="155" end="160" text="16004" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="204" end="214" text="26/10/1938" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="222" end="228" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="236" end="243" text="77 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="250" end="251" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="271" end="281" text="24/11/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="312" end="335" text="Pablo Franquelo Morales" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="344" end="355" text="16 16 91023" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T11" start="411" end="413" text="77" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1962" end="1985" text="Pablo Franquelo Morales" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2010" end="2035" text="Hospital Virgen de la Luz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2037" end="2076" text="C/ Hermandad de Donantes de Sangre nº 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2078" end="2083" text="16002" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2084" end="2090" text="Cuenca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2092" end="2098" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2109" end="2128" text="pfranquelo@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Carolina.
+Apellidos: Ordoñez Julve.
+NHC: 3598742.
+NASS: 84 37283957 33.
+Domicilio:  Av. de los Pajaros,18.
+Localidad/ Provincia: Madrid.
+CP: 28006.
+Datos asistenciales.
+Fecha de nacimiento: 04/7/1952.
+País: España.
+Edad: 63 años Sexo: M.
+Fecha de Ingreso: 10/01/2016.
+Servicio: Urgencias.
+Médico: Juan Ramón Torrecilla García-Ripoll NºCol: 28 28.
+Informe clínico del paciente: paciente de 63 años de edad, con antecedentes de hipertensión arterial y angor pectoris, remitida a nuestro servicio desde un hospital de un medio rural. El motivo de la consulta era el hallazgo casual en una ecografía de una masa renal izquierda, no refiriendo la paciente sintomatología alguna. En la analítica de sangre sólo aparecía una discreta eosinofilia. Como estudios complementarios se realizaron urografías intravenosas en las que se observó un efecto masa a nivel de flanco izquierdo, de borde liso y bien delimitado, dependiente del polo superior del riñón izquierdo, con compresión extrínseca del sistema pielocalicial, de 16 x 10 cm.. La TAC reveló una masa de 17 x 12 x 19 cm en el polo superior del riñón izquierdo, con zonas quísticas, compatible con nefroma quístico multilocular, sin existir adenopatías. La gammagrafía DMSA mostraba una función renal diferencial del 63% para el riñón derecho y del 37% para el izquierdo.
+Se realizó una nueva ecografía en la que se aprecia una imagen compatible con quiste hidatídico de gran tamaño, con estructuras compatibles con vesículas en su interior. La serología hidatídica resultó negativa, por lo que se decidió someter a la paciente a una RMN que tampoco aclaró el diagnóstico de forma definitiva: masa en el polo superior del riñón izquierdo con estructura interna compleja, bien delimitada, sin captación de contraste, con calcificaciones, sospechosa de quiste hidatídico renal o nefroma quístico multilocular.
+En vista de los resultados anteriormente expuestos, el paso siguiente fue la punción ecodirigida de la masa renal, siendo nuevamente negativa la serología para hidatidosis, aunque se obtuvo un líquido de aspecto cristalino.
+Finalmente la paciente se sometió a intervención quirúrgica en la que se confirmó el diagnóstico de quiste hidatídico renal y se realizó quistectomía parcial del mismo, preparando el campo operatorio mediante compresas bañadas en rivanol..
+La evolución postoperatoria fue favorable, instaurándose tratamiento con albendazol 400 mg cada 12 horas durante un mes tras la intervención quirúrgica.
+En el momento actual la paciente permanece asintomática (se mantiene la hipertensión arterial que ya presentaba antes del diagnóstico) y la serología de control volvió a resultar negativa, persistiendo una mínima eosinofilia.
+Remitido por: Juan Ramón Torrecilla García-Ripoll. C/ Manuel Silvela nº 2, 6º A 28014 Madrid. (España) juanra8@ozu.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="29" end="37" text="Carolina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="50" end="63" text="Ordoñez Julve" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="70" end="77" text="3598742" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="85" end="99" text="84 37283957 33" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="113" end="134" text="Av. de los Pajaros,18" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="158" end="164" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="170" end="175" text="28006" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="219" end="228" text="04/7/1952" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="236" end="242" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="250" end="257" text="63 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="264" end="265" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="285" end="295" text="10/01/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="326" end="361" text="Juan Ramón Torrecilla García-Ripoll" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="369" end="374" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T7" start="418" end="425" text="63 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2742" end="2777" text="Juan Ramón Torrecilla García-Ripoll" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2779" end="2807" text="C/ Manuel Silvela nº 2, 6º A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2808" end="2813" text="28014" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2814" end="2820" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2823" end="2829" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2831" end="2845" text="juanra8@ozu.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

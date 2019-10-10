@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sonia.
+Apellidos: Navarro Buenafuente.
+NHC: 4110926.
+NASS: 02 46359865 07.
+Domicilio: Av. de Estrello, 98.
+Localidad/ Provincia: Madrid.
+CP: 28024.
+Datos asistenciales.
+Fecha de nacimiento: 24/03/1939.
+País: España.
+Edad: 76 años Sexo: M.
+Fecha de Ingreso: 30/04/2015.
+Servicio: Cirugia Ortopedica y Traumatología.
+Médico: Rafael García Cañas NºCol: 28 28 90210.
+Informe clínico del paciente:mujer de 76 años con antecedentes de hipertensión arterial, y carcinoma de recto tratado 15 años atrás con radioterapia, cirugía y quimioterapia, en remisión completa en aquel momento. Recibía tratamiento ambulatorio con analgésicos opioides, bajo seguimiento de Unidad de Dolor, por artrosis generalizada.
+El pasado mes de Septiembre de 2013, dicha paciente acudió al Servicio de Urgencias presentando un cuadro de dolor torácico agudo que fue diagnosticado de SCASEST-Killip III, valorada por el Servicio de Cardiología, se inicia dosis de carga de Prasugrel y Acetilsalicílico ácido, y se decide Intervención Coronaria Percutánea primaria por vía radial derecha, con colocación de dos stents. A las 2 horas de su estancia en la Unidad de Cuidados Intensivos, la paciente, en condiciones generales estable, comienza con un cuadro de dolor y formación de hematoma en cara volar de antebrazo derecho en relación a zona de punción de cateterismo.
+La paciente es valorada por el Servicio de Traumatología, siendo los hallazgos físicos encontrados en la exploración realizada, los siguientes:
+- Dolor, exacerbado con la extensión pasiva de dedos (extensión de musculatura flexora de antebrazo).
+- Palidez.
+- Imposibilidad para detectar pulso radial o cubital.
+- Disminución de la temperatura respecto a miembro contralateral.
+- Anestesia y parálisis total del miembro afectado.
+Ante los hallazgos clínicos, se decide realizar un diagnóstico de confirmación mediante medición de la presión intracompartimental con "Intra-Compartmental pressure monitor system" de Stryker®, obteniéndose un registro de 42mm Hg. Se determina el diagnóstico de síndrome compartimental agudo en antebrazo derecho y se propone tratamiento quirúrgico urgente.
+El procedimiento quirúrgico se realizó bajo anestesia general balanceada y control de la vía aérea con mascarilla laríngea. Profilaxis antibiótica con 2 gramos de Cefazolina intravenosa. Se procedió a realizar una incisión cutánea sobre línea media de cara volar de antebrazo, desde la flexura de codo hasta la línea de Kaplan. El tejido celular subcutáneo se encontraba intensamente infiltrado por hematoma. Se realizó una sección longitudinal de la fascia antebraquial exponiendo la musculatura epitroclear del antebrazo, además se realizó una descompresión del nervio mediano mediante sección del ligamento anular del carpo. No se observaron lesiones vasculares con signos de sangrado activo arterial. Para el cierre quirúrgico se procedió a cubrir la herida con compresas estériles impregnadas en Nitrofural, y se realizó un cierre de circunstancias mediante malla con elásticos vasculares (vessel loops) de contención, y vendaje no compresivo.
+Desde el mismo instante en que se realizó la fasciotomía, se pudo apreciar recuperación de la coloración y temperatura del miembro afecto, así como del pulso arterial. A las 3 horas posteriores a la cirugía, la paciente fue reevaluada objetivándose relleno capilar inferior a 2 segundos, movilidad y sensibilidad distal, y no refiriendo clínica de dolor. Nueve horas después, la paciente presentó ausencia de dolor en antebrazo derecho, con buen estado vasculonervioso distal.
+Remitido por: Dr. Rafael García Cañas. Servicio de Cirugía Ortopédica y Traumatología. Hospital Central de la Defensa Gómez Ulla. Glorieta del Ejército 1. 28047 Madrid. España. rgarc18@oc.mde.es.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="33" text="Sonia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="46" end="65" text="Navarro Buenafuente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="72" end="79" text="4110926" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="87" end="101" text="02 46359865 07" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="114" end="133" text="Av. de Estrello, 98" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="157" end="163" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="169" end="174" text="28024" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="218" end="228" text="24/03/1939" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="236" end="242" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="250" end="257" text="76 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="264" end="265" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="285" end="295" text="30/04/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="351" end="370" text="Rafael García Cañas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="378" end="389" text="28 28 90210" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="420" end="425" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="429" end="436" text="76 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="744" end="762" text="Septiembre de 2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="3597" end="3616" text="Rafael García Cañas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3666" end="3707" text="Hospital Central de la Defensa Gómez Ulla" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3709" end="3732" text="Glorieta del Ejército 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3734" end="3739" text="28047" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3740" end="3746" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3748" end="3754" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3756" end="3773" text="rgarc18@oc.mde.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Rubén.
+Apellidos: Alonso Rodriguez.
+NHC: 8454564.
+NASS: 87 23574362 48.
+Domicilio: Calle Abad 18.
+Localidad/ Provincia: Toledo.
+CP: 45 45 69741.
+Datos asistenciales.
+Fecha de nacimiento: 21/11/1979.
+País: España.
+Edad: 38 años Sexo: H.
+Fecha de Ingreso: 10/09/2018.
+Médico: Carlos Acosta Behrends NºCol: 45 45 69874.
+Informe clínico del paciente: Se trata de paciente masculino de 38 años de edad, que refiere limitación de la abertura oral que ha notado que se inició a los 18 años y ha venido progresando. Totalmente asintomático, condiciona ya dificultad para alimentarse. Además, cursa con diferentes focos cariosos intraorales que los dentistas que ha visitado le han declarado imposibles de tratar por la reducida abertura oral. El paciente refiere múltiples tratamientos con diferentes especialistas intentando mejorar dicha abertura oral, con terapias físicas y ejercicios mandibulares, los cuales han sido totalmente ineficaces.
+Para el momento en el que se realiza la primera exploración el paciente presenta una abertura oral máxima de 16 mm, la cual al forzarla no se modifica, el paciente cuenta con una radiografía panorámica y tomografía computarizada en las que se observa una evidente elongación de los procesos coronoideos por encima del nivel del arco cigomático. Una vez diagnosticado como HPC, se decide realizar la coronoidectomía bilateral por medio de un abordaje intraoral, cursando dentro del transoperatorio con una abertura oral máxima de 40 mm.
+Una vez pasado los 3 días postoperado se inician las terapias físicas con ejercicios de abertura oral y apoyo con abatelenguas, cursando con buena evolución durante la primera semana (21 mm de abertura oral máxima). Posteriormente presenta una disminución de la abertura oral siendo crítica (6 mm de abertura oral máxima). Se decide el uso de aparatología ortopédica funcional, con el uso del Spring-Bite, con un intervalo de 10 min de 4 a 5 veces al día, con lo que se obtiene una abertura oral de 30 mm a los 30 días de su uso. El uso de dicha aparatología se continuó por 6 meses.
+Remitido por: Carlos Acosta Behrends Correo electrónico: carloslacbeh@gmail.com 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="9" end="14" text="Rubén" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="27" end="43" text="Alonso Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="50" end="57" text="8454564" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="65" end="79" text="87 23574362 48" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="92" end="105" text="Calle Abad 18" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="129" end="135" text="Toledo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="141" end="152" text="45 45 69741" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="196" end="206" text="21/11/1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="214" end="220" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="228" end="235" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="242" end="243" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="263" end="273" text="10/09/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="283" end="305" text="Carlos Acosta Behrends" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="313" end="324" text="45 45 69874" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="377" end="386" text="masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="390" end="397" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T2" start="484" end="491" text="18 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="2081" end="2103" text="Carlos Acosta Behrends" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2124" end="2146" text="carloslacbeh@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

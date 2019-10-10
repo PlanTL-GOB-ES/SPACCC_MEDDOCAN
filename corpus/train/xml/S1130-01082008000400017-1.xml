@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Ramon.
+Apellidos: Gonzalez Acardi.
+NHC: 986245.
+NASS: 83 27893645 20 .
+Domicilio: Calle Francos Rodriguez 94, 3A.
+Localidad/ Provincia: Madrid.
+CP: 28039.
+Datos asistenciales.
+Fecha de nacimiento: 17/05/1941.
+País: España.
+Edad: 76 años Sexo: H.
+Fecha de Ingreso: 03/11/2017.
+Servicio: Urgencias.
+Episodio:78135436.
+Médico: Alejandro Rocha Abramovich  NºCol: .
+Parte médico-quirúrgico: Paciente de 76 años de edad intervenido de urgencia por tumor de ciego perforado que obstruía el íleon terminal. Entre los antecedentes personales destacaba: una cardiopatía isquémica con un IAM y un bypass aortocoronario hacía 13 y 6 años respectivamente. Se le realizó una hemicolectomía derecha y resección de 15 cm de íleon con reconstrucción del tránsito mediante una anastomosis ileocólica. Se observó la presencia de una metástasis hepática en el segmento 8 con un tamaño de 4 cm. Precisó una segunda intervención a los 4 días por absceso intraabdominal. El estudio anatomopatológico fue de adenocarcinoma bien diferenciado con 17 ganglios libres de infiltración tumoral (T4N0M1).
+En la TAC postoperatoria se observó una lesión nodular de carácter sólido de 3,5 cm en el segmento 8 del hígado. Se le realizó QM postoperatoria con FOLFOX con una disminución del tamaño de la lesión a 2,5 cm. A los 6 meses de la intervención del tumor primario se decidió realizar una RF por laparoscopia de la metástasis hepática, dado el alto riesgo quirúrgico del paciente.
+El procedimiento se realizó bajo anestesia general y con el paciente en decúbito supino. El trócar de acceso a la cavidad abdominal y para la óptica se situó a nivel de epigastrio. Se utilizó un trócar de 11 mm que se sitúo por debajo del reborde costal. El transductor de ultrasonido laparoscópico portátil de 7,5 Mhz se colocó a través del trócar de 11 mm. En la ecografía intraoperatoria no se observó ninguna otra lesión metastásica. Bajo control ecográfico y laparoscópico se procedió a la inserción del electrodo en el centro de la lesión y a la ablación de la misma con una temperatura objetivo 105 ºC, un tiempo de tratamiento de 6 minutos, una potencia alcanzada de 150 W y una ablación correcta del trayecto intrahepático. El electrodo de RF utilizado tenía 25 cm de longitud y un diámetro de ablación de 4 cm. La lesión se volvió hiperecogénica tras la ablación y no se apreció lesión residual.
+No hubo ninguna complicación postoperatoria y la estancia hospitalaria fue de un día.
+Al mes del tratamiento con RF se le realizó una TC helicoidal observándose una lesión hipodensa con ausencia de captación, compatible con necrosis completa de la lesión tumoral.
+Remitido por: Dr. Alejandro Rocha Abramovich. C/ Torquedama, 21, 1º 3 28043 Madrid
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="9" end="14" text="Ramon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="27" end="42" text="Gonzalez Acardi" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="49" end="55" text="986245" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="63" end="77" text="83 27893645 20" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="91" end="121" text="Calle Francos Rodriguez 94, 3A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="145" end="151" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="157" end="162" text="28039" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="206" end="216" text="17/05/1941" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="224" end="230" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="238" end="245" text="76 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="252" end="253" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="273" end="283" text="03/11/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T6" start="315" end="323" text="78135436" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T5" start="333" end="359" text="Alejandro Rocha Abramovich" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T8" start="407" end="414" text="76 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="2649" end="2675" text="Alejandro Rocha Abramovich" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="2677" end="2700" text="C/ Torquedama, 21, 1º 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="2701" end="2706" text="28043" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2707" end="2713" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

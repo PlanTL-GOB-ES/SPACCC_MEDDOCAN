@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Lucía.
+Apellidos: Cañizares Molina.
+NHC: 8752632.
+NASS: 78 91574785 04.
+Domicilio: Calle Daoiz, 7 Bajo B.
+Localidad/ Provincia: Segovia.
+CP: 40001.
+Datos asistenciales.
+Fecha de nacimiento: 23/08/1930.
+País: España.
+Edad: 83 años Sexo:.
+Fecha de Ingreso: 15/09/2013.
+Servicio: Nefrologia.
+Episodio: 2334545.
+Médico: Manuel Heras Benito  NºCol: 40 40 77263.
+Informe Clínico: Mujer de 83 años de edad con antecedentes de diabetes mellitus no insulinodependiente, hipertensión arterial, dislipemia y fibrilación auricular crónica que consulta por un cuadro de dolor abdominal progresivo y síndrome constitucional de un mes de evolución. En la exploración física se encontraba afebril y hemodinámicamente estable, con el abdomen globuloso, blando, depresible, doloroso a la palpación con una tumoración en flanco izquierdo. La analítica presentaba una hemoglobina de 9,3 g/dl, leucocitos 11.300 /mm3, urea 109 mg/dl, creatinina 1 mg/dl, bilirrubina total 2.6, fosfatasa alcalina 139 U/l, con el resto de función hepática normal. La tomografía computerizada (TC) abdominal halló una masa de 20 x 20 x 15 centímetros de densidad heterogénea que produce un desplazamiento de los vasos renales y sistema pielocalicial sin llegar a condicionar una uropatía obstructiva ni afectación metastásica. La cirugía conllevó una nefrectomía radical izquierda con exéresis completa de la masa. La paciente falleció al mes de la cirugía por un cuadro de edema agudo de pulmón. La anatomía patológica mostró una tumoración de 3,5 kilogramos de aspecto mucoide con áreas de hemorragia que afectan al 30%, y en su centro la pieza de nefrectomía rechazada pero sin infiltración del parénquima, compatible con un liposarcoma mixto (desdiferenciado y mixoide), con un índice mitótico de 2/10 campos de gran aumento.
+Remitido por: Manuel Heras Benito, Servicio de Nefrología, Hospital General de Segovia mheras@hgse.sacyl.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="8" end="13" text="Lucía" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="26" end="42" text="Cañizares Molina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="49" end="56" text="8752632" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="64" end="78" text="78 91574785 04" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="91" end="112" text="Calle Daoiz, 7 Bajo B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="136" end="143" text="Segovia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="149" end="154" text="40001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="198" end="208" text="23/08/1930" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="216" end="222" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="230" end="237" text="83 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="263" end="273" text="15/09/2013" TYPE="FECHAS" comment=""/>
+    <ID id="T7" start="307" end="314" text="2334545" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T6" start="324" end="343" text="Manuel Heras Benito" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="352" end="363" text="40 40 77263" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T3" start="382" end="387" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="391" end="398" text="83 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="1812" end="1831" text="Manuel Heras Benito" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T2" start="1857" end="1884" text="Hospital General de Segovia" TYPE="HOSPITAL" comment=""/>
+    <CONTACT id="T1" start="1885" end="1905" text="mheras@hgse.sacyl.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

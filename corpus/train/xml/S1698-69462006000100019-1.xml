@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Diego.
+Apellidos: Santamaria Pirez.
+NHC: 8537804.
+NASS: 84 39678906 15.
+Domicilio: Calle Benito Rubio, 34, 4D .
+Localidad/ Provincia: Vigo.
+CP: 36035.
+Datos asistenciales.
+Fecha de nacimiento: 15/05/1955.
+País: España.
+Edad: 62 años Sexo: H.
+Fecha de Ingreso: 21/02/2014.
+Servicio: Anatomia Patológica.
+Episodio: 7803564.
+Médico:Carlos Álvarez Álvarez  NºCol: 36 28 57401.
+Informe clínico del paciente: Varón de 62 años diagnosticado en septiembre de 2003 desde el punto de vista radiológico mediante TAC de un tumor estenosante de colon sigmoide con metástasis en ganglios regionales e hígado (estadio IV). Se tomaron biopsias endoscópicas de la neoplasia, cuyo diagnóstico fue adenocarcinoma intestinal. Se consideró irresecable, por lo que se trató con colostomía paliativa en cañón de escopeta en colon transverso y quimioterapia de primera línea con protocolo FOLFOX (oxaliplatino-5 fluorouracilo-leucovorin). Se reevaluó a los 6 ciclos, mostrando estabilización tumoral, y al completar los 12 ciclos se observó progresión tumoral con metástasis ganglionares a distancia y suprarrenales. En marzo de 2004 el paciente acudió por presentar dolor e hinchazón mandibular de 3 semanas de evolución, observándose una tumoración vegetante en la encía mandibular anterior derecha. Un TAC cervical mostró una lesión sólida en hemimandíbula derecha que erosionaba hueso, de 4 cms de diámetro, compatible con neoplasia de encía, sin linfadenopatía. Se realizó biopsia, en la que se observaba una neoformación independiente de la mucosa de superficie, que estaba compuesta por glándulas atípicas, irregulares, de formas y tamaños variables, con revestimiento columnar con abundantes mitosis. Con técnicas de inmunohistoquímica, la tumoración mostró positividad con citoqueratina (CK) 20 y CEA (antígeno carcinoembrionario), y negatividad con CK7, con lo que se diagnosticó como adenocarcinoma metastásico muy compatible con origen intestinal. Recibió 4 ciclos de quimioterapia de segunda línea según protocolo FOLFORI (CPT11-5 fluorouracilo-leucovorin), y radioterapia antiálgica en encía, observándose progresión de la enfermedad y deterioro progresivo, siendo éxitus 9 meses tras el diagnóstico de la metástasis gingival. No se concedió necropsia.
+Remitido por: Dr. Carlos Álvarez Álvarez Servicio de Anatomía Patológica Hospital POVISA C/Salamanca 5. 36211 Vigo (Pontevedra). España Tfno: 986413144 ext 1530 - Fax: 986421439 Email: capialvarez@yahoo.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T29" start="28" end="33" text="Diego" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T28" start="46" end="62" text="Santamaria Pirez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T27" start="69" end="76" text="8537804" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T26" start="84" end="98" text="84 39678906 15" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T25" start="111" end="137" text="Calle Benito Rubio, 34, 4D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T24" start="162" end="166" text="Vigo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T23" start="172" end="177" text="36035" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T22" start="221" end="231" text="15/05/1955" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T21" start="239" end="245" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T20" start="253" end="260" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T19" start="267" end="268" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="288" end="298" text="21/02/2014" TYPE="FECHAS" comment=""/>
+    <ID id="T17" start="341" end="348" text="7803564" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T16" start="357" end="379" text="Carlos Álvarez Álvarez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T15" start="388" end="399" text="36 28 57401" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T14" start="431" end="436" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="440" end="447" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="465" end="483" text="septiembre de 2003" TYPE="FECHAS" comment=""/>
+    <DATE id="T11" start="1124" end="1137" text="marzo de 2004" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="2289" end="2311" text="Carlos Álvarez Álvarez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T9" start="2344" end="2359" text="Hospital POVISA" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T8" start="2360" end="2373" text="C/Salamanca 5" TYPE="CALLE" comment=""/>
+    <LOCATION id="T7" start="2375" end="2380" text="36211" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="2381" end="2385" text="Vigo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2387" end="2397" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2400" end="2406" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="2413" end="2431" text="986413144 ext 1530" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T2" start="2439" end="2448" text="986421439" TYPE="NUMERO_FAX" comment=""/>
+    <CONTACT id="T1" start="2456" end="2477" text="capialvarez@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

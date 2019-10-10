@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Julia.
+Apellidos: Martin Romero.
+NHC: 6728965.
+Domicilio: Av. Azca,86, 6A.
+Localidad/ Provincia: Valencia.
+CP: 46809.
+Datos asistenciales.
+Fecha de nacimiento: 26/06/2006.
+País: España.
+Edad: 9 años Sexo: M.
+Fecha de Ingreso: 10/11/2015.
+Médico: Francisco José Vera Sempere  NºCol: 46 46 58203.
+Informe clínico del paciente: Paciente pediátrica de nueve años de edad, sin antecedentes clínicos de interés, que es remitida a la Unidad de Cirugía Maxilofacial Infantil por presentar inclusión dentaria. El estudio radiológico mostró inclusión de canino inferior izquierdo, con un área radiolúcida alrededor del 33, ingresando para corrección quirúrgica, con un diagnostico preoperatorio de quiste folicular. El tratamiento quirúrgico llevado a cabo consistió en la extirpación del "quiste folicular" con legrado de la cavidad ósea y extracción del canino incluido, con posterior relleno con hueso "Bio-oss", siendo la evolución postquirúrgica satisfactoria.
+La pieza quirúrgica obtenida a través del legrado comprendía varios fragmentos irregulares de coloración grisácea y baja consistencia que agrupados median 0,8 x 0,7 cms y un canino (0,9 x 0,5 cms) producto de la exodoncia. El estudio histológico mostró una estructura dentaria sin alteraciones, acompañada por fragmentos de tejido fibroso en cuyo interior se apreciaban numerosos nidos sólidos de elementos epiteliales odontogénicos dispuestos en formaciones micronodulares compactas con una disposición celular arremolinada. Los elementos que conformaban estas estructuras eran de morfología basaloide, con núcleos monomorfos, ovales o fusiformes, algo hipercromaticos, aunque sin evidencia de actividad divisional. Mezclados con estas estructuras aparecían formaciones glanduliformes, a veces de aspecto tubular, con un revestimiento de células cilíndricas, homogéneas y de núcleos a menudo polarizados hacia su base. A nivel intercelular y de forma dispersa aparecían pequeñas esferulas basofílicas calcificadas así como áreas de contorno irregular de depósito amorfo y hialino, de carácter PAS + diastasa resistente, positivos al Rojo Congo aunque sin observarse refringencia verde frente a la luz polarizada. Ante estos datos se emitió el diagnostico de tumor odontogénico adenomatoide de tipo folicular asociado a retención de estructura dental canina.
+A partir del material de partes blandas resecado se llevo a cabo un estudio inmunohistoquímico que mostró en primer lugar una reactividad de los elementos proliferantes, tanto en las áreas nodulares como adenomatoides, frente al cocktail de queratinas AE1-3. Asimismo se observó una positividad nuclear para la proteína p63 (marcador de células básales o progenitoras) estando esta reactividad nuclear presente tanto en las áreas glanduliformes como en los nidos arremolinados de células fusiformes.
+El marcador de proliferación Ki-67 marco tan solo el 2-3% de las células constituyentes de la lesión tumoral, apareciendo a menudo la positividad agrupada a algunos nódulos de células fusiformes. La detección de los marcadores de diferenciación melánica HMB45 y Melan-A fue negativa al igual que la de los receptores hormonales de estrógenos (RE) y progesterona (RPg) y la de la beta-2-microglobulina.
+Remitido por:Dr. Francisco José Vera Sempere C/ Daoiz y Velarde 8, pta. 14 46021 Valencia E-mail: vera_fra@gva.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="28" end="33" text="Julia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="46" end="59" text="Martin Romero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="66" end="73" text="6728965" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T16" start="86" end="101" text="Av. Azca,86, 6A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="125" end="133" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="139" end="144" text="46809" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T1" start="188" end="198" text="26/06/2006" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="206" end="212" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="220" end="226" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="233" end="234" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="254" end="264" text="10/11/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="274" end="301" text="Francisco José Vera Sempere" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="310" end="321" text="46 46 58203" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T8" start="376" end="386" text="nueve años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3262" end="3289" text="Francisco José Vera Sempere" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3290" end="3319" text="C/ Daoiz y Velarde 8, pta. 14" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3320" end="3325" text="46021" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3326" end="3334" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="3343" end="3358" text="vera_fra@gva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

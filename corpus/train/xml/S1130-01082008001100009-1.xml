@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Maria del Mar.
+Apellidos: Garcia de Castro.
+NHC: 279856.
+NASS: 78 32157816 65.
+Domicilio: Plaza Flores 5, 2 3.
+Localidad/ Provincia: Almería.
+CP: 04001.
+Datos asistenciales.
+Fecha de nacimiento: 27/12/1937.
+País: España.
+Edad: 79 años Sexo: M.
+Fecha de Ingreso: 15/02/2017.
+Servicio: Nefrología.
+Médico: M. Eugenia Palacios-Gómez NºCol: 04 04 25836.
+Informe clínico del paciente: Mujer de 79 años sin antecedentes de interés que consultó por diarrea y síndrome general de un año de evolución. En la exploración física destacaba una masa palpable en fosa iliaca derecha que se confirmó en la radiografía simple de abdomen. Se realizó una tomografía computarizada abdominal revelando la presencia de una gran masa hepática con crecimiento exofítico hacia fosa iliaca derecha sugestiva de hepatocarcinoma. El páncreas, bazo, riñones, útero y ovarios eran normales. Las serologías de virus hepatotropos fueron negativas y los niveles séricos de alfafetoproteína se encontraban dentro de la normalidad. Tras una punción-aspiración con aguja fina de la lesión se obtuvo material cuyo estudio histológico demostró un hepatocarcinoma bien diferenciado. Descartada la resección quirúrgica por el tamaño tumoral y sospecha de invasión vascular se inició tratamiento con quimioembolización con buenos resultados. En el momento actual, tras seis meses de seguimiento, la paciente se encuentra asintomática.
+Remitido por: Dra. M. Eugenia Palacios-Gómez, Unidad de Nefrología, Hospital de Poniente, Carretera de Almerimar, S/N, 04700, El Ejido, Almería E-mail: eugeniapgomez@gmail.com E-mail: mariaeugenia.palacios@ephpo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="22" text="Maria del Mar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="35" end="51" text="Garcia de Castro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="58" end="64" text="279856" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="72" end="86" text="78 32157816 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="99" end="118" text="Plaza Flores 5, 2 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="142" end="149" text="Almería" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="155" end="160" text="04001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="204" end="214" text="27/12/1937" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="222" end="228" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="236" end="243" text="79 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="250" end="251" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="271" end="281" text="15/02/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="313" end="338" text="M. Eugenia Palacios-Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="346" end="357" text="04 04 25836" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="389" end="394" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="398" end="405" text="79 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="1423" end="1448" text="M. Eugenia Palacios-Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1472" end="1492" text="Hospital de Poniente" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="1494" end="1521" text="Carretera de Almerimar, S/N" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1523" end="1528" text="04700" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1530" end="1538" text="El Ejido" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1540" end="1547" text="Almería" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="1556" end="1579" text="eugeniapgomez@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T1" start="1588" end="1618" text="mariaeugenia.palacios@ephpo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

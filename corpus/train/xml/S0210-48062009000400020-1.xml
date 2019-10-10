@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Francisco.
+Apellidos: Robles Montes.
+NHC: 2055641.
+NASS: 89 46589565 12.
+Domicilio: Av. Don Quijote, 23..
+Localidad/ Provincia: Valencia.
+CP: 46017.
+Datos asistenciales.
+Fecha de nacimiento: 20/11/1952.
+País de nacimiento: España.
+Edad: 60 años Sexo: H.
+Fecha de Ingreso: 18/02/2013.
+Médico: Teresa Pastor Navarro NºCol: 40 40 58940.
+Informe clínico del paciente: Varón de 60 años con antecedentes de hipertensión arterial, valvulopatía aórtica y mitral, hematoma parietal izquierdo, herniorrafia inguinal izquierda y umbilical, diagnosticado hace 3 años de Leucemia Linfática Crónica estadio A/O y en seguimiento por el servicio de Hematología de nuestro hospital, sin tratamiento. En un TAC toracoabdominopélvico de control se aprecian adenopatías a nivel cervical, axilar, mediastínico, retroperitoneal e inguinal, así como una imagen hipodensa de 3 cm el lóbulo prostático izquierdo, y con mal plano de separación con el músculo elevador del ano izquierdo, por lo que ante la sospecha de neoplasia prostática se solicita analítica de PSA y se remite a nuestro servicio para valoración y realización de ecografía transrectal y biopsias prostáticas. El paciente no presenta clínica urológica.
+En el tacto rectal se aprecia una próstata mal delimitada en ambas bases, con aumento de consistencia de forma difusa en ambos lóbulos. El PSA es de 0,9 ng/ml. La ecografía transrectal muestra una próstata de 28,5 x 43,4 x 50,8 mm y 32,9 ml, con parénquima heterogéneo y varias áreas hiperecoicas en ambas bases. El ángulo vesiculoprostático derecho aparece borrado. Se toman biopsias prostáticas por sextantes.
+El informe anatomopatológico describe un parénquima prostático con denso infiltrado celular constituído por linfocitos de pequeño tamaño sugestivo de infiltración por leucemia linfática crónica.
+Responsable clínico: Dra. Teresa Pastor Navarro Servicio de Urología Hospital Universitario Doctor Peset Gaspar Aguilar 90. 46017 - Valencia Tel. y Fax: 961 622 403 E-mail autor: tpastorn@yahoo.es Información artículo: Nota clínica
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="37" text="Francisco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="50" end="63" text="Robles Montes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="70" end="77" text="2055641" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="85" end="99" text="89 46589565 12" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="112" end="131" text="Av. Don Quijote, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="156" end="164" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="170" end="175" text="46017" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="219" end="229" text="20/11/1952" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="251" end="257" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="265" end="272" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="279" end="280" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="300" end="310" text="18/02/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="320" end="341" text="Teresa Pastor Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="349" end="360" text="40 40 58940" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="392" end="397" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="401" end="408" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T1" start="1856" end="1877" text="Teresa Pastor Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1899" end="1934" text="Hospital Universitario Doctor Peset" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="1935" end="1952" text="Gaspar Aguilar 90" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1954" end="1959" text="46017" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1962" end="1970" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="1983" end="1994" text="961 622 403" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T2" start="2009" end="2026" text="tpastorn@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

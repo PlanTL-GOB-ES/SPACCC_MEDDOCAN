@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Mario.
+Apellidos: Lopez Santamaria.
+NHC: 44578.
+NASS: 71 32581345 06 .
+Domicilio: Calle gran vía 62, 3C.
+Localidad/ Provincia: Barcelona.
+CP: 08021.
+Datos asistenciales.
+Fecha de nacimiento: 30/03/1953.
+País: España.
+Edad: 65 años Sexo: H.
+Fecha de Ingreso: 12/07/2018.
+Servicio: Oftalmología.
+Episodio: 65478.
+Médico: Santiago Abengoechea Hernández NºCol: 08 20 87416.
+Historia Actual:Varón de 65 años de edad con agudeza visual actual de 0,7 en ojo derecho (OD). Se trata de un ojo único ya que el ojo izquierdo (OI) está en ptisis bulbi debido a un antecedente traumático ocurrido en su niñez. El paciente no refiere cambios desde el inicio del cuadro y tampoco había notado variación de su agudeza visual antes de haberle realizado las sesiones de TFD. 
+Antecedentes: dos sesiones de terapia fotodinámica con Verteporfin (TFD) y propuesto para una tercera acude para valoración.
+Exploración y pruebas complementarias: La imagen funduscópica revela una lesión viteliforme sobreelevada en área foveal con drusas duras en el polo posterior. En la angiografía fluoresceínica (AGF) se aprecia una hiperfluorescencia en anillo progresiva e intensa en tiempos tardíos con una zona central hipofluorescente. En la angiografía con verde de indocianina (AVI) no se aprecian alteraciones de interés. En la OCT se observa la presencia de una estructura cuneiforme de reflectividad media-alta entre el epitelio pigmentado y la retina neurosensorial con un desprendimiento de la retina neurosensorial bordeando la lesión. Se le realizó un electrooculograma siendo su resultado dentro de los límites de la normalidad.
+Evolución y comentarios: El paciente es diagnosticado de DFVA y se decide realizar controles periódicos. En los controles de los 3, 6 y 12 meses los resultados de las pruebas no muestran variación respecto a la primera visita y su agudeza visual permanece estable.
+En el control de los 24 meses su agudeza visual es de 0.02. En el fondo de ojo no se observa la lesión viteliforme sino una lesión redondeada anaranjada en el área foveal. Tanto en la AGF como en la AVI existe una hipofluorescencia intensa mantenida en todo el tiempo angiográfico. En la OCT se aprecia una depresión foveal normal con ausencia de la masa de reflectividad media apreciada en la primera visita y un aumento de la reflectividad posterior a la altura del complejo epitelio pigmentado-coriocapilar.
+Remitido por: Santiago Abengoechea Hernández C/. Muntaner, 314 08021 Barcelona España E-mail: sah@co-barraquer.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="14" text="Mario" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="27" end="43" text="Lopez Santamaria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T1" start="50" end="55" text="44578" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="63" end="77" text="71 32581345 06" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="91" end="112" text="Calle gran vía 62, 3C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="136" end="145" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="151" end="156" text="08021" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T2" start="200" end="210" text="30/03/1953" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="218" end="224" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="232" end="239" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="246" end="247" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="267" end="277" text="12/07/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T13" start="313" end="318" text="65478" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T12" start="328" end="358" text="Santiago Abengoechea Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="366" end="377" text="08 20 87416" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="395" end="400" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="404" end="411" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2406" end="2436" text="Santiago Abengoechea Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2437" end="2454" text="C/. Muntaner, 314" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="2455" end="2460" text="08021" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2461" end="2470" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2471" end="2477" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="2486" end="2505" text="sah@co-barraquer.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

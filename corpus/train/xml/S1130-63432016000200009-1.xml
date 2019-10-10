@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Alonso.
+Apellidos: Muñoz Bueno.
+NHC: 5789265.
+NASS: 34 75350129 86.
+Domicilio: Calle fuente el saz 16, 7D.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 03/01/1991.
+País: España.
+Edad: 27 años Sexo: H.
+Fecha de Ingreso: 24/05/2018.
+Servicio: Medicina Interna.
+Médico: Cristóbal Gallego Muñoz  NºCol: 28 28 54124.
+Historia Actual: Varón de 27 años de edad que acude a una consulta de Medicina Interna derivado por su médico de atención primaria por: astenia de tres meses de evolución, mareo inespecífico y epigastralgia intermitente de intensidad moderada. 
+Antecedentes: Como antecedentes personales relevantes presenta: rinoconjuntivitis alérgica. Su tratamiento habitual consta de ebastina 10 mg en una única toma diaria durante el periodo de alergia estacional.
+Exploración física: A la exploración destaca una marcada palidez de piel y mucosas. 
+Resumen de pruebas complementarias:En la analítica destaca hemoglobina de 6,5 g/ dL (13-18 g/dL), volumen corpuscular medio de 125 fl (80-100 fl), leucocitos de 6,000/mL (4,000-10,500/mL), plaquetas de 280.000/mm3 (150.000-400,000/mm3, bilirrubina total de 1,35 mg/dL (0,3-1,2 mg/dL), aspartato aminotransferasa (AST) de 140 UI/L (4-50 UI/L), alanina aminotransferasa (ALT) de 410 UI/L (5-47 UI UI/L), lactato deshidrogenasa (LDH de 4.186 UI/L (140-240 UI/L). Ante esta analítica se solicita un frotis sanguíneo que muestra anisocitosis de tendencia macrocítica, hipersegmentación de neutrófilos y algunos dacriocitos. El estudio del hierro y los niveles de ácido fólico eran normales, con unos niveles de vitamina B12 sérica de 62 pg/mL (180880 pg/mL y homocisteína de 32 μmol (4-15 μmol/L). Los niveles de gastrina se encuentran claramente elevados 539 pg/mL (normal < 100 pg/mL). 
+Evolución y comentarios: Se inicia tratamiento con inyecciones intramusculares de 1.000 μg/ día de vitamina B12 durante los 7 días, posteriormente semanales durante un mes y terapia de mantenimiento con una inyeción al mes.
+El hemograma se normaliza en la cuarta semana de tratamiento.
+Remitido por: Dr. Cristóbal Gallego Muñoz Correo electrónico: toba_gallego@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="9" end="15" text="Alonso" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="28" end="39" text="Muñoz Bueno" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="46" end="53" text="5789265" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="61" end="75" text="34 75350129 86" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="88" end="114" text="Calle fuente el saz 16, 7D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="138" end="144" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="150" end="155" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="199" end="209" text="03/01/1991" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T9" start="217" end="223" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="231" end="238" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="245" end="246" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="266" end="276" text="24/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="314" end="337" text="Cristóbal Gallego Muñoz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="346" end="357" text="28 28 54124" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="376" end="381" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="385" end="392" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2085" end="2108" text="Cristóbal Gallego Muñoz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2129" end="2153" text="toba_gallego@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

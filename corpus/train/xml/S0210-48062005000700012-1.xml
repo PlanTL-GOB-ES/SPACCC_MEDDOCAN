@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Fabricio .
+Apellidos: Redondo Suarez .
+NHC: 7843563.
+NASS: 78 26472406 54.
+Domicilio: Calle La Concha, 27.
+Localidad/ Provincia: Santander.
+CP: 39005.
+Datos asistenciales.
+Fecha de nacimiento: 27/06/1971.
+País de nacimiento: España.
+Edad: 42 años Sexo: H.
+Fecha de Ingreso: 13/09/2013.
+Médico: Beltran Rodríguez Caballero NºCol: 39 39 54780.
+Informe clínico del paciente: varón de 42 años de edad, residente en Mérida (Extremadura), con antecedentes personales de diabetes mellitus tipo I y prostatitis crónica; consultó a las tres semanas de la ingesta de un producto lácteo no higienizado por fiebre y malestar general. Las pruebas complementarias mostraban un hemograma, bioquímica, pruebas de coagulación y radiología convencional sin alteraciones. Los hemocultivos en medios convencionales y de Ruiz Castañeda fueron negativos. El estudio serológico para Brucella resultó: Rosa de Bengala: positivo, sero-aglutinación: positiva (1/20) y antibrucela-coombs: positivo.
+Se inició tratamiento con Rifampicina 900 mgr/dia más doxaciclina 100mgr/12h durante 6 semanas.
+Transcurridos cinco meses sufre una recaída y presenta dolor lumbar más fiebre. A la exploración la región ilíaca izquierda está empastada junto con signo del psoas positivo. Se le realizó una tomografía axial computerizada (TAC) en la que se objetivó una espondilodiscitis L5-S1 con afectación de partes blandas circundantes y absceso de psoas bilateral de pequeño tamaño. Se decide reanudar tratamiento antibiótico previo al que se agrega ciprofloxacino 400mgr/12h. Transcurrido un mes, dada la mala respuesta al tratamiento se realiza drenaje transcutáneo de las colecciones del psoas.
+Ante la mala evolución del paciente se practicó una nueva TAC en la que se podía observar la existencia de abscesos de psoas bilaterales de gran tamaño y afectación de tejido circundante junto con espondilodiscitis en L5-S1. El paciente fue remitido a nuestro servicio donde fue intervenido por el servicio de urología y neurocirugía conjuntamente realizándose un drenaje de ambos músculos y la discectomía L5-S1. El postoperatorio transcurrió sin incidencias por lo que se le dio el alta con tratamiento antibiótico doxiciclina 100mgr/12horas junto con septrim forte 1/12horas durante cuatro meses.
+El paciente está asintomático con buen estado general hasta la última revisión tres años después de la cirugía.
+Responsable clínico: Dr. Beltran Rodríguez Caballero Hospital Universitario "Marqués de Valdecilla" Avda. Valdecilla nº 25 39008 Santander, España
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="36" text="Fabricio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="50" end="64" text="Redondo Suarez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="72" end="79" text="7843563" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="87" end="101" text="78 26472406 54" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="114" end="133" text="Calle La Concha, 27" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="157" end="166" text="Santander" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="172" end="177" text="39005" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="221" end="231" text="27/06/1971" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="253" end="259" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="267" end="274" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="281" end="282" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="302" end="312" text="13/09/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="322" end="349" text="Beltran Rodríguez Caballero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="357" end="368" text="39 39 54780" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="400" end="405" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="409" end="416" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T8" start="439" end="445" text="Mérida" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T7" start="447" end="458" text="Extremadura" TYPE="TERRITORIO" comment=""/>
+    <NAME id="T6" start="2422" end="2449" text="Beltran Rodríguez Caballero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2450" end="2496" text="Hospital Universitario &quot;Marqués de Valdecilla&quot;" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2497" end="2519" text="Avda. Valdecilla nº 25" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2520" end="2525" text="39008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2526" end="2535" text="Santander" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2537" end="2543" text="España" TYPE="PAIS" comment=""/>
+  </TAGS>
+</MEDDOCAN>

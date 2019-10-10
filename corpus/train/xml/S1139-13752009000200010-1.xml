@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Sandra.
+Apellidos: Bello Martínez.
+NHC: 5457913.
+NASS: 23 12385647 94.
+Domicilio: Calle del Gral. Elorza 21.
+Localidad/ Provincia: Oviedo.
+CP: 33001.
+Datos asistenciales.
+Fecha de nacimiento: 13/10/1971.
+País: España.
+Edad: 38 años Sexo: H.
+Fecha de Ingreso: 14/05/2009.
+Servicio: Hemedialisis.
+Médico: Maria Isabel Fuente García NºCol: 33 33 65220.
+Informe clínico del paciente: Paciente de 38 años diagnosticado de pancolitis ulcerosa desde el año 2004, corticodependiente. Ese mismo año presenta un cuadro de actividad inflamatoria intestinal con diarrea sin sangre, afectación importante del estado general y pérdida de peso de 15 kg en un mes, así como intolerancia digestiva a tratamiento con azatioprina (Imurel®). Durante estos 3 últimos años ha precisado varios ingresos debidos a graves brotes de diarrea (5-6 deposiciones diarias) con sangre roja.
+En junio de 2007 presentó un brote prolongado de colitis ulcerosa con activación moderada-severa y mala respuesta al tratamiento farmacológico con criterios de cortirrefractariedad, momento en el que se inicia la citoaféresis, recibiendo una sesión cada 7 días durante 5 semanas. Las vías de acceso fueron las venas antecubitales de los brazos, y durante las sesiones no se presentaron complicaciones ni reacciones adversas. Desde la segunda sesión presentó una notable mejoría clínica y en la actualidad recibe tratamiento oral de micofenolato-mofetil (CellCe®).
+Remitido por: Maria Isabel Fuente García. Unidad de Hemodiálisis Hospital San Agustín Avilés c/ Camino de Eros n º 4 33400 Asturias isabel.fuente@sespa.princast.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="15" text="Sandra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="28" end="42" text="Bello Martínez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="49" end="56" text="5457913" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="64" end="78" text="23 12385647 94" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="91" end="116" text="Calle del Gral. Elorza 21" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="140" end="146" text="Oviedo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="152" end="157" text="33001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="201" end="211" text="13/10/1971" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="219" end="225" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="233" end="240" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="247" end="248" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="268" end="278" text="14/05/2009" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="312" end="338" text="Maria Isabel Fuente García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="346" end="357" text="33 33 65220" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T13" start="401" end="408" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="455" end="463" text="año 2004" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="871" end="884" text="junio de 2007" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="1446" end="1472" text="Maria Isabel Fuente García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1497" end="1517" text="Hospital San Agustín" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1518" end="1524" text="Avilés" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1525" end="1548" text="c/ Camino de Eros n º 4" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1549" end="1554" text="33400" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1555" end="1563" text="Asturias" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1564" end="1595" text="isabel.fuente@sespa.princast.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

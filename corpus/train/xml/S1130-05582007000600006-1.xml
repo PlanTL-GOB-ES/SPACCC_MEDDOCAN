@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: David.
+Apellidos: Gonzalez Acuña.
+NHC: 8345678.
+NASS: 38 63456756 09.
+Domicilio: Calle Jesus Maestro, 19, 2 B.
+Localidad/ Provincia: Madrid.
+CP: 28015.
+Datos asistenciales.
+Fecha de nacimiento: 27/11/1987.
+País de nacimiento: España.
+Edad: 30 años Sexo: H.
+Fecha de Ingreso: 03/04/2018.
+Médico: Maria Teresa Martínez Iturriaga NºCol: 28 28 61852.
+Informe clínico del paciente: varón de 30 años, sin antecedentes médicoquirúrgicos de interés, que consultó por tumoración latero-cervical izquierda de varios meses de evolución; el paciente refería sudoración nocturna en los últimos meses como único dato destacable de la anamnesis.
+A la exploración se apreciaba una tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo esternocleidomastoideo (ECM) de consistencia elástica, mal definida, no adherida a planos profundos ni a piel, cuyo tamaño no variaba con los cambios posturales, no pulsátil, y con auscultación negativa.
+Se solicitó una punción guiada por tomografía computerizada (TC) que se informó como celularidad de ganglio lifático con cambios indeterminados no tipificables citologicamente, recomendando estudio serológico viral.
+En la TC con contraste intravenoso se apreciaba una masa homogénea, de 5x7 cm, sólida, bien delimitada, situada en el espacio vascular cervical izquierdo que comprime la vena yugular interna izquierda, por detrás del ECM, con captación de contraste moderada y con alguna adenopatía adyacente. No llegaba a tener una hipercaptación sugerente de glomus carotídeo. El diagnóstico diferencial radiológico incluía proceso linfoproliferativo, tumor neurógeno o tumor mesenquimal.
+Bajo anestesia general se realizó una incisión horizontal supraclavicular izquierda y sección del músculo ECM a dicho nivel para obtener una adecuada exposición. Se encontró una tumoración de 5x7 cm de aspecto congestivo, dura con intensa vascularización periférica que dificultaba la disección de la misma; la tumoración presentaba un plano de separación con el espacio vascular. El aspecto clínico en el momento de la cirugía impresionó a los autores de tumoración vascular.
+En el estudio anatomopatológico de la pieza se comprobó que se trataba de un ganglio linfático con arquitectura conservada y marcado aumento del número de folículos linfoides y positividad para marcadores inmunohistoquímicos (CD20+CD10+, bcl2-). De forma característica los centros germinales presentaban un material hialino, algunos vasos y disposición en capas de cebolla de la corona linfocitaria.
+El número de células plasmáticas (CD138) estaban en el rango de la normalidad y no muestraban restricción para las cadenas ligeras de las inmunoglobulinas (kappa y lambda).
+En el estudio molecular no se detectó mediante técnica de PCR la presencia del virus herpes humano tipo 8 (HHV 8).
+Se realizó TC toraco-abdomino-pélvico que resultó dentro de la normalidad. La analítica completa, estudio inmunológico y serología fueron normales.
+Estos hallazgos representan la forma localizada de la hiperplasia angiofolicular linfoide o Enfermedad de Castleman, variante hialino-vascular.
+Responsable clínico:  Dra. Maria Teresa Martínez Iturriaga C/Julio Caro Baroja 84, 28050 Madrid, España Email: 1@colmeitu.e.telefonica.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="33" text="David" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="46" end="60" text="Gonzalez Acuña" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="67" end="74" text="8345678" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="82" end="96" text="38 63456756 09" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="109" end="137" text="Calle Jesus Maestro, 19, 2 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="161" end="167" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="173" end="178" text="28015" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="222" end="232" text="27/11/1987" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="254" end="260" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="268" end="275" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="282" end="283" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="303" end="313" text="03/04/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="323" end="354" text="Maria Teresa Martínez Iturriaga" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="362" end="373" text="28 28 61852" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="405" end="410" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="414" end="421" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3158" end="3189" text="Maria Teresa Martínez Iturriaga" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3190" end="3212" text="C/Julio Caro Baroja 84" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3214" end="3219" text="28050" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3220" end="3226" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3228" end="3234" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3242" end="3269" text="1@colmeitu.e.telefonica.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

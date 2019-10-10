@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Carlos.
+Apellidos: Antonio Peñalver.
+NHC: 7897423.
+NASS: 23 71989456 02.
+Domicilio: Avenida del planetario 56, 6 G.
+Localidad/ Provincia: Madrid.
+CP: 28034.
+Datos asistenciales.
+Fecha de nacimiento: 29/09/1969.
+País: España.
+Edad:  años Sexo:.
+Fecha de Ingreso: 19/12/2017.
+Servicio: Nefrología.
+Médico: Teresa Cavero-Escribano NºCol: 28 28 85462.
+Historia Actual: varón de 48 años, de raza caucásica, con IRC secundaria a hipoplasia renal, inició hemodiálisis en 1984. Ese mismo año recibió su primer trasplante renal de donante vivo, su padre, que mantuvo funcionante hasta 1997, cuando retornó a hemodiálisis por nefropatía crónica del injerto y se realizó trasplantectomía. En 1999, recibió su segundo trasplante renal de donante cadáver, retornando a hemodiálisis en noviembre de 2002 tras el desarrollo de una glomerulonefritis membranoproliferativa secundaria al VHC sobre el injerto renal. Una hepatitis «no-A, no-B» se diagnosticó en 1984 y una biopsia hepática en el año 2000 mostró una hepatitis crónica periportal (P3L3F2) con RNA de VHC positivo (genotipo 3). Tras el retorno del paciente a hemodiálisis para ser incluido nuevamente en la lista de trasplante renal, se inició en marzo de 2003 tratamiento con IFN-α, 3 millones de unidades tres veces por semana. En abril de 2003 comenzó con dolor a nivel del injerto renal, hematuria y fiebre, por lo que se suspendió el INF-α y se realizó una trasplantectomía programada, observándose en la histología intensas lesiones parenquimatosas de rechazo agudo y crónico. En agosto de ese mismo año, se confirmó la negativización del RNA-VHC a pesar de haber recibido un mes de tratamiento antiviral. Sin embargo, en enero de 2004 presentó una recidiva, por lo que se reintrodujo el tratamiento antiviral, que se mantuvo durante 12 meses, consiguiéndose una RVS sin nueva recidiva. En febrero de 2008 recibió su tercer trasplante renal de donante cadáver. En la actualidad presenta una función renal normal y mantiene carga viral indetectable cinco años después de la finalización del tratamiento.
+Remitido por: Dra.Teresa Cavero-Escribano, Servicio de Nefrología, Hospital Universitario 12 de Octubre, Av. Córdoba, s/n, 28041, Madrid E-mail: tcaveroescribano@gmail.com E-mail: emoralesr@senefro.org
+]]></TEXT>
+  <TAGS>
+    <NAME id="T33" start="9" end="15" text="Carlos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T32" start="28" end="44" text="Antonio Peñalver" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T31" start="51" end="58" text="7897423" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T30" start="66" end="80" text="23 71989456 02" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T29" start="93" end="123" text="Avenida del planetario 56, 6 G" TYPE="CALLE" comment=""/>
+    <LOCATION id="T28" start="147" end="153" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T27" start="159" end="164" text="28034" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T26" start="208" end="218" text="29/09/1969" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T25" start="226" end="232" text="España" TYPE="PAIS" comment=""/>
+    <DATE id="T24" start="271" end="281" text="19/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T23" start="313" end="336" text="Teresa Cavero-Escribano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T22" start="344" end="355" text="28 28 85462" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T21" start="374" end="379" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T20" start="383" end="390" text="48 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T2" start="395" end="409" text="raza caucásica" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T19" start="473" end="477" text="1984" TYPE="FECHAS" comment=""/>
+    <OTHER id="T1" start="548" end="553" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="585" end="589" text="1997" TYPE="FECHAS" comment=""/>
+    <DATE id="T17" start="690" end="694" text="1999" TYPE="FECHAS" comment=""/>
+    <DATE id="T16" start="781" end="798" text="noviembre de 2002" TYPE="FECHAS" comment=""/>
+    <DATE id="T15" start="952" end="956" text="1984" TYPE="FECHAS" comment=""/>
+    <DATE id="T3" start="986" end="994" text="año 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T14" start="1201" end="1214" text="marzo de 2003" TYPE="FECHAS" comment=""/>
+    <DATE id="T13" start="1287" end="1300" text="abril de 2003" TYPE="FECHAS" comment=""/>
+    <DATE id="T12" start="1682" end="1695" text="enero de 2004" TYPE="FECHAS" comment=""/>
+    <DATE id="T11" start="1850" end="1865" text="febrero de 2008" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="2081" end="2104" text="Teresa Cavero-Escribano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T9" start="2130" end="2166" text="Hospital Universitario 12 de Octubre" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T8" start="2168" end="2184" text="Av. Córdoba, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T7" start="2186" end="2191" text="28041" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="2193" end="2199" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2208" end="2234" text="tcaveroescribano@gmail.com" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2243" end="2264" text="emoralesr@senefro.org" TYPE="CALLE" comment=""/>
+  </TAGS>
+</MEDDOCAN>

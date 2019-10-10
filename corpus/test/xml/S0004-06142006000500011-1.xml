@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre: Francisco Javier.
+Apellidos: Serra Ortega .
+CIPA: nhc-987654.
+NASS: 14 9096265001 02.
+Domicilio: Aluche.
+Localidad/ Provincia: Madrid.
+CP: 28047.
+       NHC: 987654.
+Datos asistenciales.
+Fecha de nacimiento: 15-02-1959.
+País: España .
+Edad: 59 Sexo: H.
+Fecha de Ingreso: 25-03-2018.
+Especialidad: Oncología .
+Médico: José Antonio Cánovas Ivorra           NºCol: 02-08-17593.
+Motivo de ingreso: Cólico renal izquierdo de intensidad moderada.
+Antecedentes: Enfermedad pulmonar obstructiva crónica y lobectomía inferior derecha hace seis meses por carcinoma epidermoide de pulmón (T2N0M0) en el centro de referencia, sin haber recibido tratamiento posterior alguno. No alergias conocidas ni otros antecedentes de interés.
+Historia Actual: Enfermo varón de 59 años Presenta antecedentes de Consulta por clínica compatible con cólico renal izquierdo de intensidad moderada con irradiación ureteral, sin síndrome miccional y acompañado de hematuria con emisión de coágulos filiformes.
+Refiere haber perdido aproximadamente 8 Kgs. aproximadamente en los 2 últimos meses.
+Exploración física: A la exploración se aprecia una discreta palidez mucocutánea, puñopercusión izquierda levemente positiva. Abdomen blando y depresible sin masas ni megalias. Resto de la exploración sin interés.
+Resumen de pruebas complementarias: El estudio hematológico muestra una discreta anemia, siendo la bioquímica y coagulación normales.
+En el sedimento de orina se observa hematuria microscópica.
+En la ecografía se aprecia un quiste cortical en el polo superior del riñón izquierdo de 5 cm. de tamaño y una tumoración sólido-quística del mismo tamaño en el polo inferior sin ectasia de la vía excretora. El riñón derecho, la vejiga y la próstata son normales.
+Ante la sospecha de masa renal versus quiste renal complejo se decide la práctica de una T.A.C. toraco-abdo-minopélvico que informa de cambios postquirúrgicos en el pulmón izquierdo con enfisema bilateral. Adenopatías retroperitoneales en el territorio aorto-cava mayores de 1 cm. de diámetro y masa renal heterogénea de 5 cm. de diámetro mayor.
+Con estos hallazgos y ante la sospecha de carcinoma renal vs. metástasis se opta por realizar una PAAF TAC dirigida mediante la cual se obtienen células escamosas del riñón izquierdo.
+Evolución y comentarios: Se opta por remitir al enfermo al Servicio de Oncología Médica.
+Inicia tratamiento con Cisplatino 75 mg./m2 y Vinorelbina 25 mg./m2 los días primero y octavo de cada 21 días, hasta completar 3 ciclos, para posteriormente realizar estudio de valoración de respuesta. Tras recibir 3 ciclos de quimioterapia con cisplatino-vinorelbina se observó un discreto crecimiento de la masa renal, por lo que se consideró que no había respuesta. Por tal motivo inició una segunda línea de quimioterapia con docetaxel 100 mg/m2 cada 21 días, del que ha recibido 3 ciclos.
+Diagnóstico Principal: Metástasis renal izquierdo de carcinoma epidermoide pulmonar (Estadio IV)
+Tratamiento: Está pendiente de valorar respuesta mediante TAC, y, según los resultados, se ha considerado realizar estudio mediante PET para decidir una posible actitud quirúrgica de la lesión renal, en caso de que no existan nuevos focos patológicos.
+En cualquier caso el pronóstico es el mismo que cualquier neoplasia pulmonar metastásica.
+Remitido por: José Antonio Cánovas Ivorra Urbanización Montiboli, 188 A - 6 03570 Villajoyosa. Alicante. jacanovas@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="25" text="Francisco Javier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="38" end="50" text="Serra Ortega" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="63" end="69" text="987654" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="77" end="93" text="14 9096265001 02" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="106" end="112" text="Aluche" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="136" end="142" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="148" end="153" text="28047" TYPE="TERRITORIO" comment=""/>
+    <ID id="T20" start="167" end="173" text="987654" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="217" end="227" text="15-02-1959" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="235" end="241" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="250" end="252" text="59" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="259" end="260" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="280" end="290" text="25-03-2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="326" end="353" text="José Antonio Cánovas Ivorra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="371" end="382" text="02-08-17593" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="753" end="758" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="762" end="769" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="3311" end="3338" text="José Antonio Cánovas Ivorra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3339" end="3372" text="Urbanización Montiboli, 188 A - 6" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3373" end="3378" text="03570" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3379" end="3390" text="Villajoyosa" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3392" end="3400" text="Alicante" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3402" end="3423" text="jacanovas@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

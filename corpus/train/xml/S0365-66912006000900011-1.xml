@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Raúl.
+Apellidos: Tostado Redondo.
+NHC: 8347981.
+NASS: 65 34670562 01.
+Domicilio: C/ Recamal, 23, 1 F.
+Localidad/ Provincia: Alcalá Meco.
+CP: 28805.
+Datos asistenciales.
+Fecha de nacimiento: 29/05/1995.
+País de nacimiento: España.
+Edad: 13 años Sexo: H.
+Fecha de Ingreso: 16/08/2008.
+Médico: Mario Gorroño Echebarría  NºCol: 28 28 67052.
+Informe clínico del paciente: Un niño de 13 años fue remitido para evaluación después de sufrir un traumatismo ocular en su ojo izquierdo con un tirachinas. La agudeza visual era en ambos ojos, 20/20. El examen del ojo derecho fue normal y, en el ojo izquierdo, se observó un microhifema y una uveítis anterior. El examen de fondo de ojo bajo dilatación demostró en el ojo izquierdo hemorragias retinianas redondeadas ecuatoriales. Los valores de presión intraocular fueron normales (15 mmHg y 12 mmHg respectivamente). El paciente desarrolló una isquemia retiniana periférica inferior (demostrada por AFG) tres semanas después del traumatismo (en este momento el paciente refirió un escotoma periférico temporal superior) con el desarrollo posterior, doce meses más tarde, de neovascularización retiniana en el cuadrante nasal inferior. El estudio hematológico completo y las pruebas de coagulación sanguínea fueron normales. Asimismo, el resultado del test de enfermedad de células falciformes fue negativo. El microhifema y las hemorragias retinianas se resolvieron con tratamiento médico (sulfato de atropina 1% y corticoides tópicos, protección ocular durante una semana, reposo en cama los primeros cuatro días con reanudación gradual de la actividad, y restricción de salicilatos y de antiinflamatorios no esteroideos, administración oral de ácido aminocaproico). Debido a la resolución completa del microhifema en la primera semana y en ausencia de resangrado, no se llevaron a cabo estudios adicionales de trastornos de la coagulación menos frecuentes, tales como déficit de factores VIII y XI o déficit de vitamina K. La isquemia retiniana fue tratada con fotocoagulación con láser de argón. Después de 15 meses de seguimiento, su agudeza visual final permanece en 20/20 sin otras complicaciones oculares.
+Responsable clínico: Dr. Mario Gorroño Echebarría Hospital Universitario Príncipe de Asturias Servicio de Oftalmología Ctra. Alcalá Meco, s/n 28805 Alcalá de Henares (Madrid) España E-mail: mbgech@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="32" text="Raúl" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="45" end="60" text="Tostado Redondo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="67" end="74" text="8347981" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="82" end="96" text="65 34670562 01" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="109" end="128" text="C/ Recamal, 23, 1 F" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="152" end="163" text="Alcalá Meco" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="169" end="174" text="28805" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="218" end="228" text="29/05/1995" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="250" end="256" text="España" TYPE="PAIS" comment=""/>
+    <LOCATION id="T15" start="264" end="271" text="13 años" TYPE="PAIS" comment=""/>
+    <OTHER id="T14" start="278" end="279" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="299" end="309" text="16/08/2008" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="319" end="343" text="Mario Gorroño Echebarría" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="352" end="363" text="28 28 67052" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="398" end="402" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="406" end="413" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2206" end="2230" text="Mario Gorroño Echebarría" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2231" end="2274" text="Hospital Universitario Príncipe de Asturias" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="2300" end="2322" text="Ctra. Alcalá Meco, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2323" end="2328" text="28805" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2329" end="2346" text="Alcalá de Henares" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2348" end="2354" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2356" end="2362" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2371" end="2386" text="mbgech@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

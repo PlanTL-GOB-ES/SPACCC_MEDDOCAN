@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Victor.
+Apellidos: Sandoval Jimenez.
+NHC: 56437.
+NASS: 98 43659456 78.
+Domicilio: Calle la Marina 66, 3 1.
+Localidad/ Provincia: Madrid.
+CP: 28001.
+Datos asistenciales.
+Fecha de nacimiento: 21/08/1938.
+País: España.
+Edad: 79 años Sexo: H.
+Fecha de Ingreso: 13/12/2017.
+Servicio: Oftalmologia.
+Médico: Alba Bueno-González Escobar NºCol: 28 28 97653.
+Historia del paciente: Varón de 79 años de edad diagnosticado de enfermedad de VHL hacía 20, cuando, en una revisión oftalmológica, se hallaron hemangiomas capilares en ambos ojos (AO). Tiene siete hijos de los cuales, tres de ellos y una nieta están afectos de la enfermedad. Como afectación sistémica de la enfermedad solo presenta quistes renales. En la actualidad presenta una prótesis en su ojo derecho (OD) por antiguo desprendimiento de retina (DR) traccional, y en el ojo izquierdo (OI) presenta una agudeza visual (AV) de 0,3 con hemangiomas fotocoagulados nasales y otro de mayor tamaño inferior, junto con una membrana epirretiniana en polo posterior que altera la anatomía macular normal, compatible con la la línea hiperreflectiva superior mostrada en la tomografía de coherencia óptica (OCT). La membrana apareció después de una vitrectomía realizada hace 2 años tras presentar el paciente una hemorragia vítrea grado III y un DR traccional inferior. Tras la vitrectomía, persistía la hemorragia vítrea por lo que se trató con una inyección intravítrea de anti-VEGF (bevacizumab) resolviéndose la misma.
+Remitido por: Alba Bueno-González Escobar Correo electrónico: anadupi83@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="9" end="15" text="Victor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="28" end="44" text="Sandoval Jimenez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="51" end="56" text="56437" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="64" end="78" text="98 43659456 78" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="91" end="114" text="Calle la Marina 66, 3 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="138" end="144" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="150" end="155" text="28001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="199" end="209" text="21/08/1938" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="217" end="223" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="231" end="238" text="79 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="245" end="246" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="266" end="276" text="13/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="310" end="337" text="Alba Bueno-González Escobar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="345" end="356" text="28 28 97653" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="381" end="386" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T5" start="390" end="397" text="79 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T4" start="550" end="561" text="siete hijos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T3" start="597" end="602" text="nieta" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="1490" end="1517" text="Alba Bueno-González Escobar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1538" end="1559" text="anadupi83@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

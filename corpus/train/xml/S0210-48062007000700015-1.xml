@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Angel .
+Apellidos: Aneto Rivera.
+NHC: 7238638.
+NASS: 78 45783453 10.
+Domicilio: Avenida de Adolfo Suárez, 7, 3 A.
+Localidad/ Provincia: Madrid.
+CP: 28016.
+Datos asistenciales.
+Fecha de nacimiento: 07/10/19.
+País de nacimiento: España.
+Edad: 72 años Sexo: H.
+Fecha de Ingreso: 17/03/2012.
+Servicio: Urgencias.
+Episodio: 7345609.
+Médico: Héctor Fernández Jiménez-Ortiz NºCol: 28 28 37946.
+Historia Actual: Varón de 72 años con antecedentes personales de hipertensión arterial, enfermedad pulmonar obstructiva crónica, exfumador y diagnosticado de carcinoma papilar urotelial de vejiga (T1G2). Se realizó resección transuretral del tumor y 3 semanas después se inició tratamiento con ciclo largo de instilaciones endovesicales de BCG (cepa Connaught, 109 unidades formadoras de colonias por dosis) administradas semanalmente.
+Tras recibir 3 sesiones acude a urgencias por malestar general y fiebre (38,5º) de diez días de evolución. No presentaba síndrome miccional ni otra sintomatología.
+Exploración física: La exploración física resultó anodina con auscultación pulmonar normal, puño percusión renal bilateral negativa y próstata no dolorosa ni congestiva, tamaño II/IV y consistencia adenomatosa.
+Pruebas complementarias: El hemograma presentó ligera leucocitosis sin neutrofilia (leucocitos 12100 y 63,7% neutrófilos). Urocultivos y hemocultivos fueron estériles y la búsqueda de bacilos ácido alcohol resistentes en orina fue infructuosa. La radiografía de tórax mostró afectación bilateral y difusa de pequeños nódulos milimétricos con adenopatías gruesas calcificadas, compatibles con TBC miliar. En la tomografía axial computerizada (TAC) se observaron adenopatías groseras calcificadas en hilio y ligamento pulmonar derechos y afectación bilateral y difusa parenquimatosa de pequeños nódulos milimétricos que afectan todos los campos pulmonares. 
+Evolución: El paciente ingresó y recibió tratamiento con isoniazida, rifampicina y etambutol. El paciente mejoró de su estado general por lo que fue dado de alta y seguido ambulatoriamente. Durante el seguimiento no se presentaron efectos adversos de la medicación ni nuevos episodios febriles u otra sintomatología. El tratamiento antituberculoso se pautó durante 6 meses interrumpiéndose las instilaciones de BCG. En el TAC de control a los dos meses se observó disminución del tamaño de las adenopatías así como disminución en el número de nódulos, con desaparición completa en algunos segmentos pulmonares.
+Responsable clínico: Dr. Héctor Fernández Jiménez-Ortiz Centro de Salud Las Calesas. Madrid E-mail autor: hectorestaki@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="33" text="Angel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="47" end="59" text="Aneto Rivera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="66" end="73" text="7238638" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T2" start="81" end="95" text="78 45783453 10" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="108" end="140" text="Avenida de Adolfo Suárez, 7, 3 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="164" end="170" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="176" end="181" text="28016" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="225" end="233" text="07/10/19" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="255" end="261" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="269" end="276" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="283" end="284" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="304" end="314" text="17/03/2012" TYPE="FECHAS" comment=""/>
+    <ID id="T10" start="347" end="354" text="7345609" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T9" start="364" end="394" text="Héctor Fernández Jiménez-Ortiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="402" end="413" text="28 28 37946" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="432" end="437" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="441" end="448" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="2518" end="2548" text="Héctor Fernández Jiménez-Ortiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T1" start="2549" end="2576" text="Centro de Salud Las Calesas" TYPE="CENTRO_SALUD" comment=""/>
+    <LOCATION id="T3" start="2578" end="2584" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T4" start="2599" end="2620" text="hectorestaki@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

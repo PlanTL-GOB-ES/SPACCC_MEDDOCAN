@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Luis .
+Apellidos: Moreno Zafra.
+NHC: 3985724.
+Domicilio: Calle del Puente Colgante, 49.
+Localidad/ Provincia: Valladolid.
+CP: 47007.
+Datos asistenciales.
+Fecha de nacimiento: 24/05/2005.
+País: España.
+Edad: años Sexo: H.
+Fecha de Ingreso: 10/06/2018.
+Servicio: Anestesiología y reanimación.
+Médico: Juan Carlos Álvarez López  NºCol: 47 47 51231.
+Historia Actual: Paciente de 13 años, manifiesta desde 2 meses antes del ingreso: astenia, cefalea, anorexia, epistaxis frecuentes y taquicardia tras realizar ejercicio físico. 
+Antecedentes: quiste tirogloso intervenido a los 2 años, obesidad en estudio
+Exploración física: A la exploración destaca palidez cutáneo-mucosa, adenopatías laterocervicales y submandibulares, esplenomegalia de 6 cm y hepatomegalia de 2 cm. 
+Resumen de pruebas complementarias: Se solicitan distintas exploraciones complementarias, entre las que destaca: Hto: 28,3%; Hb: 7,2 g/dl; leucocitos: 235.600 mm3 (L 83,8%, M 1,1%, N 2%, E 0,1%, B 7,9%); plaquetas: 24.000 mm3; VSG: 70 mm/h; LDH: 1.686 U/l; ácido úrico: 8,3 mg/dl; ferritina: 151 ng/dl. Ante la clínica y la evolución analítica del paciente se sospecha un proceso neoplásico hematológico y se realiza un aspirado de médula ósea en el que se observa un 97% de blastos, con infiltración medular de elementos blásticos. Tras completar el estudio citogenético, molecular, serológico, microbiológico e inmunológico, se llega al diagnóstico de leucemia linfoblástica aguda (LLA), tipo L2 de la FAB. Se inicia quimioterapia según protocolo SHOP 99 para pacientes de muy alto riesgo, obteniéndose la remisión completa al final de la fase de inducción. A los 4 meses de la fase de consolidación el paciente recae, y es precisa la cuarta fase del tratamiento, terapia de mantenimiento, para mantener al niño en remisión.
+El tratamiento de la LLA se realiza según protocolos establecidos (4), siendo frecuente que durante todo el proceso del tratamiento de la enfermedad, el niño tenga que ser sometido a múltiples punciones lumbares para administración de quimioterapia y punciones aspirativas medulares para el control de la enfermedad (5).
+Tras obtener el consentimiento de los padres y de la explicación del tratamiento al niño, se eligieron los lugares para la punción lumbar y la aspiración de la médula ósea. Se premedicó al paciente con midazolam (Dormicum®) 5 mg v.o. y OTFC citrato de fentanilo oral transmucosa (Actiq®) 400 mcg v.o., y se colocó un apósito de crema EMLA® en los sitios de punción. Se administró oxígeno mediante gafas nasales a 4 l/m, y se monitorizó el electrocardiograma, capnografía, pulsioximetría y la presión arterial incruenta desde el inicio del proceso a su alta de la unidad de recuperación postanestésica, de acuerdo con las recomendaciones de la Sociedad Española de Anestesiología y Reanimación.
+Evolución y comentarios: Pasados 30 minutos se infiltró la piel del lugar de punción con 2-5 ml de lidocaína al 1% para posteriormente comenzar a realizar el tratamiento. En todas las ocasiones (4 punciones lumbares y 1 punción aspirativa ósea), éstos pudieron ser realizados sin complicaciones, siendo bien tolerados por parte del paciente. La valoración del dolor según la Escala Visual Analógica fue de 2,8 mm (0-10) y según la categórica verbal de 1 (0-4). La valoración global de la eficacia del tratamiento analgésico fue de 'buena' en todas la situaciones, excepto el día que se realizó la punción lumbar y medular, que lo calificó de 'regular'. Los parámetros monitorizados durante el procedimiento estuvieron dentro de límites normales. No hubo náuseas, vómitos ni prurito, y el paciente fue dado de alta a planta a los 60 minutos tras la realización del proceso.
+Remitido por: Dr. Juan Carlos Álvarez López S. Anestesiología y Reanimación (Unidad del Dolor) Hospital Clínico Universitario Avda. Ramón y Cajal, 3 47005 Valladolid e-mail: udolor@hcuv.sacyl.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="8" end="12" text="Luis" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="26" end="38" text="Moreno Zafra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="45" end="52" text="3985724" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T20" start="65" end="94" text="Calle del Puente Colgante, 49" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="118" end="128" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="134" end="139" text="47007" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="183" end="193" text="24/05/2005" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="201" end="207" text="España" TYPE="PAIS" comment=""/>
+    <OTHER id="T14" start="226" end="227" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="247" end="257" text="10/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="307" end="332" text="Juan Carlos Álvarez López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="341" end="352" text="47 47 51231" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T13" start="383" end="390" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="581" end="587" text="2 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="2161" end="2167" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="2207" end="2211" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T6" start="2766" end="2815" text="Sociedad Española de Anestesiología y Reanimación" TYPE="INSTITUCION" comment=""/>
+    <NAME id="T11" start="3708" end="3733" text="Juan Carlos Álvarez López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3785" end="3815" text="Hospital Clínico Universitario" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3816" end="3838" text="Avda. Ramón y Cajal, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3839" end="3844" text="47005" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3845" end="3855" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3864" end="3884" text="udolor@hcuv.sacyl.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

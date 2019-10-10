@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Isaac.
+Apellidos: Corrales Fletes.
+NHC: 7354509.
+NASS: 37 68492768 56.
+Domicilio: Calle Vnezuela, 34, 5 C.
+Localidad/ Provincia: Palma de Mallorca.
+CP: 07014.
+Datos asistenciales.
+Fecha de nacimiento: 22/11/1979.
+País de nacimiento: España.
+Edad: 38 años Sexo: H.
+Fecha de Ingreso: 20/01/2018.
+Médico: Alberto Pozo Porta NºCol: 07 07 55601.
+Informe clínico del paciente: Varón de 38 años que acude remitido por su médico por urgencias para valoración de lesión en labio inferior de un mes y medio de evolución.
+Presenta como antecedentes personales: hepatitis no filiada, amigdalectomía en la infancia, y hábito homosexual.
+Hace un mes y medio el paciente nota la aparición de una lesión en labio inferior que mejora parcialmente tras tratamiento con aciclovir por parte de su médico de cabecera pero empeora al dejarlo. El paciente refiere asimismo lesiones en escroto y pie izquierdo de aparición reciente.
+A la exploración física presentaba una lesión ulcerada de 2 cm en el lado izquierdo del bermellón del labio inferior, de base indurada, no dolorosa a la palpación. El cuello era negativo para adenopatías. No se observaron otras lesiones en el área de cabeza y cuello. Simultáneamente presentaba en el pie izquierdo una lesión de aspecto ulcerado de 0,5 cm interdigital, superficie lisa y exudado seroso y múltiples máculas de menor tamaño, redondeadas, de color rojo cobre e indoloras al tacto en la planta del mismo pie. Por último, mostraba en el escroto varias lesiones de pequeño tamaño (menores de 0,5 cm) de aspecto ulcerado en distintas fases de resolución y dolorosas a la palpación. El resto de la exploración física estaba dentro de los límites de la normalidad.
+Se realizó biopsia de la lesión labial que no fue concluyente y se solicitaron pruebas de laboratorio para el despistaje de infecciones por VHB (AgHBs: negativo, Anti-HBc: positivo, Anti-HBs cuantitativo: >1000 mUI/ml -positivo-), VHC (ELISA-G: negativo), VIH (Inmunoblot: positivo, ELISA IgG: positivo, ELISA (2ª técnica): positivo, Carga (Chiron): 3,69 Log copias de VIH-RNA/ml, Población linfocitaria (CD 3+): CD 4: 43%, CD 8: 56%, Cociente CD 4/CD8: 0,77, CD 4 valores absolutos: 762 cel/ul, CD 8 valores absolutos: 992 cel/ul), sífilis (RPR: 1/64 Positivo. TPHA: Positivo. ELISA captura G: Positivo (Test treponémico)) y tuberculosis (Mantoux: negativo). No se realizó estudio complementario de LCR dado la ausencia de sintomatología neurológica y corta evolución.
+Con el diagnóstico de sífilis en paciente portador de VIH, el paciente fue tratado con una monodosis de Penicilina G Benzatina (2,4 mill U) i.m. con resolución completa de las lesiones en dos semanas. El control serológico a los 6 meses confirmó la resolución del cuadro.
+Responsable clínico: Alberto Pozo Porta c/ Andrea Doria 55. 07014 Palma de Mallorca, España. E-mail: albertpozoporta@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="33" text="Isaac" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="46" end="61" text="Corrales Fletes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="68" end="75" text="7354509" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="83" end="97" text="37 68492768 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="110" end="133" text="Calle Vnezuela, 34, 5 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="157" end="174" text="Palma de Mallorca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="180" end="185" text="07014" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="229" end="239" text="22/11/1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="261" end="267" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="275" end="282" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="289" end="290" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="310" end="320" text="20/01/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="330" end="348" text="Alberto Pozo Porta" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="356" end="367" text="07 07 55601" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="399" end="404" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="408" end="415" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T1" start="640" end="650" text="homosexual" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2773" end="2791" text="Alberto Pozo Porta" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2792" end="2810" text="c/ Andrea Doria 55" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2812" end="2817" text="07014" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2818" end="2835" text="Palma de Mallorca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2837" end="2843" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="2853" end="2880" text="albertpozoporta@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Antonio.
+Apellidos: Pagudo Henao.
+NHC: 987345.
+Domicilio: Cundinamarca, Cra. 15a #26.
+Localidad/ Provincia: Bogotá.
+Datos asistenciales.
+Fecha de nacimiento: 15/06/1979.
+País: Colombia.
+Edad: 38 años Sexo: H.
+Fecha de Ingreso: 03/05/2018.
+Médico:Ricardo Galán Suárez .
+Historia del paciente: Varón de 38 años que trabaja como miembro de la fuerza policial y que sufre un accidente de tránsito en calidad de motociclista con traumatismo contundente en mano izquierda en hiperextensión. Inicialmente es visto por el Servicio de Urgencias donde le toman radiografía de la mano sin encontrar fracturas, por lo que es tratado con vendaje, analgesia y reposo.
+Dos meses después el paciente consulta en otra institución médica por dolor persistente y limitación funcional; se le toman nuevas radiografías en las que se observa fractura de polo distal del escafoides, y se le practica tratamiento ortopédico cerrado con férula durante 4 semanas tras las que se le indica rehabilitación con terapia física que siguió durante 6 meses. Tratamiento realizado en otra institución médica.
+Un año después regresa a la consulta médica nuevamente por persistencia de dolor y limitación funcional, por lo que es remitido a nuestro Servicio de Cirugía de Mano, donde solicitamos tomografía axial computarizada (TAC) y resonancia nuclear magnética (RNM) con contraste de la mano y muñeca izquierdas, encontrando necrosis del polo distal del escafoides. Con este diagnóstico, decidimos realizar tratamiento quirúrgico mediante artrodesis escafo-trapecio-trapezoide con placa.
+Remitido por: Dr. Ricardo Galán Suárez. Servicio de Cirugía Plástica Hospital Militar Çentral Carrera 3 # 49-00 Bogotá D.C. Colombia Correo electrónico: ricgalan@gmail.com.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="9" end="16" text="Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="29" end="41" text="Pagudo Henao" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="48" end="54" text="987345" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T17" start="67" end="93" text="Cundinamarca, Cra. 15a #26" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="117" end="123" text="Bogotá" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="167" end="177" text="15/06/1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="185" end="193" text="Colombia" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="201" end="208" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="215" end="216" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="236" end="246" text="03/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="255" end="275" text="Ricardo Galán Suárez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="301" end="306" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="310" end="317" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <PROFESSION id="T6" start="349" end="364" text="fuerza policial" TYPE="PROFESION" comment=""/>
+    <NAME id="T9" start="1582" end="1602" text="Ricardo Galán Suárez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1633" end="1657" text="Hospital Militar Çentral" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1658" end="1675" text="Carrera 3 # 49-00" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1676" end="1687" text="Bogotá D.C." TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1688" end="1696" text="Colombia" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1717" end="1735" text="ricgalan@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

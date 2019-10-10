@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Joan.
+Apellidos: Sebastian Paul.
+NHC: 8034895.
+Domicilio: Passeig de Santa Coloma 23, 7D .
+Localidad/ Provincia: Barcelona.
+CP: 08030.
+Datos asistenciales.
+Fecha de nacimiento: 23/04/2000.
+País: España.
+Edad: 14 años Sexo: M.
+Fecha de Ingreso: 17/07/2014.
+Médico: Josep Maria Casanovas Gordó NºCol: 08 08 92635.
+Historia Actual: Paciente de 14 años que acude a la consulta por cansancio o fatiga, temblor de piernas, de 15 días de evolución. 
+Hasta entonces hacía baile varios días a la semana y llevaba una vida muy activa. Familia oriunda de Chile. La niña nació en Nueva York y vive en España desde hace 6 años. 
+Antecedentes: Antecedentes personales no valorables. Vacunas correctas. No alergias medicamentosas conocidas. No enfermedades remarcables en su infancia. Menarquia hace 2 años. Antecedentes familiares: familiar con enfermedad de Berger pendiente de trasplante renal.
+No hay antecedentes de fiebre, solo calambres matutinos en extremidades inferiores los días previos.
+Exploración física: Exploración física: peso de 51 kg; talla: 160 cm; TA 120/80 mmHg; frecuencia cardíaca 105 latidos/minuto; temperatura axilar 36,8 oC. Buen estado general, palidez de piel y mucosas (rubia), no lesiones cutáneas. Adenopatías submandibulares de pequeño tamaño. Exploración neurológica normal; aparato cardiorrespiratorio normal; abdomen sin ningún hallazgo valorable, no visceromegalias, puño percusión lumbar negativa; hidratación correcta.
+Resultados analíticos
+- Hemoglobina de 10,3 g/dl; hematíes 3.880.000; hematocrito 29,7; VCM 77; fórmula leucocitaria: 11.100 leucocitos con 63,2% neutrófilos, 25,1% linfocitos, 8,2% monocitos, 3% eosinófilos y 0,5% de basófilos; plaquetas: 672.600/ml.
+- Glucemia de 93 mg/dl con hemoglobina glicosilada normal; creatinina: 1,15 mg/dl; colesterol total: 114 mg/dl; ferritina 133 mcg/l; sideremia 17 mcg/dl; bilirrubina 0,29 mg/dl; alanina-aminotransferasa 8 U/l; aspartato-aminotransferasa 9 U/l; gamma-glutamiltransferasa 12 U/l; triglicéridos 62 mg/dl; TSH: 1,8093 mU/L (0,15-5,0).
+Bajo la sospecha de insuficiencia renal7,8 ingresa en el hospital. Ecografía renal: riñones simétricos pero significativamente grandes; no dilatación de sistemas colectores, Doppler normal y ecogenicidad normal. Balance renal: FG (T) 70,67 ml/min/1,73 m2; FG (SC) 50,02 ml/min/ m2. Proteinuria 20,71 mg/m2/hora.
+Diagnóstico: insuficiencia renal leve a moderada con proteinuria sin hematuria. Diagnóstico anatomopatológico: nefritis tubulointersticial con daño tubular agudo (probablemente secundario a proceso infeccioso/fármacos).
+Remitido por: Josep Maria Casanovas Gordó. Hospital Sant Joan de Déu. Passeig de Sant Joan de Déu, 2, 08950 Esplugues de Llobregat, Barcelona. Correo electrónico: jmcasanovas.bcn.ics@gencat.cat
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="9" end="13" text="Joan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="26" end="40" text="Sebastian Paul" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="47" end="54" text="8034895" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T23" start="67" end="97" text="Passeig de Santa Coloma 23, 7D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T22" start="122" end="131" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="137" end="142" text="08030" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="186" end="196" text="23/04/2000" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T20" start="204" end="210" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="218" end="225" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="232" end="233" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="253" end="263" text="17/07/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="273" end="300" text="Josep Maria Casanovas Gordó" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="308" end="319" text="08 08 92635" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T16" start="350" end="357" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="534" end="541" text="Familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T10" start="553" end="558" text="Chile" TYPE="PAIS" comment=""/>
+    <OTHER id="T9" start="563" end="567" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T8" start="577" end="587" text="Nueva York" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T7" start="598" end="604" text="España" TYPE="PAIS" comment=""/>
+    <NAME id="T13" start="2582" end="2609" text="Josep Maria Casanovas Gordó" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2611" end="2636" text="Hospital Sant Joan de Déu" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2638" end="2668" text="Passeig de Sant Joan de Déu, 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2670" end="2675" text="08950" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2676" end="2698" text="Esplugues de Llobregat" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2700" end="2709" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2731" end="2761" text="jmcasanovas.bcn.ics@gencat.cat" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

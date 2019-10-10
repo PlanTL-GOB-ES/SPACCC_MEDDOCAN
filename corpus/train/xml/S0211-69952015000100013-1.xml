@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sacramento.
+Apellidos: Martinez Ulloa.
+NHC: 7436571.
+NASS: 78 34502760 46.
+Domicilio: C/ Las Monjas, 23, 1 D.
+Localidad/ Provincia: Córdoba.
+CP: 14002.
+Datos asistenciales.
+Fecha de nacimiento: 14/08/1987.
+País de nacimiento: España.
+Edad: 28 años Sexo: M.
+Fecha de Ingreso: 03/12/2015.
+Médico: Jeremías Torres Sierra  NºCol: 28 28.
+Informe clínico del paciente: Mujer, diagnosticada de HTA a los 14 años, cuando fue admitida por primera vez en un hospital pediátrico, con presión arterial (PA) de 210/120mmHg, cefaleas e hipopotasemia. Con la sospecha de HTA secundaria, se le realizaron diversos estudios. La ecografía renal, el ecocardiograma y el cateterismo de aorta y arterias renales no evidenciaron alteraciones. Los dosajes de actividad de renina plasmática (ARP) y aldosterona plasmática (AP) resultaron elevados en dos ocasiones. Los niveles de ácido vanilmandélico en orina y los de TSH, T4 libre y T3 plasmáticos resultaron normales. Recibió el alta hospitalaria medicada con inhibidores de la enzima convertidora de angiotensina y bloqueante cálcico, pero no regresó a control.
+A los 19 años de edad, consultó en otro nosocomio por HTA y cursando embarazo de ocho semanas, por lo cual fue hospitalizada en terapia intensiva. Se determinó buena salud fetal, PA 200/110mmHg e hipopotasemia, iniciándose tratamiento con clonidina y alfa metil dopa. En ecografía renal se evidenció en polo inferior de riñón izquierdo formación nodular regular de 45mm de diámetro, ecográficamente compatible con angiomiolipoma. Los niveles de ARP y AP estaban elevados. Continuó en tratamiento ambulatorio con labetalol y nifedipina. A las 19 semanas de gestación fue admitida por guardia, con diagnóstico de aborto retenido, realizándose legrado uterino. Cuatro días después solicitó alta voluntaria, no regresando a control.
+Dos años más tarde, estando medicada con enalapril, losartán y amlodipina, ingresa a la guardia de nuestro hospital consultando por cefalea occipital y debilidad muscular de varios días de evolución. Se constata PA de 220/140mmHg. En sus estudios iniciales se detectó hipokalemia de 2mEq/l, creatinina plásmatica de 0,6mg/dl y urea plasmática de 25mg/dl. La ecografía renal evidenció una imagen nodular sólida, corroborada por tomografía computarizada abdominal contrastada, donde se observó una voluminosa formación ocupante de espacio, sólida, en sector interpolar y polo inferior del riñón izquierdo de 65mm de diámetro, hipovascularizada. El Doppler de arterias renales y el ecocardiograma no mostraron alteraciones.
+Ante el diagnóstico presuntivo de HTA secundaria a tumor renal, por los niveles elevados de renina, y habiéndose descartado otras causas secundarias de HTA en estudios anteriores, se decide realizar nefrectomía del riñón afectado, previamente controlada la PA con el agregado de espironolactona en dosis de 100mg/día a su medicación habitual.
+El examen patológico reveló un tumor encapsulado de 5,5x4,5cm, de aspecto hemorrágico, con áreas fibrosas de color blanquecino. Microscópicamente la lesión tumoral se encontró constituida por células de mediano tamaño, con núcleos medianos, vesiculosos, con cromatina irregular, algunas con nucléolo inconspicuo y citoplasma eosinófilo, otras con citoplasma claro, dispuestas en un patrón difuso con extensa hemorragia y leve infiltrado inflamatorio mononuclear, sin invasión de la cápsula renal. No se encontró atipia celular, mitosis, ni necrosis. Las células tumorales fueron positivas para vimentina y mostraron una positividad fuerte y difusa para CD34. La observación a nivel ultraestructural permitió reconocer células con gránulos intracitoplasmáticos con diferentes grados de electrolucidez, rodeados por membranas. En cuanto a la morfología, variaron de redondos a alongados, adquiriendo algunas formas con bordes rectilíneos, y se destacó en algunos de ellos una forma romboidal cristaloide que a grandes magnificaciones presenta una estructura de zigzag de marcada electrodensidad. Hallazgos vinculables a tumor de células yuxtaglomerulares (TCY), permitiendo corroborar la sospecha clínica.
+Posterior a la cirugía, la PA de la paciente fue disminuyendo de forma paulatina y simultáneamente se retiraron antihipertensivos, evolucionando asintomática, normotensa, con niveles de renina plasmática, aldosterona y potasio séricos normales, sin tratamiento farmacológico.
+Responsable clínico: Dr. Jeremías Torres Sierra Servicio de Medicina Interna Hospital San Roque Córdoba, Argentina jeremias.sierra@hospitalprivadosa.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="38" text="Sacramento" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="51" end="65" text="Martinez Ulloa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="72" end="79" text="7436571" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="87" end="101" text="78 34502760 46" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="114" end="136" text="C/ Las Monjas, 23, 1 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="160" end="167" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="173" end="178" text="14002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="222" end="232" text="14/08/1987" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="254" end="260" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="268" end="275" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="282" end="283" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="303" end="313" text="03/12/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="323" end="345" text="Jeremías Torres Sierra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="354" end="359" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="391" end="396" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="425" end="432" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="1126" end="1133" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="4418" end="4440" text="Jeremías Torres Sierra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="4470" end="4488" text="Hospital San Roque" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="4489" end="4496" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4498" end="4507" text="Argentina" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="4508" end="4545" text="jeremias.sierra@hospitalprivadosa.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

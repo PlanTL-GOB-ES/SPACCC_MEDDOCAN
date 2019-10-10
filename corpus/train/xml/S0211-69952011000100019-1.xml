@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Silvia.
+Apellidos: Montero Alonso.
+NHC: 8395691.
+NASS: 28 28475963 75.
+Domicilio: C/ Piña, 2, 6 A.
+Localidad/ Provincia: Ourense.
+CP: 32001.
+Datos asistenciales.
+Fecha de nacimiento: 21/05/1955.
+País de nacimiento: España.
+Edad: 47 años Sexo: M.
+Fecha de Ingreso: 23/09/2002.
+Médico: Cristina Pérez Melón, NºCol: 32 32 55680.
+Informe clínico del paciente: Mujer de 47 años de edad con antecedentes de glucogenosis tipo V (enfermedad de McArdle), malformación de Chiari, insuficiencia renal crónica no filiada, atrofia retiniana e hipertensión arterial.
+Se realiza implantación de catéter peritoneal el 19/5/2000 en otro centro, y se inicia la diálisis con infusión de 2 litros 15 días más tarde. La paciente presentó desde el inicio sensación de incomodidad abdominal, dolor pleurítico en el hemitórax derecho y disnea. Se realizó radiografía detórax, en la que se objetivó hidrotórax, motivo por el que se suspendió la DP y fue remitida a nuestro hospital.
+
+En nuestro centro se realizó drenaje del derrame pleural (trasudado) con normalización de la radiografía de tórax. Se intentó de nuevo la realización de DP con menor volumen de infusión y reapareció el derrame pleural al poco tiempo. Posteriormente, se intentó una punción de fístula arteriovenosa (FAV) que se complicó con extravasación de la misma y miositis.
+La paciente se negó a realizar hemodiálisis o cualquier otro tipo de opción terapéutica con el fin de resolver la comunicación pleuroperitonal, por lo que se inició diálisis peritoneal automática (DPA) con bajo volumen y cabecera elevada en septiembre de 2000, consiguiendo buenos drenajes y con aparición en varias ocasiones de derrame pleural derecho de escasa cuantía.
+La paciente se mantuvo en DPA hasta agosto de 2002, momento en el que se le realiza un trasplante renal, precisando trasplantectomía por trombosis. En septiembre de 2002 se incluye de nuevo en programa de DP en el que se mantuvo hasta que falleció en su domicilio en octubre de 2003.
+Responsable clínico: Cristina Pérez Melón, Servicio de Nefrología, Residencia Cristal, Ourense cristicpm@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="34" text="Silvia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="47" end="61" text="Montero Alonso" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="68" end="75" text="8395691" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="83" end="97" text="28 28475963 75" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="110" end="125" text="C/ Piña, 2, 6 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="149" end="156" text="Ourense" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="162" end="167" text="32001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="211" end="221" text="21/05/1955" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="243" end="249" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="257" end="264" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="271" end="272" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="292" end="302" text="23/09/2002" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="312" end="332" text="Cristina Pérez Melón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="341" end="352" text="32 32 55680" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="384" end="389" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="393" end="400" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="630" end="639" text="19/5/2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="1590" end="1608" text="septiembre de 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="1757" end="1771" text="agosto de 2002" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="1872" end="1890" text="septiembre de 2002" TYPE="FECHAS" comment=""/>
+    <DATE id="T5" start="1988" end="2003" text="octubre de 2003" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="2026" end="2046" text="Cristina Pérez Melón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="2072" end="2090" text="Residencia Cristal" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T2" start="2092" end="2099" text="Ourense" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2100" end="2121" text="cristicpm@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

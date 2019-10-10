@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  ESteban.
+Apellidos: Lebreros Dominguez.
+NHC: 890456.
+NASS: 89 23760156 75.
+Domicilio: Calle Luis de Morales, 2, 5C.
+Localidad/ Provincia: Sevilla.
+CP: 41018.
+Datos asistenciales.
+Fecha de nacimiento: 05/07/1945.
+País: España.
+Edad: 72 años Sexo: H.
+Fecha de Ingreso: 24/08/2017.
+Servicio: Digestivo.
+Médico: Alejandro Liñán Padilla   NºCol: 41 41 56842.
+Motivo de ingreso: Varón de 72 años, remitido desde el Servicio de Digestivo por estudio de disfagia a sólidos y líquidos con anorexia y pérdida de peso progresiva.
+Antecedentes: exfumador (desde hace 17 años), bebedor moderado y EPOC en tratamiento
+Resumen de pruebas complementarias: Se procede a estudio con endoscopia oral informando de la existencia de una masa mamelonada y estenosante desde los 32 cm a unión esofagogástrica, en la que se observa orificio fistuloso, desconociéndose el trayecto y su extremo distal; en la biopsia se halla tan sólo el componente epidermoide de la neoplasia moderadamente diferenciado, ulcerado e infiltrante. La TAC toraco-abdominal, muestra un engrosamiento de la pared esofágica en tercio inferior y unión esófago gástrica, en cuya porción caudal queda una pequeña luz filiforme, sin identificarse el trayecto fistuloso reseñado; sin afectación mediastínica ni de órganos abdominales. El estudio esofagogastroduodenal baritado, revela estenosis de 1-5 cm de longitud en el tercio inferior de esófago, sin otros hallazgos relevantes. La ecoendoscopia muestra una lesión que afecta a todas las capas de la pared esofágica que se inicia inmediatamente a nivel subcarinal, extendiéndose hacia el borde izquierdo en el que algún punto sobrepasa la adventicia, penetrando mínimamente en grasa periesofágica; contactando con aorta y pleura derecha, sin llegar a invadirla; desde el punto de vista ganglionar sólo se observaba una pequeña adenopatía subcarinal de aspecto inflamatoria (T3N0).
+Se procedió a realización de esofaguectomía, gastroplastia intratorácica y yeyunostomía de alimentación.
+El estudio anatomopatológico de la pieza quirúrgica, mostró un cáncer infiltrante de 5 cm con componente epidermoide bien diferenciado y microcítico, con 2 adenopatías aisladas con claro predominio del componente microcítico y afectación del borde circunferencial.
+Fue sometido posteriormente a tratamiento adyuvante quimioterápico (carboplatino, etopósido) y radioterapia (60 Gy). A los 10 meses del diagnóstico se repitió la TAC que mostró imágenes compatibles con metástasis hepáticas, que obligó a iniciar quimioterapia paliativa con etopósido que en la actualidad continúa recibiendo.
+Remitido por: Dr.Alejandro Liñán Padilla. C/Antonio Filpo Rojas, 14 1º izda. 41008 Sevilla E-mail: linan_alejandro@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="9" end="16" text="ESteban" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="29" end="47" text="Lebreros Dominguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="54" end="60" text="890456" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="68" end="82" text="89 23760156 75" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="95" end="123" text="Calle Luis de Morales, 2, 5C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="147" end="154" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="160" end="165" text="41018" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="209" end="219" text="05/07/1945" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="227" end="233" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="241" end="248" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="255" end="256" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="276" end="286" text="24/08/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="317" end="340" text="Alejandro Liñán Padilla" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="350" end="361" text="41 41 56842" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="382" end="387" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="391" end="398" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2602" end="2625" text="Alejandro Liñán Padilla" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2627" end="2660" text="C/Antonio Filpo Rojas, 14 1º izda" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2662" end="2667" text="41008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2668" end="2675" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2684" end="2711" text="linan_alejandro@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

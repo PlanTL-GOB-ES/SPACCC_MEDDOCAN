@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Ignacio  .
+Apellidos: López Tarso.
+CIPA: nhc-1597569.
+NASS: 28 16795459 12.
+Domicilio: Calle antracita 7, 4 Izq.
+Localidad/ Provincia: Madrid.
+CP: 28039.
+NHC:1597569.
+Datos asistenciales.
+Fecha de nacimiento: 23/10/1948.
+País: España.
+Edad: 67 años Sexo: Hombre .
+Fecha de Ingreso: 03/01/2016.
+Especialidad: Urología.
+Médico: Fernando Aguirre Benites NºCol: 28 28 64657.
+Motivo de ingreso: hematuria monosintomática y autolimitada en el tiempo.
+Antecedentes: hipertensión y hernia de hiato en tratamiento médico
+Exploración física: La exploración física no reveló hallazgos de interés.
+Resumen de pruebas complementarias: En las determinaciones analíticas sanguíneas todos los parámetros se encontraban en los límites de la normalidad.
+Se le realiza urografía intravenosa observando un defecto de replección en pelvis renal derecha que posteriormente se confirma con una tomografía computerizada abdominal que muestra una masa en pelvis que amputa cáliz medio.
+Las citologías eran negativas.
+Se realizó nefroureterectomía derecha. En un primer tiempo se procede a desinserción ureteral endoscópica con la modificación técnica posteriormente descrita para a continuación llevar a cabo la nefroureterectomía a través de una incisión subcostal derecha.
+En la descripción macroscópica de la pieza se aprecia una lesión vegetante, exofítica y papilar que ocupa el cáliz medio y parte de pelvis renal sin infiltrar parénquima.
+Microscópicamente el tumor es informado como carcinoma urotelial de alto grado que no invade la lámina propia (Ta G3).
+Evolución: Tras cuatro años de seguimiento el paciente se encuentra vivo y libre de enfermedad.
+Remitido por: Dr. Fernando Aguirre Benites Servicio de Urología. Hospital Universitario 12 de Octubre. Avda. de Córdoba, s/n - 28041 Madrid. Tel.: 913 908 121
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="8" end="15" text="Ignacio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="30" end="41" text="López Tarso" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="53" end="60" text="1597569" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T1" start="68" end="82" text="28 16795459 12" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T3" start="95" end="119" text="Calle antracita 7, 4 Izq" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="143" end="149" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="155" end="160" text="28039" TYPE="TERRITORIO" comment=""/>
+    <ID id="T16" start="166" end="173" text="1597569" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="217" end="227" text="23/10/1948" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T2" start="235" end="241" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="249" end="256" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="263" end="269" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="290" end="300" text="03/01/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="334" end="358" text="Fernando Aguirre Benites" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="366" end="377" text="28 28 64657" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <NAME id="T9" start="1662" end="1686" text="Fernando Aguirre Benites" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="1709" end="1745" text="Hospital Universitario 12 de Octubre" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="1747" end="1768" text="Avda. de Córdoba, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="1771" end="1776" text="28041" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="1777" end="1783" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T4" start="1791" end="1802" text="913 908 121" TYPE="NUMERO_TELEFONO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

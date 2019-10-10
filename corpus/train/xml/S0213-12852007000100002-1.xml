@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Manuel .
+Apellidos: Castro Gil.
+NHC: 7196562 .
+NASS: 47 57730236 47.
+Domicilio: Paseo de la Castellana, 220, 4, A.
+Localidad/ Provincia: Madrid.
+CP: 28046.
+Datos asistenciales.
+Fecha de nacimiento: 22/07/1977.
+País de nacimiento: España.
+Edad: 30 años Sexo:H.
+Fecha de Ingreso: 09/09/2007.
+Servicio: Odontología.
+Episodio: 9077048.
+Médico: Mauricio Cajina Rivera NºCol: 28 28 64748.
+Informe clínico del paciente: Paciente de 30 años se presenta a observación en el departamento de Cirugía Odontoestomatológica por una consulta sobre el elemento dental 2.8 (tercer molar superior izquierdo). El paciente no presentaba sintomatología clínica relevante, excepto por un dolor leve, divulgado en la zona del tercer molar.
+Al examen extraoral no se evidenciaban signos relevantes y la palpación del linfonodos del cuello demostraba una situación de normalidad.
+El examen intraoral revelaba la inclusión parcial mucosa del elemento 2.8, sin variaciones particulares de color y de consistencia a la palpación de la zona bajo examen.
+El análisis radiográfico con ortopantomografía, el elemento 2.8 presentaba zonas de radiotransparente aumentadas.
+El paciente, que carecía de patologías sistémicas, en el mes de Marzo de 2005 recibe la extracción del elemento 2.8 y biopsia de los tejidos adyacentes, de las dimensiones de aproximadamente 1.0 x 1.0 x 1.0 centímetros.
+El diagnóstico en base al informe histológico era de ameloblastoma plexiforme.
+Al profundizar el diagnóstico radiográfico a través de la tomografía axial computarizada con programa Dentascan, demuestra la afectación de una amplia zona del maxilar izquierdo que alcanzaba la base de la órbita.
+En el mes de mayo 2005 bajo anestesia general se realiza una hemi-maxillectomia con amplios márgenes de seguridad a partir del primer premolar superior izquierdo, según el principio, apoyado por muchos autores, que inspira la terapia de los tumores malignos, de "resecar en tejidos aparentemente sanos".
+Se hizo un ulterior análisis histológico del espécimen quirúrgico que confirmó el diagnóstico de ameloblastoma plexiforme.
+Con respecto al tratamiento porotésico, antes de la cirugía se realizaron impresiones de los maxilares y tras el colado se realizó una simulación de la intervención quirúrgica en los modelos de escayola.
+Con el auxilio del TAC se establecieron los márgenes de la resección, con particular atención al margen anterior, importante para no perjudicar el correcto posicionamiento de la prótesis palatina.
+La prótesis de obturación palatina era mucosoportada y dento-retenida con ganchos en los elementos 2.3 y controlateralmente 1.4 y 1.5 y 1.7 y 1.8.. A intervención terminada se averiguó la adaptación del manufacto protésico que resultó adecuada.
+La figura 9 demuestra cómo a los 6 meses en correspondencia de la zona de resección se observan tejidos normotróficos y bien vascularizados.
+Se ha controlado y adaptado periódicamente la prótesis a las condiciones de los tejidos según la cicatrización y se estimará la posibilidad de añadir los dientes, manteniéndolos fuera de oclusión, hasta la fase de reconstrucción con implantes.
+Responsable clínico: Dr. Mauricio Cajina Rivera, Hospital Universitario la Paz. Paseo de la Castellana, 261, 28046 Madrid.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="34" text="Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="48" end="58" text="Castro Gil" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="65" end="72" text="7196562" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="81" end="95" text="47 57730236 47" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="108" end="141" text="Paseo de la Castellana, 220, 4, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="165" end="171" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="177" end="182" text="28046" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="226" end="236" text="22/07/1977" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="258" end="264" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="272" end="279" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="285" end="286" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="306" end="316" text="09/09/2007" TYPE="FECHAS" comment=""/>
+    <ID id="T11" start="351" end="358" text="9077048" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="368" end="390" text="Mauricio Cajina Rivera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="398" end="409" text="28 28 64748" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T8" start="453" end="460" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T2" start="1231" end="1244" text="Marzo de 2005" TYPE="FECHAS" comment=""/>
+    <DATE id="T1" start="1693" end="1702" text="mayo 2005" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="3163" end="3185" text="Mauricio Cajina Rivera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3187" end="3216" text="Hospital Universitario la Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3218" end="3245" text="Paseo de la Castellana, 261" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3247" end="3252" text="28046" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3253" end="3259" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

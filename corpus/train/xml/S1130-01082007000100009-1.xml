@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Enrique.
+Apellidos: Martel Benavides.
+NHC: 7634580.
+NASS: 78 26457016 50.
+Domicilio: Av, Europa, 34, 1 A.
+Localidad/ Provincia: Albacete.
+CP: 02219.
+Datos asistenciales.
+Fecha de nacimiento: 26/09/1977.
+País de nacimiento: España.
+Edad: 40 años Sexo: H.
+Fecha de Ingreso: 05/03/2018.
+Médico: Ezita Latic Talic NºCol: 02 02 54710.
+Informe clínico del paciente: Varón de 40 años en seguimiento por el Servicio de Dermatología por presentar lesiones nodulares glúteas dolorosas, con drenaje purulento. Fue diagnosticado histológicamente de foliculitis quística profunda supurativa, compatible con acné conglobata, con cultivo positivo para Staphylococcus aureus. Recibió tratamiento con prednisona (15 mg/día), isotetricina y rifampicina sin mejoría. Además, asociaba un cuadro de un año de evolución de pérdida de 25 kg de peso y dolor abdominal, con aparición de fiebre en las últimas semanas. El paciente fue remitido para ingreso. A la exploración física estaba caquéctico, y presentaba en la región glútea y perianal múltiples lesiones nodulares con zonas cicatriciales entre ellas, que drenaban material purulento. En la analítica destacaba una anemia ferropénica grave (Hb: 7,2 g/dl), aumento de los reactantes de fase aguda (PCR:13) y datos de malnutrición (albúmina: 2,49 g/dl, colesterol: 8,3 mg/dl). Se realizó una colonoscopia observando pseudopólipos, úlceras y un aspecto mucoso en empedrado en recto y colon transverso, así como dos orificios fistulosos; el diagnóstico histológico fue de enfermedad inflamatoria intestinal tipo enfermedad de Crohn (EC). En una RMN pélvica se visualizó una fístula perianal izquierda con extensión a raíz de muslo izquierdo. Se pautó tratamiento con esteroides a dosis altas, 5-ASA, antibióticos y azatioprina, con una notable mejoría clínica, analítica y la práctica resolución de las lesiones cutáneas. En este caso la existencia de otro diagnóstico (acné conglobata) junto con la presentación de la EC como enfermedad perianal (EPA) llevó a un retraso en el diagnóstico, lo cual pudo ser determinante en el desarrollo de estas graves lesiones.
+Responsable clínico: Dra. Ezita Latic Talic, C/ Juan de Toledo no 13, 2o, 02005-Albacete (España). E-mail: ezita82@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="35" text="Enrique" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="48" end="64" text="Martel Benavides" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="71" end="78" text="7634580" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="86" end="100" text="78 26457016 50" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="113" end="132" text="Av, Europa, 34, 1 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="156" end="164" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="170" end="175" text="02219" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="219" end="229" text="26/09/1977" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="251" end="257" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="265" end="272" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="279" end="280" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="300" end="310" text="05/03/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="320" end="337" text="Ezita Latic Talic" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="345" end="356" text="02 02 54710" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="388" end="393" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="397" end="404" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2147" end="2164" text="Ezita Latic Talic" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2166" end="2193" text="C/ Juan de Toledo no 13, 2o" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2195" end="2200" text="02005" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2201" end="2209" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2211" end="2217" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2228" end="2247" text="ezita82@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

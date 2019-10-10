@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Inés .
+Apellidos: Romero Saez.
+NHC: 285674576.
+NASS: 25 67809468 56.
+Domicilio: Calle de Francisco Gervás 17, 6 C.
+Localidad/ Provincia: Madrid.
+CP: 28046.
+Datos asistenciales.
+Fecha de nacimiento: 28/05/1978.
+País: España.
+Edad: 40 años Sexo: M.
+Fecha de Ingreso: 03/06/2018.
+Servicio: Cirugía MaxilofaciaL.
+Episodio: 72561473068.
+Médico: José Luis Cebrián Carretero  NºCol: 28 28 75954.
+Motivo de ingreso: somnolencia y despertares nocturnos.
+Historia Actual: paciente mujer de 40 años que acude a su médico de cabecera aquejada de somnolencia diurna y frecuentes despertares nocturnos de meses de evolución a los que ahora se añadía una importante cefalea tensional en regiones occipital y temporal. La paciente fue remitida al neumólogo con la sospecha de síndrome de apnea del sueño, que se descartó mediante las pruebas pertinentes, incluida la polisomnografía. Dado que el componente doloroso iba en aumento, la paciente fue remitida a nuestra Unidad de Dolor Orofacial.
+Exploración: En la exploración clínica se apreciaba una oclusión en clase 2 de Angle, con ligero desgaste oclusal, así como signos y síntomas de dolor muscular masticatorio debido a síndrome miofascial con puntos gatillo en músculos maseteros y esterno-cleido-mastoideos de ambos lados. La paciente refería además dolor de espalda, digestiones pesadas y meteorismo.
+Se instauró tratamiento con AINES y relajantes musculares, así como férula oclusal plana tipo Michigan.
+Pruebas complementarias: Con la sospecha de reflujo gastroesofágico, la paciente fue remitida al gastroenterólogo, que tras realizar las pruebas pertinentes (Ph-metría y endoscopia) confirmó el diagnóstico.
+La paciente fue tratada con dieta, medidas posturales y con inhibidores de la bomba de protones (Omeprazol).
+Evolución y comentarios: A los 3 meses, la paciente acudió a consulta mostrando una mejoría evidente del dolor facial, si bien refería mal descanso nocturno con frecuentes despertares.
+Al examinar la férula de descarga se apreció una tinción-impregnación de color verde oscuro que recordaba al contenido (jugo) gástrico.
+En la nueva revisión, a los 6 meses, la sintomatología había remitido casi totalmente y la paciente continuó el protocolo de tratamiento de su síndrome miofascial.
+Remitido por: Dr. José Luis Cebrián Carretero. Servicio de Cirugía Maxilofacial. Hospital Universitario La Paz. Paseo de la Castellana 246. 28046 Madrid. Telef: 917277336. E-mail: drlopezarcas@tiscali.es.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="32" text="Inés" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="46" end="57" text="Romero Saez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="64" end="73" text="285674576" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="81" end="95" text="25 67809468 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="108" end="141" text="Calle de Francisco Gervás 17, 6 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="165" end="171" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="177" end="182" text="28046" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="226" end="236" text="28/05/1978" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="244" end="250" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="258" end="265" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="272" end="273" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="293" end="303" text="03/06/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T12" start="347" end="358" text="72561473068" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T11" start="368" end="395" text="José Luis Cebrián Carretero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="404" end="415" text="28 28 75954" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="499" end="504" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="508" end="515" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2295" end="2322" text="José Luis Cebrián Carretero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2358" end="2387" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2389" end="2415" text="Paseo de la Castellana 246" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2417" end="2422" text="28046" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2423" end="2429" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2438" end="2447" text="917277336" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="2457" end="2480" text="drlopezarcas@tiscali.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

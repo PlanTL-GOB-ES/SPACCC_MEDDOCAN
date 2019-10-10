@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Raúl .
+Apellidos: Puig Roman.
+NHC: 1626394.
+NASS: 28 30296154 64.
+Domicilio: Calle del Arzobispo Domenech, 4, 3, D.
+Localidad/ Provincia: Zaragoza.
+CP: 50006.
+Datos asistenciales.
+Fecha de nacimiento: 20/09/1944.
+País de nacimiento: España.
+Edad: 72 años Sexo: H.
+Fecha de Ingreso: 16/05/2017.
+Episodio:3629184.
+Médico: Marta Medrano San Ildefonso. NºCol: 50 50 78382.
+Informe clínico del paciente: Paciente de 72 años que ingresa para cirugía electiva de aneurisma de aorta abdominal infrarrenal y de arteria hipogástrica derecha. Como antecedentes personales destaca nefrectomía derecha en 1983 por carcinoma de células renales, HTA controlada con amlodipino y IAM inferolateral antiguo con cardiopatía silente. El DIVAS aprecia una ectasia aórtica difusa y una dilatación aneurismática fusiforme cuyo cuello se sitúa a 17 mm de la arteria renal izquierda, con trombo mural de 7 mm en su interior y un calibre de luz máximo de 35 mm a nivel de arteria mesentérica inferior. La dilatación aneurismática afecta a ambas arterias ilíacas primitivas, y se objetiva un segundo aneurisma fusiforme de 13 mm en arteria hipogástrica derecha. Se confirma permeabilidad de eje celíaco, arteria renal izquierda, mesentérica superior y oclusión de arteria mesentérica inferior.
+El paciente es intervenido colocándose endoprótesis aórtica (Quantum Cordis®) 36-12 con extensión a ambas arterias ilíacas y embolización de arteria hipogástrica derecha. La arteriografia renal de control fue normal.
+A las 2 h de la intervención se aprecia anuria de instauración súbita, sin mejoría con perfusión de diuréticos. La arteriografía urgente (6 h postoperatorias) muestra oclusión total del óstium de la arteria renal izquierda por migración craneal de la endoprótesis. Se decide cirugía de revascularización urgente mediante shunt esplenorrenal por lumbotomia posterolateral izquierda a nivel XIIª costilla. Se procede a disección de pedículo renal izquierdo (1 arteria, 1 vena) reperfusión renal mediante ringer lactato a 4 C y anastomosis término-terminal con la arteria esplénica (puntos discontinuos de Prolene® 6/0). La reperfusión del riñón se procedió a las 12 h post instauración de la anuria, recuperándose progresivamente color y consistencia, manteniendo la anastomosis un buen pulso.
+La diuresis espontánea reapareció a las 48 h, necesitando previamente una sesión de hemodiálisis por hiperpotasemia y acidosis. En la Angio RMN de control (2 meses) se demuestra la permeabilidad de la endoprótesis, la ausen- cia de endofugas y de estenosis en la anastomosis esplenorrenal En la actualidad el paciente sigue con tensiones bien controladas con amlodipino y con cifra de creatinina de 1,4 mg/dl.
+Responsable clínico: Dra. Marta Medrano San Ildefonso. C/ Condes de Aragón, 20, 4D. 50009 Zaragoza. e-mail: mmedrano@unizar.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="32" text="Raúl" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="46" end="56" text="Puig Roman" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="63" end="70" text="1626394" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="78" end="92" text="28 30296154 64" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="105" end="142" text="Calle del Arzobispo Domenech, 4, 3, D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="166" end="174" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="180" end="185" text="50006" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="229" end="239" text="20/09/1944" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="261" end="267" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="275" end="282" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="289" end="290" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="310" end="320" text="16/05/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T10" start="331" end="338" text="3629184" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T9" start="348" end="375" text="Marta Medrano San Ildefonso" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="384" end="395" text="50 50 78382" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T7" start="439" end="446" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T6" start="620" end="624" text="1983" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="2740" end="2767" text="Marta Medrano San Ildefonso" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2769" end="2796" text="C/ Condes de Aragón, 20, 4D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2798" end="2803" text="50009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2804" end="2812" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2822" end="2840" text="mmedrano@unizar.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

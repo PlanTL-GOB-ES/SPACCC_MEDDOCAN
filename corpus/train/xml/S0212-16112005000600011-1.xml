@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Antonio.
+Apellidos: Rot Miranda.
+NHC: 3475640.
+NASS: 32 74670456 15.
+Domicilio: C/ La Bañeza, 32.
+Localidad/ Provincia: Madrid.
+CP: 28046.
+Datos asistenciales.
+Fecha de nacimiento: 23/01/1970.
+País de nacimiento: España.
+Edad: 45 años Sexo: H.
+Fecha de Ingreso: 21/07/2015 .
+Médico: Carmen Gómez Candela  NºCol: 28 28 75640.
+Informe clínico del paciente:  Hombre de 45 años con antecedentes de alcoholismo crónico que se acompaña de pancreatitis crónica y diabetes mellitus insulino dependiente, que presenta una ingesta alimentaria muy escasa. Múltiples ingresos hospitalarios por reagudizaciones de su pancreatitis crónica. En 2002 es intervenido para una extirpación de un pseudoquiste pancreático que se complica y finaliza con una quistogastrostomía que se resuelve favorablemente. En febrero de 2003 Hay nuevo ingreso por colecistitis enfisematosa con absceso perivesicular complicado por lo que se coloca colecistostomía con tubo de Pezzer para realizar colecistectomía en un segundo tiempo quirúrgico. Se da de alta con un drenaje por tubo de colecistostomia de aproximadamente 500 ml. En noviembre de 2003 acude a consulta de cirugía donde solicitan examen cualitativo de heces que resulta con aumento de grasas y restos alimenticios, olor fétido y consistencia pastosa. No pautan ningún tratamiento.
+Enfermedad actual: En Febrero de 2004 Acude a urgencias con historia de 3 meses de dolor ocular bilateral, enrojecimiento, escozor, fotofobia y disminución de la agudeza visual. Ingresa a cargo de Oftalmología para estudio y tratamiento. El estudio oftalmológico revela queratitis ulcerativa periférica y agudeza visual menor del 10% en el ojo derecho. En el ojo izquierdo úlcera córneal central con necrosis estromal, e hiphema y únicamente tenía percepción de luz. Las pruebas de imagen resultaron negativas. Los cultivos cornéales fueron negativos. Las exploraciones por especialistas de otorrinolaringología, digestivo y reumatología fueron no significativas. Se envía interconsulta a la Unidad de Nutrición por pérdida de peso de 16 kilos en los últimos 6 meses. La evaluación nutricional revela malnutrición calórica severa y proteica leve, peso de 52 kilos con IMC de 18,2 y pérdida del 23% de su peso habitual en los últimos 6 meses, pliegue tricipital de 5,2 mm (42% del percentil 50 para su edad y sexo), circunferencia muscular del brazo de 18,3 (74% del percentil 50 para su edad y sexo), hipoproteinemia con albúmina de 2,42 g/dl y Proteína Transportadora de Retinol 1,5 mg/dl (Valor de referencia: 3,5-7,5 mg/dl), déficit severo de vitaminas liposolubles, especialmente la A (Vitamina A: 0,24 ng/ml. Valor de referencia:0,4-0,8) y la vitamina D (Vitamina D: 0, no se detecta en sangre. Valor de referencia 15-100 ng/ml). Tanto las vita-minas del complejo B y vitamina C como el zinc resultaron normales. El estudio de malabsorción en heces de 24 horas demostró la presencia de una malabsorción leve (Nitrógeno: 2,5 g, grasas fecales de 6,3 g y azúcares fecales de 3,8 g) sin embargo cuando se recogió esta última muestra de heces paciente ya estaba en tratamiento con Pancrease®.
+Tratamiento: Se suplementó la dieta del paciente con fórmulas hiperproteicas e hipercalóricas especiales para diabéticos (Resource diabet® 2 batidos cada día), se administró por vía oral las vitaminas deficitarias (Natecal D® 2 tabletas cada día, Auxina A+E 2 tabletas cada/día), y se agregó enzimas pancreáticas (Pancrease® 2-0-2).
+Evolución: En Abril de 2004 realizan colecistectomia y se cierra colecistostomia. Evaluamos al paciente 3 meses después y presenta un IMC de 20, la anemia ha remitido y los problemas oftalmológicos han evolucionado favorablemente. Las ulceras cornéales han cicatrizado y ha recuperado casi por completo la agudeza visual (Ojo derecho 100% y ojo izquierdo cuenta dedos (tabla I).
+Responsable clínico: Dra. Carmen Gómez Candela Unidad de Nutrición Clínica y Dietética Hospital Universitario La Paz Madrid E-mail: carmengomezcandela@telefonica.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="35" text="Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="48" end="59" text="Rot Miranda" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="66" end="73" text="3475640" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="81" end="95" text="32 74670456 15" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="108" end="124" text="C/ La Bañeza, 32" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="148" end="154" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="160" end="165" text="28046" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="209" end="219" text="23/01/1970" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="241" end="247" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="255" end="262" text="45 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="269" end="270" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="290" end="300" text="21/07/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="311" end="331" text="Carmen Gómez Candela" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="340" end="351" text="28 28 75640" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="384" end="390" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="394" end="401" text="45 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="657" end="661" text="2002" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="818" end="833" text="febrero de 2003" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="1125" end="1142" text="noviembre de 2003" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="1360" end="1375" text="Febrero de 2004" TYPE="FECHAS" comment=""/>
+    <DATE id="T5" start="3479" end="3492" text="Abril de 2004" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="3870" end="3890" text="Carmen Gómez Candela" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="3931" end="3960" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T2" start="3961" end="3967" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3976" end="4009" text="carmengomezcandela@telefonica.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

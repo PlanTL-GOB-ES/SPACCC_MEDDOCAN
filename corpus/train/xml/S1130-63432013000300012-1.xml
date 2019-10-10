@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Elisa.
+Apellidos: Marín Diaz.
+NHC: 7326047.
+NASS: 38 96789406 11.
+Domicilio: Paseo de la Castellana, 15, 4, C.
+Localidad/ Provincia: Madrid.
+CP: 28.
+Datos asistenciales.
+Fecha de nacimiento: 15/04/1955.
+País de nacimiento: España.
+Edad: 61 años Sexo: M.
+Fecha de Ingreso: 13/11/2016.
+Médico: Robert Hurtado García NºCol: 28 08 51560.
+Informe clínico del paciente: Mujer de 61 años de edad con múltiples ingresos hospitalarios previos por presentar episodios de hemorragia digestiva, con antecedentes de valvulopatía mitral con recambio valvular protésico y en tratamiento con acenocumarol. En Abril del 2011 ingresó por una sangrado intestinal de origen no filiado y anemia ferropénica severa, se realizó una gastroscopia y cápsula endoscópica sin hallazgos significativos, tras lo cual se decidió disminuir el rango de INR a 2,5-3. Dos meses después presentó nuevo episodio de sangrado intestinal, tras el cual se volvió a realizar una cápsula endoscópica en la que se apreciaba la existencia de angiodisplasias intestinales en antro duodenal, yeyuno proximal e íleon terminal, sin evidencia de sangrado por otra causa. Presentó posteriormente tres ingresos por el mismo motivo llegando a precisar múltiples unidades (U) de concentrados de hematíes. Se realizó enteroscopia por vía oral hasta yeyuno medio durante la cual no se objetivó existencia de angiodisplasias, siendo imposible valorar la existencia de angiodisplasias ileales.
+En el último ingreso presentaba una hemoglobina de 10,5 g, con un hematocrito de 0,340 L/L y un volumen corpuscular medio de 25,7 pg. Tras este nuevo episodio, y persistiendo los episodios de sangrado, sin objetivarse lesiones claras en las que realizar otras medidas como electrofulguración o cirugía, se decidió emplear talidomida, en dosis de 50 mg diarios, como fármaco de uso compasivo, tras la autorización manuscrita de la paciente. Durante tres meses la paciente se mostró asintomática, con niveles de hemoglobina de 124 g/L y con test de sangre oculta en heces negativos mantenido en el tiempo.
+Tras este periodo, ingresó por presentar un importante deterioro de su estado general, con disnea de mínimos esfuerzos, ortopnea, edemas maleolares y sin dolor torácico. Se solicitó ecocardiografía urgente que fue informada como hipertensión pulmonar severa con una PSAP (presión sistolica de arteria pulmonar) de 100mmHg, (previamente al inicio del tratamiento con talidomida, la paciente presentaba una PSAP de 26mmHg medida por ecografía) así mismo, se realizó un estudio para descartar un tromboembolismo pulmonar, siendo tanto el dímero D como la tomografía angiográficas negativas.
+No hubo evidencia de otras causas que justificaran la elevación de la PSAP, por lo que su suspendió el fármaco y se inició tratamiento con lanreótido mensual.
+Responsable clínico: Dr. Robert Hurtado García Correo electrónico: robelx2@hotmail.com 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="28" end="33" text="Elisa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="46" end="56" text="Marín Diaz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="63" end="70" text="7326047" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="78" end="92" text="38 96789406 11" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="105" end="137" text="Paseo de la Castellana, 15, 4, C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="161" end="167" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="173" end="175" text="28" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="219" end="229" text="15/04/1955" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="251" end="257" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="265" end="272" text="61 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="279" end="280" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="300" end="310" text="13/11/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="320" end="341" text="Robert Hurtado García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="349" end="360" text="28 08 51560" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="392" end="397" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="401" end="408" text="61 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T2" start="621" end="635" text="Abril del 2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="2840" end="2861" text="Robert Hurtado García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2882" end="2901" text="robelx2@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

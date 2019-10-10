@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sheila.
+Apellidos: Paez Moncada.
+NHC: 2950786.
+Domicilio: Calle de la Vega, 9, 3 D.
+Localidad/ Provincia: Madrid.
+CP: 28047.
+Datos asistenciales.
+Fecha de nacimiento: 21/12/1995.
+País de nacimiento: España.
+Edad: 14 años Sexo: M.
+Fecha de Ingreso: 20/03/2010.
+Médico: Leonor Barroso Moreno. NºCol: 28 28 88317.
+Informe clínico del paciente: paciente de 14 años sometida a un estudio de detección bioquímica y radiológica. Se encontró hipocalcemia, hiperparatiroidismo, dos tumores maxilares (de los cuadrantes segundo y cuarto) y varios quistes renales.
+Se realizó paratiroidectomía derecha para tratar un adenoma paratiroideo. La calcemia permaneció normal durante un año, pero a partir de entonces empezó a aumentar. Sheila se intervino de nuevo (paratiroidectomía izquierda, tanto superior como inferior, y excisión de la mitad de la paratiroides superior derecha por un adenoma de la paratiroides superior izquierda). Las lesiones maxilares seguían creciendo y unos meses más tarde fueron resecados los dos fibromas osificantes.
+Posteriormente tuvo otro episodio de hiperparatiroidismo y fue intervenida para resecar el adenoma de la glándula restante. No hay ningún indicio de recidiva o de la presentación de tumores maxilares nuevos.
+Responsable clínico: Dra. Leonor Barroso Moreno. Hospital Universitario La Paz (HULP). Paseo de la Castellana, 261, 28046 Madrid
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="28" end="34" text="Sheila" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="47" end="59" text="Paez Moncada" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="66" end="73" text="2950786" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T16" start="86" end="110" text="Calle de la Vega, 9, 3 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="134" end="140" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="146" end="151" text="28047" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="195" end="205" text="21/12/1995" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="227" end="233" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="241" end="248" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="255" end="256" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="276" end="286" text="20/03/2010" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="296" end="317" text="Leonor Barroso Moreno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="326" end="337" text="28 28 88317" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T9" start="381" end="388" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1295" end="1316" text="Leonor Barroso Moreno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="1318" end="1347" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T20" start="1349" end="1353" text="HULP" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="1356" end="1383" text="Paseo de la Castellana, 261" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="1385" end="1390" text="28046" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="1391" end="1397" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Adela.
+Apellidos: Juan Rodriguez .
+NHC: 3745684.
+NASS: 58 67895656 88.
+Domicilio: Av, serrano 34, Bajo A.
+Localidad/ Provincia: Badajoz.
+CP: 06 06 55814.
+Datos asistenciales.
+Fecha de nacimiento: 20/03/1951.
+País de nacimiento: España.
+Edad: 64 años Sexo: M.
+Fecha de Ingreso: 30/07/2015.
+Médico: Luis Miguel Bernal García NºCol: 06 06 83256.
+Informe clínico del paciente: Mujer de 64 años de edad con antecedentes personales de diabetes mellitus, hipertensión arterial y fibrilación auricular anticoagulada con acenocumarol. Vista en Consultas Externas por un cuadro clínico de imposibilidad para la deambulación e incontinencia urinaria ocasional, con afectación de funciones superiores y labilidad emocional. Los estudios de neuroimagen mostraron una hidrocefalia tetraventricular. Ante la sospecha de HCA se decidió a la colocación de un DLE como test diagnóstico. Tras sustituir el acenocumarol por heparina de bajo peso molecular unas semanas antes, se procedió a la colocación del DLE. En el traslado de la paciente desde quirófano a la planta de hospitalización, el drenaje se mantuvo accidentalmente abierto. A las 6 horas de su colocación, tras haber drenado 240 ml de LCR, la paciente comenzó a presentar cefaleas, náuseas, vómitos y sudoración que inicialmente se achacaron a un cuadro de hipotensión intracraneal. En ningún momento se deterioró el nivel de conciencia. Ante la intensidad de los síntomas se realizó una TC craneal urgente que mostró la presencia de un hematoma en vermis y hemisferio cerebeloso izquierdo, con sangrado subaracnoideo en la superficie superior del cerebelo y en las folias cerebelosas. El DLE fue retirado inmediatamente y, dado el buen estado clínico de la paciente, se decidió seguir tratamiento conservador, con buena evolución clínica. Los estudios de neuroimagen (RM y angiografía cerebral) descartaron la existencia de patología subyacente.
+La paciente se recuperó hasta su estado previo. Posteriormente le fue implantada una derivación ventrículoperitoneal, objetivándose gran mejoría clínica.
+Responsable clínico:  Dr. Luis Miguel Bernal García. S. de Neurocirugía. Hospital Infanta Cristina. Avenida de Elvas s/n. Badajoz.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="33" text="Adela" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="46" end="60" text="Juan Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="68" end="75" text="3745684" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="83" end="97" text="58 67895656 88" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="110" end="132" text="Av, serrano 34, Bajo A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="156" end="163" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="169" end="180" text="06 06 55814" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="224" end="234" text="20/03/1951" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="270" end="277" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="284" end="285" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="305" end="315" text="30/07/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="325" end="350" text="Luis Miguel Bernal García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="358" end="369" text="06 06 83256" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="401" end="406" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="410" end="417" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="2099" end="2124" text="Luis Miguel Bernal García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="2146" end="2171" text="Hospital Infanta Cristina" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T2" start="2173" end="2193" text="Avenida de Elvas s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="2195" end="2202" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

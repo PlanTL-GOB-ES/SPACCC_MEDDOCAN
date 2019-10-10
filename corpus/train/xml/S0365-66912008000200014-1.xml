@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Diego.
+Apellidos: Rubio Benito.
+NHC: 7356733.
+NASS: 43 78563479 56.
+Domicilio: C/ Montera, 4.
+Localidad/ Provincia: Zaragoza.
+CP: 50015.
+Datos asistenciales.
+Fecha de nacimiento: 24/05/1958.
+País de nacimiento: España.
+Edad: 50 años Sexo: H.
+Fecha de Ingreso: 06/11/2008.
+Médico:  Nuria López Rodríguez  NºCol: 50 50 11447.
+Informe clínico del paciente: Varón de 50 años al que se le realizó en enero de 2004 una derivación biliopancreática de Scopinaro por obesidad mórbida. El paciente presenta una esteatosis hepática y un síndrome malabsortivo. Está en tratamiento con vitamina B12 por anemia crónica y con vitamina K por una actividad de protrombina disminuida.
+En enero de 2006 se le realiza una pieloinfundibulonefrolitotomía con fístula urinaria postoperatoria.
+En abril de 2006 el paciente es remitido al servicio de oftalmología por ceguera nocturna de progresión en 3 meses. El paciente además refería sensación de cuerpo extraño y ojo rojo. A la exploración la agudeza visual era de la unidad en ambos ojos. El examen con lámpara de hendidura mostraba un BUT muy disminuido, xerosis conjuntival y manchas de Bitot en ambos ojos. También se podía observar observar un fino punteado epitelial conjuntivo corneal en la tinción con fluoresceína. En el test de Schirmer I bajo anestesia se observaron valores mayores de 15 mm. Oftalmoscópicamente se apreció un moteado blanquecino en media periferia sin afectación macular. El nivel plasmático de retinol era de 0,07 mg/l (nivel normal 0,30-0,8 mg/l).
+Ante la gravedad potencial del cuadro se comienzó un tratamiento oral con vitamina A y enzimas pancreáticos para favorecer su absorción a la espera de recibir tratamiento intramuscular, sin lograr apenas mejoría.
+Concomitantemente, debido a la nefrolitiasis complicada (absceso intrarrenal), al paciente se le realiza una nefrectomía con sangrado intenso, que requiere cinco concentrados de hematíes. Tras dicho proceso el paciente refiere una ligera mejoría de su sintomatología, a pesar de haber suprimido tratamiento oral por el ayuno postquirúrgico.
+Finalmente se le administraron 300.000 UI de vitamina A intramuscular consiguiendo una mejoría inmediata de los síntomas subjetivos, aunque las manifestaciones oftalmoscópicas tardaron tres meses en desaparecer.
+Responsable clínico: Dra. Nuria López Rodríguez Hospital Royo Villanova Avda. San Gregorio, 30 50015 Zaragoza España E-mail: nurialpz@eresmas.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="28" end="33" text="Diego" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="46" end="58" text="Rubio Benito" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="65" end="72" text="7356733" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="80" end="94" text="43 78563479 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="107" end="120" text="C/ Montera, 4" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="144" end="152" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="158" end="163" text="50015" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="207" end="217" text="24/05/1958" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="239" end="245" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="253" end="260" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="267" end="268" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="288" end="298" text="06/11/2008" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="309" end="330" text="Nuria López Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="339" end="350" text="50 50 11447" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="382" end="387" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="391" end="398" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="423" end="436" text="enero de 2004" TYPE="FECHAS" comment=""/>
+    <DATE id="T10" start="698" end="711" text="enero de 2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="801" end="814" text="abril de 2006" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="2329" end="2350" text="Nuria López Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2351" end="2374" text="Hospital Royo Villanova" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2375" end="2397" text="Avda. San Gregorio, 30" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2398" end="2403" text="50015" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2404" end="2412" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2413" end="2419" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2428" end="2448" text="nurialpz@eresmas.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

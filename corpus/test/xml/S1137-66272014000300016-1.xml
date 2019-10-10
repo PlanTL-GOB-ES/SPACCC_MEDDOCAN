@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Lara.
+Apellidos: Rico Alvarez.
+NHC: 8309567.
+NASS: 29 23785939 09.
+Domicilio: Paseo San Ramón, 23, 3A.
+Localidad/ Provincia: Málaga.
+CP: 29560.
+Datos asistenciales.
+Fecha de nacimiento: 21/08/1980.
+País: España.
+Edad: 36 años Sexo: H.
+Fecha de Ingreso: 03/03/2016.
+Servicio: Medicina Interna.
+Episodio: 3587632.
+Médico: Antonio Ruiz Serrato  NºCol: 29 29 68530.
+Informe clínico del paciente: Mujer de 36 años sin antecedentes médicos o epidemiológicos de interés que es ingresada en la Unidad de Cuidados Intensivos por sepsis y meningitis por meningococo tipo B aislado en cultivos sanguíneos y de líquido cefalorraquídeo. Recibió soporte fluidoterápico, ceftriaxona y vancomicina durante 10 días con desaparición de parámetros clínicos y analíticos de sepsis aunque con persistencia de fiebre diaria de 38o vespertina bien tolerada, sin otra focalidad infecciosa en las pruebas complementarias que incluían: hemocultivos seriados, urocultivo, radiografía de tórax, ecografía abdominal y TAC de cráneo.
+Ingresa en planta de medicina interna para completar estudio y evolución; permanece en estabilidad hemodinámica y buen estado general, fiebre de hasta 38,5oC bien tolerada, acceso venoso central subclavio derecho sin datos de infección, escasas petequias en extremidades inferiores en fase de regresión siendo el resto de la exploración general y neurológica normal.
+El hemograma, la hemostasia, el perfil renal, hepático, tiroideo y lipídico fueron normales, destacando un valor de ferritina de 775 µg/dl, VSG 90 mm1a hora, la PCR en 23,8 mg/dl (VN <0,3 mg/dl) y procalcitonina en 0,22 ng/ml. La serología a virus de la hepatitis B y C, VIH, VEB, CMV, VHS tipos 1 y 2, Coxiella burnetti y Rickettsias fue negativa; autoinmunidad con ANA, ANCA, factor reumatoide, inmunoglobulinas y complementos fueron normales o negativos. Reacción de Mantoux negativa; hemocultivos a través de catéter central, sangre periférica y urocultivos fueron reiteradamente negativos; el líquido cefalorraquídeo de control era de características normales excepto una proteinorraquia de 65 mg/dl con baciloscopia y cultivo también negativos. El fondo de ojo, electrocardiograma, ecocardiografía y la TAC tóraco-abdominal con contraste también resultaron normales.
+Se solicitó una RMN craneal con contraste donde se apreciaba una discreta captación meníngea generalizada y múltiples lesiones de entre 7-10 mm, hipointensas en T1 e hiperintensas en T2 y Flair, en sustancia blanca temporal, en cápsula externa izquierda, periventricular derecha, frontal y parietal anterior bilateral con marcada captación periférica de contraste en anillo y edema perilesional asociado. Ante los hallazgos compatibles con abscesos cerebrales múltiples secundarios a la meningococemia, se realizó una extensa búsqueda bibliográfica (guías práctica clínica, revisiones sistemáticas, bases de datos bibliográficas, metabuscadores y revistas no indexadas relacionadas) que confirmó los escasos datos reportados con respecto a dicha complicación. En este punto se decidió la realización de un PET-TAC con el objetivo de descartar otros posibles hallazgos/focos que justificasen la persistencia del cuadro febril, corroborando dicha prueba la captación hipermetabólica de las lesiones cerebrales descritas, y ausencia de captación a otro nivel corporal.
+Descartándose otro foco infeccioso/inflamatorio, se mantuvo el tratamiento con ceftriaxona parenteral durante 8 semanas, con desaparición lenta pero progresiva de la fiebre, descenso paulatino hasta la normalización de PCR y VSG, así como desaparición de abscesos cerebrales en control de RMN tras finalizar tratamiento, sin presentar complicaciones ni recidiva del cuadro en el seguimiento ambulatorio posterior.
+Remitido por: Dr. Antonio Ruiz Serrato Servicio Medicina Interna Hospital de Antequera Avda Poeta Muñoz Rojas s/n 29200 Antequera. Málaga Email: ito.ruizserrato@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="32" text="Lara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="45" end="57" text="Rico Alvarez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="64" end="71" text="8309567" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="79" end="93" text="29 23785939 09" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="106" end="129" text="Paseo San Ramón, 23, 3A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="153" end="159" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="165" end="170" text="29560" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="214" end="224" text="21/08/1980" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="232" end="238" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="246" end="253" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="260" end="261" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="281" end="291" text="03/03/2016" TYPE="FECHAS" comment=""/>
+    <ID id="T8" start="331" end="338" text="3587632" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="348" end="368" text="Antonio Ruiz Serrato" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="377" end="388" text="29 29 68530" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="420" end="425" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="429" end="436" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="3770" end="3790" text="Antonio Ruiz Serrato" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3817" end="3838" text="Hospital de Antequera" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3839" end="3865" text="Avda Poeta Muñoz Rojas s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3866" end="3871" text="29200" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3872" end="3881" text="Antequera" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3883" end="3889" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3897" end="3922" text="ito.ruizserrato@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

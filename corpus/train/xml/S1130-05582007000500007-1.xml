@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Pedro.
+Apellidos: Sanz Domenech.
+NHC: 9573948.
+NASS: 82 78675468 20.
+Domicilio: Paseo de la Condesa, 13, 2 A.
+Localidad/ Provincia: Barcelona.
+CP: 08035.
+Datos asistenciales.
+Fecha de nacimiento: 15/12/1979.
+País de nacimiento: España.
+Edad: 38 años Sexo: H.
+Fecha de Ingreso: 07/03/2018.
+Médico: Josep Rubio Palau  NºCol:08 08 47710.
+Informe clínico del paciente: varón de 38 años que acudió al Servicio de Cirugía Oral y Maxilofacial del Hospital Universitari Vall d'Hebron, remitido de otro centro, por tumoración mandibular de 1 año de evolución.
+Como antecedentes patológicos destaca el ser exadicto a drogas por vía parenteral, ser VHC positivo y VIH positivo en tratamiento con antiretrovirales. A la exploración se apreciaba una tumoración mandibular derecha de aproximadamente 5 cms de tamaño, fija y de consistencia dura manteniéndose la integridad de la mucosa oral. En la ortopantomografía aparecía una lesión mixta con calcificaciones en su interior que afectaba la hemimandíbula derecha.
+En la TC se observaba una lesión mixta expansiva en cuerpo de mandíbula derecha que destruía las corticales de 4,5x3x3,3 cm.
+La biopsia realizada informaba de tumor odontogénico epitelial calcificante.
+El paciente fue sometido a una hemimandibulectomía derecha con reconstrucción microquirúrgica con peroné.
+La anatomía patológica reveló una masa de 4 x 2,5 cm de superficie irregular con aspecto heterogéneo, áreas congestivas y restos de piezas dentarias, que confirmó el diagnóstico de tumor odontogénico epitelial calcificante de mandíbula y que infiltraba partes blandas periósticas. El nervio mentoniano no presentaba invasión y la biopsia intraoperatoria de ganglio de cadena facial izquierda no presentaba metástasis.
+La evolución postoperatoria fue favorable y fue dado de alta tolerando dieta y con control de las heridas en consultas externas.
+Responsable clínico: Josep Rubio Palau Paseo Vall d´Hebron, 119-129 08035 Barcelona, España Email: jrubiopalau@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="33" text="Pedro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="46" end="59" text="Sanz Domenech" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="66" end="73" text="9573948" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="81" end="95" text="82 78675468 20" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="108" end="136" text="Paseo de la Condesa, 13, 2 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="160" end="169" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="175" end="180" text="08035" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="224" end="234" text="15/12/1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="270" end="277" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="284" end="285" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="305" end="315" text="07/03/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="325" end="342" text="Josep Rubio Palau" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="350" end="361" text="08 08 47710" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="393" end="398" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="402" end="409" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T6" start="468" end="503" text="Hospital Universitari Vall d'Hebron" TYPE="HOSPITAL" comment=""/>
+    <NAME id="T8" start="1906" end="1923" text="Josep Rubio Palau" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1924" end="1952" text="Paseo Vall d´Hebron, 119-129" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1953" end="1958" text="08035" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1959" end="1968" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1970" end="1976" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1984" end="2004" text="jrubiopalau@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

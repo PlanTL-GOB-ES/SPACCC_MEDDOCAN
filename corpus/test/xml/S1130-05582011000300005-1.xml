@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Trinidad.
+Apellidos: Rubio Fernandez.
+NHC: 7835630.
+NASS: 89 67829567 56.
+Domicilio: Calle Rivadavia, 94, 3 C.
+Localidad/ Provincia: Madrid.
+CP: 28035.
+Datos asistenciales.
+Fecha de nacimiento: 20/09/1959.
+País de nacimiento: España.
+Edad: 56 años Sexo: M.
+Fecha de Ingreso: 08/07/2016.
+Médico:  Lucia Gutiérrez Bayard  NºCol: 28 28 36330.
+Informe clínico del paciente: Paciente de 56 años de edad, tratado por cáncer de borde lingual izquierdo mediante glosectomía izquierda y linfadenectomía cervical izquierda, pT4N2bM0 borde quirúrgico positivo, recibiendo radioquimioterapia adyuvante concurrentes (cisplatino, radioterapia conformada tridimensional) (66Gy lecho tumoral, 54Gy cadenas cervicales) que finaliza en marzo 2006. En noviembre 2007 (18 meses) objetivamos una masa laterocervical derecha, nivel II, de 4cm y 29mm en TC. Estudio de extensión negativo. Anatomía patológica: carcinoma. Considerado irresecable en comité de Tumores de Cabeza y Cuello (CTCC) por dudas de infiltración del músculo esternocleidomastoideo, decidimos quimioterapia (cisplatino seis ciclos) y reevaluación. En mayo de 2008 RNM cervical objetiva remisión parcial (24mm). Valorado en CTCC, decidimos linfadenectomía cervical funcional modificada derecha con resección de vena yugular y nervio espinal englobado por masa tumoral, seguida de HDRBT intersticial (junio de 2008), colocando los vectores en el acto quirúrgico. Tras extirpación total, el lecho tumoral, y órganos de riesgo (carótida, plexo braquial) fueron identificados por el cirujano y el oncólogo. Utilizamos implante monoplano con cinco tubos plásticos (separados 1cm minimizando riesgo de toxicidad vascular) y botones confort (fijación catéter-piel) Nucletron®. Empleamos para simulación terapéutica cortes (5mm) de TC helicoidal. La anatomía patológica fue de metástasis de carcinoma escamoso pobremente diferenciado en 4 de 7 de ganglios resecados, todos con infiltración extraganglionar. El volumen de planificación de HDRBT se definió a 5mm desde el centro del catéter. La dosis total de 34Gy (10 fracciones de 3,4Gy, 2 al día [separadas 6 horas], cinco días consecutivos), se inició cinco días tras cirugía.
+Como seguimiento multidisciplinar evaluamos: estado funcional, exploración física, toxicidad, valor TSH, y TC cervical. En febrero 2011, el paciente está libre de enfermedad, buen estado general, sin dolor, como toxicidad crónica: fibrosis tejidos blandos grado I (criterios del Instituto Nacional del Cáncer [versión 3.0]).
+Responsable clínico: Dra. Lucia Gutiérrez Bayard guillermoylucia@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="36" text="Trinidad" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="49" end="64" text="Rubio Fernandez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="71" end="78" text="7835630" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="86" end="100" text="89 67829567 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="113" end="137" text="Calle Rivadavia, 94, 3 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="161" end="167" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="173" end="178" text="28035" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="222" end="232" text="20/09/1959" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="254" end="260" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="268" end="275" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="282" end="283" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="303" end="313" text="08/07/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="324" end="346" text="Lucia Gutiérrez Bayard" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="355" end="366" text="28 28 36330" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T12" start="410" end="417" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T1" start="746" end="756" text="marzo 2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="761" end="775" text="noviembre 2007" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="1127" end="1139" text="mayo de 2008" TYPE="FECHAS" comment=""/>
+    <DATE id="T5" start="1375" end="1388" text="junio de 2008" TYPE="FECHAS" comment=""/>
+    <DATE id="T4" start="2319" end="2331" text="febrero 2011" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T3" start="2475" end="2504" text="Instituto Nacional del Cáncer" TYPE="INSTITUCION" comment=""/>
+    <NAME id="T9" start="2547" end="2569" text="Lucia Gutiérrez Bayard" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T2" start="2570" end="2595" text="guillermoylucia@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

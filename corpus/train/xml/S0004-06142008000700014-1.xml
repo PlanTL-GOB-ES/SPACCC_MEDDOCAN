@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre: Unai .
+Apellidos: Navarro Medina.
+CIPA: nhc-4545562.
+NASS: 64 3645356 02.
+Domicilio: Gran Vía, 85 .
+Localidad/ Provincia: Bilbao.
+CP: 48011.
+NHC:4545562.
+Datos asistenciales.
+Fecha de nacimiento: 12/12/1934.
+País: ESpaña.
+Edad: 77  Sexo: H.
+Fecha de Ingreso: 03/03/2012.
+Especialidad: Medicina Interna.
+Médico: Igor Azurmendi Arin  NºCol: 31 48 97565.
+Antecedentes: como único antecedente urológico una hipertrofia benigna de próstata.
+Historia Actual: Paciente varón de 77 años con múltipes factores cardiopatogénicos, es ingresado en el servicio de Medicina Interna para estudio de un cuadro constitucional de 4 meses de evolución con anorexia y pérdida de unos 15 kg de peso, acompañado de debilidad generalizada y dolor epigástrico cólico de minutos de duración. No contaba otra clínica acompañante. 
+Exploración física: La exploración física fue normal, salvo que presentaba un aumento de tamaño de los genitales, por lo que se realizó una ecografía, con el resultado de un hidrocele bilateral, más marcado en el lado izquierdo, con desestructuración de morfología multinodular en el teste izquierdo, que obligaba a descartar proceso maligno subyacente, además de presentar transiluminación positiva bilateral, se palpaba un nódulo duro de 4 cm localizado en polo superior de teste izquierdo, sugestivo de masa sólida.
+Resumen de pruebas complementarias: Se realizó un estudio digestivo (gastroscopia, colonoscopia, ecoendoscopia) que fue normal.
+Las pruebas de imagen a distancia (TAC, RNM) fueron negativos. Se solicitaron marcadores tumorales germinales y LDH, que fueron negativos. Se realizó orquiectomía radical inguinal izquierda.
+La descripción macroscópica de la pieza, de unos 9 x 6.5cm, evidenció escaso parénquima testicular sano adyacente al polo superior, en el cual se halló una masa tumoral sólida, multinodular, de coloración blanquecina con algún área marronácea, de 4 cm diámetro.
+El análisis microscópico mostró áreas de patrón sarcomatoide y crecimiento en sábana junto a áreas donde las células se disponían en un patrón cordonal o formando trabéculas con presencia de estructuras vasculares. Las células eran piramidales, de gran citoplasma, con pleomorfismo nuclear y nucleolos prominentes adquiriendo en zonas un citoplasma muy claro, lipidificado. El índice mitótico era alto, siendo superior a las 5 mitosis x10 HPF en las zonas de crecimiento en sábana. La tumoración contactaba con la albugínea e infiltraba el epidídimo sin que prácticamente quedaran túbulos seminíferos viables. Se apreciaban además imágenes muy sugestivas de invasión vascular. En las secciones de parénquima testicular respetado, los túbulos presentaron membrana basal hialinizada, de aspecto atrófico. Las técnicas inmunohistoquimicas evidenciaron positividad para Inhibina, keratina, CK8, CK18, Vimentina, EMA y S-100. El Ki67 mostró positividad intensa en aproximadamente el 30-40% de las células tumorales. Resultó negativo para Progesterona, PLAP, AFP, HCG, Cromogranina y HMB45.
+Con todos estos hallazgos, el diagnóstico fue de tumor de células de Sertoli maligno, con variación de patrones histológicos, clasificado como de tipo Clásico. Doce meses después, persiste aún el cuadro general, que motivó nuevo ingreso en Medicina Interna, sospechándose Enfermedad Inflamatoria Sistémica. Los controles séricos y de imagen en relación al proceso testicular se mantienen dentro de los parámetros normales.
+Remitido por: Igor Azurmendi Arin Apartado Calle Oria 9, 3D, 48080 Bilbao. (España). igorazurmendi@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="13" text="Unai" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="27" end="41" text="Navarro Medina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="53" end="60" text="4545562" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="68" end="81" text="64 3645356 02" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="94" end="106" text="Gran Vía, 85" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="131" end="137" text="Bilbao" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="143" end="148" text="48011" TYPE="TERRITORIO" comment=""/>
+    <ID id="T16" start="154" end="161" text="4545562" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="205" end="215" text="12/12/1934" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="223" end="229" text="ESpaña" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="237" end="239" text="77" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="247" end="248" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="268" end="278" text="03/03/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="320" end="339" text="Igor Azurmendi Arin" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="348" end="359" text="31 48 97565" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="471" end="476" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="480" end="487" text="77 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="3436" end="3455" text="Igor Azurmendi Arin" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3456" end="3481" text="Apartado Calle Oria 9, 3D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3483" end="3488" text="48080" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3489" end="3495" text="Bilbao" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3498" end="3504" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3507" end="3532" text="igorazurmendi@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

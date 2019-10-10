@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Francisco.
+Apellidos: Prat Roque.
+NHC: 2598763.
+Domicilio: Calle Moratalaz, 23, 1D.
+Localidad/ Provincia: Madrid.
+CP: 28017.
+Datos asistenciales.
+Fecha de nacimiento: 15/04/1983.
+País: España.
+Edad: 35 años Sexo: H.
+Fecha de Ingreso: 06/06/2018.
+Servicio: Urologia.
+Médico: Ignacio Rubio Tortosa  NºCol: 28 28 27182.
+Informe clínico del paciente: Paciente de 35 años que nos fue remitido al servicio de urgencias de nuestro hospital por urólogo de zona ante hallazgo ecográfico compatible con neoplasia de testículo.
+Destacaban entre sus antecedentes personales: criptorquidia bilateral que fue tratada con orquidopexia, a los 6 y 8 años respectivamente, en otro centro. Uretrotomía endoscópica a los 20 años. Había presentado cólicos nefríticos de repetición con expulsión de litiasis e incluso había precisado tratamiento con LEOC. Ureterolitectomía a los 28 años de edad. Fumador de 1 paquete de cigarrillos/día.
+Un mes antes, consultó al urólogo de zona por esterilidad y nódulo en testículo izquierdo de meses de evolución que había aumentado de tamaño en las últimas semanas. El espermiograma presentaba una azoospermia total. La ecografía-doppler testicular fue informada como testículo derecho con masa de 19 x 23 mm en polo superior con flujo aumentado, compatible con tumor testicular y quiste de cordón izquierdo.
+En la exploración física se palpaba un testículo izquierdo sin alteraciones, con quiste de epidídimo en cabeza. El testículo derecho no se pudo explorar puesto que se encontraba en el canal inguinal.
+Se procedió a completar el estudio. La Rx de tórax era normal y en la TAC toraco-abdómino-pélvico no se observaban metástasis. La analítica tampoco mostraba alteraciones, tanto en los valores séricos hormonales como los marcadores tumorales (alfa-fetoproteina 2,2 ng/ml, beta-HCG 0,0 ng/ml).
+Se llevó a cabo una orquiectomía radical inguinal derecha y biopsia del testículo izquierdo vía inguinal. El informe macroscópico de la pieza nos fue informada como: testículo derecho de 3,2 x 3 cm. La superficie testicular es lisa sin observarse infiltración de túnica vaginalis. Al corte, se identifica un nódulo sólido bien delimitado de 1,5 cm de diámetro de coloración parda con área amarillenta central. El tejido testicular restante es de color anaranjado. El cordón espermático no presenta alteraciones. La biopsia del testículo izquierdo es un fragmento de 0,3 cm de coloración parda.
+El informe histopatológico refería: Tumor de células de Leydig de 3,2 x 3 cm sin objetivarse infiltración del epidídimo, túnica albugínea ni invasión vascular. Resto de parénquima testicular con atrofia, hiperplasia de células de Leydig en el intersticio y práctica ausencia de espermiogénesis. Bordes quirúrgicos libres. La biopsia del teste izquierdo fue informada como atrofia testicular con ausencia de espermiogénesis e hiperplasia de células de Leydig intersticial.
+A los 30 meses de controles evolutivos, el paciente presenta un buen estado general sin evidencia radiológica de metástasis y marcadores tumorales dentro de los valores de la normalidad.
+Remitido por:Dr. Ignacio Rubio Tortosa Servicio de Urología Hospital Ramon y Cajal (España) e-mail: nachorutor@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="37" text="Francisco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="50" end="60" text="Prat Roque" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="67" end="74" text="2598763" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="87" end="110" text="Calle Moratalaz, 23, 1D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="134" end="140" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="146" end="151" text="28017" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="195" end="205" text="15/04/1983" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="213" end="219" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="227" end="234" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="241" end="242" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="262" end="272" text="06/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="302" end="323" text="Ignacio Rubio Tortosa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="332" end="343" text="28 28 27182" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T9" start="387" end="394" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="655" end="656" text="6" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="659" end="665" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T5" start="729" end="736" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="886" end="893" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="3115" end="3136" text="Ignacio Rubio Tortosa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="3158" end="3180" text="Hospital Ramon y Cajal" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T2" start="3182" end="3188" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3198" end="3220" text="nachorutor@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

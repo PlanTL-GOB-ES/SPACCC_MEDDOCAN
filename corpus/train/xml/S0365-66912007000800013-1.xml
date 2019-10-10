@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Lester.
+Apellidos: Altamirano Turcios.
+NHC: 94578.
+NASS: 41 56940955 56.
+Domicilio: Calle Concepción Benítez, 2 5A.
+Localidad/ Provincia: Pamplona.
+CP:31010.
+Datos asistenciales.
+Fecha de nacimiento: 17/05/1993.
+País: España.
+Edad: 25 años Sexo: H.
+Fecha de Ingreso: 11/10/2018.
+Servicio: Oftalmologia.
+Médico: Henar Heras Mulero NºCol: 20 20 76453.
+Historia Actual:Varón de 25 años con hemorragia macular secundaria a traumatismo ocular. Su AV es de 0,4 y su presión intraocular de 15 mmHg. Debido a que el tamaño de la hemorragia no es muy grande se decide instaurar tratamiento con corticoides tópicos, orales y ciclopléjico. A la semana siguiente presenta disminución de AV a 0,1 y aumento de la hemorragia por lo que se realiza vitrectomía posterior, se intenta desplazar la hemorragia con perfluoropropano sin conseguirlo y se administra directamente sobre la retina 0,1 ml de rt-PA a una concentración de 50 µg/0,1 ml y se rellena el globo ocular con gas (SF6 al 30%) realizando posicionamiento en decúbito prono durante 1 semana. Cuatro semanas después de la intervención, la AV es de 0,8, la hemorragia macular había desaparecido, pero una vez que la sangre se reabsorbe se aprecia la existencia de una rotura coroidea yuxtafoveolar. A los 6 meses la AV es de 1,0.
+Remitido por: Henar Heras Mulero. Departamento de Oftalmología Clínica Universitaria de Navarra C/. Pío XII Pamplona España E-mail: henarheras@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="15" text="Lester" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="28" end="46" text="Altamirano Turcios" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="53" end="58" text="94578" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="66" end="80" text="41 56940955 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="93" end="123" text="Calle Concepción Benítez, 2 5A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="147" end="155" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="160" end="165" text="31010" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="209" end="219" text="17/05/1993" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="227" end="233" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="241" end="248" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="255" end="256" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="276" end="286" text="11/10/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="320" end="338" text="Henar Heras Mulero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="346" end="357" text="20 20 76453" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="375" end="380" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="384" end="391" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1297" end="1315" text="Henar Heras Mulero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T1" start="1346" end="1378" text="Clínica Universitaria de Navarra" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="1379" end="1390" text="C/. Pío XII" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1391" end="1399" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1400" end="1406" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="1415" end="1434" text="henarheras@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

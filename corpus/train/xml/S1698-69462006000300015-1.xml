@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Alexia.
+Apellidos: Hernandez Peña.
+NHC: 5347636/301.
+Domicilio: Av. Sta. María 281, Recoleta, Región Metropolitana.
+Localidad/ Provincia: Santiago.
+CP: 8420000.
+Datos asistenciales.
+Fecha de nacimiento: 21/06/1971.
+País: Chile.
+Edad: 44 años Sexo: Mujer.
+Fecha de Ingreso: 09/08/2015.
+Médico: Julio Villanueva Maffei.
+Motivo de ingreso: Paciente mujer, 44 años, derivado a nuestra unidad por aumento de volumen en la región cigomática y limitación progresiva de la apertura bucal de 10 meses de evolución. La historia médica no era relevante. 
+Exploración: El examen físico extraoral muestra asimetría facial por aumento de volumen en la mejilla izquierda, de limites difusos, consistencia ósea, indoloro, con piel de aspecto normal. La apertura bucal era 30 mm. La articulación temporomandibular (ATM) era normal a la palpación, sin ruidos o dolor en apertura. En la ortopantomografía observamos una apófisis coronoides izquierda de mayor tamaño. La hipótesis diagnóstica fue tumor coronoídeo.
+Pruebas complementarias y evolución:  Se realizó una incisión por sobre el borde anterior de la rama mandibular, desinsertando todas las inserciones del músculo temporal. Alrededor del aumento de volumen se encontró una pseudocápsula fibrosa, que fue liberada. Se efectuó la coronoidectomía. La apertura bucal se recuperó inmediatamente hasta 43 mm. El postoperatorio se desarrolló sin complicaciones, y la paciente fue dada de alta a las 48 horas.
+El estudio histopatológico informó la presencia fibras, hueso de neoformación y tejido cartilaginoso hialino. El diagnóstico fue osteocondroma. Los controles posteriores se desarrollaron sin problemas. El alta definitiva fue dada a los 10 meses, con remodelación casi completa de la deformidad de la mejilla.
+Remitido por: Dr. Julio Villanueva Maffei. Santa María 571, Recoleta Chile E-mail: javm@vtr.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="34" text="Alexia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="47" end="61" text="Hernandez Peña" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="68" end="79" text="5347636/301" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T6" start="92" end="110" text="Av. Sta. María 281" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="112" end="120" text="Recoleta" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="122" end="142" text="Región Metropolitana" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="166" end="174" text="Santiago" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="180" end="187" text="8420000" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="231" end="241" text="21/06/1971" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="249" end="254" text="Chile" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="262" end="269" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="276" end="281" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="301" end="311" text="09/08/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="321" end="344" text="Julio Villanueva Maffei" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="374" end="379" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="381" end="388" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1799" end="1822" text="Julio Villanueva Maffei" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1824" end="1839" text="Santa María 571" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1841" end="1849" text="Recoleta" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1850" end="1855" text="Chile" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1864" end="1876" text="javm@vtr.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

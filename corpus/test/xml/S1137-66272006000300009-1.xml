@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Maria Pilar.
+Apellidos: Suescun Zaldivar.
+NHC: 8701356.
+NASS: 84 59234308 74.
+Domicilio: Calle Ermitagaña, 3.
+Localidad/ Provincia: Pamplona.
+CP: 31008.
+Datos asistenciales.
+Fecha de nacimiento: 06/09/1943.
+País: España.
+Edad: 73 años Sexo: M.
+Fecha de Ingreso: 05/03/2017.
+Servicio: Urgencias.
+Médico: Serafín García Mata NºCol: 31 31 20142.
+Motivo de ingreso: Mujer de 73 años de edad que acudió al servicio de urgencias tras caída accidental por tropiezo en las escaleras de su domicilio.
+Historia Actual: Presentaba la extremidad izquierda con rodilla en flexión fija de 40º y actitud en rotación externa de la cadera. Se palpaban claramente los condilos femorales con un 'pseudohachazo' proximal a la rótula. La actitud en flexión no se modificaba por dolor al intentar cambiar la posición. La rótula estaba fija y con gran tirantez. Cualquier intento de realizar flexo-extensión provocaba dolor intenso y tirantez de tendón cuadricipital y pata de ganso.
+En el estudio radiológico se podía observar patella baja con su polo proximal en contacto con zona intercondílea, compatible con luxación horizontal inferior de patella.
+La reducción por manipulación no tuvo éxito, por lo que se realizó anestesia epidural, produciéndose un sonoro 'clunk' audible o chasquido rotuliano al realizar tracción rotuliana y extensión de la rodilla, tras lo cual la rótula se dispuso anatómicamente.
+Se realizó abordaje quirúrgico mediante Payr interno, comprobándose que los tendones rotuliano y cuadricipital estaban indemnes y funcionantes, sin hematoma, con deslizamiento y tensión correctos. La tuberosidad tibial anterior también se encontró en condiciones normales. La articulación era estable tanto en varo y valgo en extensión y semiflexión de 30º, no existiendo ningún foco hemorrágico en LLE, LLI ni en la pata de ganso. Se realizó artrotomía externa con extracción de 30 cc de líquido sinovial sero-hemático, donde se comprobó normalidad de los ligamentos cruzados anterior y posterior. Existía artrosis evidente fémoro-patelar con osteofitosis condílea y patelar (grado III de Ahlbach). Realizamos excisión de osteofitos rotulianos y del surco intercondíleo.
+Se colocó inmovilización mediante ortesis de rodilla en extensión durante 2 semanas con apoyo, tras lo cual se inició fisioterapia durante dos semanas.
+Un mes después de traumatismo presentaba flexión de -30º y extensión completa, con ausencia de dolor. Dos meses tras el accidente presentaba flexo-extensión completa. El estudio radiológico en ese momento evidenciaba rodilla con artrosis predominantemente fémoro-patelar (grado III de Ahlbach).
+Una característica de la paciente que ayuda en la explicación de la lesión es que la paciente presentaba hiperelasticidad generalizada.
+Cuatro años más tarde no ha sufrido recidiva y tan sólo refiere molestias en zona anterior de ambas rodillas al bajar escaleras, compatible con su artrosis fémoro-patelar. Dicha sintomatología ya estaba presente antes de la luxación.
+Remitido por: Serafín García Mata. Servicio de Cirugía Ortopédica y Traumatología Hospital Virgen del Camino C/ Irunlarrea, 3 31008 Pamplona Tfno. 848 42 26 44 e-mail: sgarcima@cfnavarra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="8" end="19" text="Maria Pilar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="32" end="48" text="Suescun Zaldivar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="55" end="62" text="8701356" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="70" end="84" text="84 59234308 74" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="97" end="116" text="Calle Ermitagaña, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="140" end="148" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="154" end="159" text="31008" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="203" end="213" text="06/09/1943" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="221" end="227" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="235" end="242" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="249" end="250" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="270" end="280" text="05/03/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="311" end="330" text="Serafín García Mata" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="338" end="349" text="31 31 20142" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="370" end="375" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="379" end="386" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2999" end="3018" text="Serafín García Mata" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3067" end="3093" text="Hospital Virgen del Camino" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3094" end="3110" text="C/ Irunlarrea, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3111" end="3116" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3117" end="3125" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="3132" end="3144" text="848 42 26 44" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="3153" end="3174" text="sgarcima@cfnavarra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

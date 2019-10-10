@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Chloe.
+Apellidos: Villanueva Marin.
+NHC: 3785612.
+Domicilio: Calle Fernando Higueras, 27.
+Localidad/ Provincia: Las Palmas.
+CP: 35016.
+Datos asistenciales.
+Fecha de nacimiento: 27/03/2016.
+País: España.
+Edad: 8 dias Sexo: M.
+Fecha de Ingreso: 04/04/2016.
+Servicio: Cirugía Plástica .
+Episodio: 4375656.
+Médico:Aída Acosta Arencibia  NºCol: 35 35 20015.
+Historia Actual: Lactante de ocho días cuyos padres consultan por ombligo poco cicatrizado. Como antecedentes personales, se trata de la primera hija de padres sanos. Nacida a las 39 semanas de gestación por parto eutócico; Apgar 9/10, peso 2830 gramos. No refieren antecedentes de interés, ni aportan el informe hospitalario.
+En la exploración se aprecia una implantación amplia del cordón umbilical, que tiene aspecto mucoso, y un pequeño desgarro en la base del mismo, sin signos de infección local. El resto de la exploración física es normal. No refiere ninguna manifestación clínica acompañante. Se aplica nitrato de plata y se cita para su control en 48 horas.
+En la visita de control aportan el informe de alta tras el nacimiento. Refleja que el cordón umbilical presentaba un quiste, diagnosticado en la ecografía prenatal del segundo trimestre y descrito como quiste de gelatina de Wharton de 49 x 39 mm. Al nacimiento fue valorada por un cirujano, que colocó una pinza proximal al quiste, que fue resecado. A los dos días de vida realizan una ecografía abdominal que fue normal. Durante el ingreso permaneció asintomática y dan el alta con normalidad clínica, excepto por un pequeño desgarro en base del cordón, que no presenta complicaciones.
+En la visita de control ambulatorio se observa una salida abundante de líquido claro del centro del ombligo, sin signos de infección. Se deriva para valoración por cirugía pediátrica. El cirujano liga el cordón umbilical, que está casi desprendido y con aspecto húmedo. Se comprueba la existencia de un trayecto fistuloso. Una nueva ecografía abdominal pone de manifiesto una estructura tubular tortuosa que comunica con la pared vesical superior y se diagnóstica de persistencia del uraco (tipo uraco permeable) y se decide observación y revaloración posterior. A los ocho meses de vida se ha producido el cierre espontáneo, y en los controles posteriores se evidencia la ausencia de la permeabilidad del uraco.
+Remitido por:  Dra. Aída Acosta Arencibia Servicio de Cirugía Plástica Complejo Hospitalario Universitario Insular-Materno Infantil Avda. Marítima del Sur, sn. 35016 Las Palmas de Gran Canaria Islas Canarias. España e-mail: aidacost@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T28" start="28" end="33" text="Chloe" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T27" start="46" end="62" text="Villanueva Marin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T26" start="69" end="76" text="3785612" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T25" start="89" end="116" text="Calle Fernando Higueras, 27" TYPE="CALLE" comment=""/>
+    <LOCATION id="T24" start="140" end="150" text="Las Palmas" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T23" start="156" end="161" text="35016" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T21" start="205" end="215" text="27/03/2016" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T22" start="223" end="229" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T19" start="237" end="243" text="8 dias" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T17" start="250" end="251" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T20" start="271" end="281" text="04/04/2016" TYPE="FECHAS" comment=""/>
+    <ID id="T14" start="322" end="329" text="4375656" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T16" start="338" end="359" text="Aída Acosta Arencibia" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="368" end="379" text="35 35 20015" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="398" end="406" text="Lactante" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T18" start="410" end="419" text="ocho días" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="426" end="432" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T1" start="518" end="530" text="primera hija" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="534" end="540" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T29" start="1405" end="1413" text="dos días" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="2205" end="2215" text="ocho meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T15" start="2369" end="2390" text="Aída Acosta Arencibia" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T9" start="2420" end="2480" text="Complejo Hospitalario Universitario Insular-Materno Infantil" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T8" start="2481" end="2507" text="Avda. Marítima del Sur, sn" TYPE="CALLE" comment=""/>
+    <LOCATION id="T7" start="2509" end="2514" text="35016" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="2515" end="2541" text="Las Palmas de Gran Canaria" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2542" end="2556" text="Islas Canarias" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2558" end="2564" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="2573" end="2593" text="aidacost@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Ricardo.
+Apellidos: Martinez Sabariego.
+NHC: 7265746.
+NASS: 29 27856790 45.
+Domicilio: Avda. Las Lomas, 4, 1 E.
+Localidad/ Provincia: Málaga.
+CP: 29003 .
+Datos asistenciales.
+Fecha de nacimiento: 18/08/1975.
+País de nacimiento: España.
+Edad: 40 años Sexo: H.
+Fecha de Ingreso: 03/12/2015.
+Médico: Juan Manuel Ruiz Ruiz  NºCol: 29 29 57889.
+Informe clínico del paciente: Varón de 40 años con diagnóstico reciente de la HPN, remitido para evaluación renal. En los 9 meses anteriores había presentado episodios repetidos de orina oscura y dolor lumbar bajo. Presentaba anemia hemolítica severa, hemoglobina de 7,7 mg/dl, haptoglobina indetectable, LDH elevada 3.800 U/l, requiriendo transfusión de hematíes. La ferritina y saturación de transferan normales. Función renal normal, creatinina 0,8 mg/dl, proteinuria de 427 mg/24 h, con albuminuria de 120 mg/24 h. Hemoglobinuria con sedimento normal, glucosuria negativa y excreción fraccional de fosfato normal.
+En los 10 meses posteriores presentó crisis hemolíticas repetidas, con hemoglobinuria macroscópica. Refería dificultad para concentrarse y dolor de cabeza recurrente. Una IRM evidenció una marcada hipointensidad de señal en la corteza renal en todas las secuencias, y una IRM cerebral reveló múltiples lesiones lacunares subcorticales. Debido a la implicación cerebral atribuible a HPN, se inició tratamiento con eculizumab.
+El paciente evolucionó, sin nuevas crisis de hemoglobinuria, con resolución de la anemia y normalización de LDH (persistiendo haptoglobina disminuida).
+Diecisiete meses después del comienzo del tratamiento, una nueva IRM mostró normalización de la señal en la corteza renal. La función renal se mantuvo normal, con proteinuria 130mg/día y hemoglobinuria negativa.
+Responsable clínico: Juan Manuel Ruiz Ruiz. Unidad Clíncia de Gestión de Aparato Digestivo. Hospital Regional Universitario Carlos Haya. Avda. Carlos Haya, s/n. Málaga. España. E-mail: jruizrdos@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="35" text="Ricardo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="48" end="66" text="Martinez Sabariego" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="73" end="80" text="7265746" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="88" end="102" text="29 27856790 45" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="115" end="138" text="Avda. Las Lomas, 4, 1 E" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="162" end="168" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="174" end="179" text="29003" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="224" end="234" text="18/08/1975" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="270" end="277" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="284" end="285" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="305" end="315" text="03/12/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="325" end="346" text="Juan Manuel Ruiz Ruiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="355" end="366" text="29 29 57889" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="398" end="403" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="407" end="414" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1796" end="1817" text="Juan Manuel Ruiz Ruiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1867" end="1910" text="Hospital Regional Universitario Carlos Haya" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1912" end="1934" text="Avda. Carlos Haya, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1936" end="1942" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="1944" end="1950" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="1960" end="1981" text="jruizrdos@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

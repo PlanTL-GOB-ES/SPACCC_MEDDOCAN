@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Matías.
+Apellidos: San Martin Fernandez.
+NHC: 2756849.
+NASS: 47 98563794 10.
+Domicilio: C/ Molineros, 28, 6, A.
+Localidad/ Provincia: Pontevedra .
+CP: 36071.
+Datos asistenciales.
+Fecha de nacimiento: 07/05/1990.
+País de nacimiento: España.
+Edad:21 años Sexo: H.
+Fecha de Ingreso: 09/04/2012.
+Servicio: Urgencias.
+Episodio: 7435703.
+Médico: Enrique Alemparte Pardavila  NºCol: 36 36 15748.
+Informe clínico del paciente: Paciente varón de 21 años, sin alergias conocidas ni otros antecedentes, que acude a urgencias por un cuadro clínico de 6 meses de astenia, aumento de la fatiga con el ejercicio moderado y acompañado de síndrome general con disminución de peso en dichos meses de unos 10 kilos. Debido a episodios de dolor abdominal en este período acudió en dos ocasiones un Servicio de Urgencias y fue sometido a la realización de una gastroscopia informada como de mínima hernia de hiato con esofagitis grado I y reflujo biliar duodeno-gástrico. En los últimos 5 días se exacerba la clínica, presentando además vómitos, dolor abdominal difuso más intenso y deposiciones líquidas sin aumento del número de las mismas.
+A la exploración física presenta una tensión arterial de 120/60 mmHg, frecuencia cardíaca de 110 pm, afebril, consciente y orientado, sin focalidad neurológica, eupneico, la auscultación cardíaca es rítmica, taquicárdica, sin soplos, el abdomen es blando y depresible, doloroso de forma difusa, sin defensa a la palpación, no se palpan masas ni megalias. Destaca la hiperpigmentación cutánea generalizada, acentuada en pezones, área genital y con manchas melánicas en paladar y bordes gingivales.
+La analítica a su ingreso muestra una glucemia de 59 mg/dL, creatinina 4,32 mg/dL, urea 214 mg/dL, Na 123 mg/dL, K 8,0 mg/dL, Ca 8,2 mg/dL, una gasometría arterial con un pH 7,24, pCO2 35,6 mmHg, pO2 107 mmHg (con O2 a 4 litros/minuto), bicarbonato 14,4 mmol/L, EB - 11,3 mmol/L y SatO2 del 97,2%. El hemograma presenta una hemoglobina de 13,4 g/dl, hematocrito 39,5%, VCM 83 fL, leucocitos 12.800 (45% neutrófilos, 32% linfocitos, 12% monocitos y 10,5% eosinofilos). Coagulación sin alteraciones.
+El electrocardiograma presenta una taquicardia sinusal a 110 lpm con configuración RSR' y prolongación de QT (487 ms). La radiografía de tórax es normal.
+Durante su estancia en urgencias se inician medidas para la corrección de la hiperpotasemia pero el paciente progresivamente se encuentra más sudoroso, taquicárdico e hipotenso (TA 85/46 mmHg) por lo que, con la sospecha de crisis adisoniana se decide su ingreso en la UCI y se inicia la reposición de volumen con suero salino ( 4.500 cc en las primeras 24 horas), aporte de glucosa, actocortina (100 mg i.v. en bolo seguidos de 400 mg en perfusión intravenosa continua en las siguientes 24 horas); precisando inicialmente perfusión de aminas vasopresoras (dopamina a 10 mcg/kg/min), pudiendo ser retiradas en 36 horas.
+Las muestras sanguíneas tomadas previas al inicio del tratamiento corticoideo para determinación de la función suprarrenal mostraban un cortisol basal 4,0 mg/dL y una ACTH en plasma 264 pg/ml.
+La determinación de anticuerpos anti-cápsulas suprarrenales en suero por imnufluorescencia indirecta fue positiva con un título de 1/80.
+La determinación de tirotropina, tiroxina libre, FSH y LH, asi como anticuerpos antitiroglobulina y antiperoxidasa microsomial resultaron dentro de rangos normales.
+TAC abdominal: presencia de glándulas suprarrenales morfológicamente normales.
+El paciente fue dado de alta de la Unidad de Cuidados Intensivos a los 3 días de su ingreso y del hospital a los 7 días con parámetros analíticos de función renal e iones dentro de la normalidad y con tratamiento con hidroaltresona 20 mg vo/8 h.
+Responsable clínico: Dr. Enrique Alemparte Pardavila. Unidad de Cuidados Críticos. Hospital de Montecelo. Mourente, s/n. 36071 Pontevedra. e-mail: enrique.alemparte.pardavila@sergas.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="34" text="Matías" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="67" text="San Martin Fernandez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="74" end="81" text="2756849" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="89" end="103" text="47 98563794 10" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="116" end="138" text="C/ Molineros, 28, 6, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="162" end="172" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="179" end="184" text="36071" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="228" end="238" text="07/05/1990" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="260" end="266" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="273" end="280" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="287" end="288" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="308" end="318" text="09/04/2012" TYPE="FECHAS" comment=""/>
+    <ID id="T11" start="351" end="358" text="7435703" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="368" end="395" text="Enrique Alemparte Pardavila" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="404" end="415" text="36 36 15748" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="456" end="461" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="465" end="472" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="3764" end="3791" text="Enrique Alemparte Pardavila" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3822" end="3843" text="Hospital de Montecelo" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3845" end="3858" text="Mourente, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3860" end="3865" text="36071" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3866" end="3876" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3886" end="3923" text="enrique.alemparte.pardavila@sergas.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

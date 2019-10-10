@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Joaquín.
+Apellidos: Gaspar Santos.
+NHC: 4357928.
+NASS:75 62789450 12.
+Domicilio: Calle Francos Rodriguez, 6, 4 A.
+Localidad/ Provincia: Madrid.
+CP: 28035.
+Datos asistenciales.
+Fecha de nacimiento: 04/09/1983.
+País de nacimiento: España.
+Edad: 34 años Sexo: H.
+Fecha de Ingreso: 29/12/2017.
+Médico: Jonathan Valdez González NºCol: 28 28 71492.
+Informe clínico del paciente: varón de 34 años sin antecedentes médicos de interés, salvo dermatitis seborreica desde hace 7 años. El paciente es remitido para estudio por episodios intermitentes de diarrea, en ocasiones acompañadas de moco y sangre, de 6 años de evolución. Se realiza: analítica, en la que destaca eosinofilia de 600 eosinófilos absolutos; coprocultivos: negativos; parásitos en heces: negativos; colonoscopia: en recto se observan úlceras serpiginosas que se biopsian, sin observar otras alteraciones. Estudio anatomopatológico: mucosa de intestino grueso, con erosión, microhemorragias e inflamación aguda con abundantes eosinófilos e inflamación crónica con predominio de células plasmáticas.
+Ante la sospecha inicial, dada la clínica y los hallazgos endoscópicos, de colitis ulcerosa, se inicia tratamiento con 5-ASA, a pesar de lo que persiste la sintomatología. Por ello se realiza nuevo control analítico (en el que persiste la eosinofilia), coprocultivos y parásitos en heces (negativos) y endoscópico. La segunda colonoscopia muestra una mucosa de aspecto normal en todo el recorrido, se toman biopsias de colon derecho, transverso, izquierdo y sigma; cuyo estudio anatomopatológico demuestra un aumento de eosinófilos en lámina propia de todas las muestras remitidas. Ante la persistencia de eosinofilia periférica y el hallazgo de un número aumentado de eosinófilos en las biopsias, se sospecha una gastroenteritis eosinofílica, por lo que se remitió al paciente a consultas de Medicina Interna y Alergia, donde se descartaron otras causas de eosinofilia (asma, alergias, patología endocrina y síndrome hipereosinofílico). Así mismo, se le realizó una gastroscopia con toma de biopsias, que resultaron sin alteraciones. Con todos los hallazgos descritos, el paciente fue diagnosticado de colitis eosinofílica.
+Responsable clínico:  Dr. Jonathan Valdez González E-mail: jonatva@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="35" text="Joaquín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="48" end="61" text="Gaspar Santos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="68" end="75" text="4357928" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="82" end="96" text="75 62789450 12" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="109" end="140" text="Calle Francos Rodriguez, 6, 4 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="164" end="170" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="176" end="181" text="28035" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="225" end="235" text="04/09/1983" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T9" start="257" end="263" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="271" end="278" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="285" end="286" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="306" end="316" text="29/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="326" end="350" text="Jonathan Valdez González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="358" end="369" text="28 28 71492" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="401" end="406" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="410" end="417" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2236" end="2260" text="Jonathan Valdez González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2269" end="2286" text="jonatva@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

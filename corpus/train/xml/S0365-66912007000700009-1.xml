@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Basagaitz.
+Apellidos: Olmedo Aizpurua.
+NHC: 3465741.
+NASS: 74 65784650 57.
+Domicilio: C/ San Pedro, 4, 5 A.
+Localidad/ Provincia: Vitoria.
+CP: 01009.
+Datos asistenciales.
+Fecha de nacimiento: 21/06/1952.
+País de nacimiento: España.
+Edad: 65 años Sexo: M.
+Fecha de Ingreso: 07/08/2017.
+Médico: Gonzaga Garay Aramburu NºCol: 01 01 37653.
+Informe clínico del paciente: paciente mujer de 65 años seguida regularmente en nuestro servicio tras haber sido intervenida en dos ocasiones de desprendimiento de retina (DR) en su ojo derecho (OD) en 1978. La primera cirugía consistió en diatermia en cuadrante nasal superior donde existía un desgarro retiniano y colocación de implante escleral segmentado. Al mes, tras sufrir una recidiva del DR, se le coloco cerclaje escleral completo anudado en cuadrante temporal inferior y se realizó diatermia en este cuadrante por existir degeneración retiniana. La paciente presentó un buen postoperatorio en el que se observó buena indentación del implante segmentado y cerclaje prominente.
+A pesar de no tener síntomas, en 1997 la exploración reveló perforación escleral con intrusión del cerclaje de media hora de extensión en el área temporal inferior, en una zona extensa de atrofia coriorretiniana. Debido a la extensión de la intrusión y a la extensa zona de atrofia coriorretiniana se decidió la observación de la paciente.
+Un año después, la paciente fue intervenida de catarata en ojo derecho mediante facoemulsificación e implante de lente en saco capsular. Siete años más tarde, se realizó capsulotomía YAG en OD por opacidad capsular. La paciente acudió a la consulta un mes después con HV en OD. La ecografía mostró la HV, la inexistencia de DR y la intrusión del cerclaje. Tras reabsorberse parcialmente la HV durante el primer mes, la paciente tuvo un nuevo sangrado por lo que se realizó vitrectomía para limpiar la sangre.
+Dieciséis meses tras la cirugía, la paciente permanece asintomática y sin extensión del tamaño intraocular del cerclaje.
+Responsable clínico: Gonzaga Garay Aramburu Servicio de Oftalmología. Hospital de Txagorritxu José Atxotegi, s/n 01009 Vitoria España E-mail: ggaray@htxa.osakidetza.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="37" text="Basagaitz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="50" end="65" text="Olmedo Aizpurua" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T1" start="72" end="79" text="3465741" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="87" end="101" text="74 65784650 57" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="114" end="134" text="C/ San Pedro, 4, 5 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="158" end="165" text="Vitoria" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="171" end="176" text="01009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="220" end="230" text="21/06/1952" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="252" end="258" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="266" end="273" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="280" end="281" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="301" end="311" text="07/08/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="321" end="343" text="Gonzaga Garay Aramburu" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="351" end="362" text="01 01 37653" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="403" end="408" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="412" end="419" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="566" end="570" text="1978" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="1084" end="1088" text="1997" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="2042" end="2064" text="Gonzaga Garay Aramburu" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2091" end="2114" text="Hospital de Txagorritxu" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="2115" end="2133" text="José Atxotegi, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2134" end="2139" text="01009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2140" end="2147" text="Vitoria" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2148" end="2154" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="2163" end="2189" text="ggaray@htxa.osakidetza.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

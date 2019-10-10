@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Alejandra.
+Apellidos: Irías Arias.
+NHC: 3738763.
+NASS: 74 65745652 32.
+Domicilio: C/ Principe de Vergara, 29, 5 A.
+Localidad/ Provincia: Madrid.
+CP: 28010.
+Datos asistenciales.
+Fecha de nacimiento: 05/02/1965.
+País de nacimiento: España.
+Edad: 52 años Sexo: M.
+Fecha de Ingreso: 18/01/2018.
+Médico: Esther Campos Mollo NºCol: 28 28 50312.
+Informe clínico del paciente: Mujer de 52 años que refirió disminución de agudeza visual (AV) espontánea en su ojo izquierdo (OI) ambliope. No tenía el antecedente de parto prematuro, ni historia familiar de enfermedad ocular.
+En la primera exploración, la mejor AV corregida fue de 1 en el ojo derecho (OD) (-1 cilindro 150o +3 esfera; longitud axial de 22,5mm) y de 0,025 en el ojo izquierdo (OI) (-0,75 cilindro 25o -13,25 esfera; longitud axial de 25,3mm).
+El estudio biomicroscópico del OI permitió identificar la mancha de Mittendorf localizada en el cuadrante nasal inferior de la cápsula posterior del cristalino y el extremo anterior de la AHP con contenido hemático en su interior. El ojo adelfo era normal. Los diámetros corneales horizontales midieron 12mm en ambos ojos (AO) y la tonometría de aplanación fue de 18mm Hg en AO.
+La oftalmoscopia indirecta del OI mostró una hemorragia intravítrea leve difusa. El trayecto de la AHP se pudo seguir desde el nervio óptico hasta la cristaloides posterior. La arteria, fijada en sus dos extremos, se desplazaba libremente con los movimientos oculares. El vítreo posterior estaba desprendido parcialmente de la retina. No se hallaron anomalías retinianas periféricas, ni signos de tracción vitreorretiniana o desprendimiento de retina. El fondo del OD era normal.
+La hemorragia se reabsorbió gradualmente en el transcurso de una semana. La AHP se pudo distinguir con más claridad permitiendo un mejor estudio anatómico. En la tomografía de coherencia óptica (TCO) se apreciaron las características morfológicas de la papila de Bergmeister. De esta, surgía la AHP que mostró una estructura tubular con un interior hiporreflectivo.
+En la ecografía en modo B se evidenció una imagen lineal hiperecogénica respecto al vítreo que se correspondía con la AHP y un desprendimiento parcial de vítreo posterior. El eco-doppler demostró el flujo sanguíneo normal de la arteria central de la retina y de las arterias ciliares posteriores aunque no se objetivó la presencia de flujo sanguíneo activo en la AHP.
+El hemograma y las pruebas específicas de coagulación fueron normales. El hemovítreo se reabsorbió completamente y la paciente recuperó la visión de 0,2 que presentaba antes de sobrevenir la hemorragia a causa de una ambliopía por anisometropía. No hubo recurrencia de sangrado en 6 meses de seguimiento.
+Responsable clínico: Dra. Esther Campos Mollo Correo electrónico: esthercm@hotmail.com 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="37" text="Alejandra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="50" end="61" text="Irías Arias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="68" end="75" text="3738763" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="83" end="97" text="74 65745652 32" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="110" end="141" text="C/ Principe de Vergara, 29, 5 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="165" end="171" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="177" end="182" text="28010" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="226" end="236" text="05/02/1965" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="258" end="264" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="272" end="279" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="286" end="287" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="307" end="317" text="18/01/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="327" end="346" text="Esther Campos Mollo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="354" end="365" text="28 28 50312" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="397" end="402" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="406" end="413" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="2752" end="2771" text="Esther Campos Mollo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2792" end="2812" text="esthercm@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

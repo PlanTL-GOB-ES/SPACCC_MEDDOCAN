@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Juan Ignacio.
+Apellidos: Barrios Quintero.
+NHC: 9711632.
+NASS: 98 65412396 04.
+Domicilio: Calle Sinesio Delgado 27, Bajo A .
+Localidad/ Provincia: Madrid.
+CP: 28028.
+Datos asistenciales.
+Fecha de nacimiento: 14/04/1945.
+País: España.
+Edad: 70 años Sexo:H.
+Fecha de Ingreso: 18/10/2017.
+Episodio: 7525324.
+Médico: Jose Armando Herrera Alonso NºCol: 28 28 63803.
+Motivo de ingreso: clínica de tres meses de evolución de inestabilidad de la marcha y debilidad generalizada (ingreso previo en otro centro por estos síntomas). 
+Antecedentes: hiperplasia prostática benigna, fibrilación auricular recurrente y hemitiroidectomía derecha por hiperplasia nodular, así como insuficiencia renal crónica no estudiada (creatinina basal 1,5 mg/dl).
+Exploración física: Al examen físico, el paciente está deshidratado, confuso, bradipsíquico y con temblor distal.
+Resumen de pruebas complementarias: los datos analíticos se resumen en la (tabla 1), destacando deterioro importante de la función renal, hipercalcemia severa y elevación marcada de PTH (veinte veces sobre el valor de referencia del laboratorio). Se inicia sueroterapia, perfusión de furosemida y corticoides endovenosos, bifosfonatos y calcitonina. Debido a la severidad de la clínica neurológica, se indica simultáneamente terapia renal sustitutiva urgente mediante hemodiálisis con baja concentración de calcio en el dializado. Presenta mejoría clínica transitoria, pero debido a persistencia del fracaso renal y a rebote de la hipercalcemia (aumento de calcemia > 2 mg/dl 24 horas post-hemodiálisis), requiere continuar con sesiones diarias.
+Evolución y comentarios: Como parte del estudio etiológico, se descartan procesos mieloproliferativos y otras neoplasias (no componente monoclonal en proteinograma, proteinuria de Bence-Jones negativa), patología infecciosa (serologías negativas) y enfermedades autoinmunes. Ecografía urinaria con riñones de tamaño normal y adecuada diferenciación cortico-medular. La TAC toraco-abdominal informa de masa retroesofágica de 5,6 × 3,2 × 6,8 cm, sospechosa de tumor paratiroideo, y la imagen se confirma mediante gammagrafía paratiroidea, además de nódulos hipodensos suprarrenales bilaterales: derecho 27 × 18 mm e izquierdo de 15 × 11 mm.
+Con estos hallazgos se consulta con Endocrinología que descarta feocromocitoma (catecolaminas y metanefrinas en orina negativas). En sesión conjunta con Cirugía General se decide manejo quirúrgico, resecando tumor paratiroideo de 8 cm. La Anatomía Patológica informa de adenoma paratiroideo sin invasión capsular o vascular.
+En el post-operatorio inmediato se produce "síndrome de hueso hambriento", por lo que el paciente requiere suplemento endovenoso y oral de calcio por hipocalcemia severa, y sesiones interdiarias de hemodiálisis hasta nueve días después de la cirugía.
+Nueve meses después, el paciente está asintomático, con calcemia en rango sin necesidad de suplementos, y con recuperación parcial de la función renal (creatinina 2,7 mg/dl). Es de destacar que la función renal persiste alterada un año tras la cirugía, a pesar de la normalización de la calcemia.
+Remitido por: Dr. Jose Armando Herrera Alonso. Correo electrónico: jarherre@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="9" end="21" text="Juan Ignacio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="34" end="50" text="Barrios Quintero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="57" end="64" text="9711632" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T14" start="72" end="86" text="98 65412396 04" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T13" start="99" end="131" text="Calle Sinesio Delgado 27, Bajo A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T12" start="156" end="162" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T11" start="168" end="173" text="28028" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="217" end="227" text="14/04/1945" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T9" start="235" end="241" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="249" end="256" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="262" end="263" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T6" start="283" end="293" text="18/10/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T5" start="305" end="312" text="7525324" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T4" start="322" end="349" text="Jose Armando Herrera Alonso" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="357" end="368" text="28 28 63803" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <NAME id="T2" start="3134" end="3161" text="Jose Armando Herrera Alonso" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3183" end="3201" text="jarherre@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

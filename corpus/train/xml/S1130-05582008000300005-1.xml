@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Vanessa.
+Apellidos: Sotillo Maldonado.
+NHC: 5896728.
+NASS: 37 36578967 10.
+Domicilio: Calle la Bañeza, 66, 5 A.
+Localidad/ Provincia: Madrid.
+CP: 28028.
+Datos asistenciales.
+Fecha de nacimiento: 13/04/1995.
+País de nacimiento: España.
+Edad: 23 años Sexo: M.
+Fecha de Ingreso: 08/06/2018.
+Médico: Marcio de Moraes Avenda  NºCol: 28 28 23987.
+Informe clínico del paciente: Paciente morena, sexo femenino, 23 años, fue encaminada al Servicio de Cirugía Buco-maxilo-facial, para remoción de lesión en región lingual de dientes anteriores inferiores. La misma poseía diagnóstico clínico de neurofibromatosis.
+Al examen físico fue observada una asimetría facial y centenas de nódulos cutáneos por todo el cuerpo incluyendo cara y cuello. Manchas café con leche estaban presentes en tronco y miembros superiores.
+Al examen intraoral se verificó maloclusión, diastemas, ausencias dentarias y una masa de aspecto neurofibromatoso en la región del reborde alveolar inferior, lingualmente a los incisivos. La lesión era firme e indolora a la palpación, de coloración de mucosa normal, no ulcerada, de base sésil y con cerca 2,5 cm de extensión. Debido a su tamaño y su relación con los dientes, no permitía una adecuada higiene de la región, favoreciendo el acúmulo de cálculo. La lengua también presentaba aumento de volumen, con presencia de lesión neurofibromatosa de límites difusos.
+Al examen radiográfico fue observado la presencia del elemento 23 retenido, así como hipoplasia mandibular derecha.
+La conducta adoptada para la lesión neurofibromatosa presente en la región anterior inferior fue la excisión quirúrgica. La lesión en región lingual no fue abordada quirúrgicamente debido al hecho de que la misma no presentaba compromiso funcional o estético para la paciente. El diagnóstico de neurofibromatosis fue confirmado mediante análisis anatomopatológico.
+La paciente se encuentra con seis meses de seguimiento post-operatorio, sin quejas y sin señal aparente de recidiva de la lesión. Actualmente, la paciente está bajo tratamiento periodontal, con una mejora significativa de las condiciones de los tejidos de soporte local.
+Responsable clínico: Dr. Marcio de Moraes Avenda. Email: mmoraes@fop.unicamp.br
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="28" end="35" text="Vanessa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="48" end="65" text="Sotillo Maldonado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="72" end="79" text="5896728" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="87" end="101" text="37 36578967 10" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="114" end="138" text="Calle la Bañeza, 66, 5 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="162" end="168" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="174" end="179" text="28028" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="223" end="233" text="13/04/1995" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="255" end="261" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="269" end="276" text="23 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="283" end="284" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="304" end="314" text="08/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="324" end="347" text="Marcio de Moraes Avenda" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="356" end="367" text="28 28 23987" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="408" end="414" text="morena" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="421" end="429" text="femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="431" end="438" text="23 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="2182" end="2205" text="Marcio de Moraes Avenda" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2214" end="2236" text="mmoraes@fop.unicamp.br" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre: Valeria.
+Apellidos: Roca Caballero .
+CIPA: nhc-120978.
+NASS: 21 98731245 98.
+Domicilio: Calle de la bola 19, 11A.
+Localidad/ Provincia: Mostoles Madrid.
+CP: 28935.
+       NHC: 120978.
+Datos asistenciales.
+Fecha de nacimiento: 28-05-1989.
+País: Colombia.
+Edad: 29 Sexo: M.
+Fecha de Ingreso: 1/12/2017.
+Especialidad: Oncología.
+Médico: Marrupe González    NºCol: 28-28-36541.
+Motivo de ingreso: Dolor en fosa renal derecha compatible con crisis renoureteral.
+Antecedentes: ulcus duodenal y estreñimiento. No antecedentes de nefrolitiasis ni hematuria ni infecciones del tracto urinario. 
+Resumen de pruebas complementarias: En la exploración sólo destaca una puñopercusión renal derecha positiva. La ecografía objetiva ectasia pielocalicial renal derecha con adelgazamiento del parénquima. La UIV muestra una anulación funcional de la unidad renal derecha siendo normal el resto de la exploración. Una pielografía retrograda muestra estenosis en la unión pieloureteral derecha, siendo la citología urinaria selectiva del uréter derecho negativa. 
+Evolución y comentarios: Ante la disyuntiva de practicar una cirugía reconstructiva o una exerética se realiza gammagrafía renal que demuestra captación relativa del 33% para el riñón derecho y del 67% para el izquierdo.
+Se realiza pieloplastia renal derecha según técnica de Anderson-Hynes.
+El examen anatomopatológico de la estenosis de la vía urinaria descubre un hemangioma cavernoso como causante de la obstrucción, el cual no permitía pasar ninguna cánula. El control postoperatorio urográfico a los 3 meses objetiva captación y eliminación renal derecha de contraste con ligero retraso respecto a riñón izquierdo. La paciente fue dada de alta de consultas externas a los tres años de la cirugía tras haber sido practicados otros dos controles urográficos; 7 años después de la pieloplastia no ha vuelto a consultar por clínica urológica.
+Responsable clinico: Dr. Marrupe González Oncología Médica Hospital General de Móstoles Río Júcar, s/n E-28935 Móstoles (Madrid) dmarrupe.hmtl@salud.madrid.org
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="16" text="Valeria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="29" end="43" text="Roca Caballero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="56" end="62" text="120978" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="70" end="84" text="21 98731245 98" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="97" end="121" text="Calle de la bola 19, 11A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="145" end="153" text="Mostoles" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="154" end="160" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="166" end="171" text="28935" TYPE="TERRITORIO" comment=""/>
+    <ID id="T15" start="185" end="191" text="120978" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="235" end="245" text="28-05-1989" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="253" end="261" text="Colombia" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="269" end="271" text="29" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="278" end="279" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T1" start="299" end="308" text="1/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="343" end="359" text="Marrupe González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="370" end="381" text="28-28-36541" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <NAME id="T8" start="1924" end="1940" text="Marrupe González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1958" end="1986" text="Hospital General de Móstoles" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="1987" end="2001" text="Río Júcar, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2004" end="2009" text="28935" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2010" end="2018" text="Móstoles" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2020" end="2026" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2028" end="2058" text="dmarrupe.hmtl@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

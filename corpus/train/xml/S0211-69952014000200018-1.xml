@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Yidani.
+Apellidos: Ahajarazi.
+NHC: 91136464.
+Domicilio: Calle María Estuardo 58.
+Localidad/ Provincia: Almería.
+CP: 04005.
+Datos asistenciales.
+Fecha de nacimiento: 05/04/2018.
+País: España.
+Edad: 1 mes Sexo: H.
+Fecha de Ingreso: 06/05/2018.
+Servicio: Nefrologia.
+Médico: Elena Cobos-Carrascosa NºCol: 04 04 56565.
+Historia Actual: Se trata de un varón de un mes de vida, de origen marroquí, que acude a Urgencias por presentar vómitos, rechazo del alimento y distensión abdominal de 4 días de evolución. El embarazo fue controlado, sin existir antecedentes obstétricos ni perinatales de interés, naciendo a término y con un peso adecuado a su edad gestacional. 
+Exploración física: En la exploración destacaba un regular estado general, con palidez cutáneo-mucosa y edemas generalizados de predominio en las extremidades inferiores. Se auscultó un soplo sistólico grado IV/VI polifocal. El abdomen estaba distendido, con presencia de red venosa superficial y ascitis. 
+Resumen de pruebas complementarias: El examen de laboratorio mostró la presencia de anemia normocítica normocrómica, leucocitosis con fórmula normal, creatinina menor de 0,2mg/dl y urea de 10mg/dl, aumento del colesterol y los triglicéridos, y disminución de proteínas totales y albúmina, además de hiponatremia, hipopotasemia e hipocalcemia. La hormona paratiroidea se encontraba levemente elevada. En orina presentaba una proteinuria en rango nefrótico con índice proteinuria/creatinuria de 33,7.
+Evolución y comentarios: Ante la sospecha de SNC, se inició terapia intensiva diurética y antiproteinúrica, profilaxis antitrombótica, tratamiento adyuvante con alfacalcidiol, hierro, carbonato cálcico y levotiroxina, además de nutrición enteral con fórmula hiperproteica e hipercalórica. Precisó tratamiento con seroalbúmina y eritropoyetina. En el estudio cardiológico se diagnosticó estenosis pulmonar valvular moderada y comunicación interauricular. En el estudio genético se encontraron las mutaciones tipo Frameshift para el gen NPHS1, tipo Intronic Variant para el gen NPHS2 y tipo Missense para el gen WT1.
+A los tres meses de edad reingresó por presentar estatus convulsivo secundario a hipocalcemia grave. Debido a los aportes elevados de calcio intravenoso que precisó para su control a través de un acceso venoso periférico, se produjo una quemadura de tercer grado que necesitó la colocación de injerto cutáneo.
+Precisó cuidados intensivos en dos ocasiones a los 4 y 6 meses de edad por sepsis secundaria a Staphylococcus hominis y Enterococcus faecalis, respectivamente, que se resolvieron con antibioterapia empírica y posteriormente según antibiograma.
+Finalmente, el paciente falleció a los 8 meses de edad debido a una neumonía bilateral asociada a neumotórax con descompensación de su patología de base que provocó una hipoxemia refractaria.
+Remitido por: Elena Cobos-Carrascosa, SECCIÓN DE NEFROLOGÍA, Hospital Torrecárdenas, Paraje Torrecárdenas, s/n, 04009, 04721, Almería E-mail: krass10@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="8" end="14" text="Yidani" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="27" end="36" text="Ahajarazi" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="43" end="51" text="91136464" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="64" end="87" text="Calle María Estuardo 58" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="111" end="118" text="Almería" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="124" end="129" text="04005" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="173" end="183" text="05/04/2018" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="191" end="197" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="205" end="210" text="1 mes" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="217" end="218" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="238" end="248" text="06/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="280" end="302" text="Elena Cobos-Carrascosa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="310" end="321" text="04 04 56565" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="355" end="360" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="364" end="370" text="un mes" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="2453" end="2472" text="4 y 6 meses de edad" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="2685" end="2700" text="8 meses de edad" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2852" end="2874" text="Elena Cobos-Carrascosa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2899" end="2921" text="Hospital Torrecárdenas" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2923" end="2948" text="Paraje Torrecárdenas, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2950" end="2955" text="04009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2957" end="2962" text="04721" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2964" end="2971" text="Almería" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2980" end="2999" text="krass10@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

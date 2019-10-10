@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  María.
+Apellidos: López Gómez.
+NASS: 41 46259851 03.
+Domicilio: Calle Real 234, 3B .
+Localidad/ Provincia:Cádiz.
+CP: 11100.
+Datos asistenciales.
+Fecha de nacimiento: 15/04/1990.
+País de nacimiento: España.
+Edad: 27 años Sexo: Mujer.
+NHC: 8753103.
+Fecha de Ingreso: 23/10/2017.
+Servicio: Urgencias.
+Médico: Maria Isabel Fuentes García NºCol:11 11 46586.
+Motivo de ingreso: Mujer de 27 años, politoxicómana activa, que 15 días antes de ingresar comienza con tos seca, disnea de intensidad progresiva, fiebre, astenia, anorexia, náuseas y vómitos. 
+Antecedentes: Tenía antecedentes de infección por VIH de reciente diagnóstico, desconociendo sus parámetros inmunológicos y virológicos. 
+Exploración física: La exploración al ingreso mostraba caquexia, 40 respiraciones/ min., 120 latidos/min. TA:110/60 mm Hg, muguet, acropaquias, adenopatías cervicales bilaterales menores de 1 cm y supraclavicular derecha de 2 cm. Disminución generalizada del murmullo vesicular y crepitantes bibasales, soplo sistólico II/VI polifocal, hepatomegalia a 2 cm del borde costal y condilomas vulvares. El resto de la exploración somática y neurológica fueron normales. 
+Resumen de pruebas complementarias:Se realizaron al ingreso las siguientes pruebas complementarias: Hb 11,3 g/dL, 6.900 leucocitos/µL (79% segmentados, 14% linfocitos), 682.000 plaquetas/µL; sodio 119 mmol/L, LDH 603 UI/L, siendo normales el resto de los valores del autoanalizador. Gasometría arterial basal al ingreso: pH 7,54, pCO2 34,8 mm Hg, pO2 73,4 mmHg. En la placa de tórax se observa una masa mediastínica anterior derecha que comprime y desplaza la tráquea y un infiltrado alveolo-intersticial bilateral. Posteriormente se realiza ecografía abdominal y TAC torácico, abdominal y pélvico en los que se aprecian adenopatías axilares bilaterales menores de un cm, una gran masa mediastínica que comprime tráquea y vena cava superior, patrón intersticial pulmonar en resolución y engrosamiento de pared de asas intestinales con pequeña cantidad de líquido libre entre ellas. Se realizó ecocardiograma transtorácico en el que no se encontraron alteraciones. 
+Evolución y comentarios:Se inicia tratamiento con cotrimoxazol, levofloxacino y amfotericina-B, a pesar de lo cual desarrolla insuficiencia respiratoria progresiva, precisando ventilación mecánica. Durante los días siguientes se observa mejoría de la insuficiencia respiratoria, posibilitando la retirada de la ventilación mecánica. Posteriormente presenta crisis tónico-clónica generalizada seguida de hemiparesia izquierda; se realiza TAC y RMN craneal, observándose una masa de pared gruesa y centro hipodenso de 4 cm de diámetro en encrucijada témporo-parieto-occipital derecha. Se añade al tratamiento sulfadiacina, pirimetamina, ácido fólico y fenitoína, que se retiran tres semanas más tarde por ausencia de mejoría clínica y de disminución de la lesión intracraneal. Se realizó PAAF y biopsia de adenopatía supraclavicular que se informa como metástasis de tumor maligno indiferenciado de origen epitelial. Más tarde se reciben los resultados siguientes: linfocitos CD4+: 440/mL, carga viral VIH: 25.000 copias/ mL, alfafetoproteina normal y b-HCG: 650 mUI/mL (normal < 5). Los estudios microbiológicos en sangre, orina, esputo, brocoaspirado y punción ganglionar fueron negativos para bacterias, micobacterias y hongos. Las tinciones de muestras respiratorias fueron negativas para P. carinii (P. jiroveci). Las serologías para Toxoplasma, virus hepatotropos y RPR fueron negativas; el antígeno criptocócico fue negativo.
+ Inicialmente se realizó el diagnóstico de neumonía difusa presuntivamente por P. carinii (P. jiroveci) y probable linfoma diseminado con afectación mediastínica, cerebral e intestinal. Tras recibir los resultados de la biopsia ganglionar y de los marcadores tumorales (alfafetoproteina y ß-HCG), se realiza el diagnóstico definitivo: tumor de células germinales extragonadal con afectación ganglionar supraclavicular y mediastínica, y probablemente cerebral. Se propone a la paciente realizar estudio de extensión tumoral e iniciar tratamiento con poliquimioterapia, que rechaza, a pesar de explicársele que la elevada quimiosensibilidad del tumor lo hacía potencialmente curable. 
+Diagnóstico Principal: tumor de células germinales extragonadal con afectación ganglionar supraclavicular y mediastínica, y probablemente cerebral. 
+Otros diagnósticos:neumonía por P. carinii (P. jiroveci)
+Remitido por: Dra. Maria Isabel Fuentes García. C/ Escuelas, Hospital General "San Carlos" Calle Juan Sebastián Elcano, 2, 11100 San Fernando, Cádiz. e-mail: fuentesg1974@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="14" text="María" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="27" end="38" text="López Gómez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="46" end="60" text="41 46259851 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="73" end="91" text="Calle Real 234, 3B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="115" end="120" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="126" end="131" text="11100" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="175" end="185" text="15/04/1990" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="207" end="213" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="221" end="228" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="235" end="240" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T14" start="247" end="254" text="8753103" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="274" end="284" text="23/10/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="315" end="342" text="Maria Isabel Fuentes García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="349" end="360" text="11 11 46586" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="381" end="386" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="390" end="397" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="4462" end="4489" text="Maria Isabel Fuentes García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="4491" end="4502" text="C/ Escuelas" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="4504" end="4533" text="Hospital General &quot;San Carlos&quot;" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="4534" end="4564" text="Calle Juan Sebastián Elcano, 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="4566" end="4571" text="11100" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4572" end="4584" text="San Fernando" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="4586" end="4591" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T4" start="4601" end="4625" text="fuentesg1974@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

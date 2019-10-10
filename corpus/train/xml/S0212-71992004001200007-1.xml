@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Cristina .
+Apellidos: Fernandez Julve.
+NHC: 8954842.
+NASS: 87 34625756 45.
+Domicilio: C/ Matadero, 28.
+Localidad/ Provincia: Torremolinos.
+CP: 29620.
+Datos asistenciales.
+Fecha de nacimiento: 24/07/1955.
+País de nacimiento: España.
+Edad: 62 años Sexo: H.
+Fecha de Ingreso: 15/01/2018.
+Médico: Ángel Muñoz Morente  NºCol: 29 29 57874.
+Informe clínico del paciente: Paciente mujer de 62 años de edad, con antecedentes de hipertensión arterial (HTA) y diabetes mellitus (DM) tipo 2 en tratamiento con metformina, que comienza 24 horas previas al ingreso con malestar general, fiebre de hasta 38,5 ºC, dolor lumbar y cuadro confusional agudo, junto con pérdida progresiva de visión en ojo derecho. A la exploración la paciente se encontraba confusa, con tendencia al sueño, febril, con cifras de tensión arterial de 100/70 mmHg y 95 lpm. Desde el punto de vista oftalmológico, presentaba en ojo derecho edema parpebral superior con ptosis de aspecto mecánico, restricción a la elevación y aducción por edema orbitario, quemosis conjuntival, córnea transparente, con capacidad para percibir la luz y proyectar foco, con pupila miótica con aspecto de sinequias, y fondo de ojo inexplorable por opacidad de medios. El resto de la exploración general fue normal. En la analítica de sangre presentaba una hemoglobina 10,5 g/dl, 82.000 plaquetas/µL, 5020 leucocitos/µL, con 82% de neutrófilos, glucosa de 402 mg/dl, velocidad de sedimentación glomerular de 133 mm en la 1ª hora, y una proteína C reactiva de 165 U/L. El resto de los parámetros analíticos rutinarios estaban dentro de la normalidad. En orina se observaron 30-40 leucocitos/campo. En Liquido cefalorraquídeo (LCR) se objetivaron 95 células/mm3, con 84% polimorfonucleares y 16% de mononucleares, una glucosa de 77 mg/dl y 125 mg/dl de proteínas. Se realizaron una TAC y una RM craneal donde no se observaron alteraciones orbitarias ni en senos cavernosos. En RM columna se visualizó una imagen compatible compatible con espondilitis a nivel L4-L5. Un Ecocardiograma transtorácico y transesofágico no reveló la existencia de una endocarditis. Se realizaron hemocultivos, urocultivos y cultivos del LCR, aislándose en todos Escherichia coli, con el mismo patrón de sensibilidad en el antibiograma.
+Recibió tratamiento con ceftriaxona 2 g i.v. y ciprofloxacino 200 mg i.v. dos veces al día, junto con tratamiento tópico con neomicina, prednisona y atropina durante 30 días, continuando con ciprofloxacino via oral 750 mg dos veces al día durante 14 día más. Al final del tratamiento, conservó en el ojo afecto la capacidad de percepción luminosa.
+Responsable clínico: Ángel Muñoz Morente. C/ Hotel Pontinental, 24. Residencia El Limonar. Playamar. 29620 Torremolinos. Málaga. e-mail: amcubo@telefonica.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="36" text="Cristina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="50" end="65" text="Fernandez Julve" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="72" end="79" text="8954842" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="87" end="101" text="87 34625756 45" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="114" end="129" text="C/ Matadero, 28" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="153" end="165" text="Torremolinos" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="171" end="176" text="29620" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="220" end="230" text="24/07/1955" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="252" end="258" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="266" end="273" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="280" end="281" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="301" end="311" text="15/01/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="321" end="340" text="Ángel Muñoz Morente" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="349" end="360" text="29 29 57874" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="401" end="406" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="410" end="417" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2648" end="2667" text="Ángel Muñoz Morente" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2669" end="2716" text="C/ Hotel Pontinental, 24. Residencia El Limonar" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2718" end="2726" text="Playamar" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2728" end="2733" text="29620" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2734" end="2746" text="Torremolinos" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2748" end="2754" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2764" end="2785" text="amcubo@telefonica.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

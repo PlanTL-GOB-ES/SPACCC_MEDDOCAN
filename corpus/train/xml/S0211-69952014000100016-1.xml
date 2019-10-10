@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Jean Carlos.
+Apellidos: Henao Murillo.
+NHC: 374567345.
+Domicilio: Calle Pernia, #226 almd..
+Localidad/ Provincia: Antioquia.
+Datos asistenciales.
+Fecha de nacimiento: 21/02/1984.
+País de nacimiento: España.
+Edad: 33 años Sexo: H.
+Fecha de Ingreso: 09/07/2017.
+Médico: Lina María Serna Higuita.
+Informe clínico del paciente: Paciente masculino, de 33 años, con antecedente de insuficiencia renal crónica terminal secundaria a enfermedad poliquística. Fue trasplantado de donante fallecido en otra institución en el año 2007. Recibió manejo inmunosupresor con prednisona, tacrolimus y micofenolato mofetilo. En marzo de 2012 le realizan biopsia renal que informa rechazo celular agudo Banff IA. Recibió tratamiento con metilprednisolona 1500 mg, prednisona 50 mg día, micofenolato 3000 mg al día y tacrolimus XL 7 mg al día. Un mes después el paciente presenta fiebre, cefalea frontal y retro-ocular, con disminución de la sensibilidad en la hemicara derecha. Es evaluado y diagnosticado de sinusitis aguda y le inician tratamiento con amoxicilina. El paciente no mejora y comienza a presentar proptosis ocular, edema de maxilar superior derecho, rinorrea verdosa, diplopía, epífora, úlcera en paladar, convulsiones y elevaciones de azoados. Por este motivo es remitido a nuestra institución. A su ingreso se encuentra febril, con edema en hemicara derecha, úlcera extensa en el paladar duro, proptosis ocular, oftalmoplejia, pérdida de la visión por ojo derecho y función renal alterada. Se realiza resonancia magnética cerebral que muestra compromiso de los senos paranasales, órbita derecha, lóbulo frontal, senos cavernosos, ganglios basales derechos y área del tálamo ipsilateral. Con estos hallazgos se hace diagnóstico de MROC, por lo cual se inicia anfotericina B liposomal, se suspende la inmunosupresión y se lleva a cirugía radical multidisciplinaria, donde se realiza drenaje de sinusitis, drenaje de absceso cerebral frontal derecho, resección extensa de los tejidos blandos y óseos de hemicara derecha, enucleación, traqueostomía y gastrostomía. Los cultivos y la patología confirman infección por Mucor. Adicionalmente se aislaron E. cloacae, C. sedlakii, K pneumoniae BLEE (β-lactamasa de espectro extendido) positiva.
+Un control de imágenes de resonancia magnética muestra aún compromiso por la enfermedad en cerebro. Sin embargo, dada la extensión y las secuelas graves de una cirugía más radical, se decidió continuar con manejo médico. Por tal motivo se completa tratamiento durante 6 semanas luego de la cirugía radical con anfotericina B liposomal, meropenem, linezolid y posaconazol más curaciones dos veces por semana. Posteriormente se da de alta con posaconazol 400 mg cada 12 horas, ciclosporina 50 mg cada 12 horas, prednisona 5 mg al día y nutrición por gastrostomía. Seis meses después el paciente estaba en buenas condiciones generales, sin signos de infección activa y con aceptable función del injerto renal (creatinina de 1,5 mg/dl). Fue llevado a reconstrucción quirúrgica exitosa. Seis meses después de la reconstrucción el paciente se encuentra en buenas condiciones generales y actualmente está en plan de terminar su proceso de reconstrucción facial.
+Responsable clínico: Dra. Lina María Serna Higuita Grupo de Nefrología y Trasplante Hospital Pablo Tobón Uribe Calle 78b Numero 69-240 Medellín, Antioquia, Colombia lm.serna@hotmail.com johnfredynieto@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="39" text="Jean Carlos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="52" end="65" text="Henao Murillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="72" end="81" text="374567345" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T20" start="94" end="117" text="Calle Pernia, #226 almd" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="142" end="151" text="Antioquia" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="195" end="205" text="21/02/1984" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="227" end="233" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="241" end="248" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="255" end="256" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T2" start="276" end="286" text="09/07/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="296" end="320" text="Lina María Serna Higuita" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T13" start="361" end="370" text="masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="375" end="382" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T1" start="542" end="550" text="año 2007" TYPE="FECHAS" comment=""/>
+    <DATE id="T11" start="637" end="650" text="marzo de 2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="3242" end="3266" text="Lina María Serna Higuita" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T9" start="3300" end="3326" text="Hospital Pablo Tobón Uribe" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T8" start="3327" end="3350" text="Calle 78b Numero 69-240" TYPE="CALLE" comment=""/>
+    <LOCATION id="T7" start="3351" end="3359" text="Medellín" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="3361" end="3370" text="Antioquia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="3372" end="3380" text="Colombia" TYPE="PAIS" comment=""/>
+    <CONTACT id="T4" start="3381" end="3401" text="lm.serna@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T3" start="3402" end="3426" text="johnfredynieto@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

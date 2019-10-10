@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Patricia.
+Apellidos: Zorrilla Alvarez.
+NHC: 456767.
+NASS: 78 10354689 66.
+Domicilio: Paseo de los pinos 16, 4E.
+Localidad/ Provincia: Madrid.
+CP: 28043.
+Datos asistenciales.
+Fecha de nacimiento: 31/01/1990.
+País: España.
+Edad: 28 años Sexo: M.
+Fecha de Ingreso: 10/03/2018.
+Servicio: Traumatologia.
+Episodio: 36455654.
+Médico: Susana Lastras González NºCol: 28 45 97436.
+Historia Actual: Mujer de 28 años, auxiliar de enfermería, que acude al Servicio de Traumatología de Urgencias porque refiere que desde hace dos días comienza con dolor en la región subpatelar de la rodilla derecha que ha ido empeorando y actualmente, tiene dificultad para la movilización de dicha articulación.
+Exploración física: En la exploración física, se objetiva una lesión eritematosa en región subpatelar derecha, con dolor a la palpación y una pequeña herida inciso-contusa de escasos milímetros de longitud. La movilización activa y pasiva están limitadas parcialmente por el dolor, no presentando ningún otro síntoma acompañante.
+La trabajadora refiere que en la infancia tuvo un osteocondroma en la misma rodilla, actualmente curado y sin secuelas, realizándose la última radiografía de control hace dos meses, siendo ésta completamente normal.
+La trabajadora relaciona este episodio con un accidente laboral sufrido hace dos días, en el que mientras transportaba en la mano una caja con 32 termómetros de mercurio, se resbaló y cayó al suelo. Algunos de los termómetros de mercurio cayeron sobre su rodilla derecha y le produjeron una herida inciso-contusa, que observamos aún en la exploración en estado de cicatrización.
+La auxiliar de enfermería reconoce que tenía sobrecarga en su puesto de trabajo. La caja en la que transportaba los termómetros no estaba cerrada, la trabajadora no llevaba guantes y la ropa de trabajo no fue retirada tras el accidente laboral. Posteriormente, no se realizó ninguna medida higiénico-sanitaria ni se actuó de forma adecuada frente al derrame de mercurio.
+En el servicio de Urgencias, el siguiente paso fue la realización de una radiografía de la rodilla, objetivándose un cuerpo extraño metálico en bursa rotuliana, correspondiente al mercurio.
+Evolución y comentarios: Tras el diagnóstico de bursitis química por mercurio, y teniendo en cuenta la toxicidad del metal, se procedió a la extracción de la bursa rotuliana en quirófano de forma urgente bajo escopia, para evitar que quedaran restos de mercurio en la articulación de la trabajadora.
+Actualmente, la auxiliar no presenta ninguna secuela y está recuperada totalmente de su lesión.
+Remitido por: Dra. Susana Lastras González. C/ Balcánica 3, bloque C, 3.o D 28042 Madrid. España Tfno: 620586301 E-mail: sulasg1@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T27" start="9" end="17" text="Patricia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T26" start="30" end="46" text="Zorrilla Alvarez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="53" end="59" text="456767" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="67" end="81" text="78 10354689 66" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T23" start="94" end="119" text="Paseo de los pinos 16, 4E" TYPE="CALLE" comment=""/>
+    <LOCATION id="T22" start="143" end="149" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="155" end="160" text="28043" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T20" start="204" end="214" text="31/01/1990" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="222" end="228" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="236" end="243" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="250" end="251" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T19" start="271" end="281" text="10/03/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T13" start="318" end="326" text="36455654" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T12" start="336" end="359" text="Susana Lastras González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="367" end="378" text="28 45 97436" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T14" start="397" end="402" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T16" start="406" end="413" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <PROFESSION id="T9" start="415" end="437" text="auxiliar de enfermería" TYPE="PROFESION" comment=""/>
+    <PROFESSION id="T8" start="1621" end="1643" text="auxiliar de enfermería" TYPE="PROFESION" comment=""/>
+    <PROFESSION id="T7" start="2495" end="2503" text="auxiliar" TYPE="PROFESION" comment=""/>
+    <NAME id="T11" start="2594" end="2617" text="Susana Lastras González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2619" end="2650" text="C/ Balcánica 3, bloque C, 3.o D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2651" end="2656" text="28042" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2657" end="2663" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2665" end="2671" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="2678" end="2687" text="620586301" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="2696" end="2715" text="sulasg1@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

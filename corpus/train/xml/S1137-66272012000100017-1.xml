@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Gerard.
+Apellidos: Pichardo Vazquez.
+NHC: 3524454.
+NASS: 24 56242452 65.
+Domicilio: Carrer de Nàpols, 231, 3D .
+Localidad/ Provincia: Barcelona.
+CP: 08013.
+Datos asistenciales.
+Fecha de nacimiento: 23/10/1973.
+País: España.
+Edad: 44 años Sexo: H.
+Fecha de Ingreso: 25/05/2018.
+Médico: Sonia Junquera Bañares NºCol: 08 08  53412.
+Informe clínico del paciente: Varón de 44 años, que acude al servicio de Urgencias por fiebre de seis horas de evolución y malestar general. Como antecedentes de interés cabe destacar enfermedad de Graves-Basedow en tratamiento con carbimazol 30 mg/día desde hacía 6 semanas y la extracción del tercer molar inferior hacía cuatro días. En la exploración física se objetiva Ta 39,5oC, TA 122/71 y FC 137 l/min. Se palpa bocio grado 1a. En la boca se observan caries en varias piezas dentarias y enrojecimiento en la zona de extracción dentaria, siendo el resto de la exploración anodina. En el análisis de sangre se observan 500 leucocitos/mm3 (0% neutrófilos) con el resto de series normal, PCR 321 mg/dL, función tiroidea normalizada y sin otros datos de interés. Se toman muestra de orina, esputo y sangre para estudio microbiológico y se comienza con tratamiento antibiótico de amplio espectro (amikacina 20 mg/Kg/día y cefepime 2 g/8 horas). En el estudio de médula ósea que se hizo al día siguiente se detectó hipercelularidad con parada madurativa en serie mieloide, sin otros datos de interés, de probable etiología farmacológica, motivo por el que se suspendió el carbimazol y se comenzó tratamiento con G-CSF 5 µ/kg/d. Los tres días primeros del ingreso, el paciente tuvo dos episodios de fiebre de 39oC, por lo que al cuarto día se cambió el tratamiento antibiótico previo por meropenem 1 g/8 horas y se añadió fluconazol 400 mg/día, al tiempo que se realizó ecocardiograma transesofágico que descartó la presencias de endocarditis. Al quinto día desapareció la fiebre, coincidiendo con la recuperación parcial de la cifra de neutrófilos a 1.800/mm3, y al séptimo día se dio de alta por evolución favorable y resolución del cuadro.
+A las 18 horas de incubación se detectó en los hemocultivos aerobio y anaerobio el crecimiento de un bacilo gramnegativo que se subcultiva posteriormente en diferentes medios sólidos en aerobiosis, anaerobiosis y en atmósfera enriquecida en CO2. A las 48 horas crecieron en Agar Columbia, Agar Chocolate y en Agar Brucella (no en medio McConkey) unas colonias de color amarillo pálidas, incrustadas en el agar y con olor a hipoclorito. Estas colonias fueron oxidasa positivas, catalasa negativas, ureasa e indol negativas, redujeron los nitratos a nitritos y no fermentaron los hidratos de carbono. En el estudio de sensibilidad que se realizó paralelamente por el método de Kirby-Bauer con placas de Mueller-Hinton sangre y con E-Test® AB BIODISK, la cepa aislada resultó sensible a todos los antibióticos testados (ampicilina, amoxicilina-ácido clavulánico, azitromicina, levofloxacino, ciprofloxacino, cefotaxima, cefuroxima, imipenen, cotrimoxazol y tetraciclinas), salvo a gentamicina y amikacina, con CMI de 16 y 32 µg/mL, respectivamente. Su identidad fue confirmada por secuenciación del gen 16s.
+Remitido por: Sonia Junquera Bañares E-mail: sojuba@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="9" end="15" text="Gerard" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="28" end="44" text="Pichardo Vazquez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="51" end="58" text="3524454" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="66" end="80" text="24 56242452 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="93" end="118" text="Carrer de Nàpols, 231, 3D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="143" end="152" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="158" end="163" text="08013" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="207" end="217" text="23/10/1973" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="225" end="231" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="239" end="246" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="253" end="254" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="274" end="284" text="25/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="294" end="316" text="Sonia Junquera Bañares" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="324" end="336" text="08 08  53412" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="368" end="373" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="377" end="384" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="3199" end="3221" text="Sonia Junquera Bañares" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3230" end="3248" text="sojuba@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

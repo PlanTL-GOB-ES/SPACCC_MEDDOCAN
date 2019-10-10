@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  David.
+Apellidos: De Miguel Jiménez.
+NHC: 7367875.
+NASS: 78 43652098 40.
+Domicilio: C/ Hermanos Martinez, S/N.
+Localidad/ Provincia: Logroño.
+CP: 26001.
+Datos asistenciales.
+Fecha de nacimiento: 04/02/1978.
+País: España.
+Edad: 40 años Sexo: H.
+Fecha de Ingreso: 21/03/2018 .
+Médico: José Martinez Sobrón NºCol: 26 26 58102.
+Informe clínico del paciente:  paciente de 40 años de edad, politoxicómano desde la adolescencia, UDVP, con un primer ingreso en prisión a los 20 años, y con reiterados ingresos posteriores. En 1993, se detecta coinfección por el VIH y el VHC. Consta en su historia clínica la prescripción del primer TAR en 1998, jalonado con constantes abandonos, sobre todo, en los periodos vividos en libertad. Otras patologías de interés:.
+- neumonía por pneumocistis jirovecii (antiguamente denominado carinii) en 1998
+- neumonías extrahospitalarias de repetición
+- candidiasis orofaríngeas, y probablemente esofágicas, de carácter repetitivo
+- TB pulmonar y lesiones cerebrales por toxoplasmosis y/o TB
+- dermatitis seborreica prácticamente constante
+En agosto de 2009 presentó lesiones costrosas, descamativas, no pruriginosas de inicio en cuero cabelludo, pabellones auriculares y axilas. Posteriormente estas lesiones se extendieron a tronco y extremidades, incluyendo plantas y palmas de pies y manos. También aparecieron lesiones similares en pliegue interglúteo y genitales.
+El dermatólogo orientó el cuadro como psoriasis, pautándole un tratamiento con calcipotriol más betametasona, vaselina salicílica y tracolimus 0,1%. Este tratamiento no fue iniciado hasta un nuevo ingreso en prisión, a principio del año 2010. En las últimas semanas, se ha observado una ligera mejoría. Al inicio del cuadro, la cifra de linfocitos CD4+ cel/ml era de 64 con una CV VIH de 1.090.000 copias/ml (6.04 log). También, presentaba caquexia importante (IMC < 16) y anemia (Hbina de 10 g/dl; Htcto. del 30 %). El paciente ha rechazado TAR. Actualmente, en situación de ingreso hospitalario para estudiar posible etimología de las lesiones cerebrales.
+Remitido por: Dr. José Martinez Sobrón Servicio Médico, Centro Penitenciario de Logroño E-mail: jsobron@ono.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="29" end="34" text="David" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="47" end="64" text="De Miguel Jiménez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="71" end="78" text="7367875" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="86" end="100" text="78 43652098 40" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="113" end="138" text="C/ Hermanos Martinez, S/N" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="162" end="169" text="Logroño" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="175" end="180" text="26001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="224" end="234" text="04/02/1978" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="242" end="248" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="256" end="263" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="270" end="271" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="291" end="301" text="21/03/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="312" end="332" text="José Martinez Sobrón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="340" end="351" text="26 26 58102" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T13" start="396" end="403" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="496" end="503" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="547" end="551" text="1993" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="661" end="665" text="1998" TYPE="FECHAS" comment=""/>
+    <DATE id="T5" start="856" end="860" text="1998" TYPE="FECHAS" comment=""/>
+    <DATE id="T4" start="1097" end="1111" text="agosto de 2009" TYPE="FECHAS" comment=""/>
+    <DATE id="T1" start="1657" end="1665" text="año 2010" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="2100" end="2120" text="José Martinez Sobrón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="2138" end="2169" text="Centro Penitenciario de Logroño" TYPE="INSTITUCION" comment=""/>
+    <CONTACT id="T2" start="2178" end="2193" text="jsobron@ono.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

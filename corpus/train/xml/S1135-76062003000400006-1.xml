@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Santiago.
+Apellidos: Nuñez Ávila.
+NHC: 3784056.
+NASS: 89 56754580 11.
+Domicilio: C/ Concha Espina 16, 3, A.
+Localidad/ Provincia: Cádiz.
+CP: 11001.
+Datos asistenciales.
+Fecha de nacimiento: 28/02/1953.
+País de nacimiento: España.
+Edad: 62 años Sexo: H.
+Fecha de Ingreso: 20/05/2015.
+Médico: Jose Antonio Baudí Estrada NºCol: 11 11 21504.
+Informe clínico del paciente: varón de 62 años edad que sufre dolor centrotorácico, sensación de hormigueo en manos y náuseas. Una semana antes había tenido un episodio similar sin requerir asistencia facultativa. A los 45 minutos de presentarse los síntomas, es asistido en el Hospital de su zona, diagnosticándose un infarto inferior, e iniciando fibrinolisis con Streptokinasa 1.500.000 UI. También se trató con Solinitrina, Aspirina y Zantac, remitiéndose posteriormente al Hospital Comarcal al no haber camas disponibles en la Unidad de Coronarias.
+A la media hora de su ingreso en el Hospital Comarcal (sobre las 4,30 horas después de aparecer la sintomatología), comienza con dolor en ambos miembros inferiores, acompañado de palidez intensa y ausencia de pulso. Se realiza Tomografía Axial Computerizada (TAC), que descarta disección aórtica y ante la sospecha de embolismo, se remite al Hospital Provincial.
+En el Centro de Referencia, se realiza TAC de Tórax que no muestra patología en aorta torácica y ecografía de miembros inferiores, en la que se advierte oclusión bilateral a nivel popliteo. Es intervenido, realizándose embolectomía bilateral, recuperándose la coloración, pero persistiendo la frialdad. El estudio histopatológico muestra material trombótico fibrohemático.
+Pasadas las primeras horas el paciente muestra inestabilidad hemodinámica, con aparición de livideces en miembros inferiores, insuficiencia renal y shock, ocurriendo finalmente la muerte a las 24 horas de comenzar la sintomatología.
+En el examen externo del cadáver se aprecia coloración rojo violada en tercio inferior de muslos, rodillas, zona genital y porción inferior del abdomen.
+Los pulmones estaban aumentados de tamaño y consistencia, a la presión se percibe crepitación, permanece la huella del dedo tras la presión (Fóvea) y al corte, tras comprimir, mana espuma. El pulmón derecho pesaba 850 gramos y el izquierdo pesaba 640 g.
+Tras incidir el saco pericárdico, se observó una cardiomegalia ligera con un peso de 390 gramos. El ventrículo izquierdo estaba hipertrófico con un grosor máximo en su pared libre de 2 cm. El análisis histopatológico del corazón muestra una cardiopatía isquémica crónica, sobre la que asienta un infarto antiguo y otro reciente, de 1 a 3 semanas de evolución, en la cara posterior del ventrículo izquierdo.
+La aorta torácica presenta una gran placa arterioesclerótica rota, con una hemorragia intraplaca y material trombótico adherido por debajo del cayado. El endotelio de la aorta abdominal está ocupado por material hemático coagulado de coloración rojiza. El hígado exhibía aspecto esteatósico. El examen del hígado y pulmón confirma los diagnósticos macroscópicos de esteatosis y edema pulmonar.
+En las arteriolas encargadas de irrigar la musculatura esquelética de las piernas, se advierten numerosos émbolos procedentes de placas de ateroma rotas que producen necrosis isquémica de las fibras musculares.
+Histológicamente los riñones presentan necrosis tubular aguda, pigmento mioglobínico en túbulos y émbolos en arteriolas procedentes de la rotura de placas de ateroma.
+Responsable clínico: Jose Antonio Baudí Estrada. Clínica Médico Forense. Edificio Juzgados. C/ los Balbos s/n . Cádiz. Tfno: 956 013 059
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="36" text="Santiago" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="49" end="60" text="Nuñez Ávila" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="67" end="74" text="3784056" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="82" end="96" text="89 56754580 11" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="109" end="134" text="C/ Concha Espina 16, 3, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="158" end="163" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="169" end="174" text="11001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="218" end="228" text="28/02/1953" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="250" end="256" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="264" end="271" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="278" end="279" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="299" end="309" text="20/05/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="319" end="345" text="Jose Antonio Baudí Estrada" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="353" end="364" text="11 11 21504" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="396" end="401" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="405" end="412" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T8" start="844" end="861" text="Hospital Comarcal" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="956" end="973" text="Hospital Comarcal" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="1262" end="1281" text="Hospital Provincial" TYPE="HOSPITAL" comment=""/>
+    <NAME id="T10" start="3496" end="3522" text="Jose Antonio Baudí Estrada" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3524" end="3546" text="Clínica Médico Forense" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T4" start="3548" end="3565" text="Edificio Juzgados" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T3" start="3567" end="3584" text="C/ los Balbos s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="3587" end="3592" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3600" end="3611" text="956 013 059" TYPE="NUMERO_TELEFONO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

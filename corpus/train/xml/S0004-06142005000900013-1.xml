@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre: Blanca.
+Apellidos: Ramos Ibañez .
+CIPA: nhc-150679.
+NASS: 78 99876411 31.
+Domicilio: Avenido Melchor Fernández 59. 4,2.
+Localidad/ Provincia: Barcelona.
+CP: 01022.
+       NHC: 150679.
+Datos asistenciales.
+Fecha de nacimiento: 05/03/1996.
+País: España.
+Edad: 22  Sexo: M.
+Fecha de Ingreso: 28/02/2016.
+Especialidad: Urología.
+Medico: Josep Rubio Palau Paseo        NºCol: 08-08-25574.
+Motivo de ingreso: Dolor abdominal.
+Antecedentes: Mujer sometida a una ligadura de trompas por vía laparoscópica. Durante el mismo se detectó una tumoración de 20 mm en la cara lateral derecha de la vejiga, bien delimitada e hipoecoica. 
+Exploración física: Se realizó un estudio ecográfico pélvico de control y una urografía intravenosa, en la cual no se detectó ninguna alteración del aparato urinario superior. 
+Resumen de pruebas complementarias: En el cistograma de la misma se puso de manifiesto un defecto de repleción redondeado y de superficie lisa, localizado en la pared vesical derecha. Las analíticas de sangre y orina estaban dentro de los límites normales. Se le realizó una cistoscopia a la paciente, donde se objetiva la presencia de una tumoración a modo de "joroba", de superficie lisa y mucosa conservada, en cara lateral derecha de vejiga, inmediatamente por encima y delante del meato ureteral ipsilateral.
+Evolución y comentarios: Con el diagnóstico de presunción de leiomioma vesical se practicó resección transuretral de la tumoración. Los fragmentos resecados tenían un aspecto blanquecino, sólido y compacto, parecidos a los de un adenoma prostático, con escaso sangrado.
+El material obtenido de la resección transuretral estaba formado por una proliferación de células fusiformes de citoplasma alargado, al igual que el núcleo, y ligeramente eosinófilo. No se apreciaron mitosis ni atipias. El estudio inmunohistoquímico demostró la positividad para actina músculo específica (DAKO, clon HHF35 ) en las células proliferantes.
+A los tres meses de la resección transuretral se realizó cistoscopia de control, observando una placa calcárea sobreelevada sobre el área de resección previa, compatible con cistopatía incrustante que se trató mediante resección transuretral de ésta y de restos leiomiomatosos y acidificación urinaria posterior.
+Remitido por:Josep Rubio Palau Paseo. Av. Vall d´Hebron, 119-129 08035 Barcelona, España Email: jrubiopalau@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="15" text="Blanca" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="28" end="40" text="Ramos Ibañez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="53" end="59" text="150679" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="67" end="81" text="78 99876411 31" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="94" end="127" text="Avenido Melchor Fernández 59. 4,2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="151" end="160" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="166" end="171" text="01022" TYPE="TERRITORIO" comment=""/>
+    <ID id="T15" start="185" end="191" text="150679" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="235" end="245" text="05/03/1996" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="253" end="259" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="267" end="269" text="22" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="277" end="278" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="298" end="308" text="28/02/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="342" end="359" text="Josep Rubio Palau" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="380" end="391" text="08-08-25574" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="443" end="448" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2273" end="2290" text="Josep Rubio Palau" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2291" end="2324" text="Paseo. Av. Vall d´Hebron, 119-129" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2325" end="2330" text="08035" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2331" end="2340" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2342" end="2348" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2356" end="2376" text="jrubiopalau@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

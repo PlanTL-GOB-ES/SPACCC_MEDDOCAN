@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Ernesto.
+Apellidos: Molina Figueroa.
+NHC: 7843653.
+NASS: 27 64571043 77.
+Domicilio: Calle Chapala, 1, 1D.
+Localidad/ Provincia: Madrid.
+CP: 02023.
+Datos asistenciales.
+Fecha de nacimiento: 13/01/1947.
+País de nacimiento: España.
+Edad: 66 años Sexo: H.
+Fecha de Ingreso: 27/08/2013.
+Médico: Héctor Pastor Navarro  NºCol: 02 02 57890.
+Informe clínico del paciente: Varón de 66 años con antecedentes personales: Adenomectomia prostática, cólicos nefríticos izquierdos, úlcus péptico. No hipertensión previa. Betatalasemia heterocigótica. Litiasis úrica piélica de riñón izquierdo.
+Portador de catéter doble J en el momento de la LEOCH.
+Leoch inefectiva 4 semanas antes de la segunda, en la que se produjo el hematoma. (4.000 impactos a intensidad 4 y 1.000 a 5).
+Tuvo dolor intenso al final de la misma que requirió analgesia IV suplementaria, aunque sin alteración hemodinámica.
+Se dio de alta tras Leoch y fue asistido de urgencia a los 5 días con mal estado general, astenia, dolor lumbar izquierdo y Hb de 8, comprobándose en eco y Tac el hematoma. Elevación de creatinina hasta 1,8.
+Diez días después de la Leoch con Hb estabilizada en 8 después de administración de 3 concentrados de hematíes, y ante la persistencia de dolor lumbar intenso y fiebre (38-39º C) se procedió a drenaje del hematoma mediante incisión lumbar, comprobando la existencia de hematoma subcapsular, no infectado, sin sangrado activo. A las 48 h se había normalizado la función renal, desaparecido la fiebre y sólo refería dolor moderado típico de las lumbotomías. Fue alta a los 4 días de la intervención. A los 2 meses la ecografía renal, UIV y función renal eran normales.
+Responsable clínico: Dr. Héctor Pastor Navarro Servicio de Urología Complejo Hospitalario Universitario de Albacete Hermanos Falcó, s/n - 02006 Albacete Tel.: 967 597 100 E-mail: hektorpn@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="35" text="Ernesto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="48" end="63" text="Molina Figueroa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="70" end="77" text="7843653" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="85" end="99" text="27 64571043 77" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="112" end="132" text="Calle Chapala, 1, 1D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="156" end="162" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="168" end="173" text="02023" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="217" end="227" text="13/01/1947" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="263" end="270" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="277" end="278" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="298" end="308" text="27/08/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="318" end="339" text="Héctor Pastor Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="348" end="359" text="02 02 57890" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="391" end="396" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="400" end="407" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1705" end="1726" text="Héctor Pastor Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1748" end="1795" text="Complejo Hospitalario Universitario de Albacete" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1796" end="1815" text="Hermanos Falcó, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1818" end="1823" text="02006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1824" end="1832" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="1839" end="1850" text="967 597 100" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="1859" end="1879" text="hektorpn@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Sebastian .
+Apellidos: Blanco Castillo.
+NHC: 7384567.
+NASS: 87 90436708 37.
+Domicilio: C/ Vitruvio, 3.
+Localidad/ Provincia: Barcelona.
+CP: 07017.
+Datos asistenciales.
+Fecha de nacimiento: 14/05/1973.
+País de nacimiento: España.
+Edad: 45 años Sexo: H.
+Fecha de Ingreso: 15/06/2018.
+Médico: Ignacio Fernández Sanza  NºCol: 08 08 57974.
+Informe clínico del paciente: Paciente de 45 años de edad ingresado en el Servicio de Hematología por MM Ig G Kappa estadio III-A con infiltración hepática. No presentaba ningún antecedente personal ni familiar de interés.
+El paciente fue remitido al Servicio de Oftalmología por ojo derecho (OD) rojo de 24 horas de evolución sin ningún otro síntoma visual ni ocular.
+La agudeza visual era de la unidad en ambos ojos y en la lámpara de hendidura se apreciaba una masa indolora, vascularizada y subconjuntival nasal superior en OD. El resto de la exploración incluyendo fondo de ojo fue normal.
+La lesión progresó en 48 horas infiltrando el párpado superior y produciendo oftalmoplejía del OD.
+Se realizó una tomografía computarizada (TC) apreciándose aumento de partes blandas sin lesiones óseas. La biopsia de la lesión demostró infiltración por células plasmáticas.
+El paciente estaba siendo sometido a QT mediante: Vincristina, Uracilo, Ciclofosfamida, Melfalán y Prednisona seguidos de Vincristina, Uracilo, Adriamicina y Dexametasona. Al confirmar la biopsia se añadió RT local.
+A pesar del tratamiento de QT y RT la infiltración siguió progresando por párpados y conjuntiva, desarrollándose un glaucoma agudo postrabecular con presión intraocular (PIO) de 50 mm Hg que no respondió al tratamiento vía oral (inhibidores de la anhidrasa carbónica) y tópico (beta bloqueantes y prostaglandinas).
+Se suspendió la RT y se sustituyó la QT por Ciclofosfamida, Dexametasona, Bortezomid y Adriamicina, seguidos de Metotrexate, Citarabina y Metilprednisolana. Esta segunda línea de QT produjo remisión de la infiltración en dos semanas, normalizándose la PIO con campos visuales normales, aunque con ptosis y restricción de la motilidad ocular residuales. A pesar de la remisión del cuadro ocular el paciente falleció a los seis meses.
+Responsable clínico: Dr. Ignacio Fernández Sanza. Clínica Sanza C/ Dolores Monserda 54. Barcelona 08017.España e-mail: sanza@clinicasanza.com

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Víctor .
+Apellidos: Gallardo Alonso.
+NHC: 4960926.
+NASS: 36 47656743 36.
+Domicilio: Carrer de Roger de Llúriat, 52 .
+Localidad/ Provincia: Barcelona.
+CP: 08013.
+Datos asistenciales.
+Fecha de nacimiento: 04/07/1967.
+País: España.
+Edad: 49 años Sexo: H.
+Fecha de Ingreso: 23-10-2016.
+Médico: Samir Aboul-hosn Centenero NºCol: 08 08 36002.
+Motivo de ingreso: paciente varón de 49 años remitido a nuestro centro tras practicársele la exodoncia de un tercer molar incluido en cuarto cuadrante y curetaje de un tejido de granulación a nivel apical y distal de la pieza exodonciada. 
+Antecedentes: Como antecedentes personales de interés unicamente es de destacar un hábito tabáquico de 35paq.-año y enólico de 150g/d. En cuanto a los antecedentes familiares destaca el fallecimiento de su padre por cáncer de colon. 
+Exploración física: Los síntomas a la exploración física eran de dolor e inflamación en región de pieza 48 de varios meses de evolución que no mejoró tras la exodoncia de dicha pieza presentando asimismo un abombamiento de consistencia ósea a la palpación por vestibular de cuarto cuadrante y con una mucosa estrictamente normal a la exploración física.
+Pruebas complementarias: Tras analizarse el tejido extraído durante la exodoncia de la pieza 48 por el Servicio de Anatomía Patológica es informado como Carcinoma Escamoso junto con células bien diferenciadas. Se realiza un estudio de extensión clínico-radiológico a nivel de cabeza y cuello, donde se constata una lesión neoformativa destructiva en la tomografía computerizada afectando a cuerpo y rama mandibular y múltiples adenopatías cervicales derechas en todos los niveles, a nivel tóraco-abdominal no se evidencia patología neoplásica a distancia siendo la analítica sanguínea general sin alteración de ninguno de sus parámetros.
+El caso es discutido en la Unidad Funcional de Cabeza y Cuello (UFCC) de nuestro centro siendo catalogado como un T2N2bM0 y se decide un tratamiento quirúrgico radical junto con un tratamiento radioterápico mediante técnica isocéntrica de tres campos y quimioterapia concomitante.
+Se lleva a cabo una mandibulectomía segmentaria desde la pieza 43 hasta la región subcondilea derecha, vaciamiento ganglionar cervical derecho radical modificado, traqueostomía temporal y reconstrucción mediante injerto microvascularizado osteomiocutáneo de peroné. La anatomía patológica cataloga a la pieza de Carcinoma Escamoso Queratinizante y afectación de 23 de los 35 ganglios extirpados con invasión extracapsular de los mismos clasificándose como pT2pN2b.
+Evolución y comentarios: A lo 3,5 meses de la intervención quirúrgica se objetiva recidiva tras realizar nuevo TC cervical por aparición de tumoraciones cervicales compatibles con recidiva masiva en forma de múltiples adenopatías bilaterales. Se discute la posibilidad de realizar un nuevo ciclo de quimioterapia pero se descarta debido a la rápida recidiva masiva, la falta de respuesta al tratamiento y el escaso nivel de tolerancia a la quimioterapia por parte del paciente. El paciente se deriva a curas paliativas y fallece 6,5 meses tras la intervención quirúrgica por recidiva masiva loco-regional.
+Remitido por: Dr. Samir Aboul-hosn Centenero. C/ Diputació 345, 2º-1ª 08009, Barcelona Tlf. 609 518571 / Fax 93 2607982 E-mail; samir74es@yahoo.es; 36002sac@comb.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="29" end="35" text="Víctor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="49" end="64" text="Gallardo Alonso" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="71" end="78" text="4960926" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="86" end="100" text="36 47656743 36" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="113" end="143" text="Carrer de Roger de Llúriat, 52" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="168" end="177" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="183" end="188" text="08013" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="232" end="242" text="04/07/1967" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="250" end="256" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="264" end="271" text="49 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="278" end="279" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="299" end="309" text="23-10-2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="319" end="345" text="Samir Aboul-hosn Centenero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="353" end="364" text="08 08 36002" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="394" end="399" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="403" end="410" text="49 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="812" end="817" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3202" end="3228" text="Samir Aboul-hosn Centenero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3230" end="3253" text="C/ Diputació 345, 2º-1ª" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="3254" end="3259" text="08009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="3261" end="3270" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T4" start="3276" end="3286" text="609 518571" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T3" start="3293" end="3303" text="93 2607982" TYPE="NUMERO_FAX" comment=""/>
+    <CONTACT id="T2" start="3312" end="3330" text="samir74es@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T1" start="3332" end="3348" text="36002sac@comb.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

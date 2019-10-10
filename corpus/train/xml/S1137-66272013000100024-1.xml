@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Beatriz.
+Apellidos: Vega Macias.
+NHC: 9184594.
+Domicilio: Calle de Augusto Lozano,23.
+Localidad/ Provincia: Pamplona.
+CP: 31618.
+Datos asistenciales.
+Fecha de nacimiento: 24/04/2015.
+País: España.
+Edad: 18 meses Sexo: M.
+Fecha de Ingreso: 29/10/2016.
+Servicio: Pediatria.
+Médico: Noelia Ulibarrena Ascarza  NºCol: 31 31 50012.
+Informe clínico del paciente: Mujer de 18 meses de edad que es llevada al servicio de Urgencias porque presenta un cuadro de 48 horas de evolución consistente en fiebre de 38'5o C axilar máxima, cojera, actitud antiálgica, dolor y limitación a la movilización pasiva y activa de cadera izquierda.
+Se completa estudio con analítica sanguínea que muestra elevación de reactantes de fase aguda (17.800 leucocitos con 53% neutrófilos, 433.000 plaquetas, VSG 55 mm/hora, PCR 9'56 mg/dL y PCT 1'5 ng/mL), hemocultivo que es negativo, radiografía ósea sin alteraciones y ecografía de caderas con distensión de cápsula articular y contenido ecogénico intraarticular.
+Ante la sospecha de artritis séptica de cadera izquierda se decide realizar artrocentesis en la que se obtiene un líquido sinovial purulento. Se envía muestra para bioquímica y cultivo y se inicia antibioterapia parenteral empírica con cefotaxima a 180 mg/kg y cloxacilina a 80 mg/kg. Los resultados del líquido sinovial son compatibles con artritis séptica y el cultivo del líquido articular es positivo para Haemophilus influenzae.
+Para determinar un posible fracaso vacunal, dado que la paciente estaba vacunada correctamente para su edad, se envía muestra al hospital de referencia para tipificar la bacteria, que resulta ser tipo f sensible a la cefotaxima. Tras una semana hospitalizada se realiza analítica con hemograma, recuento de serie blanca e inmunoglobulinas que son normales.
+Ante los resultados del cultivo y del antibiograma se suspende cloxacilina endovenosa y se continúa solamente con cefotaxima parenteral a las mismas dosis iniciales y vigilancia evolutiva del cuadro. Tras cumplir 10 días de antibioterapia endovenosa y 14 días de antibioterapia oral (con amoxicilina-clavulánico), la evolución ha sido satisfactoria (movilidad completa no dolorosa, sin cojera en la marcha y sin secuelas en técnicas de imagen realizadas con posterioridad al cumplimiento del tratamiento). La paciente permanece asintomática y sin secuelas a los 9 meses de seguimiento.
+Remitido por: Noelia Ulibarrena Ascarza Servicio de Pediatría Complejo Hospitalario de Navarra 31008 Pamplona E-mail: noeliauli@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="29" end="36" text="Beatriz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="49" end="60" text="Vega Macias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="67" end="74" text="9184594" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T17" start="87" end="113" text="Calle de Augusto Lozano,23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="137" end="145" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="151" end="156" text="31618" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="200" end="210" text="24/04/2015" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="218" end="224" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="232" end="240" text="18 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="247" end="248" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="268" end="278" text="29/10/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="309" end="334" text="Noelia Ulibarrena Ascarza" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="343" end="354" text="31 31 50012" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="386" end="391" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="395" end="403" text="18 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2406" end="2431" text="Noelia Ulibarrena Ascarza" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2454" end="2486" text="Complejo Hospitalario de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="2487" end="2492" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2493" end="2501" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2510" end="2531" text="noeliauli@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

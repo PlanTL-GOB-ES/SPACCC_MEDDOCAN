@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Ramón.
+Apellidos: Benitez Marañón.
+NHC: 7136383.
+NASS: 48 57180569 87.
+Domicilio: C/ República Argentina, 8, 5 D.
+Localidad/ Provincia: Huelva.
+CP: 21006.
+Datos asistenciales.
+Fecha de nacimiento: 07/07/1938.
+País de nacimiento: España.
+Edad: 77 años Sexo: H.
+Fecha de Ingreso: 09/11/2015.
+Médico: Diego Vicente Baz NºCol: 21 21 54789.
+Informe clínico del paciente: Varón de 77 años de edad, sin antecedentes de interés. Consulta por enrojecimiento de la piel en tercio superior del tórax y parte proximal de ambos miembros junto con debilidad muscular proximal en brazos y piernas, eritema en heliotropo en párpados y pápulas violáceas en los nudillos de ambas manos, de un mes de evolución. Se realiza analítica destacando creatinkinasa 736 UI, LDH 545 UI, urea 63 mg/dl, CA 19.9 64,1 U/ml. Electromiograma: Hallazgos compatibles con proceso miopático inflamatorio. Biopsia muscular: Cambios inflamatorios compatibles con dermatomiositis. Con el diagnóstico de dermatomiositis se inicia tratamiento con prednisona 60 mg/día y estudio: TAC toracoabdominal: Masa pancreática de 6 cm y lesiones hipodensas hepáticas. Punción-biopsia hepática: Adenocarcinoma. Se remite a Oncología. Tras 8 semanas de corticoides, sin mejoría de las lesiones cutáneas ni de la debilidad muscular, y ante el diagnóstico de adenocarcinoma pancreático en estadio IVB por metástasis hepáticas comenzamos tratamiento con gemcitabina 1250 mg/m2 días 1 y 8 cada 21. Tras 2 ciclos de tratamiento se documenta resolución completa de las lesiones cutáneas, normalización de las enzimas musculares y recuperación de la fuerza. Actualmente el paciente se mantiene asintomático tras 6 ciclos de tratamiento y con respuesta menor del 50% de su enfermedad de base.
+Responsable clínico: Dr. Diego Vicente Baz Unidad de Oncología Médica Hospital Juan Ramón Jiménez Avda. Ronda Norte, s/n E-21006 Huelva dvicentebaz@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="33" text="Ramón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="46" end="61" text="Benitez Marañón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="68" end="75" text="7136383" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="83" end="97" text="48 57180569 87" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="110" end="140" text="C/ República Argentina, 8, 5 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="164" end="170" text="Huelva" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="176" end="181" text="21006" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="225" end="235" text="07/07/1938" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="257" end="263" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="271" end="278" text="77 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="285" end="286" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="306" end="316" text="09/11/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="326" end="343" text="Diego Vicente Baz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="351" end="362" text="21 21 54789" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="394" end="399" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="403" end="410" text="77 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1784" end="1801" text="Diego Vicente Baz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1829" end="1856" text="Hospital Juan Ramón Jiménez" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1857" end="1879" text="Avda. Ronda Norte, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1880" end="1887" text="E-21006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1888" end="1894" text="Huelva" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1895" end="1915" text="dvicentebaz@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

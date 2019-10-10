@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Jimena.
+Apellidos: Martinez Ruenes.
+NHC: 208760.
+Domicilio: Calle Serrano, 28.
+Localidad/ Provincia: Madrid.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 19/01/2013.
+País: España.
+Edad:  3 años Sexo: H.
+Fecha de Ingreso: 02/02/2016.
+Servicio: Urgencias.
+Médico: Diego Rodríguez Álvarez NºCol: 28 28 67154.
+Informe clínico del paciente: Niña de tres años que acude a Urgencias tras la ingesta accidental tres horas antes de aproximadamente 45 ml de un jarabe antitusivo compuesto por la combinación de bromhidrato de dextrometorfano (2 mg/ml) y clorhidrato de pseudoefedrina (6 mg/ml).
+A su llegada se monitorizaron las constantes: presión arterial de 125/89 mmHg, frecuencia cardiaca de 97 lpm, frecuencia respiratoria de 28 rpm, saturación de oxígeno del 100% y temperatura de 36,5 °C. Peso: 13 kg. La exploración física fue normal.
+Se estimó una dosis ingerida de dextrometorfano de 90 mg (6,9 mg/kg) y de 270 mg (20,7 mg/kg) de pseudoefedrina. La paciente fue ingresada para su observación en la Unidad de Cuidados Intensivos ante el riesgo de aparición de posibles efectos secundarios cardiovasculares, anticolinérgicos y del sistema nervioso central.
+Durante las primeras 12 horas, la paciente presentó taquicardia sinusal leve (máximo de 130 lpm), asociada a presión arterial > P95, sin objetivarse otras anomalías del ritmo cardiaco. No mostró en ningún momento alteración en el nivel de conciencia. Fue dada de alta a las 24 horas.
+Remitido por: Dr. Diego Rodríguez Álvarez diegorodral@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T16" start="29" end="35" text="Jimena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T15" start="48" end="63" text="Martinez Ruenes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T14" start="70" end="76" text="208760" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T13" start="89" end="106" text="Calle Serrano, 28" TYPE="CALLE" comment=""/>
+    <LOCATION id="T12" start="130" end="136" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T11" start="142" end="147" text="28036" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T9" start="191" end="201" text="19/01/2013" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="209" end="215" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T7" start="224" end="230" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T5" start="237" end="238" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="258" end="268" text="02/02/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T3" start="299" end="322" text="Diego Rodríguez Álvarez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T1" start="330" end="341" text="28 28 67154" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="373" end="377" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="381" end="390" text="tres años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="1495" end="1518" text="Diego Rodríguez Álvarez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T17" start="1519" end="1540" text="diegorodral@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

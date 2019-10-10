@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre: Joel .
+Apellidos: Leon Aguilar .
+CIPA: nhc/19453.
+NASS: 33 4568642 23.
+Domicilio: Calle Padre José de Sosa, 22 - 1ª.
+Localidad/ Provincia: La palma.
+CP: 35001.
+NHC:19453.
+Datos asistenciales.
+Fecha de nacimiento: 13/01/1978.
+País: España.
+Edad: 40 Sexo: H.
+Fecha de Ingreso: 19/04/2018.
+Especialidad: urología.
+Médico:  José A. Hermida Pérez       NºCol: 35 35 16446.
+Motivo de ingreso: Disuria.
+Historia Actual: Paciente varón, de 40 años de edad, con antecedentes de salud. Acude a consulta de Urología por presentar disuria y 3 episodios de uretrorragia.
+Exploración física: Al examen físico las mucosas son húmedas y normocoloreadas, la auscultación cardio-respiratoria es normal, el abdomen es negativo, fosas lumbares libres, el tacto rectal, los genitales externos y las regiones inguinales son normales. 
+Resumen de pruebas complementarias: Se le realiza ecografía urológica que es normal. La cistouretroscopía es normal, sólo notándose un leve resalto al paso del cistoscopio por uretra anterior. Se le realiza radiografía de uretrocistografía miccional donde se observa un defecto de llenado a nivel de la uretra anterior.
+Por todo lo anterior decidimos realizar un estudio endoscópico bajo anestesia, detectándose una tumoración polipoide, de color rojiza, bien delimitada, por lo que se decide resección endoscópica de la misma. El resultado anatomopatológico de la pieza quirúrgica fue un papiloma invertido de uretra anterior. 
+Evolución y comentarios: Se da de alta por mejoría, evolucionando satisfactoriamente con desaparición de la disuria y la uretrorragia.
+Diagnóstico Principal: papiloma invertido de uretra anterior
+Remitido por: José A. Hermida Pérez Calle Manuel Gomez 35. 1F 38750 El Paso. La Palma. (España)
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="13" text="Joel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="27" end="39" text="Leon Aguilar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="52" end="57" text="19453" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="65" end="78" text="33 4568642 23" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="91" end="124" text="Calle Padre José de Sosa, 22 - 1ª" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="148" end="156" text="La palma" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="162" end="167" text="35001" TYPE="TERRITORIO" comment=""/>
+    <ID id="T16" start="173" end="178" text="19453" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="222" end="232" text="13/01/1978" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="240" end="246" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="254" end="256" text="40" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="263" end="264" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="284" end="294" text="19/04/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="329" end="350" text="José A. Hermida Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="364" end="375" text="35 35 16446" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="431" end="436" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="441" end="448" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1661" end="1682" text="José A. Hermida Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1683" end="1708" text="Calle Manuel Gomez 35. 1F" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1709" end="1714" text="38750" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1715" end="1722" text="El Paso" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1724" end="1732" text="La Palma" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="1735" end="1741" text="España" TYPE="PAIS" comment=""/>
+  </TAGS>
+</MEDDOCAN>

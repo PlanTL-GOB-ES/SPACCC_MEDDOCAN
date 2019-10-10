@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Fernando.
+Apellidos: Gomez Martin.
+NHC: 7843215.
+NASS:28 23964211 24.
+Domicilio: Calle portera del cura 19. 4 Izq..
+Localidad/ Provincia: Madrid.
+CP: 28038.
+Datos asistenciales.
+Fecha de nacimiento: 23/10/1972.
+País: España.
+Edad: 45 años  Sexo: H.
+Fecha de Ingreso: 31/01/2018.
+Médico: Jaime Jimenez Rubio  NºCol: 28 28 14554.
+Historia Actual: Varón de 45 años reanimado de una PCR tras un síndrome coronario agudo en la vía pública y trasladado al hospital con ausencia de reflejos salvo tusígeno y respiración espontánea. Tras el protocolo de hipotermia persistía la misma exploración, con edema cerebral generalizado objetivado en el TC craneal. Al tercer día de ingreso se informó a los familiares del mal pronóstico quienes, de forma espontánea, plantearon la donación. Se les informó de la necesidad de esperar hasta que evolucionase a muerte encefálica, lo que aceptaron.
+Al quinto día de ingreso continuaba la misma exploración neurológica. La familia expresó su deseo de no esperar a la muerte encefálica, pidiendo la retirada del soporte vital. Se les planteó la donación a través del protocolo de LTSV y asistolia controlada, dando su consentimiento.
+Fue trasladado a quirófano procediéndose a la extubación terminal. La asistolia se presentó a los 9 minutos de la extubación y una vez certificada la muerte se procedió a la laparotomía rápida, canulación y perfusión fría intraoperatoria. El TIC fue de 23 minutos. Se explantaron ambos riñones, desechándose los pulmones por broncoaspiración y el hígado por TIC en el límite.
+Remitido por: Dr. Jaime Jimenez Rubio. Correo electrónico: jrubio.hpth@salud.madrid.org Hospital Universitario La Paz, Paseo de la Castellana, 261, 28046 Madrid.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="17" text="Fernando" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="30" end="42" text="Gomez Martin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="49" end="56" text="7843215" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="63" end="77" text="28 23964211 24" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="90" end="122" text="Calle portera del cura 19. 4 Izq" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="147" end="153" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="159" end="164" text="28038" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="208" end="218" text="23/10/1972" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="226" end="232" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="240" end="247" text="45 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="255" end="256" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="276" end="286" text="31/01/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="296" end="315" text="Jaime Jimenez Rubio" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="324" end="335" text="28 28 14554" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="354" end="359" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="363" end="370" text="45 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="701" end="711" text="familiares" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="962" end="969" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1566" end="1585" text="Jaime Jimenez Rubio" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T7" start="1607" end="1635" text="jrubio.hpth@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T6" start="1636" end="1665" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1667" end="1694" text="Paseo de la Castellana, 261" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1696" end="1701" text="28046" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1702" end="1708" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

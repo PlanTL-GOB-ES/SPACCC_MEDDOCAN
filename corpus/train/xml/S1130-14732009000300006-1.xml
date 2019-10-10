@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sandra.
+Apellidos: Gago Mendoza.
+NHC: 4705651.
+NASS: 48 57238676 02.
+Domicilio: Paseo de Maradiaga, 33, 4 B.
+Localidad/ Provincia: Badajoz.
+CP: 06800.
+Datos asistenciales.
+Fecha de nacimiento: 21/01/1992.
+País de nacimiento: España.
+Edad:  26 años Sexo: M.
+Fecha de Ingreso: 21/06/2018.
+Médico: José Mª Ramírez-Moreno. NºCol: 06 06 87441.
+Informe clínico del paciente:  mujer de 26 años sin antecedentes neurológicos previos, asmática y en tratamiento con anticonceptivos orales, presenta un cuadro de cefalea holocraneal muy intensa acompañada de fotofobia, nauseas y vómitos sin fiebre de unas 24 horas de evolución, que se complica a la mañana siguiente de forma súbita con inestabilidad para la marcha y diplopia. Acude a urgencias de nuestro centro; en el examen neurológico presenta discreta rigidez nucal, oftalmoplejia internuclear derecha, Romberg tambaleante y lateropulsión izquierda en la marcha, siendo el resto normal. Se le práctica una tomografía axial computarizada objetivándose una lesión con densidad negativa (-20 a -67 Unidades Hounsfield) localizada en la región temporal así como múltiples imágenes ovulares diseminadas por las cisternas supraselares derechas, cuadrigéminas bilaterales, ángulo pontocerebeloso y asta frontal del ventrículo lateral izquierdo que se interpretan como partículas de grasa. Con la sospecha de meningitis química por ruptura de quiste dermoide se inicia tratamiento con dexametasona a dosis de 4 miligramos cada 12 horas. En la resonancia magnética cerebral realizada a los seis días del inicio de los síntomas se observa la masa extraparenquimatosa correspondiente al quiste en la región medial del polo temporal izquierdo que asciende ocupando la zona anterior de la cisterna perimesencefálica izquierda y diseminación de grasa en el espacio subaracnoideo; además se observa en la región paramedial del mesencéfalo una imagen hiperintensa en la secuencias potenciadas en T2 que se muestra hiperintensa en las secuencias en difusión e hipointensa en el mapa de ADC compatible con un infarto isquémico. Se completa la resonancia con secuencias en T1 y EGD con supresión grasa tras administración de gadolinio observándose las pequeñas partículas de grasa diseminadas en el espacio subaracnoideo; llama la atención el acúmulo graso en la cisterna interpeduncular en íntimo contacto con la parte distal de la basilar y la salida teórica de las ramas perforantes mediales mesencefálicas, arterias cerebelosas superiores y arterias cerebrales posteriores. En la figura 1 se muestra una composición con la neuroimagen mas representativa del caso. Tras el resultado de esta prueba se inicia tratamiento con ácido acetilsalicílico a dosis de 100 mg al día y se completó el estudio etiológico del ictus con analítica, hemograma, lipidograma, estudio de autoinmunidad, serología, hormonas tiroideas, homocisteina, anticuerpos anticardiolipina, B2-microglobulina, antifosfolípido, estudio de líquido cefalorraquídeo, electrocardiograma, duplex de troncos supraórticos, doppler transcraneal, test de burbujas, ecocardiografía transtorácica, holter de arritmias y angioresonancia de polígono de Willis; todas ellas con resultado normal o negativo.
+La cefalea respondió a la administración de dexametasona en menos de 48 horas y la oftalmoparesia e inestabilidad se resolvieron a los 10 días quedando la paciente asintomática. Se diagnosticó de infarto aislado anteromedial mesencefálico posiblemente secundario a vasoespamo de arterias perforantes paramedianas mesencefálicas en relación con la diseminación subaracnoidea del contenido graso de un quiste dermoide temporal roto. De acuerdo con la paciente, el servicio de Neurocirugía decidió actitud expectante y controles de neuroimagen seriados, dejando la cirugía electiva para el caso de que apareciera sintomatología por compresión tumoral.
+Responsable clínico: José Mª Ramírez-Moreno. Sección de Neurología. Complejo Hospitalario Universitario Infanta Cristina. Avenida de Elvas s/n. 06080 Badajoz.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="34" text="Sandra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="47" end="59" text="Gago Mendoza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="66" end="73" text="4705651" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="81" end="95" text="48 57238676 02" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="108" end="135" text="Paseo de Maradiaga, 33, 4 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="159" end="166" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="172" end="177" text="06800" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="221" end="231" text="21/01/1992" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="253" end="259" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="268" end="275" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="282" end="283" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="303" end="313" text="21/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="323" end="345" text="José Mª Ramírez-Moreno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="354" end="365" text="06 06 87441" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="398" end="403" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="407" end="414" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="3887" end="3909" text="José Mª Ramírez-Moreno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="3934" end="3986" text="Complejo Hospitalario Universitario Infanta Cristina" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="3988" end="4008" text="Avenida de Elvas s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="4010" end="4015" text="06080" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="4016" end="4023" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

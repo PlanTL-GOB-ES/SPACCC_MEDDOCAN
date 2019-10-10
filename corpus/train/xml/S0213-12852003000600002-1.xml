@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Bibiana Sofia.
+Apellidos: Montenegro Escobar.
+Domicilio: Cra. 8a #99-55.
+Localidad/ Provincia: Bogotá.
+CP: 110431.
+Datos asistenciales.
+Fecha de nacimiento: 21/09/1961.
+País: Colombia.
+Edad: 56 años Sexo: Mujer.
+Fecha de Ingreso: 01/12/2017.
+Médico: José Lizardo Ramón Vera.
+Historia Actual:Mujer de 56 años de edad con dolor leve e inconstante en hemiarcada superir derecha hace trece meses, pero que se ha agudizado en la última semana, haciendo pensar incorrectamente a la paciente que su origen estaba en ello molar superior derecho. En la inspección sólo se aprecia fisura mesio-distal de la corona del 1º premolar superior derecho.
+En la exploración radiográfica no hallamos nada. El tratamiento de urgencia fue: apertura cameral de dicho premolar y colocación de un medicamente en su interior (Cresophene, Septodont) tapado provisionalmente con un cemento (Cavit, Espe). La odontalgia desapareció y posteriormente se planificó hacer una endodoncia y colocación de una corona metal-porcelana de protección.
+Remitido por: Dr. José Lizardo Ramón Vera Calle 25 no 1g-89, Reinaldo Matiz, Bogotá Colombia. e-mail: jolira01@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="9" end="22" text="Bibiana Sofia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="35" end="53" text="Montenegro Escobar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="66" end="80" text="Cra. 8a #99-55" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="104" end="110" text="Bogotá" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="116" end="122" text="110431" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="166" end="176" text="21/09/1961" TYPE="FECHAS" comment=""/>
+    <DATE id="T15" start="184" end="192" text="Colombia" TYPE="FECHAS" comment=""/>
+    <AGE id="T14" start="200" end="207" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="214" end="219" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="239" end="249" text="01/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="259" end="282" text="José Lizardo Ramón Vera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="300" end="305" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="309" end="316" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T2" start="822" end="831" text="Septodont" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T1" start="880" end="884" text="Espe" TYPE="INSTITUCION" comment=""/>
+    <NAME id="T8" start="1040" end="1063" text="José Lizardo Ramón Vera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1064" end="1081" text="Calle 25 no 1g-89" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="1083" end="1097" text="Reinaldo Matiz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="1099" end="1105" text="Bogotá" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1106" end="1114" text="Colombia" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="1124" end="1144" text="jolira01@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

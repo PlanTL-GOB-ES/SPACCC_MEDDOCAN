@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Francisco Javier .
+Apellidos: Hidalgo Lopez .
+NHC: 21 60193837 34.
+NASS: 5637110 .
+Domicilio: Calle de Ibiza, 45, 7, E.
+Localidad/ Provincia: Madrid.
+CP: 28009.
+Datos asistenciales.
+Fecha de nacimiento: 05/12/1936.
+País de nacimiento: España.
+Edad: 72 años Sexo: H.
+Fecha de Ingreso: 26/10/2009.
+Servicio:.
+Episodio: 2788174.
+Médico: Antonio Alcántara Montero NºCol: 28 28 57620.
+Historia Actual: Varón de 72 años, con antecedentes personales de diabetes mellitus tipo 2 e hipercolesterolemia en tratamiento farmacológico, sin antecedentes familiares de interés ni intervenciones quirúrgicas previas. Ingresa remitido por su facultativo de Atención Primaria ante cuadro de tres semanas de evolución consistente en malestar general, sensación distérmica y dolor sordo en hipocondrio derecho. Niega alteraciones recientes en el tránsito intestinal, rectorragia o deposiciones de aspecto melénico. 
+Exploración física: En la exploración física sólo destaca una palpación abdominal discretamente dolorosa en hipocondrio derecho, sin identificarse visceromegalias. 
+Pruebas complementarias y evolución: Analíticamente presenta: leucocitos: 14,3 x 109/L (85% de neutrófilos); hemoglobina: 11,7 g/dL (VCM: 89,7 fL, HCM: 29,2 pg); LDH: 203 U/L; GOT: 71 U/L; GPT: 104 U/L; GGT: 311 U/L; fosfatasa alcalina: 526 U/L; bilirrubina total: 0,74 mg/dL. Las serologías para virus hepatotropos, Brucella y Equinococcus, así como los hemocultivos seriados y la determinación de marcadores tumorales, fueron negativos o en rangos normales. En la ecografía abdominal se identificó una lesión ocupante de espacio en lóbulo hepático derecho (8,5 x 6,8 cm), polilobulada, con áreas de aspecto quístico en su interior. Mediante tomografía computadorizada (TC) abdómino-pélvica con contraste se confirmó esta imagen, que presentaba zonas hipodensas con realce periférico, siendo en conjunto altamente sugerente de absceso hepático. La punción-aspiración con aguja fina obtuvo abundante material purulento, cuyo análisis citológico fue congruente con inflamación aguda de carácter inespecífico, sin evidencia de malignidad. El cultivo microbiológico y el estudio de parásitos en el aspirado fueron negativos. Tras la administración de antibioterapia de amplio espectro (ceftriaxona, metronidazol y gentamicina) y la implantación de drenaje percutáneo se obtuvo una favorable evolución clínica, con práctica remisión de la lesión en un control radiológico posterior. Con el fin de investigar posibles condiciones patogénicas subyacentes fue realizada una colonoscopia, que identificó una lesión exofítica próxima a la válvula ileocecal, sospechosa de malignidad; el estudio anatomopatológico confirmó el diagnóstico de adenocarcinoma de ciego. El estudio de extensión no reveló diseminación metastásica ni otras lesiones a nivel hepático, procediéndose a la realización de hemicolectomía derecha con posterior administración de quimioterapia adyuvante (capecitabina). El paciente permanece libre de enfermedad al cabo de 14 meses de seguimiento.
+Responsable clínico: Dr. Antonio Alcántara Montero. Hospital General Univesitario Gregorio Marañón Calle del Dr. Esquerdo, 46, 28007 Madrid. Correo Electrónico: a.alcantara.montero@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="44" text="Francisco Javier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="58" end="71" text="Hidalgo Lopez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="79" end="93" text="21 60193837 34" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="101" end="108" text="5637110" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="122" end="146" text="Calle de Ibiza, 45, 7, E" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="170" end="176" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="182" end="187" text="28009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="231" end="241" text="05/12/1936" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="263" end="269" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="277" end="284" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="291" end="292" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="312" end="322" text="26/10/2009" TYPE="FECHAS" comment=""/>
+    <ID id="T9" start="345" end="352" text="2788174" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T8" start="362" end="387" text="Antonio Alcántara Montero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="395" end="406" text="28 28 57620" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="425" end="430" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="434" end="441" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3072" end="3097" text="Antonio Alcántara Montero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3099" end="3145" text="Hospital General Univesitario Gregorio Marañón" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3146" end="3172" text="Calle del Dr. Esquerdo, 46" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3174" end="3179" text="28007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3180" end="3186" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3208" end="3239" text="a.alcantara.montero@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

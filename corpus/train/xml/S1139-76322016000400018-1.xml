@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Daniel.
+Apellidos: Perea Dominguez.
+NHC: 7842356.
+Domicilio: Calle Conde Duque,19, 3A.
+Localidad/ Provincia: Madrid.
+CP: 28001.
+Datos asistenciales.
+Fecha de nacimiento: 30/03/2017.
+País: España.
+Edad: 26 dias Sexo: H.
+Fecha de Ingreso: 25/04/2017.
+Médico: Jose Luis Fernandez Copado. NºCol: 28 28 93020.
+Informe clínico del paciente:Varón de 26 días de vida sin antecedentes familiares, prenatales o perinatales de relevancia. Hacia las tres semanas de vida comienza a presentar vómitos, que fueron en aumento, y el día previo a su ingreso se presentaron con cada toma, abundantes y en proyectil. El paciente se mostraba ávido por comer y con buen estado general.
+Al presentarse en el Departamento de Urgencias, se tuvo la sospecha clínica de estenosis hipertrófica de píloro, apoyada por una gasometría que mostraba alcalosis metabólica y un ultrasonido con imagen en diana característica. El paciente fue intervenido de forma abierta mediante la técnica de Ramstedt, sin incidencias. Antes del procedimiento el paciente fue intubado sin complicaciones.
+A las 14 horas de la cirugía se escucha por primera vez estridor de predominio inspiratorio, que no se modificaba con el sueño, la posición ni con la alimentación. Se reinterrogó a la madre, que negó haberlo escuchado antes. El paciente no presentaba ningún dato de dificultad respiratoria ni desaturación del oxígeno en la pulsioximetría.
+Dado que se trataba de un paciente previamente sano al que no se le había escuchado estridor antes, se sospechó que la intubación operatoria y el edema postraumático asociado pudieran ser la causa. Se administró nebulización con adrenalina y una dosis de dexametasona intravenosa. Tras dos horas, el estridor no se había modificado, y al continuar el paciente sin signos de dificultad respiratoria, se inició el abordaje de este problema.
+En una radiografía simple de tórax no se observaron anormalidades en el parénquima pulmonar, estructuras del cuello o columna de aire traqueal. Posteriormente, mediante una nasolaringoendoscopia flexible se comprobaron las estructuras supraglóticas y las cuerdas vocales íntegras, sin alteraciones morfológicas ni movimientos anormales. El siguiente paso fue la realización de una serie fluoroscópica con contraste oral, que demostró una muesca en la pared posterior del tercio superior del esófago. Durante ese tiempo el paciente no mostró cambios en su sintomatología. Tras la cirugía de píloro no había vuelto a presentar vómitos. En ningún momento presentó datos de dificultad respiratoria asociados al estridor.
+Días después se realizó una broncoscopia, en la que se observó una compresión extrínseca 2 cm por encima de la carina, pulsátil, que obstruía más del 50% de la luz de la tráquea y no se modificaba con presión positiva. Ante la fuerte sospecha de una malformación vascular que fuera responsable de la disminución del calibre traqueal, se realizó una angiografía por tomografía computarizada (angio-TC), en la que se pudo identificar un doble arco aórtico completo, con predominancia del arco derecho como causa de la constricción traqueal. La ecocardiografía fue normal.
+El paciente fue operado por medio de una cirugía de abordaje torácico lateral izquierdo que se realizó sin contratiempos.
+En las primeras horas posquirúrgicas se notó una importante disminución en la intensidad del ruido inspiratorio. Fue dado de alta y durante las siguientes semanas el estridor residual continuó disminuyendo. No volvió a presentar síntomas respiratorios ni digestivos, y en una consulta de seguimiento a dos meses de la cirugía el estridor terminó por desaparecer del todo.
+Remitido por: Dr. Jose Luis Fernandez Copado. Correo electrónico: a00799839@itesm.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="29" end="35" text="Daniel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="48" end="63" text="Perea Dominguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="70" end="77" text="7842356" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T16" start="90" end="114" text="Calle Conde Duque,19, 3A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="138" end="144" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="150" end="155" text="28001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="199" end="209" text="30/03/2017" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="217" end="223" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="231" end="238" text="26 dias" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="245" end="246" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="266" end="276" text="25/04/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="286" end="312" text="Jose Luis Fernandez Copado" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="321" end="332" text="28 28 93020" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="363" end="368" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="372" end="379" text="26 días" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T1" start="467" end="479" text="tres semanas" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T3" start="1269" end="1274" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="3663" end="3689" text="Jose Luis Fernandez Copado" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T2" start="3711" end="3730" text="a00799839@itesm.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

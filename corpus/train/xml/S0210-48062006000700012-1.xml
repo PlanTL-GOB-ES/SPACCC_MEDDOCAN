@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Jaime.
+Apellidos: Marín Requena.
+NHC: 8923454.
+NASS: 50 89454936 54.
+Domicilio: C/ Vicente del Bosque, 3, 2 B.
+Localidad/ Provincia: Zaragoza.
+CP: 50009.
+Datos asistenciales.
+Fecha de nacimiento: 08/09/1974.
+País de nacimiento: España.
+Edad: 38 años Sexo: H.
+Fecha de Ingreso: 05/05/2013.
+Servicio: Urología.
+Médico: Pedro Serrano Frago NºCol: 50 50 24103 .
+Informe clínico del paciente: Varón de 38 años que acude a urgencias de nuestro hospital por empeoramiento de la clínica miccional y fiebre de hasta 38ºC. Llevaba en tratamiento antibiótico con levofloxacino 5 días, por un diagnóstico mediante sedimento patológico y cortejo clínico de disuria y polaquiuria de prostatitis aguda, sin obtener urocultivo.
+Acude al hospital por mala evolución clínica con imposibilidad para la micción, dolor testicular bilateral y perineal y empeoramiento del estado general.
+A la exploración, se evidencia una temperatura de 38,6ºC, constantes vitales mantenidas y presencia de una tumefacción en la zona perineal con enrojecimiento y calor local. No se pudo realizar tacto rectal debido al intenso dolor que le produjo el intento.
+En las pruebas complementarias realizadas, se evidencia una leucocitosis: 18.000 leuc/mm3, piocitos en el sedimento de orina estando el resto de parámetros dentro de la normalidad.
+La prueba de imagen diagnostica llevada a cabo es una ecografía abdominal y transperineal, en las que se evidencia presencia de orina en vejiga y un absceso multiloculado prostático.
+Sin contraindicación general previa y bajo sedación se realiza de urgencia un drenaje percutáneo del absceso y colocación de un catéter suprapúbico. Se realiza una punción transperineal ecodirigida obteniendo contenido purulento y se deja "pig-tail" de 7 French como drenaje.
+Los cultivos del contenido purulento y de la orina salieron negativos, probablemente falseados por el antibiótico administrado previamente.
+La evolución del paciente fue favorable, disminuyendo el débito del "pig-tail" durante 24 horas y retirándose posteriormente. Encontrándose afebril y con micción uretral normal fue dado de alta comprobándose ecográficamente al mes la normalidad de la zona prostática.
+Responsable clínico: Dra. Pedro Serrano Frago Servicio de Urología Hospital Universitario Miguel Servet C/ Paseo Isabel la Católica 1-3 50009 Zaragoza E-mail: pserranof@comz.org
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="33" text="Jaime" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="46" end="59" text="Marín Requena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="66" end="73" text="8923454" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="81" end="95" text="50 89454936 54" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="108" end="137" text="C/ Vicente del Bosque, 3, 2 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="161" end="169" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="175" end="180" text="50009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="224" end="234" text="08/09/1974" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="270" end="277" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="284" end="285" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="305" end="315" text="05/05/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="345" end="364" text="Pedro Serrano Frago" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="372" end="383" text="50 50 24103" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="416" end="421" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="425" end="432" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2225" end="2244" text="Pedro Serrano Frago" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2266" end="2302" text="Hospital Universitario Miguel Servet" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2303" end="2334" text="C/ Paseo Isabel la Católica 1-3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2335" end="2340" text="50009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2341" end="2349" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2358" end="2376" text="pserranof@comz.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

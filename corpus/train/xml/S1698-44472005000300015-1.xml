@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Alma.
+Apellidos: Guerrero Vicente.
+NHC: 4965446.
+NASS: 85 46563374 03.
+Domicilio: Calle Vargas, 55, 7 C.
+Localidad/ Provincia: Santander, Cantabria.
+CP: 39010.
+Datos asistenciales.
+Fecha de nacimiento: 02/08/1971.
+País: España.
+Edad: 42 años Sexo: M.
+Fecha de Ingreso: 27/10/2014.
+Servicio: Cirugía Maxilofacial.
+Médico: Guadalupe Corchero Martín NºCol: 39 39 63147.
+Motivo de ingreso: molestias en la ATM derecha.
+Historia Actual: Mujer de 42 años de edad que acude a la consulta del Servicio de Cirugía Maxilofacial del Hospital Universitario Marqués de Valdecilla en Santander (España) por molestias en la articulación témporomandibular (ATM) derecha de varios días de evolución.
+La paciente relata chasquidos de ATM derecha de años de evolución sin más clínica acompañante.
+Exploración física: A la exploración física no se observan anomalías dento esqueléticas. Presentaba una máxima apertura oral sin dolor (MAO) de 45 mm, chasquido de ATM recíproco (al inicio de apertura y al final del cierre).Laterodesviación y protrusión mayor de 10 mm. Dolor selectivo a la palpación de masétero y pterigoideos derechos.
+Pruebas complementarias: Se realiza una radiografía panorámica en la que se objetiva la duplicación condilar izquierda.
+La resonancia magnética nuclear (RMN ) de ambas ATM demostró la presencia de desplazamiento anterior del disco que se reducía a la apertura en ATM derecha. En la ATM izquierda llamaba la atención la morfología del cóndilo: bifidez anteroposterior y presencia de derrame articular grado II. Para completar el estudio de imagen se solicitó una tomografía computerizada (TC) de ambas ATMs en la que se confirmaba la existencia de cóndilo bífido izquierdo anteroposterior sin evidencia de cambios degenerativos.
+Evolución y comentarios: La paciente fue tratada con tratamiento conservador mediante férula de descarga, relajantes musculares, antiinflamatorios, calor local y dieta blanda. Con éste tratamiento mejoró clínicamente y en la actualidad es seguida en revisiones rutinarias en consultas externas de nuestro servicio.
+Las consultas se realizarán cada 3 meses, siendo la primera 2 semanas después del alta, deberá llamar para cita previa al teléfono de atención y citas previas del hospital 942 56 21 60
+Remitido por: Dra. Guadalupe Corchero Martín. Hospital Universitario Marqués de Valdecilla Avda. Valdecilla, 25, 39008 Santander, Cantabria. Teléfono:942202528 Fax:942202726 E-mail:guacorch@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T30" start="28" end="32" text="Alma" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T29" start="45" end="61" text="Guerrero Vicente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T28" start="68" end="75" text="4965446" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T27" start="83" end="97" text="85 46563374 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T26" start="110" end="131" text="Calle Vargas, 55, 7 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T25" start="155" end="164" text="Santander" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T24" start="166" end="175" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T23" start="181" end="186" text="39010" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T21" start="230" end="240" text="02/08/1971" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T22" start="248" end="254" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T19" start="262" end="269" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T17" start="276" end="277" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T20" start="297" end="307" text="27/10/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T15" start="349" end="374" text="Guadalupe Corchero Martín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="382" end="393" text="39 39 63147" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T16" start="460" end="465" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T18" start="469" end="476" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T12" start="550" end="594" text="Hospital Universitario Marqués de Valdecilla" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T11" start="598" end="607" text="Santander" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T10" start="609" end="615" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T9" start="2259" end="2271" text="942 56 21 60" TYPE="NUMERO_TELEFONO" comment=""/>
+    <NAME id="T14" start="2291" end="2316" text="Guadalupe Corchero Martín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="2318" end="2362" text="Hospital Universitario Marqués de Valdecilla" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="2363" end="2383" text="Avda. Valdecilla, 25" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="2385" end="2390" text="39008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2391" end="2400" text="Santander" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2402" end="2411" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="2422" end="2431" text="942202528" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T2" start="2436" end="2445" text="942202726" TYPE="NUMERO_FAX" comment=""/>
+    <CONTACT id="T1" start="2453" end="2470" text="guacorch@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

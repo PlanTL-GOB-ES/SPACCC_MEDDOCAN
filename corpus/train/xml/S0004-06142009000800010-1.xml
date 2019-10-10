@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Arturo.
+Apellidos: Gomez Romero.
+NHC: 7803564.
+NASS: 70 47345026 05.
+Domicilio: Calle Estrella, 27.
+Localidad/ Provincia: Madrid.
+CP: 28822.
+Datos asistenciales.
+Fecha de nacimiento: 15/03/1977.
+País: España.
+Edad: 41 años Sexo: H.
+Fecha de Ingreso: 31/05/2018.
+Servicio: Urologia.
+Médico:  Luís Miguel Herranz Fernández  NºCol: 28 28 68903.
+Informe clínico del paciente: Varón de 41 años con antecedentes de alergia a penicilinas, hipertensión arterial en tratamiento médico y psoriasis que acude a nuestra consulta por hematuria. Se realizan citologías de orina con atipias sugestivas de malignidad y ecografía abdominal donde se visualiza una masa vesical en cara lateral izquierda de 65x46 mm que produce una ureterohidronefrosis izquierda.
+Ante estos hallazgos se somete al paciente a una RTU de vejiga resecándose una masa de aspecto infiltrante que ocupa toda la cara lateral izquierda y que no deja ver el orificio ureteral. También se coloca una nefrostomía izquierda. La anatomía patológica de dicha masa fue carcinoma urotelial indiferenciado infitrante de vejiga. Ante este cuadro se realiza un estudio de extensión con TAC toracoabdominal normal, gammagrafía ósea normal y pielografía retrógrada izquierda que objetivó una ureterohidronefrosis hasta su entrada en vejiga sin verse masa dentro de la luz ureteral.
+Al ser el estudio de extensión negativo se realizó una cistoprostatectomia radical con derivación tipo Bricker. La anatomía patológica fue de carcinoma urotelial sólido de alto grado que infiltraba la grasa perivesical, próstata y uretra con bordes quirúrgicos libres de tumor. Se visualizan en vasos peritumorales células neoplásicas en la luz vascular. En cadena iliobturatriz izquierda ganglios infiltrados por carcinoma urotelial (pT4aN1M0). En el postoperatorio el paciente presenta episodios recurrentes de anemia y trombopenia que no mejoraban a pesar de transfundir hematíes y plaquetas. La función renal permaneció normal y el funcionamiento del bricker fue correcto desde el inicio. A los 5 días el paciente inicio tolerancia con éxito. Ante los cuadros aislados de anemia (en torno a 7 gr/dl de hemoglobina) y trombopenia (alrededor de 20000 plaquetas/ml) se realizó TAC abdominal donde no se objetivaron hematomas y el débito de los drenajes fue escaso desde el primer momento, descartando sangrado activo. Se retiró la enoxaparina para evitar causas farmacológicas de trombopenia. La coagulación fue siempre normal y no hubo signos de sangrado, descartándose una coagulación intravascular diseminada (CID). También se descartó un cuadro hemolítico al tener la bilirrubina normal y test de Coombs directo negativo. Al no encontrarse la causa de los episodios recurrentes de anemia y trombopenia se realizó una punción-aspiración esternal de médula ósea obteniéndose células metastásicas de carcinoma urotelial. Al descubrir la infiltración de la médula ósea por el tumor de vejiga se realizó tratamiento hemoterápico sustitutivo y se inició tratamiento quimioterápico, falleciendo el paciente 3 semanas después.
+Remitido por: Dr. Luís Miguel Herranz Fernández Servicio de Urología Hospital del Henares Avda. Marie Curie s/n 28822 Coslada. Madrid (España). luismiguel.her@terra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="29" end="35" text="Arturo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="48" end="60" text="Gomez Romero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="67" end="74" text="7803564" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="82" end="96" text="70 47345026 05" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="109" end="127" text="Calle Estrella, 27" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="151" end="157" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="163" end="168" text="28822" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="212" end="222" text="15/03/1977" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="230" end="236" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="244" end="251" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="258" end="259" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="279" end="289" text="31/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="320" end="349" text="Luís Miguel Herranz Fernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="358" end="369" text="28 28 68903" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="401" end="406" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="410" end="417" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3097" end="3126" text="Luís Miguel Herranz Fernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3148" end="3168" text="Hospital del Henares" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="3169" end="3190" text="Avda. Marie Curie s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3191" end="3196" text="28822" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3197" end="3204" text="Coslada" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3206" end="3212" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3214" end="3220" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3223" end="3246" text="luismiguel.her@terra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

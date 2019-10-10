@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Pedro.
+Apellidos: Somarriba Guillén .
+NHC: 5289671.
+NASS: 84 67892376 01.
+Domicilio: C/ Pavones, 27, 3 D.
+Localidad/ Provincia: Madrid .
+CP: 28026.
+Datos asistenciales.
+Fecha de nacimiento: 21/07/1955.
+País de nacimiento: España.
+Edad: 55 años Sexo: H.
+Fecha de Ingreso: 14/09/2010.
+Médico: Cristina Sangrador Pelluz  NºCol: 28 28 21015 .
+Informe clínico del paciente: Varón de 55 años diagnosticado en 2006 de LLC que recibió tratamiento inmunoquimioterápico en 2008 con Rituximab-Ciclofosfamida-Fludarabina alcanzando respuesta parcial. En 2011 se evidenció progresión de enfermedad e inició tratamiento de segunda línea con Rituximab 375mg/m2 día 1 del ciclo y Bendamustina 90 mg/m2 días 1 y 2 cada 28 días. Transcurridas 4 horas de la administración del día 1 del segundo ciclo inmunoquimioterápico, el paciente acudió a Urgencias presentando sensación distérmica, fiebre de 38oC y reacción urticariforme con prurito y eritrodermia descamativa en más del 50% de la superficie corporal que persistió 15 días. Se decidió la realización de pruebas cutáneas con bendamustina ante la posibilidad de que se tratase de una reacción alérgica a dicho citostático. La solución madre utilizada fue bendamustina 2,5mg/ml, realizándose diluciones 1/10, 1/100, 1/1000 y 1/10000 para administración intradérmica.
+Dada la buena tolerancia previa al rituximab durante 6 ciclos, se asoció la reacción cutánea a la bendamustina. La toxicodermia fue clasificada de grado 4 según la Common Toxicity Criteria (versión 4.0)9 y notificada mediante la tarjeta amarilla al Sistema Español de Farmacovigilancia. Las pruebas cutáneas realizadas resultaron negativas para todas las diluciones. Sin embargo, tras la valoración del beneficio/riesgo entre la gravedad de la toxicodermia y el potencial beneficio del tratamiento con bendamustina, se decidió elaborar un PD para la administración de los siguientes ciclos de bendamustina.
+El PD consistió en 12 etapas para la administración de la dosis total del fármaco (186,3mg). El protocolo consistió en ir aumentando de forma progresiva la velocidad de infusión y la concentración del fármaco, hasta alcanzar la dosis terapéutica total. Se prepararon 3 soluciones A, B, y C de las diluciones 1/100, 1/10 y 1/1 respectivamente. Cada una de las soluciones se utilizó durante cuatro pasos, incrementando la velocidad de infusión cada quince minutos, de manera que con cada paso se administraba el doble que en el paso anterior. En el último paso se mantuvo la velocidad constante hasta completar la administración de la dosis total definida. En la tabla 1 se resumen las soluciones y el esquema de administración del protocolo de desensibilización.
+La administración se realizó en la planta de Hematología bajo supervisión médica, con una duración total de 5 horas y 37 minutos. El paciente recibió 6 ciclos de inmunoquimioterapia con bendamustina mediante dicho PD con discreto prurito cutáneo pero sin complicaciones graves.
+Responsable clínico: Dra. Cristina Sangrador Pelluz E-mail: sangrador_cri@gva.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="33" text="Pedro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="46" end="63" text="Somarriba Guillén" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="71" end="78" text="5289671" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="86" end="100" text="84 67892376 01" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="113" end="132" text="C/ Pavones, 27, 3 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="156" end="162" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="169" end="174" text="28026" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="218" end="228" text="21/07/1955" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="250" end="256" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="264" end="271" text="55 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="278" end="279" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="299" end="309" text="14/09/2010" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="319" end="344" text="Cristina Sangrador Pelluz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="353" end="364" text="28 28 21015" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="397" end="402" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="406" end="413" text="55 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T5" start="431" end="435" text="2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T4" start="491" end="495" text="2008" TYPE="FECHAS" comment=""/>
+    <DATE id="T3" start="570" end="574" text="2011" TYPE="FECHAS" comment=""/>
+    <OTHER id="T2" start="1559" end="1615" text="tarjeta amarilla al Sistema Español de Farmacovigilancia" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3003" end="3028" text="Cristina Sangrador Pelluz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3037" end="3057" text="sangrador_cri@gva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

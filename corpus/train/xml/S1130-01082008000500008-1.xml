@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Fernando.
+Apellidos: López Franco.
+NHC: 798246.
+NASS: 78 14651695 54.
+Domicilio: Calle San Francisco, 9 2C.
+Localidad/ Provincia: Cádiz.
+CP: 11004.
+Datos asistenciales.
+Fecha de nacimiento: 23/10/1948.
+País: España.
+Edad: 69 años Sexo: H.
+Fecha de Ingreso: 04/04/2018.
+Médico: Pedro Martínez-García NºCol: 11 11 54263.
+Historia del paciente: Varón de 69 años, bebedor y fumador severo, operado en 1985 de un carcinoma epidermoide de suelo de boca y lengua realizándose una hemimandibulectomía con disección radical del cuello izquierdo. En 1996 se procedió a la reconstrucción con injerto libre de cresta iliaca y barra de titanio. En 1999 fue sometido a una laringuectomía total suprahioidea por un nuevo carcinoma epidermoide de laringe con metástasis supraclavicular izquierda (T4N1M0). El cierre del faringostoma se realizó usando un colgajo dermo-platismo-fascial de Herrmann. Posteriormente recibió tratamiento radioterápico con cobalto-60 sobre el lecho quirúrgico y las cadenas cervicales supraclaviculares bilaterales. En julio de 2006 presentó una recidiva de su carcinoma de cavidad oral, tratada quirúrgicamente con resección del muñón de base de lengua y reconstrucción con colgajo miocutáneo pectoral izquierdo. En noviembre de 2006 ingresó por la aparición de disfagia, que le condicionaba una incapacidad total para la alimentación oral y provocó secundariamente una desnutrición severa. Se intentó reiteradamente la colocación una sonda nasogástrica, sin éxito. Se realizó una nasofibroscopia en la que se objetivó una estenosis faringoesofágica infranqueable de aspecto benigno. Se solicitó entonces una endoscopia oral que demostró una zona estenótica de aspecto fibroso en la unión faringoesofágica, asociada a un importante crecimiento piloso en la faringe por inversión de la piel en la cirugía previa, pero sin datos de recidiva tumoral local. La estenosis esofágica resultó infranqueable al endoscopio, por lo que se procedió a la colocación de una gastrostomía quirúrgica según técnica de Witzel. Actualmente el paciente mantiene un adecuado estado nutricional y no existen datos de nueva recidiva tumoral.
+Remitido por: Dr. Pedro Martínez-García. Instituto de Medicina Legal. C/ Sánchez Barcaiztegui nº 3- 2º. 11071 Cádiz. Tfno: 956 203 145 y 956 203 146.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T28" start="9" end="17" text="Fernando" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T27" start="30" end="42" text="López Franco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T26" start="49" end="55" text="798246" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="63" end="77" text="78 14651695 54" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T24" start="90" end="115" text="Calle San Francisco, 9 2C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T23" start="139" end="144" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T22" start="150" end="155" text="11004" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T21" start="199" end="209" text="23/10/1948" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="217" end="223" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="231" end="238" text="69 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="245" end="246" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T20" start="266" end="276" text="04/04/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="286" end="307" text="Pedro Martínez-García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="315" end="326" text="11 11 54263" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="351" end="356" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="360" end="367" text="69 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T19" start="406" end="410" text="1985" TYPE="FECHAS" comment=""/>
+    <DATE id="T18" start="549" end="553" text="1996" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="644" end="648" text="1999" TYPE="FECHAS" comment=""/>
+    <DATE id="T17" start="1040" end="1053" text="julio de 2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T16" start="1238" end="1255" text="noviembre de 2006" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="2159" end="2180" text="Pedro Martínez-García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2182" end="2209" text="Instituto de Medicina Legal" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="2211" end="2243" text="C/ Sánchez Barcaiztegui nº 3- 2º" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2245" end="2250" text="11071" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2251" end="2256" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2264" end="2275" text="956 203 145" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="2278" end="2289" text="956 203 146" TYPE="NUMERO_TELEFONO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

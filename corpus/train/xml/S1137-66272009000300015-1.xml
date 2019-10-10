@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Silvia.
+Apellidos: Pinal Guzman.
+NHC: 8034756 .
+NASS: 34 856758 37.
+Domicilio: C/ Aviacion Española, 13.
+Localidad/ Provincia: Barañain.
+CP: 31010.
+Datos asistenciales.
+Fecha de nacimiento: 04/08/1981.
+País: España.
+Edad: 36 años Sexo: M.
+Fecha de Ingreso: 28/05/2018.
+Médico: Rocío Milena Pabón Meneses NºCol: 31 31 25230.
+Informe clínico del paciente: Mujer de 36 años, sin antecedentes, que inicia con parestesias en dedo pulgar de la mano derecha seguidas, 2 días después, de debilidad para el movimiento de pinza. Dos días más tarde, aparece paresia para la dorsiflexión del pie izquierdo y parestesias dolorosas en el dorso del mismo. Fue ingresada al cabo de una semana del inicio la semana de evolución, observandose paresia grado 3 en la escala del Medical Research Council (MRC) del oponente y del abductor corto del pulgar (ACP) derechos y grado 4 MRC de los músculos dependientes del ciático poplíteo externo (CPE) izquierdo junto con hipoestesia táctil y dolorosa en primer y segundo dedos de la mano derecha y en dorso del pie izquierdo. Mostraba un buen estado general sin fiebre, lesiones cutáneas ni adenopatías. Cinco días después de su ingreso aparecen nuevas alteraciones neurológicas consistentes en paresia grado 3 MRC de deltoides y de tríceps braquial izquierdo y parestesias en cara externa del brazo izquierdo y ambas pantorrillas.
+Los estudios complementarios realizados incluyeron velocidad de sedimentación globular (VSG), hemograma, bioquímica elemental de sangre y orina, estudio de liquido cefalorraquídeo (LCR), estudio de coagulación que incluyó plaquetas, volumen plaquetar medio, tiempo de protrombina, Ratio Internacional Normalizada (INR) y fibrinógeno, proteinograma, inmunoglobulinas, fracciones C3 y C4 del complemento, crioglobulinas, anticuerpos antinucleares (ANA), anticuerpos anti citoplasma del neutrófilo (ANCA), anticuerpos anticardiolipina IgG e IgM y antigangliósidos GM1 y GD1b, factor reumatoide, serología a lúes (RPR), Borrelia burgdorferi y hepatitis B y C, Mantoux, electrocardiograma (ECG), radiografía de tórax, resonancia magnetica (RM) cerebral, torácica y abdominal. Los hallazgos de estas exploraciones resultaron dentro del rango de la normalidad.
+Durante el ingreso se realizan dos estudios neurofisiológicos que se detallan en la tabla 1. El primero realizado a los 9 días del inicio de los síntomas, destacó la ausencia de potencial motor (PM) del CPE izquierdo y una reducción de la amplitud del PM del mediano derecho con estímulos en muñeca, codo y axila respecto a la del obtenido con estimulación palmar. El electromiograma (EMG) del ACP derecho mostraba un patrón de máximo esfuerzo simple con escasos potenciales de unidad motora (PUMs) de características normales y sin actividad espontánea. En el tibial anterior (TA) izquierdo no se registro actividad espontánea ni voluntaria. En el segundo estudio realizado a los 15 días de evolución, se objetivaron cambios en la conducción sensitiva de varios nervios, que previamente no habían mostrado alteraciones. Éstos incluyeron, reducción de la amplitud del potencial sensitivo del nervio peroneal superficial izquierdo, ausencia de respuestas sensitivas en los nervios surales y en el mediano derecho al estímular en tercer dedo y disminución de la amplitud de los obtenidos desde primer y segundo dedos. Como en el primer estudio, no se obtuvo PM del CPE izquierdo. La amplitud de los PMs del mediano derecho estaba reducida, incluyendo la correspondiente a la estimulación en la palma, que había disminuido respecto a la del estudio previo. En el EMG se registró actividad espontánea en forma de fibrilaciones y ondas positivas, abundantes en el ACP derecho y escasas en TA y pedio izquierdos. Como en el estudio anterior, el reflejo H y las ondas F de cubitales, tibiales posteriores, mediano izquierdo y CPE derecho fueron normales y no se observaron bloqueos proximales de la conducción motora en el mediano izquierdo y en ambos cubitales, obteniéndose valores normales hasta punto de Erb.
+Se realizó una biopsia del nervio sural izquierdo, que mostró degeneración axonal e infiltrado inflamatorio perivascular compatible con infarto por vasculitis.
+Se instauró tratamiento con 60 mg/día de prednisona, con mejoría subjetiva de la debilidad muscular y de las parestesias dolorosas. Posteriormente se redujo gradualmente la dosis de prednisona. A los 9 meses, 45 mg a días alternos, mejoría de parestesias en las extremidades inferiores y de fuerza proximal en la extremidad superior izquierda. Persistía déficit sensitivomotor en la mano derecha y paresia marcada en territorio del CPE izquierdo. Un tercer estudio neurofisiológico realizado a los 9 meses no mostro cambios significativos respecto al anterior, excepto la reaparición del potencial sensitivo de baja amplitud en el nervio sural derecho. En el EMG persistía moderada actividad espontánea en ACP derecho y TA izquierdo, con patrones de máximo esfuerzo marcadamente deficitarios y PUMs con signos de reinervación activa, irregulares (polifásicos y politurns) e inestables.
+Remitido por: Rocío Milena Pabón Meneses Servicio de Neurofisiología Clínica Hospital Virgen del Camino Ronda Cendea de Zizur, 58-2ºC 31010 Barañain. Navarra Tfno.+34679802102 E-mail: drarociomilena@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="29" end="35" text="Silvia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="48" end="60" text="Pinal Guzman" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="67" end="74" text="8034756" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="83" end="95" text="34 856758 37" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="108" end="132" text="C/ Aviacion Española, 13" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="156" end="164" text="Barañain" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="170" end="175" text="31010" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="219" end="229" text="04/08/1981" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="237" end="243" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="251" end="258" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="265" end="266" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="286" end="296" text="28/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="306" end="332" text="Rocío Milena Pabón Meneses" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="340" end="351" text="31 31 25230" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="383" end="388" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="392" end="399" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="5107" end="5133" text="Rocío Milena Pabón Meneses" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="5162" end="5196" text="Clínica Hospital Virgen del Camino" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="5197" end="5226" text="Ronda Cendea de Zizur, 58-2ºC" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="5227" end="5232" text="31010" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="5233" end="5241" text="Barañain" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="5243" end="5250" text="Navarra" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="5257" end="5268" text="34679802102" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="5277" end="5303" text="drarociomilena@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

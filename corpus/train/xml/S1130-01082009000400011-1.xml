@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Ruth.
+Apellidos: Silgado Paz .
+NHC: 789235.
+NASS: 36 97867654 17.
+Domicilio: Calle San Antonio, 39 4G.
+Localidad/ Provincia: Albacete.
+CP: 02001.
+Datos asistenciales.
+Fecha de nacimiento: 19/07/1963.
+País: España.
+Edad: 54 años Sexo: M.
+Fecha de Ingreso: 14/02/2018.
+Médico:Amparo Manzano Juárez NºCol: 02 02 58230.
+Informe Clínico:  Mujer de 54 años de edad que acude al Servicio de Urgencias por un cuadro de 5 días de dolor progresivo de inicio en fosa iliaca derecha, asociado a hiporexia y sin alteraciones del tránsito intestinal, clínica miccional ni traumatismos previos locales. Entre sus antecedentes presenta hipertensión arterial y diabetes mellitus no insulinodependiente tratadas con enalapril y ácido acetil salicílico. A la exploración, presenta el abdomen distendido, doloroso a nivel de fosa ilíaca derecha sin signos de irritación peritoneal. La analítica no presentaba alteraciones salvo una elevación de los reactantes de fase aguda (fibrinógeno 811 mg/dl y PCR 12 mg/dl). La tomografía computerizada (TC) mostró una masa de 4 x 3 x 5 cm adyacente a polo cecal con un apéndice de 8 mm, a valorar una apendicitis aguda frente a un proceso neoformativo complicado. Se empleó de inicio un abordaje laparoscópico hallando un hematoma con efecto masa a nivel de ciego y líquido libre sanguinolento, por lo que se decide la reconversión y realización de una hemicolectomía derecha con un postoperatorio sin incidencias. La anatomía patológica fue informada como una zona de extravasación hemática a nivel de tejidos subserosos de ciego con focos de abscesificación sin signos histológicos de malignidad.
+Remitido por: Dra. Amparo Manzano Juárez. C/ Jacinto Benavente 19, 4o V. C.P. 02400. Hellín (Albacete). España. Correo electrónico: ampamanjua@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="13" text="Ruth" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="26" end="37" text="Silgado Paz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="45" end="51" text="789235" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="59" end="73" text="36 97867654 17" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="86" end="110" text="Calle San Antonio, 39 4G" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="134" end="142" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="148" end="153" text="02001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="197" end="207" text="19/07/1963" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="215" end="221" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="229" end="236" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="243" end="244" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="264" end="274" text="14/02/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="283" end="304" text="Amparo Manzano Juárez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="312" end="323" text="02 02 58230" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="343" end="348" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="352" end="359" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1647" end="1668" text="Amparo Manzano Juárez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T1" start="1670" end="1699" text="C/ Jacinto Benavente 19, 4o V" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="1706" end="1711" text="02400" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="1713" end="1719" text="Hellín" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1721" end="1729" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1732" end="1738" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="1760" end="1782" text="ampamanjua@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

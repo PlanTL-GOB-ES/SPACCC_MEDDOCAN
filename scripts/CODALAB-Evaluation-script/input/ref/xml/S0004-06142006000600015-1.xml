@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre: Marc.
+Apellidos:  Garcia Prieto.
+CIPA: 270058.
+NASS: 27 2226350 05.
+Domicilio: Av. Litoral, 30, 1C .
+Localidad/ Provincia: Barcelona.
+CP: 08005.
+NHC: 270058.
+Datos asistenciales.
+Fecha de nacimiento: 27-10-1968.
+País: España.
+Edad: 47 Sexo: H.
+Fecha de Ingreso: 13-12-2015.
+Especialidad: andrología.
+Médico:  Anna Bujons Tur       NºCol: 08 08 76541.
+Antecedentes: sin antecedentes patológicos de interés ni hábitos tóxicos.
+Historia Actual: Paciente varón de 47 años de edad,  acude a la consulta de andrología por presentar erecciones prolongadas no dolorosas de aproximadamente 4 años de evolución tras traumatismo perineal cerrado con el manillar de una bicicleta.
+Exploración física:En la exploración física se observan cuerpos cavernosos aumentados de consistencia, no dolorosos a la palpación, sin palpar pulsos anómalos. Sensibilidad peneana conservada. Testes móviles en ambas bolsas escrotales y sin alteraciones.
+Resumen de pruebas complementarias: Como exploraciones complementarias se le realiza ecodoppler penenano: vascularización cavernosa derecha aparentemente conservada; en la porción más proximal del cuerpo cavernoso izquierdo se observa formación anecoica (2x1.8x1.5cm) con flujo turbulento en su interior compatible con fístula arteriovenosa (FAV) de larga duración.
+Evolución y comentarios: Con la orientación diagnóstica de Priapismo de alto flujo se decide realización de Arteriografía pudenda con anestesia local confirmándose FAV y posterior embolización de la misma mediante 2 coil 3x5. Tras la embolización el paciente evoluciona favorablemente con detumecencia peneana completa y erecciones normales. Actualmente está asintomático.
+Diagnóstico Principal: Priapismo
+Remitido por: Anna Bujons Tur Calle Joaquim Folguera, 3 - 5º 2ª 08022 Barcelona. abujons@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="13" text="Marc" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="27" end="40" text="Garcia Prieto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="48" end="54" text="270058" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="62" end="75" text="27 2226350 05" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="88" end="107" text="Av. Litoral, 30, 1C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="132" end="141" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="147" end="152" text="08005" TYPE="TERRITORIO" comment=""/>
+    <ID id="T15" start="159" end="165" text="270058" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="209" end="219" text="27-10-1968" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="227" end="233" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="241" end="243" text="47" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="250" end="251" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="271" end="281" text="13-12-2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="318" end="333" text="Anna Bujons Tur" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="347" end="358" text="08 08 76541" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="460" end="465" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="469" end="476" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="1719" end="1734" text="Anna Bujons Tur" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="1735" end="1768" text="Calle Joaquim Folguera, 3 - 5º 2ª" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1769" end="1774" text="08022" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1775" end="1784" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1786" end="1803" text="abujons@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

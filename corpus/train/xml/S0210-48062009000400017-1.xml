@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Juan .
+Apellidos: Martin Ramos.
+NASS: 78 64231565 21.
+Domicilio: Carrer de Móra de Rubiols, 3, 8C.
+Localidad/ Provincia: Valencia.
+CP: 46001.
+NHC: 4613567.
+Datos asistenciales.
+Fecha de nacimiento: 01/06/1956.
+País: España.
+Edad: 61 años Sexo: H .
+Fecha de Ingreso: 05/10/2017.
+Servicio: radiodiagnóstico.
+Médico: Paula Bartumeus Martínez  NºCol: 46 46 94235.
+Historia Actual: Varón de 61 años, con antecedente de resección transuretral (RTU) por neoplasia vesical de células transicionales superficial de alto grado (pT1 G3), con posterior recidiva de bajo grado, que presenta los siguientes antecedentes de interés: fumador de más de 1 paquete/día, HTA, EPOC severo y miocardiopatía dilatada.
+En seguimiento por su neoplasia vesical se le realiza tomografía computarizada (TC) abdominal sin contraste intravenoso (IV) en la que se objetiva como hallazgo casual una lesión nodular heterogénea con contenido graso (hipodensa) de 2 cm de diámetro, bordes bien definidos y localización retroperitoneal, posterior a la vena cava inferior. Se completa el estudio con ecografía abdominal visualizándose una lesión hiperecoica retroperitonal en contacto con la vertiente lateral derecha de la vena cava inferior.
+Se decide actitud expectante realizándose TC de control al año que muestra crecimiento de la masa (4 cm de diámetro máximo) que desplaza y comprime la vena cava inferior medialmente sin mostrar signos de invasión de la misma. Ante la sospecha de liposarcoma retroperitoneal se realiza resonancia magnética (RM) con gadolinio IV confirmándose el contenido graso de la lesión y una discreta captación heterogénea del contraste. Las secuencias T1 mostraron una lesión hiperintensa aunque ligeramente inferior a la grasa retroperitoneal, mesentérica y subcutánea, con un área de menor intensidad en el polo superior de la lesión. La técnica de supresión grasa demostró una discreta hiperintensidad comparando con la grasa perilesional principalmente en la mitad superior.
+En las imágenes en fase opuesta la lesión fue hipointensa presentando una zona nodular en su polo superior de mayor intensidad de señal y que se corresponde con el área de menor intensidad en la secuencia T1 y de mayor intensidad en la supresión grasa. Tras la administración de gadolinio se observó una discreta captación del mismo.
+Con el diagnóstico radiológico de tumoración grasa probablemente liposarcoma (dada su frecuencia predominante dentro de las masas retroperitoneales) se decide cirugía. Se extirpa quirúrgicamente una masa reniforme, posterior a vena cava inferior y anclada en retroperitoneo al ligamento vertebral anterior, a 2 cm de la vena renal derecha en su borde inferior. La lesión no presenta pedículo vascular, mostrando tan sólo pequeños linfáticos periféricos.
+Se remite para estudio anatomopatológico una tumoración lobular pseudoencapsulada de 6 x 5 cm, de consistencia adiposa y color grisáceo-amarillenta. La histología de la pieza revela tumoración adiposa bien delimitada, que muestra amplios islotes hematopoyéticos con presencia de las 3 series junto a agregados linfoides redondeados, diagnóstica de mielolipoma prevertebral lumbar aunque se recomienda estudio de médula ósea con el fin de descartar patología primaria de la misma (hematopoyesis extramedular en el contexto de un síndrome mielodisplásico-mieloproliferativo). Se descartó esta última posibilidad mediante el análisis de la médula ósea confirmándose el diagnóstico de mielolipoma extraadrenal retroperitoneal.
+Remitido por:  Dra. Paula Bartumeus Martínez Servicio de Radiodiagnóstico. Hospital Universitario Doctor Peset Avda. Gaspar Aguilar, 90 - 46017 Valencia Tel.: 963 862 500 E-mail bartumeus_pau@gva.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="13" text="Juan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="27" end="39" text="Martin Ramos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T2" start="47" end="61" text="78 64231565 21" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="74" end="106" text="Carrer de Móra de Rubiols, 3, 8C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="130" end="138" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="144" end="149" text="46001" TYPE="TERRITORIO" comment=""/>
+    <ID id="T18" start="156" end="163" text="4613567" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="207" end="217" text="01/06/1956" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="225" end="231" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="239" end="246" text="61 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="253" end="254" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="275" end="285" text="05/10/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="323" end="347" text="Paula Bartumeus Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="356" end="367" text="46 46 94235" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="386" end="391" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="395" end="402" text="61 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T1" start="3515" end="3539" text="Paula Bartumeus Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="3570" end="3605" text="Hospital Universitario Doctor Peset" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="3606" end="3630" text="Avda. Gaspar Aguilar, 90" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="3633" end="3638" text="46017" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="3639" end="3647" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T4" start="3654" end="3665" text="963 862 500" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T3" start="3673" end="3693" text="bartumeus_pau@gva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

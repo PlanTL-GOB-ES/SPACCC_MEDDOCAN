@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Bernabé.
+Apellidos: Pavón Ruiz.
+NHC: 7893467.
+NASS: 07 23659785 16.
+Domicilio: Paseo del Prado, 23, 3, A.
+Localidad/ Provincia: Barcelona.
+CP: 08216.
+Datos asistenciales.
+Fecha de nacimiento: 25/08/1965.
+País: España.
+Edad: 47 años Sexo: H.
+Fecha de Ingreso: 30/12/2012.
+Médico: Pere Sanz-Gallén  NºCol: 08 08 12364.
+Informe clínico del paciente: Varón de 47 años, que cesó el hábito tabáquico hace diez años, fumó entre 10-20 cigarrillos/día durante 15 años y fue diagnosticado hace 8 años de glomerulonefritis mesangial IgA. Había estado trabajando durante 12 años como soldador en una empresa de fabricación de discos de acero que llevaban insertados unos «dientes» de cobalto y carburo de tungsteno que se utilizan para cortar mármol y granito. El soldador utilizaba un sistema de soldadura autógena de la que utilizaban, como metal de aporte, unas varillas metálicas a base de: plata (39%), cadmio (25%), cobre (22%) y zinc (14%). Consumía 1 Kg/semana; no utilizaba equipos de protección respiratoria y su lugar de trabajo no tenía un sistema de extracción localizada de humos. Las concentraciones de cadmio en su puesto de trabajo fueron de 52 μg/m3 (Valor Límite Ambiental (VLA) es de 10 μg/m3). Durante los doce años que estuvo trabajando se le había realizado un reconocimiento inicial y dos reconocimientos periódicos inespecíficos sin controlar la exposición al cadmio y a otros contaminantes químicos; los resultados del laboratorio se encontraban dentro de la normalidad (hemograma completo, glucemia, colesterol, transaminasas hepáticas, creatinina sérica y el estudio cito-químico de orina). En una analítica general realizada por su médico de familia se le detecta una microhematuria y una proteinuria. Cuando su médico le realiza la historia clínica detecta la exposición a humos de cadmio por lo que es remitido a la Unidad de Toxicología de nuestro hospital. Al ingreso el paciente está asintomático, no tiene antecedentes personales ni familiares nefrológicos, no tiene problemas de obesidad, ni de diabetes (las glucemias son normales), no toma ningún tipo de medicación de forma habitual y la presión arterial es de 105/65 mm/Hg. En la analítica destaca una proteinuria de 2 g/24 h, microhematuria de 150 hematíes/campo, cadmio en sangre de 20 μg/l (Valor Límite Biológico [VLB]: 5μg/l) y cadmio en la orina de 85 μg/g de creatinina (VLB: 5 μg/g creatinina). Debido a que las afectaciones renales eran de tipo glomerular, y el cadmio ocasiona principalmente lesiones de tipo tubular, se le recomendó un estudio mediante una biopsia renal. En la microscopía óptica se observaron cinco glomérulos, uno de ellos totalmente esclerosado; el resto mostró una ligera hipercelularidad segmentaria; en dos glomérulos se detecta una proliferación segmentaria extracapilar y focos de fibrosis intersticial con atrofia tubular. La inmunofluorescencia fue positiva para C3 (+++) y IgA (++) con patrón mesangial. El diagnóstico fue de una glomerulonefritis focal Ig A mesangial y se inició tratamiento con enalapril 10 mg/día. Debido a las altas concentraciones de cadmio en líquidos biológicos (sangre y orina), que después de ocho años de hacer cesado la exposición se encuentran por encima de los valores límites máximos permitidos en España en trabajadores expuestos al cadmio, el paciente fue apartado de su trabajo; además, se le consideró un trabajador especialmente sensible a la exposición a nefrotóxicos donde aconsejamos que se evitase su exposición con la finalidad de minimizar al máximo la posibilidad de que el paciente evolucione hacía una enfermedad renal crónica. Se le realizó un seguimiento durante 8 años (los valores de creatinina sérica, filtrado glomerular, proteinuria y sedimento urinario vienen expresados en la tabla 1) y los repetidos controles de beta2-globulina y de N-acetilglucosaminidasa (NAG) se encontraron dentro de la normalidad. En el momento actual las concentraciones de cadmio en sangre son de 7 μg/l (VLB: 5 μg/l) y el cadmio en orina es de 18 μg/g (VLB: 5 μg/g).
+Remitido por: Dr. Pere Sanz-Gallén Unidad de Toxicología Hospital Clinic i Provincial Barcelona E-mail: 17039psg@comb.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="29" end="36" text="Bernabé" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="49" end="59" text="Pavón Ruiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="66" end="73" text="7893467" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="81" end="95" text="07 23659785 16" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="108" end="133" text="Paseo del Prado, 23, 3, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="157" end="166" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="172" end="177" text="08216" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="221" end="231" text="25/08/1965" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="239" end="245" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="253" end="260" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="267" end="268" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="288" end="298" text="30/12/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="308" end="324" text="Pere Sanz-Gallén" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="333" end="344" text="08 08 12364" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="376" end="381" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="385" end="392" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="4062" end="4078" text="Pere Sanz-Gallén" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T2" start="4101" end="4139" text="Hospital Clinic i Provincial Barcelona" TYPE="HOSPITAL" comment=""/>
+    <CONTACT id="T1" start="4148" end="4164" text="17039psg@comb.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

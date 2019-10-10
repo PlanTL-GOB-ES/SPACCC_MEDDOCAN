@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Ernesto.
+Apellidos: Rivera Bueno.
+NHC: 368503.
+NASS: 26 63514095.
+Domicilio:  Calle Miguel Benitez 90.
+Localidad/ Provincia: Madrid.
+CP: 28016.
+Datos asistenciales.
+Fecha de nacimiento: 03/03/1946.
+País: España.
+Edad: 70 años Sexo: H.
+Fecha de Ingreso: 12/12/2016.
+Médico:  Ignacio Navarro Cuéllar NºCol: 28 28 70973.
+Informe clínico del paciente: Paciente de 70 años de edad, minero jubilado, sin alergias medicamentosas conocidas, que presenta como antecedentes personales: accidente laboral antiguo con fracturas vertebrales y costales; intervenido de enfermedad de Dupuytren en mano derecha y by-pass iliofemoral izquierdo; Diabetes Mellitus tipo II, hipercolesterolemia e hiperuricemia; enolismo activo, fumador de 20 cigarrillos / día.
+Es derivado desde Atención Primaria por presentar hematuria macroscópica postmiccional en una ocasión y microhematuria persistente posteriormente, con micciones normales.
+En la exploración física presenta un buen estado general, con abdomen y genitales normales; tacto rectal compatible con adenoma de próstata grado I/IV.
+En la analítica de orina destaca la existencia de 4 hematíes/ campo y 0-5 leucocitos/campo; resto de sedimento normal.
+Hemograma normal; en la bioquímica destaca una glucemia de 169 mg/dl y triglicéridos de 456 mg/dl; función hepática y renal normal. PSA de 1.16 ng/ml.
+Las citologías de orina son repetidamente sospechosas de malignidad.
+En la placa simple de abdomen se valoran cambios degenerativos en columna lumbar y calcificaciones vasculares en ambos hipocondrios y en pelvis.
+La ecografía urológica pone de manifiesto la existencia de quistes corticales simples en riñón derecho, vejiga sin alteraciones con buena capacidad y próstata con un peso de 30 g.
+En la UIV se observa normofuncionalismo renal bilateral, calcificaciones sobre silueta renal derecha y uréteres arrosariados con imágenes de adición en el tercio superior de ambos uréteres, en relación a pseudodiverticulosis ureteral. El cistograma demuestra una vejiga con buena capacidad, pero paredes trabeculadas en relación a vejiga de esfuerzo. La TC abdominal es normal.
+La cistoscopia descubre la existencia de pequeñas tumoraciones vesicales, realizándose resección transuretral con el resultado anatomopatológico de carcinoma urotelial superficial de vejiga.
+Remitido por: Ignacio Navarro Cuéllar c/ del Abedul 5-7, 2º dcha 28036 Madrid, España E-mail: nnavcu@hotmail.com.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="29" end="36" text="Ernesto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="49" end="61" text="Rivera Bueno" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="68" end="74" text="368503" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="82" end="93" text="26 63514095" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="107" end="130" text="Calle Miguel Benitez 90" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="154" end="160" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="166" end="171" text="28016" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T1" start="215" end="225" text="03/03/1946" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="233" end="239" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="247" end="254" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="261" end="262" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="282" end="292" text="12/12/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="303" end="326" text="Ignacio Navarro Cuéllar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="334" end="345" text="28 28 70973" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T9" start="389" end="396" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2341" end="2364" text="Ignacio Navarro Cuéllar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2365" end="2391" text="c/ del Abedul 5-7, 2º dcha" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2392" end="2397" text="28036" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2398" end="2404" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2406" end="2412" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="2421" end="2439" text="nnavcu@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

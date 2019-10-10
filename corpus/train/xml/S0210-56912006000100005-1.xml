@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Hugo.
+Apellidos: Rot Rodriguez.
+NHC: 78956135/2.
+Domicilio: Av. San Cristóbal, 38.
+Localidad/ Provincia: Jaén.
+CP: 23700 .
+Datos asistenciales.
+Fecha de nacimiento: 15/08/2017.
+País: España.
+Edad: 45 dias Sexo: Hombre.
+Fecha de Ingreso: 0/10/2017 .
+Especialidad:.
+Episodio: 46657546.
+Médico: Francisco Javier Alados-Arboledas NºCol: 23 23 74568.
+Motivo de ingreso:  deshidratación moderada-intensa por gastroenteritis aguda.
+Antecedentes:Como datos de interés destacan: recién nacido pretérmino de 32 semanas de edad gestacional con peso adecuado al nacimiento (2.060 g) y síndrome de Down, diagnosticado en la primera semana de vida de TF. 
+Antecedentes familiares Hijo de una prima hermana de su pareja síndrome de Down.
+Comentan que la hija de otro primo presenta un síndrome, pero desconocen cual y no tienen más datos.
+Historia Actual: Antes del ingreso Hugo no había presentado ninguna crisis hipóxica. Su curva ponderal era adecuada. En la ecografía (Sonos 100 CF, Hewlett Packard, Massachusetts, USA) se apreció un gradiente de estenosis pulmonar de 70 mmHg, la saturación de O2 basal era del 92% con O2 a 0,5 lpm en gafas nasales, la tensión arterial media (TAM) no invasiva oscilaba entre 50 y 55 mmHg (percentil 50-90 para su edad). Al tercer día presentó shock hipovolémico agudo por diarrea grave, precisando expansión de volumen, intubación y conexión a ventilación mecánica (VM). Tras buena respuesta clínica, se extubó a las 6 horas con buena tolerancia clínica y gasométrica. En el quinto día comenzó con disnea progresiva, cianosis, crepitantes bilaterales sin sibilancias, por lo que precisó reintubación y conexión a VM (Babylog 8000 plus, Dräger Medizintechnik GMBH. Lübeck, Alemania). La determinación de virus respiratorio sincitial (VRS) en moco nasal fue negativa. En el octavo día desarrolló oligoanuria progresiva con edema generalizado (incremento máximo de peso de un 16% en el noveno día) y aumento de las necesidades de oxígeno (FiO2: 100%), con disminución importante de la compliance pulmonar e hipoxemia grave refractaria (saturación transcutánea < 70%). La TAM invasiva se mantuvo mayor de 45 mmHg (percentil 5 para su edad: 43 mmHg): no existía gradiente térmico patológico ni coagulopatía. 
+Resumen de pruebas complementarias:  En la auscultación el soplo cardíaco cambió de características, haciéndose más corto y menos intenso (sugerente de HPP suprasistémica). La ventilación en prono sólo conseguía leve mejoría durante 2-3 horas (índice de oxigenación [IO] de 19 a 16) y el paciente no toleraba aumentos de presión positiva al final de la espiración (PEEP) mayores de 8 cmH2O (desaturación e hipotensión sistémica). Tras descartar ecográficamente espasmo infundibular y comprobar HPP (inversión de shunt de la comunicación interventricular [CIV]) se inició tratamiento con ONI a 40 ppm. Posteriormente, tras buena respuesta, se mantuvo a 20 ppm. Se monitorizó de forma continua el ONI y el óxido nitroso (NOxPUMP plus, Bedfont Scientific Ltd, Upchurch Kent, England), manteniéndose este último en rangos menores de 3 ppm.
+Evolución y comentarios: El enfermo fue tratado además con perfusión de dopamina a 8 µg/kg/minuto. En la radiografía de tórax se apreciaban infiltrados alveolares bilaterales y discreta oligoperfusión pulmonar. En el lavado broncoalveolar se aisló Pseudomonas aeruginosa, por lo que se inició tratamiento antibiótico. En el día 12 se apreció resolución de la insuficiencia renal aguda y de los edemas, sin haber recibido tratamiento con métodos sustitutivos de la función renal. Desde el día 30 se observó una progresiva mejoría de la dinámica respiratoria, tolerando el destete progresivo del ONI (previamente no había podido disminuirse a menos de 15 ppm por no tolerarlo el paciente). El día 35 el paciente fue extubado.
+Queda pendiente de fecha para una nueva revision avisando a su madre Teresa Rodriguez al numero de movil 618981345
+Remitido por: Dr. Francisco Javier Alados-Arboledas. C/ Manuel Caballero Venzala, 12, 2.º A. 23009 Jaén. España. Correo electrónico: fjaladosarbol@supercable.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T33" start="9" end="13" text="Hugo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T32" start="26" end="39" text="Rot Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T31" start="46" end="56" text="78956135/2" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T30" start="69" end="90" text="Av. San Cristóbal, 38" TYPE="CALLE" comment=""/>
+    <LOCATION id="T29" start="114" end="118" text="Jaén" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T28" start="124" end="129" text="23700" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T27" start="174" end="184" text="15/08/2017" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T26" start="192" end="198" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T25" start="206" end="213" text="45 dias" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T24" start="220" end="226" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T23" start="246" end="255" text="0/10/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T22" start="283" end="291" text="46657546" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T21" start="301" end="334" text="Francisco Javier Alados-Arboledas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T20" start="342" end="353" text="23 23 74568" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T11" start="507" end="517" text="32 semanas" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="582" end="598" text="síndrome de Down" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T34" start="675" end="713" text="Hijo de una prima hermana de su pareja" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T35" start="748" end="766" text="hija de otro primo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T36" start="868" end="872" text="Hugo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T6" start="981" end="996" text="Hewlett Packard" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T1" start="998" end="1011" text="Massachusetts" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="1013" end="1016" text="USA" TYPE="PAIS" comment=""/>
+    <LOCATION id="T7" start="1669" end="1695" text="Dräger Medizintechnik GMBH" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T9" start="1697" end="1703" text="Lübeck" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T8" start="1705" end="1713" text="Alemania" TYPE="PAIS" comment=""/>
+    <LOCATION id="T4" start="2970" end="2992" text="Bedfont Scientific Ltd" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T3" start="2994" end="3007" text="Upchurch Kent" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3009" end="3016" text="England" TYPE="PAIS" comment=""/>
+    <OTHER id="T10" start="3860" end="3882" text="madre Teresa Rodriguez" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <CONTACT id="T19" start="3902" end="3911" text="618981345" TYPE="NUMERO_TELEFONO" comment=""/>
+    <NAME id="T18" start="3930" end="3963" text="Francisco Javier Alados-Arboledas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T17" start="3965" end="4003" text="C/ Manuel Caballero Venzala, 12, 2.º A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="4005" end="4010" text="23009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="4011" end="4015" text="Jaén" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="4017" end="4023" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T13" start="4045" end="4072" text="fjaladosarbol@supercable.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

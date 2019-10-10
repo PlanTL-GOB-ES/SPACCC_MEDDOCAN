@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Héctor .
+Apellidos: Garrido Vidal.
+NHC: 9875321.
+Domicilio:  Calle de Josefa Valcárcel, 8.
+Localidad/ Provincia: Madrid.
+CP: 28027.
+Datos asistenciales.
+Fecha de nacimiento: 30/03/2017.
+País: España.
+Edad: 1 mes Sexo: Varón.
+Fecha de Ingreso: 29/05/2017.
+Servicio:Urgencias de Pediatría.
+Médico: Montserrat Montaño Fidalgo NºCol: 28 28 58912.
+Informe clínico del paciente: Lactante de 1 mes y 29 días, sin antecedentes de interés, que acude a Urgencias de Pediatría tras ingerir, 30 minutos antes, seis gotas de aceite de árbol del té. El producto fue administrado por sus padres Ana Jesus Vidal Sotillo y Nicolás Garrido Vadía, debido a un error al confundirlo con un envase de vitamina D. Tras la ingesta, el paciente se encontraba asintomático y a su llegada a Urgencias mostraba una exploración física y neurológica normal. Se contactó con el Centro Nacional de Toxicología que, como en el caso anterior, nos informó del riesgo de aparición de sintomatología gastrointestinal y neurológica, por lo que el paciente fue ingresado para su vigilancia clínica. La gasometría capilar inicial mostró una discreta acidosis respiratoria (pH 7,32, CO2 49 mmHg, HCO3 22 mmol/l), con normalización posterior. Fue dado de alta tras diez horas, permaneciendo asintomático en todo momento.
+Remitido por: Montserrat Montaño Fidalgo Centro de Psicología Álava Reyes c/ Arturo Soria, 329, 1.o F 28033 Madrid, Spain E-mail: mmontano@alavareyesconsultores.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="34" text="Héctor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="48" end="61" text="Garrido Vidal" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="68" end="75" text="9875321" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T21" start="89" end="117" text="Calle de Josefa Valcárcel, 8" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="141" end="147" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="153" end="158" text="28027" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="202" end="212" text="30/03/2017" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="220" end="226" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="234" end="239" text="1 mes" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="246" end="251" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="271" end="281" text="29/05/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="324" end="350" text="Montserrat Montaño Fidalgo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="358" end="369" text="28 28 58912" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T1" start="401" end="409" text="Lactante" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="413" end="428" text="1 mes y 29 días" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="601" end="655" text="padres Ana Jesus Vidal Sotillo y Nicolás Garrido Vadía" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T8" start="875" end="905" text="Centro Nacional de Toxicología" TYPE="INSTITUCION" comment=""/>
+    <NAME id="T11" start="1321" end="1347" text="Montserrat Montaño Fidalgo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1348" end="1380" text="Centro de Psicología Álava Reyes" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T6" start="1381" end="1408" text="c/ Arturo Soria, 329, 1.o F" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1409" end="1414" text="28033" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1415" end="1421" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1423" end="1428" text="Spain" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="1437" end="1471" text="mmontano@alavareyesconsultores.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

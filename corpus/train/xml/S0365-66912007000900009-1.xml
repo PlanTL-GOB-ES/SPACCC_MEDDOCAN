@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Jesús .
+Apellidos: Maestre Jimenez.
+NHC: 7465930.
+NASS: 47 35631964 54.
+Domicilio: C/ Cea Bermúdez, 12, 3 A.
+Localidad/ Provincia: Madrid.
+CP: 28003.
+Datos asistenciales.
+Fecha de nacimiento: 14/04/1976.
+País de nacimiento: España.
+Edad: 42 años Sexo: H.
+Fecha de Ingreso: 12/06/2018.
+Médico: José Alberto Reche  NºCol: 28 28 48725.
+Informe clínico del paciente: varón de 42 años de edad acude a Urgencias por disminución bilateral y progresiva de visión de varias semanas de evolución.
+Como antecedentes personales destacaba la existencia de una hepatopatía crónica por virus C y un síndrome autoinmune de Evans (púrpura trombocitopénica autoinmune con anemia) de larga evolución, que había requerido esplenectomía hacía 20 años. El tratamiento de mantenimiento era de 30 mg de prednisona oral en días alternos.
+En la exploración oftalmológica, la agudeza visual mejor corregida era en OD 0,3 y en OS 0,2. Biomicroscópicamente presentaba una catarata subcapsular posterior 1+ en OD y de 2 + en OS. Mediante funduscopia se observaron múltiples áreas de desprendimiento neurosensorial y de epitelio pigmentario de la retina (EPR) en el polo posterior de ambos ojos, así como unas pequeñas lesiones blanquecinas, redondeadas, discretas y escasas en la retina ecuatorial de ambos ojos. Además, en OS había otras lesiones periféricas cicatriciales con pigmentación. La tomografía óptica de coherencia (OCT) puso de manifiesto los desprendimientos que afectaban a la mácula de ambos ojos.
+Se le indicó una angiofluoresceingrafia, que no se llegó a realizar porque a los 2 días el paciente fue ingresado por un cuadro de fiebre alta, adenopatías laterocervicales y diarrea persistente. Fue tratado de forma empírica con cefotaxima y corticoterapia, pero evolucionó desfavorablemente presentando dificultad respiratoria con progresivo deterioro de su estado general. Mediante TAC se comprobó la existencia de un gran ensanchamiento mediastínico, y la biopsia de las adenopatías cervicales evidenció un linfoma B difuso de célula grande con marcador CD20 +. Con el diagnóstico de linfoma no Hodgkin B difuso de célula grande en estadio II E, se le administraron 6 ciclos de quimioterapia CHOP y rituximab. A lo largo del tratamiento quimioterápico (sobre todo a partir del 3.er ciclo), el paciente ya experimentó una franca mejoría visual, objetivándose la reaplicación progresiva de todos los focos de desprendimiento sensorial y de EPR, quedando cicatrices retinocoroideas con redistribución de pigmento. A los 6 meses de evolución tras la quimioterapia, se confirmó la remisión completa del linfoma por TAC y gammagrafía, y las retinas estaban aplicadas y las antiguas lesiones exudativas tenían un aspecto cicatricial e inactivo. Mediante OCT se corroboró la resolución de los desprendimientos. La AV era de 0,7 en OD y de 0,6 en OS y el paciente está pendiente de intervención de catarata.
+Responsable clínico: Dr. José Alberto Reche Sainz C/. Guzmán el Bueno, 98, 6.º D 28003 Madrid España E-mail: jalbres@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="33" text="Jesús" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="47" end="62" text="Maestre Jimenez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="69" end="76" text="7465930" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="84" end="98" text="47 35631964 54" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="111" end="135" text="C/ Cea Bermúdez, 12, 3 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="159" end="165" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="171" end="176" text="28003" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="220" end="230" text="14/04/1976" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="252" end="258" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="266" end="273" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="280" end="281" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="301" end="311" text="12/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="321" end="339" text="José Alberto Reche" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="348" end="359" text="28 28 48725" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="391" end="396" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="400" end="407" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2940" end="2964" text="José Alberto Reche Sainz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2965" end="2995" text="C/. Guzmán el Bueno, 98, 6.º D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2996" end="3001" text="28003" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3002" end="3008" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3009" end="3015" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3024" end="3040" text="jalbres@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

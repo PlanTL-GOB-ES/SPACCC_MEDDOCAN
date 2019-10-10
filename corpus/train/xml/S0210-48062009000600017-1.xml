@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Raquel.
+Apellidos: Cuenca Suarez.
+NHC: 2783962.
+NASS: 28 89034672 35.
+Domicilio: C/ Virgen del Cortijo,94  .
+Localidad/ Provincia: Sevilla.
+CP: 41013.
+Datos asistenciales.
+Fecha de nacimiento: 08/03/19.
+País de nacimiento: España.
+Edad: 39 años Sexo: M.
+Fecha de Ingreso: 21/09/2012.
+Servicio: Urgencias.
+Episodio: 7435075.
+Médico: Raquel González Resina  NºCol: 41 41 57896.
+Historia Actual:Mujer de 39 años acude a urgencias por lumbalgia y polaquiuria. En la ecografía abdominal realizada se objetivó una ureterohidronefrosis bilateral con parénquima renal izquierdo conservado y riñón derecho de cortical fina y desestructurada, así como una función renal con una creatinina sérica de 1,98 mg/dl. Por todo ello, se decide una derivación urinaria mediante nefrostomía percutánea del riñón izquierdo. Como antecedentes personales refiere tuberculosis pulmonar, cólicos nefríticos de repetición e incontinencia urinaria de esfuerzo.
+Se diagnostica de tuberculosis genitourinaria por cultivo de Lowestein positivo en la orina evacuada por la nefrostomía y se instaura tratamiento médico, con Rifampicina, Isoniacida y Pirazinamida durante 2 meses e Isoniacida y Rifampicina 4 meses más. Durante el seguimiento en consultas externas, se realiza una gammagrafía renal en la que se aprecia un riñón derecho sin función y el riñón izquierdo con morfología conservada y discreta ectasia del sistema calicial superior. También se obtiene una ecografía abdominal que corrobora los hallazgos de la gammagrafía renal. La paciente abandona el tratamiento antibiótico y el seguimiento en consultas a los 6 meses, por problemas sociales, a pesar de persistencia de enfermedad en los cultivos.
+Un año después del diagnóstico se reinicia el tratamiento médico que se mantuvo durante un año con seguimiento clínico adecuado. Se realiza una urografía intravenosa, con diagnostico de riñón mastic derecho y estenosis de los últimos cms de uréter izquierdo. Se procedió a nefrectomía derecha y se intentó reimplante uretero-vesical izquierdo durante el cual se produjo desinserción del uréter izquierdo a 1 cm por debajo de la unión pieloureteral, por lo que se decide una derivación urinaria permanente izquierda (nefrostomía en raqueta).
+Durante tres años se mantuvo con buena función renal y cambios periódicos de nefrostomía en raqueta con la evidente limitación y afectación de su calidad de vida. Pasado este tiempo y dado el buen estado físico y la edad de la paciente, se planteó reconstrucción de la vía excretora con ileon. La evaluación preoperatorio confirmó retracción vesical completa por lo que se planteó la sustitución simultánea de este órgano.
+La técnica quirúrgica realizada consistió en liberar y desfuncionalizar 60 cm de íleon con apertura de mesocolon izquierdo para permitir la anastomosis del extremo proximal del íleon a la pelvis del riñón izquierdo, con sutura a puntos sueltos y catéter de tutorización doble J. Posteriormente se realizó cistectomía e histerectomía de útero miomatoso por dificultar la anastomosis entre neovejiga y uretra, con destubulización de 30 cm de íleon distal en posición isoperistáltica, conformando una neovejiga en "U" con plegadura tipo Camey modificada de los 20 cm finales.
+El postoperatorio cursa sin incidencias con buena evolución clínica y retirada de tutor ureteral a los 21 días de la cirugía. Cistograma comprobándose la estanqueidad de la sutura vesical, aunque se observa la presencia de reflujo vésico-ureteral, con alta presión. Tras retirada de nefrostomía y sonda vesical fue alta hospitalaria con micción horaria y escapes entre micciones, precisando compresas y maniobra de Credé para vaciar vejiga.
+A los seis meses cistografía con vejiga de más capacidad y escaso reflujo, persistiendo incontinencia nocturna.
+Durante las revisiones periódicas que se realizan cada 6 meses, la paciente nos muestra su satisfacción por los resultados obtenidos tras la cirugía y su mejoría en la calidad de vida, ya que no tiene derivación urinaria y los escapes de orina son escasos y nocturnos.
+En la actualidad, tras 4 años de la última intervención quirúrgica, tiene micciones cada 2-3 horas con continencia diurna y una compresa nocturna, vaciado vesical a expensas de maniobra de Credé y Valsalva sin residuo posterior, necesitando para control metabólico adecuado 1 g diario de bicarbonato oral y una Creatinina plasmática de 1,1 mg/dl7.
+Responsable clínico: Dra. Raquel González Resina Servicio de Urología Hospital Universitario Virgen del Rocío Avda. Manuel Siurot, s/n - 41013 Sevilla Tel.: 955 012 000 E-mail autor: raqgores@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="34" text="Raquel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="47" end="60" text="Cuenca Suarez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="67" end="74" text="2783962" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="82" end="96" text="28 89034672 35" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="109" end="133" text="C/ Virgen del Cortijo,94" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="159" end="166" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="172" end="177" text="41013" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="221" end="229" text="08/03/19" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="251" end="257" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="265" end="272" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="279" end="280" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="300" end="310" text="21/09/2012" TYPE="FECHAS" comment=""/>
+    <ID id="T12" start="343" end="350" text="7435075" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T11" start="360" end="382" text="Raquel González Resina" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="391" end="402" text="41 41 57896" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="420" end="425" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="429" end="436" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="4442" end="4464" text="Raquel González Resina" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="4486" end="4525" text="Hospital Universitario Virgen del Rocío" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="4526" end="4550" text="Avda. Manuel Siurot, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="4553" end="4558" text="41013" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="4559" end="4566" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="4573" end="4584" text="955 012 000" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="4599" end="4616" text="raqgores@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

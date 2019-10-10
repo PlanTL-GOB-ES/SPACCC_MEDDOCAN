@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Octavio.
+Apellidos: Peñalvert Santos.
+NHC: 3986585.
+NASS: 92 76897568 26.
+Domicilio:  Calle Concepción Benítez, 2.
+Localidad/ Provincia: Pamplona.
+CP: 31010.
+Datos asistenciales.
+Fecha de nacimiento: 04/07/1945.
+País: España.
+Edad: 72 años Sexo: H.
+Fecha de Ingreso: 17/12/2017.
+Servicio: Oftalmología.
+Episodio:  1564764.
+Médico: Nelson Arturo Rodríguez Marco  NºCol: 31 28 90687.
+Motivo de ingreso: Pérdida de vision en OI.
+Historia Actual: Varón de 72 años que acude al servicio de Oftalmología por pérdida de visión de ojo izquierdo (OI) de un mes de evolución. 
+Antecedentes: Como antecedentes, el paciente había sido tratado de un carcinoma de próstata hacía 10 años con radioterapia sin recaída en el momento del estudio.
+Exploración: La agudeza visual en el ojo derecho (OD) era de 5/10 y en OI de no percepción de luz. La presión intraocular era 18 mmHg en OD y 12 mmHg en OI. En lámpara de hendidura mostraba una catarata nuclear ++ en ambos ojos. En el fondo de ojo del OD no presentaba alteraciones, pero en OI no se apreciaba por un hemovítreo. 
+Resumen de pruebas complementarias: La ecografía mostraba una lesión lobulada que ocupaba 4/5 de cámara vítrea. Se planteó la hipótesis de MC o lesión metastática por lo que se hizo rastreo en busca de lesión primaria. La TC tóraco-abdominal y analíticas hepáticas fueron normales. Ante la sospecha de lesión maligna se realizó una PET/TC, positiva a nivel ocular (SUVmáx: 7,2), hepático (SUVmáx: 5,7) e hilio pulmonar derecho (SUVmáx: 3,5). Tras la PET/TC revisamos la TC abdominal, sin identificar lesiones hepáticas, únicamente una dudosa alteración nodular de la densidad poco delimitada y de difícil interpretación por su pequeño tamaño, no accesible a biopsia mediante ecografía o TC. 
+Se planteó realizar una resonancia nuclear magnética (RNM) hepática, pero se desestimó por el pequeño tamaño de la lesión. Se decidió enucleación por la necesidad de una anatomía patológica para confirmar el diagnóstico previo a la quimioterapia. Se informó de la gravedad de la patología, tipo de cirugía y nula posibilidad de recuperación visual en el ojo afecto. La anatomía patológica demostró un MC de gran tamaño (17*17 mm) de células fusiformes y en el estudio inmunohistoquímico intensa positividad citoplasmática para MELAM-A y HMB45.
+Evolución y comentarios: El paciente, que al final del proceso diagnóstico presentaba una ECOG-1 (calidad de vida según la escala de la Eastern Cooperative Oncology Group) por la pérdida de visión, inició tratamiento paliativo con dacarbacina a dosis de 850 mg/m2 cada 3 semanas en abril 2011, con excelente tolerancia. En junio 2011, se reevalúa presentando progresión radiológica hepática, no detectada en TC, pero sí en la PET/TC.
+En junio de 2011, inicia tratamiento de 2a línea con ipilimumab (3 mg/kg cada 3 semanas - 4 dosis), con conservación del estado general (ECOG1), completando el tratamiento sin efectos secundarios. Nuevamente se detecta progresión hepática (en la semana 12 y 16 de tratamiento, como estipula el protocolo de evaluación de ipilimumab) identificada en la TC y PET/TC.
+En noviembre de 2011, inicia 3a línea de tratamiento con fotemustina a 75 mg/m2 con dosis de inducción, por conservación del estado general, sin completar el tratamiento previsto hasta la evaluación radiológica planificada, por deterioro general. Fallece en febrero de 2012 (11 meses después del diagnóstico).
+Remitido por: Dr. Nelson Arturo Rodríguez Marco Servicio de Oftalmología, Complejo Hospitalario de Navarra A Calle Irunlarrea, 3 31008 Pamplona (Navarra) email: arturo.rodriguez.marco@navarra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T29" start="9" end="16" text="Octavio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T28" start="29" end="45" text="Peñalvert Santos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T27" start="52" end="59" text="3986585" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T26" start="67" end="81" text="92 76897568 26" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T25" start="95" end="122" text="Calle Concepción Benítez, 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T24" start="146" end="154" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T23" start="160" end="165" text="31010" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T21" start="209" end="219" text="04/07/1945" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T22" start="227" end="233" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T19" start="241" end="248" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T17" start="255" end="256" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T20" start="276" end="286" text="17/12/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T13" start="323" end="330" text="1564764" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T15" start="340" end="369" text="Nelson Arturo Rodríguez Marco" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="378" end="389" text="31 28 90687" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T16" start="452" end="457" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T18" start="461" end="468" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="2586" end="2596" text="abril 2011" TYPE="FECHAS" comment=""/>
+    <DATE id="T10" start="2627" end="2637" text="junio 2011" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="2741" end="2754" text="junio de 2011" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="3106" end="3123" text="noviembre de 2011" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="3361" end="3376" text="febrero de 2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="3431" end="3460" text="Nelson Arturo Rodríguez Marco" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3487" end="3519" text="Complejo Hospitalario de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3522" end="3541" text="Calle Irunlarrea, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3542" end="3547" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3548" end="3556" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3558" end="3565" text="Navarra" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3574" end="3607" text="arturo.rodriguez.marco@navarra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

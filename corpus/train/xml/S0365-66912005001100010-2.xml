@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Pedro .
+Apellidos: Iglesias Pastor.
+NHC: 1149404.
+NASS: 343551107164.
+Domicilio: Rúa Comandante Fontanes, 19, 2 B.
+Localidad/ Provincia: A Coruña.
+CP: 15003.
+Datos asistenciales.
+Fecha de nacimiento: 09/05/1945.
+País de nacimiento: España.
+Edad: 67 años Sexo: H.
+Fecha de Ingreso: 02/04/2013.
+Episodio: 1287103.
+Médico: José Manuel Janeiro Pais  NºCol: 15 15 65203.
+Informe clínico del paciente: Varón, de 67 años, con agudeza visual de 0,6 y 0,5 con cataratas nucleares grado 3 en ambos ojos. El ojo izquierdo mostraba un pterigión nasal grado I y diversas lesiones con forma de islotes corneales epiteliales con distribución semicircular inferior, no afectando al eje visual. No presentaba signos inflamatorios en el segmento anterior y el resto de la exploración es normal.
+Se instauró tratamiento con Mitomicina-C 0,02% preoperatorio (1), con reducción de la lesión a 1/3 de su tamaño.
+Se realizó intervención de cataratas en ambos ojos mediante técnica MICS, exéresis del pterigión del ojo izquierdo y exéresis de la lesión corneal, remitiéndose a estudio anatomopatológico, el cual informa: epitelio conjuntival con focos de atipia leve de las células de la capa basal, llegando a ocupar la atipia, a nivel del limbo, hasta 2/3 del espesor total, observándose escaso pleomorfismo. Degeneración elastótica actínica del corión y escaso infiltrado inflamatorio crónico linfocitario subepitelial.
+A los 6 meses se evidenció la presencia de islotes aislados recidivantes, tratándose nuevamente con Mitomicina-C, regresando la lesión, no evidenciándose nuevas recidivas en su seguimiento durante 1 año.
+Responsable clínico: Dr. José Manuel Janeiro Pais, Avda. Lázaro Cárdenas, 23 - 1ºE 15009 La Coruña (España). janeiropais@canalejo.org
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="33" text="Pedro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="62" text="Iglesias Pastor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="69" end="76" text="1149404" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="84" end="96" text="343551107164" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="109" end="141" text="Rúa Comandante Fontanes, 19, 2 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="165" end="173" text="A Coruña" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="179" end="184" text="15003" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="228" end="238" text="09/05/1945" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="260" end="266" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="274" end="281" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="288" end="289" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="309" end="319" text="02/04/2013" TYPE="FECHAS" comment=""/>
+    <ID id="T10" start="331" end="338" text="1287103" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T11" start="348" end="372" text="José Manuel Janeiro Pais" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="381" end="392" text="15 15 65203" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="424" end="429" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="434" end="441" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1656" end="1680" text="José Manuel Janeiro Pais" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1682" end="1713" text="Avda. Lázaro Cárdenas, 23 - 1ºE" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1714" end="1719" text="15009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1720" end="1729" text="La Coruña" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1731" end="1737" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1740" end="1764" text="janeiropais@canalejo.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

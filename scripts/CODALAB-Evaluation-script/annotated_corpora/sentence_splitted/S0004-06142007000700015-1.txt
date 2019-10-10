@@ -1,0 +1,15 @@
+Datos del paciente.
+Nombre: Isabel.
+Apellidos: Rabago Sandoval.
+NHC: 2609857.
+Domicilio:  Calle Costa Rica, 23, 6,B.
+Localidad/ Provincia: Cartagena.
+CP: 30982.
+Datos asistenciales.
+Fecha de nacimiento: 27/03/1990.
+País: España.
+Edad: 28 años Sexo:M.
+Fecha de Ingreso: 27/05/2018.
+Médico: Jesús Ignacio Tornero Ruiz NºCol: 30 30 56390.
+Informe clínico del paciente:Mujer de 28 años sin antecedentes de interés que consultó por síndrome miccional con polaquiuria de predominio diurno y cierto grado de urgencia sin escapes urinario. El urocultivo resultó negativo por lo que se indicó tratamiento con anticolinérgicos. Ante la falta de respuesta al tratamiento, se realizó cistografía que fué normal y ecografía renovesical en la que se apreciaban imágenes quísticas parapiélicas, algunas de ellas con tabiques internos y vejiga sin lesiones. Con el fin de precisar la naturaleza de dichos quistes se solicitó TAC-abdominal, que informaba de gran quiste parapiélico en riñón derecho sin repercusión sobre la vía y una masa hipodensa suprarrenal derecha. La resonancia magnética demostró normalidad de la glándula suprarrenal y una lesión quística lobulada conteniendo numerosos septos en su interior que rodeaba al riñón derecho; en la celda renal izquierda existía una lesión de características similares pero de menor tamaño. Los hallazgos eran compatibles con linfangioma renal bilateral. Tras tres años de seguimiento la paciente continua con leve síntomatologia miccional en tratamiento, pero no ha presentado síntomas derivados de su lesión renal.
+Remitido por: Jesús Ignacio Tornero Ruiz Hospital Virgen de la Arrixaca Ctra. Madrid-Cartagena s/n. 30120 El Palmar. Murcia. (España). ignaciotorne@hotmail.com

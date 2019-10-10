@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Adur.
+Apellidos: Larrea Etxea.
+NHC: 5287965.
+NASS: 46 23465705 69.
+Domicilio: Calle Puerto verde 18, 3 c.
+Localidad/ Provincia: Tolosa.
+CP: 20400.
+Datos asistenciales.
+Fecha de nacimiento: 30/11/1931.
+País: España.
+Edad: 85 años Sexo: H.
+Fecha de Ingreso: 03/07/2016.
+Médico: Irune Loizaga Díaz  NºCol: 20 20 41127.
+Informe clínico del paciente: Paciente de 85 años en tratamiento con moxifloxacino por una infección respiratoria que ingresa por vómitos, diarreas y fiebre de 38,5o C; con hipoalbuminemia de 2,62 g/dL, creatinina sérica (Crs) en torno a 1 mg/dL y con un aclaramiento calculado según la ecuación de Cockcroft-Gault de 38,26 mL/min.
+Se diagnostica de CDI grave y complicada sin distensión abdominal atendiendo a los criterios establecidos en la guía para el diagnóstico, tratamiento y prevención de CDI3 y se pauta metronidazol intravenoso 500 mg 3 veces al día más vancomicina oral 500 mg cuatro veces al día. Tras 3 días de tratamiento se detectan unos niveles valle de vancomicina en plasma de 5,77 μg/mL. Este valor aumenta hasta 10,81 μg/mL el sexto día de tratamiento. Al cabo de 7 días, tras la resolución del cuadro diarreico y ante un resultado negativo de toxina en heces, se suspenden los antibióticos.
+Remitido por: Irune Loizaga Díaz Correo electrónico: irune.loizagadiaz@osakidetza.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="9" end="13" text="Adur" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="26" end="38" text="Larrea Etxea" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="45" end="52" text="5287965" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T14" start="60" end="74" text="46 23465705 69" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T13" start="87" end="113" text="Calle Puerto verde 18, 3 c" TYPE="CALLE" comment=""/>
+    <LOCATION id="T12" start="137" end="143" text="Tolosa" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T11" start="149" end="154" text="20400" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T9" start="198" end="208" text="30/11/1931" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="216" end="222" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T7" start="230" end="237" text="85 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T5" start="244" end="245" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="265" end="275" text="03/07/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="285" end="303" text="Irune Loizaga Díaz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="312" end="323" text="20 20 41127" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T6" start="367" end="374" text="85 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="1252" end="1270" text="Irune Loizaga Díaz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1291" end="1323" text="irune.loizagadiaz@osakidetza.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

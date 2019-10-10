@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Bruno .
+Apellidos: Marin Duran.
+NHC: 5426445.
+NASS: 24 55346435 15.
+Domicilio: Paseo de la Casilla 27, 6 B.
+Localidad/ Provincia: Bilbao.
+CP: 48012.
+Datos asistenciales.
+Fecha de nacimiento: 13/02/1951.
+País: España.
+Edad: 64 años Sexo: H.
+Fecha de Ingreso: 21/01/2015.
+Médico: Roberto Llarena Ibarguren NºCol: 48 48 21385.
+Motivo de ingreso: odontalgia.
+Historia Actual: Varón de 54 años de edad, remitido a nuestro servicio en mayo del 2003 por presentar odontalgia en relación con un tercer molar inferior derecho erupcionado.
+Antecedentes: Entre los antecedentes personales del paciente, destacaban una historia de diabetes tipo II de 8 años de evolución, controlada con hipoglucemiantes orales. Se trataba de un bebedor de 130 g. etanol/día desde los 30 años, y fumador de 2 paquetes de cigarrillos/día desde los 20 años. Un año antes de nuestra valoración, el enfermo había sido diagnosticado de cirrosis hepática (estadio A de Child Pugh: 5/15), y de hepatocarcinoma multicéntrico con afectación de los segmentos II, III, y IV, siendo intervenido mediante resección hepática parcial, al mes de su diagnostico. Previamente se había realizado un estudio completo que incluyó gammagrafía ósea con tecnecio 99-MDP y tomografía computarizada de cráneo, pulmón, abdomen y pelvis, sin objetivar la presencia de metástasis. Los valores séricos de alfa-fetoproteina eran, en los controles postoperatorios, normales (3,6 ng/ml).
+Exploración y pruebas complementarias: A la inspección oral se pudo observar la existencia de una tumefacción que expandía las corticales vestibulo-linguales, en la región del tercer molar mandibular derecho, cariado por distal. La mucosa oral estaba indemne, y no se palpaban adenomegalias cervicales. El paciente refería la existencia de una hipoestesia en el territorio de distribución del nervio mentoniano de quince días de evolución. En la ortopantomografía, se evidenció la presencia de una imagen radiolúcida, de contornos poco definidos, en el cuerpo mandibular derecho. Dos días después, bajo anestesia local, se procedió a la exodoncia del tercer molar y curetaje-biopsia del tejido subyacente. Durante el acto operatorio, se produjo una intensa hemorragia, que pudo ser cohibida con el empleo de Surgicel (Johnson & Johnson, Nuevo Brunswick, NJ) y mediante el empaquetado en el lecho alveolar de cera de hueso.
+El hemograma y el estudio de coagulación postoperato-rios no mostraron alteraciones significativas. El diagnóstico histopatológico del material remitido fue de: metástasis mandibular por hepatocarcinoma bien diferenciado. Las células neoplásicas no se teñían con las citoqueratinas 19 y 20, ni con la alfa-fetoproteina, pero si mostraron una intensa tinción granular citoplasmática con el marcador hepatocito N.
+Evolución: A los 15 días de nuestra intervención se objetivó una marcada elevación de los niveles de alfa-fetoproteina (221 ng/ml), evidenciándose mediante gammagrafía ósea y resonancia magnética la existencia de múltiples metástasis que afectaban al occipital izquierdo, cuerpo esternal, pelvis, y múltiples vértebras. El paciente fue sometido a radioterapia paliativa sobre las lesiones vertebrales (10 Gy a la semana de Co 60) sin mejoría, siendo éxitus a los seis meses de nuestra biopsia.
+Responsable clínico: Dr. Roberto Llarena Ibarguren. Hospital Cruz Roja de Bilbao. Urkixo Zumarkalea, 65, 48013 Bilbo, Bizkaia. Correo Electrónico: rllarena@euskalnet.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T27" start="29" end="34" text="Bruno" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T26" start="48" end="59" text="Marin Duran" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="66" end="73" text="5426445" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="81" end="95" text="24 55346435 15" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T23" start="108" end="135" text="Paseo de la Casilla 27, 6 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T22" start="159" end="165" text="Bilbao" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="171" end="176" text="48012" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="220" end="230" text="13/02/1951" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T20" start="238" end="244" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="252" end="259" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="266" end="267" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="287" end="297" text="21/01/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="307" end="332" text="Roberto Llarena Ibarguren" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="340" end="351" text="48 48 21385" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T14" start="401" end="406" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T16" start="410" end="417" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="458" end="471" text="mayo del 2003" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T3" start="2273" end="2290" text="Johnson &amp; Johnson" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T2" start="2292" end="2307" text="Nuevo Brunswick" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2309" end="2311" text="NJ" TYPE="TERRITORIO" comment=""/>
+    <NAME id="T12" start="3309" end="3334" text="Roberto Llarena Ibarguren" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T9" start="3336" end="3364" text="Hospital Cruz Roja de Bilbao" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T8" start="3366" end="3387" text="Urkixo Zumarkalea, 65" TYPE="CALLE" comment=""/>
+    <LOCATION id="T7" start="3389" end="3394" text="48013" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="3395" end="3400" text="Bilbo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="3402" end="3409" text="Bizkaia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T4" start="3431" end="3453" text="rllarena@euskalnet.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

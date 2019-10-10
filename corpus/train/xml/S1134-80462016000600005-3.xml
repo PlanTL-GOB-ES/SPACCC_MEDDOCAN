@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Sandro.
+Apellidos: Gonzalez Morales.
+NHC: 370562.
+NASS: 43 23598635 20.
+Domicilio: Calle del Pez 86, Bajo A.
+Localidad/ Provincia: Madrid.
+CP:28001.
+Datos asistenciales.
+Fecha de nacimiento: 27/03/1946.
+País: España.
+Edad: 70 años Sexo: H.
+Fecha de Ingreso: 21/05/2016.
+Médico: Alejandro Delgado Gamboa NºCol: 28 28 14723.
+Informe clínico del paciente: Hombre de 70 años, con neuralgia del nervio pudendo secundaria a una lesión directa posterior a una resección trans-ureteral de próstata (RTU-P). Refería dolor de características neuropáticas (quemazón, parestesias) en genital externo. De intensidad severa (EVA 10/10), asociado con dolor al defecar y miccionar, el cual aliviaba posterior al acto. Como primera medida en la unidad, tras 5 años de dolor, se inició con terapia farmacológica con carbamacepina (200 mg/d), pregabalina (150 mg/12 horas), amitriptilina (25 mg/cada noche) y tramadol (200 mg/12 horas). Por falta de respuesta al tratamiento farmacológico, siguiendo el protocolo de los casos anteriores, se reporta en el cuestionario de depresión Beck y el de salud de Goldberg depresión y ansiedad leve, que no contraindican la colocación del dispositivo, por lo que se efectúa CENPP en septiembre 2014. Se obtuvo una mejoría sintomatológica, por lo que se procedió a la implantación NERSR. Presentó una complicación por fístula de LCR, el cual resolvió a la sexta semana con manejo conservador. Un mes después del tratamiento, el paciente se encontraba libre de dolor. En la actualidad, el paciente presenta una cobertura del 100 % sin medicamentos orales. Cuestionario de depresión de Beck y el de salud de Goldberg con ansiedad leve sin datos de depresión.
+Remitido por: Dr. Alejandro Delgado Gamboa. Email: ale.delgam@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="8" end="14" text="Sandro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="27" end="43" text="Gonzalez Morales" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="50" end="56" text="370562" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="64" end="78" text="43 23598635 20" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="91" end="115" text="Calle del Pez 86, Bajo A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="139" end="145" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="150" end="155" text="28001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="199" end="209" text="27/03/1946" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="217" end="223" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="231" end="238" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="245" end="246" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="266" end="276" text="21/05/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="286" end="310" text="Alejandro Delgado Gamboa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="318" end="329" text="28 28 14723" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="361" end="367" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="371" end="378" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T2" start="1211" end="1226" text="septiembre 2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="1702" end="1726" text="Alejandro Delgado Gamboa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1735" end="1755" text="ale.delgam@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

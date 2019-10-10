@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Josefina.
+Apellidos: Rocuzzo Paz.
+NHC: 87320463.
+Domicilio: Calle Chascobus 19 #2365.
+Localidad/ Provincia: Buenos Aires.
+CP: 1083.
+Datos asistenciales.
+Fecha de nacimiento: 28/05/1979.
+País de nacimiento: Argentina.
+Edad: 37 años Sexo: M.
+Fecha de Ingreso: 21/11/2016.
+Médico: Daniel Humberto Ferranti..
+Informe clínico del paciente: Paciente de 37 años, cuyo único antecedente médico registrado era asma extrínseca. Había recibido analgesia epidural 1 mes antes para un parto eutócico en otro hospital. El informe de alta hospitalaria señalaba punción dural accidental durante la realización de la técnica epidural y cefalea occipital durante las primeras 12 h posparto, que había cedido con tratamiento médico (cafeína, paracetamol) y reposo. Sin embargo, una vez en su domicilio, la paciente comenzó de nuevo con dolor occipital que trataba diariamente con analgésicos; trascurrido 1 mes de dolor recurrente consultó al servicio de urgencias de nuestro hospital.
+La paciente presentaba dolor occipital que empeoraba con la bipedestación y maniobras de Valsalva. Afebril. Se practicó resonancia magnética (RM) cerebral que puso de manifiesto malformación de Chiari tipo I (desplazamiento caudal de las amígdalas cerebelosas por el orificio magno) y engrosamiento difuso de las meninges. La paciente fue remitida al servicio de anestesia para realización de parche hemático epidural, pero rechazó la técnica por miedo a una nueva epidural. Se instauró tratamiento con dexametasona y analgésicos y el dolor remitió a los 4 días.
+A los 6 meses, la paciente fue revisada en consultas externas de neurología, y se le realizó una nueva RM donde se apreciaba la persistencia de la anormalidad anatómica correspondiente al síndrome de Chiari I, pero se constataba que había desaparecido el engrosamiento meníngeo. Clínicamente, la paciente no refería dolor en condiciones basales pero señalaba que sí lo presentaba en relación con maniobras de Valsalva o la tos; según ella, ese síntoma era previo a este proceso.
+Responsable clínico:  Dr. Daniel Humberto Ferranti. Jujuy Nº 491 2º piso dto "C". Ciudad Autónoma de Buenos Aires. República Argentina. CP 1083. 1 Médico Forense de la Policía Científica de la Provincia de Buenos Aires (República Argentina). 2 Jefe del Cuerpo Médico Morón. Policía Científica de la Provincia de Buenos Aires (República Argentina).
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="36" text="Josefina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="49" end="60" text="Rocuzzo Paz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="67" end="75" text="87320463" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T20" start="88" end="112" text="Calle Chascobus 19 #2365" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="136" end="148" text="Buenos Aires" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="154" end="158" text="1083" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="202" end="212" text="28/05/1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="234" end="243" text="Argentina" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="251" end="258" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="265" end="266" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="286" end="296" text="21/11/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="306" end="330" text="Daniel Humberto Ferranti" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T13" start="375" end="382" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T10" start="2063" end="2087" text="Daniel Humberto Ferranti" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T9" start="2089" end="2117" text="Jujuy Nº 491 2º piso dto &quot;C&quot;" TYPE="CALLE" comment=""/>
+    <LOCATION id="T8" start="2119" end="2150" text="Ciudad Autónoma de Buenos Aires" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T7" start="2152" end="2171" text="República Argentina" TYPE="PAIS" comment=""/>
+    <LOCATION id="T4" start="2176" end="2180" text="1083" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="2243" end="2255" text="Buenos Aires" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2257" end="2276" text="República Argentina" TYPE="PAIS" comment=""/>
+    <LOCATION id="T1" start="2304" end="2309" text="Morón" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2349" end="2361" text="Buenos Aires" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2363" end="2382" text="República Argentina" TYPE="PAIS" comment=""/>
+  </TAGS>
+</MEDDOCAN>

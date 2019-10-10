@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Guadalupe.
+Apellidos: Ortiz de Pinedo.
+NHC: 9068442.
+Domicilio: Plaza Antonio Rodríguez de Hita 23 Col. Embajadores.
+Localidad/ Provincia: México DF.
+CP: 06800.
+Datos asistenciales.
+Fecha de nacimiento: 20/09/1941.
+País de nacimiento: Mexico.
+Edad: 73 años Sexo: M.
+Fecha de Ingreso: 21/12/2014.
+Médico: Juan Carlos Zenteno.
+Informe clínico del paciente: Mujer de 73 años de edad con hipertensión arterial, artrosis de ambas caderas, leucemia linfoide crónica, meningioma del ángulo pontocerebeloso izquierdo operado, resección segmentaria de colon sigmoide por diverticulitis y peritonitis, fibrilación auricular paroxística, estenosis aórtica y cardiopatía hipertensiva que recibe tratamiento con Manidon retard®, Ameride® y Sintrom®. Presentaba numerosos episodios recidivantes de hemorragia digestiva en forma de melenas y rectorragias desde abril de 2006. No había anomalías significativas en el número o función plaquetaria. El Sintrom fue retirado en septiembre de 2006. Las hemorragias supusieron: 9 ingresos hospitalarios, 4 colonoscopias, 4 gastroscopias, 2 exploraciones con cápsula endoscópica y una enteroscopia con doble globo con acceso oral y anal. Con estas exploraciones endoscópicas se llegó a los diagnósticos de xantomas y puntos rojos petequiales de yeyuno e íleon tratados con argón, pólipo gástrico hiperplásico pequeño extirpado y pequeñas angiodisplasias en colon ascendente también tratadas con argón. La paciente recibió octreótide subcutáneo a dosis de 0,1 mg cada 12 horas que no fue bien tolerado y fue suspendido. Se desechó el tratamiento hormonal por el mayor riesgo de inducir trombosis vascular dada la enfermedad linfoproliferativa de la paciente. Pese a los tratamientos endoscópicos y médicos las hemorragias digestivas persistieron y hasta marzo de 2008 fueron necesarios 24 concentrados de hematíes. Entonces se planteó el uso de talidomida a dosis de 300 mg al día en dos tomas. Tras la valoración de la paciente por hematólogos y neurólogos y estudio con electromiograma y la explicación a la paciente de las medidas de precaución que debía tomar (en cuanto al uso personal exclusivo de la talidomida) se solicitó su uso compasivo al Ministerio de Sanidad. En los 2 primeros meses de tratamiento la paciente tuvo rectorragias ocasionales y fue necesaria la transfusión de otros 3 concentrados de hematíes. En los 4 meses posteriores no han sido necesarias nuevas transfusiones ni ingresos debidos a nuevos episodios de sangrado digestivo. La talidomida ha sido bien tolerada. Desde que recibe el tratamiento la paciente ha presentado visión borrosa debido a cataratas y edemas en miembros inferiores en relación con su cardiopatía ambos sin relación con la talidomida.
+Responsable clínico: Dr. Juan Carlos Zenteno Unidad de Investigación, Instituto de Oftalmología Conde de Valenciana Chimalpopoca 14, Col. Obrera México D.F. 06800 E-mail: jczenteno@salud.gob.mx
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="37" text="Guadalupe" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="50" end="65" text="Ortiz de Pinedo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="72" end="79" text="9068442" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T20" start="92" end="143" text="Plaza Antonio Rodríguez de Hita 23 Col. Embajadores" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="167" end="176" text="México DF" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="182" end="187" text="06800" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="231" end="241" text="20/09/1941" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="263" end="269" text="Mexico" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="277" end="284" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="291" end="292" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="312" end="322" text="21/12/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="332" end="351" text="Juan Carlos Zenteno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="383" end="388" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="392" end="399" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="874" end="887" text="abril de 2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="986" end="1004" text="septiembre de 2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="1808" end="1821" text="marzo de 2008" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="2765" end="2784" text="Juan Carlos Zenteno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T1" start="2810" end="2855" text="Instituto de Oftalmología Conde de Valenciana" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T2" start="2856" end="2884" text="Chimalpopoca 14, Col. Obrera" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2885" end="2896" text="México D.F." TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2897" end="2902" text="06800" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="2911" end="2933" text="jczenteno@salud.gob.mx" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

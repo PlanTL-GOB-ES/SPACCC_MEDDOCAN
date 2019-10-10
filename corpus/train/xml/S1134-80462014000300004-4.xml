@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Maria Jesús.
+Apellidos: Sandoval Cantó.
+NHC: 2567056.
+Domicilio: Camino del Colmenar, 19 5C.
+Localidad/ Provincia: Málaga.
+CP: 29013.
+Datos asistenciales.
+Fecha de nacimiento: 19/02/2010.
+País: España.
+Edad:8 años Sexo: M.
+Fecha de Ingreso: 15/06/2018.
+Médico: Manuel Javier Rodríguez López NºCol: 28 28 51045.
+Informe clínico del paciente:Niña de 8 años de edad cuando sufre un esguince del tobillo izquierdo. Se diagnostica de SDRC del tobillo y pie izquierdo que remite completamente en un par de semanas con tratamiento médico.
+Dos meses después, y sin ningún traumatismo previo, se inicia un cuadro de dolor en el tobillo y el pie derecho que también se diagnostica de SDRC. Es derivada a la Unidad del Dolor por el Servicio de Traumatología Pediátrica a los dos meses de este diagnóstico.
+Se inicia tratamiento con pregabalina más tramadol, más la aplicación del parche de capsaicina al 8 % debido a la alodinia severa que presentaba, sin obtener un alivio adecuado ni del dolor ni del resto de la sintomatología acompañante.
+Por ello se decide (previo consentimiento paterno) la implantación, en quirófano y bajo anestesia general, de un catéter epidural lumbar y su conexión a una bomba externa para la administración de una infusión continua de bupivacaína durante dos semanas; pasado ese tiempo se detiene la infusión y se retira el catéter. Remisión completa de los síntomas que continúa.
+Remitido por: Manuel Javier Rodríguez López Unidad de Tratamiento del Dolor Hospital Regional Universitario "Carlos Haya" Avda. Carlos Haya, s/n 29010 Málaga e-mail: maje1946@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="8" end="19" text="Maria Jesús" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="32" end="46" text="Sandoval Cantó" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="53" end="60" text="2567056" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="73" end="99" text="Camino del Colmenar, 19 5C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="123" end="129" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="135" end="140" text="29013" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="184" end="194" text="19/02/2010" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="202" end="208" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="215" end="221" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="228" end="229" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="249" end="259" text="15/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="269" end="298" text="Manuel Javier Rodríguez López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="306" end="317" text="28 28 51045" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="348" end="352" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="356" end="362" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="1082" end="1089" text="paterno" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1422" end="1451" text="Manuel Javier Rodríguez López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1484" end="1529" text="Hospital Regional Universitario &quot;Carlos Haya&quot;" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1530" end="1552" text="Avda. Carlos Haya, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1553" end="1558" text="29010" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1559" end="1565" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1574" end="1591" text="maje1946@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Imanol .
+Apellidos: Gijon Rubio.
+NHC: 9567092.
+NASS: 89 56724677 40.
+Domicilio: Plaza de Roma, 95, 4 B.
+Localidad/ Provincia: Terrasa.
+CP: 08210.
+Datos asistenciales.
+Fecha de nacimiento: 15/08/1951.
+País de nacimiento: España.
+Edad: 62 años Sexo: H.
+Fecha de Ingreso: 21/12/2014.
+Médico: Pablo March López  NºCol: 08 08 57991.
+Informe clínico del paciente: Varón de 62 años con diabetes mellitus tipo 2 de larga evolución secundaria a pancreatitis crónica calcificada con tendencia a hipoglucemias debidas a la administración de insulina rápida, múltiples ingresos por cuadros infecciosos urinarios y deterioro funcional.
+Al ingreso padecía de abandono de la higiene personal con descontrol de los hábitos de eliminación, malnutrición, insuficiencia renal crónica, cetoacidosis diabética y una úlcera sacra grado III.
+El cultivo del exudado de la úlcera mostró que era positivo para PAMR y Staphylococcus aureus resistente a meticilina (SARM) y el antibiograma mostró que la PAMR era sensible únicamente a colistina (CMI < 2) e intermedio a amikacina (CMI = 16). El SARM era sensible a cotrimoxazol (CMI < 1/19) e intermedio a clindamicina (CMI = 1,9).
+Se inició tratamiento con crema de colistina 0,1% con una aplicación diaria en la cura y se administró cotrimoxazol 800/160 mg oral cada doce horas para el tratamiento del SARM. Tras un mes de tratamiento, se observó una evolución clínica favorable de la úlcera, con crecimiento de bordes y tejido de granulación, lo cual no se había observado previamente al tratamiento tópico.
+El paciente falleció debido a insuficiencia renal crónica agudizada por sepsis urinaria, motivo por el que no se pudo disponer de un cultivo posterior al tratamiento.
+Responsable clínico: Pablo March López Correo electrónico: pmarch@mutuaterrassa.es Correo postal: Servicio de Farmacia. Hospital Universitari Mutua Terrassa. Plaza Dr. Robert, 5. 080221 Terrassa (Barcelona). España.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="34" text="Imanol" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="48" end="59" text="Gijon Rubio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="66" end="73" text="9567092" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="81" end="95" text="89 56724677 40" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="108" end="130" text="Plaza de Roma, 95, 4 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="154" end="161" text="Terrasa" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="167" end="172" text="08210" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="216" end="226" text="15/08/1951" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="248" end="254" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="262" end="269" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="276" end="277" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="297" end="307" text="21/12/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="317" end="334" text="Pablo March López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="343" end="354" text="08 08 57991" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="386" end="391" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="395" end="402" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="1749" end="1766" text="Pablo March López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T7" start="1787" end="1810" text="pmarch@mutuaterrassa.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T6" start="1848" end="1884" text="Hospital Universitari Mutua Terrassa" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1886" end="1905" text="Plaza Dr. Robert, 5" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1907" end="1913" text="080221" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1914" end="1922" text="Terrassa" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1924" end="1933" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="1936" end="1942" text="España" TYPE="PAIS" comment=""/>
+  </TAGS>
+</MEDDOCAN>

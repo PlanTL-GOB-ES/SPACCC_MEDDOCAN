@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Jose María.
+Apellidos: Roque Pons.
+NHC: 2986931.
+NASS: 46 72470346 91.
+Domicilio: Paseo de los olivos, 13, 2B.
+Localidad/ Provincia: Madrid.
+CP: 28016.
+Datos asistenciales.
+Fecha de nacimiento: 04/06/1937.
+País: España.
+Edad: 80 años Sexo: H.
+Fecha de Ingreso: 13/12/2017.
+Médico: Francisco Javier Torres Gómez NºCol: 28 28 93458.
+Informe clínico del paciente: Varón de 80 años que debutó clínicamente con hematuria y dolor en flanco izquierdo. La puñopercusión en fosa renal izquierda fue positiva. Mediante técnicas de imagen se observó una masa a nivel de fosa renal izquierda que desdibujaba la silueta renal. El paciente fue intervenido realizándose una nefrectomía con ureterectomía proximal.
+En la pieza de nefrectomía el parénquima renal estaba sustituido en su práctica totalidad por una lesión blanquecina heterogénea en cuyo seno se podían apreciar cavidades quísticas de aspecto necrótico con formaciones papilares friables y mal delimitadas intracavitarias y áreas amarillentas mal delimitadas combinadas al azar con otras de aspecto necrótico y/o hemorrágico. Al corte se observó una consistencia firme, fundamentalmente correspondiendo con las áreas blanquecinogrisaceas si bien en otras localizaciones se apreció una consistencia blanda e incluso crujiente.
+El estudio histológico demostró una neoplasia constituida por una proliferación de células fusiformes y poligonales con marcada atípia y pleomorfismo nuclear, que adoptaba un patrón sólido de crecimiento. Más del 75% de la misma mostraba diferenciación a osteo y condrosarcoma si bien también se pudo demostrar diferenciación escamosa, principalmente tapizando la superficie interna de las formaciones quísticas previamente descritas. La elevada atipia celular observada se hacía más evidente con la presencia de abundantes células gigantes multinucleadas situadas en el seno de las áreas sólidas fusiformes y en torno a las áreas de diferenciación osteosarcomatosa (14) (seguramente estas últimas sean en realidad osteoclastos atípicos). El tumor contactaba con la cápsula renal sin sobrepasarla, invadiendo estructuras vasculares del hilio y el tejido adiposo de la pelvis. Tras un muestreo riguroso de la pieza quirúrgica se pudieron objetivar escasos focos con patrón histológico de carcinoma de células claras. El estudio inmunohistoquímico de la neoplasia mostró inmunotinción positiva para citoqueratinas tanto en el componente de células claras como en el fusocelular siendo este último igualmente positivo para vimentina (13). Con todo ello se emitió el diagnóstico de carcinoma sarcomatoide renal con predominio de áreas con diferenciación heteróloga maligna (osteo y condrosarcoma), haciendo referencia a la presencia de focos de carcinoma con patrón de células claras y de áreas con diferenciación escamosa.
+Remitido por: Dr: Francisco Javier Torres Gómez. Plaza de la Encarnación, 32 -P1 2B 41003. Sevilla. (España) javiertorresgomez@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="29" end="39" text="Jose María" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="52" end="62" text="Roque Pons" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="69" end="76" text="2986931" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="84" end="98" text="46 72470346 91" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="111" end="138" text="Paseo de los olivos, 13, 2B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="162" end="168" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="174" end="179" text="28016" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="223" end="233" text="04/06/1937" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="241" end="247" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="255" end="262" text="80 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="269" end="270" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="290" end="300" text="13/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="310" end="339" text="Francisco Javier Torres Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="347" end="358" text="28 28 93458" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="390" end="395" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="399" end="406" text="80 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="2841" end="2870" text="Francisco Javier Torres Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2872" end="2906" text="Plaza de la Encarnación, 32 -P1 2B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2907" end="2912" text="41003" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2914" end="2921" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2924" end="2930" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2932" end="2958" text="javiertorresgomez@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

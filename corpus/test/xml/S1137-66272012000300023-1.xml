@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Javier.
+Apellidos: Lapido Alonso.
+NHC: 297358.
+NASS: 72 82953015 03.
+Domicilio: Av de Villava, 90.
+Localidad/ Provincia: Pamplona.
+CP: 31015.
+Datos asistenciales.
+Fecha de nacimiento: 19/06/1983.
+País: España.
+Edad: 25 años Sexo: H.
+Fecha de Ingreso: 28/08/2008.
+Servicio: Digestivo.
+Médico: David Ruiz-Clavijo García NºCol: 31 31 86651.
+Historia Actual: Varón de 25 años de edad que ingresa en mayo de 2007 por un cuadro de molestias abdominales inespecíficas de 48 horas de evolución acompañado de rectorragia la mañana que acude a urgencias.
+Antecedentes:  Entre sus antecedentes personales destacaba una leve disminución del factor VII de la coagulación, dos episodios de hemorragia digestiva baja autolimitadas en 1999 (gastroscopia, colonoscopia, gammagrafía con Tc99, enteroscopia, tránsito intestinal y arteriografía sin objetivar lesiones) y otro episodio en 2004 (gastroscopia, colonoscopia e ileoscopia y gammagrafía con hematíes marcados sin anomalías) manifestados como hematoquecia. 
+Exploración física: En la exploración física no había nada destacable permaneciendo el paciente con una hemodinámica estable. 
+Resumen de pruebas complementarias: En los análisis de urgencias presentaba hemograma, bioquímica y coagulación normales. Dados los antecedentes del paciente se decidió comenzar el estudio con una gammagrafía con hematíes marcados observándose a las cinco horas de administrar el trazador, un depósito patológico a nivel de flanco derecho siendo compatible con actividad en zona de intestino delgado a nivel de ileon, ciego o colon ascendente. Para descartar un posible sangrado en dichas localizaciones se decidió realizar esa misma tarde una colonoscopia en la que se observaron restos hemáticos por todo el trayecto explorado hasta 15 cm de ileon, sin encontrar un claro punto de sangrado. 
+Remitido por: David Ruiz-Clavijo García. Servicio de Aparato Digestivo. Complejo Hospitalario de Navarra Irunlarrea, 4 31008 Pamplona E-mail: Bregapeche@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="8" end="14" text="Javier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="27" end="40" text="Lapido Alonso" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="47" end="53" text="297358" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="61" end="75" text="72 82953015 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="88" end="105" text="Av de Villava, 90" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="129" end="137" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="143" end="148" text="31015" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="192" end="202" text="19/06/1983" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="210" end="216" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="224" end="231" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="238" end="239" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="259" end="269" text="28/08/2008" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="300" end="325" text="David Ruiz-Clavijo García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="333" end="344" text="31 31 86651" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="363" end="368" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="372" end="379" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="403" end="415" text="mayo de 2007" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="727" end="731" text="1999" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="876" end="880" text="2004" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="1841" end="1866" text="David Ruiz-Clavijo García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1899" end="1931" text="Complejo Hospitalario de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1932" end="1945" text="Irunlarrea, 4" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1946" end="1951" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1952" end="1960" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1969" end="1991" text="Bregapeche@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

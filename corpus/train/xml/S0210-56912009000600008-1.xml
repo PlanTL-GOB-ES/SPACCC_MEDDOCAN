@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  David.
+Apellidos: Herrera Andrade.
+NHC: 9865327 .
+NASS: 78 45412245 45.
+Domicilio: Calle Donante de Sangre, 19 .
+Localidad/ Provincia: Guadalajara.
+CP: 19002 .
+Datos asistenciales.
+Fecha de nacimiento: 12/09/1971.
+País: España.
+Edad: 45 A Sexo: H.
+Fecha de Ingreso: 31/10/2016.
+Médico: Miguel Ángel Fernández Vaquero NºCol:02 19 45632.
+Historia Actual: Se trata de un paciente varón de 45 años de edad, con antecedentes de tabaquismo e hipercolesterolemia, que sufre una enfermedad coronaria aguda grave y que es intervenido de cuádruple bypass aortocoronario con circulación extra-corpórea. La ecocardiografía transesofágica mostró fracción de eyección del 8-10%.
+El paciente fue intubado y mantenido con ventilación mecánica 9 días en la unidad de cuidados intensivos (UCI). Tras su extubación, comienza con aumento de la frecuencia respiratoria, valores reducidos de saturación de oxígeno de oxihemoglobina, por lo que se procede a reintubación y reconexión al ventilador mecánico, que se mantienen hasta el duodécimo día en que se puede retirarlos de forma definitiva. Estabilizado el cuadro pasa a cardiología.
+Al octavo día de estar en planta comienza con disnea, estridor, intenso trabajo respiratorio y taquipnea, por lo que es trasladado nuevamente a la UCI. Ante los síntomas de obstruccion de la vía aérea superior, se realiza fibrobroncoscopia urgente que objetiva estenosis traqueal compleja. Se realiza tomografía computarizada (TC) cervical que muestra estenosis traqueal en extremo proximal del 66% a 2 cm, aproximadamente, de la glotis con fibrosis peritraqueal y luz de 5 mm.
+Se decide realizar broncoscopia rígida para colocar una prótesis traqueal. La broncoscopia rígida se combina con laserterapia con láser Nd-YAG sobre la lesión y posterior resección mecánica con broncoscopio rígido. Tras la recanalización traqueal se coloca una prótesis de silicona (Dumon 14/40), que queda correctamente anclada y permeable con el extremo proximal a unos 2,5 cm de las cuerdas, y el extremo distal, a unos 7 cm de la carina. En la revisión efectuada a los 7 días, la prótesis continúa totalmente permeable y se ha resuelto definitivamente el cuadro respiratorio.
+Remitido por: Miguel Ángel Fernández Vaquero Correo electrónico: miguelangelfernandezvaquero@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="9" end="14" text="David" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="27" end="42" text="Herrera Andrade" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="49" end="56" text="9865327" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T1" start="65" end="79" text="78 45412245 45" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="92" end="119" text="Calle Donante de Sangre, 19" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="144" end="155" text="Guadalajara" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="161" end="166" text="19002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="211" end="221" text="12/09/1971" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="229" end="235" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="243" end="247" text="45 A" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="254" end="255" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="275" end="285" text="31/10/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="295" end="325" text="Miguel Ángel Fernández Vaquero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="332" end="343" text="02 19 45632" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="386" end="391" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T4" start="395" end="402" text="45 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2197" end="2227" text="Miguel Ángel Fernández Vaquero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T2" start="2248" end="2284" text="miguelangelfernandezvaquero@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

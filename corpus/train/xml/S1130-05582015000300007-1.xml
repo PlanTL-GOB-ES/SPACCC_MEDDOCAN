@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Antonio.
+Apellidos: Fernandez Rodriguez.
+NHC: 3895734.
+NASS: 86 46754675 86.
+Domicilio: Calle Madrid, 34, 5, B.
+Localidad/ Provincia: Málaga.
+CP: 29026.
+Datos asistenciales.
+Fecha de nacimiento: 28/04/1975.
+País de nacimiento: España.
+Edad: 43 años Sexo: H.
+Fecha de Ingreso: 03/06/2018.
+Médico: Fátima Martínez Pérez NºCol: 29 29 33260.
+Informe clínico del paciente: varón de 43 años de edad que acude a nuestro servicio para valoración de tumoración frontal izquierda de 6 meses de evolución sin traumatismo previo a ese nivel. El paciente no refiere dolor en la tumoración, tan solo sensación de pesadez y cefalea fronto-occipital izquierda. A la exploración física se observa una tumoración de 1 cm de diámetro con mínimo eritema perilesional. A la palpación se presenta como una masa dura, no adherida al plano óseo sin alteración de rama frontal del nervio facial. Refiere presentar a su vez un nódulo similar en región costal derecha. Se solicita una TC y una punción-aspiración con aguja fina guiada por ecografía (ECO-PAAF) de la tumoración costal. En la TC se objetiva una masa de aproximadamente 0,7 cm a nivel de la región frontal izquierda, bien delimitada que no invade tejidos adyacentes y no presenta destrucción ósea. La ECO-PAAF de la región costal derecha fue informada de lipoma.
+Se decide realizar una biopsia-exéresis de la tumoración bajo anestesia local. Intraoperatoriamente se observa una lesión firmemente adherida a la fascia del músculo frontal y al pericráneo. Se realiza una disección subperióstica incluyendo músculo frontal y pericráneo, no se observa erosión del hueso frontal subyacente. El cierre del defecto quirúrgico fue directo y sencillo. El postoperatorio cursó sin complicaciones y no ha presentado recidiva tras 18 meses de seguimiento posquirúrgico.
+El estudio anotomopatológico describe a nivel macroscópico un fragmento nodular irregular blanco-pardusco de 0,9 × 0,7 × 0,4 cm. A nivel microscópico se observa un tejido conectivo con una lesión nodular circunscrita, mal delimitada, compuesta por una proliferación de elementos ovales-fusiformes que se disponen en una matriz laxa con patrón arremolinado-estoriforme junto a células gigantes de tipo osteoclástico, algunos hematíes extravasados y escaso componente inflamatorio mononuclear disperso. Inmunohistoquímicamente presentó positividad para el anticuerpo CD68 y la proteína vimentina en las células gigantes y con menor intensidad en las células ovales. Negatividad para la proteína S-100. Positividad para el anticuerpo Ki 67 representando un índice proliferativo de menos del 5%.
+El estudio concluye con el diagnóstico de neoplasia benigna de origen mesenquimal tipo FN.
+Responsable clínico: Fátima Martínez Pérez fatimamartinezp@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="35" text="Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="48" end="67" text="Fernandez Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="74" end="81" text="3895734" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="89" end="103" text="86 46754675 86" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="116" end="138" text="Calle Madrid, 34, 5, B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="162" end="168" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="174" end="179" text="29026" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="223" end="233" text="28/04/1975" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="255" end="261" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="269" end="276" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="283" end="284" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="304" end="314" text="03/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="324" end="345" text="Fátima Martínez Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="353" end="364" text="29 29 33260" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="396" end="401" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="405" end="412" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2727" end="2748" text="Fátima Martínez Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2749" end="2774" text="fatimamartinezp@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

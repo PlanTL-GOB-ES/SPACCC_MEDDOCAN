@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Manuel.
+Apellidos: Machado Briones.
+NHC: 3695454.
+NASS: 56 87126855 66.
+Domicilio: Patio Escuelas, 1. .
+Localidad/ Provincia: Salamanca.
+CP:37008.
+Datos asistenciales.
+Fecha de nacimiento: 01/03/1969.
+País: España.
+Edad: 47 años Sexo:H.
+Fecha de Ingreso: 15/11/2016.
+Servicio: NEF.
+Médico: Pilar Fraile-Gómez  NºCol: 37 28 03464.
+Historia Actual: Presentamos el caso de un varón de 47 años de edad, sin antecedentes familiares de EF que seguía controles en consulta externa de nuestro servicio desde el 2002 por proteinuria. En 2006, la ecografía abdominal y la resonancia magnética (RM) mostraron una mala diferenciación córtico-medular y la presencia de múltiples quistes parapiélicos bilaterales. En 2007, por deterioro de la función renal con niveles de creatinina sérica de 1,6 mg/dl y proteinuria de 1 g/24 h, se decidió realizar una biopsia renal guiada por ecografía, que reveló cambios consistentes con moderada-grave nefritis intersticial crónica. En 2009, el paciente ingresó debido a edemas y disnea de esfuerzo. 
+Exploración física: La exploración no mostró lesiones cutáneas sugestivas de angioqueratomas en piel.
+Resumen de pruebas complementarias: La analítica de ingreso mostró una creatinina sérica de 1,7 mg/dl y proteinuria de 2,4 g/24 h. Los hallazgos en el ecocardiograma y en la RM cardiaca mostraron una probable miocardiopatía por enfermedad de depósito. La electromiografía mostró signos de neuropatía de fibras pequeñas, con alteraciones de la función autonómica. Se realizó una prueba de sudor que no recogió sudor tras la estimulación con pilocarpina, y un estudio oftalmológico que reveló córnea verticillata.
+Evolución y comentarios: Ante la sospecha clínica de EF, se determinó el nivel de actividad de la alfa galactosidasa en leucocitos y plasma, utilizando un sustrato fluorogénico 4-methyilumbelliferyl α-D-galactosidasa. La actividad GLA era 0,5 nmol/h/ml (2% de lo normal) en el plasma, y /4,2 nmol/h/mg de proteína (10,7% de lo normal) en los leucocitos, lo que confirma el diagnóstico de la EF. La actividad de la enzima fue normal en los familiares estudiados del paciente (madre y hermana). Se realizó el estudio genético, el ácido desoxirribonucleico genómico (ADN) se extrajo de mancha de sangre seca y los fragmentos de genes de codificación se amplificaron mediante PCR. La secuenciación directa de los 7 exones del gen de GLA se realizó usando un secuenciador capilar (ABI PRISM® 310 Genetic Analyzer). El análisis determinó que el paciente era homocigoto para una nueva mutación c.1182del (delección de un solo nucleótido) en el exón 7 del gen alfa-GLA A. Se investigó a la madre y hermana del paciente, siendo negativas para esta mutación. Los hermanos restantes no estaban disponibles para el estudio, pero ninguno de ellos ha manifestado síntomas clínicos asociados con la enfermedad, hasta la fecha. El paciente tiene un hijo varón, por lo que la mutación no se transmite a la descendencia. Se inició la terapia de reemplazo hormonal con agalsidasa alfa (Replagal®). Durante el seguimiento, el edema y el dolor neuropático mejoraron, pero la función renal empeoró progresivamente hasta la insuficiencia renal terminal, en un período de 3 años. El paciente inició hemodiálisis, y un año más tarde, recibió un injerto renal de donante vivo de su esposa. 
+El paciente, durante el seguimiento postrasplante, ha permanecido con función renal estable con un filtrado glomerular estimado de 45 ml/min/1,73 m2, con proteinuria de 200 mg/24 h. Se han realizado biopsias de seguimiento a los 3 meses y al año, que no han mostrado depósitos de Gb3 en el tejido renal. En cuanto a la evolución cardiaca, clínicamente ha presentado aparición de disnea de esfuerzo, además de empeoramiento de la fibrosis miocárdica, valorada por resonancia cardiaca realizada en febrero de 2014. Se decidió cambio de tratamiento a agalsidasa beta (Fabrazyme®), desde entonces.
+Remitido por: Dra. Pilar Fraile-Gómez, Servicio de Nefrología, Hospital Universitario de Salamanca , Paseo de San Vicente 58-182, 37007 Salamanaca pilarfg@usal.es pilarfg9@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T37" start="8" end="14" text="Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T36" start="27" end="42" text="Machado Briones" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T35" start="49" end="56" text="3695454" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T34" start="64" end="78" text="56 87126855 66" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T33" start="91" end="108" text="Patio Escuelas, 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T32" start="134" end="143" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T31" start="148" end="153" text="37008" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T30" start="197" end="207" text="01/03/1969" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T29" start="215" end="221" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T28" start="229" end="236" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T27" start="242" end="243" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T26" start="263" end="273" text="15/11/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T25" start="298" end="316" text="Pilar Fraile-Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T24" start="325" end="336" text="37 28 03464" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T23" start="381" end="386" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T22" start="390" end="397" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T21" start="511" end="515" text="2002" TYPE="FECHAS" comment=""/>
+    <DATE id="T20" start="536" end="540" text="2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T19" start="711" end="715" text="2007" TYPE="FECHAS" comment=""/>
+    <DATE id="T18" start="969" end="973" text="2009" TYPE="FECHAS" comment=""/>
+    <OTHER id="T1" start="2087" end="2097" text="familiares" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T17" start="2123" end="2128" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="2131" end="2138" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T4" start="2439" end="2455" text="Genetic Analyzer" TYPE="INSTITUCION" comment=""/>
+    <OTHER id="T15" start="2630" end="2635" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="2638" end="2645" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="2701" end="2709" text="hermanos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="2881" end="2891" text="hijo varón" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T3" start="3304" end="3310" text="esposa" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="3809" end="3824" text="febrero de 2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="3926" end="3944" text="Pilar Fraile-Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T10" start="3970" end="4005" text="Hospital Universitario de Salamanca" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T9" start="4008" end="4035" text="Paseo de San Vicente 58-182" TYPE="CALLE" comment=""/>
+    <LOCATION id="T8" start="4037" end="4042" text="37007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T7" start="4043" end="4053" text="Salamanaca" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T6" start="4054" end="4069" text="pilarfg@usal.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T5" start="4070" end="4090" text="pilarfg9@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

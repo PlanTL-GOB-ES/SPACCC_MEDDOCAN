@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Silvia.
+Apellidos: Martinez Ramos.
+NHC: 4257985.
+Domicilio: Calle de la Plaza de Toros, 23.
+Localidad/ Provincia: Sevilla.
+CP: 41234.
+Datos asistenciales.
+Fecha de nacimiento: 13/05/2017.
+País: España.
+Sexo: M.
+Fecha de Ingreso:13/05/2017.
+Médico: Francisco Javier Torres Gómez NºCol: 41 41 23574.
+Informe clínico del paciente: Recién nacido, varón fallecido a los 10 y 45 minutos de vida respectivamente, al que se le realizó examen necrópsico. fue remitido con el juicio clínico de insuficiencia respiratoria grave con sospecha de Síndrome de Potter con la constatación de oligoamnios severo; nació mediante cesárea urgente por presentación de nalgas y el test de Apgar fue 1/3/7; minutos más tarde falleció. El examen externo permitió observar una tonalidad subcianótica, facies triangular con hendiduras parpebrales mongoloides, micrognatia, raiz nasal ancha y occipucio prominente. El abdomen, globuloso, duro y ligeramente abollonado permitía la palpación de dos grandes masas ocupando ambas fosas renales y hemiabdomenes. A la apertura de cavidades destacaba la presencia de dos grandes masas renales de 10 x 8 x 5,5 cm y 12 x 8 x 6 cm con pesos de 190 y 235 gr respectivamente. Si bien se podía discernir la silueta renal, la superficie, abollonada, presentaba numerosas formaciones quísticas de contenido seroso; al corte dichos quistes mostraban un tamaño heterogéneo siendo mayores los situados a nivel cortical, dando al riñón un aspecto de esponja. Los pulmones derecho e izquierdo pesaban 17 y 15 gr (peso habitual del conjunto de 49 gr) mostrando una tonalidad rojiza uniforme; ambos se encontraban comprimidos como consecuencia de la elevación diafragmática condicionada por el gran tamaño de los riñones. El resto de los órganos no mostraba alteraciones macroscópicas significativas salvo las alteraciones posicionales derivadas de la compresión renal. Con tales hallazgos se emitió en ambos casos el diagnóstico de enfermedad poliquística renal autosómica recesiva infantil.
+Remitido por:  Francisco Javier Torres Gómez C/ Matahacas, 18ª - 1B 41003 Sevilla. (España). javiertorresgomez@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="29" end="35" text="Silvia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="48" end="62" text="Martinez Ramos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="69" end="76" text="4257985" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T17" start="89" end="119" text="Calle de la Plaza de Toros, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="143" end="150" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="156" end="161" text="41234" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="205" end="215" text="13/05/2017" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="223" end="229" text="España" TYPE="PAIS" comment=""/>
+    <OTHER id="T13" start="237" end="238" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="257" end="267" text="13/05/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="277" end="306" text="Francisco Javier Torres Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="314" end="325" text="41 41 23574" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T9" start="357" end="370" text="Recién nacido" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="372" end="377" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2037" end="2066" text="Francisco Javier Torres Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2067" end="2089" text="C/ Matahacas, 18ª - 1B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2090" end="2095" text="41003" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2096" end="2103" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2106" end="2112" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="2115" end="2141" text="javiertorresgomez@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

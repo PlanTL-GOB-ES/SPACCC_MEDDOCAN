@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Ainara.
+Apellidos: Arreche Lazkorain.
+NHC: 782545.
+NASS: 20 46756655 42.
+Domicilio: Calle Oria 19, 3B.
+Localidad/ Provincia: Tolosa.
+CP:20400.
+Datos asistenciales.
+Fecha de nacimiento: 10/01/1985.
+País: España.
+Edad: 33 años Sexo: M.
+Fecha de Ingreso: 14/05/2018.
+Médico: Javier Andonegui  NºCol: 20 20 87454.
+Historia Actual:Paciente de 33 años de edad, gestante de 34 semanas (tercer embarazo) con embarazo controlado y sin antecedentes de interés, que ingresa por urgencias por presentar cefaleas, dolor en epigastrio y visión borrosa de 3 días de evolución.
+Tiene un hijo nacido en 2013 y otro hijo nacido en 2014.
+Exploración física: La paciente presentaba una tensión arterial (TA) de 210/130 mmHg, llamaba la atención la existencia de edema (+ + +) en ambos miembros inferiores, con fóvea. 
+Resumen de pruebas complementarias: En los datos de laboratorio destacaban la elevación de las transaminasas y de la bilirrubina, y un discreto descenso de las plaquetas: hematíes 4,52; hemoglobina12 gr./dl; hematocrito 35% (estos datos en una embarazada sugieren hemoconcentración); plaquetas 150; estudio de coagulación: normal; creatinina 1,48 mg/dl; aspartato amino transferasa (A.S.T.): 885,2 unidades internacionales (U.I.); alanina amino transferasa (A.L.T.): 334 U.I.; bilirrubina total: 4,41 mg/dl.; la proteinuria era de 500 mg/dl.
+Evolución y comentarios: Dado el mal estado general de la paciente no fue posible determinar la agudeza visual. En la oftalmoscopia se observaba un edema de ambos discos ópticos con desprendimientos serosos de la retina, afectando a ambas máculas, bulloso en el ojo derecho y algo más plano en el izquierdo. Existían hemorragias en el polo posterior de los dos ojos y estrechamientos focales de las arterias retinianas.
+La enferma ingresó en la Unidad de Cuidados Intensivos donde se inició perfusión con Labetalol (5 mg por ml, 10 ml cada hora) y se pautó Enalapril intravenoso (IV) (1 mg cada 6 horas). La TA disminuyó aunque no alcanzó niveles normales. Ante esta situación se realizó cesárea urgente obteniéndose feto varón de 1.800 gramos. Tras la cesárea la paciente sufrió oliguria de la que se recuperó posteriormente. Se produjo la normalización de las transaminasas, bilirrubina, plaquetas y diuresis, y se consiguió el control de la TA con tratamiento antihipertensivo.
+La enferma fue vista de nuevo por nuestro Servicio a los 5 días presentando: una agudeza visual de 1.0 en el ojo derecho y de 1.0 difícil en el izquierdo. La presión intraocular era de 14 mmHg en ambos ojos y la biomicroscopia de cámara anterior era normal. En el fondo de ojo se observaba la persistencia de los desprendimientos serosos maculares aunque ya planos. En ambos ojos persistía el edema del disco óptico y el desprendimiento exudativo peripapilar. En el ojo derecho existía un desprendimiento bulloso con nivel, situado entre las arcadas vasculares inferiores, en la zona nasal e inferior al disco. En el ojo izquierdo era posible distinguir una línea de demarcación temporal a la mácula delimitando el desprendimiento seroso, inicialmente bulloso. En las fases precoces de la angiografía fluoresceínica se observaba un retraso en el llenado de la coriocapilar, muy evidente a nivel peripapilar. Las fases más avanzadas mostraban focos de difusión progresiva en el espacio subpigmentario y subretiniano, con llenado progresivo de las zonas de desprendimiento seroso.
+A los 30 días del ingreso, los vasos tenían un aspecto normal, habían desaparecido los desprendimientos, así como el edema de papila y las hemorragias. Únicamente persistía la línea de demarcación en el ojo izquierdo. En las zonas donde anteriormente habían estado los desprendimientos se observaban áreas focales de hiper e hipopigmentación.
+A los tres meses la paciente se había recuperado, siendo su agudeza visual de 1.0 en los dos ojos. En el examen de fondo de ojo sólo era destacable la presencia de alteraciones focales de hiper e hipopigmentación donde la retina había estado desprendida.
+Remitido por: Javier Andonegui. Paseo de san francisco 19. Tolosa. Email: jandonen@cfnavarra.es (Javier Andonegui)
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="8" end="14" text="Ainara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="27" end="44" text="Arreche Lazkorain" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="51" end="57" text="782545" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="65" end="79" text="20 46756655 42" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="92" end="109" text="Calle Oria 19, 3B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="133" end="139" text="Tolosa" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="144" end="149" text="20400" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="193" end="203" text="10/01/1985" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="211" end="217" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="225" end="232" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="239" end="240" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="260" end="270" text="14/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="280" end="296" text="Javier Andonegui" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T1" start="305" end="316" text="20 20 87454" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T7" start="346" end="353" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T21" start="579" end="583" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T22" start="594" end="598" text="2013" TYPE="FECHAS" comment=""/>
+    <OTHER id="T24" start="606" end="610" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T23" start="621" end="625" text="2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="4020" end="4036" text="Javier Andonegui" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="4038" end="4063" text="Paseo de san francisco 19" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="4065" end="4071" text="Tolosa" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="4080" end="4101" text="jandonen@cfnavarra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <NAME id="T2" start="4103" end="4119" text="Javier Andonegui" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

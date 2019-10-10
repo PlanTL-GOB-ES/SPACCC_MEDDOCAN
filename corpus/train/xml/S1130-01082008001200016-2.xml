@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Maria Elena.
+Apellidos: Ruiz Gutierrez.
+NHC: 206526.
+NASS: 27 83507895 06.
+Domicilio: Calle San Bernardo, 29 4F.
+Localidad/ Provincia: Madrid.
+CP: 28015.
+Datos asistenciales.
+Fecha de nacimiento: 13/01/1990.
+País: España.
+Edad: 28 años Sexo: M.
+Fecha de Ingreso: 20/02/2018.
+Médico: Belén Fernández Álvarez NºCol: 28 28 54136.
+Informe clinico: Mujer de 28 años que refiere epigastralgias y síndrome constitucional de un mes de evolución. La TC mostró una masa de 15 x 13 x 7 cm dependiente del colon ascendente con metástasis hepáticas bilobares; se realizó una hemicolectomía derecha con biopsia hepática. La anatomía patológica mostró un tumor formado por células fusiformes con gran actividad mitótica que, tras el examen ultraestructural e IHQ fue diagnóstico de GANT. Se realizó tratamiento adyuvante con imatinib 400 mg diarios vía oral. En la TC de seguimiento a los seis meses se demostró una reducción parcial de las metástasis hepáticas, al año una remisión completa y tras tres años no hay datos de recidiva local ni a distancia.
+Remitido por: Dra. Belén Fernández Álvarez Correo Electrónico: belenorense@gmail.com. Hospital Gregorio Marañon Calle del Dr. Esquerdo, 46, 28007 Madrid Teléfono: 915 86 80 00
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="8" end="19" text="Maria Elena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="32" end="46" text="Ruiz Gutierrez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="53" end="59" text="206526" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="67" end="81" text="27 83507895 06" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="94" end="119" text="Calle San Bernardo, 29 4F" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="143" end="149" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="155" end="160" text="28015" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="204" end="214" text="13/01/1990" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="222" end="228" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="236" end="243" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="250" end="251" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T1" start="271" end="281" text="20/02/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="291" end="314" text="Belén Fernández Álvarez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="322" end="333" text="28 28 54136" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="352" end="357" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="361" end="368" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="1068" end="1091" text="Belén Fernández Álvarez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T7" start="1112" end="1133" text="belenorense@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T6" start="1135" end="1160" text="Hospital Gregorio Marañon" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1161" end="1187" text="Calle del Dr. Esquerdo, 46" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1189" end="1194" text="28007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1195" end="1201" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="1212" end="1224" text="915 86 80 00" TYPE="NUMERO_TELEFONO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Mateo.
+Apellidos: Sanchez Rivas.
+NHC: 7806239.
+Domicilio: Calle Sancho Martin, 34, 2 A.
+Localidad/ Provincia: Almeria.
+CP: 04201.
+Datos asistenciales.
+Fecha de nacimiento: 21/08/2001.
+País: España.
+Edad: 16 años Sexo: H.
+Fecha de Ingreso: 01/04/2018.
+Médico:  Ana Cristina Cis Spoturno NºCol: 04 04 52302.
+Informe clínico del paciente: adolescente de 16 años, jugador de baloncesto de competición desde los 5 años, que acudió al Centro Andaluz de Medicina del Deporte (CAMD) de Almería, para realizar un examen médico solicitado por su Federación. En la anamnesis refiere episodios de palpitaciones, cortos y autolimitados, durante el reposo y el esfuerzo. En el ECG de reposo se detectó un intervalo entre ondas P y R (intervalo PR) muy corto con onda delta, compatible con preexcitación por lo que fue derivado para valoración cardiológica.
+Destacan entre sus antecedentes personales una evaluación previa a los 9 años, en un paciente asintomático, con un ECG normal y la referencia de un tío paterno, afectado con una arritmia recientemente ablacionado.
+Un nuevo ECG de reposo confirmó un ritmo sinusal preexcitado, compatible con vía anteroseptal derecha y se descartó cardiopatía estructural mediante ecocardiografía. En el holter de ritmo de 24 horas, mantuvo preexcitación permanente y sin arritmias. La prueba de esfuerzo en cinta, con protocolo de Bruce fue concluyente y libre de arritmias, manteniendo el WPW a frecuencias cardíacas máximas.
+Considerando los datos previos y su condición de deportista de competición, fue enviado para estudio electrofisiológico (EEF) y ablación de vía anómala.
+El procedimiento fue realizado con dos electrocatéteres: uno para diagnóstico con registro del His y otro para mapeo y ablación en región septal perihisiana. En ritmo sinusal se indujo taquicardia ortodrómica y se aplicó radiofrecuencia (RF) sobre la vía accesoria auriculo-ventricular (AV) de conducción bidireccional. Se interrumpe la taquicardia y la preexcitación, finalizando el procedimiento. Quedó con bloqueo de rama derecha (BRD), de probable origen traumático. No hay descripción de período refractario efectivo de la vía anómala.
+En el primer control posterior, el paciente refiere la misma clínica anterior a la ablación y su manejo para interrumpir las taquicardias. El ECG basal y el holter de 24 horas, mantienen el patrón sinusal con WPW, sin documentarse taquicardias.
+Se ha planteado a los padres realizar nueva consulta al especialista en electrofisiología para ofrecerle las mejores opciones de tratamiento en relación a la práctica deportiva.
+Remitido por: Dra. Ana Cristina Cis Spoturno Centro Médico Deportivo Federico Garcia Lorca 50 04006 Almeria. España Correo electrónico: cmedicodeportivo@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T29" start="29" end="34" text="Mateo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T28" start="47" end="60" text="Sanchez Rivas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T27" start="67" end="74" text="7806239" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T26" start="87" end="115" text="Calle Sancho Martin, 34, 2 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T25" start="139" end="146" text="Almeria" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T24" start="152" end="157" text="04201" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T22" start="201" end="211" text="21/08/2001" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T23" start="219" end="225" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T20" start="233" end="240" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T18" start="247" end="248" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T21" start="268" end="278" text="01/04/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T17" start="289" end="314" text="Ana Cristina Cis Spoturno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T15" start="322" end="333" text="04 04 52302" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="365" end="376" text="adolescente" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T19" start="380" end="387" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T14" start="389" end="425" text="jugador de baloncesto de competición" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="436" end="442" text="5 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T12" start="458" end="503" text="Centro Andaluz de Medicina del Deporte (CAMD)" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T11" start="507" end="514" text="Almería" TYPE="TERRITORIO" comment=""/>
+    <AGE id="T10" start="943" end="949" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="1020" end="1031" text="tío paterno" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="2443" end="2449" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="2618" end="2643" text="Ana Cristina Cis Spoturno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="2644" end="2667" text="Centro Médico Deportivo" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T7" start="2668" end="2692" text="Federico Garcia Lorca 50" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="2693" end="2698" text="04006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2699" end="2706" text="Almeria" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2708" end="2714" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="2735" end="2761" text="cmedicodeportivo@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

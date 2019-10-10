@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Maria.
+Apellidos: De Roide Dominguez.
+NHC: 3728345.
+NASS: 76 34910756 20.
+Domicilio: C/ Carnicer, 14, 1, 17.
+Localidad/ Provincia: Madrid.
+CP: 28033.
+Datos asistenciales.
+Fecha de nacimiento: 15/07/1999.
+País de nacimiento: España.
+Edad: 16 años Sexo: M.
+Fecha de Ingreso: 03/07/2015.
+Médico: Vanessa Domínguez Leñero NºCol: 28 28 57410.
+Informe clínico del paciente: Mujer de 16 años, diagnosticada de Psoriasis en placas severa, en seguimiento por dermatología y en tratamiento con Etanercept 25 mg 2 veces a la semana. Consultó por presentar movimientos cervicales anormales en marzo de 2013. Había iniciado tratamiento con etanercept, 25 mg 2 veces por semana en mayo de 2012, por un brote de psoriasis en placas severo que no respondía a tratamientos tópicos (clobetasol, calcipotriol, betametasona + calcipotriol) ni orales (ciclosporina y micofenolato de mofetilo). Tras 12 semanas de tratamiento se obtuvo respuesta clínica completa, motivo por el que se retiró el fármaco. Una semana después de la última dosis de etanercept, administrada el 29 de junio de 2012, desarrolló un cuadro de dermatitis granulomatosa intersticial en extremidades, que se atribuyó a la retirada de etanercept6. En noviembre de 2012, tuvo un nuevo brote de psoriasis, se valoró la severidad mediante el cálculo de Psoriasis Area and Severity Index (PASI), obteniéndose un índice PASI de 18.60. Se reinició etanercept 25 mg 2 veces por semana, alcanzando mejoría clínica tras 15 semanas de tratamiento.
+El día 5 de marzo de 2013, la paciente ingresó en Medicina Interna por una cuadro de 48 horas de evolución de movimientos bruscos, involuntarios de la cabeza hacia la izquierda; repetitivos, arrítmicos y mantenidos durante el sueño. Había recibido la última dosis de etanercept el 27 de febrero de 2013. El cuadro no se acompañaba de ningún otro síntoma sistémico. Los movimientos provocaban sacudidas del miembro superior izquierdo, eran indoloros y asociaban hipoestesia en la hemicara y porción anterior de D4 a L2. No refería episodios previos similares ni alteraciones del movimiento a esos u otros niveles que sugirieran antecedentes personales de mioclonías, distonías o algún otro tipo de movimiento involuntario. A la exploración física se encontraba afebril y hemodinámicamente estable. La exploración neurológica reveló una hipoestesia nociceptiva en hemicara izquierda y parte anterolateral del tronco desde D2 a L2, y D2 a D8 en espalda.
+Entre las pruebas complementarias, se realizó un electroencefalograma, mostrando movimientos mioclónicos de flexión cervical izquierda y elevación del hombro izquierdo, presentando sobre la región temporoparietal del mismo hemisferio un grafoelemento con morfología de punta que precede al movimiento en 200-400 ms, interpretado como artefacto por contracción muscular.
+Ante la sospecha clínica de RAM por Etanercept, se retiró el fármaco y se solicitó una búsqueda exhaustiva al Servicio de Farmacia del hospital sobre las reacciones descritas con Etanercept.
+Se comenzó tratamiento con carbamazepina 100 mg por sospecha de discinesias paroxísticas, se suspendió por mareo y náuseas. Sucesivamente se pautó tratamiento con clonacepam 0,5 mg 1-1-2, levitiracetam 250 mg c/12 h, ácido valproico 500 mg c/8 h y diazepam 2,5 mg 0-1-2 sin mejoría. Se planteó diagnóstico diferencial entre mioclonias espinales, aunque sin afectación de vías largas, discinesias paroxísticas no cinesiogenicas o distonía-mioclonía. A la semana del ingreso, comenzó a responder el cuadro clínico con diazepam a dosis de 2,5 mg 1-1-2, clonazepam 0,5 mg 1-1-2, valproico 500 mg c/8 h, levetiracetam 1000 mg c/12 h y biperideno 2 mg c/8 h. El décimo día fue dada de alta con mejoría clínica y tratamiento con clonazepam 0,5 mg 1-1-2, biperideno 4 mg c/24 h y levetiracetam 1000 mg c/12 h en pauta descendete.
+Responsable clínico: Dra. Vanessa Domínguez Leñero Correo electrónico: vanedole80@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="33" text="Maria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="46" end="64" text="De Roide Dominguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="71" end="78" text="3728345" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="86" end="100" text="76 34910756 20" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="113" end="135" text="C/ Carnicer, 14, 1, 17" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="159" end="165" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="171" end="176" text="28033" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="220" end="230" text="15/07/1999" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="252" end="258" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="266" end="273" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="280" end="281" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="301" end="311" text="03/07/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="321" end="345" text="Vanessa Domínguez Leñero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="353" end="364" text="28 28 57410" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="396" end="401" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="405" end="412" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="609" end="622" text="marzo de 2013" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="695" end="707" text="mayo de 2012" TYPE="FECHAS" comment=""/>
+    <DATE id="T5" start="1079" end="1098" text="29 de junio de 2012" TYPE="FECHAS" comment=""/>
+    <DATE id="T4" start="1228" end="1245" text="noviembre de 2012" TYPE="FECHAS" comment=""/>
+    <DATE id="T3" start="1522" end="1540" text="5 de marzo de 2013" TYPE="FECHAS" comment=""/>
+    <DATE id="T2" start="1796" end="1817" text="27 de febrero de 2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="3875" end="3899" text="Vanessa Domínguez Leñero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3920" end="3942" text="vanedole80@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

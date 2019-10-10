@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Javier.
+Apellidos: Garay Alejandre.
+NHC: 29807.
+NASS: 82 68548907 56.
+Domicilio: Av. Castilla la Mancha, 46 6A.
+Localidad/ Provincia: Madrid.
+CP: 28046.
+Datos asistenciales.
+Fecha de nacimiento: 14/04/1990.
+País: España.
+Edad: 24 años Sexo: H.
+Fecha de Ingreso: 17/06/2018.
+Médico: Raúl González García NºCol: 28 28 97643.
+Motivo de ingreso: dolor hemimandibular izquierdo y fiebre.
+Antecedentes: No presenta antecedentes patológicos de interés.
+Exploración física: La exploración física no refleja ningún signo específico, pero sí dolor a la palpación de los tejidos pericoronarios del tercer molar inferior izquierdo. 
+Resumen de pruebas complementarias: Se realiza analítica de Urgencias observando un leve aumento del número de leucocitos, sin otra alteración destacable. En la ortopantomografía (OPG) se visualizan ambos terceros molares incluídos, en posición mesioangular, con sendos sacos foliculares, el derecho de mayor tamaño.
+Con la sospecha de posible infección de causa odontógena (pericoronaritis) se instaura tratamiento antibiótico, con resolución completa del cuadro. Se recomienda exodoncia de ambos cordales inferiores. El estudio histológico confirmó la presencia de un saco folicular asociado al cordal, formado por epitelio poliestratificado no queratinizado. Tras la extracción del tercer molar inferior izquierdo el paciente no acude para completar el tratamiento. A los 20 meses consulta de nuevo por presentar dolor a nivel del tercer molar inferior derecho. En la OPG se aprecia una imagen radiolúcida de gran tamaño en torno a la corona del cordal inferior derecho.
+Con la sospecha diagnóstica de quiste dentígero asociado a tercer molar se realiza intervención quirúrgica con exodoncia de la pieza y quistectomía. El estudio anatomopatológico confirmó el diagnóstico de presunción, como una lesión con pared de tejido conjuntivo revestido en su interior por un epitelio estratificado de células ciliares queratinizadas y células con abundante mucina.
+Evolución y comentarios: En la revisión a los tres meses se verificó el adecuado proceso de osificación activa (con formación de trabéculas óseas) de la cavidad residual generada por el quiste.
+Remitido por: Dr. Raúl González García C/ Los Yébenes nº 35, 8º C 28047 Madrid, España E-mail: raugg@mixmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="9" end="15" text="Javier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="28" end="43" text="Garay Alejandre" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="50" end="55" text="29807" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="63" end="77" text="82 68548907 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="90" end="119" text="Av. Castilla la Mancha, 46 6A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="143" end="149" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="155" end="160" text="28046" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="204" end="214" text="14/04/1990" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="222" end="228" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="236" end="243" text="24 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="250" end="251" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="271" end="281" text="17/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="291" end="311" text="Raúl González García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="319" end="330" text="28 28 97643" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <NAME id="T7" start="2202" end="2222" text="Raúl González García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2223" end="2249" text="C/ Los Yébenes nº 35, 8º C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2250" end="2255" text="28047" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2256" end="2262" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2264" end="2270" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2279" end="2296" text="raugg@mixmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: David.
+Apellidos: Sandoval Vazquez.
+NHC: 4837450.
+NASS: 95 68905862 03.
+Domicilio: Calle Sinesio Delgado 44, 7 A.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 12/09/1968.
+País de nacimiento: España.
+Edad: 47 años Sexo: H.
+Fecha de Ingreso: 21/08/2016.
+Médico: osé Ángel Tomás Amérigo  NºCol: 28 28 63891.
+Informe clínico del paciente: Mujer de 47 años de edad, que acude a nuestro servicio 3 meses después de descubrir una tumoración en la región preauricular izquierda. La paciente refiere que la lesión fue de aparición súbita y crecimiento progresivo. Se queja de dolor en región temporal, cervical y periocular izquierda. Entre los antecedentes médicos solo cabe destacar una hipertensión arterial esencial en tratamiento con inhibidores de la enzima convertidora de angiotensina, no presentando otras alteraciones sistémicas de relevancia.
+En el examen físico se evidencia un nódulo de 1,5 cm de diámetro, aproximadamente, en región preauricular izquierda. A la palpación, la tumoración es de consistencia blanda, móvil y ligeramente sensible al tacto. La máxima apertura oral es de 45 mm y presenta chasquido articular en ambas articulaciones. El resto de la exploración de cabeza y cuello es anodina.
+La tomografía computarizada (TC) y la resonancia magnética nuclear (RMN), revelan una imagen sugestiva de lesión quística de 1,8 × 1,7 × 1,4 cm adyacente al borde superior de la glándula parótida. La RMN muestra un pedículo dependiente de ATM izquierda, siendo la posición del menisco articular y desplazamiento del cóndilo mandibular con boca abierta y cerrada normal.
+Se realiza una punción aspiración con aguja fina que se informaba como muestra constituida en su totalidad por material proteináceo e histiocitos, compatible con lesión quística.
+Ante los hallazgos obtenidos se lleva a cabo el tratamiento quirúrgico mediante un abordaje preauricular, identificando el tronco del nervio facial y sus respectivas ramas. Tras la disección del nervio facial se decide realizar una parotidectomía superficial de la porción superior al encontrar múltiples adherencias a la lesión, aislando el quiste sinovial por encima de la rama frontal del nervio facial. Posteriormente se visualizó el pedículo que comunica el quiste con la articulación temporomandibular, procediendo a su ligadura y posterior resección. La herida fue suturada por planos.
+La pieza quirúrgica obtenida fue fijada con formol al 10%. Los cortes histológicos teñidos con hematoxilina y eosina revelaban una lesión quística multilocular. Para establecer con certeza la presencia de sinoviocitos en el revestimiento del quiste, se realiza un análisis inmunohistoquímico que confirma su existencia.
+Durante el seguimiento ambulatorio de la paciente tras 9 meses de evolución no ha mostrado complicaciones postoperatorias ni signos de recidiva.
+Responsable clínico: Dr. José Ángel Tomás Amérigo jtamerigo@hotmail.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="33" text="David" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="46" end="62" text="Sandoval Vazquez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="69" end="76" text="4837450" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="84" end="98" text="95 68905862 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="111" end="140" text="Calle Sinesio Delgado 44, 7 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="164" end="170" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="176" end="181" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="225" end="235" text="12/09/1968" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="257" end="263" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="271" end="278" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="285" end="286" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="306" end="316" text="21/08/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="326" end="349" text="osé Ángel Tomás Amérigo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="358" end="369" text="28 28 63891" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="401" end="406" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="410" end="417" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2906" end="2930" text="José Ángel Tomás Amérigo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2931" end="2951" text="jtamerigo@hotmail.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

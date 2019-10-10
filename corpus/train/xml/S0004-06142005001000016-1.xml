@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre:Carlos.
+Apellidos: Gallardo Gimenez .
+CIPA: nhc-087123.
+NASS: 25 1973648256 13.
+Domicilio: Av de burgos 7, 3 C.
+Localidad/ Provincia: León.
+CP: 24001.
+NHC: 087123.
+Datos asistenciales.
+Fecha de nacimiento: 13/09/1951.
+País: España.
+Edad: 65 Sexo: H.
+Fecha de Ingreso: 25/07/2016.
+Especialidad:.
+Médico: José Antonio Toribio García  NºCol: 24 24 78451.
+Motivo de ingreso: síndrome obstructivo infravesical.
+Historia Actual: Varón de 65 años que consultaba por un síndrome obstructivo infravesical junto con una tumoración blanda en el hemiescroto derecho, que disminuía de tamaño durante la micción.
+Exploración física:  la exploración física destacaba la presencia de una bolsa escrotal derecha aumentada de tamaño y de una hernia inguinal reductible. Al tacto rectal destacaba una próstata de tamaño medio, bilobulada y de características adenomatosas.
+Pruebas complementarias: Dentro de las exploraciones complementarias se realizó un PSA total que fue normal, una ecografía vesico-prostática que puso de manifiesto una próstata de 57 gramos y una ecografía testicular con una imagen sugestiva de herniación vesical.
+Finalmente, la cistografía retrógrada nos mostró la presencia de una hernia vesical masiva en hemiescroto derecho.
+Evolución y comentarios: el paciente permanece asintomático.
+Tratamiento: El tratamiento fue quirúrgico y consistió en la resección de la porción herniada de la vejiga que era para peritoneal y una corrección de la hernia inguinal con malla de marlex. En un segundo tiempo se realizó una RTU de próstata.
+Responsable clinico: José Antonio Toribio García. Hospital de León Altos de Nava, s/n 24071 León España E-mail: draltor@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="8" end="14" text="Carlos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="27" end="43" text="Gallardo Gimenez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="56" end="62" text="087123" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="70" end="86" text="25 1973648256 13" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="99" end="118" text="Av de burgos 7, 3 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="142" end="146" text="León" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="152" end="157" text="24001" TYPE="TERRITORIO" comment=""/>
+    <ID id="T21" start="164" end="170" text="087123" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="214" end="224" text="13/09/1951" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="232" end="238" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="246" end="248" text="65" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="255" end="256" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="276" end="286" text="25/07/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="311" end="338" text="José Antonio Toribio García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="347" end="358" text="24 24 78451" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="431" end="436" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="440" end="447" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1568" end="1595" text="José Antonio Toribio García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1597" end="1613" text="Hospital de León" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1614" end="1632" text="Altos de Nava, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1633" end="1638" text="24071" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1639" end="1643" text="León" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1644" end="1650" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1659" end="1676" text="draltor@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

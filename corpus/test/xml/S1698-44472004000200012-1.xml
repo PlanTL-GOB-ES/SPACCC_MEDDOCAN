@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Helen.
+Apellidos: Bellido Jarquin.
+NHC: 7845923.
+NASS: 89 34670934 12.
+Domicilio: Paseo de Verin, 23.
+Localidad/ Provincia: Valladolid.
+CP: 47013.
+Datos asistenciales.
+Fecha de nacimiento: 10/05/1948.
+País: España.
+Edad: 67 años Sexo: M.
+Fecha de Ingreso: 21/05/2015.
+Servicio: Cirugía Maxilofacial.
+Episodio: 3476594.
+Médico: Sandra Galdeano Arenas  NºCol: 47 47 58120.
+Informe clínico del paciente: Paciente mujer de 67 años de edad que fue remitida por su médico de cabecera a nuestra consulta por presentar una tumoración oral de 20 años de evolución. La lesión era asintomática y había crecido en el último año, produciéndole una deformidad estética facial e interfiriéndole la masticación. Como antecedente personal cabía destacar histerectomía más doble anisectomía hacía 10 años. No refería hábito tabáquico, ni consumo de alcohol.
+En la exploración física se constataba asimetría facial. En el examen intraoral se apreciaba una tumoración pediculada en cresta gingival mandibular izquierda correspondiente al espacio edéntulo de 37, de 6-8 cm de diámetro, bien delimitada, parcialmente cubierta por una mucosa de coloración blanquecina y de consistencia duro-elástica. Además presentaba movilidad por desplazamiento de 35, 36 y 38 y restos radiculares de 25, 26 y 27. La exploración cervical era negativa.
+El examen radiológico con ortopantomografía ponía de manifiesto el desplazamiento dentario y los restos radiculares citados.
+Bajo el diagnóstico de presunción de fibroma cemento-osificante, la paciente fue intervenida quirúrgicamente bajo anestesia general realizándose extirpación de la tumoración, legrado del lecho óseo y avulsión de 35, 36, 38 y restos radiculares maxilares.
+La evolución fue satisfactoria y tras 9 meses de seguimiento la paciente se encuentra asintomática y sin evidencia de signos físicos, ni radiológicos de recidiva.
+Remitido por:  Dra. Sandra Galdeano Arenas. Departamento de Cirugía Maxilofacial. Hospital Universitario del Rio Hortega. C/ Cardenal Torquemada s/n. 47010 Valladolid. Tlf: 983420400. Fax: 983331566 E-mail: m_galdeano@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="29" end="34" text="Helen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="47" end="62" text="Bellido Jarquin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="69" end="76" text="7845923" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="84" end="98" text="89 34670934 12" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="111" end="129" text="Paseo de Verin, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="153" end="163" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="169" end="174" text="47013" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="218" end="228" text="10/05/1948" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="236" end="242" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="250" end="257" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="264" end="265" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="285" end="295" text="21/05/2015" TYPE="FECHAS" comment=""/>
+    <ID id="T9" start="339" end="346" text="3476594" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T11" start="356" end="378" text="Sandra Galdeano Arenas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="387" end="398" text="47 47 58120" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="439" end="444" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="448" end="455" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T10" start="1907" end="1929" text="Sandra Galdeano Arenas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1969" end="2007" text="Hospital Universitario del Rio Hortega" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="2009" end="2035" text="C/ Cardenal Torquemada s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2037" end="2042" text="47010" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2043" end="2053" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="2060" end="2069" text="983420400" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T2" start="2076" end="2085" text="983331566" TYPE="NUMERO_FAX" comment=""/>
+    <CONTACT id="T1" start="2094" end="2116" text="m_galdeano@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

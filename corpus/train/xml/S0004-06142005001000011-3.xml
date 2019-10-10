@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre:  Alicia .
+Apellidos: Marquez Ferrer.
+CIPA: nhc-19535.
+NASS: 17-19738246-22.
+Domicilio: Avenida san francisco 13, 2A.
+Localidad/ Provincia: Pamplona .
+CP: 31001.
+       NHC: 19535.
+Datos asistenciales.
+Fecha de nacimiento: 31/5/1976.
+País: España.
+Edad: 41  Sexo: M.
+Fecha de Ingreso: 05/4/2017.
+Especialidad: Cirugía general y del Aparato digestivo.
+Médico: Pablo Sánchez Acedo   NºCol: 31 31 49875.
+Motivo de ingreso: trasplante hepático.
+Antecedentes: apendicectomía en el año 1978, cirrosis hepática de probable origen alcohólico diagnosticada en 1989, HDA secundaria a varices esofágicas grado II en 1996 junto a hipertensión portal y ascitis. En Febrero de 1998 fue diagnosticada de hepatocarcinoma.
+Historia Actual: La paciente recibió trasplante hepático en octubre de 2016 que cursó sin incidencias y fue dada de alta en tratamiento con tacrolimus. 8 meses del trasplante la paciente refirió por vez primera debilidad de miembros inferiores y pérdida de sensibilidad de los mismos evolucionando en el plazo de 2 meses a una paraplejia completa que afecta a vejiga urinaria.
+Exploración física y pruebas complementarias: A la exploración física se observaba paraparesia con amioatrofia por desuso de EEII, hipoestesia subjetiva mayor en EID con nivel D8-D10, afectación de la sensibilidad profunda más intensa en EID sobretodo a nivel vibratoria. ROT presentes, vivos los rotulianos e hipoactivos los aquíleos. RCP extensor bilateral.
+En este caso también se realizron las siguientes pruebas diagnósticas:
+RMN cerebral: afectación de cordón medular desde C2 a D10, presentando también lesiones hiperintensa lagunares supratentoriales fundamentalmente a nivel subcortical de lóbulo frontal izquierdo y también lóbulo frontal, parietal y occipital derechos.
+PEES: patológicos a nivel de tibiales posteriores LCR: determinación sexológica para HTLV-I positiva, resto normal.
+Determinación sanguínea de anticuerpos (ELISA) y de existencia del virus (HTLV-I), positiva.
+Evolución y comentarios: Tratada con Interferón-á presentando inicialmente discreta mejoría sobretodo a nivel distal de las EEII a pesar de que en últimos días hubo de disminuirse la pauta por aumento de los valores de transaminasas. A pesar de la buena respuesta inicial, la sintomatología ha empeorado progresivamente y en estos momentos es dependiente para la vida diaria y porta sonda vesical permanente tras resultar fallido el intento de reeducación vesical mediante sondaje intermitente. El trasplante hepático, en el momento actual es funcionante.
+Diagnóstico Principal: paraparesia espástica tropical
+Responsable clinico: Pablo Sánchez Acedo Servicio de Cirugía general y del Aparato digestivo Complejo Hospitalario de Navarra 31008 Pamplona E-mail: pablosanchez_84@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="10" end="16" text="Alicia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="30" end="44" text="Marquez Ferrer" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="56" end="61" text="19535" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="69" end="83" text="17-19738246-22" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="96" end="124" text="Avenida san francisco 13, 2A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="148" end="156" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="163" end="168" text="31001" TYPE="TERRITORIO" comment=""/>
+    <ID id="T24" start="182" end="187" text="19535" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T19" start="231" end="240" text="31/5/1976" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="248" end="254" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="262" end="264" text="41" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="272" end="273" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="293" end="302" text="05/4/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="367" end="386" text="Pablo Sánchez Acedo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="396" end="407" text="31 31 49875" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <DATE id="T11" start="484" end="492" text="año 1978" TYPE="FECHAS" comment=""/>
+    <DATE id="T12" start="559" end="563" text="1989" TYPE="FECHAS" comment=""/>
+    <DATE id="T10" start="613" end="617" text="1996" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="660" end="675" text="Febrero de 1998" TYPE="FECHAS" comment=""/>
+    <DATE id="T1" start="774" end="789" text="octubre de 2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="2612" end="2631" text="Pablo Sánchez Acedo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2684" end="2716" text="Complejo Hospitalario de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="2717" end="2722" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2723" end="2731" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T4" start="2740" end="2767" text="pablosanchez_84@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

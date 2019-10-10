@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Jose Antonio.
+Apellidos: Prados Menendez.
+NHC: 5780346.
+NASS: 56 01657685 67.
+Domicilio: Calle arzobispo morcillo 16, 5C.
+Localidad/ Provincia: Madrid.
+CP: 28023.
+Datos asistenciales.
+Fecha de nacimiento: 13/10/1978.
+País: España.
+Edad: 39 años Sexo: H.
+Fecha de Ingreso: 06/01/2018.
+Médico: Ignacio Genol Saavedra NºCol: 28 28 74161.
+Historia Actual del paciente: Paciente varón de 39 años que acude al Servicio de Urgencias por presentar proptosis de un año de evolución en ambos ojos (AO), sin descenso de la agudeza visual (AV). No presentaba ningún otro síntoma a destacar ni antecedentes de interés. En la exploración el paciente presentaba una AV de 0,5 en ojo derecho (OD) (referido como amblíope por el paciente) y de 0,8 en ojo izquierdo (OI). La exoftalmometría Hertel era de 25 mm en OD y de 23 mm en OI. La exploración biomicroscópica y tonométrica fue normal. En el estudio del fondo de ojo presentaba edema de papila en OD. El test de colores Farnsworth era normal. En el estudio campimétrico el OI era normal pero en el OD presentaba un defecto inferonasal, que no era una cuadrantanopsia estrictamente. Se solicitó una tomografía computerizada (TC) que se informó como ectasia/engrosamiento de las vainas de ambos NO en contexto de exoftalmos bilateral más marcado en OD. Sospechándose la presencia de meningocele bilateral se optó por observar periódicamente al paciente sin realizar ningún otro acto diagnóstico-terapéutico adicional. En la actualidad, 16 años después, el paciente presenta una AV de 0,6 en OD y 0,8 en OI. La exoftalmometría y campimetría han permanecido estables. En el fondo de ojo el aspecto papilar apenas ha variado. Continúa con sus revisiones periódicas.
+Remitido por: Ignacio Genol Saavedra. C/. Piamonte, 7, 3.o B 28004 Madrid. España E-mail: ignaciogenol@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="21" text="Jose Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="34" end="49" text="Prados Menendez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="56" end="63" text="5780346" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="71" end="85" text="56 01657685 67" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="98" end="129" text="Calle arzobispo morcillo 16, 5C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="153" end="159" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="165" end="170" text="28023" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="214" end="224" text="13/10/1978" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="232" end="238" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="246" end="253" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="260" end="261" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="281" end="291" text="06/01/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="301" end="323" text="Ignacio Genol Saavedra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="331" end="342" text="28 28 74161" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="383" end="388" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="392" end="399" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1722" end="1744" text="Ignacio Genol Saavedra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1746" end="1768" text="C/. Piamonte, 7, 3.o B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1769" end="1774" text="28004" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1775" end="1781" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1783" end="1789" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1798" end="1820" text="ignaciogenol@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

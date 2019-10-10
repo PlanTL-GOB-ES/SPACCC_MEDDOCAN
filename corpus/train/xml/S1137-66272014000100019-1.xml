@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[                                         Nombre: Leticia.
+                                         Apellidos: Garcia Romero.
+                                         NHC: 2587934.
+                                         NASS: 30 27656097 46.
+                                         Domicilio: Calle de Francisco Bergamin  12, 5C .
+                                         Localidad/ Provincia: Pamplona.
+                                         CP: 31003.
+                                         .
+Datos asistenciales.
+Fecha de nacimiento: 21/05/1984.
+País: España.
+Edad: 32 años Sexo: M.
+Fecha de Ingreso: 23/08/2016.
+Servicio: Urgencias.
+Médico: Helena León Brito NºCol: 31 31 20548.
+Motivo de ingreso: Estreñimiento.
+Historia Actual: Mujer de 32 años refiere estreñimiento habitual, en aumento durante la última temporada.
+Exploración física: La exploración física resulta anodina salvo el tacto rectal, en el que se palpa a punta de dedo una protrusión redondeada, blanda, y no dolorosa en la cara lateral derecha de la pared rectal. 
+Resumen de pruebas complementarias: Se solicita una ecografía abdominal apreciándose una masa de aspecto quístico y dudosa etiología de localización pararrectal derecha, de unos 34 mm de diámetro longitudinal. Se solicita una RM de pelvis menor para filiar la lesión quística hallada en la ecografía, que se informa como una formación redondeada (4,8 x 2,7 cm), bien delimitada, con una cápsula fina y un contenido que muestra una intensidad de señal homogénea (tenuamente hipointenso en T2 y con una mayor señal en STIR) en espacio pararrectal derecho y produciendo compresión sobre el mismo, pudiendo tratarse de una anomalía congénita. 
+Evolución y comentarios: La paciente es derivada al servicio de Cirugía General para tratamiento quirúrgico programado con la sospecha de hamartoma quístico retrorrectal (HQR). Se extirpa una tumoración de aspecto quístico con paredes finas y varias loculaciones que se introducen entre las fibras musculares del músculo puborrectal-elevador a las que está adherido. En el servicio de Anatomía Patológica se reciben dos fragmentos irregulares de tejido de aspecto membranoso, de coloración parduzca, que en conjunto miden 3,5 x 3 x 1 cm. Microscópicamente se trata de una lesión quística revestida mayoritariamente por epitelio escamoso maduro, focalmente por epitelio transicional y glandular, en cuya pared hay fascículos desorganizados de músculo liso y acinos de glándulas mucosas.
+Diagnóstico: HQR
+Remitido por: Dra. Helena León Brito C/ Benjamín de Tudela, 61, 6º B 31008 Pamplona. Navarra E-mail.hleonbrito@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="49" end="56" text="Leticia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="110" end="123" text="Garcia Romero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="171" end="178" text="2587934" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="227" end="241" text="30 27656097 46" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="295" end="330" text="Calle de Francisco Bergamin  12, 5C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="396" end="404" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="451" end="456" text="31003" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="543" end="553" text="21/05/1984" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="561" end="567" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="575" end="582" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="589" end="590" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="610" end="620" text="23/08/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="651" end="668" text="Helena León Brito" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="676" end="687" text="31 31 20548" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="740" end="745" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="749" end="756" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2504" end="2521" text="Helena León Brito" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2522" end="2553" text="C/ Benjamín de Tudela, 61, 6º B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2554" end="2559" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2560" end="2568" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2570" end="2577" text="Navarra" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2585" end="2607" text="hleonbrito@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

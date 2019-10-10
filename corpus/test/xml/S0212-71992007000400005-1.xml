@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Maria.
+Apellidos: Nuñez Vinuesa.
+NHC: 65463543.
+NASS: 54 86165464 44.
+Domicilio: Plaça de l'Ajuntament, 8 .
+Localidad/ Provincia: Valencia.
+CP: 46015.
+Datos asistenciales.
+Fecha de nacimiento: 21/12/1985.
+País: España.
+Edad: 31 años Sexo: M.
+Fecha de Ingreso: 30/05/2017.
+Episodio: 123464.
+Médico: José Pérez Silvestre  NºCol: 46 46 81856.
+Historia Actual del paciente: Mujer de 31 años, diagnosticada de LES y síndrome antifosfolípido hace 6 años, controlada en consultas externas de Reumatología, en tratamiento con prednisona (15 mg al día), AAS (100 mg día), calcio (1 g), vitamina D (800 u) y omeprazol (20 mg al día). Refiere fiebre (40 ºC) de predominio vespertino, de una semana de evolución, sin otra sintomatología acompañante. En la exploración física sólo llama la atención hepatoesplenomegalia, sin adenopatías palpables. En cuanto a las exploraciones complementarias hemocultivos, urinocultivo, mantoux son negativos; Eco-Dopler y radiografía de tórax, dentro de la normalidad; TAC toraco-abdominal normal, salvo hepatoesplenomegalia sin lesiones focales aparentes. En la analítica Hb 6,7, leucocitos 1.000 (400 neutrófilos, 500 linfocitos), plaquetas 60.000, ANA 1/1.280, antiDNA 42,3, factor reumatoide 176, PCR 11,9, C3 122/C4 11,2, proteinograma (gammaglobulina 44,2) y serologías normales. Ante posible brote de LES, se decide transfusión de dos concentrados de hematíes, inyecciones de C-GSF diarias, bolos de 1 g de metilprednisolona durante tres días, y amikazina y ceftazidima como tratamiento empírico de neutropenia. Tras cuatro días con el tratamiento descrito, se mantiene fiebre de 40 ºC, con valores analíticos semejantes:en nueva analítica Hb 8,5, leucocitos 1.000 (400 neutrófilos, 500 linfocitos), plaquetas 32.000, pensando que el cuadro no se corresponde con un brote de la enfermedad. Se decide realizar punción esternal, objetivando abundantes hemoparásitos del género Leishmania,confirmando la sospecha diagnóstica, iniciamos tratamiento con anfotericina B liposomal 200 mg al día durante 5 días, quedando afebril el segundo día. Analítica de control a los 10 días de tratamiento: con Hb 11, leucocitos 2600 (1.700 neutrófilos) y plaquetas 97.000 al alta.
+Remitido por: José Pérez Silvestre. Hospital General Universitario. Avda. Tres Cruces, s/n. 46014 Valencia. e-mail: jopesilver@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="14" text="Maria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="27" end="40" text="Nuñez Vinuesa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="47" end="55" text="65463543" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="63" end="77" text="54 86165464 44" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="90" end="114" text="Plaça de l'Ajuntament, 8" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="139" end="147" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="153" end="158" text="46015" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="202" end="212" text="21/12/1985" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="220" end="226" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="234" end="241" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="248" end="249" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="269" end="279" text="30/05/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T11" start="291" end="297" text="123464" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="307" end="327" text="José Pérez Silvestre" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="336" end="347" text="46 46 81856" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="379" end="384" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="388" end="395" text="31 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2216" end="2236" text="José Pérez Silvestre" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2238" end="2268" text="Hospital General Universitario" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2270" end="2292" text="Avda. Tres Cruces, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2294" end="2299" text="46014" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2300" end="2308" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2318" end="2340" text="jopesilver@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

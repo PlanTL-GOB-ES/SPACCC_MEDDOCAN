@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  David.
+Apellidos: Quintero Lozano.
+NHC: 8746893.
+NASS: 45 81364709 56.
+Domicilio: Calle Alondra, 23, 3 A.
+Localidad/ Provincia: Madrid.
+CP: 28014.
+Datos asistenciales.
+Fecha de nacimiento: 19/03/1940.
+País de nacimiento: España.
+Edad: 75 años Sexo: H.
+Fecha de Ingreso: 04/08/2015.
+Médico: Marcia Castro Rebollo  NºCol: 28 28 57320.
+Informe clínico del paciente: Varón de 75 años, diagnosticado de queratopatía lipoidea bilateral primaria, que refería pérdida progresiva de agudeza visual (AV).
+A la exploración oftalmológica presentaba una AV de 20/60 en ojo derecho (OD) y movimiento de manos en ojo izquierdo (OI). La biomicroscopía mostró una opacidad corneal blanco-amarillenta en todo el espesor del estroma, de forma anular incompleta, respetando en eje visual en OD y afectando la córnea central en OI. También se observó neovascularización superficial y profunda extendiéndose al centro de la córnea. Los niveles séricos de lípidos fueron normales. Se intervino quirúrgicamente, realizándosele una queratoplastia penetrante con extracción extracapsular de catarata e implante de lente intraocular en OI. El tratamiento postoperatorio incluyó esteroides y antibióticos tópicos: 4 veces/día (Tobradex®, Alcon-Cusí, Barcelona, España), ciclosporina 2% tópica: 4 veces/día y prednisona oral: 50mg/día, en pauta descendente durante 2 semanas.
+Al mes, la biomicroscopía reveló neovascularización corneal profunda extendiéndose sobre el lecho y la interfase injerto-huésped a las 3 y 6 horas, con una opacidad blanquecina alrededor de los vasos.. Tras obtener el consentimiento informado de medicación de uso compasivo, se inició tratamiento tópico con bevacizumab (25mg/ml): 4 veces/día/2 meses, en pauta descendente durante 6 meses. A los 8 meses, el paciente se mantenía con bevacizumab tópico: 1 vez/día. La Fig. 1C muestra la regresión parcial de la neovascularización corneal con injerto transparente. Su AV fue de 20/40.
+Responsable clínico: Dra. Marcia Castro Rebollo Correo electrónico: mcrebo@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="29" end="34" text="David" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="47" end="62" text="Quintero Lozano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="69" end="76" text="8746893" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="84" end="98" text="45 81364709 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="111" end="133" text="Calle Alondra, 23, 3 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="157" end="163" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="169" end="174" text="28014" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="218" end="228" text="19/03/1940" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="250" end="256" text="España" TYPE="PAIS" comment=""/>
+    <LOCATION id="T12" start="264" end="271" text="75 años" TYPE="PAIS" comment=""/>
+    <OTHER id="T11" start="278" end="279" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="299" end="309" text="04/08/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="319" end="340" text="Marcia Castro Rebollo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="349" end="360" text="28 28 57320" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="392" end="397" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="401" end="408" text="75 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T5" start="1239" end="1249" text="Alcon-Cusí" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T4" start="1251" end="1260" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1262" end="1268" text="España" TYPE="PAIS" comment=""/>
+    <NAME id="T2" start="1985" end="2006" text="Marcia Castro Rebollo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2027" end="2043" text="mcrebo@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

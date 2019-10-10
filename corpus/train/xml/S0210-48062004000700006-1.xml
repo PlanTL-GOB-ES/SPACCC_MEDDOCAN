@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Maria.
+Apellidos: Cruz Osores.
+NHC: 7895673.
+NASS: 37 86573566 30.
+Domicilio: Calle los Andes, 17, 1, A.
+Localidad/ Provincia: Oviedo.
+CP: 33423.
+Datos asistenciales.
+Fecha de nacimiento: 23/01/1956.
+País de nacimiento: España.
+Edad: 60 años Sexo: M.
+Fecha de Ingreso: 19/03/2016.
+Médico: Silvino Rubio Barbón NºCol: 33 33 68971.
+Informe clínico del paciente: Paciente de 60 años con antecedentes de trastornos depresivos, con intento de autolesión, que segun su esposo, Diego Maldonado Jimenez, se ha provocado politraumatismo con fractura de sacro, rama iliopubiana derecha (2 años de evolución); cursando posteriormente con infecciones urinarias de repetición, estreñimiento e incontinencia de patrón irritativo.
+A la exploración física presenta genitales externos atrógicos, test Boney negativo y discreto cistocele.
+En la analítica presenta una bioquímica con parámetros normales y función renal conservada. Destaca un sedimento con leucocituria y bactiuria.
+El urocultivo está contaminado. En el estudio urográfico presenta una buena función bilateral, con una moderada ectasia pieloureteral derecha, falta de repleción vesical y rechazo de la misma.
+Scan abdomino-pélvico: bazo, área pancreática, riñones con discreta ectasia ureteral derecha. Fecaloma gigante que ocupa la práctica totalidad de la pelvis y que produce gran desplazamiento vesical.
+Se consulta con la unidad de Digestivo, donde se procede a ingreso para extracción manual y terapia de enemas evacuantes; proceder a la limpieza del recto-sigma.
+En posteriores controles se ha notado mejoría de su cuadro miccional y control del estreñimiento.
+Responsable clínico: Dr. Silvino Rubio Barbón. Acacias, 30. 33423 Soto de Llanera. Oviedo, Asturias. e-mail: 71616620@eresmas.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="33" text="Maria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="46" end="57" text="Cruz Osores" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="64" end="71" text="7895673" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="79" end="93" text="37 86573566 30" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="106" end="131" text="Calle los Andes, 17, 1, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="155" end="161" text="Oviedo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="167" end="172" text="33423" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="216" end="226" text="23/01/1956" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="248" end="254" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="262" end="269" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="276" end="277" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="297" end="307" text="19/03/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="317" end="337" text="Silvino Rubio Barbón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="345" end="356" text="33 33 68971" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T9" start="400" end="407" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="499" end="522" text="Diego Maldonado Jimenez" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1669" end="1689" text="Silvino Rubio Barbón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1691" end="1702" text="Acacias, 30" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1704" end="1709" text="33423" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1710" end="1725" text="Soto de Llanera" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1727" end="1733" text="Oviedo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1735" end="1743" text="Asturias" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1753" end="1773" text="71616620@eresmas.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

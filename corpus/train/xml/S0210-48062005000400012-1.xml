@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Francisco.
+Apellidos: Peñate Ordoñez.
+NHC: 8945724.
+NASS: 84 93567056 02.
+Domicilio: C/ Cobre, 5, 3, Izq..
+Localidad/ Provincia: Madrid.
+CP: 28034.
+Datos asistenciales.
+Fecha de nacimiento: 19/05/1943.
+País de nacimiento: España.
+Edad: 72 años Sexo: H.
+Fecha de Ingreso: 20/08/2015.
+Médico: Fernando Martos Sánchez NºCol: 28 28 57031.
+Historia Actual: Paciente de 72 años consultó por síntomas de tramo urinario inferior de un año de evolución, destacando micción nocturna de 4-5 veces/noche y polaquiuria diurna con micción en dos tiempos. Días antes de la consulta presentó hematuria total con coágulos. 
+Antecedentes: Paciente de 72 años con antecedentes de patología cardiovascular grave: cardiopatía isquémica con infarto de miocardio que precisó triple by-pass aorto-coronario, arteriosclerosis de troncos supraaórticos y de extremidades inferiores; EPOC, fumador hasta hace 2 años, hernia discal y estenosis de canal. Consultó por síntomas de tramo urinario inferior de un año de evolución, destacando micción nocturna de 4-5 veces/noche y polaquiuria diurna con micción en dos tiempos. Días antes de la consulta presentó hematuria total con coágulos. 
+Exploración física: A la exploración física se apreciaba paciente con deterioro del estado general, abdomen globuloso y cicatriz de toracotomía. Al tacto rectal se palpaba próstata compatible con hiperplasia benigna grado II.
+Pruebas complementarias: La analítica de sangre mostraba hemograma normal, función renal normal, leve hiperuricemia de 7,4 y PSA 0,9 ng/ml.
+La ecografía inicial mostraba riñones normales y lesión exofítica en base vesical-cara derecha. La citología fue positiva para células malignas y la cistoscopia confirmó la lesión neoplásica vesical. El análisis de fragmentos tras RTU mostró carcinoma mixto, papilar de células transicionales grado II-III infiltrante de músculo liso con áreas de adenocarcinoma mucoide infiltrante asociado a lesiones de carcinoma in situ y cistitis glandular quística (estadio pT2-pT3 G-III).
+El TAC posterior mostraba únicamente el engrosamiento de pared vesical y ateromatosis calcificada aorto-ilio-femoral siendo el resto de vísceras normales, sin detectarse adenopatías significativas.
+Se realizó cistoprostatectomía radical y neovejiga ileal tipo Camey II. El postoperatorio cursó sin complicaciones y fue dado de alta al 10º día.
+El análisis histológico definitivo de la pieza revelaba una tumoración epitelial ulcerada infiltrante de todo el espesor de pared hasta tejido adiposo perivesical, constituida por nidos pequeños de células uroteliales dispuestas en lagunas artefactuales, con imágenes concluyentes de invasión vascular, con formaciones papilares sin tallo, que recuerdan al carcinoma seroso ovárico. No se observaban cuerpos de psammoma. Había además lesiones asociadas de displasia epitelial en uretra prostática y un carcinoma de próstata bien diferenciado en lóbulo derecho Gleason 4 (2+2). En pieza de linfadenectomía izquierda se aislaron 11 ganglios afectados por carcinoma micropapilar mientras que los ganglios linfáticos contralaterales no estaban afectados.
+Inmunofenotípicamente el componente micropapilar expresó citoqueratina 7, CA125, citoqueratina 20, BX2 y P53, siendo negativo para CEA.
+Se administraron 4 ciclos de quimioterapia a base de carboplatino y gencitabina evitándose cisplatino por la afectación cardíaca. Durante el tratamiento presentó varias infecciones urinarias y cuadros de anemia y leucopenia que precisaron transfusiones sanguíneas y factores estimulantes de colonias (filgastrim).
+Evolución: Después de la QMT llevó varios meses de calidad de vida aceptable, los controles de imagen mediante ecografía y TAC a 3, 6 y 9 meses presentaron evolución satisfactoria de ambos riñones y la neovejiga. A los 10 meses inició cuadro de dolores óseos y abdominal precisando analgesia de forma continuada. En la TAC realizada al año de la intervención se evidenciaron imágenes nodulares sugestivas de recidiva mesentérica en hemiabdomen izquierdo y dilatación renoureteral bilateral. El paciente fallece a los 14 meses del diagnóstico tras deterioro progresivo de la función renal y el estado general por progresión intra y retroperitoneal.
+Responsable clínico: Dr. Fernando Martos Sánchez. Avda. Escosura, 4 - 6° E-28015 Madrid
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="37" text="Francisco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="50" end="64" text="Peñate Ordoñez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="71" end="78" text="8945724" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="86" end="100" text="84 93567056 02" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="113" end="132" text="C/ Cobre, 5, 3, Izq" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="157" end="163" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="169" end="174" text="28034" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="218" end="228" text="19/05/1943" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="250" end="256" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="264" end="271" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="278" end="279" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="299" end="309" text="20/08/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="319" end="342" text="Fernando Martos Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="350" end="361" text="28 28 57031" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T6" start="392" end="399" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T5" start="661" end="668" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="4250" end="4273" text="Fernando Martos Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="4275" end="4297" text="Avda. Escosura, 4 - 6°" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="4298" end="4305" text="E-28015" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4306" end="4312" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

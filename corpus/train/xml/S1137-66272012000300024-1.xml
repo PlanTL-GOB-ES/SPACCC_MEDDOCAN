@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Ignacio.
+Apellidos: Lopez de Hoyos.
+NHC: 7846320.
+NASS: 74 45435656 13.
+Domicilio: Plaza del Castillo, 1.
+Localidad/ Provincia: Pamplona.
+CP: 31001.
+Datos asistenciales.
+Fecha de nacimiento: 31/08/1942.
+País: España.
+Edad: 67 años Sexo: H.
+Fecha de Ingreso: 24/04/2009.
+Servicio: Medicina Interna.
+Episodio:53345653.
+Médico: Francisco Javier Anniccherico Sánchez NºCol: 31 31 45023.
+Informe clínico del paciente:.
+Motivo de ingreso: Dolor abdominal agudo
+Historia Actual:Paciente de 67 años que ingresa en el servicio de Medicina Interna por dolor abdominal agudo, de tres días de evolución, con ritmo deposicional de características normales y sin fiebre. El paciente está en tratamiento con alendronato, atenolol, torasemida, olmesartan, bisoprolol. 
+Antecedentes: hipertensión arterial, accidente isquémico transitorio, osteoporosis, trombosis venosa profunda de extremidad inferior izquierda con anticoagulación oral con antivitamina K, y fibrilación auricular.
+Exploración física: Presenta exploración física normal, excepto ruidos cardiacos arrítmicos y dolor abdominal epigástrico a la palpación.
+Resumen de pruebas complementarias: En la ecografía abdominal se aprecia trombosis venosa mesentérica y portal. Se completa estudio con TAC abdominal, confirmándose trombosis venosa portal, esplénica y mesentérica superior. Se revisa INR donde se aprecian correctos niveles de anticoagulación (INR 2-3) desde su inicio hasta el momento actual. En analítica se observa moderada trombocitosis con 400.000 plaquetas, 12.000 leucocitos, y cifras de hemoglobina normales. Se realiza bioquímica con proteinograma e inmunofijación en suero y orina, estudio trombofílico determinando anticoagulante lúpico, Ac anticardiolipina y beta 2 glicoproteína I, mutación Factor V Leiden, protrombina 20,210 G-A con resultado de normalidad y mutación JAK2 siendo esta positiva. Se confirma el diagnostico de trombosis del eje portal en probable relación a síndrome mieloproliferativo JAK2 positivo.
+Se inicia tratamiento con heparina no fraccionada en relación a posible necesidad de intervención quirúrgica por isquemia mesentérica que se sustituye al 4o día por enoxaparina a dosis 1mg /kg /12 h. Al séptimo día del inicio de heparina no fraccionada y tercer día con HBPM comienza la disminución de sus niveles plaquetarios previos de un millón a 500.000 con descenso progresivo hasta 123.000/ml en el día 12, asociando disnea, hipoxemia y derrame pleural bilateral. Se realiza angioTAC torácico confirmándose tromboembolismo pulmonar bilateral. Con sospecha de HIT se realiza la técnica (ID-PaGIA Heparine/PF4/heparin antibody test/ID-Car) con resultado positivo y en combinación con una alta probabilidad, puntuación 7-8, en el "test de las 4Ts"2 se inicia tratamiento con lepirudina, modificándose a las 36 h. por dabigatran con consentimiento informado de el paciente, que evoluciona satisfactoriamente con desaparición de derrame pleural y aumento del número de plaquetas a valores cercanos a 300.000 en 48 h. y con desaparición de los émbolos pulmonares en angioTAC a las dos semanas del inicio del tratamiento, permaneciendo hasta el momento actual con dicho tratamiento en relación a FA, y fracaso de tratamiento con AVK asociado.
+Remitido por: Francisco Javier Anniccherico Sánchez. Servicio de Medicina Interna Complejo Hospitalario de Navarra C/ Irunlarrea, 3 31008 Pamplona E-mail: anniccherico@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="16" text="Ignacio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="29" end="43" text="Lopez de Hoyos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="50" end="57" text="7846320" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="65" end="79" text="74 45435656 13" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="92" end="113" text="Plaza del Castillo, 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="137" end="145" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="151" end="156" text="31001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="200" end="210" text="31/08/1942" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="218" end="224" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="232" end="239" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="246" end="247" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="267" end="277" text="24/04/2009" TYPE="FECHAS" comment=""/>
+    <ID id="T7" start="316" end="324" text="53345653" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T9" start="334" end="371" text="Francisco Javier Anniccherico Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="379" end="390" text="31 31 45023" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T11" start="492" end="499" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3250" end="3287" text="Francisco Javier Anniccherico Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3318" end="3350" text="Complejo Hospitalario de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3351" end="3367" text="C/ Irunlarrea, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3368" end="3373" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3374" end="3382" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3391" end="3415" text="anniccherico@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

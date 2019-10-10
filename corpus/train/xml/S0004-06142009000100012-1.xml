@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Martín .
+Apellidos: Sole Campos.
+CIPA: nhc-786946231.
+NASS: 22 86495656 22.
+Domicilio:Avda. de Federico Soto, 1, 13 B.
+Localidad/ Provincia: Alicante .
+CP: 03002.
+NHC:786946231.
+Datos asistenciales.
+Fecha de nacimiento:15/03/1945.
+País: España.
+Edad: 68  Sexo:H.
+Fecha de Ingreso: 26/05/2013.
+Especialidad: .
+Médico:José Antonio Cánovas Ivorra  NºCol:46 03 15574.
+Motivo de ingreso: dolor a nivel de ingle derecha.
+Antecedentes: RTU de próstata por hiperplasia benigna de próstata en otro centro, cuyo estudio patológico evidenció la presencia de un adenocarcinoma Gleason 6 con valores de PSA dentro del rango de la normalidad y que posteriormente fue tratado con radioterapia con intención radical encontrándose en la actualidad en intervalo libre de enfermedad.
+Historia Actual: Paciente varón de 68 años consulta por dolor a nivel de ingle derecha de más de 2 años de evolución que aumenta con la bipedestación y disminuye con el decúbito.
+Pruebas complementarias: se interviene practicándose una herniorrafia inguinal y corrección de un hidrocele derecho concomitante. Al tiempo se observa una tumoración carnosa mamelonada adherida al polo superior del testículo de 2 centímetros de diámetro mayor. Se practica orquiectomía radical derecha vía inguinal y exéresis del cordón espermático por encima de anillo inguinal interno. No se evidencia adenopatías. El estudio anatomopatológico evidenció un leiomiosarcoma con positividad para el estudio inmunohistoquímico de Actina y Vimentina y negativo para Antígeno Prostático Específico.
+El estudio de extensión fue normal. Se plantea radioterapia complementaria. A los 9 meses nota la aparición de una lesión excrecente de 3 x 2.5 centímetros en la cicatriz de la herniorrafia que se reseca, informándose de recidiva de leiomiosarcoma con actividad mitótica incrementada. No recibe actividad adyuvante. A los 6 meses percibe la aparición de una nueva lesión nodular en flanco derecho con aumento progresivo de tamaño. En el T.A.C. se evidencia un nódulo que infiltra en profundidad la grasa subcutánea y el músculo iliopsoas. Se reseca la tumoración junto a fibras del oblicuo menor, músculo transverso y músculo iliopsoas. El informe patológico es compatible con infiltración por leiomiosarcoma. En ese punto se plantea terapia adyuvante con esquema de adriamicina e ifosfamida por seis ciclos.
+Evolución y comentarios: Tras 12 meses se interviene nuevamente de recidiva local, pétrea al tacto, que atrapa vasos arteriales y venosos de la zona inguinal. El informe concluye recidiva de leiomiosarcoma de alto grado.
+La resonancia nuclear magnética practicada evidencia una masa adenopática inguinal con adenopatías retroperitoneales que desestiman toda posibilidad de tratamiento radical. Se decide administrar quimioterapia de segunda línea con esquema de docetaxel y gemcitabina por seis ciclos. Tras 8 meses de intervalo libre de enfermedad se constata la aparición de nueva masa en región inguinal junto a metástasis pulmonares en el T.A.C. de control por lo que se decide tratamiento paliativo con adriamicina. Previamente a esta nueva recidiva el paciente presenta un episodio de hematuria que mediante ecografía demuestra la existencia de una lesión excrecente en pared vesical derecha de 3 centímetros y que se confirma mediante cistoscopia. El paciente desestima la posibilidad de R.T.U. por encontrarse en esquema de administración de quimioterapia y posterior deterioro del estado general.
+Diagnóstico Principal: hernia inguinal derecha directa
+Remitido por: José Antonio Cánovas Ivorra. Avenida Montiboli 188 A-6 03570 Villajoyosa.Alicante. (España). jacanovas@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="8" end="14" text="Martín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="28" end="39" text="Sole Campos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="51" end="60" text="786946231" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="68" end="82" text="22 86495656 22" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="94" end="125" text="Avda. de Federico Soto, 1, 13 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="149" end="157" text="Alicante" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="164" end="169" text="03002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="227" end="237" text="15/03/1945" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="245" end="251" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="259" end="261" text="68" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="268" end="269" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="289" end="299" text="26/05/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="324" end="351" text="José Antonio Cánovas Ivorra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="359" end="370" text="46 03 15574" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="799" end="804" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="808" end="815" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3531" end="3558" text="José Antonio Cánovas Ivorra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3560" end="3585" text="Avenida Montiboli 188 A-6" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3586" end="3591" text="03570" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3592" end="3603" text="Villajoyosa" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3604" end="3612" text="Alicante" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3615" end="3621" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3624" end="3645" text="jacanovas@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

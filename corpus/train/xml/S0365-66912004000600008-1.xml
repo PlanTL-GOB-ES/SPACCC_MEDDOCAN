@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Borja.
+Apellidos: Tostado Estrada.
+NHC: 3784956.
+NASS: 73 45673465 53.
+Domicilio: C/ Pontificia, 2, Bajo A.
+Localidad/ Provincia: Salamanca.
+CP: 37007.
+Datos asistenciales.
+Fecha de nacimiento: 01/04/1942.
+País de nacimiento: España.
+Edad: 72 años Sexo: H.
+Fecha de Ingreso: 02/02/2015.
+Médico: Agapito Adrián Núñez Serrano NºCol: 65001.
+Informe clínico del paciente: Varón de 72 años diagnosticado de glaucoma primario de ángulo abierto e intervenido de trabeculectomía de ambos ojos en febrero de 2001 con buen control tensional. Un año más tarde el paciente fue intervenido de cataratas mediante facoemulsificación más implante de lente intraocular de cámara posterior que cursó sin complicaciones, conservando íntegra la cápsula posterior y logrando una agudeza visual (AV) de 0,6 en OD y de 0,5 en OI. Dos años después de la cirugía filtrante, el campo visual mostró progresión en su OD y una presión intraocular de 23 mmHg por lo que se instauró tratamiento con travoprost 0,004% (Travatan®, Alcon, Fort Worth, Texas). Al mes de iniciar el tratamiento, el paciente refería disminución de AV en su OD, siendo la exploración compatible con el desarrollo de un edema macular quístico que había reducido la AV a 0,2. El diagnóstico fue confirmado mediante una OCT (OCT 3000, Humphrey Zeiss Instruments, Dublin, CA) que puso de manifiesto la existencia en el espesor retiniano de unos espacios de baja intensidad correspondientes a espacios quísticos, y un acúmulo de líquido subrretiniano subyacente, alcanzándose un grosor a nivel foveal de 437 DE 21 micras. El travoprost fue suspendido, instaurándose tratamiento con acetazolamida oral (edemox®, Chiesi wassermann, Madrid, Spain) 125 mg cada 6 horas, ketorolaco (acular®, Allergan, Madrid, Spain) 1 gota cada 6 horas y maleato de timolol 0,5% (timoftol 0,5%®, Madrid, Spain) dos veces al día. A las dos semanas, la AV había mejorado a 0,6, y la OCT mostraba un espesor macular normal (213 DE 9 micras), con desaparición de los quistes y recuperación de la depresión foveal.
+Responsable clínico: Dr. Agapito Adrián Núñez Serrano. Paseo de Carmelitas 20, 6o A. 37007 Salamanca (España). e-mail: agapito-nunez@ono.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T36" start="28" end="33" text="Borja" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T37" start="46" end="61" text="Tostado Estrada" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T35" start="68" end="75" text="3784956" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T34" start="83" end="97" text="73 45673465 53" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T33" start="110" end="134" text="C/ Pontificia, 2, Bajo A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T32" start="158" end="167" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T31" start="173" end="178" text="37007" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T30" start="222" end="232" text="01/04/1942" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T29" start="254" end="260" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T28" start="268" end="275" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T27" start="282" end="283" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T26" start="303" end="313" text="02/02/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T25" start="323" end="351" text="Agapito Adrián Núñez Serrano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T24" start="359" end="364" text="65001" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T23" start="396" end="401" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T22" start="405" end="412" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T21" start="516" end="531" text="febrero de 2001" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="1026" end="1031" text="Alcon" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T13" start="1033" end="1043" text="Fort Worth" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="1045" end="1050" text="Texas" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T11" start="1305" end="1331" text="Humphrey Zeiss Instruments" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T10" start="1333" end="1339" text="Dublin" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="1341" end="1343" text="CA" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T9" start="1679" end="1696" text="Chiesi wassermann" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T8" start="1698" end="1704" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T7" start="1706" end="1711" text="Spain" TYPE="PAIS" comment=""/>
+    <LOCATION id="T6" start="1755" end="1763" text="Allergan" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="1765" end="1771" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1773" end="1778" text="Spain" TYPE="PAIS" comment=""/>
+    <LOCATION id="T3" start="1843" end="1849" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1851" end="1856" text="Spain" TYPE="PAIS" comment=""/>
+    <NAME id="T20" start="2082" end="2110" text="Agapito Adrián Núñez Serrano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T19" start="2112" end="2140" text="Paseo de Carmelitas 20, 6o A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="2142" end="2147" text="37007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="2148" end="2157" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="2159" end="2165" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T15" start="2176" end="2197" text="agapito-nunez@ono.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

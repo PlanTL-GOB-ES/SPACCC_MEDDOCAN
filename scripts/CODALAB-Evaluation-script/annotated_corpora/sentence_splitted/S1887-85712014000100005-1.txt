@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Jose Antonio.
+Apellidos: Ubrique Paz.
+NHC: 2304567.
+NASS: 20 56705265 80.
+Domicilio: Calle de Serrano 92, piso 3, puerta 4.
+Localidad/ Provincia: Madrid.
+CP: 28007.
+Datos asistenciales.
+Fecha de nacimiento: 06/06/1950.
+País: España.
+Edad: 60 años Sexo: H.
+Fecha de Ingreso: 02/03/2010.
+Servicio: Urgencias.
+Episodio: 302456236.
+Médico: Francisco Salvel Roman NºCol: 28 28 97456.
+Historia Actual: Paciente de 60 años que acude a Urgencias porque, según refiere la familia, al despertar, tras 15 horas de sueño, presenta un cuadro de desorientación, dificultad en la articulación del lenguaje, con emisión y comprensión conservadas, visión borrosa y visión doble vertical. No ha presentado pérdida de conciencia, palpitaciones, dolor torácico ni fiebre.
+Antecedentes: Entre sus antecedentes destaca que se trata de un paciente exfumador desde hace 15 años, hipertenso en tratamiento con enalapril y dislipémico en tratamiento con simvastatina.
+Exploración física: A la exploración se evidencia paresia del IV par craneal del ojo derecho, así como afectación incompleta del III par bilateral y VI par derecho de predominio inferior manifestada en forma de diplopía binocular vertical. El resto de los pares craneales son normales. Tampoco se evidencia déficit motor ni sensitivo asociados, Romberg negativo, no dismetrías y no signos meníngeos. Se evidencia alteración de la marcha con tendencia a la lateropulsión hacia la derecha.
+Pruebas complementarias: Además del protocolo básico de urgencias, hemograma, bioquímica, estudio de coagulación, radiografía simple de tórax y electrocardiograma que fueron normales, se le realiza tomografía computerizada (TC) craneal de 64 canales antes del ingreso en el Servicio de Neurología, que se informa como exploración sin aparentes hallazgos patológicos.
+Durante el ingreso persiste la diplopia que se corrige con oclusión monocular alternante, persistiendo la inestabilidad y el trastorno de la marcha.
+Al tercer día del ingreso se completa estudio con RM encefálica con resonancia Philips de 1,5 T, con el resultado de microinfartos solitarios en sustancia blanca profunda, así como lesiones isquémicas agudas de localización paramedial en ambos tálamos y mesencéfalo anterior, compatibles con obstrucción de la arteria de Percheron3. Resultan especialmente útiles para observar estas lesiones las secuencias Flair y el uso de la Difusión.
+Evolución: Consultado el caso con el Servicio de cardiología y, ante el origen embólico del cuadro, se decidió iniciar anticogulación oral con Dabigatran por elevado riesgo de recurrencia. La evolución de la paciente fue favorable y, con el tratamiento rehabilitador se consiguió autonomía de la marcha, presentó mejoría progresiva de la diplopía.
+Remitido por: Dr. Francisco Salvel Roman. Hospital General Universitario Gregorio Marañon. Calle del Dr. Esquerdo, 46, 28007 Madrid. Correo electrónico: fsalver@fn.mde.es

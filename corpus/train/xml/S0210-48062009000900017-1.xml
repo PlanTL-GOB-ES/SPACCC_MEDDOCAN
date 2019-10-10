@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Diego .
+Apellidos: Granada Mendez.
+CIPA: nhc-7894562.
+NASS: 28 16489567 45.
+Domicilio: Calle de Sinesio Delgado, 44, 10A.
+Localidad/ Provincia: Madrid.
+CP: 28035.
+NHC: 7894562.
+Datos asistenciales.
+Fecha de nacimiento: 18/03/1949.
+País: España.
+Edad: 68 Sexo: H.
+Fecha de Ingreso: 31/10/2017.
+Servicio: Urgencias.
+Médico: Silvia Álvarez Bandrés NºCol: 28 28 16541.
+Historia Actual: Paciente de 68 años de edad, con antecedentes de retraso mental grave y sordomudez secundaria a meningitis en la infancia. Consultó en nuestro servicio de urgencias por cuadro de dolor e inflamación en el hemiescroto izquierdo de más de 3 semanas de evolución, que no cedía a pesar de tratamiento antibiótico y antiinflamatorio.
+Antecedentes familiares: su hermano mayor, Ovidio, padece un retraso mental severo y ha sido estudiado en este centro sin que se haya podido determinar su causa.
+Exploración física:A la exploración, se objetivó un aumento generalizado del contenido escrotal, más marcado en lado izquierdo, con testículo doloroso a la palpación, de consistencia firme, superficie lisa y epidídimo engrosado.
+El testículo derecho fue normal. 
+Resumen de pruebas complementarias: El sedimento de orina reveló la presencia de piuria.
+Por ecografía se objetivó un teste izquierdo aumentado de tamaño, heterogéneo, con una zona en situación medial con múltiples cavidades quísticas, algunas de ellas hipoecogénicas.
+Evolución y comentarios: Diagnosticado de orquitis evolucionada, se dio de alta al paciente con tratamiento analgésico-antiinflamatorio.
+A los 8 días acudió a revisión en la consulta de urología, donde a la palpación se delimitaba claramente un nódulo, que planteaba diagnóstico diferencial con neoplasia testicular.
+Se realizó una orquiectomía radical izquierda, previa determinación de marcadores tumorales (b-HCG, alfa-fetoproteína y LDH), que fueron normales.
+Macroscópicamente, la superficie de sección de la pieza de orquiectomía mostró un engrosamiento de la túnica albugínea, con zonas hemorrágicas. El parénquima testicular estaba aumentado de consistencia, con presencia al corte de tractos fibrosos blanquecinos y placas amarillentas. El examen microscópico reveló la existencia de una hipoespermatogénesis marcada con hialinización de los túbulos seminíferos, así como un proceso inflamatorio crónico, constituido por histiocitos, abundantes células plasmáticas y células gigantes. En el interior de algunas de estas células, se reconocieron los característicos cuerpos de Michaelis-Gutmann con aspecto en "ojo de búho", que dieron positivo para la tinción de Von Kossa, demostrando su composición de calcio y sugiriendo así el diagnóstico de MLP.
+Estas alteraciones inflamatorias también afectaban al epidídimo de forma parcial.
+Con el diagnóstico de MLP testicular y epididimaria, se completó el tratamiento con una pauta de fluoroquinolonas durante 3 meses, tras lo cual la evolución es satisfactoria y el paciente se encuentra asintomático.
+Diagnóstico Principal: MLP testicular y epididimaria
+Remitido por: Dra. Silvia Álvarez Bandrés. Email:Silvia81mdc@hotmail.com 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="9" end="14" text="Diego" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="28" end="42" text="Granada Mendez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="54" end="61" text="7894562" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="69" end="83" text="28 16489567 45" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="96" end="129" text="Calle de Sinesio Delgado, 44, 10A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="153" end="159" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="165" end="170" text="28035" TYPE="TERRITORIO" comment=""/>
+    <ID id="T11" start="177" end="184" text="7894562" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="228" end="238" text="18/03/1949" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T9" start="246" end="252" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="260" end="262" text="68" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="269" end="270" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T6" start="290" end="300" text="31/10/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="331" end="353" text="Silvia Álvarez Bandrés" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="361" end="372" text="28 28 16541" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T3" start="403" end="410" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T20" start="748" end="761" text="hermano mayor" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T19" start="763" end="769" text="Ovidio" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="3043" end="3065" text="Silvia Álvarez Bandrés" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3073" end="3096" text="Silvia81mdc@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

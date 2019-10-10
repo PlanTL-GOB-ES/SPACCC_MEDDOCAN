@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Maritza.
+Apellidos: Ordoñez Rodriguez.
+NHC: 5416103.
+NASS: 60 45846754 36.
+Domicilio: Calle Fraternidad 34, Piso 6, Puerta 3.
+Localidad/ Provincia: Oviedo.
+CP: 33013.
+Datos asistenciales.
+Fecha de nacimiento: 26/05/1990.
+País: España.
+Edad: 25 años Sexo: M.
+Fecha de Ingreso: 16/12/2015.
+Médico: Ana Fernández-Viña Fernández NºCol:33 33 61645.
+Informe clínico del paciente: Mujer de 25 años diagnosticada de síndrome de Laurence-Moon-Biell que se manifiesta con hipogonadismo con obesidad, retraso mental, polidactilia, retinitis pigmentaria e insuficiencia renal. Inició tratamiento de HD a los 11 años, recibió su primer trasplante renal al año siguiente, que falló a causa de una trombosis venosa, por lo que retornó a HD y precisó trasplantectomía 9 meses más tarde.
+Debido a dificultades de acceso vascular, necesitó ser derivada a DP. En la evolución la paciente sufrió varios episodios de peritonitis y padeció un hiperparatiroidismo grave. Su membrana peritoneal, se clasificó como medio-alta transportadora. Tras 12 años en programa de DP, la paciente muestra un mal estado general y una peritonitis, causada por dos gérmenes (Staphilococcus epidermidis y Pseudomona aeruginosa), junto con infección de túnel por el estafilococo. En la exploración se apreció un "efecto masa" en la zona del túnel subcutáneo, no fluctuante, sin signos inflamatorios, de consistencia dura y contorno mamelonado, produciendo una eventración peritoneal en el orificio del catéter.
+En las imágenes radiológicas se apreció la esclerosis y calcificación de toda la membrana peritoneal, comprimiendo todas las estructuras viscerales abdominales. Se procedió a tratamiento antibiótico específico, retirada de catéter de DP, y transferencia a HD. Más tarde, la paciente presenta dificultad para la ingesta por vómitos. Una vez en HD desarrolló dos nuevos episodios de ascitis, secundaria a peritonitis por Echerichia coli, que precisó evacuación mediante paracentesis. Posteriormente, presentó una isquemia aguda en miembro inferior derecho, por obstrucción femoropoplítea.
+Se desestimó el tratamiento quirúrgico de la calcificación peritoneal y la amputación del miembro isquémico. La evolución fue insatisfactoria falleciendo poco después.
+Remitido por: Dra. Ana Fernández-Viña Fernández. C/ Illas 5-5º izquierda 33012 Oviedo anafvf@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="8" end="15" text="Maritza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="28" end="45" text="Ordoñez Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="52" end="59" text="5416103" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="67" end="81" text="60 45846754 36" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="94" end="132" text="Calle Fraternidad 34, Piso 6, Puerta 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="156" end="162" text="Oviedo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="168" end="173" text="33013" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="217" end="227" text="26/05/1990" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="235" end="241" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="249" end="256" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="263" end="264" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="284" end="294" text="16/12/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="304" end="332" text="Ana Fernández-Viña Fernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="339" end="350" text="33 33 61645" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="382" end="387" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="391" end="398" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T5" start="604" end="611" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2252" end="2280" text="Ana Fernández-Viña Fernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2282" end="2305" text="C/ Illas 5-5º izquierda" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2306" end="2311" text="33012" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2312" end="2318" text="Oviedo" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2319" end="2335" text="anafvf@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

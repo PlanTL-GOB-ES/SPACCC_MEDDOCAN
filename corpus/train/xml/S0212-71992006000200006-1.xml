@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Julio.
+Apellidos: Gallardo Muñiz .
+NHC: 2035647.
+NASS: 82 47609624 98.
+Domicilio: Calle de Antonio Tapies, 37.
+Localidad/ Provincia: Santiago de Compostela.
+CP: 15706.
+Datos asistenciales.
+Fecha de nacimiento: 10/11/1950.
+País de nacimiento: España.
+Edad: 64 años Sexo: M.
+Fecha de Ingreso: 15/12/2014.
+Servicio: Medicina Interna .
+Episodio: 7856940.
+Médico: Antón Cabarcos Ortiz de Barrón NºCol: 15 15 32698.
+Informe clínico del paciente: Varón de 64 años que es trasladado al Servicio de Medicina Interna procedente del Servicio de Cardiología, por cuadro de fiebre superior a 38,3 °C, de más de 3 semanas de evolución sin foco de origen tras 5 semanas de estudios.
+El paciente al ingreso, se encontraba a tratamiento con gliclazida (1-1-1) y acarbosa (1-1-1) para control de diabetes mellitus tipo 2, Atorvastatina (0-0-20 mg) para control de hipercolesterolemia, quinaprilo (5 mg-0-5 mg) para control de hipertensión arterial y, finalmente, ácido acetilsalicílico (0-150 mg-0) como profilaxis de accidentes vasculares. Además de estas patologías, el paciente presentaba una estenosis de válvula aórtica severa junto con insuficiencia aórtica moderada, que requirió recambio valvular con bioprótesis Mitroflow n° 23 en marzo del año de ingreso.
+En la recepción del paciente en el Servicio de Cardiología, se realizo despistaje de cuadro febril de cinco semanas de evolucionen paciente con válvula protesica; una ecocardiografia transesofágica descarta la presencia de endocarditis ni alteraciones funcionales valvulares, se procedio a tratamiento intravenoso empírico con Vancomicina (ante la existencia de válvula protesica a pesar de no demostrar claramente vegetación) mejorando hasta estar asintomático y afebril al alta de Cardiología una semana después. Durante el alta el paciente realiza controles periódicos de temperatura corporal, detectándose 4 semanas después una nueva elevación, con lo cual acude a nuestro hospital siendo ingresado por segunda vez en el Servicio de Cardiología, donde se descarta nuevamente endocarditis por ecocardiografía transesofágica, por lo que es trasladado al Servicio de Medicina Interna, con diagnóstico de fiebre de origen desconocido Clásica a estudio.
+Tras el ingreso, se confirma la presencia de fiebre superior a 38,3 °C, alcanzado picos de hasta 39 °C, una tensión arterial de 150/70 mm de mercurio, y una frecuencia cardiaca de 104 latidos por minuto. En la exploración fisica el paciente se encuentra normocoloreado y normoperfundido, auscultación cardiaca no evidencia soplos, auscultación pulmonar con murmullo vesicular conservado sin datos de roncus, crepitantes ni sibilantes; abdomen no doloroso, ni evidencia de esplenomegalias; la exploración otorrinolaringológica no evidencia focos infecciosos; exploración neurológica no evidencia meningismo, ni déficit de fuerza ni sensibilidad, ni alteración de pares craneales ni reflejos osteotendinosos; la exploración tampoco evidencia adenopatías.
+Se realizan las pruebas complementarias correspondientes al estudio de fiebre de origen desconocido según protocolo7 con un hemograma que presenta 14.000 leucocitos (70% neutrófilos y 5% cayados) y 1371 g/dl de hemoglobina. La bioquímica muestra una función renal y hepática dentro de la normalidad con glucemia en valores normales. Se realiza un frotis de sangre periférica que confirma los datos del hemograma sin otros hallazgos patológicos. La radiografia de tórax no muestra datos patológicos ni cambios respecto a radiografias correspondientes a ingresos previos. Se realiza una radiografia de senos paranasales que muestra una hipoplasia de seno frontal izquierdo. El ecocardiograma transesofágico no muestra datos de endocarditis, abscesos ni fistulas, junto con una prótesis aórtica normofuncionante. Posteriormente, se realiza una gammagrafía con Ga67 sin observarse depósitos de trazador en la región tóracoabdominal. Para completar estudio de fiebre de origen desconocido se hacen determinaciones de marcadores tumorales (alfafetoproteína, CEA-II, Ca 19,9n Ca 125II, BR 27,29, PSA total, Ca 15,3, enolasa neutrófila específica, Ca 72.4) que son normales y estudio de marcadores inmunológicos (Anticuerpos antinucleares ENA, factor reumatoide, proteína C reactiva, ASLO, anticuerpos anti-DNA, ANCA, anticuerpos anticardiolipina, anticuerpos antimúsculo liso, anticuerpos antimitocondriales, ANA y LKM) que son negativos.
+Desde el ingreso se toman hemocultivos tras tomas de temperatura corporal superior a 37,5 °C, siendo positivo en las cuatro que se realizan para Leuconostoc spp., y antibiograma que muestra sensibilidad para amoxicilina-clavulánico y tobramicina, antibioterapia que se instaura desde este momento.
+Debido a la existencia de bioprótesis el paciente es tratado durante 8 semanas como si se tratara de una endocarditis a pesar de no haber lesiones evidenciables con la ecocardiografía transesofágica.
+Se realizan controles periódicos durante 1 año desde el alta sin que se evidencie ningún dato febril ni clínico que haga sospechar nuevamente alguna complicación, ni complicaciones valvulares.
+Responsable clínico: Dr. Antón Cabarcos Ortiz de Barrón Servicio de Medicina Interna Hospital Clínico Universitario-Hospital Gil Casares C/ A Choupana, s/n. 15706 Santiago de Compostela. A Coruña. E-mail: med028799@nacom.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="33" text="Julio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="46" end="60" text="Gallardo Muñiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="68" end="75" text="2035647" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="83" end="97" text="82 47609624 98" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="110" end="137" text="Calle de Antonio Tapies, 37" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="161" end="183" text="Santiago de Compostela" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="189" end="194" text="15706" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T5" start="238" end="248" text="10/11/1950" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="270" end="276" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T3" start="284" end="291" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="298" end="299" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T4" start="319" end="329" text="15/12/2014" TYPE="FECHAS" comment=""/>
+    <ID id="T17" start="370" end="377" text="7856940" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T16" start="387" end="417" text="Antón Cabarcos Ortiz de Barrón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T15" start="425" end="436" text="15 15 32698" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T14" start="468" end="473" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="477" end="484" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T1" start="1250" end="1255" text="marzo" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="5130" end="5160" text="Antón Cabarcos Ortiz de Barrón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T11" start="5190" end="5241" text="Hospital Clínico Universitario-Hospital Gil Casares" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T10" start="5242" end="5260" text="C/ A Choupana, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T9" start="5262" end="5267" text="15706" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T8" start="5268" end="5290" text="Santiago de Compostela" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T7" start="5292" end="5300" text="A Coruña" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T6" start="5310" end="5328" text="med028799@nacom.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

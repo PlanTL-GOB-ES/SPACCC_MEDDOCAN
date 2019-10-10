@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Juan.
+Apellidos: Martinez Espinosa .
+NHC: 7613744.
+NASS: 01 28647825 16.
+Domicilio: C/ Laskorain, 2, 1A.
+Localidad/ Provincia:  Vitoria.
+CP: 01009.
+Datos asistenciales.
+Fecha de nacimiento: 11/02/1957.
+País de nacimiento: España.
+Edad: 57 años Sexo: H.
+Fecha de Ingreso: 16/10/2014.
+Médico: Gonzaga Garay Aramburu NºCol:20 20 54770.
+Informe clínico del paciente: Se estudió en nuestra consulta a un paciente varón de 57 años con antecedentes de diabetes mellitus tipo II, hipertensión y cardiopatía isquémica, por presentar retinopatía diabética proliferativa. Su agudeza visual era de 20/50 en el ojo derecho (OD) y de 20/25 en el izquierdo (OI). Previamente había sido tratado con panretinofotocoagulación con láser argón en ambos ojos, así como con vitrectomía pars plana y pelado de membrana limitante interna con inyección de triamcinolona intravítrea en OD debido a una hemorragia vítrea y edema macular difuso crónico. No se observaban membranas neovasculares residuales en el examen del fondo de ojo, pero si microaneurismas y hemorragias en el polo posterior de ambos ojos. En el ojo izquierdo, se observaban algunos AMIR en la zona temporal de la macula.
+Se realizó una angiografía fluoreseceínica usando 5 ml de fluoresceína sódica al 10%. Se observaron áreas isquémicas ecuatoriales y en el ojo izquierdo edema macular difuso y la AMIR, pero no se observaron membranas neovasculares. En este ojo y después de 8 minutos de angiograma, ocurrió un sangrado activo de la AMIR. El movimiento de los ojos dejó diferentes trazos de sangre en la cavidad vítrea. El sangrado fue breve y autolimitado, sin síntomas inicialmente. Poco después el paciente empezó a notar miodesospsias. Dos semanas más tarde, la hemorragia vítrea se resolvió sin consecuencias.
+Responsable clínico: Gonzaga Garay Aramburu Servicio de Oftalmología. Hospital de Txagorritxu C/. José Atxotegi, s/n 01009 Vitoria-Gasteiz España E-mail: ggaray@htxa.osakidetza.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="29" end="33" text="Juan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="46" end="63" text="Martinez Espinosa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="71" end="78" text="7613744" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="86" end="100" text="01 28647825 16" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="113" end="132" text="C/ Laskorain, 2, 1A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="157" end="164" text="Vitoria" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="170" end="175" text="01009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="219" end="229" text="11/02/1957" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="251" end="257" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="265" end="272" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="279" end="280" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="300" end="310" text="16/10/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="320" end="342" text="Gonzaga Garay Aramburu" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="349" end="360" text="20 20 54770" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="437" end="442" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="446" end="453" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1811" end="1833" text="Gonzaga Garay Aramburu" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1860" end="1883" text="Hospital de Txagorritxu" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1884" end="1906" text="C/. José Atxotegi, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1907" end="1912" text="01009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="1913" end="1928" text="Vitoria-Gasteiz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1929" end="1935" text="España" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="1944" end="1970" text="ggaray@htxa.osakidetza.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

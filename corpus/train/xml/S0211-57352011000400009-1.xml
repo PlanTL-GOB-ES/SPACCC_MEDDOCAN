@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Bernabé.
+Apellidos: Alvarez Martin.
+NHC: 2347865.
+NASS: 28 72350345 06.
+Domicilio: Calle Bravo Murillo, 86, 1 A.
+Localidad/ Provincia: Madrid.
+CP: 28028.
+Datos asistenciales.
+Fecha de nacimiento: 21/07/1926.
+País de nacimiento: España.
+Edad: 88 años Sexo: H.
+Fecha de Ingreso: 13/08/2014.
+Médico: Pablo Puras Rico NºCol: 28 28 30201.
+Informe clínico del paciente: varón de 88 años que ingresa en el Servicio de Medicina Interna tras ser remitido a urgencias desde el centro de día al que acude a diario, por presentar un episodio de desconexión del medio. El paciente es viudo desde hace siete años, vive en su domicilio con una cuidadora y tiene un buen apoyo sociofa-miliar.
+Sigue tratamiento habitual con: atenolol (25 mg/día), acido acetilsalicílico (300 mg/día), omeprazol (40 mg/día), nitroglicerina (parche, 5 mg/día), simvastatina (20 mg/día), enalapril (20 mg)/hidroclorotiacida (12,5 mg) 1-0-½, tamsulosina (0,4mg /día), levotiroxina (50 mcg-75 mcg-0), bromazepam (1,5 mg/noche), sertralina (50 mg/día desde el día anterior, previamente 25 mg/día).
+Entre sus antecedentes personales destacan: HTA en tratamiento. Cardiopatía isquémica (IAM en 1995). Arteriopatía periférica en seguimiento por cirugía vascular. Prostatismo con PSA elevado-estable. Hipotiroidismo en tratamiento sustitutivo. Síndrome depresivo de larga evolución, desde hace 10 años en tratamiento con benzodiacepinas y con diferentes antidepresivos, siempre por su médico de atención primaria (MAP). No otros antecedentes psiquiátricos. El paciente ha tenido dos ingresos previos:
+Un ingreso hace tres años en el servicio de Medicina Interna por hiponatremia (Na plasmático 116 mEq/l) que cursó con deterioro funcional. La familia refirió empeoramiento brusco del paciente desde dos días antes del ingreso, con incontinencia urinaria, desorientación parcial en tiempo y espacio, y asociaron también un presunto empeoramiento de la sintomatología depresiva del paciente con la instauración de sertralina (75mg/día) 13 días antes (ánimo decaído, sensación de muerte inminente, agitaciones nocturnas). Se realizó restricción hídrica y se suspendió el tratamiento con el diurético hidroclorotiazida (50 mg/día) y con sertralina (75 mg/ día) de reciente instauración. Fue dado de alta con un Na en sangre de 127 mEq/l. El diagnóstico principal al alta fue "Hiponatremia probablemente por diuréticos".
+Otro segundo ingreso hace 20 meses en el Servicio de Neurología tras acudir a la Urgencia del hospital relatando sensación de mareo con giro de objetos en el domicilio, sin náuseas ni vómitos, con sensación de malestar y sensación de debilidad en MMII. El paciente no estaba en tratamiento con diurético alguno, y 15 días antes al ingreso se le había reintroducido medicación antidepresiva en su tratamiento habitual (citalopram 30 mg/día) por empeoramiento de su sintomatología depresiva. Ingresó con un Na plasmático de 114 mEq/l. Se le realizaron entre otras pruebas TAC craneal en el que no se observan lesiones hemorrágicas intra ni extraaxiales ni lesiones ocupantes de espacio, y RM craneal con atrofia cortical moderada y lesiones de sustancia blanca supratentoriales. Se realizó restricción hídrica y retirada de citalopram. Fue dado de alta a los 10 días con un Na de 125 mEq/l y un diagnóstico de "Hiponatremia por SIADH secundario a citalopram".
+Cuatro semanas antes al actual ingreso, su nuevo MAP le prescribe sertralina 25 mg/día por presentar ánimo bajo, ansiedad y apatía. El paciente había permanecido desde el último ingreso sin tratamiento antidepresivo. Según refiere la familia, durante estas semanas le notan progresivamente con mayor torpeza a nivel motor, bradipsíquico y con inhibición psicomotriz. El día previo a acudir a la urgencia se incrementa la dosis a 50 mg/día por falta de mejoría.
+El paciente es traído a urgencias por un episodio de intensa somnolencia de unos diez minutos de duración que solo responde a estímulos dolorosos, al recuperarse posteriormente presenta un lenguaje incoherente. En la valoración de urgencias, el paciente se encuentra en situación basal, sin focalidad motora y orientado en tiempo y en espacio. La exploración física no muestra ningún hallazgo significativo y la neurológica tan solo lentitud motora y tendencia a la somnolencia. Las pruebas complementarias muestran una hiponatremia de 116 mEq/l, aumento de la osmolaridad urinaria (531 mOsm/kg) y disminución de la osmolaridad plasmática (254 mOsm/Kg). Radiografía de tórax y ECG, sin hallazgos relevantes.
+El paciente ingresa en Medicina Interna con el diagnóstico de hiponatremia grave hipotónica sintomática secundaria a tratamiento tiazídico asociado a ISRS. Se suspende tratamiento con sertralina, se indica restricción hídrica con balance y se pauta suero salino isotónico hasta normalización de niveles plasmáticos de sodio.
+Tras varios días de ingreso se cursa parte de interconsulta al servicio de Psiquiatría para valoración clínica y decisión respecto al tratamiento farmacológico antidepresivo. El paciente presenta un cuadro depresivo con elevados niveles de ansiedad e intensos temores hipocondríacos. Tanto él como la familia demandan otro tratamiento antidepresivo ya que en los últimos años en los periodos en que había estado sin tratamiento se había producido un claro empeoramiento clínico. Se decide iniciar tratamiento con mirtazapina 15 mg/día con incremento a 30 mg/ día después de la primera semana de tratamiento y realizar controles semanales de niveles plasmáticos de sodio durante las 3-4 primeras semanas y posteriormente más espaciados. Al alta, también se aconseja tratamiento antihipertensivo con enalapril evitando las asociaciones con diuréticos tiazídicos.
+Responsable clínico: Dr. Pablo Puras Rico. Email: pablopuras@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="35" text="Bernabé" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="48" end="62" text="Alvarez Martin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="69" end="76" text="2347865" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="84" end="98" text="28 72350345 06" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="111" end="139" text="Calle Bravo Murillo, 86, 1 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="163" end="169" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="175" end="180" text="28028" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="224" end="234" text="21/07/1926" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="270" end="277" text="88 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="284" end="285" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="305" end="315" text="13/08/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="325" end="341" text="Pablo Puras Rico" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="349" end="360" text="28 28 30201" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="392" end="397" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="401" end="408" text="88 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T7" start="599" end="604" text="viudo" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T4" start="1181" end="1185" text="1995" TYPE="FECHAS" comment=""/>
+    <OTHER id="T3" start="1728" end="1735" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="3593" end="3600" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="5154" end="5161" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="5739" end="5755" text="Pablo Puras Rico" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T5" start="5764" end="5784" text="pablopuras@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

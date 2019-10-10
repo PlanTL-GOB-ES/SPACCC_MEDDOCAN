@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Ismael .
+Apellidos: Riera Ortega.
+NASS: 765145412-1.
+Domicilio: Calle Alajuela 125 D, esq..
+Localidad/ Provincia: Heredia .
+CP: 40140-280.
+NHC: 270136.
+Datos asistenciales.
+Fecha de nacimiento: 13/05/1952.
+País: Costa Rica.
+Edad: 65  Sexo: H.
+Fecha de Ingreso: 29/11/2017.
+Especialidad: Oncologia.
+Médico: Herney Andres García  NºCol: 18957.
+Antecedentes: Tiene antecedente de Hipertensión arterial y Diabetes Mellitus 2 en tratamiento, su madre presentó cáncer de mama, su padre enfermedad coronaria y su hermana un tumor cerebral.
+Historia Actual: Se presenta el caso de un varón de 65 años que consulta en agosto de 2015 al servicio de urgencias, por presentar dolor tipo urente en hipocondrio y región inguinal derecha de 72 horas de evolución, fiebre, malestar general y síntomas urinarios irritativos. Al ingreso al servicio de urgencias se encuentra con presión arterial (TA): 130/80, frecuencia cardíaca (FC): 80 pulsaciones por minuto, frecuencia respiratoria (FR): 18 respiraciones por minuto, temperatura (T): 38.7 grados centígrados (oC), sin signos de dificultad respiratoria. En el cuello se aprecia masa tiroidea, de 4 x 6 cm. indurada, poco móvil, no dolorosa a la palpación, sin cambios inflamatorios.
+Exploración física: A la exploración física se objetiva gran masa a nivel de flanco y fosa iliaca derechas que se continua a la región inguinoescrotal, desplazando el hemiescroto izquierdo y el pene, sin evidencia de adenopatías inguinales ni cambios inflamatorios locales, la masa tiene consistencia firme y dura, no móvil, con transiluminacion negativa; el testículo derecho no fue palpable por efecto de masa, el testículo izquierdo está presente, el tacto rectal anodino.
+El paciente presenta dolor a la percusión lumbar derecha y se confirmó infección del tracto urinario por urocultivo, se inició manejo antibiótico endovenoso. Se realizaron niveles de lactato deshidrogenada (LDH) cuyo resultado fue 300 U/L.
+Evolución y comentarios: Durante su hospitalización presentó hiperglicemia (259 mg/dl), creatinina normal (0.8 mg/dl), Leucocitos 17850 Neutrofilos 86% Hemoglobina 16 Plaquetas 275 000. Posterior al manejo antibiótico disminuyeron los signos de respuesta inflamatoria sistémica.
+Se realizó una tomografía abdominal (TC) contrastada (Septiembre 2015) que reportó la presencia de gran masa en fosa iliaca derecha que desplaza la vejiga hacia el lado contralateral y se continúa hasta hemiescroto derecho, de aspecto sólido, de bordes bien definidos, involucrando el testículo ipsilateral en forma difusa. Sin evidencia de adenopatías locoregionales.
+Se realizó exéresis de la tumoración junto a orquidectomía radical de este mismo lado de masa semiovoide, lobulada, amarillenta, de superficie lisa, que midió 34 x 22 x 17 cm, y pesó 5786 gramos. Se logró su extracción completa sin complicaciones, el paciente presentó buena evolución clínica postquirúrgico por lo cual se decide dar salida al 5o día postquirúrgico.
+El reporte de patología confirma que la lesión tumoral corresponde a una neoplasia maligna de origen mesenquimal y sarcomatosa conformada por células adiposas bien diferenciadas en medio de las cuales se observan algunas células pleomórficas bizarras constituyendo un cuadro dominante de liposarcoma bien diferenciado, observandose lobulaciones de tejido de aspecto cartilaginoso, el cual corresponde a un componente de la tumoración divergente, en donde hay tejido cartilaginoso de aspecto hialino tumoral maligno que oscila entre un componente condrosarcoma grado II y III. La tumoración corresponde a un liposarcoma desdiferenciado en donde el componente adiposo es clásico tipo liposarcoma bien diferenciado (lipoma-like) del cual emergen islas de componente de condrosarcoma de alto grado, correspondiendo tales hallazgos a liposarcoma desdiferenciado de cordón espermático con bordes de resección libres de tumor.
+Se sugiere iniciar radioterapia local pero el paciente la rechaza aceptando solamente los controles clínicos periódicos. Durante el seguimiento se realizó citología aspirativa de masa cervical cuyo reporte patológico reporta carcinoma papilar del tiroides, actualmente en seguimiento por oncología. Cuarenta y ocho meses después de la exéresis de la masa inguinoescrotal el paciente se encuentra asintomático, sin signos clínicos ni paraclínicos de recidiva tumoral.
+Remitido por: dr. Herney Andres García. Calle cubujuqui 301A. CP. 40140-276 Heredia, Costa Rica andresgarcia125@yahoo.com 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T27" start="8" end="14" text="Ismael" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T26" start="28" end="40" text="Riera Ortega" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="48" end="59" text="765145412-1" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="72" end="97" text="Calle Alajuela 125 D, esq" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="122" end="129" text="Heredia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T24" start="136" end="145" text="40140-280" TYPE="TERRITORIO" comment=""/>
+    <ID id="T23" start="152" end="158" text="270136" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T22" start="202" end="212" text="13/05/1952" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T21" start="220" end="230" text="Costa Rica" TYPE="PAIS" comment=""/>
+    <AGE id="T20" start="238" end="240" text="65" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T18" start="248" end="249" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="269" end="279" text="29/11/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T16" start="314" end="334" text="Herney Andres García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T1" start="343" end="348" text="18957" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T2" start="448" end="453" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T4" start="482" end="487" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T3" start="514" end="521" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="584" end="589" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="593" end="600" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="617" end="631" text="agosto de 2015" TYPE="FECHAS" comment=""/>
+    <DATE id="T5" start="2276" end="2291" text="Septiembre 2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="4363" end="4383" text="Herney Andres García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T11" start="4385" end="4405" text="Calle cubujuqui 301A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T10" start="4411" end="4420" text="40140-276" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T9" start="4421" end="4428" text="Heredia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T8" start="4430" end="4440" text="Costa Rica" TYPE="PAIS" comment=""/>
+    <CONTACT id="T7" start="4441" end="4466" text="andresgarcia125@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

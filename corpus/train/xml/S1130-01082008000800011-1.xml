@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Arturo .
+Apellidos: Muñoz Pascual.
+NHC: 1868441.
+NASS: 181022187901.
+Domicilio: Calle Héroes Alcázar de Toledo, 8, 4 A.
+Localidad/ Provincia: Valladolid.
+CP: 47001.
+Datos asistenciales.
+Fecha de nacimiento: 18/06/1965.
+País de nacimiento: España.
+Edad: 46 años Sexo: H.
+Fecha de Ingreso: 13/07/2011.
+Episodio: 1641529.
+Médico: Juan José Arenal Guerra NºCol: 47 47 91956.
+Informe clínico del paciente: Paciente varón de 46 años, diagnosticado de linfoma de Hodgkin clásico, variedad celularidad mixta, estadio IV-B con afectación medular, hepática y esplénica, en tratamiento con quimioterapia (BEACOPP escalado). En la fase de inducción de la quimioterapia (día 11) comienza con fiebre, escalofríos y melenas. En la analítica mostró neutropenia (100 leucocitos/mm3) y plaquetopenia. Ingresa en la UCI por un cuadro de insuficiencia respiratoria aguda y durante su ingreso sufre una hemorragia digestiva baja con shock hipovolémico, que precisó intubación y transfusión de hemoderivados. Por endoscopia alta se identificó, en yeyuno proximal, una gran ulceración de 2-3 cm, de bordes lisos, con fondo necrótico, sin sangrado activo. El estudio anatomopatológico de la biopsia tomada de los bordes de la úlcera mostró varios fragmentos de mucosa de intestino delgado, algunos ulcerados, con un denso infiltrado inflamatorio mixto, con numerosas células gigantes a cuerpo extraño, identificándose en su citoplasma y entre el infiltrado abundantes hifas gruesas no septadas compatibles con mucormicosis. Por TC se identifica un engrosamiento de la pared intestinal en yeyuno, de 4,5 cm de diámetro, y múltiples lesiones hipodensas en ambos lóbulos hepáticos y afectación lítica en cuerpos vertebrales a nivel dorsal y lumbar.
+Se inicia tratamiento con anfotericina B, con control de la glucemia y se plantea cirugía erradicadora. El paciente es intervenido quirúrgicamente, observándose un plastrón localizado en yeyuno con afectación de mesocolon transverso, con doble perforación cubierta de yeyuno. El estudio anatomopatológico de la pieza de resección de yeyuno e íleon mostró ulceración e intensa inflamación aguda y crónica con doble perforación y adherencia de asas, secundarias a infección por Zigomicetos del tipo mucor, con extensa necrosis fibrinoide de los vasos de mediano tamaño de la grasa subserosa. Las hifas son gruesas, de diámetro variable, se ramifican en distintos ángulos y en los cortes coronales muestran una membrana nítida y reforzada. Dichas hifas eran positivas con las técnicas de PAS y plata metanamina para hongos. El paciente no sufrió complicaciones derivadas de la cirugía. Al año de seguimiento el paciente sigue vivo y su linfoma está en remisión.
+Responsable clínico: Dr. Juan José Arenal Guerra. Plaza de Poniente, 2, 3. 47003 Valladolid e-mail: jujoarve@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="34" text="Arturo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="48" end="61" text="Muñoz Pascual" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="68" end="75" text="1868441" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="83" end="95" text="181022187901" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="108" end="146" text="Calle Héroes Alcázar de Toledo, 8, 4 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="170" end="180" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="186" end="191" text="47001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T1" start="235" end="245" text="18/06/1965" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="267" end="273" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="281" end="288" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="295" end="296" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="316" end="326" text="13/07/2011" TYPE="FECHAS" comment=""/>
+    <ID id="T7" start="338" end="345" text="1641529" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T9" start="355" end="378" text="Juan José Arenal Guerra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="386" end="397" text="47 47 91956" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="438" end="443" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="447" end="454" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2734" end="2757" text="Juan José Arenal Guerra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2759" end="2782" text="Plaza de Poniente, 2, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2784" end="2789" text="47003" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2790" end="2800" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2809" end="2826" text="jujoarve@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

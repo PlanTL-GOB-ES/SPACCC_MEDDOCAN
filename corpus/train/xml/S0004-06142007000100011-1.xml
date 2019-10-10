@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre: Alex.
+Apellidos: Rodriguez Castro.
+Domicilio: Frexes No. 121 entre Miró y M. Lemus..
+Localidad/ Provincia: Holguin.
+CP: 80 100.
+NHC: 19216856.
+Datos asistenciales.
+Fecha de nacimiento: 28/05/1979.
+País: Cuba.
+Edad: 39 Sexo: H.
+Fecha de Ingreso: 19/04/2018.
+Especialidad:.
+Médico:  René Salas Cabrera Morales      NºCol: 14578.
+Antecedentes: lesiones aftosas orales recurrentes y trastornos en la visión (pérdida progresiva).
+Historia Actual: Paciente masculino negro de 39 años de edad acude por presentar lesiones ulcerosas en región genital (pene y escroto) dolorosas, de un diámetro en 3 y 10 mm, con bordes recortados y fondo amarillento, revestidos de una pseudomembrana. Realizamos los complementarios pensando en una enfermedad de transmisión sexual, pero todo se encontraba dentro de límites normales.
+Exploración física y pruebas complementarias: Se decidió realizar exéresis y biopsia de lesiones. Informando infiltrado leucocitario en dermis superficial, necrosis epidérmica y presencia de leucocitos polimorfonucleares (no lesión tumoral).
+Evolución y comentarios: Cuando acude a consulta nuevamente viene con pérdida de la visión total y artralgias. Se discute el caso de conjunto Urología, Dermatología y Oftalmología, y con los criterios de:
+- Aftosis oral recurrente. - Signos de uveítis (pérdida de la visión). - Úlceras genitales.
+Y realizándose la prueba de patergia cutánea, que consiste en inyectar 1 cc de suero fisiológico intradérmico en el antebrazo del paciente. Donde se consideró 'positiva' (desarrolló una pústula sobre una base eritematosa)
+Diagnóstico: enfermedad de Behcet
+Remitido por: Dr René Salas Cabrera Morales Calle de Lemus, 149. Arias y Aguilera. 80100 Holguín. Cuba.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="13" text="Alex" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="26" end="42" text="Rodriguez Castro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T20" start="55" end="91" text="Frexes No. 121 entre Miró y M. Lemus" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="116" end="123" text="Holguin" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="129" end="135" text="80 100" TYPE="TERRITORIO" comment=""/>
+    <ID id="T17" start="142" end="150" text="19216856" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="194" end="204" text="28/05/1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="212" end="216" text="Cuba" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="224" end="226" text="39" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="233" end="234" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="254" end="264" text="19/04/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="290" end="316" text="René Salas Cabrera Morales" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="329" end="334" text="14578" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="460" end="469" text="masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="470" end="475" text="negro" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="479" end="486" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1631" end="1657" text="René Salas Cabrera Morales" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1658" end="1677" text="Calle de Lemus, 149" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="1679" end="1695" text="Arias y Aguilera" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1697" end="1702" text="80100" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1703" end="1710" text="Holguín" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1712" end="1716" text="Cuba" TYPE="PAIS" comment=""/>
+  </TAGS>
+</MEDDOCAN>

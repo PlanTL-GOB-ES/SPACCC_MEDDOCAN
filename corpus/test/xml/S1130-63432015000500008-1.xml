@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Patricia.
+Apellidos: Rioja Martinez.
+NHC: 4756409.
+NASS: 32 87653956 08.
+Domicilio: Calle Pavones, 86, 3, A.
+Localidad/ Provincia: Madrid.
+CP: 28034.
+Datos asistenciales.
+Fecha de nacimiento: 21/04/1977.
+País de nacimiento: España.
+Edad: 41 años Sexo: M.
+Fecha de Ingreso: 10/06/2018.
+Médico: Julia Sánchez Gundín NºCol: 28 28 09326.
+Informe clínico del paciente: Mujer de 41 años con diagnóstico de EMRR desde los 29. Ante la falta de efectividad del interferón-beta se decidió cambiar a natalizumab (EDSS 2), sin aparición de nuevos brotes durante dicho tratamiento. Este fármaco fue suspendido tras dos años por serología positiva VJC y, tras un periodo de lavado (PL) de cuatro meses sin ningún tratamiento farmacológico, se optó por iniciar fingolimod (EDSS 2). A los dos meses del inicio y tras una estabilidad radiológica de la enfermedad superior a dos años aparecieron en Resonancia Magnética Cerebral (RMC) tres nuevas lesiones desmielinizantes sin evidencia clínica de brote. A partir de entonces, la enfermedad estuvo radiológicamente estable, hasta trascurridos 28 meses, momento en que la paciente sufrió un brote con aumento del número de lesiones en ambos centros semiovales. A pesar del empeoramiento clínico tras la resolución del brote (EDSS 3), la paciente continúa con fingolimod (30 meses desde el inicio hasta la fecha). En cuanto a la seguridad del fingolimod, se evidenció linfopenia desde su inicio (300-900 células/mmc), sin conllevar su retirada.
+Responsable clínico: Dra. Julia Sánchez Gundín Correo electrónico: jsgundin@sescam.jccm.es 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="28" end="36" text="Patricia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="49" end="63" text="Rioja Martinez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="70" end="77" text="4756409" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="85" end="99" text="32 87653956 08" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="112" end="135" text="Calle Pavones, 86, 3, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="159" end="165" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="171" end="176" text="28034" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="220" end="230" text="21/04/1977" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="252" end="258" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="266" end="273" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="280" end="281" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="301" end="311" text="10/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="321" end="341" text="Julia Sánchez Gundín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="349" end="360" text="28 28 09326" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="392" end="397" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="401" end="408" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T2" start="443" end="445" text="29" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="1529" end="1549" text="Julia Sánchez Gundín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1570" end="1593" text="jsgundin@sescam.jccm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sandra.
+Apellidos: Bayres Mosher.
+NHC: 4378596.
+NASS: 31 39560849 39.
+Domicilio: Calle Tudela, 27, 4 der..
+Localidad/ Provincia: Pamplona .
+CP: 31520.
+Datos asistenciales.
+Fecha de nacimiento: 26/11/1937.
+País: España.
+Edad: 77 años Sexo: M.
+Fecha de Ingreso: 06/06/2015.
+Servicio: Endocrinología y Nutrición .
+Médico: Santiago Junquera Bañares NºCol: 31 08 51204.
+Historia Actual: Mujer de 77 años sin antecedentes de interés que consultó por una lesión en cuero cabelludo de más de dos años de evolución con crecimiento progresivo en el último año y que le molestaba con el roce. Se trataba de una lesión papulosa eritemato-violácea dura de 6 mm en región parietooccipital. Esta lesión se le extirpó mediante rebanado y nitrato de plata, sangró mucho y no se pudo obtener muestra suficiente para estudio anatomopatológico (AP). A los 6 meses le volvió a crecer la lesión con similares características en el mismo lugar, se le extirpó mediante exéresis elíptica y bisturí eléctrico. El análisis AP informó de la presencia de tejido tiroideo diferenciado en piel. Se trataba de una tumoración situada en dermis media y profunda constituida por estructuras foliculares de tamaños variables que contenían material coloide con vascularización periférica y revestidas por una hilera de células cúbicas con escaso número de mitosis. El examen inmunohistoquímico detectó expresión citoplasmática e intracoloidea de tiroglobulina, queratina 7 y 19 de manera intensa. Con estos hallazgos la paciente nos fue remitida para valoración de metástasis de cáncer tiroideo no conocido previamente.
+En la anamnesis la paciente se encontraba asintomática y carecía de antecedentes médicos de interés. 
+Exploración y pruebas complementarias: En la exploración física se palpaba un bocio grado Ib con nódulo de 2-3 cm en LTD que ascendía bien con la deglución sin adenopatías palpables, siendo el resto normal. Pruebas complementarias: en análisis TSH 0,55 mU/L (0,35-5,5), T4l 1,23 ng/dL (0,8-1,76), T3l 3,19 ng/mL (2,3-4,2), anticuerpos anti-TPO y anti-TG indetectables y TSI negativos que se han mantenido igual a lo largo del seguimiento. En la ecografía tiroidea se aprecia bocio multinodular, observándose en el LTD un nódulo dominante de 25 x 15 mm de ecogenicidad mixta con áreas hiper-hipoecoicas y calcificaciones groseras, y en su zona caudal se identificaron zonas mal definidas hipoecogénicas, zona donde se realizó la PAAF y que fue informada de tumor folicular. Al mes se le realizó una tiroidectomía más linfadenectomía del compartimento central. La biopsia intraoperatoria fue informada de carcinoma papilar. El análisis AP de la pieza quirúrgica fue informado de carcinoma mixto papilar y folicular bien diferenciado (90%) y sólido con un 10% poco diferenciado, parcialmente encapsulado con extensa infiltración de la cápsula y de los vasos de la misma. El tamaño de la porción encapsulada fue de 15 mm y de 30 mm el tumor completo. No se apreció extensión extratiroidea y los márgenes quirúrgicos estaban libres, siendo el más próximo el posterior a un mm. En el vaciado del compartimento central se obtuvieron 4 ganglios que resultaron libres de tumor.
+Evolución:Se le realizó estudio de extensión antes del tratamiento con radioyodo mediante estudio metabólico con 8,26 mCi de 18FDG, RM cerebral y pélvica y gammagrafía ósea que fue negativo. A los 70 días de la intervención se le administraron 104,7 mCi de I131 tras TSHrh. La TG sérica basal fue de 351 µg/L (1,6-60). TG estimulada 1788,7 µg/L (47-10000) con TSH basal de 117 mU/L (0,37-4,7). En el RCT post-I131 se observaron restos post-tiroidectomía de localización en la cámara posterior izquierda, junto con afectación difusa de carácter miliar en ambos parénquimas pulmonares compatible con metástasis. Al mes de la ablación con radioyodo y en tratamiento con 100 µg de levotiroxina presentó TG 37 µg/L (1,6-60), TSH 1,96 mU/L y T4l 1,43 ng/dL, momento en que se le subió la dosis de levotiroxina a 125 µg. En la evaluación a los 6 meses de la ablación con radioyodo la TG fue de 2,78 con TSH 0,03 y T4l 1,96, por lo que se le da otra dosis de radioyodo de 125 mCi; y 2 meses después se detecta TG<0,20 µg/L con TSH 0,04 mU/L y T4 1,6 ng/dL. La paciente será reevaluada en 4 meses mediante cuantificación de TG estimulada tras TSHrh y posterior RCT para confirmar curación.
+Remitido por: Dr. Santiago Junquera Bañares Servicio de Endocrinología y Nutrición Complejo Hospitalario de Navarra Irunlarrea, 3 31008 Pamplona E-mail: sojuba@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="34" text="Sandra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="47" end="60" text="Bayres Mosher" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="67" end="74" text="4378596" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="82" end="96" text="31 39560849 39" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="109" end="133" text="Calle Tudela, 27, 4 der." TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="157" end="165" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="172" end="177" text="31520" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="221" end="231" text="26/11/1937" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="239" end="245" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="253" end="260" text="77 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="267" end="268" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="288" end="298" text="06/06/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="347" end="372" text="Santiago Junquera Bañares" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="380" end="391" text="31 08 51204" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="410" end="415" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="419" end="426" text="77 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="4381" end="4406" text="Santiago Junquera Bañares" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="4446" end="4478" text="Complejo Hospitalario de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="4479" end="4492" text="Irunlarrea, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="4493" end="4498" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4499" end="4507" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="4516" end="4534" text="sojuba@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

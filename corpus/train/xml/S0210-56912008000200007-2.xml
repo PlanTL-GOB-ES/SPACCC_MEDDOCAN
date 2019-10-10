@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Jimena .
+Apellidos: Ortega Prieto.
+NHC: 7567884.
+Domicilio: Calle Cruz del Rayo 86.
+Localidad/ Provincia: Jaén.
+CP: 23009.
+Datos asistenciales.
+Fecha de nacimiento:12/04 /2011.
+País de nacimiento: España.
+Edad: 18 meses Sexo: M.
+Fecha de Ingreso: 17/10/2012.
+Médico: Fabio Alados Arboledas NºCol:23 23 32145.
+Informe clínico del paciente: Niña de 18 meses y 10 kg trasladada desde su hospital de origen por shock séptico (noradrenalina máxima 1,5 µg/kg/min, ventilación mecánica 21 días, CID); se inicia DPA a las 40 h de su ingreso por anuria, ascenso de creatinina (basal 0,7 mg/dl, posterior 2,3 mg/dl) y balance de +2.360 ml. Se inicia DPA en el día 2 con líquido al 1,36%, pases horarios de 10 ml/kg, permanencia 20 minutos, con cocientes D/P de urea, creatinina y Dt/Do glucosa de 0,91, 0,83 y 0,33, respectivamente, con ultrafiltración efectiva entre 405 y 700 ml/día. Para obtener balance neto negativo tuvimos que incrementar la concentración del líquido de diálisis hasta el 3,27%. Observamos que con un volumen de 15 ml/kg y 10 minutos de permanencia, pase horario, al 3,27% el valor de los cocientes era 0,51, 0,47 y 0,41 (el aclaramiento de sustancias no era excesivo, pero teníamos todavía suficiente gradiente osmótico), por lo que incrementamos la permanencia a 15 y posteriormente a 20 minutos con los siguientes cocientes D/P de urea, creatinina y Dt/Do glucosa: 0,65, 0,61, 0,41, y 0,75, 0,59, 0,35 respectivamente, con estabilización de la tendencia ascendente de la creatinina en 4 mg/dl. En el día 21 se aprecia dializado turbio con escasa celularidad y aumento de proteínas, por lo que disminuimos la concentración del líquido al 2,27% y dejamos permanencia de 4 h con 15 ml/kg por pase y 4 pases diarios (en peritonitis se recomienda aumentar el tiempo de permanencia y disminuir la concentración de la solución infundida4). En estas circunstancias los valores de los cocientes D/P de urea, creatinina y Dt/Do glucosa eran 1,04, 0,85 y 0,14 respectivamente, por lo que disminuimos la permanencia a 2 horas, 6 pases diarios con igual volumen y tipo de líquido, obteniendo cocientes de 1,01, 0,76 y 0,23 con descenso en 36 h de la creatinina de 4,2 mg/dl a 3,3 mg/dl (función renal de 6,6 ml/min/1,73 m2 por aclaramiento urinario de creatinina y de 9 ml/min/1,73 m2 por fórmula de Schwarz). En el día 27 con 6 pases diarios con glucosa al 1,36% a 15 ml/kg y 2 horas de permanencia los cocientes eran 1,04, 0,92 y 0,13, por lo que redujimos a 90 minutos de permanencia y posteriormente 60 minutos, pudiendo incrementar el número de pases diarios hasta 9, obteniendo unos cocientes de 0,98, 0,88 y 0,38 (con 60 minutos de permanencia obteníamos la misma depuración que con 120; al poder realizar más pases mejoraríamos depuración y ultrafiltración), y un descenso de creatinina de 2,7 a 1,8 mg/dl (función renal de 15 ml/min/1,73 m2 por aclaramiento urinario de creatinina y de 19 ml/min/1,73 m2 por fórmula de Schwarz), lo que permitió suspender la DPA.
+Responsable clínico: Dr. Fabio Alados Arboledas. C/ Manuel Caballero Venzala, 12, 2.º-A. 23009 Jaén. España. Correo electrónico: faladosarbol@supercable.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="34" text="Jimena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="48" end="61" text="Ortega Prieto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="68" end="75" text="7567884" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="88" end="110" text="Calle Cruz del Rayo 86" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="134" end="138" text="Jaén" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="144" end="149" text="23009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="192" end="203" text="12/04 /2011" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="225" end="231" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="239" end="247" text="18 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="254" end="255" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="275" end="285" text="17/10/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="295" end="317" text="Fabio Alados Arboledas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="324" end="335" text="23 23 32145" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T1" start="367" end="371" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="375" end="383" text="18 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3028" end="3050" text="Fabio Alados Arboledas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3052" end="3090" text="C/ Manuel Caballero Venzala, 12, 2.º-A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3092" end="3097" text="23009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3098" end="3102" text="Jaén" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3104" end="3110" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="3132" end="3158" text="faladosarbol@supercable.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

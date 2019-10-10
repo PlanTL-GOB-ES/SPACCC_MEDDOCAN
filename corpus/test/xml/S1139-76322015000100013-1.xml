@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Ian.
+Apellidos: Lestayo Rivas.
+NHC: 9845632.
+Domicilio: Calle de San Fernando 19, 1B.
+Localidad/ Provincia: Torrejón de Ardoz, Madrid.
+CP: 28850.
+Datos asistenciales.
+Fecha de nacimiento: 26/01/2010.
+País: España.
+Edad: 8 años Sexo: H.
+Fecha de Ingreso: 26/05/2018.
+Servicio: Oftalmología.
+Médico: Francisco José Sanz Santaeufemia  NºCol: 28 28 91883.
+Informe clínico del paciente: Niño de ocho años remitido desde la consulta de Oftalmología por lesiones vesículo-costrosas arracimadas pruriginosas periorbitarias y palpebrales derechas, diagnosticado de herpes zóster palpebral que no mejora con aciclovir tópico y colirio de tobramicina. Por ello se substituye el antiviral por su presentación oral, sin experimentar mejoría en seis días, decidiendo entonces retirar el aciclovir y consultar a Dermatología, donde se prescribe sulfato de zinc y sertaconazol tópicos previa recogida de cultivo de piel, al etiquetar la lesión periorbitaria de tiña faciei y añadiendo un corticoide tópico para mitigar el componente hiperqueratósico y descamativo.
+Tres semanas más tarde acude a revisión, donde se observa una discreta disminución del prurito, con estancamiento de las lesiones previas, manteniendo aún una gran descamación y queratosis con base eritematovesiculosa mal definida. El cultivo resulta positivo para Candida krusei, por lo que se retiran terapias previas, recomendando griseofulvina oral en dos dosis diarias con comidas grasas y suspendiendo corticoide tópico, produciéndose una mejoría del cuadro con desaparición de signos cutáneos en los siguientes 14 días.
+Remitido por: Dr. Francisco José Sanz Santaeufemia. Correo Electrónico:  sanzsantaeufemiafj@gmail.com Hospital Universitario de Torrejón Calle Mateo Inurria, s/n, 28850 Torrejón de Ardoz, Madrid.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="31" text="Ian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="44" end="57" text="Lestayo Rivas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="64" end="71" text="9845632" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T20" start="84" end="112" text="Calle de San Fernando 19, 1B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="136" end="153" text="Torrejón de Ardoz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="155" end="161" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="167" end="172" text="28850" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="216" end="226" text="26/01/2010" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="234" end="240" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="248" end="254" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="261" end="262" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="282" end="292" text="26/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="326" end="358" text="Francisco José Sanz Santaeufemia" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="367" end="378" text="28 28 91883" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="410" end="414" text="Niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="418" end="427" text="ocho años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1622" end="1654" text="Francisco José Sanz Santaeufemia" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T6" start="1677" end="1705" text="sanzsantaeufemiafj@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T5" start="1706" end="1740" text="Hospital Universitario de Torrejón" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1741" end="1765" text="Calle Mateo Inurria, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1767" end="1772" text="28850" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1773" end="1790" text="Torrejón de Ardoz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="1792" end="1798" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

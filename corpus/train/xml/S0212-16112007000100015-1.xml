@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Julio.
+Apellidos: Preciados Betanco.
+NHC: 2785648.
+NASS: 47 83562704 45.
+Domicilio: Calle de Gamazo, 6, 2, 1.
+Localidad/ Provincia: Santander.
+CP: 39004.
+  .
+Datos asistenciales.
+Fecha de nacimiento: 08/03/1943.
+País de nacimiento: España.
+Edad: 72 años Sexo: H.
+Fecha de Ingreso: 07/12/2015.
+Médico: Bianca Suberviola Cañas. NºCol: 39 39 59781.
+Informe clínico del paciente: Paciente varón de 72 años de edad entre cuyos antecedentes personales destacó haber sido diagnosticado de enfermedad pulmonar obstructiva crónica (EPOC), hipertensión arterial, diabetes mellitus tipo II e isquemia crónica en las extremidades inferiores. Se encontraba en tratamiento con metformina, acarbosa y glinclazida. Presentó un cuadro de 72 horas de evolución cuyo inicio se caracterizó por la existencia de un dolor abdominal difuso acompañado de diarrea y anorexia, con posterior deterioro del nivel de conciencia. Fue atendido en un hospital secundario en el que se objetivó la existencia de datos de fracaso renal agudo, importante acidosis metabólica e inestabilidad hemodinámica motivo por el cual se decidió su traslado a la UCI de nuestro hospital.
+A su llegada a nuestra Unidad el paciente se encontraba consciente aunque con tendencia al sueño, taquicárdico (frecuencia cardíaca de 120 latidos por minuto en ritmo sinusal), hipotenso (tensión arterial 80/40 mmHg) y con signos indirectos de bajo gasto cardíaco en la exploración física. Entre las determinaciones analíticas realizadas a su ingreso destacó la existencia de una insuficiencia renal aguda con cifras de creatinina y urea de 6,6 mg/dl y 197 mg/dl respectivamente y de una acidosis láctica grave con pH: 6,8, déficit de bases -29 mmol/l, anión GAP de 41 y determinación de lactato de 176 mg/dl.
+Ante la sospecha de que se tratase de una intoxicación aguda por metformina se tomó una muestra sanguínea para determinación de los niveles plasmáticos de la misma y se inició el tratamiento consistente en la reposición hidroelectrolítica, estabilización hemodinámica mediante el empleo de noradrenalina a dosis de 0,4 mcg/kg/minuto y dobutamina a dosis de 10 mcg/kg/minuto y corrección de la acidosis mediante administración endovenosa de bicarbonato 1 M. Asimismo, y de acuerdo con el Servicio de Nefrología se decidió la realización de hemodiálisis.
+La evolución del paciente fue favorable, con una desaparición progresiva de la acidosis y normalización de los parámetros de función renal que permitieron el alta del paciente en el noveno día de su ingreso en la UCI. La determinación de los niveles de metformina fue de 70,40 mg/l a nivel plasmático y 53,10 mg/l a nivel eritrocitario.
+Responsable clínico: Bianca Suberviola Cañas. Servicio de Medicina Intensiva Hospital Universitario Marqués de Valdecilla Santander E-mail: bsuberviola@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="33" text="Julio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="46" end="63" text="Preciados Betanco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="70" end="77" text="2785648" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="85" end="99" text="47 83562704 45" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="112" end="136" text="Calle de Gamazo, 6, 2, 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="160" end="169" text="Santander" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="175" end="180" text="39004" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="228" end="238" text="08/03/1943" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="260" end="266" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="274" end="281" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="288" end="289" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="309" end="319" text="07/12/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="329" end="352" text="Bianca Suberviola Cañas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="361" end="372" text="39 39 59781" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="413" end="418" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T5" start="422" end="429" text="72 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="2689" end="2712" text="Bianca Suberviola Cañas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="2745" end="2789" text="Hospital Universitario Marqués de Valdecilla" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T2" start="2790" end="2799" text="Santander" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2808" end="2828" text="bsuberviola@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

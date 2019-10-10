@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Ignacio .
+Apellidos: Rubio Jimenez.
+NHC: 2589631.
+NASS: 45 78934578 09.
+Domicilio: Av. de Oviedo, 48, 5G .
+Localidad/ Provincia: Lugones, Asturias.
+CP: 33420.
+Datos asistenciales.
+Fecha de nacimiento: 15/06/1975.
+País: España.
+Edad: 42 años Sexo: H.
+Fecha de Ingreso: 23/08/2017.
+Servicio: Hemodiálisis.
+Episodio: 3407605.
+Médico: Maria Isabel Fuente García NºCol: 33 20 54710.
+Informe clínico del paciente: Paciente de 42 años diagnosticado de pancolitis ulcerosa en el año 2003, corticodependiente, con un primer episodio cortirrefractario en agosto de 2003 y con sobreinfección por citomegalovirus, que se trató con ganciclovir iv. En mayo de 2004, presentó un brote moderado con diarrea con sangre roja (2 deposiciones diarias) y desde entonces anemia ferropénica crónica que trata con ferroterapia. En el estudio endoscópico se aprecia pancolitis ulcerosa con afectación grave. Recibe tratamiento con corticoides e inmunosupresores.
+En junio de 2007 presenta un nuevo brote de actividad de la enfermedad con 10-12 deposiciones líquidas diarias, dolor abdominal y fiebre. Debido al empeoramiento clínico y analítico progresivo presentado por el paciente y la mala respuesta al tratamiento convencional, se decide iniciar el tratamiento con granulocitoaféresis asociado a ciclosporina iv.
+Mientras el paciente estuvo ingresado se realizaron 4 sesiones, siendo precisa la colocación de un catéter de doble luz en la yugular derecha. Hubo que realizar un cambio de catéter central por infección MARSA se realizó aislamiento de contacto).Las 3 sesiones restantes las recibió de forma ambulatoria. Durante estos meses, el paciente ha presentado una mejoría clínica y endoscópica de evolución rápida. Actualmente recibe tratamiento con azatioprina (Imurel®).
+Remitido por: Dra. Maria Isabel Fuente García. Unidad de Hemodiálisis Hospital San Agustín Avilés c/ Camino de Eros n º 4 33400 Asturias isabel.fuente@sespa.princast.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T28" start="8" end="15" text="Ignacio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T27" start="29" end="42" text="Rubio Jimenez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T26" start="49" end="56" text="2589631" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="64" end="78" text="45 78934578 09" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T24" start="91" end="112" text="Av. de Oviedo, 48, 5G" TYPE="CALLE" comment=""/>
+    <LOCATION id="T23" start="137" end="144" text="Lugones" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T22" start="146" end="154" text="Asturias" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="160" end="165" text="33420" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="209" end="219" text="15/06/1975" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T20" start="227" end="233" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="241" end="248" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="255" end="256" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="276" end="286" text="23/08/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T1" start="322" end="329" text="3407605" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T14" start="339" end="365" text="Maria Isabel Fuente García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="373" end="384" text="33 20 54710" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T16" start="428" end="435" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="479" end="487" text="año 2003" TYPE="FECHAS" comment=""/>
+    <DATE id="T10" start="553" end="567" text="agosto de 2003" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="646" end="658" text="mayo de 2004" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="949" end="962" text="junio de 2007" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="1784" end="1810" text="Maria Isabel Fuente García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1835" end="1855" text="Hospital San Agustín" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="1856" end="1862" text="Avilés" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="1863" end="1886" text="c/ Camino de Eros n º 4" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1887" end="1892" text="33400" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1893" end="1901" text="Asturias" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="1902" end="1933" text="isabel.fuente@sespa.princast.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Raquel .
+Apellidos: Martinez Rodriguez.
+NHC: 1056984.
+NASS: 19 58741346 04.
+Domicilio: Calle Gral. Manuel Saavedra Palmeiro, 11, 6 C.
+Localidad/ Provincia: Badajoz.
+CP: 06004.
+Datos asistenciales.
+Fecha de nacimiento: 28/05/1985.
+País: España.
+Edad: 33 años Sexo: M.
+Fecha de Ingreso: 01/06/2018.
+Servicio: Urg.
+Episodio: 2389567.
+Médico: Anselmo Guareño Antúnez NºCol: 06 06 85203.
+Informe clínico del paciente.
+Motivo de ingreso: Astenia
+Historia Actual: Consulta por intensa astenia y presíncopes (de una semana de evolución), que dificultan la deambulación, junto con anorexia sin pérdida de peso. Menstruación muy duradera (8 días) y abundante. No heces melénicas, palidez cutánea y mucosa. Epistaxis y gingivorragia.
+Antecedentes: antecedentes de alergias no conocidas, lupus cutáneo con eritema malar sin tratamiento desde hace 8 años y en seguimiento por reumatología. Tiroiditis de Hashimoto. Apendicectomía. Exfumadora desde hace 7 años. No bebedora. No hábitos tóxicos, excepto en tomas de bebidas con quinina (tónicas). Episodios de anemia tras los 2 partos. Cesárea y ligadura de trompas en el 3o.
+Exploración y pruebas complementarias: La analítica destaca anemia con 6.7 gr / dl de hemoglobina, trombopenia con plaquetas de 6.000/ mm3. LDH 1696 UI/l. Frotis sanguíneo con presencia de esquistocitos. Resto de exploraciones normales.
+Evolución y comentarios: Según los datos clínicos y de laboratorio, la paciente presenta un cuadro compatible de PTT en el contexto del LES.
+A su ingreso se transfunde un concentrado de hematíes y otro de plaquetas. Una hora después de pasar las plaquetas, la paciente comienza con un cuadro de afasia global y desviación de la comisura bucal a la izquierda sin otra focalidad neurológica. Posteriormente habla con lenguaje normal sin focalidad evidente.
+Dado el añadido síntoma neurológico se ingresa en hematología para su estudio.
+Al presentar la paciente microangiopatía trombótica y crisis convulsivas, nos solicitan desde ese servicio la realización de plasmaféresis. Debido al empeoramiento clínico de la paciente, ingresa en UCI.
+Plan de sesiones de plasmaféresis:
+El volumen de recambio debe situarse entre 1-1,5 veces el volumen plasmático.
+El tratamiento se prolongará hasta 48 h. después de conseguir la respuesta.
+La paciente pesa 75 kgr., y por tablas de relación, le corresponden un total de 3.500 cc. de volumen a reinfundir, por lo que se programan: 1.750 cc. de plasma fresco + 350 cc. de albúmina humana al 20% + 1.400 cc. solución Dianeal® 1,36% de diálisis peritoneal.
+Incidencia de las sesiones:
+Para la realización de la 1a plasmaféresis en UCI se intenta implantar un catéter en yugular derecha, pero debido a su dificultad y exceso de sangrado, se coloca un catéter doble luz en femoral izquierda.
+El monitor utilizado para la técnica fue un PRISMA CRRT-TPE (Hospal®), con filtro PTE-2000.
+La dosis de heparina fue de 15-5-5-5 mgr, siendo la duración de las sesiones de unos 210 minutos, con una infusión media de 980 ml/h, unos flujos de sangre entre 120-140 ml/min.y unas presiones de (PA. - 85 a -170 mmHg, y PV de 70 a 90 mmHg, manteniéndose una PTM entre 25-55 mmHg).
+La paciente en UCI presenta un mal estado general (sedada), con las constantes mantenidas. Se le realizaron un total de 17 sesiones.
+Incidencia de las mismas:
+La 1a sesión la pasó muy agitada.
+En la 5a y 6a sufre hipotensión y convulsiones importantes, que ceden con diazepam y salino fisiológico, terminando el tratamiento.
+En la 16a hay un aumento de PTM hasta 55 mm Hg faltando 50 minutos, finalizando la sesión.
+En la 17a, hay un fallo del test de aire cuando faltan 90 minutos, por lo que hubo que cambiar el SET.
+El resto de las sesiones se realizaron sin problemas, siendo bien toleradas por la paciente.
+Remitido por: Dr. Anselmo Guareño Antúnez C/ Julio Cienfuegos Linares no 11, bl 1, port 2, 2o A 06006.Badajoz E-mail: yoniantunez@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="34" text="Raquel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="48" end="66" text="Martinez Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="73" end="80" text="1056984" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="88" end="102" text="19 58741346 04" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="115" end="160" text="Calle Gral. Manuel Saavedra Palmeiro, 11, 6 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="184" end="191" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="197" end="202" text="06004" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="246" end="256" text="28/05/1985" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="264" end="270" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="278" end="285" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="292" end="293" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="313" end="323" text="01/06/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T6" start="350" end="357" text="2389567" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T8" start="367" end="390" text="Anselmo Guareño Antúnez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="398" end="409" text="06 06 85203" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <NAME id="T7" start="3804" end="3827" text="Anselmo Guareño Antúnez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="3828" end="3881" text="C/ Julio Cienfuegos Linares no 11, bl 1, port 2, 2o A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3882" end="3887" text="06006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3888" end="3895" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3904" end="3924" text="yoniantunez@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

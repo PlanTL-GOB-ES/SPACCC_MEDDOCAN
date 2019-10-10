@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Alfredo .
+Apellidos: Piña Barba.
+NHC: 665326454.
+NASS: 48 95413624 09.
+Domicilio: Calle Francos Rodriguez 96, 6H.
+Localidad/ Provincia: Madrid.
+CP: 28035.
+Datos asistenciales.
+Fecha de nacimiento: 15/10/1976.
+País: España.
+Edad: 41 años Sexo: H.
+Fecha de Ingreso: 14/12/2017.
+Servicio: Nefrología.
+Episodio:103985641.
+Médico: Raquel Díaz-Mancebo NºCol: 28 28 13166.
+Historia Actual: Varón de 41 años, remitido para evaluación por hallazgo de proteinuria. Diagnóstico de HPN en contexto de anemia hemolítica. No requería transfusiones sanguíneas y no presentaba eventos trombóticos. Las pruebas de laboratorio mostraron actividad hemolítica persistente, LDH elevada (1.800-3.000 U/l) y haptoglobina indetectable, hemoglobina de 8,5 mg/dl, leucopenia y trombocitopenia leves, ferritina normal de 25 ng/ml.
+Presentaba crisis hemolíticas recurrentes con fatiga, disfagia, dolor abdominal y orina oscura. Los episodios solían durar de 1-3 días, cada 2-3 meses.
+La función renal era normal, creatinina sérica de 0,9 mg/dl y FG (MDRD) > 60 ml/min. Hemoglobinuria persistente con sedimento urinario normal, y proteinuria de 1,3 g/día con albuminuria 170 mg/día y aminoaciduria no selectiva, indicando DTP. El estado ácido-base, fosfato y ácido úrico eran normales. Se consideró la posibilidad de DTP por depósito de hemosiderina, por lo que se realizó una IRM con el hallazgo de hipointensidad cortical renal bilateral compatible con depósito de hierro. Se planteó inicio de terapia con eculizumab, pero se desestimó debido a la falta de requerimiento transfusional y normalidad del FG.
+Dos años más tarde, presentó una crisis hemolítica severa con insuficiencia renal aguda, la cual se atribuyó a hemoglobinuria. El paciente fue tratado con medidas conservadoras, presentando recuperación de la función renal en 18 días. Tras este episodio se comenzó tratamiento con eculizumab. En unas pocas semanas, la LDH y la hemoglobina casi se normalizaron, manteniendo bajos niveles de haptoglobina. En los siguientes meses, la proteinuria tubular se normalizó progresivamente.
+Catorce meses después del inicio de eculizumab, una nueva IRM mostró una mejora en la hipointensidad de señal en la corteza renal del 34 y 51% en los riñones izquierdo y derecho, respectivamente, indicando la eliminación parcial de los depósitos de hierro en el riñón.
+Remitido por: Raquel Díaz-Mancebo, Servicio de Nefrología, Hospital Universitario La Paz, Paseo de la Castellana 261, 28046, Madrid E-mail: rdiazm.hulp@salud.madrid.org
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="8" end="15" text="Alfredo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="29" end="39" text="Piña Barba" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="46" end="55" text="665326454" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="63" end="77" text="48 95413624 09" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="90" end="120" text="Calle Francos Rodriguez 96, 6H" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="144" end="150" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="156" end="161" text="28035" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="205" end="215" text="15/10/1976" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="223" end="229" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="237" end="244" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="251" end="252" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="272" end="282" text="14/12/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T11" start="315" end="324" text="103985641" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="334" end="353" text="Raquel Díaz-Mancebo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="361" end="372" text="28 28 13166" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="391" end="396" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="400" end="407" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2353" end="2372" text="Raquel Díaz-Mancebo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2398" end="2427" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2429" end="2455" text="Paseo de la Castellana 261" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2457" end="2462" text="28046" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2464" end="2470" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2479" end="2507" text="rdiazm.hulp@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

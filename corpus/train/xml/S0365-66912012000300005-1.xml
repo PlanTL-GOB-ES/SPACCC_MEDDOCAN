@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Paula.
+Apellidos: Vazquez Medina.
+NHC: 89457.
+NASS: 96 52689756 07.
+Domicilio: Calle puerta de Hierro 87, 2C.
+Localidad/ Provincia:  Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 01/05/1946.
+País: España.
+Edad: 70 años Sexo:.
+Fecha de Ingreso: 24/11/2016.
+Servicio: Oftalmología.
+Médico: Jorge Javier Jordano Pérez NºCol:28 28 54623.
+Motivo de ingreso: Paciente de 70 años que acude a nuestro Servicio por disminución de agudeza visual del ojo izquierdo.
+Antecedentes:Entre los antecedentes personales destacaban diabetes mellitus tipo 2, dislipidemia, hipertensión y alergia a pirazolonas.
+Exploración y pruebas complementarias: A la exploración presentaba una agudeza visual corregida de 0,5 en ojo derecho y 0,1 en ojo izquierdo. En el examen del polo anterior se observó una opacidad incipiente del cristalino en ambos ojos. Presión intraocular de 16mm de Hg en ambos ojos. En el examen del fondo de ojo se observó atrofia coriorretiniana peripapilar con una coloración blanco-amarillenta que afectaba a la retina nasal y arcadas vasculares temporales en ambos ojos y que en el ojo izquierdo afectaba a la mácula. No presentaba vitritis.
+En la AGF se observó hipofluorescencia precoz e hiperfluorescencia tardía variable de las lesiones en ambos ojos con afectación macular en ojo izquierdo.
+Evolución y comentarios: La paciente fue diagnosticada de coroiditis serpiginosa, instaurándose tratamiento con corticoides orales en forma de prednisona oral a dosis de 1mg/kg/día hasta 2 semanas después de haber obtenido respuesta terapéutica, siendo en este momento, reducida la dosis a 0,5mg/kg/día. Posteriormente a las 4 semanas fue reducida a días alternos y a las 8 semanas fue reducida a 0,1mg/kg/día, permaneciendo la agudeza visual estable. La paciente fue remitida al Servicio de Medicina Interna para ajuste de las dosis de insulina por el inicio del tratamiento corticoideo.
+Seis meses después, la paciente acude al Servicio de Ginecología por metrorragia evidenciándose tras exploración un carcinoma de cérvix uterino evolucionado con afectación del tercio inferior de la vagina.
+La paciente se deriva al Servicio de Oncología que comienza el tratamiento con 40mg de metilprednisolona intramuscular durante 3 días a la semana asociado a quimioterapia y radioterapia durante 5 semanas.
+Dos meses más tarde, ante la inminente afectación macular del segundo ojo se añadió al tratamiento la azatioprina a dosis de 1,5mg/kg/día, que se redujo a 1mg/kg/día a los dos meses y se redujo la prednisona oral según protocolo 4.
+La paciente fallece un año después por fracaso multiorgánico.
+Remitido por: Jorge Javier Jordano Pérez. Correo electrónico: j.jordano@telefonica.net ()
+]]></TEXT>
+  <TAGS>
+    <NAME id="T16" start="9" end="14" text="Paula" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T15" start="27" end="41" text="Vazquez Medina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T14" start="48" end="53" text="89457" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T13" start="61" end="75" text="96 52689756 07" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T12" start="88" end="117" text="Calle puerta de Hierro 87, 2C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T11" start="142" end="148" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T10" start="154" end="159" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T9" start="203" end="213" text="01/05/1946" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T8" start="221" end="227" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T7" start="235" end="242" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T6" start="268" end="278" text="24/11/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="312" end="338" text="Jorge Javier Jordano Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="345" end="356" text="28 28 54623" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T3" start="389" end="396" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="2628" end="2654" text="Jorge Javier Jordano Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2676" end="2700" text="j.jordano@telefonica.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

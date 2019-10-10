@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Andrea .
+Apellidos: Sole Santiago.
+CIPA: nhc-97431658.
+NASS: 32 56413641 11.
+Domicilio: Plaza Recife, 1.
+Localidad/ Provincia: A Coruña.
+CP: 15004.
+NHC: 97431658.
+Datos asistenciales.
+Fecha de nacimiento: 13/09/1947.
+País: España.
+Edad: 69  Sexo:M.
+Fecha de Ingreso: 13/07/2016.
+Especialidad: Urología.
+Médico: Daniel Lopez García  NºCol: 15 15 32145.
+Historia Actual: Mujer de 68 años con antecedentes de hipertensión arterial e hipercolesterolemia, afecta de insuficiencia renal crónica terminal de etiología no filiada, con anemia nefrogénica tratada con factores estimulantes de la eritropoyesis e hiperparatiroidismo secundario. La diuresis residual se situaba en torno a 200 ml. al día.
+En el año 2004 inicia tratamiento sustitutivo de la función renal mediante hemodiálisis, entrando posteriormente en lista de espera de trasplante renal.
+Recibe en enero de 2008 un trasplante renal de donante cadáver en fosa ilíaca derecha. El postoperatorio es correcto salvo dos complicaciones médicas: desarrollo de diabetes mellitus que precisa administración de insulina y toxicidad por anticalcineurínicos, la cual supone que inicialmente el injerto no sea funcionante. Es dada de alta en la quinta semana tras la intervención con creatinina de 0,9 mg/dl y diuresis del orden de 2000 ml. al día, recibiendo triple terapia inmunosupresora con prednisona, tacrolimus y micofenolato mofetil.
+Reingresa dos semanas después por un cuadro consistente en importante edema en miembro inferior derecho y deterioro de la función renal, con disminución de la diuresis y elevación de la concentración de creatinina en plasma hasta 2 mg/dl. Mantenía un buen estado general, estando ausentes la fiebre y las manifestaciones hemodinámicas.
+La ECO demuestra una gran colección peri-injerto, estudiada posteriormente con TAC, que se extiende desde un nivel algo más craneal que la bifurcación aórtica hasta el recto, produciendo compresión de los vasos ilíacos y deplazamiento de la vejiga.
+La punción percutánea y colocación de pig-tail para drenar la colección se sigue de una gran mejoría de los síntomas y el análisis bioquímico del líquido obtenido (creatinina 1,67 mg/dl, Na 146 mEq/l, K 4,3 mEq/l) confirma la sospecha clínica de linfocele.
+Se indica tratamiento quirúrgico, llevando a cabo, una vez descartada la infección, marsupialización del linfocele a cavidad peritoneal por vía laparoscópica. La paciente recibe el alta quirúrgica el tercer día postoperatorio, con función renal normal y asintomática.
+En la TAC de control a los 14 días se comprueba la resolución del linfocele 
+Responsable clinico: Daniel Lopez García Servicio de Urología - planta 11 Hospital Juan Canalejo Xubias de Arriba s/n 15006 La Coruña. (España) delnilopez@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="9" end="15" text="Andrea" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="29" end="42" text="Sole Santiago" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="54" end="62" text="97431658" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="70" end="84" text="32 56413641 11" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="97" end="112" text="Plaza Recife, 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="136" end="144" text="A Coruña" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="150" end="155" text="15004" TYPE="TERRITORIO" comment=""/>
+    <ID id="T19" start="162" end="170" text="97431658" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="214" end="224" text="13/09/1947" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="232" end="238" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="246" end="248" text="69" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="255" end="256" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="276" end="286" text="13/07/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="320" end="339" text="Daniel Lopez García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="348" end="359" text="15 15 32145" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="378" end="383" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="387" end="394" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="708" end="716" text="año 2004" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="865" end="878" text="enero de 2008" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="2604" end="2623" text="Daniel Lopez García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2657" end="2679" text="Hospital Juan Canalejo" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2680" end="2700" text="Xubias de Arriba s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2701" end="2706" text="15006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2707" end="2716" text="La Coruña" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2719" end="2725" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2727" end="2749" text="delnilopez@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

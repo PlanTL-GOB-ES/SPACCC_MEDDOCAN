@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Martin.
+Apellidos: Conrado Benito.
+NHC: 4549856.
+NASS: 98 45678068 19.
+Domicilio: Calle Ramón y Cajal, 9, 1 C.
+Localidad/ Provincia: Ciudad Real.
+CP: 13002.
+Datos asistenciales.
+Fecha de nacimiento: 27/10/1969.
+País de nacimiento: España.
+Edad: 43 años Sexo: H.
+Fecha de Ingreso: 04/11/2012.
+Médico: Jorge Ortega Carnicer  NºCol: 13 13 27801.
+Informe clínico del paciente: Varón de 43 años que ingresa en el hospital por dolor precordial intenso de una hora de duración. El ECG mostró ligera E-ST inferior, onda J prominente en V1-V2 y D-ST marcada en derivaciones V1 a V5. Diagnosticado de IAM inferoposterior, el paciente recibió tratamiento trombolítico con reteplasa. Una hora más tarde el ECG reveló un BRD incompleto, una onda J (R') manifiesta en derivaciones V1-V2 y ausencia de desviaciones del segmento ST. También hubo ondas R altas afectando la parte inicial del complejo QRS y ondas T acuminadas en derivaciones V2-V3, que sugerían el diagnóstico de IAM posterior sobreañadido. A las 8 horas del ingreso el ECG puso de manifiesto una inversión de la onda T en derivaciones III y aVF, una onda J en V1-V2 y una E-ST cóncava con onda T positiva en derivaciones V1 a V4. Tres días después el ECG reveló una onda J, una E-ST cóncava y una onda T positiva de V2 a V5 que sugerían un SRP. La creatinquinasa ascendió hasta 4.999 U/l (con una fracción MB de 254). Un ecocardiograma reveló una acinesia inferobasal y apical. Una arteriografía coronaria puso de manifiesto una estenosis del 90% en el tercio medio de la arteria coronaria derecha, y de un 60% en la porción proximal de la arteria circunfleja. Tras la colocación de un stent en la arteria coronaria derecha, el paciente lleva tres años asintomático.
+Responsable clínico: Dr. Jorge Ortega Carnicer. Los Alisos, 10. 13002 Ciudad Real. Correo electrónico: jortegacar@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="34" text="Martin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="47" end="61" text="Conrado Benito" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="68" end="75" text="4549856" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="83" end="97" text="98 45678068 19" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="110" end="137" text="Calle Ramón y Cajal, 9, 1 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="161" end="172" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="178" end="183" text="13002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="227" end="237" text="27/10/1969" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="259" end="265" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="273" end="280" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="287" end="288" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="308" end="318" text="04/11/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T2" start="328" end="349" text="Jorge Ortega Carnicer" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T1" start="358" end="369" text="13 13 27801" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="401" end="406" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="410" end="417" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1771" end="1792" text="Jorge Ortega Carnicer" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1794" end="1808" text="Los Alisos, 10" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1810" end="1815" text="13002" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1816" end="1827" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="1849" end="1869" text="jortegacar@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

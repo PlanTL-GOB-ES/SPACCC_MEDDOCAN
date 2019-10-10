@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Enrique.
+Apellidos: Pastor Otero.
+NHC: 1520145.
+NASS: 23 32978454 11.
+Domicilio: Avenida nuestra señora del Pilar 19, 3E.
+Localidad/ Provincia: Zaragoza.
+CP: 50008.
+Datos asistenciales.
+Fecha de nacimiento: 24/04/1966.
+País: España.
+Edad: 52 años Sexo: H.
+Fecha de Ingreso: 20/05/2018.
+Servicio: Neurología.
+Médico: Gerard Piñol Ripoll NºCol: 50 50 45123.
+Historia Actual: Varón de 52 añosingresó por presentar, coincidiendo con una infección dental crónica, cefalea con malestar bucal desde hacía una semana a la que se había añadido hacía 48 horas parálisis facial inicialmente izquierda, de instauración brusca, que a las 24 horas se hizo bilateral sin otra sintomatología acompañante.
+En la exploración general presentaba angioma en frente y ojo derecho junto a tumefacción parotídea bilateral. En la exploración neurológica inicial presentaba parálisis facial periférica bilateral que le ocasionaba disartria con signo de Bell bilateral. No afectación del lagrimeo ni de la audición. Alteración del gusto en el tercio anterior de la lengua. 
+Antecedentes: esplenectomía a los 8 años por posible B-talasemia y sin factores de riesgo cardiovascular. Fumador de 1 paquete/día y bebedor moderado. Alérgico a pirazolonas. Relaciones sexuales de riesgo en la juventud.
+Evolución y comentarios: Durante los días posteriores al ingreso se añadieron parestesias en dedos de la manos, inicialmente en extremidad superior derecha y después bilateral, y pérdida de fuerza en las 4 extremidades de predominio proximal objetivándose en la exploración neurológica paresia 4/5 en extremidad superior derecha y 4+/5 en extremidad superior izquierda junto con arreflexia tricipital bilateral y estilo-radial derecha. La clínica siguió progresando añadiéndose paresia en extremidades inferiores 4/5 de los flexores de cadera bilaterales de predominio derecho con reflejos osteotendinosos rotulianos y aquíleos abolidos. Marcha independiente con torpeza, conservando la marcha de puntillas y talones pero con debilidad en ambos cuadriceps. Presentó una Rx tórax normal con hemograma, bioquímica y coagulación dentro de la normalidad. Serologías (Borrelia, Brucella, toxoplasma, rubéola, lúes, VEB, CMV, VHS, VIH, Varicela-Zoster, sarampión y parotiditis) en sangre y LCR negativas. ECA en sangre y cuantificación de immunoglobulinas fueron normales. Las pruebas de neuroimagen, TC y RNM cerebral, no mostraron hallazgos de interés. El LCR mostró incremento de proteínas (1,5 gr/dl), sin leucocitos y pandy positivo con citología negativa. No se observaron bandas oligoclonales. Test de Tensilon negativo. Se realizó ENG al séptimo día del ingreso donde se observó ausencia de respuesta facial periférica bilateral con signos de polineuropatía sensitivo-motora en extremidades, posteriormente se repitió a los 14 días persistiendo alteraciones de la conducción motora de tipo desmielinizante con severa afectación facial bilateral, próximo-distal en extremidades superiores y de predominio proximal en las inferiores. Inicialmente se instauró tratamiento con corticoides sin clara respuesta clínica y ante la evolución progresiva del cuadro se instauró tratamiento con inmunoglobulinas i.v. durante 5 días (28 g/día) no progresando más la sintomatología e iniciándose remisión clínica fundamentalmente a nivel de extremidades y muy discretamente de la parálisis facial que persistía en el momento del alta. Pasados seis meses, el paciente ha presentado completa mejoría tanto de la parálisis facial como de la debilidad en extremidades no requiriendo continuar con el tratamiento rehabilitador.
+Remitido por: Dr.Gerard Piñol Ripoll. Servicio de Neurología. Hospital Clínico. C/ San Juan Bosco, 15. 50009 Zaragoza. Fax: 976 558 563. e-mail: gerard_437302@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="16" text="Enrique" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="29" end="41" text="Pastor Otero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="48" end="55" text="1520145" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="63" end="77" text="23 32978454 11" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="90" end="129" text="Avenida nuestra señora del Pilar 19, 3E" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="153" end="161" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="167" end="172" text="50008" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="216" end="226" text="24/04/1966" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="234" end="240" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="248" end="255" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="262" end="263" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="283" end="293" text="20/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="325" end="344" text="Gerard Piñol Ripoll" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="352" end="363" text="50 50 45123" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="382" end="387" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="391" end="398" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="1090" end="1096" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3605" end="3624" text="Gerard Piñol Ripoll" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3650" end="3666" text="Hospital Clínico" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3668" end="3689" text="C/ San Juan Bosco, 15" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3691" end="3696" text="50009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3697" end="3705" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="3712" end="3723" text="976 558 563" TYPE="NUMERO_FAX" comment=""/>
+    <CONTACT id="T1" start="3733" end="3758" text="gerard_437302@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

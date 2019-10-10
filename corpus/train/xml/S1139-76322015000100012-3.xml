@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Josué.
+Apellidos: Torremocha Gil.
+NHC: 9815678.
+Domicilio: Calle del Monasterio de Las Huelgas, 19.
+Localidad/ Provincia: Madrid.
+CP: 28049 .
+Datos asistenciales.
+Fecha de nacimiento: 27/09/2017.
+País: España.
+Edad: 9 meses Sexo: H.
+Fecha de Ingreso: 30/06/2018.
+Servicio: Urgencias.
+Médico: Irene García Osés  NºCol: 28 28 70354.
+Informe clínico del paciente: Varón de nueve meses de edad que consulta por eritema perianal intenso. Se realiza un primer frotis rectal con resultado del test de detección rápida de antígeno estreptocócico negativo a las 24 horas, por lo que se inicia tratamiento con clotrimazol. Al no evolucionar bien, se decide repetir el frotis rectal y faringoamigdalar, encontrándose un resultado positivo para la detección rápida de antígeno estreptocócico en la muestra rectal y negativo en la faringoamigdalar. El cultivo de de la muestra rectal fue negativo para hongos y demostró crecimiento de EBHGA. Se inició tratamiento con penicilina oral durante diez días, con resolución del cuadro.
+Remitido por: Dra. Irene García Osés. Email: irene_garcia_oses@yahoo.es Hospital Infanta Sofía Paseo de Europa, 34, 28703 San Sebastián de los Reyes, Madrid
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="33" text="Josué" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="46" end="60" text="Torremocha Gil" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="67" end="74" text="9815678" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="87" end="126" text="Calle del Monasterio de Las Huelgas, 19" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="150" end="156" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="162" end="167" text="28049" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="212" end="222" text="27/09/2017" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="230" end="236" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="244" end="251" text="9 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="258" end="259" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="279" end="289" text="30/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="320" end="337" text="Irene García Osés" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="346" end="357" text="28 28 70354" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="389" end="394" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="398" end="409" text="nueve meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1064" end="1081" text="Irene García Osés" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T6" start="1090" end="1116" text="irene_garcia_oses@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T5" start="1117" end="1139" text="Hospital Infanta Sofía" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1140" end="1159" text="Paseo de Europa, 34" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1161" end="1166" text="28703" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1167" end="1193" text="San Sebastián de los Reyes" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="1195" end="1201" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

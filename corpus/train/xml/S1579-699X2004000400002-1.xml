@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Teresa .
+Apellidos: Puertas Rondon.
+NHC: 3578694.
+NASS: 98 35768024 01.
+Domicilio: Calle de Verín, 19, 3C.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 15/08/1979.
+País: España.
+Edad: 36 años Sexo: M.
+Fecha de Ingreso: 21/04/2016.
+Médico: Gina Esposito Zarzuela NºCol: 28 28 95103.
+Informe clínico del paciente: La Sra. Teresa Puertas Rondon, es una mujer de 36 años que estuvo empleada desde los 25 a los 33 años como soldadora, utilizando estireno, en una fábrica de depósitos plásticos. Aproximadamente un año después de empezar a trabajar, se quedó embarazada y estuvo de baja hasta los 27 años, como marca la ley. Como la paciente se expuso de nuevo al estireno por razones profesionales, comenzó a disfrutar de los efectos subjetivos de los solventes volátiles, incluídos el estireno y la acetona. Cuando la paciente tenía 32 años, el médico de la empresa recomendó retirarla de su puesto de trabajo, tras los resultados de los análisis de orina, que indicaban niveles elevados de los metabolitos del estireno. Después de un año, la paciente decidió despedirse de la fábrica. Sin embargo, sus conductas adictivas no sólo habían persistido sino que se habían extendido a los detergentes alcohólicos domésticos, sprays para el cabello y combustibles de motor. Los síntomas de ansiedad agudos aparecieron súbitamente por primera vez en el trabajo cuando la paciente tenía 28 años. Su primer ataque tipo pánico ("panic-like") incluyó vértigo, temblores, debilidad de piernas y parestesias. Los episodios agudos de ansiedad se repitieron y tuvieron como consecuencia frecuentes ausencias del trabajo durante varios días para recuperarse de los síntomas residuales, como el dolor de cabeza y el vértigo. Después de dejar el trabajo estuvo deprimida durante unos meses, por lo que fue tratada con fármacos antidepresivos. A pesar de que se recuperó de su trastorno afectivo, los síntomas residuales de ansiedad se complicaron con agorafobia. Finalmente, la paciente sufrió úlcera duodenal a los 35 años de edad.
+Las relaciones cronológicas principales entre exposición profesional, conducta de abuso de sustancias, síntomas de ansiedad y acontecimientos vitales se muestran en la Figura 1.
+Cuando acudió a consulta, la paciente estaba desempleada y separada de su marido, vivía con su hijo en la casa de su madre, presentaba ansiedad fluctuante y síntomas persistentes de depresión ligera y, aunque el abuso de inhalantes era esporádico, la paciente refirió su abstinencia de sustancias volátiles en los últimos días. Los trastornos mentales más prominentes durante el examen incluyeron vértigo, tensión psíquica y somática, parestesias, debilidad en las piernas y ligera agorafobia. La paciente no estaba satisfecha con los tratamientos antidepresivos que le habían prescrito (maprotilina i.v., paroxetina v.o.) y dependía de fármacos ansiolíticos (principalmente alprazolam).
+Evaluación psiquiátrica y psicológica
+La Tabla I se refiere a las puntuaciones e índices del SCL-90-R. En concreto, la paciente puntuó positivos todos los síntomas listados en la dimensión de ansiedad en los últimos 7 días, y todos menos dos (palpitaciones y temblor) obtuvieron máximas puntuaciones; por el contrario, la paciente obtuvo una baja puntuación en molestias pectorales (que es un ítem de la dimensión de somatización).
+También administramos el WAIS y el test de Rorschach, dado que se habían encontrado anomalías en el rendimiento en estos instrumentos entre obreros expuestos a concentraciones medias-bajas de estireno (Jégaden et al. 1993, Lindstrom & Martelin 1980). Nuestra paciente mostró un perfil desigual de habilidades intelectuales en la escala de Wechsler, con puntuaciones obviamente más bajas en dos subtests: aritmética y series de números (principalmente en las series inversas); aparte del posible daño orgánico, la pérdida de la capacidad de concentración puede deberse a la ansiedad. El Rorschach reveló una personalidad proclive al dolor emocional, somatización, inseguridad y humor depresivo; la estructura del ego, aunque frágil, estaba bien conservada; los posibles signos orgánicos estaban por debajo del umbral. En general, la valoración psicológica era consistente con neuroticismo, pero no demostró daño cerebral.
+Neuroimagen
+Se obtuvieron las imágenes de resonancia magnética (RM) axial y coronal después de una inyección de contraste medio (gadolinium-DTPA). Exploraciones anteriores mediante RM en sujetos que abusaban de inhalantes mostraron: un grado variable de atrofia cerebral, pobre diferenciación entre sustancia gris y sustancia blanca, aumento de la intensidad en la señal periventricular e hipointensidad moderada del tálamo y de los ganglios basales en las imágenes ponderadas T2 (Yamanouchi et al. 1995). En nuestra paciente no se observaron señales de alteraciones de la intensidad intraparenquimatosa ni áreas intracraneales de hiperseñal, por lo que se concluyó que no había alteración cerebral.
+Remitido por: Dra. Gina Esposito Zarzuela E-mail: gpozzi@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T31" start="28" end="34" text="Teresa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T30" start="48" end="62" text="Puertas Rondon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T29" start="69" end="76" text="3578694" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T28" start="84" end="98" text="98 35768024 01" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T27" start="111" end="133" text="Calle de Verín, 19, 3C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T26" start="157" end="163" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T25" start="169" end="174" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T23" start="218" end="228" text="15/08/1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T24" start="236" end="242" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T21" start="250" end="257" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T19" start="264" end="265" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T22" start="285" end="295" text="21/04/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T17" start="305" end="327" text="Gina Esposito Zarzuela" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T15" start="335" end="346" text="28 28 95103" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <NAME id="T14" start="386" end="407" text="Teresa Puertas Rondon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T18" start="416" end="421" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T20" start="425" end="432" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="463" end="479" text="25 a los 33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <PROFESSION id="T12" start="485" end="494" text="soldadora" TYPE="PROFESION" comment=""/>
+    <AGE id="T11" start="657" end="664" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="895" end="902" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="1441" end="1448" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="2060" end="2067" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="2329" end="2335" text="marido" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="2350" end="2354" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T5" start="2372" end="2377" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T4" start="3592" end="3596" text="1993" TYPE="FECHAS" comment=""/>
+    <DATE id="T3" start="3619" end="3623" text="1980" TYPE="FECHAS" comment=""/>
+    <DATE id="T2" start="4795" end="4799" text="1995" TYPE="FECHAS" comment=""/>
+    <NAME id="T16" start="5015" end="5037" text="Gina Esposito Zarzuela" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="5046" end="5062" text="gpozzi@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

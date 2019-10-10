@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sergio.
+Apellidos: Pedroza Rivera.
+NHC: 4985755.
+NASS: 54 78356340 76.
+Domicilio: Calle de Antonio Reig, 7, 5 B.
+Localidad/ Provincia: Valladolid.
+CP: 47001.
+Datos asistenciales.
+Fecha de nacimiento: 21/05/1947.
+País de nacimiento: España.
+Edad: 67 años Sexo: H.
+Fecha de Ingreso: 19/07/2014.
+Servicio: Oftalmología.
+Médico: Victor Asensio Sánchez NºCol: 47 47 63250.
+Informe clínico del paciente: Varón de 67 años sin antecedentes personales de interés. Refiere que mientras caminaba notó de forma súbita visión doble y ptosis palpebral ligera en el OD que fue total en las horas siguientes. No tenía antecedentes oftalmológicos. No refería pérdida de peso, fiebre, claudicación mandibular o disminución de la visión. La agudeza visual en ambos ojos era de 1. La motilidad extraocular en el OI fue normal. En el OD había una ptosis total con limitación de la mirada en todas las posiciones excepto en abducción. La motilidad pupilar era normal en ambos ojos. La presión intraocular fue de 16 mmHg en OD y de 18 mmHg en el OI. Los estudios biomicroscópicos anterior y posterior fueron normales. Las pruebas de laboratorio no eran significativas con VSG de 21 mm/h, proteína C de 0,3 mg/dl y unas plaquetas de 125.000/ml3. El diagnóstico definitivo se realizó con biopsia de la arteria temporal donde se encontró oclusión de la arteria temporal con células gigantes alrededor de la elástica interna, que aparece rota y reduplicada.
+Responsable clínico: Victor Asensio Sánchez Hospital General Servicio Castellano-Leonés de Salud Servicio de Oftalmología Medina del Campo (Valladolid). España E-mail: victor_asensio@orangemail.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="34" text="Sergio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="61" text="Pedroza Rivera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="68" end="75" text="4985755" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="83" end="97" text="54 78356340 76" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="110" end="139" text="Calle de Antonio Reig, 7, 5 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="163" end="173" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="179" end="184" text="47001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="228" end="238" text="21/05/1947" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="260" end="266" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="274" end="281" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="288" end="289" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="309" end="319" text="19/07/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="353" end="375" text="Victor Asensio Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="383" end="394" text="47 47 63250" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="426" end="431" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="435" end="442" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1480" end="1502" text="Victor Asensio Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1503" end="1519" text="Hospital General" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1520" end="1555" text="Servicio Castellano-Leonés de Salud" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T4" start="1581" end="1597" text="Medina del Campo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1599" end="1609" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="1612" end="1618" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="1627" end="1655" text="victor_asensio@orangemail.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

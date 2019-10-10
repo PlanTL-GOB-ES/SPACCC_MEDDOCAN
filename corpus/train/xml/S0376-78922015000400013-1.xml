@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Anna.
+Apellidos: Khantuck.
+NHC: 5891934.
+Domicilio: Calle Palomares, 1, Bajo A.
+Localidad/ Provincia: Madrid.
+CP: 28034.
+Datos asistenciales.
+Fecha de nacimiento: 19/09/1961.
+País de nacimiento: España.
+Edad: 53 años Sexo: M.
+Fecha de Ingreso: 20/08/2015.
+Médico:  Jose Angel Santana Altamira NºCol: 28 28 97403.
+Informe clínico del paciente: Mujer de raza negroide de 53 años de edad, con obesidad mórbida: índice de masa corporal (IMC) 41kg/m2, y franca asimetría de volumen de los miembros inferiores, con un volumen exuberante de la pierna derecha en la que destaca la presencia de anfractuosidades en el tejido cutáneo-adiposo del dorso del pie derecho.
+Planteamos diagnóstico de linfedema crónico secundario de probable etilogía infecciosa por filaria, dado que la paciente había residido con anterioridad en Guinea Bissau donde la filariasis es endémica, y lo clasificamos como estadío IV de acuerdo con el sistema de estadiaje clínico de Campisi-Michelini y col. (6).
+La paciente fue ingresada para tratamiento mediante elevación del miembro y optimización de su higiene cutánea, y seguidamente fue sometida a cirugía, realizándose técnica de Charles con escisión del área afectada del dorso del pie en una extensión de 16 x 11 cm y cobertura con injerto de piel parcial en red tomado de la cara interna de la misma pierna. Es importante señalar que conservamos la piel de los espacio interdigitales para prevenir la aparición posterior de bridas cicatriciales
+En el postoperatorio, la paciente presentó drenaje linfático en la zona intervenida sin pérdida del injerto en red, produciéndose el drenaje a través de las fenestraciones. Permaneció ingresada durante un periodo de 15 días, con el miembro elevado y con curas diarias hasta que cesó la exudación linfática. Durante el ingreso completó un ciclo de 15 días de antibioticoterapia, tratamiento que prolongamos de forma profiláctica en régimen ambulatorio durante 2 semanas más hasta completar la cicatrización. A las 2 semamas comenzó a usar compresión mediante media elástica, durante 24 horas los primeros 3 meses y después ya solamente durante el día para sus actividades cotidianas, como prevención de la recidiva.
+La paciente presentó una reducción del volumen del pie así como una mejoría en su movilidad y en su higine cutánea. Mantuvimos seguimiento en consulta cada 3 meses en el primer año, y cada 6 meses en el segundo, hasta el alta definitiva a los 2 años de postoperatorio.
+Responsable clínico: Dr. Jose Angel Santana Altamira. Email:  jose.angelo.sa@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="28" end="32" text="Anna" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="45" end="53" text="Khantuck" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="60" end="67" text="5891934" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T16" start="80" end="106" text="Calle Palomares, 1, Bajo A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="130" end="136" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="142" end="147" text="28034" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="191" end="201" text="19/09/1961" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="223" end="229" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="237" end="244" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="251" end="252" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="272" end="282" text="20/08/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="293" end="320" text="Jose Angel Santana Altamira" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="328" end="339" text="28 28 97403" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="371" end="376" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T5" start="380" end="393" text="raza negroide" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T4" start="397" end="404" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T3" start="843" end="856" text="Guinea Bissau" TYPE="PAIS" comment=""/>
+    <NAME id="T2" start="2506" end="2533" text="Jose Angel Santana Altamira" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2543" end="2567" text="jose.angelo.sa@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

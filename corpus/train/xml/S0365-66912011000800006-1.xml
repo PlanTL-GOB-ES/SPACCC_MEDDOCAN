@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Danilo .
+Apellidos: Montero Alonso.
+NHC: 8475873.
+NASS: 89 25762463 43.
+Domicilio: Calle Alcobendas, 7, 2 C.
+Localidad/ Provincia: Madrid.
+CP: 28035.
+Datos asistenciales.
+Fecha de nacimiento: 19/04/1928.
+País de nacimiento: España.
+Edad: 83 años Sexo: H.
+Fecha de Ingreso: 03/07/2011 .
+Médico: Ricardo Cañones Zafra  NºCol: 28 28 63257.
+Informe clínico del paciente: Varón de 83 años con enfermedad de Alzheimer avanzada, diabético insulinodependiente de 35 años de evolución, que acudió a nuestro servicio de urgencias por presentar cuadro de dolor ocular en ojo derecho de 2 días de evolución.
+No se pudo objetivar la AV por falta de colaboración. La evaluación del segmento anterior determinó una lesión ulcerativa corneal de 2,5mm de diámetro con un poro endotelial perforante central de aproximadamente 1mm, sin proceso infeccioso o inflamatorio concomitante. El paciente no presentaba antecedentes traumáticos.
+Con el diagnóstico de perforación corneal no traumática estéril a filiar, se procedió al cierre urgente de la lesión.
+Bajo anestesia tópica y en quirófano para facilitar la colaboración, se preparó un parche de Tachosil® que se corto de tal manera que superara los bordes de la ulceración, para un completo recubrimiento. Tras hidratación con suero fisiológico durante 5 segundos, se aplicó inmediatamente con la parte activa (parte amarilla) sobre el defecto corneal, presionando y amoldando suavemente la esponja durante 3 minutos con una pinza, hasta asegurarnos de que quedaba firmemente unida a la lesión.
+Sin retirar el exceso de material se ocluyo el ojo. Al destapar, tras unas 36 horas de oclusión, se observo que no quedaban restos de la esponja en la zona de aplicación y sí un material fibrinoide que ocluía el poro endotelial perforante. No se encontraron restos de esponja desplazados ni en los fondos de saco conjuntivales. Se aplicó por seguridad una lente terapeútica y se comenzó con tratamiento tópico antibiótico, ciclopéjico y medroxiprogesterona. A las 72 horas de la aplicación, persistía un adelgazamiento corneal sobre la zona de perforación, con cierre total y buena profundidad de cámara anterior. Los posteriores controles a la semana y al mes confirmaron el cierre corneal total pudiendo retirar la lente terapéutica y el tratamiento médico descrito.
+Responsable clínico: Dr: Ricardo Cañones Zafra Correo electrónico: rafael.canones@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="34" text="Danilo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="48" end="62" text="Montero Alonso" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="69" end="76" text="8475873" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="84" end="98" text="89 25762463 43" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="111" end="135" text="Calle Alcobendas, 7, 2 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="159" end="165" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="171" end="176" text="28035" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="220" end="230" text="19/04/1928" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="252" end="258" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="266" end="273" text="83 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="280" end="281" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="301" end="311" text="03/07/2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="322" end="343" text="Ricardo Cañones Zafra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="352" end="363" text="28 28 63257" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="395" end="400" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="404" end="411" text="83 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="2350" end="2371" text="Ricardo Cañones Zafra" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2392" end="2416" text="rafael.canones@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

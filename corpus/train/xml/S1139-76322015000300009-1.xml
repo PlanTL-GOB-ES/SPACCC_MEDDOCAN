@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Gabriel.
+Apellidos: Fernandez Otegui.
+NHC: 7316503.
+Domicilio: Calle Carabias, 12, 3, 2.
+Localidad/ Provincia: Madrid.
+CP: 28005.
+Datos asistenciales.
+Fecha de nacimiento: 20/05/2011.
+País: España.
+Edad: 3 años Sexo: H.
+Fecha de Ingreso: 07/07/2014.
+Médico: Andrés Meana Meana NºCol: 28 28 68532.
+Informe clínico del paciente: Varón de tres años y medio afecto de daño neurológico grave secundario a accidente cerebrovascular agudo (ACV) isquémico perinatal. Acude a consulta con su madre, que nos relata un llanto inusual desde hace unas semanas y la sospecha de que el niño tiene dolor en las manos. Asimismo nos comenta que el niño recibe desde hace unas semanas tratamiento con esteroides orales, pues en el seguimiento de su daño neurológico, al consultar por los síntomas del aparato locomotor, se sospechó artritis crónica idiopática con radiografía normal de manos y muñecas.
+Es hijo único de padres no consanguíneos. El padre tiende un problema óseo en las muñecas desde la infancia; recuerda haber padecido dolores en las muñecas cuando era niño y nos refiere que no tiene los huesos de las muñecas, que conserva movilidad normal y que no le supone problemas en su profesión de conductor de coches.
+La exploración física del niño está condicionada por su daño neurológico (emite gritos, sin lenguaje de otro tipo y escucha y atiende cuando se le habla, sonriendo con las caricias); no es capaz de deambulación sin ayuda; una hemiplejia izquierda derivada de su ACV perinatal y los datos propios de espasticidad. La somatometría recoge un perímetro craneal de 46 cm (< P3), una longitud de 104 cm (P25-50) y un peso de 16,5 Kg (P50). Los valores de presión arterial son normales (111/66 mmHg). No se aprecian rasgos dismórficos. Llama la atención el intento repetido del niño de morderse su muñeca derecha. No hay signos inflamatorios y se expresa con gemidos ante la movilización repetida de esa muñeca derecha. No apreciamos afectación de otras articulaciones.
+El padre tiene una talla de 180 cm, pero su envergadura está reducida a 164 cm. Su mano mide 18,7 cm de longitud (resulta acortada 4 cm para su estatura) con un tercer dedo de 8,3 cm (normal). La radiografía paterna muestra ausencia bilateral del carpo.
+La radiografía del niño muestra lesiones carpales compatibles con osteólisis carpiana y lesiones en el escafoides tarsiano unilaterales.
+Solicitamos consulta al servicio de genética donde se estudia y se confirma el diagnóstico de osteólisis multicéntrica carpotarsal de transmisión autosómica dominante sin nefropatía.
+Remitido por: Dr. Andrés Meana Meana. Email: andres.meana@sespa.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T28" start="29" end="36" text="Gabriel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T27" start="49" end="65" text="Fernandez Otegui" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T26" start="72" end="79" text="7316503" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T25" start="92" end="116" text="Calle Carabias, 12, 3, 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T24" start="140" end="146" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T23" start="152" end="157" text="28005" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T21" start="201" end="211" text="20/05/2011" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T22" start="219" end="225" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T19" start="233" end="239" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T17" start="246" end="247" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T20" start="267" end="277" text="07/07/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T15" start="287" end="305" text="Andrés Meana Meana" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="313" end="324" text="28 28 68532" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T16" start="356" end="361" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T18" start="365" end="382" text="tres años y medio" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="512" end="517" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="600" end="604" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="659" end="663" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T9" start="916" end="926" text="hijo único" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="930" end="936" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="958" end="963" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="1264" end="1268" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T5" start="1809" end="1813" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T4" start="2004" end="2009" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T3" start="2209" end="2216" text="paterna" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="2274" end="2278" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T14" start="2593" end="2611" text="Andrés Meana Meana" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2620" end="2641" text="andres.meana@sespa.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

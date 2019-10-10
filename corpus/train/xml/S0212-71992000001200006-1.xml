@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Kevin Alexander.
+Apellidos: Pulido Treminio.
+NHC: 4758965.
+NASS: 24 56086545 10.
+Domicilio: Calle de Aristóteles, 15, Bajo, A.
+Localidad/ Provincia: Madrid.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 20/10/1956.
+País de nacimiento: Perú.
+Edad: 49 años Sexo: H.
+Fecha de Ingreso: 17/11/2005.
+Médico:  Francisco Javier Garcés Molina NºCol: 28 28 57891.
+Historia Actual: Varón de 49 años, peruano con 10 años de residencia en España y último viaje a su país en 1995, sin ningún antecedente de interés salvo agresión sexual en 1996, con severo desgarro del canal anal que produjo rectorragia que precisó de transfusión de dos concentrados de hematíes; no hábitos tóxicos ni prácticas de riesgo para infección por VIH. Consulta por cuadro de 4-5 deposiciones al día, líquidas, sin productos patológicos, de unos 6 meses de evolución, añadiéndose fiebre de hasta 39ºC en los dos últimos meses. Pérdida de 2-3 Kg de peso en este tiempo; discreto dolor abdominal; cefalea holocraneal. Resto de anamnesis por aparatos sin datos reseñables.
+Exploración física: En la exploración física, fiebre de 38,5°C bien tolerada, con auscultación cardio-pulmonar normal, abdomen discreta y difusamente doloroso a la palpación, sin signos de irritación peritoneal, tacto rectal con esfínter conservado y sin alteraciones, y exploración neurológica rigurosamente normal.
+Pruebas complementarias: Datos de laboratorio: Velocidad de Sedimentación Globular (VSG) 35; hemograma, bioquímica sanguínea, estudio básico de coagulación, hormonas tiroideas y rutinario de orina normales. Anti Hbc y anti HBe positivos; VHC, RPR, Rosa de Bengala, Ac. Leishmania, Ag. criptococo y Mantoux, negativos. Antigenemia para CMV 70 células; Ac. Toxoplasma positivo.VIH positivo (ELISA y Western Blot). CD4 96; Carga Viral 153.690 copias. Hemocultivos (X3) negativos (2 tandas); parásitos en fresco negativo para cryptosporidium y microsporidia; enteropatógenos y toxina de Clostridium difficile negativos; jugo duodenal y biopsia de 2ª porción duodenal sin patógenos; se aisla CMV en cultivo de biopsia de colon, siendo el resto del estudio a dicho nivel negativo; se aísla CMV en cultivo celular de orina.
+Fondo de ojo sin datos de retinitis por CMV. Pruebas de imagen: Rx tórax, ecografía abdominal, esofago-gastroscopia, colonoscopia y tránsito gastrointestinal sin alteraciones reseñables. En la TAC craneal, se objetiva una masa intra-axial, que presenta realce de predominio anular tras el contraste IV, centrada en la región del brazo anterior de la cápsula interna y ganglios basales izquierdos, con importante edema vasogénico asociado (diagnóstico diferencial toxoplasmosis/linfoma).
+Evolución: Se inició tratamiento con Ganciclovir IV para tratamiento de la infección por CMV, así como Sulfadiacina y Pirimetamina VO, más corticoide IV para la masa cerebral, con desaparición de la fiebre y normalización de la diarrea a las 48 horas de iniciado el tratamiento. A los 14 días de iniciado el tratamiento el paciente seguía asintomático; se repitió la TAC craneal, objetivándose disminución considerable del tamaño de la lesión, lo que apoya el diagnóstico de toxoplasmosis cerebral.
+Responsable clínico: Dr. Francisco Javier Garcés Molina. C/ Canal de Panamá, 2. 28027 Madrid
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="43" text="Kevin Alexander" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="56" end="71" text="Pulido Treminio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="78" end="85" text="4758965" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="93" end="107" text="24 56086545 10" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="120" end="153" text="Calle de Aristóteles, 15, Bajo, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="177" end="183" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="189" end="194" text="28036" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="238" end="248" text="20/10/1956" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="270" end="274" text="Perú" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="282" end="289" text="49 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="296" end="297" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="317" end="327" text="17/11/2005" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="338" end="368" text="Francisco Javier Garcés Molina" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="376" end="387" text="28 28 57891" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="406" end="411" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="415" end="422" text="49 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T8" start="424" end="431" text="peruano" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T7" start="461" end="467" text="España" TYPE="PAIS" comment=""/>
+    <DATE id="T6" start="496" end="500" text="1995" TYPE="FECHAS" comment=""/>
+    <DATE id="T5" start="561" end="565" text="1996" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="3214" end="3244" text="Francisco Javier Garcés Molina" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="3246" end="3267" text="C/ Canal de Panamá, 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="3269" end="3274" text="28027" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3275" end="3281" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

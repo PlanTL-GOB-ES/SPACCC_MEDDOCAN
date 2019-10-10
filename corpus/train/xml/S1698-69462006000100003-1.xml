@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Vicente.
+Apellidos: Manrique Bonilla.
+NHC: 7831956.
+NASS:37 39843608 49.
+Domicilio: Calla la Pedrera, 24, 7D.
+Localidad/ Provincia: Madrid.
+CP: 28035.
+Datos asistenciales.
+Fecha de nacimiento: 27/11/1964.
+País: España.
+Edad: 52 años Sexo: H.
+Fecha de Ingreso: 21/05/2016.
+Médico: Verónica Blanco Gil  NºCol: 28 28.
+Informe clínico del paciente: Hombre de 52 años, de raza blanca, que consulta en lel servicio de odontologia por dolor producido por una lesión exofítica en mucosa yugal derecha.
+Como antecedente médico personal surge la presencia de ocasionales sangrados intestinales.
+Entre los antecedentes familiares se destaca: padre fallecido por tumor intestinal, hermano operado de pólipos intestinales y hermana histerectomizada recientemente con ooforectomía bilateral; la familia desconoce el motivo de esta intervención.
+El paciente tiene tres hijos varones sanos.
+Al examen clínico se observa circunferencia craneana grande, hipertelorismo, puente nasal ancho, frente prominente y fascies adenoidea. Alrededor de los orificios faciales se observan múltiples lesiones papulares asintomáticas del color de la piel. El examen clínico cuidadoso del resto de la piel revela la presencia de queratosis palmoplantales, que simulan verrugas virales planas y lesiones papulares no queratósicas en axilas, ingles y tórax.
+El examen bucal muestra: maxilar inferior desdentado parcial, maxilar superior desdentado total (portador de prótesis completa superior), paladar profundo y lengua fisurada. La mucosa está tapizada por lesiones papulares asintomáticas, redondeadas de bordes definidos, sin cambios de color, superficie lisa, sesiles o pediculadas y de tamaño variable (no más de 1 cm.). Se localizan en mejillas, rebordes, encía adherida, labios y lengua.
+La lesión motivo de consulta está en la mejilla en la línea oclusal; es la de mayor tamaño y sufre traumatismo por la prótesis. Su biopsia exéresis muestra una lesión inespecífica de tipo papilomatosa.
+Con la presunción de una enfermedad de Cowden el paciente es derivado a un equipo multidisciplinario integrado por genetista, dermatólogo, gastroenterólogo e internista.
+Se realiza tomografía computarizada de cráneo (TC) que no muestra alteraciones y endoscopía intestinal que evidencia pólipos en manto. El informe anatomopatológico indica pólipos hiperplásicos, uno de tipo aserrado que asocia cambios displásicos.
+Los exámenes paraclínicos y las características fenotípicas del paciente, determinaron que el equipo de genetistas confirmara el diagnóstico de enfermedad de Cowden. Hasta la fecha no se han realizado estudios del material genético.
+Posteriormente se citan los hijos para ser examinados. El hijo mediano (21 años) tiene alguna de las características clínicas de la enfermedad (ver tabla 1). El hijo de 27 años expresa débilmente el fenotipo del síndrome, mientras que el hijo menor de 13 años hasta el momento no manifiesta alteraciones.
+Remitido por: Dra. Verónica Blanco. E-mail: vblanco@odon.edu.uy
+]]></TEXT>
+  <TAGS>
+    <NAME id="T28" start="28" end="35" text="Vicente" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T27" start="48" end="64" text="Manrique Bonilla" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T26" start="71" end="78" text="7831956" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="85" end="99" text="37 39843608 49" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T24" start="112" end="136" text="Calla la Pedrera, 24, 7D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T23" start="160" end="166" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T22" start="172" end="177" text="28035" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T21" start="221" end="231" text="27/11/1964" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T20" start="239" end="245" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T19" start="253" end="260" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T18" start="267" end="268" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="288" end="298" text="21/05/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T16" start="308" end="327" text="Verónica Blanco Gil" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T15" start="336" end="341" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T14" start="373" end="379" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="383" end="390" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T12" start="395" end="406" text="raza blanca" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="659" end="664" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="697" end="704" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="739" end="746" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="809" end="816" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="877" end="895" text="tres hijos varones" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="2670" end="2675" text="hijos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="2700" end="2722" text="hijo mediano (21 años)" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="2803" end="2818" text="hijo de 27 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T5" start="2880" end="2901" text="hijo menor de 13 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="2966" end="2981" text="Verónica Blanco" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T3" start="2991" end="3010" text="vblanco@odon.edu.uy" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

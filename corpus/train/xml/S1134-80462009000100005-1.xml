@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Esteban.
+Apellidos: Blanco Fernandez.
+NHC: 8934793.
+NASS: 48 28596209 60.
+Domicilio: C/ Cruz del Rayo, 16, 1 C.
+Localidad/ Provincia: Madrid.
+CP: 28019.
+Datos asistenciales.
+Fecha de nacimiento: 24/11/1979.
+País de nacimiento: España.
+Edad: 38 años Sexo: H.
+Fecha de Ingreso: 09/06/2018.
+Médico: Sonia Vázquez-Cortés  NºCol: 28 28 80480.
+Informe clínico del paciente: Paciente de 38 años, con amputación de antepié izquierdo por arteriopatía por enfermedad de Buerger. Al presentar dolores en la pierna afectada de 8/10 en la escala visual analógica (EVA), se prescribe en enero de 2008 Durogesic® 100 μg/h más fentanilo transmucosa 400 μg de rescate. En una de las prescripciones médicas de dicho fármaco le despacharon en una farmacia, en septiembre de 2008, otra marca comercial, tras lo cual comenzó a las 4 h con dolor 7/10 en la EVA, que hacía meses que no presentaba, náuseas y gastralgia, que se tratan favorablemente con metoclopramida, mejorando el dolor gástrico, y pantoprazol 40 mg cada 12 h, y aumentando la dosis de fentanilo oral transmucosa de 400 a 600 μg. A los 2 días se le prescribe a la paciente Durogesic® 100 μg/h, resolviéndose favorablemente la patología álgica de la enferma.
+Responsable clínico: Sonia Vázquez-Cortés. Servicio de Alergia. Hospital Clínico Universitario. Profesor Martín Lagos, s/n. 28040 Madrid. e-mail: sonia.vazquez-cortes@gmail.com | cmcocera@meditex.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="35" text="Esteban" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="48" end="64" text="Blanco Fernandez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="71" end="78" text="8934793" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="86" end="100" text="48 28596209 60" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="113" end="138" text="C/ Cruz del Rayo, 16, 1 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="162" end="168" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="174" end="179" text="28019" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="223" end="233" text="24/11/1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="255" end="261" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="269" end="276" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="283" end="284" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="304" end="314" text="09/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="324" end="344" text="Sonia Vázquez-Cortés" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="353" end="364" text="28 28 80480" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T13" start="408" end="415" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="601" end="614" text="enero de 2008" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="769" end="787" text="septiembre de 2008" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="1252" end="1272" text="Sonia Vázquez-Cortés" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1295" end="1325" text="Hospital Clínico Universitario" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1327" end="1353" text="Profesor Martín Lagos, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1355" end="1360" text="28040" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1361" end="1367" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="1377" end="1407" text="sonia.vazquez-cortes@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T1" start="1410" end="1429" text="cmcocera@meditex.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

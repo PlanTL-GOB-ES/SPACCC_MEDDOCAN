@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Alvaro.
+Apellidos: Castilla Bueno.
+NHC: 20856.
+NASS: 25 07825657 89.
+Domicilio: Calle la Bañeza 62, 4A.
+Localidad/ Provincia:Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 28/04/1969.
+País: España.
+Edad: 49 años Sexo: M.
+Fecha de Ingreso: 16/05/2018.
+Médico: Laura Crespo Pérez NºCol:28 28 95185.
+Historia del paciente: Varón de 49 años cirrótico enólico asociado a infección por VHC estadio B7 de Child que ingresa por alteración del nivel de conciencia. Las cifras de amonio durante el ingreso se mantuvieron persistentemente elevadas. Se realizó una ecografía abdominal que demostró a nivel peripancreático un vaso colateral muy dilatado y tortuoso, un parénquima hepático heterogéneo sin lesiones ocupantes de espacio y una esplenomegalia homogénea de 15 cm. Posteriormente se realizó un angioTC que comprobó la existencia de abundante circulación colateral asociada a una derivación porto-sistémica espleno-renal.
+Mediante técnicas de radiología intervencionista se procedió a la embolización parcial del shunt con microcoils. La ecografía abdominal postembolización comprobó la desaparición del shunt espleno-renal. Tras la embolización el paciente presentó una rápida mejoría clínica (desaparición de la sonmolencia) y analítica (normalización de las cifras de amonio). No ha desarrollado varices gastro-esofágicas ni ascitis. No ha vuelto a precisar ingreso hospitalario durante los 10 meses de seguimiento.
+Remitido por: Laura Crespo Pérez. Departamento de Gastroenterología. Hospital Universitario Ramón y Cajal. Ctra. de Colmenar, km 9,100. 28034 Madrid. Fax: 91 336 87 85. e-mail: lcreper@yahoo.es / jgraus@ya.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="15" text="Alvaro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="28" end="42" text="Castilla Bueno" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="49" end="54" text="20856" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="62" end="76" text="25 07825657 89" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="89" end="111" text="Calle la Bañeza 62, 4A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="134" end="140" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="146" end="151" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="195" end="205" text="28/04/1969" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="213" end="219" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="227" end="234" text="49 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="241" end="242" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="262" end="272" text="16/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="282" end="300" text="Laura Crespo Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="307" end="318" text="28 28 95185" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="343" end="348" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="352" end="359" text="49 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="1453" end="1471" text="Laura Crespo Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1508" end="1544" text="Hospital Universitario Ramón y Cajal" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="1546" end="1573" text="Ctra. de Colmenar, km 9,100" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1575" end="1580" text="28034" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1581" end="1587" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="1594" end="1606" text="91 336 87 85" TYPE="NUMERO_FAX" comment=""/>
+    <CONTACT id="T2" start="1616" end="1632" text="lcreper@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T1" start="1635" end="1648" text="jgraus@ya.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

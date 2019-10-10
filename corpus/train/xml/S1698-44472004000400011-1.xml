@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Fernanda.
+Apellidos: De León Castro.
+NHC: 9474659.
+Domicilio: Calle Miguel Larreynaga, 44, 7D.
+Localidad/ Provincia: Madrid.
+CP: 28028.
+Datos asistenciales.
+Fecha de nacimiento: 03/15/1996.
+País: España.
+Edad: 12 años Sexo: F.
+Fecha de Ingreso: 05/25/2008.
+Servicio: Cirugía Oral y Maxilofacial .
+Episodio: 2756589.
+Médico: Lucrecia Sánchez-Rubio Ferrández NºCol: 28 28 68502.
+Informe clínico del paciente: Mujer de 12 de edad que fue remitida al Departamento de Cirugía Oral y Maxilofacial debido a un retraso en la erupción de los incisivos inferiores y del canino permanente del lado derecho definitivos que se había detectado durante el tratamiento ortodóncico. También refería dolor ocasional e hinchazón de la encía. Como antecedentes personales se incluía una epilepsia focal y no tenía alergias. En la exploración se detectó una ausencia de los incisivos y canino inferiores derechos además de un ligero abultamiento de la cortical vestibular de la mandíbula en dicho lugar. Las pruebas radiográficas incluyeron una ortopantomografía y una radiografía periapical, donde se observó una lesión quística intraósea, que medía 20 x 30 milímetros y mostraba unos márgenes bien definidos con algunas imágenes radiolúcidas y radiopacas en su interior. Además, dentro del quiste se podía identificar algunas estructuras radiopacas que se asemejaban a un diente junto a un desplazamiento lateral de las raíces de los dientes vecinos sin existir reabsorción apical. Con el diagnóstico de sospecha de odontoma compuesto mandibular, a la paciente se le realizó una cirugía con anestesia local, aunque el quiste no pudo ser completamente extirpado debido a la falta de cooperación por parte de la paciente. Por lo tanto, se llevó a cabo una segunda cirugía bajo anestesia general en la unidad de Cirugía Mayor Ambulatoria, realizando una extirpación completa del tumor seguida de un curetaje del lecho quirúrgico.
+El análisis histológico reveló un odontoma compuesto con áreas de células ameloblásticas proliferativas. Microscópicamente, se podía observar una proliferación en nidos y en bandas del epitelio odontogénico en empalizada junto a células estrelladas situadas en el centro de los nidos,. El estroma que rodeaba los nidos epiteliales mostraba áreas del tejido fibromixoide y zonas de colágeno con abundantes depósitos de cemento rodeados por ameloblastos y restos dispersos de esmalte dental.
+Por lo tanto, se realizaron controles periódicos mediante exploración clínica y controles con TC sin evidenciar recidiva tras 24 meses de evolución.
+Remitido por: Dra. Lucrecia Sánchez-Rubio FerrándezCorreo electrónico: lsanchez@riojasalud.es 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="29" end="37" text="Fernanda" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="50" end="64" text="De León Castro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="71" end="78" text="9474659" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T15" start="91" end="122" text="Calle Miguel Larreynaga, 44, 7D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="146" end="152" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="158" end="163" text="28028" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T4" start="207" end="217" text="03/15/1996" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="225" end="231" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T1" start="239" end="246" text="12 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="253" end="254" text="F" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T3" start="274" end="284" text="05/25/2008" TYPE="FECHAS" comment=""/>
+    <ID id="T7" start="336" end="343" text="2756589" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T9" start="353" end="385" text="Lucrecia Sánchez-Rubio Ferrández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="393" end="404" text="28 28 68502" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="436" end="441" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="445" end="447" text="12" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2595" end="2627" text="Lucrecia Sánchez-Rubio Ferrández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T5" start="2647" end="2669" text="lsanchez@riojasalud.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

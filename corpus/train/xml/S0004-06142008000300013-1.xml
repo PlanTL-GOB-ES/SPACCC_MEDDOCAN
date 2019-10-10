@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Priscila.
+Apellidos:Rubio Fernandez.
+NHC: 2486789.
+NASS: 45 68650970 23.
+Domicilio: Av. Duque de Pastrana 86, 3, B.
+Localidad/ Provincia: Laredo.
+CP: 39658.
+Datos asistenciales.
+Fecha de nacimiento: 17/05/1970.
+País: España.
+Edad: 47 años Sexo: M.
+Fecha de Ingreso: 24/10/2017.
+Servicio: Urologia.
+Médico: Alberto Hernández Castrillo  NºCol: 39 39 56945.
+Informe clínico del paciente: Mujer de 47 años de edad que acudió a consulta de urología tras cólico nefrítico derecho acompañado de hematuria. En tratamiento con diclofenaco por artrosis y lumbalgia.
+La radiografía y ecografía mostraban una litiasis en el grupo calicial medio del riñón derecho y un quiste renal gigante. Se realizó TAC que informa de la presencia de quiste renal simple (Bosniak I), de 17 centímetros que abomba distorsionándolo, el riñón derecho, y litiasis ipsilateral de 8 milímetros. Serología de hidatidosis, negativa. Hemograma dentro de la normalidad.
+La paciente tenía molestias lumbares y quería ser tratada del quiste. Se le informó de las distintas posibilidades. Quedó pendiente de drenaje percutáneo y esclerosis del quiste.
+Posteriormente la paciente presentó cuadro de cistitis, y días después acudió a urgencias por fiebre elevada y dolor lumbar derecho. Se le pautó tratamiento antibiótico de modo domiciliario.
+Dos meses después, cuando estaba programado el drenaje percutáneo, se descubre que el quiste se ha reducido de tamaño. Mide 6,4 centímetros. Además su pared se calcificó. Se confirmó mediante TAC con cortes tardíos que el quiste se comunicaba con el sistema pielocalicial. Presentaba microhematuria y leucocituria.
+Tres meses después la paciente presentó cólico derecho y cistitis. La litiasis se encontraba en pelvis renal. La paciente tenía infección urinaria por E.Coli, que se trató en dos ocasiones, primero con Amoxicilina-Clavulanico, y luego con Trimetropin-Sulfametoxazol. Finalmente la infección fue curada y se trató la litiasis mediante litotricia extracorpórea. Desde entonces la paciente esta asintomática.
+Un año después de la ruptura del quiste, se realizó TAC donde se observa que la lesión mide 2,9 centímetros de diámetro, presenta calcificaciones gruesas y nodulares, y no capta contraste. Bosniak IIF..
+Posteriormente han trascurrido 2 años mas. Ecografías de control, UIV, y TAC, confirman que la lesión no ha variado su aspecto. No se ha vuelto a demostrar comunicación con la vía urinaria. La paciente permanece asintomática.
+Remitido por:Dr. Alberto Hernández Castrillo Servicio de Urología Hospital Comarcal de Laredo Avda. de los Derechos Humanos s/n 39770 Laredo Cantabria. (España) a.h.castrillo@telefonica.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="29" end="37" text="Priscila" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="49" end="64" text="Rubio Fernandez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="71" end="78" text="2486789" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="86" end="100" text="45 68650970 23" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="113" end="143" text="Av. Duque de Pastrana 86, 3, B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="167" end="173" text="Laredo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="179" end="184" text="39658" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="228" end="238" text="17/05/1970" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="246" end="252" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="260" end="267" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="274" end="275" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T1" start="295" end="305" text="24/10/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="335" end="362" text="Alberto Hernández Castrillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="371" end="382" text="39 39 56945" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="414" end="419" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="423" end="430" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T10" start="2499" end="2526" text="Alberto Hernández Castrillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T9" start="2548" end="2575" text="Hospital Comarcal de Laredo" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T8" start="2576" end="2609" text="Avda. de los Derechos Humanos s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T7" start="2610" end="2615" text="39770" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="2616" end="2622" text="Laredo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2623" end="2632" text="Cantabria" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2635" end="2641" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="2643" end="2671" text="a.h.castrillo@telefonica.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Hector.
+Apellidos: Bracero Iglesias.
+NHC: 27649.
+NASS: 83 29464890.
+Domicilio: Calle Hermosillo, 23, 2, 1.
+Localidad/ Provincia: Sevilla.
+CP: 41329.
+Datos asistenciales.
+Fecha de nacimiento: 14/03/1966.
+País: España.
+Edad: 50 años Sexo:.
+Fecha de Ingreso: 20/05/2016.
+Médico:  NºCol: 41 41 23678.
+Informe clínico del paciente: Paciente de 50 años con antecedente de litiasis renal de repetición que consultó por hematuria recidivante y sensación de malestar. El estudio citológico seriado de orinas demostró la presencia de células atípicas sospechosas de malignidad. Los estudios de imagen permitieron observar una lesión heterogénea que ocupaba la práctica totalidad de la pelvis renal derecha. Se realizó nefrectomía total y ureterectomía parcial observándose un riñón de 10.5 x 5 cm de dimensiones máximas que mostraba a nivel de pelvis renal una lesión irregular y heterogénea de tonalidad pardusca en cuyo seno destacaban áreas hemorrágicas y otras ligeramente amarillentas y brillantes de consistencia sumamente blanda al corte. Dicha lesión, relativamente bien delimitada, no invadía el parénquima ni el seno renal quedando limitada al sistema pielocalicial aunque comprimiendo con márgenes expansivos la corteza en uno de los polos renales. El estudio histológico demostró que la lesión estaba constituida por nidos tumorales bien delimitados sin evidencia de invasión del parénquima renal, englobando una matriz mucinosa central la cual constituía más del 50% del volumen tumoral. En el seno de dicha matriz se encontraron flotando células neoplásicas sueltas y nidos de menor tamaño que los situados a nivel periférico. Las células tumorales mostraban morfología poligonal con núcleos centrales sin nucleolo aparente y escasa atipia así como citoplasmas eosinófilos y claros. En las áreas delimitantes con la matriz mucinosa se observó una tímida diferenciación glandular coincidiendo con la observación de algunos nucleolos y un ligero aumento de atipia nuclear. Las células tumorales mostraron intensa inmunopositividad para EMA, CK 7 y leve para CK20; ello,junto a la morfología, confirmó la naturaleza urotelial de la neoplasia.
+Con todos los datos expuestos se realizó el diagnóstico de carcinoma de células transicionales de bajo grado, con intensa diferenciación mucinosa, de pelvis renal (carcinoma coloide).
+Remitido por: Dr. Francisco Javier Torres Gómez Plaza de la Encarnación 32 P1 2B 41003. Sevilla (España) javiertorresgomez@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="29" end="35" text="Hector" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="48" end="64" text="Bracero Iglesias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="71" end="76" text="27649" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="84" end="95" text="83 29464890" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="108" end="134" text="Calle Hermosillo, 23, 2, 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="158" end="165" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="171" end="176" text="41329" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="220" end="230" text="14/03/1966" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="238" end="244" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="252" end="259" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="285" end="295" text="20/05/2016" TYPE="FECHAS" comment=""/>
+    <ID id="T8" start="313" end="324" text="41 41 23678" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T7" start="368" end="375" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2375" end="2404" text="Francisco Javier Torres Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2405" end="2437" text="Plaza de la Encarnación 32 P1 2B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2438" end="2443" text="41003" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2445" end="2452" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2454" end="2460" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2462" end="2488" text="javiertorresgomez@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

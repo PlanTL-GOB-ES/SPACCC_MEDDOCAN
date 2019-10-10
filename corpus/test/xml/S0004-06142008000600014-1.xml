@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre:  Fernando .
+Apellidos: Vargas Castro.
+CIPA: nhc-76844523.
+NASS: 71 75648232 33.
+Domicilio: c/ Martíne Villena, 4.
+Localidad/ Provincia: Albacete.
+CP: 02005.
+NHC: 76844523.
+Datos asistenciales.
+Fecha de nacimiento: 21/05/1976.
+País: España.
+Edad: 37  Sexo: H.
+Fecha de Ingreso: 18/11/2013.
+Médico:   Pedro Carrión López      NºCol: 06 02 76485.
+Motivo de ingreso: Dolor e inflamación del testículo izquierdo.
+Antecedentes: sin antecedentes personales ni urológicos de interés
+Historia Actual: Varón de 37 años que llegó a nuestra consulta remitido de urgencias por dolor e inflamación del testículo izquierdo. Refería un cuadro de inflamación testicular izquierda progresiva de dos meses de evolución. No refería fiebre, ni síntomas urológicos acompañantes, ni afectación del estado general.
+Exploración física: A la palpación presentaba el testículo izquierdo indurado y discretamente doloroso, con un epidídimo de características normales. El testículo derecho tenía un tamaño y consistencia normales.
+Resumen de pruebas complementarias:Se realizó una ecografía testicular en la que se apreció una lesión nodular de gran tamaño en el testículo izquierdo, con un patrón mixto de áreas quísticas y áreas con fino contenido ecogénico, y lesiones nodulares sólidas en testículo derecho, hallazgos en relación con neoplasia testicular bilateral.
+Los marcadores tumorales presentaron una elevación de la α-FTP (48,4 ng/mL), β-HCG normal (<0,6 mUI/mL) y LDH normal.
+En el TAC toraco-abdómino-pélvico no se encontraron hallazgos patológicos de interés.
+El paciente fue derivado a la sección de fertilidad para realizar criopreservación seminal. Posteriormente se practicó orquiectomía inguinal izquierda con ligadura alta de cordón, y biopsia testicular derecha vía inguinal, previo clampaje del cordón espermático, que fue informada, intraoperatoriamente, como positiva para células malignas germinales, por lo que se procedió a completar la cirugía mediante orquiectomía inguinal derecha.
+El estudio anatomopatológico fue informado como: Testículo izquierdo: tumoración de 5 cm de diámetro con áreas quísticas, que corresponde a un tumor germinal mixto formado en proporciones similares por carcinoma embrionario adulto y teratoma con elementos tanto maduros como inmaduros, que no rebasa la albugínea. Se administró tratamiento quimoterápico adyuvante con el esquema BEP modificado (x2 ciclos), presentando posteriormente marcadores negativos: α-FTP (3,7 ng/mL), β-HCG (<0,6 mUI/mL) y LDH normal.
+Testículo derecho: tumoración grisácea de 2,5 cm de diámetro, que corresponde a seminoma de variedad clásica, apreciándose imágenes de neoplasia intratubular, sin afectación de la albugínea, epidídimo ni cordón espermático.
+Evolución: Actualmente, tras 10 meses del diagnóstico inicial de tumoración testicular bilateral en estadío I, el paciente se encuentra asintomático, con marcadores tumorales negativos, estudios radiológicos normales y en tratamiento hormonal sustitutivo con controles periódicos de las cifras de testosterona.
+Responsable clínico: Pedro Carrión López. Calle Ginzo de limia 56, 1D Albacete. (España). pedrocarrion1980@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="10" end="18" text="Fernando" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="32" end="45" text="Vargas Castro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="57" end="65" text="76844523" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="73" end="87" text="71 75648232 33" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="100" end="121" text="c/ Martíne Villena, 4" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="145" end="153" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="159" end="164" text="02005" TYPE="TERRITORIO" comment=""/>
+    <ID id="T16" start="171" end="179" text="76844523" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="223" end="233" text="21/05/1976" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="241" end="247" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="255" end="257" text="37" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="265" end="266" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="286" end="296" text="18/11/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="308" end="327" text="Pedro Carrión López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="340" end="351" text="06 02 76485" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="501" end="506" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="510" end="517" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="3058" end="3077" text="Pedro Carrión López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3079" end="3106" text="Calle Ginzo de limia 56, 1D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="3107" end="3115" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3118" end="3124" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="3127" end="3155" text="pedrocarrion1980@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

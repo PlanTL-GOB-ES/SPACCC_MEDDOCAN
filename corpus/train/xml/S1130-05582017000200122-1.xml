@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Paola.
+Apellidos: Barba Vega.
+NHC: 4387459.
+NASS: 83 56740786 47.
+Domicilio: Calle Puchaicela, 34 .
+Localidad/ Provincia: Madrid.
+CP: 31250.
+Datos asistenciales.
+Fecha de nacimiento: 21/07/1981.
+País de nacimiento: España.
+Edad: 34 años Sexo: M.
+Fecha de Ingreso: 10/11/2015.
+Médico: Ana M. Calvo Benito NºCol: 31 31 20250.
+Informe clínico del paciente: Mujer de 34 años, embarazada de 18 semanas, que acudió a urgencias porque durante un episodio de hiperémesis gravídica con vómitos proyectivos presentó de forma súbita tumefacción supraorbitaria derecha con proptosis ocular y alteraciones visuales del ojo derecho. La paciente no presentaba antecedentes personales de interés, no tomaba ninguna medicación habitual ni había sufrido ningún traumatismo previamente.
+A la exploración oftalmológica destacaba la presencia de exoftalmos con hipoftalmos del ojo derecho, midriasis derecha de 7 mm con disminución de la reactividad pupilar, limitación de la supraducción y supraversión con diplopia, miodesopsias y edema palpebral superior doloroso a la palpación. La exploración del fondo de ojo fue normal con presión intraocular de 24 mmHg. No se observó edema ni anomalías vasculares en la conjuntiva.
+Debido a que la paciente estaba embarazada, se solicitó una resonancia magnética nuclear (RMN) orbitaria urgente cuyos hallazgos fueron compatibles con el diagnóstico de hematoma intraorbitario extraconal derecho. Un análisis sanguíneo basado en hemograma, bioquímica y coagulación de rutina no mostró ninguna alteración que pudiese haber precipitado el cuadro.
+Dada la repercusión clínica y las alteraciones, cada vez más evidentes en la visión de la paciente, se decidió intervenir quirúrgicamente de forma urgente para evacuar el hematoma y descomprimir la órbita bajo anestesia general. Se realizó una abordaje de blefaroplastia superior derecho, disecando el músculo orbicular del ojo y el periostio, hasta alcanzar el reborde óseo súpero-externo orbitario. Al incidir el periostio a nivel de la cara orbitaria del hueso frontal, se produjo la salida a presión de coágulos y sangre procedentes del hematoma extraconal. Tras la evacuación del hematoma no se objetivaron puntos sangrantes de ningún vaso de la región. Se colocó un drenaje fino tipo Penrose y se instauró tratamiento para la hiperémesis gravídica con piridoxina 10 mg/8 h iv+tiamina 100 mg/24 h iv + metoclopramida 10 mg/8 h iv.
+La paciente evolucionó favorablemente tras la cirugía, desapareciendo la midriasis y las alteraciones visuales en las primeras horas postoperatorias, retirándose el drenaje a las 48 h, actualmente, 3 meses después de la cirugía, la paciente se encuentra asintomática y sin secuelas.
+Responsable clínico: Ana M. Calvo Benito Servicio Cirugía General y Aparato Digestivo Hospital de Navarra C/ Irunlarrea, 3 31008 Pamplona Tfno. 848 422179
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="33" text="Paola" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="46" end="56" text="Barba Vega" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="63" end="70" text="4387459" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="78" end="92" text="83 56740786 47" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="105" end="125" text="Calle Puchaicela, 34" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="150" end="156" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="162" end="167" text="31250" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="211" end="221" text="21/07/1981" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="243" end="249" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="257" end="264" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="271" end="272" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="292" end="302" text="10/11/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="312" end="331" text="Ana M. Calvo Benito" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="339" end="350" text="31 31 20250" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="382" end="387" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="391" end="398" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2733" end="2752" text="Ana M. Calvo Benito" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2798" end="2817" text="Hospital de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2818" end="2834" text="C/ Irunlarrea, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2835" end="2840" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2841" end="2849" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2856" end="2866" text="848 422179" TYPE="NUMERO_TELEFONO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

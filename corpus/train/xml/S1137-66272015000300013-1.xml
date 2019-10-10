@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Jesus.
+Apellidos: Barrios Larrea.
+NHC: Calle Tres Palomas, 27.
+NASS: 48 20895745 94.
+Domicilio: Calle Ibarra, 1.
+Localidad/ Provincia: Donostia-San Sebastián.
+CP: 20080.
+Datos asistenciales.
+Fecha de nacimiento: 03/03/1956.
+País: España.
+Edad: 59 años Sexo:H.
+Fecha de Ingreso: 27/07/2015.
+Servicio: Neurocirugía.
+Episodio: 8934679.
+Médico: Sergio Andrés Torres Bayona NºCol: 20 20 28563.
+Informe clínico del paciente: varón de 59 años, diagnosticado de carcinoma escamoso de laringe T2N2b, que se trató inicialmente con tres ciclos de quimioterapia sin remisión, por lo que tres meses después se realizó una laringectomía supraglótica, con vaciamiento radical incompleto modificado del lado izquierdo. La anatomía patológica demostró un carcinoma escamoso infiltrante en hemiepiglotis izquierda con 8 de 11 ganglios linfáticos positivos de la cadena yugular interna, subdigástricos y supraclaviculares izquierdos. Posteriormente recibió quimioterapia y radioterapia sobre supraglotis e hipofaringe y áreas ganglionares bilaterales.
+Nueve meses después de la cirugía consultó por cefalea de tres semanas de evolución asociada a diplopia binocular y visión borrosa del ojo derecho, evidenciándose oftalmoparesia del III, IV y VI pares craneales derechos. Una resonancia magnética (RM) cerebral mostró una masa en la porción posterior y lateral del seno cavernoso derecho, con protusión hacia la cisterna prepontina, bien delimitada, con captación homogénea de gadolinio y unas dimensiones de 11x14,4x12,2 mm. En la ventana ósea de la TAC no se observaron ni lesiones líticas ni invasión del ala o seno esfenoidal. La TAC toraco-abdomino-pélvica fue negativa. El diagnóstico diferencial radiológico fue de schwannoma, meningioma o metástasis.
+Se realizó una biopsia abierta con abordaje transilviano a la pared lateral del seno cavernoso donde se observó la invasión tumoral del espacio intradural. El resultado anatomopatológico fue de carcinoma escamoso. Posteriormente se administró radioterapia a titulo paliativo. Tres semanas después de la cirugía el paciente consultó por dolor dorsal sin clínica neurológica. Un estudio de RM de raquis mostró lesiones focales en los cuerpos D4, D6 y D10 sospechosas de implantes metastásicos.
+Con el tratamiento radioterápico se alivió la cefalea, pero desarrolló una oftalmoplejía, conservando únicamente la abducción del ojo derecho. El paciente falleció nueve meses tras el diagnóstico de la metástasis en el seno cavernoso.
+Remitido por: Dr. Sergio Andrés Torres Bayona Servicio de Neurocirugía Hospital Universitario Donostia C/ Doctor Beguiristain, 117 20080 Donostia-San Sebastián E-mail: sergioandrestorres@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="33" text="Jesus" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="46" end="60" text="Barrios Larrea" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T21" start="67" end="89" text="Calle Tres Palomas, 27" TYPE="CALLE" comment=""/>
+    <ID id="T20" start="97" end="111" text="48 20895745 94" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="124" end="139" text="Calle Ibarra, 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="163" end="185" text="Donostia-San Sebastián" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="191" end="196" text="20080" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="240" end="250" text="03/03/1956" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="258" end="264" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="272" end="279" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="285" end="286" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="306" end="316" text="27/07/2015" TYPE="FECHAS" comment=""/>
+    <ID id="T8" start="352" end="359" text="8934679" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="369" end="396" text="Sergio Andrés Torres Bayona" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="404" end="415" text="20 20 28563" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="447" end="452" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="456" end="463" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="2514" end="2541" text="Sergio Andrés Torres Bayona" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2567" end="2598" text="Hospital Universitario Donostia" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2599" end="2626" text="C/ Doctor Beguiristain, 117" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2627" end="2632" text="20080" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2633" end="2655" text="Donostia-San Sebastián" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="2664" end="2694" text="sergioandrestorres@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

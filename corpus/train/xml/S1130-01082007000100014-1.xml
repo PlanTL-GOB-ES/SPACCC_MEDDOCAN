@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Maritza.
+Apellidos: Estrada Altamirano.
+NHC: 7843645.
+NASS: 35 16783657 32.
+Domicilio:  C/ Manuel Fernández, 12.
+Localidad/ Provincia: Madrid.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 27/11/1988.
+País de nacimiento: España.
+Edad: 30 años Sexo: M.
+Fecha de Ingreso: 08/06/2018.
+Médico: Pablo Cardinal Moraña  NºCol: 28 28 10238 .
+Informe clínico del paciente: Mujer de 30 años sin antecedentes personales de interés que ingresa en nuestro servicio con el diagnóstico de ictericia obstructiva secundaria a posible coledocolitiasis. En la analítica destacan bilirrubina de 4,6 mg/dl, GOT 406 UI/l, GPT 512 UI/l, amilasa 50 UI/l. Ecografía abdominal: colelitiasis. Vía biliar no dilatada.
+En la CPRE se visualiza una vía dilatada sin coledocolitiasis y se realiza esfinterotomía.
+Tras la prueba, la paciente comienza con dolor en epigastrio y HCD irradiado al hombro y sensación nauseosa. En la exploración la paciente se encuentra agitada, hipotensa, taquipneica con intenso dolor en HCD con importante defensa voluntaria que dificulta la exploración. Analítica: bilirrubina 1,6 mg/dl, GOT 101 UI/l, GPT 311 UI/l, amilasa 71 UI/l, hemoglobina 11,6 g/dl, leucocitos 8.800 µ/l. TAC abdominopélvico: colección de 4,7 x 10 x 11 cm con un área más densa en su interior (probablemente coágulos y con burbujas de gas, sugerentes de infección) adyacente al lóbulo hepático derecho. Aerobilia en vía biliar extrahepática. No líquido libre ni neumoperitoneo.
+En función del mal estado clínico de la paciente, que no responde a ninguna pauta analgésica y a los hallazgos del TAC sugerentes de absceso adyacente al hígado con signos de sangrado e infección, y sin poder descartar una perforación duodenal, se decide intervenir quirúrgicamente.
+En la cirugía se observa un hematoma subcapsular en el lóbulo hepático derecho de unos 10 cm y con burbujas en su interior. Se realiza colangiografía intraoperatoria en la que no se visualiza ninguna alteración en la vía biliar, así como la colecistectomía y evacuación del absceso, dejando un drenaje en espacio subfrénico derecho.
+La paciente pasa a planta y se instaura tratamiento antibiótico de amplio espectro.
+Cultivo de líquido: E. coli. Hemocultivos estériles. A raíz de un episodio de anemización es necesario transfundir 4 concentrados de hematíes. Se realizan ecografías y escáners seriados en donde se objetiva persistencia de hematoma, por lo que se decide colocar un pig-tail. La evolución es satisfactoria siendo dada de alta tras 4 semanas de ingreso.
+Responsable clínico: Dr. Pablo Cardinal Moraña. Email: pablocardinal@hotmail.com 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="35" text="Maritza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="48" end="66" text="Estrada Altamirano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="73" end="80" text="7843645" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="88" end="102" text="35 16783657 32" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="116" end="139" text="C/ Manuel Fernández, 12" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="163" end="169" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="175" end="180" text="28036" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="224" end="234" text="27/11/1988" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T9" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="270" end="277" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="284" end="285" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="305" end="315" text="08/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="325" end="346" text="Pablo Cardinal Moraña" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="355" end="366" text="28 28 10238" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="399" end="404" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="408" end="415" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2563" end="2584" text="Pablo Cardinal Moraña" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2593" end="2618" text="pablocardinal@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

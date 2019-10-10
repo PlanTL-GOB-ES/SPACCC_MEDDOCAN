@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Matías.
+Apellidos: Navarro Saenz.
+NHC: 0283645.
+Domicilio: Calle González Besada, 25 5A .
+Localidad/ Provincia: Oviedo.
+CP: 33007.
+Datos asistenciales.
+Fecha de nacimiento: 28/05/2016.
+País: España.
+Edad: 14 Meses Sexo: H.
+Fecha de Ingreso: 30/07/2017.
+Médico: Adolfo Pipa Vallejo  NºCol: 33 33 15274.
+Historia del paciente: Se trata de un niño de 14 meses que acude al HUCA presentando lesiones cutáneas descamativas en cuero cabelludo y exudativas en pliegues y región perianal.
+Se le realiza una biopsia cutánea que da como diagnóstico una HCL. El cuadro está limitado a la piel exclusivamente y se le realiza un tratamiento tópico localmente.
+En posteriores revisiones, se diagnostica una gingivitis localizada a nivel del 83,84.
+Con el objeto de determinar si existe relación con el anterior proceso cutáneo, se realiza la correspondiente biopsia de encía marginal del 84 con un procesado de la muestra con hematoxilina-eosina, según técnica estándar, para estudio histopatológico.
+Al mismo tiempo, se hace un estudio inmunohistoquímico mediante los marcadores CD1a (antígeno de superficie) y la proteína S-100 específicos de las células de Langerhans.
+El resultado del estudio anatomopatológico determinó la presencia de un epitelio escamoso con un infiltrado de células polinucleares y eosinófilos. A nivel del corion, se evidenciaron nódulos compuestos por células de estructura histiocitaria con núcleos vesiculoso, claros, abollonados, algunos con forma irregular a modo de "grano de café".
+El estudio inmunohistoquímico dejó evidencia de positividad para el antígeno de superficie CD1a y para la proteína S-100, determinando efectivamente la repercusión oral de la enfermedad.
+Fue clasificado el paciente dentro del tipo de patología de histiocitosis de células de Langerhans multifocal.
+Remitido por: Adolfo Pipa Vallejo Facultad de Odontología Universidad de Oviedo Asturias Correo electrónico: pipaadolfo@uniovi.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="9" end="15" text="Matías" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="28" end="41" text="Navarro Saenz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="48" end="55" text="0283645" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T16" start="68" end="96" text="Calle González Besada, 25 5A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="121" end="127" text="Oviedo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="133" end="138" text="33007" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="182" end="192" text="28/05/2016" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="200" end="206" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="214" end="222" text="14 Meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="229" end="230" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="250" end="260" text="30/07/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="270" end="289" text="Adolfo Pipa Vallejo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="298" end="309" text="33 33 15274" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="349" end="353" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T5" start="357" end="365" text="14 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="1822" end="1841" text="Adolfo Pipa Vallejo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="1842" end="1887" text="Facultad de Odontología Universidad de Oviedo" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T2" start="1888" end="1896" text="Asturias" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1917" end="1937" text="pipaadolfo@uniovi.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

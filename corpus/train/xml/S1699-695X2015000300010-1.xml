@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Arturo .
+Apellidos: Cabrera Arias.
+NHC: 8026507.
+NASS: 90 27856289 56.
+Domicilio: Av. de Jaén, 28.
+Localidad/ Provincia: Hellín, Albacete.
+CP: 02400.
+Datos asistenciales.
+Fecha de nacimiento: 13/05/1955.
+País: España.
+Edad: 59 años Sexo: M.
+Fecha de Ingreso: 16/06/2014.
+Médico: Amparo Manzano Juárez  NºCol: 02 02 58936.
+Historia Actual: Paciente de 59 años que refiere dificultad para caminar desde hace un mes aproximadamente. Presenta debilidad y dolor en los miembros inferiores, que mejora tras detenerse, acompañándose en ocasiones de lumbalgia no irradiada. Ha notado cambios en la voz, siendo ésta más disfónica, que relaciona con su trabajo. 
+Antecedentes: Como antecedentes personales, es hipertenso y diabético tipo 2. Antecedentes familiares: tío paterno fallecido con el diagnóstico de Esclerosis lateral amiotrófica (ELA).
+Anamnesis y exploración: En la anamnesis dirigida no refiere debilidad en las manos o extremidades superiores. No presenta trastorno ocular, ni de control de esfínteres y tampoco a nivel sensitivo. No se aprecia labilidad emocional, aunque el paciente ya presentaba un trastorno adaptativo tras la muerte de su mujer. Refiere calambres ocasionales en gemelos. 
+En la exploración neurológica presenta habla hipofónica, facial centrado. Motilidad ocular interna y externa normal. Fasciculaciones linguales. No debilidad cervical. Motor: miembros inferiores (MMII): paraparesia de predominio proximal 4/5. Dorsiflexión de ambos pies 5/5. No se objetiva debilidad en miembros superiores. No déficit sensitivo. Reflejo osteo-tendinoso (ROT) +++/+++ con Hoffmann positivo bilateral y reflejo cutáneo-plantar derecho indiferente, izquierdo conservado. Fasciculaciones en deltoides, pectorales y de forma difusa en MMII. Atrofia muscular en ambos cuádriceps. Exploración general anodina.
+Pruebas complementarias: Se realiza índice tobillo-brazo (ITB): derecho 1,18; izquierdo 1,29. Se solicita analítica, donde destaca CK de 232, estudio inmunológico y serología normal. Radiografía de tórax y lumbosacra normal. Tras sospecha de enfermedad de motoneurona se interconsulta al servicio de Medicina Interna, que solicita electromiograma (EMG) / electroneurografía (ENG) sugestivo de patrón neurógeno con denervación activa en ambos MMII, miembro superior derecho (fibrilaciones y ondas positivas), compatible con enfermedad de motoneurona, probable ELA. Con estos resultados se derivó a Neurología.
+Tras la valoración del paciente y con diagnóstico de probable ELA, según los criterios revisados de El Escorial, y pendiente de completar estudio con resonancia magnética craneal-medular y nuevo estudio neurolofisiológico, se inició tratamiento con Riluzol 50 mg, un comprimido cada 12 horas.
+Evolución y comentarios: Debido a la evolución clínica del paciente con paraparesia proximal en MMII, con importante atrofia muscular de ambos muslos, disfagia para sólidos, sin afectación en miembros superiores (MMSS) y correlacionado con último estudio neurofisiológico, se planteó otro posible diagnóstico, en concreto una miopatía. El EMG sugiere miopatía con afectación bulbar y de cintura pelviana (miopatía por cuerpos de inclusión), por lo que se realizó biopsia muscular, siendo los resultados de la misma contundentes, descartando la posibilidad de enfermedad primaria del musculo esquelético y evidenciándose únicamente cambios secundarios a denervación.
+El paciente posteriormente presentó progresión de los síntomas, evidenciándose debilidad en la flexión dorsal del pie izquierdo (4/5). Atrofia incipiente a nivel del quinto espacio interóseo de la mano izquierda. Fasciculaciones difusas por diferentes segmentos corporales, así como leve afonía.
+Finalmente se sugiere el diagnóstico de enfermedad de motoneurona, probable ELA. Se continúa tratamiento con Riluzol 50 mg. Se recomienda logopedia y rehabilitación domiciliaria física y respiratoria.
+Tras 5 meses del diagnóstico definitivo el paciente presenta un shock séptico de origen urinario y siguientes complicaciones, precisando ventilación mecánica invasiva (traqueotomía), alimentación por gastrostomía percutánea (PEG) y trastorno adaptativo secundario, dándose de alta al domicilio. A los dos meses presenta exitus.
+Remitido por: Dra. Amparo Manzano Juárez. C/ Jacinto Benavente 19, 4o V. C.P. 02400. Hellín (Albacete). España. Correo electrónico: ampamanjua@hotmail.com.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="34" text="Arturo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="48" end="61" text="Cabrera Arias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="68" end="75" text="8026507" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="83" end="97" text="90 27856289 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="110" end="125" text="Av. de Jaén, 28" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="149" end="155" text="Hellín" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="157" end="165" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="171" end="176" text="02400" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="220" end="230" text="13/05/1955" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="238" end="244" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="252" end="259" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="266" end="267" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="287" end="297" text="16/06/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="307" end="328" text="Amparo Manzano Juárez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T1" start="337" end="348" text="02 02 58936" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T11" start="379" end="386" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T3" start="784" end="795" text="tío paterno" TYPE="FECHAS" comment=""/>
+    <OTHER id="T10" start="1177" end="1182" text="mujer" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="4258" end="4279" text="Amparo Manzano Juárez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="4281" end="4310" text="C/ Jacinto Benavente 19, 4o V" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="4317" end="4322" text="02400" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="4324" end="4330" text="Hellín" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T7" start="4332" end="4340" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="4343" end="4349" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T4" start="4371" end="4393" text="ampamanjua@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

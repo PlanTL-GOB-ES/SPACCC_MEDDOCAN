@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sandra.
+Apellidos: Tobar Alvarez.
+NHC: 8942634.
+NASS: 32 78456397 48.
+Domicilio: C/ Castilla y León, 3, 4 D.
+Localidad/ Provincia: Valladolid.
+CP: 47021.
+Datos asistenciales.
+Fecha de nacimiento: 15/02/1957.
+País de nacimiento: España.
+Edad: 47 años Sexo:  H.
+Fecha de Ingreso: 07/07/2004.
+Médico: Alejandro Sálamo Rubiales NºCol: 47 47 87921.
+Informe clínico del paciente: En el año 2000, a los 47 años de edad a la paciente se le practicó una mastectomía por un carcinoma ductal infiltrante de mama estadio IIIB (T4a N1). Los receptores hormonales eran positivos, al igual que el Herceptest (+++). Recibió tratamiento complementario con quimioterapia (CMF), radioterapia y tamoxifeno. En Mayo de 2003 se detectó una recidiva ósea cervical que ocasionaba compromiso medular. Fue tratada con cirugía y radioterapia local. Posteriormente comenzó tratamiento con letrozol. En Noviembre de 2003 se confirmó una progresión tumoral ósea y ganglionar (supraclavicular). Comenzó entonces tratamiento citostático paliativo con epirrubicina, docetaxel y trastuzumab. En las semanas siguientes presentó un empeoramiento sintomático importante pero transitorio; la evolución de estos síntomas se describe en unas anotaciones de la propia paciente que luego nos facilitó. De manera simultánea se encontró una elevación del CA153 y de la fosfatasa alcalina que posteriormente se fue reduciendo hasta normalizarse (Gráfica 1). Desde el punto de vista clínico, la captación en la gammagrafía ósea no sufrió cambios relevantes pero la adenopatía supraclavicular alcanzó una respuesta completa. La duración de la respuesta fue de diez meses, tras los cuales presentó progresión ósea y hepática. Se encuentra recibiendo una nueva línea de quimioterapia con aparente estabilización de la enfermedad.
+Responsable clínico: Dr. Alejandro Sálamo Rubiales Oncología Médica Hospital Clínico Universitario C/ Ramón y Cajal, 3 E-47005 Valladolid E-mail: asrubiales@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="34" text="Sandra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="47" end="60" text="Tobar Alvarez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="67" end="74" text="8942634" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="82" end="96" text="32 78456397 48" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="109" end="135" text="C/ Castilla y León, 3, 4 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="159" end="169" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="175" end="180" text="47021" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="224" end="234" text="15/02/1957" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="270" end="277" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="285" end="286" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="306" end="316" text="07/07/2004" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="326" end="351" text="Alejandro Sálamo Rubiales" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="359" end="370" text="47 47 87921" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <DATE id="T15" start="408" end="416" text="año 2000" TYPE="FECHAS" comment=""/>
+    <AGE id="T8" start="424" end="431" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="718" end="730" text="Mayo de 2003" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="902" end="919" text="Noviembre de 2003" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="1834" end="1859" text="Alejandro Sálamo Rubiales" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1877" end="1907" text="Hospital Clínico Universitario" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1908" end="1927" text="C/ Ramón y Cajal, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1928" end="1935" text="E-47005" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1936" end="1946" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1955" end="1977" text="asrubiales@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

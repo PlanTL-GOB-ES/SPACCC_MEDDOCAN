@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Rebeca.
+Apellidos: Maeso Simón.
+NHC: 3457245.
+NASS: 85 47295468 04.
+Domicilio: Calle CArtagena 19, 3H.
+Localidad/ Provincia: Madrid.
+CP: 28006.
+Datos asistenciales.
+Fecha de nacimiento: 28/12/1963.
+País: España.
+Edad: 52 años Sexo: M.
+Fecha de Ingreso: 15/09/2016.
+Servicio: Neurocirugía.
+Médico: Rodrigo Carrasco Moro NºCol: 28 28 59528.
+Historia Actual: Se trata de una paciente de 52 años, sin antecedentes de interés, remitida a nuestro Servicio para valoración quirúrgica. Presentaba, desde hacía cuatro años, una pequeña tumoración en la porción derecha de la frente, que había aumentando lentamente de tamaño. 
+Exploración física: Durante la exploración se palpaba una masa dura, indolora y no movilizable, bajo una piel de aspecto normal.
+Resumen de pruebas complementarias: La radiografía simple y la TAC de cráneo mostraron una lesión intraósea frontal derecha de características osteolíticas. El diagnóstico diferencial radiológico incluyó metástasis, mieloma y hemangioma. Los estudios sistémicos de rastreo tumoral (hemograma, frotis hematológico, marcadores tumorales, proteinograma y TAC cervico-toraco-abdominal) fueron negativos. Se realizó una gammagrafía ósea con HDP-Tc99M, demostrándose un depósito redondeado en el área de la lesión. La punción-aspiración percutánea con aguja fina de la tumoración resultó no concluyente para el diagnóstico, al obtenerse únicamente fragmentos hemáticos.
+Finalmente, se decidió intervenir quirúrgicamente a la paciente en base a la progresión clínica de la lesión, con sus implicaciones estéticas, así como para obtener un diagnóstico histológico definitivo. Durante el acto quirúrgico, se identificó una tumoración dependiente del hueso, con múltiples canales vasculares dilatados en su seno, que expandía la tabla externa. Para evitar la manipulación de la lesión, se decidió incluirla en una pieza de craniectomía con un margen circunferencial de 1 cm. de hueso aparentemente sano. El defecto óseo resultante fue reconstruido mediante una plastia craneal de metilmetacrilato, que se fijó al hueso circundante con miniplacas de Titanio. 
+Evolución y comentarios: El periodo postoperatorio transcurrió sin incidencias. El diagnóstico anatomopatológico definitivo fue de hemangioma cavernoso intraóseo.
+Remitido por: Dr. Rodrigo Carrasco Moro. H. U. La Princesa. Servicio de Neurocirugía. C/ Diego de León 62. 28006. Madrid.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="9" end="15" text="Rebeca" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="28" end="39" text="Maeso Simón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="46" end="53" text="3457245" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="61" end="75" text="85 47295468 04" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="88" end="110" text="Calle CArtagena 19, 3H" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="134" end="140" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="146" end="151" text="28006" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="195" end="205" text="28/12/1963" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="213" end="219" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="227" end="234" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="241" end="242" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="262" end="272" text="15/09/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="306" end="327" text="Rodrigo Carrasco Moro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="335" end="346" text="28 28 59528" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T9" start="393" end="400" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2286" end="2307" text="Rodrigo Carrasco Moro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2309" end="2326" text="H. U. La Princesa" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="2354" end="2373" text="C/ Diego de León 62" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="2375" end="2380" text="28006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2382" end="2388" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Maritza.
+Apellidos: Sanchez de Miguel.
+NHC: 8374542.
+NASS: 89 32670766 01.
+Domicilio: Calle del Aguacate, 44.
+Localidad/ Provincia: Madrid.
+CP: 28040.
+Datos asistenciales.
+Fecha de nacimiento: 20/07/1956.
+País de nacimiento: España.
+Edad: 54 años Sexo: M.
+Fecha de Ingreso: 31/05/2011.
+Médico: Elias Morán Pascual  NºCol: 28 28 91467.
+Informe clínico del paciente: paciente de sexo femenino, de 54 años de edad, diagnosticada con edentulismo parcial de ambas arcadas y atrofia alveolar severa clase III de Seibert1 en la región de premaxila edéntula.
+El plan del tratamiento consiste en la colocación de 2 perlas de hidrogel esterilizadas en autoclave para la expansión tisular de la premaxila, y un posterior aloinjerto óseo en bloque en el mismo lugar.
+Dos semanas después de la colocación de las perlas de hidrogel, se realiza la exposición y retirada de las mismas, con colocación de bloques de aloinjerto marca Biograft®, preformados transquirurgicamente por medio de estereolitografía, se pudo realizar el cierre de la herida sin tensión y sin la necesidad de realizar descargas al colgajo, ni incisiones para liberar tensión del periostio.
+Una vez culminado el periodo de oseointegración del bloque (aproximadamente 6 meses), se realiza la colocación de los implantes dentales, planeados inicialmente en una adecuada posición, con muy buen tejido óseo y blando para su rehabilitación.
+Responsable clínico: Elias Morán Pascual. email:  averquetedigo@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="35" text="Maritza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="48" end="65" text="Sanchez de Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="72" end="79" text="8374542" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="87" end="101" text="89 32670766 01" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="114" end="136" text="Calle del Aguacate, 44" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="160" end="166" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="172" end="177" text="28040" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="221" end="231" text="20/07/1956" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="253" end="259" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="267" end="274" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="281" end="282" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="302" end="312" text="31/05/2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="322" end="341" text="Elias Morán Pascual" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="350" end="361" text="28 28 91467" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="410" end="418" text="femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="423" end="430" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="1441" end="1460" text="Elias Morán Pascual" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1470" end="1495" text="averquetedigo@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

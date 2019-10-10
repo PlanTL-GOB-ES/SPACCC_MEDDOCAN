@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Santiago.
+Apellidos: Madrid Duarte.
+NHC: 8935720.
+NASS: 89 45981650 12.
+Domicilio: C/ Hnos Martinez, 15.
+Localidad/ Provincia: Albacete.
+CP: 02006.
+Datos asistenciales.
+Fecha de nacimiento: 10/03/1959.
+País de nacimiento: España.
+Edad: 57 años Sexo: H.
+Fecha de Ingreso: 10/08/2016.
+Médico: Carolina Arias Rombolá NºCol: 02 02 57881.
+Informe clínico del paciente: Varón de 57 años, con antecedentes personales de EPOC, fumador de 15 paquetes/año y bebedor moderado, que consulta por una tumoración de rápido crecimiento, indolora, firmemente adherida a planos profundos, de un mes de evolución, en la región del manubrio esternal. La radiografía simple y la TAC con contraste endovenoso y reconstrucción tridimensional del tórax, evidencian una tumoración de 5-6 cm. de diámetro en el manubrio esternal con destrucción cortical. Sin signos de infiltración mediastínica ni de las clavículas. (Ver Figuras 1 y 2).
+En la analítica general no se observan alteraciones significativas, siendo el estudio de las inmunoglobulinas (IgG, IgA, IgM y beta 2 microglobulina) normal.
+Se realizó una PAAF y una biopsia quirúrgica, encontrando una citología atípica no concluyente del tipo histológico. Las pruebas de Inmunohistoquímica resultaron positivas para los siguientes marcadores: CD 138; CD 68 (aislado); LAMBDA (algunas células); KAPPA (intensa positividad en casi la totalidad de las células). Se sospechó un plasmocitoma. La gammagrafia ósea solamente mostró un incremento de la captación en la región del tumor esternal y ambas articulaciones esternoclaviculares. La biopsia de médula ósea no evidenció hallazgos patológicos y en el estudio de la orina se constató la ausencia de las proteínas de Bence-Jones.
+Se realizó extirpación amplia en bloque del manubrio esternal y resección parcial de ambas clavículas, de las dos primeras costillas y del cuerpo del esternón, incluyendo la piel suprayacente al tumor. No se apreció infiltración mediastínica. Cobertura del defecto resultante con una malla de polipropileno y sutura de los pectorales en la línea media. No hubo complicaciones postoperatorias. La fijación y estabilidad de la pared torácica fueron satisfactorias desde el postoperatorio inmediato. La estancia hospitalaria fue de 7 días. La descripción anátomo-patológica de la pieza operatoria indicaba abundantes células plasmáticas mononucleadas entremezcladas con otras multinucleadas con positividad inmunohistoquímica para los anticuerpos antiCD138 y cadenas lambda y negatividad para los anticuerpos de cadenas kappa. Los márgenes de resección estaban libres de enfermedad. Se completó el tratamiento con radioterapia (50 Gy en 30 sesiones durante 4 semanas).
+En la revisión de control a los seis meses de la operación, no se evidenciaron signos clínicos ni tomográficos de progresión de la enfermedad ni de complicaciones post-quirúrgicas tardías.
+Responsable clínico: Dra. Carolina Arias Rombolá. C/ Hnos. Falcó, 37 E-02006 Albacete carrombola@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="36" text="Santiago" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="49" end="62" text="Madrid Duarte" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="69" end="76" text="8935720" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="84" end="98" text="89 45981650 12" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="111" end="131" text="C/ Hnos Martinez, 15" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="155" end="163" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="169" end="174" text="02006" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="218" end="228" text="10/03/1959" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="250" end="256" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="264" end="271" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="278" end="279" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="299" end="309" text="10/08/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="319" end="341" text="Carolina Arias Rombolá" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="349" end="360" text="02 02 57881" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="392" end="397" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="401" end="408" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2917" end="2939" text="Carolina Arias Rombolá" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2941" end="2959" text="C/ Hnos. Falcó, 37" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2960" end="2967" text="E-02006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2968" end="2976" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2977" end="2999" text="carrombola@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

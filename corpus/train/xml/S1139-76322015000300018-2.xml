@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Luna.
+Apellidos: Renedo Guerra.
+NHC: 295764.
+Domicilio: Calle Puentecesures, 29.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 21/04/2001.
+País: España.
+Edad: 11 años Sexo: M.
+Fecha de Ingreso: 20/06/2012.
+Médico: Paola Catalina Morales Betancourt NºCol: 28 28 95620.
+Informe clínico del paciente: Niña de 11 años de edad que presenta astenia, pérdida de peso y fiebre de 13 días de evolución, presentando todos los días picos febriles, sin pauta horaria fija. A la exploración presenta hábito asténico (peso P3-10) y mucosidad espesa y blanquecina en el cavum, con el resto de la exploración normal.
+En la analítica al ingreso: leucocitos 4060/µl (segmentados 59%, cayados 6%, linfocitos 33%, monocitos 2%), Hb 13,3 g/dl, Hto 38%, plaquetas 25 000/µl. En el frotis se observan hematíes en casco, linfocitos activados y vacuolización de neutrófilos; PCR 58,1 mg/l (88,2 mg/l, en una visita a urgencias dos días antes); proteinuria en el sedimento de orina. Se ingresa con tratamiento de amoxicilina-clavulánico intravenoso ante los hallazgos en el frotis y la elevación de los reactantes de fase aguda. Permanece afebril desde el segundo día de ingreso. Durante su ingreso presenta micropetequias en miembros inferiores y dorso de los pies el segundo día, así como sangrado de mucosa oral el tercer día; ante estos hallazgos y por presentar al cuarto día un control analítico 8000 plaquetas/µl, se decide poner una dosis de gammaglobulina, con adecuada respuesta al tratamiento, presentando mejoría clínica y aumento de cifra de plaquetas hasta 16 000/µl.
+Se realiza estudio de fiebre sin foco de larga evolución, con IgM parvovirus B19 positivo, haciéndose diagnóstico de infección por parvovirus B19, plaquetopenia secundaria y leve proteinuria, con resto de función renal normal.
+Remitido por: Dra. Paola Catalina Morales Betancourt. Correo Electrónico: kticamorales@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="29" end="33" text="Luna" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="46" end="59" text="Renedo Guerra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="66" end="72" text="295764" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T14" start="85" end="108" text="Calle Puentecesures, 29" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="132" end="138" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="144" end="149" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="193" end="203" text="21/04/2001" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="211" end="217" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="225" end="232" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="239" end="240" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="260" end="270" text="20/06/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="280" end="313" text="Paola Catalina Morales Betancourt" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="321" end="332" text="28 28 95620" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="364" end="368" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="372" end="379" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="1868" end="1901" text="Paola Catalina Morales Betancourt" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1923" end="1945" text="kticamorales@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

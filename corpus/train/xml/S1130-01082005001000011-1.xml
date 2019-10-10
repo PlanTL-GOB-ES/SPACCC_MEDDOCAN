@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Soledad.
+Apellidos: Pinell Castillo.
+NHC: 7346578.
+NASS: 43 57645358 39.
+Domicilio: C/ Orcasur, 6, Bajo A.
+Localidad/ Provincia: Tudela.
+CP: 31500.
+Datos asistenciales.
+Fecha de nacimiento: 17/4/1958.
+País de nacimiento: España.
+Edad: 58 años Sexo: M.
+Fecha de Ingreso: 21/09/2016.
+Médico: Catalina Isabel González Rodríguez NºCol: 31 31 24603.
+Informe clínico del paciente: Mujer de 58 años remitida por malestar abdominal. Intervenida de carcinoma de mama en 1996. Un año después, en ecografía y TAC abdominales de control, se descubre una masa multiquística pancreática, con punción aspiración biopsia negativa para células malignas. Asintomática hasta el año 2000 en que comenzó con dolor abdominal sordo. La exploración física y analítica fue rigurosamente normal. Marcadores tumorales en sangre (CEA, Ca 125 y Ca 19.9) negativos. Ecografía abdominal: múltiples formaciones quísticas a nivel de toda la celda pancreática, multitabicadas, con componente sólido y algunas con microcalcificaciones, de diverso tamaño, siendo el mayor de 3 cm, y sin flujo en su interior. Todo ello compatible con cistoadenoma pancreático gigante. En TAC abdominal y RMN con contraste se ratifican dichos hallazgos. Se realiza punción aspiración con aguja fina de uno de los quistes, no observándose células malignas. Los marcadores tumorales en el líquido quístico muestran Ca 125: 786 UI/ml (vn: 0-35), Ca 19.9: 174 UI/ml (vn: 0-37), y CEA normal. Se diagnostica de cistoadenoma gigante de páncreas, probablemente seroso. La paciente no ha presentado cambios clínicos ni radiológicos desde el primer estudio de imagen hace ya 6 años. Tras comentarlo con la interesada y con el Servicio de Cirugía, ambos rechazan por el momento tratamiento quirúrgico.
+Responsable clínico: Dra. Catalina Isabel González Rodríguez Servicio de Medicina Interna Hospital Reina Sofía Ctra. Tarazona, km 3 31500 Tudela
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="35" text="Soledad" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="48" end="63" text="Pinell Castillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="70" end="77" text="7346578" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="85" end="99" text="43 57645358 39" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="112" end="133" text="C/ Orcasur, 6, Bajo A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="157" end="163" text="Tudela" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="169" end="174" text="31500" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="218" end="227" text="17/4/1958" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="263" end="270" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="277" end="278" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="298" end="308" text="21/09/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="318" end="352" text="Catalina Isabel González Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="360" end="371" text="31 31 24603" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="403" end="408" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="412" end="419" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="489" end="493" text="1996" TYPE="FECHAS" comment=""/>
+    <DATE id="T14" start="687" end="695" text="año 2000" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="1792" end="1826" text="Catalina Isabel González Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1856" end="1876" text="Hospital Reina Sofía" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1877" end="1897" text="Ctra. Tarazona, km 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1898" end="1903" text="31500" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1904" end="1910" text="Tudela" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

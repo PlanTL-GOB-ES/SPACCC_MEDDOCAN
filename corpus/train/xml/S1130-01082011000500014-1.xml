@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Tania.
+Apellidos: Fernandez De la Puebla.
+NHC: 925546.
+NASS: 90 78234615 13.
+Domicilio: Calle del Prado, 3, 8D.
+Localidad/ Provincia: Avilés.
+CP: 33400.
+Datos asistenciales.
+Fecha de nacimiento: 13/03/1991.
+País: España.
+Edad: 27 años Sexo: M.
+Fecha de Ingreso: 19/05/2018.
+Médico: Ana Sampedro López NºCol: 33 33 79458.
+Motivo de ingreso:dolor abdominal, diarrea sanguinolenta y cefalea acompañada de déficit motor en miembro inferior izquierdo.
+Historia Actual: Mujer de 27 años con debut de la enfermedad hace dos años en forma de pancolitis grave y posterior corticodependencia, en tratamiento de mantenimiento con azatriopina y mesalazina oral.
+Exploración física: dolor abdominal difuso a la palpación profunda. Tacto rectal con restos hemáticos frescos. Discreta impotencia funcional en miembro inferior izquierdo y parestesias en ambos miembros superiores.
+Resumen de pruebas complementarias: En la analítica al ingreso destaca hemoglobina de 11 g/dl, VSG 78 mg/l y mínima movilización enzimática (GOT 74 UI/l, GPT 96 UI/l, GGT 182 UI/l, FA 148 UI/l).
+Valorada por Neurología, indican tomografía computerizada (TC) y resonancia magnética nuclear (RMN) cerebrales, evidenciando trombosis del seno venoso longitudinal. En la rectosigmoidoscopia: afectación grave de la mucosa desde el margen anal. Biopsias compatibles con colitis ulcerosa activa, descartándose infección por citomegalovirus. Iniciamos tratamiento con corticoides intravenosos a dosis plenas (1 mg/kg/día) y heparina de bajo peso molecular, con normalización progresiva de las deposiciones.
+Evolución y comentarios:  Tras una semana de hospitalización, aumento del perímetro abdominal con semiología de ascitis y deterioro neurológico (mioclonías en miembros inferiores, disminución de la agudeza visual), acompañados de aumento de la citolisis (GOT 600 UI/l, GPT 463 UI/l) y coagulopatía. Se realiza eco-doppler abdominal: hepatomegalia. Porta de 9,5 mm captando doppler solo en su rama derecha. Arteria hepática prominente. Suprahepáticas con mínima captación de flujo, aplanado. Contenido ecógeno en cava inferior. Ascitis.
+Se amplía el estudio mediante TC y angio-RMN abdominales : cava intrahepática disminuida de calibre con imagen de trombo intraluminal. Pérdida de la intensidad de señal de las suprahepáticas en todo su recorrido. Porta permeable. Hepatomegalia. Ascitis.
+Se descartan otras causas de hepatopatía y se realiza paracentesis diagnóstica (leucocitos 20, glucosa 86, proteínas 1,8, albúmina 1,4, GASA 1. Cultivo negativo. Citología negativa). Estudio de trombofilia con déficit relativo de factores de síntesis hepática (factor V 36,63%, VII 21%), sin trastorno procoagulante primario (anticuerpo antifosfolípidos, test de Ham y factor V de Leyden, negativos. Gen de la protrombina y de la metilentetrahidrofolato reducatasa, homocisteína, antitrombina III, proteína C y S, normales).
+Con la sospecha de síndrome de Budd-Chiari se inicia tratamiento con heparina sódica a dosis plenas. Continúa el deterioro clínico en los días consecutivos, con ascitis a tensión y coagulopatía severa (actividad de protrombina del 38%).
+Tras valoración multidisciplinar, la paciente es trasladada a otro centro para intento de colocación de un sistema de derivación portosistémica percutáneo intrahepático, desde nos informan de la necesidad de realización conjunta de fibrinólisis por trombosis portal asociada. La evolución posterior es tórpida con aparición de complicaciones hemorrágicas a distintos niveles, destacando una hemorragia cerebral masiva y final fallecimiento de la paciente.
+Remitido por: Ana Sampedro López. Hospital San Agustín. Servicio de Oftalmología Camino de Heros, 4 33400 Avilés (Asturias) España E-mail: ansamlo@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="14" text="Tania" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="27" end="49" text="Fernandez De la Puebla" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="56" end="62" text="925546" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="70" end="84" text="90 78234615 13" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="97" end="119" text="Calle del Prado, 3, 8D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="143" end="149" text="Avilés" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="155" end="160" text="33400" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="204" end="214" text="13/03/1991" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="222" end="228" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="236" end="243" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="250" end="251" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="271" end="281" text="19/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="291" end="309" text="Ana Sampedro López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="317" end="328" text="33 33 79458" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="473" end="478" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="482" end="489" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="3595" end="3613" text="Ana Sampedro López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3615" end="3635" text="Hospital San Agustín" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="3662" end="3680" text="Camino de Heros, 4" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3681" end="3686" text="33400" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3687" end="3693" text="Avilés" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3695" end="3703" text="Asturias" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3705" end="3711" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3720" end="3739" text="ansamlo@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Carmen.
+Apellidos: Becerro Dominguez.
+NHC: 6045435.
+NASS: 20 56457654 24.
+Domicilio: Avenida Alarcos, 25, 4 der..
+Localidad/ Provincia: Ciudad Real.
+CP: 13001.
+Datos asistenciales.
+Fecha de nacimiento: 19/12/1979.
+País: España.
+Edad: 38 años Sexo: M.
+Fecha de Ingreso: 03/05/2018.
+Servicio: Urgencias.
+Médico: Francisco Javier Lara Medina NºCol:13 13 30456.
+Historia Actual: Mujer de 38 años que acude de urgencias por presentar un traumatismo penetrante ocular por un fragmento de una pinza de ropa. La paciente muestra una perforación a nivel corneal con afectación del iris y del cristalino. Se interviene de urgencias realizándose la extracción del fragmento y posteriormente, el cierre corneal y la facoemulsificación del cristalino con colocación de una lente intrasacular. En una revisión posterior a los 5 meses de la lesión, se toman imágenes del segmento anterior mediante OCT. El OCT muestra claramente la zona de la iridectomía traumática, así como la disposición de la lente intraocular.
+Remitido por: Francisco Javier Lara Medina. Complejo Hospitalario La Mancha-Centro 13600 Alcázar de San Juan ( Ciudad Real) España E-mail: flarmed@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="15" text="Carmen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="28" end="45" text="Becerro Dominguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="52" end="59" text="6045435" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="67" end="81" text="20 56457654 24" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T1" start="94" end="121" text="Avenida Alarcos, 25, 4 der." TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="145" end="156" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="162" end="167" text="13001" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="211" end="221" text="19/12/1979" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="229" end="235" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="243" end="250" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="257" end="258" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="278" end="288" text="03/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="319" end="347" text="Francisco Javier Lara Medina" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="354" end="365" text="13 13 30456" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="384" end="389" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="393" end="400" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T11" start="1024" end="1053" text="Francisco Javier Lara Medina." TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T10" start="1054" end="1092" text="Complejo Hospitalario La Mancha-Centro" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T9" start="1093" end="1098" text="13600" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T8" start="1099" end="1118" text="Alcázar de San Juan" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T7" start="1121" end="1132" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="1134" end="1140" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T5" start="1149" end="1168" text="flarmed@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Hugo.
+Apellidos: Roque Ferrer.
+NHC: 4873057.
+Domicilio: Avda. Juan Carlos l, 3, 1 C.
+Localidad/ Provincia: Madrid.
+CP: 28220.
+Datos asistenciales.
+Fecha de nacimiento: 13/07/2014.
+País de nacimiento: España.
+Edad: 25 meses Sexo: H.
+Fecha de Ingreso: 21/08/2016.
+Médico: Gastón Demaría MartínezNºCol: 28 28 98702.
+Informe clínico del paciente: varón de 25 meses, que acudió directamente a urgencias de cirugía maxilofacial remitido por su pediatra de zona, presentando imposibilidad de cerrar la boca y babeo, así como rechazo del desayuno. El día anterior, jugando en la piscina, el niño había sufrido una caída y se había golpeado en la nariz, por lo que presentaba un erosión en la raíz nasal. Basándose en la clínica y en este antecedente, el niño fue diagnosticado de luxación traumática de ATM. En nuestra exploración apreciamos dolor en la región preauricular de ambos lados que empeoraba al cerrar la boca. No obstante, el cierre completo era posible sin maniobras de reducción, y la oclusión era buena. La otoscopia resultó muy dolorosa, el "signo del trago" era positivo, y el CAE estaba inflamado presentando discreta descamación y supuración. Se realizó radiografía de ambas ATM que fue normal. El paciente fue remitido al Servicio de ORL, donde tras el tratamiento adecuado resolvió el cuadro.
+Responsable clínico:  Dr. Gastón Demaría Martínez Avda. Juan Carlos I, 23 1oE 28220 Majadahonda, Madrid. España E-mail: gdemaria@vodafone.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="32" text="Hugo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="45" end="57" text="Roque Ferrer" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="64" end="71" text="4873057" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T21" start="84" end="111" text="Avda. Juan Carlos l, 3, 1 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="135" end="141" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="147" end="152" text="28220" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="196" end="206" text="13/07/2014" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="228" end="234" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="242" end="250" text="25 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="257" end="258" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="278" end="288" text="21/08/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="298" end="321" text="Gastón Demaría Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="328" end="339" text="28 28 98702" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="371" end="376" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="380" end="388" text="25 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="611" end="615" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="774" end="778" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T10" start="1360" end="1383" text="Gastón Demaría Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1384" end="1411" text="Avda. Juan Carlos I, 23 1oE" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1412" end="1417" text="28220" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1418" end="1429" text="Majadahonda" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1431" end="1437" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1439" end="1445" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1454" end="1474" text="gdemaria@vodafone.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

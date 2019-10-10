@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Miguel.
+Apellidos: Rianxo Ocampos.
+NHC: 9871652.
+NASS: 57 88752634 56.
+Domicilio: Av. de Pedro Barrié de la Maza, 23, 1D.
+Localidad/ Provincia: La Coruña.
+CP:15003.
+Datos asistenciales.
+Fecha de nacimiento: 20/05/1941.
+País: España.
+Edad: 76 años Sexo: H.
+Fecha de Ingreso: 04/10/2017.
+Servicio: Cirugía Oral y Maxilofacial.
+Episodio: 107294.
+Médico: Esther Charro Huerga  NºCol: 15 15 68545.
+Historia Actual: Un paciente varón de 76 años acude a consulta de oftalmología por presentar dolor, lagrimeo y secreción en ojo izquierdo (OI) asociados a ojo rojo severo de 1 mes de evolución. Un mes antes, en el servicio de ORL le había sido diagnosticado clínicamente un supuesto Pénfigo Vulgar mucoso en garganta y boca pendiente de biopsia, por el que se encontraba en tratamiento con Prednisona 30 mg al día. Entre los antecedentes generales presentaba hipercolesterolemia tratada con torvastatina.
+Al examen oftalmológico se comprobó una agudeza visual (AV) de 1,2 en ojo derecho (OD) y de 1,0 en OI. A la biomicroscopía (BPA) se encontró una ampolla grande en sector nasal de la conjuntiva bulbar, asociada a hiperemia, que evolucionó a erosión en 24 horas ; el resto del examen era normal en ambos ojos. A continuación se decidió efectuar una biopsia conjuntival en la consulta bajo anestesia tópica en la zona lesional. Se comenzó en ese momento tratamiento con pomada de gentamicina y colirio de fluorometolona cada 8 horas. En la histopatología se encontró una bulla intraepitelial suprabasal mientras que la IF directa demostró depósitos de Inmunoglobulina G (IgG) en los espacios intercelulares del epitelio conjuntival. Al establecer el diagnóstico de Pénfigo Vulgar, se elevó la dosis de Prednisona a 60 mg/día, con lo cual se logró una remisión de los síntomas oculares a los dos meses.
+Remitido por: Esther Charro Huerga Servicio de Cirugía Oral y Maxilofacial. Complejo Hospitalario Universitario de La Coruña. España Hopital Materno Infantil As Xubias de Arriba 84, 15006 e-mail: esch26@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="15" text="Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="28" end="42" text="Rianxo Ocampos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="49" end="56" text="9871652" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="64" end="78" text="57 88752634 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="91" end="129" text="Av. de Pedro Barrié de la Maza, 23, 1D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="153" end="162" text="La Coruña" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="167" end="172" text="15003" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="216" end="226" text="20/05/1941" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="234" end="240" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="248" end="255" text="76 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="262" end="263" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="283" end="293" text="04/10/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T12" start="344" end="350" text="107294" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T11" start="360" end="380" text="Esther Charro Huerga" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="389" end="400" text="15 15 68545" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="431" end="436" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="440" end="447" text="76 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1820" end="1840" text="Esther Charro Huerga" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1882" end="1930" text="Complejo Hospitalario Universitario de La Coruña" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1932" end="1938" text="España" TYPE="PAIS" comment=""/>
+    <LOCATION id="T4" start="1939" end="1963" text="Hopital Materno Infantil" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="1964" end="1986" text="As Xubias de Arriba 84" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="1988" end="1993" text="15006" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2002" end="2020" text="esch26@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Celia.
+Apellidos: Osores Gallardo.
+NHC: 6257833.
+NASS: 73 46570347 35.
+Domicilio: C/ La Tablada, 3.
+Localidad/ Provincia: Madrid.
+CP: 28042.
+Datos asistenciales.
+Fecha de nacimiento: 27/10/1954.
+País de nacimiento: España.
+Edad: 64 años Sexo: H.
+Fecha de Ingreso: 10/08/2015.
+Servicio: Oftalmología.
+Médico: Roberto Gallego Pinazo NºCol: 28 28 57910.
+Informe clínico del paciente: Mujer de 64 años diagnosticada de glaucoma crónico de ángulo abierto cuyo ojo izquierdo fue intervenido mediante viscocanalostomía. Su mejor agudeza visual corregida era de 0,7 y 0,8 en el ojo derecho (OD) y en el ojo izquierdo (OI) respectivamente. La presión intraocular (PIO) preoperatoria en el OI era de 26 mmHg a pesar del tratamiento con la asociación de maleato de timolol y dorzolamida dos veces al día junto con latanoprost una vez al día. En el OD, con la misma pauta, la PIO era de 17 mmHg. Tanto en el estudio de las papilas ópticas como en el seguimiento del campo visual, se comprobó un deterioro progresivo en el OI.
+Se decidió proceder a la realización de una viscocanalostomía según técnica habitual de Stegmann1. Realizamos la disección conjuntival con base en fórnix y tras la disección de un colgajo escleral que sobrepasó la línea de Schwalbe creamos un segundo flap escleral más profundo, que fue retirado, donde procedimos a localizar el canal de Schlemm y canalizarlo cuidadosamente hacia el interior inyectando el viscoelástico. Finalmente procedimos a suturar fuertemente el colgajo escleral superficial con nylon 10-0.
+A las 24 horas de la intervención, la paciente presentaba un desprendimiento de la membrana de Descemet (DMD) en el cuadrante temporal inferior de 5,0 x 5,0 mm. El espacio entre la membrana de Descemet y el estroma corneal presentaba un importante relleno hemático y por viscoelástico. La agudeza visual (AV) era en este momento de 0,5 y su PIO 16 mmHg. Se pautó tratamiento con midriáticos (ciclopentolato) y esteroides tópicos (dexametasona) y se llevaron a cabo controles seriados mediante control de la AV, biomicroscopía, gonioscopía y toma de presión intraocular.
+A las dos semanas de la intervención el estado de la inclusión corneal permanecía prácticamente inalterado, apreciándose además un edema corneal moderado que provocaba una disminución de la AV a 0,05, por lo que se decidió la reaplicación quirúrgica haciendo uso de la siguiente técnica: con un miringotomo se realizó una rotura intencionada en la parte inferior del desprendimiento descemético y mediante la introducción repetida de aire y suero salino balanceado en la cámara anterior fue drenándose tanto el viscoelástico como el hematoma a través de la apertura quirúrgica descemética. Posteriormente se inyectó SF6 para mantener aplicado el endotelio corneal.
+Una semana después de este procedimiento quedó completamente reaplicado el DMD, con pliegues radiados desde la zona afectada, pero con desaparición total del edema corneal, y recuperación de la AV a 0,8. Su PIO sin medicación fue de 16 mmHg.
+Responsable clínico: Dr. Roberto Gallego Pinazo Correo electrónico: robertogallego@comv.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="33" text="Celia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="46" end="61" text="Osores Gallardo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="68" end="75" text="6257833" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="83" end="97" text="73 46570347 35" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="110" end="126" text="C/ La Tablada, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="150" end="156" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="162" end="167" text="28042" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="211" end="221" text="27/10/1954" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="243" end="249" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="257" end="264" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="271" end="272" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="292" end="302" text="10/08/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="336" end="358" text="Roberto Gallego Pinazo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="366" end="377" text="28 28 57910" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <OTHER id="T4" start="409" end="414" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="418" end="425" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="3058" end="3080" text="Roberto Gallego Pinazo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3101" end="3123" text="robertogallego@comv.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

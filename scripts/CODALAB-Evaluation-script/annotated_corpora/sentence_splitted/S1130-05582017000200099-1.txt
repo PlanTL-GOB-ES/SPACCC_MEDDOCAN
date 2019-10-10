@@ -1,0 +1,16 @@
+Nombre:  Carolina.
+Apellidos: Fernandez Toledo.
+NHC: 4578123.
+NASS: 29 85647856 45.
+Domicilio: Calle Julio Vidal 19.
+Localidad/ Provincia: Alcalá de Henares.
+CP: 28002.
+Datos asistenciales.
+Fecha de nacimiento: 24/01/1995.
+País: España.
+Edad:  23 años Sexo: M.
+Fecha de Ingreso: 15/04/2018.
+Médico: Antonio Lemos Aguilar  NºCol: 28 28 56425.
+Informe clínico del Paciente: Paciente de sexo femenino, de 23 años de edad, no fumadora, sin antecedentes médico-quirúrgicos de relevancia ni alergias medicamentosas conocidas. Acudió a la consulta a causa de un aumento de volumen en la encía vestibular inferior, adyacente a orificio mentoniano izquierdo, de 2 meses de evolución, con crecimiento activo. No fue relacionado con causas traumáticas. Al examen clínico, se advirtió un nódulo de 0,5 cm de diámetro, de consistencia fibroelástica a la palpación, de coloración similar a la de la mucosa normal, parcialmente adherido a planos profundos e indoloro. En el estudio radiológico, no se observaron particularidades en la zona de la lesión.
+Bajo anestesia local, se realizó una biopsia escisional de la lesión. El estudio anatomopatológico reveló una proliferación de células fusiformes dispuestas en fascículos cortos arremolinados, con abundantes estructuras vasculares de apariencia mixomatosa, con aislados depósitos de colágeno y focos de infiltrado linfocitario con hematíes extravasados. Se efectuaron, asimismo, estudios inmunohistoquímicos que resultaron positivos para vimentina y actina muscular lisa y negativos para alk-protein 1, beta catenina, CD 34, desmina, S-100. La expresión de Ki67 fue de 5 a 6% de núcleos marcados. Este cuadro se corresponde con el diagnóstico de fascitis nodular. Se realizó un seguimiento de 18 meses, sin observarse recidiva.
+Remitido por: Antonio Lemos Aguilar. Centro de Salud Puerta de Madrid. Avda. del Ejército, 61. C.P. 28002. Alcalá de Henares. Madrid (España). Correo electrónico: antonio.aguilar@salud.madrid.org

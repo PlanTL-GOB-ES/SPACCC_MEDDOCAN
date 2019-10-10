@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Enrique.
+Apellidos: Ramos Rubio.
+NHC: 71375421.
+NASS:28 76426578 78.
+Domicilio: Carrer de Joan Alcover, 33 1H.
+Localidad/ Provincia: Palma de Mallorca.
+CP: 07004.
+Datos asistenciales.
+Fecha de nacimiento: 28/05/1948.
+País: España.
+Edad: 54 años Sexo: H.
+Fecha de Ingreso: 11/03/2003.
+Médico: Mar Crespí Monjo  NºCol:07 07 84265.
+Historia Actual: El paciente, un varón de 54 años sin alergias conocidas diagnosticado de adenocarcinoma gástrico, ingresa en noviembre de 2001 en el Servicio de Digestivo del Hospital Son Dureta donde se le practica una gastrectomía subtotal con reconstrucción del tránsito mediante gastroyeyunostomía Billroth II. Cinco días después de la intervención quirúrgica la situación clínica del paciente requiere la prescripción de nutrición artificial, iniciándose la administración de NPT por vía central. El preparado administrado es Kabimix® (ver composición detallada en tabla I), una dieta de 2.553 kilocalorías suplementada en el Servicio de Farmacia con un preparado multivitamínico (PMV) (Cernevit®) y oligoelementos (Addamel®) en régimen de días alternos. A las 48 horas de la instauración de la alimentación parenteral, se decide cambiar el tipo de dieta, a fin de administrar una fórmula más ajustada a los requerimientos nutricionales del paciente por lo que el paciente recibe la fórmula Kabiven® suplementada con los mismos PMV y oligoelementos en días alternos empezando por las vitaminas. A las 24 horas del inicio de la infusión de esta dieta, el paciente presenta una importante erupción cutánea pruriginosa diseminada que requiere la administración de dexclorfeniramina oral. Complicaciones mecánicas causan la pérdida de la vía central decidiéndose la retirada de la NPT e iniciándose la tolerancia oral. Al octavo día de la intervención quirúrgica el paciente refiere dolor abdominal intenso que obliga a una laparotomía exploratoria detectándose un absceso con colección biliar. Se reinicia la NPT administrando la dieta Kabiven® suplementada con el PMV citado. A las pocas horas del inicio de la infusión se produce un nuevo episodio de erupción cutánea pruriginosa diseminada que conlleva la suspensión definitiva de la NPT.
+En marzo de 2003 el paciente acude al servicio de urgencias del citado hospital por fiebre y dolor abdominal, siendo diagnosticado de colangitis e ingresado a cargo del Servicio de Digestivo. Junto al tratamiento antibiótico y analgésico se indica dieta absoluta y, debido al antecedente de hipersensibilidad, se evita la prescripción de NPT, administrándose una solución de aminoácidos y glucosa (Aminoven®, tabla III), sin que se observe eritema o el paciente refiera prurito. A las 48 horas se añade emulsión lipídica (Intralipid® 10%, tabla III) por vía central sin ninguna complicación. Se decide en esta ocasión no administrar al paciente el PMV ni los oligoelementos. Tras varios días de ingreso, se objetiva progresión del proceso neoformativo gástrico siendo el paciente dado de alta en abril de 2003.
+Remitido por: Dra. Mar Crespí Monjo Servicio de Farmacia Hospital Universitario Son Dureta Andrea Doria, 55 07014 Palma de Mallorca (Baleares) E-mail: rfarmacia@hsd.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T27" start="9" end="16" text="Enrique" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T26" start="29" end="40" text="Ramos Rubio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="47" end="55" text="71375421" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="62" end="76" text="28 76426578 78" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T23" start="89" end="118" text="Carrer de Joan Alcover, 33 1H" TYPE="CALLE" comment=""/>
+    <LOCATION id="T22" start="142" end="159" text="Palma de Mallorca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="165" end="170" text="07004" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T20" start="214" end="224" text="28/05/1948" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T19" start="232" end="238" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T18" start="246" end="253" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T17" start="260" end="261" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="281" end="291" text="11/03/2003" TYPE="FECHAS" comment=""/>
+    <NAME id="T15" start="301" end="317" text="Mar Crespí Monjo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T1" start="325" end="336" text="07 07 84265" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T14" start="371" end="376" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="380" end="387" text="54 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="464" end="481" text="noviembre de 2001" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="514" end="533" text="Hospital Son Dureta" TYPE="HOSPITAL" comment=""/>
+    <DATE id="T10" start="2186" end="2199" text="marzo de 2003" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="2979" end="2992" text="abril de 2003" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="3013" end="3029" text="Mar Crespí Monjo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3051" end="3084" text="Hospital Universitario Son Dureta" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="3085" end="3101" text="Andrea Doria, 55" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3102" end="3107" text="07014" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3108" end="3125" text="Palma de Mallorca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3127" end="3135" text="Baleares" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="3145" end="3161" text="rfarmacia@hsd.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

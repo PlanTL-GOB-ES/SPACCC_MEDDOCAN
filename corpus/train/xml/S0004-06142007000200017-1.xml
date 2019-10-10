@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Diego.
+Apellidos: Perez Mendieta.
+NHC: 9734586.
+Domicilio: Paseo de Juan Vidal, 13, 2A.
+Localidad/ Provincia: Madrid.
+CP: 49238.
+Datos asistenciales.
+Fecha de nacimiento: 15/08/1988.
+País: España.
+Edad: 29 años Sexo: H.
+Fecha de Ingreso: 27/07/2018.
+Servicio: Urologia.
+Médico: Jorge Planelles Gómez   NºCol:49 49 38492.
+Informe clínico del paciente: Paciente varón de 29 años. Es remitido a nuestro servicio para completar estudio porque, tras cuadro de aparición de tumoración indolora en su testículo izquierdo de un mes de evolución, se le detecta en la ecografía un testículo izquierdo hipogénico y disminuido de tamaño, y un testículo derecho con parénquima heterogéneo sospechoso de neoplasia.
+Diego No presenta otra sintomatología urológica, no astenia, no pérdida de peso. Tampoco tiene antecedentes personales de interés.
+En la exploración física se palpa un teste izquierdo hipotrófico, y un teste derecho algo aumentado de tamaño. Ambos no dolorosos, de consistencia normales y de superficie regulares. Epidídimos y cordones sin hallazgos patológicos.
+En las determinaciones analíticas destaca una hemostasia, bioquímica y hemograma dentro de los parámetros correspondientes a la normalidad, y una alfa-feto proteína de 2.7ng/ml con una beta-hCG de 4.2mUI/ml.
+Durante el ingreso se realiza nueva ecografía con flujo Doppler y se aprecia: un teste derecho de 49mm x 36mm x 26mm con lesión hipoecoica, de bordes lobulados, heterogénea, que ocupa prácticamente todo el testículo, y que presenta aumento del flujo Doppler. Y un teste izquierdo de 32mm x 22mm x 20mm hetrogéneo con lesión focal ligeramente hipoecoica de aproximadamente 9mm con sutil flujo Doppler. Además, microlitiasis testiculares bilaterales.
+Se le realizó también una Radiografía de tórax, en la que no se apreció ningún hallazgo patológico, y un TAC toraco-abdomino-pélvico con contraste, donde no se identificaron adenopatías ni metástasis en ninguno de los territorios visualizados.
+Con el diagnóstico de tumor testicular bilateral, se le realizó una orquiectomía bilateral vía inguinal y se la pautó tratamiento hormonal sustitutivo.
+En la anatomía patológica informan de: testículo izquierdo atrófico con múltiples focos microscópicos de seminoma clásico asociado a amplias áreas de neoplasia intratubular de células germinales (NICG) con ausencia de infiltración tumoral en albugínea, rete testis, epidídimo o infiltración vascular. El testículo derecho presenta tumoración con características de seminoma clásico que ocupa prácticamente todo el parénquima, asociado a focos de neoplasia intratubular de células germinales (NICG) y focos de atrofia en el testículo restante. Túnica albugínea, rete testis, epidídimo y borde quirúrgico libres de tumor.
+El tratamiento se completó con dos ciclos de quimioterapia con carboplatino según protocolo del hospital.
+Actualmente lleva más de tres años en remisión completa de la enfermedad.
+Remitido por: Jorge Planelles Gómez Servicio de Urología Hospital Universitario Doctor Peset Gaspar Aguilar 90 46017 Valencia. (España). jorge_planelles@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="29" end="34" text="Diego" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="47" end="61" text="Perez Mendieta" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="68" end="75" text="9734586" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="88" end="115" text="Paseo de Juan Vidal, 13, 2A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="139" end="145" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="151" end="156" text="49238" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="200" end="210" text="15/08/1988" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="218" end="224" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="232" end="239" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="246" end="247" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="267" end="277" text="27/07/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="307" end="328" text="Jorge Planelles Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="337" end="348" text="49 49 38492" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="389" end="394" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="398" end="405" text="29 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="730" end="735" text="Diego" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2960" end="2981" text="Jorge Planelles Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T2" start="3003" end="3038" text="Hospital Universitario Doctor Peset" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T1" start="3039" end="3056" text="Gaspar Aguilar 90" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="3057" end="3062" text="46017" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="3063" end="3071" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3074" end="3080" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="3083" end="3107" text="jorge_planelles@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

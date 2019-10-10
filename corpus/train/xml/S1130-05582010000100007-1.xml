@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Alberto.
+Apellidos: Aldehuela Gonzalez.
+NHC: 2300153.
+NASS: 67 34649278 50.
+Domicilio: Calle Patricio Andrade, 23.
+Localidad/ Provincia: Madrid.
+CP: 28019.
+Datos asistenciales .
+Fecha de nacimiento: 27/03/1952.
+País de nacimiento: España.
+Edad: 62 años Sexo: H.
+Fecha de Ingreso: 13/11/2014.
+Médico: Ignacio Sarra Dominguez NºCol: 28 28 23501.
+Informe clínico del paciente: Hombre de 62 años de edad, parcialmente desdentado y no portador de prótesis, fumador desde los 12 años (20 cigarrillos diarios). Consulta por una tumoración dolorosa de 5 x 3 cm en lengua de un mes de evolución y pérdida de peso de aproximadamente 6 kg en dos meses. El tumor se ubicaba en el borde libre derecho, extendiéndose hacia la base lingual. Presentaba una úlcera no relacionada con trauma crónico dentario ni protésico.
+Se tomó biopsia de la zona ulcerada y la histología planteó el diagnóstico diferencial entre carcinoma pseudosarcomatoso y sarcoma epitelioide-fusocelular.
+Al mes se evidenciaron metástasis pulmonares en la radiografía de tórax, imágenes osteolíticas en columna dorso-lumbar y dos nódulos subcutáneos en dorso. La biopsia de un nódulo dorsal informa el mismo diagnóstico que en lengua. No se realizó tratamiento y el paciente ingresó en Cuidados Paliativos y falleció 6 meses más tarde.
+Anatomía Patológica: biopsia de lengua (hematoxilinaeosina): proliferación neoplásica epitelioide y fusocelular infiltrante y ulcerada, con elevado índice mitótico. Plantea diagnóstico diferencial entre carcinoma pseudosarcomatoso y sarcoma epitelioide y fusocelular.
+Inmunohistoquímica: panqueratina negativo (AE1-AE3), vimentina positivo, desmina negativo (positivo en músculo no tumoral), CD34 negativo y actina positivo en componente fusocelular (control intrínseco positivo en vasos y músculo no invadido).
+Diagnóstico inmunohistoquímico: leiomiosarcoma infiltrante en lengua.
+Responsable clínico: Dr. Ignacio Sarra DominguezCorreo electrónico: lsarra@intramed.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="28" end="35" text="Alberto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="48" end="66" text="Aldehuela Gonzalez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="73" end="80" text="2300153" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="88" end="102" text="67 34649278 50" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="115" end="141" text="Calle Patricio Andrade, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="165" end="171" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="177" end="182" text="28019" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="227" end="237" text="27/03/1952" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="259" end="265" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="273" end="280" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="287" end="288" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="308" end="318" text="13/11/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="328" end="351" text="Ignacio Sarra Dominguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="359" end="370" text="28 28 23501" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="402" end="408" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="412" end="419" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T2" start="498" end="505" text="12 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="1927" end="1950" text="Ignacio Sarra Dominguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1970" end="1989" text="lsarra@intramed.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

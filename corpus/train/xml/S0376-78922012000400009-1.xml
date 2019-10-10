@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Francisco.
+Apellidos: Khan Castillo.
+NHC: 7456734.
+NASS: 23 47874560 11.
+Domicilio: C/ Montevideo, 2, 4 A.
+Localidad/ Provincia: Madrid.
+CP: 28001.
+Datos asistenciales.
+Fecha de nacimiento: 21/05/1983.
+País de nacimiento: España.
+Edad: 34 años Sexo: H.
+Fecha de Ingreso: 04/06/2017.
+Médico: Claudio Gustavo Conde Colpayo NºCol: 28 28 56791.
+Informe clínico del paciente: Paciente de 34 años de edad que consulta por deformidad peneana secundaria a tratamiento reiterado de engrosamiento. Refiere que en el término de 8 meses se sometió a 3 sesiones de transferencia grasa realizadas en su país por un profesional especializado. A los 4 meses de la última infiltración comenzó a presentar dolor espontáneo que se incrementaba durante la erección, lo que le imposibilitaba para realizar el coito.
+Al examen físico presenta un pene de tamaño exagerado dimensión horizontal (grosor), con irregularidades visibles que se comprueban a la palpación y que además resultan dolorosas. Se palpan tumores blandos y móviles de entre 1 y 3 cm. de diámetro.
+La exploración clínica y los antecedentes de inclusión de grasa que refiere el paciente nos orientan el diagnóstico y la etiología del problema. Solicitamos como estudio complementario una linfografia radioisotópica para descartar un posible linfedema. El informe nos dice que los vasos linfáticos y los ganglios regionales están indemnes (10,11).
+Tratamiento Quirúrgico
+Planificamos la extirpación de las tumoraciones que causan la deformidad. En ambiente quirúrgico y bajo anestesia general, colocamos una sonda vesical Foley no 16 con el objeto de tener control por el tacto del recorrido de la uretra y por tanto, también del cuerpo esponjoso que la aloja. Incidimos el pene en su línea media ventral y procedemos a disecar y extirpar cada una de los tumoraciones que se pudieron identificar, procurando no dañar las estructuras nobles del pene. Una vez lograda la resección completa de las tumoraciones, efectuamos una hemostasia cuidadosa y cerramos la incisión por planos teniendo en cuenta las distintas capas tegumentarias del pene. Dejamos drenaje. Al finalizar la intervención son visibles ya los cambios logrados.
+En el estudio anatomopatológico se constató que las lesiones estaban formadas por glóbulos de grasa y algunas presentaban en su interior focos de citoesteatonecrosis.
+Responsable clínico: Dr. Claudio Gustavo Conde Colpayo e-mail: drclaudioconde@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="28" end="37" text="Francisco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="50" end="63" text="Khan Castillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="70" end="77" text="7456734" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T14" start="85" end="99" text="23 47874560 11" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T13" start="112" end="133" text="C/ Montevideo, 2, 4 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T12" start="157" end="163" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T11" start="169" end="174" text="28001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="218" end="228" text="21/05/1983" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T9" start="250" end="256" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="264" end="271" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="278" end="279" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T6" start="299" end="309" text="04/06/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="319" end="348" text="Claudio Gustavo Conde Colpayo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="356" end="367" text="28 28 56791" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T3" start="411" end="418" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="2389" end="2418" text="Claudio Gustavo Conde Colpayo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2427" end="2453" text="drclaudioconde@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

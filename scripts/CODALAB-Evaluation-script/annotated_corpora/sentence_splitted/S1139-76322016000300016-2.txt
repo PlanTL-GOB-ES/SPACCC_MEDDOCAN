@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Héctor .
+Apellidos: Garrido Vidal.
+NHC: 9875321.
+Domicilio:  Calle de Josefa Valcárcel, 8.
+Localidad/ Provincia: Madrid.
+CP: 28027.
+Datos asistenciales.
+Fecha de nacimiento: 30/03/2017.
+País: España.
+Edad: 1 mes Sexo: Varón.
+Fecha de Ingreso: 29/05/2017.
+Servicio:Urgencias de Pediatría.
+Médico: Montserrat Montaño Fidalgo NºCol: 28 28 58912.
+Informe clínico del paciente: Lactante de 1 mes y 29 días, sin antecedentes de interés, que acude a Urgencias de Pediatría tras ingerir, 30 minutos antes, seis gotas de aceite de árbol del té. El producto fue administrado por sus padres Ana Jesus Vidal Sotillo y Nicolás Garrido Vadía, debido a un error al confundirlo con un envase de vitamina D. Tras la ingesta, el paciente se encontraba asintomático y a su llegada a Urgencias mostraba una exploración física y neurológica normal. Se contactó con el Centro Nacional de Toxicología que, como en el caso anterior, nos informó del riesgo de aparición de sintomatología gastrointestinal y neurológica, por lo que el paciente fue ingresado para su vigilancia clínica. La gasometría capilar inicial mostró una discreta acidosis respiratoria (pH 7,32, CO2 49 mmHg, HCO3 22 mmol/l), con normalización posterior. Fue dado de alta tras diez horas, permaneciendo asintomático en todo momento.
+Remitido por: Montserrat Montaño Fidalgo Centro de Psicología Álava Reyes c/ Arturo Soria, 329, 1.o F 28033 Madrid, Spain E-mail: mmontano@alavareyesconsultores.com

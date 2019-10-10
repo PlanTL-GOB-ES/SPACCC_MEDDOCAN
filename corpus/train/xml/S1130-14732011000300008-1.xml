@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Miguel.
+Apellidos: Araya Espinoza.
+NHC: 34879156/88.
+Domicilio: Av. Ruben Dario 1976, #4598 AD.
+Localidad/ Provincia: Concepción.
+Datos asistenciales.
+Fecha de nacimiento: 10/03/1940.
+País de nacimiento: Chile.
+Edad: 74 años Sexo: Masculino.
+Fecha de Ingreso: 12/11/2014.
+Médico: Pía Andrea Hermosilla González.
+Informe clínico del paciente: varón de 74 años de edad que había sido intervenido de un meningioma transicional (grado I de la OMS) parasagital frontal izquierdo. Un mes después de esta cirugía consultó por infección de la herida quirúrgica que presentaba una zona central dehiscente por la que salía material purulento. El paciente no había tenido fiebre, su estado general era bueno y presentaba una exploración neurológica normal. Una resonancia magnética (RM) realizada en ese momento mostró, adyacente a la zona de la craniectomía, una colección subdural hipodensa, con burbujas en su interior, que se realzaba periféricamente tras las administración de gadolinio. Se realizó reapertura de craneotomía, saliendo colección purulenta epidural que se evacuó y envió para estudio microbiológico. Se inició antibioterapia empírica con ceftazidima y vancomicina intravenosas. Los cultivos bacterianos fueron negativos. El paciente fue dado de alta con tratamiento oral con ciprofloxacino y cotrimoxazol durante dos semanas.
+Un mes y medio después del alta, el paciente fue llevado al servicio de urgencias por una crisis tónico-clónica generalizada. Había tenido febrícula los días previos sin otros datos clínicos de interés. A la exploración física presentaba buen estado general, estaba afebril, tenía un Glasgow de 15/15, no mostraba focalidad neurológica y la herida quirúrgica no presentaba datos de infección. Se inició tratamiento anticonvulsivante y se realizó una tomografía computarizada que puso de manifiesto una colección subdural de predominio hipodenso, con realce periférico tras administración de contraste y un margen interno convexo hacia el parénquima cerebral. Persistía aire en el interior de la colección.
+Se inició tratamiento antibiótico empírico con ceftazidima y vancomicina. Con la sospecha diagnóstica de recidiva de empiema subdural se realizó una tercera craniectomía que puso de manifiesto una colección subdural de aspecto purulento que se evacuó. Se enviaron muestras para microbiología del material drenado y de una pieza de craniectomía adyacente a la colección que se extirpó con fines terapéuticos por eventual infección y se embebió en caldo de tioglicolato para su procesamiento.
+A los 5 días de incubación se constató el crecimiento de Proprionibacterium acnes (P. acnes) tras subcultivo en medio sólido y en atmósfera de anaerobiosis del caldo de enriquecimiento. Se realizó antibiograma mediante E-test encontrándose resistencia a metronidazol y sensibilidad a penicilina, amoxicilina-clavulánico, ceftazidima, clindamicina y vancomicina. Se suspendió el tratamiento con vancomicina y ceftazidima iniciándose tratamiento con amoxicilina-clavulánico. La evolución del paciente fue buena y fue dado de alta con amoxicilina oral durante un mes y el diagnóstico de "recidiva de empiema subdural postquirúrgico por Propionibacterium acnés".
+Responsable clínico: Dra. Pía Andrea Hermosilla González. San Martin número 1436, Concepción-Chile E-mail: phermosilla@udec.cl
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="34" text="Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="47" end="61" text="Araya Espinoza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="68" end="79" text="34879156/88" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T15" start="92" end="122" text="Av. Ruben Dario 1976, #4598 AD" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="146" end="156" text="Concepción" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="200" end="210" text="10/03/1940" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="232" end="237" text="Chile" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="245" end="252" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="259" end="268" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="288" end="298" text="12/11/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="308" end="338" text="Pía Andrea Hermosilla González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="370" end="375" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="379" end="386" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="3245" end="3275" text="Pía Andrea Hermosilla González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="3277" end="3299" text="San Martin número 1436" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3301" end="3311" text="Concepción" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3312" end="3317" text="Chile" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3326" end="3345" text="phermosilla@udec.cl" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Manuel.
+Apellidos: Fernandez Garcia.
+NHC: 874136.
+NASS: 78 64154213 22.
+Domicilio: Calle Fray Luis de León, 20 7D.
+Localidad/ Provincia: León.
+CP: 24094.
+Datos asistenciales.
+Fecha de nacimiento: 24/04/1965.
+País: España.
+Edad: 60 años Sexo: H.
+Fecha de Ingreso: 25/07/2015.
+ServicIO: Endocrinología y Nutrición.
+Médico: Alicia Calleja Fernández NºCol:24 24 61574.
+Episodio del paciente:
+Se trata de un varón de 60 años con antecedentes personales de cardiopatía isquémica (sufrió un infarto agudo de miocardio en 2004) y es ex-fumador. El paciente no presentaba alergias conocidas a medicamentos ni a alimentos. En julio de 2008 fue diagnosticado de amiloidosis primaria y síndrome nefrótico. Al alta hospitalaria recibió unas recomendaciones nutricionales del servicio de Nefrología para realizar una dieta baja en sodio y grasa, así como para la exclusión de alimentos proteicos. Para ello el paciente debía cocer todos los alimentos, no utilizar sal de mesa, y no podía utilizar ninguna otra técnica culinaria (fritura, plancha, asado, microondas, etc.), así como no ingerir los segundos platos (carne, pescado y huevos). El tratamiento farmacológico que recibe en la actualidad es omeprazol, candesartán, enalapril, atorvastatina, ácido acetilsalicílico, ezetimibe, furosemida, barnidipino y espironolactona. Acude a la consulta de dietoterapia para pautar una dieta ajustada a sus necesidades nutricionales.
+En la consulta inicial se realizó una historia nutricional que incluyó una valoración antropométrica completa, bioquímica y análisis de la ingesta a través de una encuesta dietética de 3 días analizada con el programa Dietsource 3.0 ®Nestlé Healthcare Nutrition (Edición del 2005). Las características de la ingesta basal figuran en la tabla I, junto con las recomendaciones nutricionales para el paciente con síndrome nefrótico: dieta restrictiva en proteínas, sal y perfil lipídico rico en ácidos grasos monoinsaturados y poliinsaturados3. En la exploración inicial se obtuvieron los siguientes resultados:
+• Antropometría: peso 86,7 kg, talla 171 cm, IMC 29,65 kg/m2. La composición corporal se midió a través de impedancia bioeléctrica (TANITA TBF 300®): 56,1 litros de agua (64,7%), 76,6 kg de masa magra (88.4%) y 10,1 kg de masa grasa (11,6%). El paciente presentaba edemas con fóvea hasta las rodillas.
+• Analítica: Creatinina: 0,95 (valores normales 0,5-1,1) mg/dL, Filtrado Glomerular: > 60 ml/min/1,72 m2, P: 3,31 (valores normales 2,5-4,5) mg/dL, K: 4,23 (valores normales 3,6-5) mmol/L, Proteínas Totales: 3,8 (valores normales 6.2 - 8) gr/dL. Albúmina: 1.74 (valores normales 3,5-5) gr/dL y prealbúmina: 20 (valores normales 10-40) g/dL. Proteinuria: 14,55 g/24 h. Colesterol total: 180 (valores normales 100-200) mg/dL, Triglicéridos: 110 (valores normales 50-150) mg/dL, HDL: 44 mg/dL (valores normales 40-65), LDL: 68,8 mg/dL, Ácido úrico: 7,23 mg/dL (valores normales 2,4-7).
+Se elaboró una dieta acorde a las recomendaciones3, según las características del paciente, gustos, costumbres y horarios. Las características nutricionales de la dieta se recogen en la tabla I y la dieta calibrada para el paciente en la tabla II.
+Tras seis meses realizando la dieta el paciente presentó los siguientes datos:
+Antropometría: peso 79,4 kg, IMC 27,15 kg/m2. La composición corporal medida con la misma técnica que en la visita inicial indicó 46,5 litros de agua (58,6%), 63,5 kg de masa magra (80,0%) y 15,9 kg de masa grasa (20,0%). Los edemas habían disminuido y estaban presentes sólo en la zona perimaleolar.
+Analítica: Creatinina: 1,58 mg/100, Filtrado Glomerular: 48 ml/min/1,72 m2. P: 4,4 mg/dL y K: 5,37 mmol/L. Proteínas totales: 4,8 g/L, albúmina: 3,15 mg/dL y prealbúmina: 36,9 mg/dL. Proteinuria: 2.1 g/24 h. Colesterol total: 140 mg/dL, Triglicéridos: 88 mg/dL, HDL: 64 mg/dL, LDL: 58,4 mg/dL, Ácido úrico: 10,75 mg/dL.
+Adherencia a la dieta: La ingesta dietética se recogió en un recordatorio de 24 horas y se analizó con el mismo programa informático que en la visita inicial. Los datos figuran en la tabla I.
+En la actualidad el paciente continúa con la dieta pautada y sigue acudiendo a la consulta de dietoterapia bimensualmente.
+Remitido por: Alicia Calleja Fernández. Sección de Endocrinología y Nutrición. Complejo Asistencial de León. Altos de Nava, s/n. 24008 León, España. E-mail: calleja.alicia@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T27" start="9" end="15" text="Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T26" start="28" end="44" text="Fernandez Garcia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="51" end="57" text="874136" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="65" end="79" text="78 64154213 22" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T23" start="92" end="122" text="Calle Fray Luis de León, 20 7D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T22" start="146" end="150" text="León" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="156" end="161" text="24094" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T20" start="205" end="215" text="24/04/1965" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T19" start="223" end="229" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T18" start="237" end="244" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T17" start="251" end="252" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="272" end="282" text="25/07/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T15" start="330" end="354" text="Alicia Calleja Fernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T14" start="361" end="372" text="24 24 61574" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T13" start="412" end="417" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="421" end="428" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T2" start="523" end="527" text="2004" TYPE="FECHAS" comment=""/>
+    <DATE id="T11" start="625" end="638" text="julio de 2008" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T3" start="1657" end="1684" text="Nestlé Healthcare Nutrition" TYPE="INSTITUCION" comment=""/>
+    <DATE id="T10" start="1698" end="1702" text="2005" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="4194" end="4218" text="Alicia Calleja Fernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T1" start="4259" end="4287" text="Complejo Asistencial de León" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T8" start="4289" end="4307" text="Altos de Nava, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T7" start="4309" end="4314" text="24008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="4315" end="4319" text="León" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="4321" end="4327" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T4" start="4337" end="4361" text="calleja.alicia@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

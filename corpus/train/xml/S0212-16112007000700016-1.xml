@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Martin.
+Apellidos: Carreras Cuesta.
+NHC: 6345414.
+NASS: 78 94315795 81.
+Domicilio: Calle Acera del Darro 80, 4B.
+Localidad/ Provincia: Granada.
+CP: 18001.
+Datos asistenciales.
+Fecha de nacimiento: 19/09/1985.
+País: España.
+Edad: 32 años Sexo: H.
+Fecha de Ingreso: 02/12/2017.
+Episodio: 234456.
+Médico: Sara Leyva Martínez NºCol: 18 02 64813.
+Historia Actual: Varón de 32 años, sin antecedentes patológicos de interés y sin tratamientos previos, intervenido por desgarro de hilio esplénico, mesenterio de la raíz del yeyuno y arteria mesentérica superior (AMS) por traumatismo. Se realiza resección de colon derecho, íleon y 2/3 de yeyuno con yeyunostomía y esplenectomía. Tras el postoperatorio y sometido a NPT, se inicia tolerancia oral progresiva con infusiones azucaradas, caldos desgrasados, limonada alcalina (fórmula OMS) para introducir pequeñas y frecuentes tomas orales de fórmula enteral elemental (Elemental 0,28 Extra líquido®) y 3 tomas de 5 gramos de glutamina (Adamín G®) con la finalidad de estimular el trofismo y adaptación del enterocito.
+A los 6 meses se anastomosan los 12 cm de yeyuno con el colon izquierdo y se practica colecistectomía para evitar ulteriores diarreas coleréticas. A partir de este momento el objetivo consiste en mantener un estado nutricional estable, una diuresis superior al litro/día y el control de la diarrea, valorando los balances diarios y determinando dos veces por semana parámetros hematológicos y bioquímicos.
+Conducta nutricional
+Se estructura de la siguiente forma:
+a) Nutrición Parenteral: la NPT se sustituye por 2 litros de Isoplasmar G® con adición de una ampolla de 10 mEq de potasio/litro y el módulo de vitaminas (Addamel®) a días alternos con el módulo de oligoelementos (Cernevit®).
+b) Nutrición Enteral oral: intercalando con tomas de alimentos se mantienen 4-5 tomas de "Elemental 0,28 Extra Líquido" y 3 tomas de 5 g de "Adamín G®".
+c) Hidratación oral: se prodiga, a demanda y entre comidas, tomar "limonada alcalina".
+d) Alimentación: con criterio de progresividad, que comienza con alimentos de fácil digestibilidad y absorción y con menor estímulo secretor para continuar con los de mayor dificultad. De una dieta con Hidratos de Carbono (HC) simples y almidones cocinados se pasa a incluir, en función del ritmo, volumen y características de las heces, alimentos proteicos (lácteos desnatados, clara de huevo, pescado y carnes magras), y posteriormente el aceite de adición, para valorar luego la tolerancia a verduras y legumbres cocidas. En todo caso se disponen tomas pequeñas, frecuentes y de preparación sencilla.
+e) Medicación: para disminuir la secreción clorhidropéptica y el estímulo a la secreción de agua y bicarbonato pancreático se asocia omeprazol (40 mg/día) y para facilitar la digestibilidad de los alimentos naturales y su disponibilidad absortiva se asocian 2 cápsulas de enzimas pancreáticas (Kreón 10.000®) con la toma de alimentos.
+La aparición de distensión abdominal por la fermentación consecutiva al exceso de HC en la primera fase aceleró el paso a una alimentación normal muy fraccionada exenta de fritos, grasas animales y moderada de HC controlándose la aerocolia. A tres meses de la anastomosis yeyunocólica se mantiene estabilidad nutricional, diuresis y 4-6 deposiciones de consistencia líquido-pastosa. Es dado de alta hospitalaria con el tratamiento referido y con un reservorio para fluidoterapia nocturna de 1-2 litros de Isoplasmar G en función de la diuresis.
+Evaluado por la Unidad de trasplante intestinal del Hospital Ramón y Cajal de Madrid y a los 14 meses de iniciada la nutrición enteral, es desestimada la indicación de trasplante por el buen estado nutricional. Se suspende fluidoterapia manteniendo diuresis por encima a 1.200 mL/día, 3-5 deposiciones de consistencia pastosa o conformadas (según tipo de ingesta) y parámetros antropométricos y analíticos estables con hipolipemia. Destaca la rápida pérdida de 7-8 kg tras la retirada de la fluidoterapia estabilizándose finalmente entre 64 kg, para una talla de 175 cm y un peso habitual de 70 kg.
+Con autonomía propia mantiene una actividad física moderada. Sigue dieta libre en frecuente y pequeñas tomas, sólo limitada por intolerancias específicas, e ingiere con frecuencia bebidas mineralizadas. Se le ha prescrito: "Elemental 0,28 Extra Líquido" (800 kcal/día), 2 cápsulas de "Kreón 10.000®" con cada toma de alimentos, 2 comprimidos de "Supradyn®" (doble de RDA para micronutrientes) y 1.000 mcg de vitamina B12 im al mes. A lo largo de la evolución se detectó una depleción de la vitaminas D, B12 y ac. Fólico; que se corrigieron con la correspondiente dosis de choque.
+En las tablas I, II y III se registran las determinaciones analíticas de nutrientes practicadas durante el periodo entre los 6 meses después de la intervención a la última realizada, donde se observa un estado nutricional estable y progresivo dentro de la normalidad.
+Remitido por: Dra. Sara Leyva Martínez. Unidad de Nutrición Clínica y Dietética. Hospital Universitario "San Cecilio" de Granada. E-mail: ms.leyva.sspa@juntadeandalucia.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="15" text="Martin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="28" end="43" text="Carreras Cuesta" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="50" end="57" text="6345414" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="65" end="79" text="78 94315795 81" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="92" end="120" text="Calle Acera del Darro 80, 4B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="144" end="151" text="Granada" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="157" end="162" text="18001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="206" end="216" text="19/09/1985" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="224" end="230" text="España" TYPE="PAIS" comment=""/>
+    <LOCATION id="T14" start="238" end="245" text="32 años" TYPE="PAIS" comment=""/>
+    <OTHER id="T13" start="252" end="253" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="273" end="283" text="02/12/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T11" start="295" end="301" text="234456" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="311" end="330" text="Sara Leyva Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="338" end="349" text="18 02 64813" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="368" end="373" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="377" end="384" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T6" start="3534" end="3556" text="Hospital Ramón y Cajal" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3560" end="3566" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <NAME id="T4" start="4948" end="4967" text="Sara Leyva Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="5010" end="5046" text="Hospital Universitario &quot;San Cecilio&quot;" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T2" start="5050" end="5057" text="Granada" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="5070" end="5100" text="leyva.sspa@juntadeandalucia.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

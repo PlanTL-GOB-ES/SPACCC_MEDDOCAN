@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Pascual.
+Apellidos: Serrat Justo.
+NHC: 72839.
+NASS: 09 16457589 53.
+Domicilio: Av. de Levante 18. 1C.
+Localidad/ Provincia: Barcelona.
+CP: 08019.
+Datos asistenciales.
+Fecha de nacimiento: 15/01/1997.
+País: España.
+Edad: 21 años Sexo: H.
+Fecha de Ingreso: 13/05/2018.
+Médico: Fernando Hidalgo Méndez NºCol:08 28 96385.
+Informe Clínico: Varón homosexual de 21 años sin antecedentes patológicos de interés, que es remitido a la consulta de digestivo por cuadro de "prurito anal de 9 meses de evolución resistente a tratamiento habitual". En ese tiempo su médico le había pautado tratamiento local con varias cremas de corticoides y medidas higiénico-dietéticas sin mejoría. A la exploración anal se evidenció la presencia de una lesión pigmentada, de bordes ligeramente verrucosos, en la región perianal posterior. El tacto rectal y la anuscopia resultaron normales.
+Se realizó una biopsia cutánea cuyo estudio histológico informó de la presencia de hiperqueratosis y paraqueratosis con alteración de la maduración celular, que afectan a todo el espesor de la dermis. Todo ello compatible con una papilomatosis bowenoide (neoplasia intraepitelial anal grado 1). Los anticuerpos frente al virus de la inmunodeficiencia humana (VIH) fueron negativos y se descartaron otras inmunodeficiencias.
+Remitido por: Fernando Hidalgo Méndez Servicio de Diagnóstico por la Imagen. CAP El Serral. Ctra. Sant Boi, 59-61. C.P. 08620 Sant Vicenç dels Horts. Barcelona (España). Correo electrónico: 26415fhm@comb.cat
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="9" end="16" text="Pascual" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="29" end="41" text="Serrat Justo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="48" end="53" text="72839" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T1" start="61" end="75" text="09 16457589 53" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="88" end="109" text="Av. de Levante 18. 1C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="133" end="142" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="148" end="153" text="08019" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="197" end="207" text="15/01/1997" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="215" end="221" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="229" end="236" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="243" end="244" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="264" end="274" text="13/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="284" end="307" text="Fernando Hidalgo Méndez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="314" end="325" text="08 28 96385" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T13" start="344" end="349" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T2" start="350" end="360" text="homosexual" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T15" start="364" end="371" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T11" start="1311" end="1334" text="Fernando Hidalgo Méndez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T9" start="1374" end="1387" text="CAP El Serral" TYPE="CENTRO_SALUD" comment=""/>
+    <LOCATION id="T8" start="1389" end="1410" text="Ctra. Sant Boi, 59-61" TYPE="CALLE" comment=""/>
+    <LOCATION id="T7" start="1417" end="1422" text="08620" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="1423" end="1445" text="Sant Vicenç dels Horts" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="1447" end="1456" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1458" end="1464" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="1487" end="1504" text="26415fhm@comb.cat" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

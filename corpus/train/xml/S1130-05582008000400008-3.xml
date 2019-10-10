@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Pedro .
+Apellidos:Espinoza Campos.
+NHC: 2987562.
+Domicilio: Av Libertador Bernardo O'Higgins 816.
+Localidad/ Provincia: Santiago.
+CP: 7591538.
+Datos asistenciales.
+Fecha de nacimiento: 31/05/1972.
+País: Chile.
+Edad: 44  años Sexo: Hombre.
+Fecha de Ingreso: 08/12/2016.
+Médico: Luis Córdova Jara .
+Informe Clinico: Varón de 44 años ingresado por trauma facial. El estudio radiográfico reveló una gran lesión radiolúcida y una fractura del ángulo desplazada.
+Se realizó enucleación de la lesión, extracción de las raíces dentarias causantes y la reducción-osteosíntesis de la fractura con alambre intraóseo y mini placa con tornillos monocorticales.
+El estudio histológico del material enucleado, reveló un quiste radicular inflamatorio. La consolidación ósea fue observada radiográficamente dos meses después.
+Remitido por: Dr. Luis Córdova Jara. Facultad de Odontología. Universidad de Chile Calle Olivos 943, Independencia, Santiago de Chile. Email: luiscordovajara@vtr.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="9" end="14" text="Pedro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="27" end="42" text="Espinoza Campos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="49" end="56" text="2987562" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="69" end="105" text="Av Libertador Bernardo O'Higgins 816" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="129" end="137" text="Santiago" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="143" end="150" text="7591538" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="194" end="204" text="31/05/1972" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="212" end="217" text="Chile" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="225" end="233" text="44  años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="240" end="246" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="266" end="276" text="08/12/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="286" end="303" text="Luis Córdova Jara" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="323" end="328" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="332" end="339" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="836" end="853" text="Luis Córdova Jara" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="855" end="878" text="Facultad de Odontología" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="880" end="900" text="Universidad de Chile" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T4" start="901" end="917" text="Calle Olivos 943" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="919" end="932" text="Independencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="934" end="951" text="Santiago de Chile" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="960" end="983" text="luiscordovajara@vtr.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

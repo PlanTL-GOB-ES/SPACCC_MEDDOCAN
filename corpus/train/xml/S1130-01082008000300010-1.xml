@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Pedro.
+Apellidos: Mendez Andrade.
+NHC: 8495723.
+NASS: 38 74612746 03.
+Domicilio: C/ Antón Martin, 23, 6 A.
+Localidad/ Provincia: Valladolid.
+CP: 47010.
+Datos asistenciales.
+Fecha de nacimiento: 23/10/1971.
+País de nacimiento: España.
+Edad: 41 años Sexo: H.
+Fecha de Ingreso: 02/07/2013.
+Médico: Paula Gil Simón NºCol: 47 47 85203.
+Historia Actual: Varón de 41 años sin hábitos tóxicos y con antecedente de intolerancia a la lactosa, diagnosticado en 2003 de enfermedad de Crohn con patrón inflamatorio y afectación ileal, que debutó dos años antes con un episodio de uveítis. Actualmente en remisión clínica sin ningún tratamiento de mantenimiento.
+Presenta desde hace dos meses catarro de vías respiratorias altas, acompañado en los últimos días de tos, expectoración blanquecina y fiebre de 38 ºC. Diagnosticado inicialmente de neumonía basal derecha, recibió tratamiento con antibióticos y mucolíticos con escasa mejoría. Posteriormente presentó disnea, expectoración purulenta, astenia y pérdida de 8-10 kg. Tras no mejorar es remitido al hospital, ingresando en el servicio de neumología.
+Exploración física: En la exploración física destaca palidez de piel, Tª: 37,2 ºC y en la auscultación pulmonar crepitantes en base derecha.
+Pruebas complementarias: • Sistemático: VSG: 66 mm 1ª hora, leucocitos: 6.900/ul con fórmula normal, hematíes: 4.570.000/ul; Hb: 11,9 g/dl; Hto: 35,6%; plaquetas: 366.000/ul. Bioquímica: sin hallazgos significativos. Coagulación: normal. Sat O2: 95%.
+• Hemocultivos negativos para anaerobios y aerobios. Serología VIH: negativa. Bacteriología de esputo negativa. Ag bacterianos en orina: negativo para neumococo y legionella.
+• Rx de tórax al ingreso: infiltrados alveolares en base derecha y mínimos en base izquierda, que en controles radiológicos posteriores se hacen migratorios a segmento 6, afectando también a lóbulo medio derecho. Días más tarde se objetiva condensación en lóbulo superior derecho disminuyendo los infiltrados basales.
+• Espirometría: FVC: 2,52 l (56%); FEV1: 2,23 l (60%); FEV1/VC: 78%; MMEF25-75: 1,96 l (46%): insuficiencia ventilatoria no obstructiva.
+• TAC torácico: consolidación parenquimatosa extensa en lóbulo superior derecho; consolidación en resolución y pérdida de volumen en lóbulo medio derecho; consolidación en resolución parcial en lóbulo inferior derecho con imagen de infiltrado alveolar e imagen en resolución parcial en segmento posterior de lóbulo superior izquierdo.
+• Tras los resultados se realizó fibrobroncoscopia con lavado bronquioalveolar (BAL) y biopsia transbronquial (BTB): sin objetivarse lesiones endoluminales, ni alteración de la mucosa. Microbiología de BAL: flora normal de vías altas con cultivo de Legionella, Gram, BAAR y hongos negativo. BAL: 80 células/mm3, 65% macrófagos, 25% linfocitos (aumentado), 5% eosinófilos y 5% PMN. Poblaciones linfocitarias: cociente CD4/CD8: 0,87. Biopsia transbronquial: septos interalveolares ensanchados por inflamación crónica y fibrosis. Hiperplasia de células alveolares con descamación de neumocitos a la luz y exudado granular PAS negativo. Tejido de granulación mixoide que emerge de bronquios terminales hacia la luz. No lesiones granulomatosas ni membranas hialinas. Todo lo anterior es compatible con neumonía organizada con bronquiolitis obliterante.
+Se inició tratamiento con prednisona a dosis de 1 mg/kg/día cediendo la fiebre y con mejoría del resto de la sintomatología. Al mes y a los tres meses el paciente se encuentra asintomático y los controles radiológicos son normales.
+Responsable clínico: Dra. Paula Gil Simón. Servicio de Aparato Digestivo. Hospital Río Hortega. Rondilla de Santa Teresa, 9. 47010 Valladolid. e-mail: pg-paula@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="33" text="Pedro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="46" end="60" text="Mendez Andrade" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="67" end="74" text="8495723" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="82" end="96" text="38 74612746 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="109" end="133" text="C/ Antón Martin, 23, 6 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="157" end="167" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="173" end="178" text="47010" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="222" end="232" text="23/10/1971" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="254" end="260" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="268" end="275" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="282" end="283" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="303" end="313" text="02/07/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="323" end="338" text="Paula Gil Simón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="346" end="357" text="47 47 85203" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="376" end="381" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="385" end="392" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="478" end="482" text="2003" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="3585" end="3600" text="Paula Gil Simón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3633" end="3653" text="Hospital Río Hortega" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3655" end="3682" text="Rondilla de Santa Teresa, 9" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3684" end="3689" text="47010" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3690" end="3700" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3710" end="3730" text="pg-paula@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

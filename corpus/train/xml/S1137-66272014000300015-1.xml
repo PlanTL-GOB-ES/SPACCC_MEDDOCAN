@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Juana.
+Apellidos: Martinez Ramos.
+NHC: 4986734.
+NASS: 32 75643095 06.
+Domicilio: C/ Verona, 16, 1 D.
+Localidad/ Provincia: Tudela.
+CP: 31512.
+Datos asistenciales.
+Fecha de nacimiento: 24/06/1960.
+País: España.
+Edad: 57 años Sexo: M.
+Fecha de Ingreso: 22/12/2017.
+Servicio: Cirugia General.
+Médico: Aida Rico Arrastia NºCol: 31 31 52103.
+Informe clínico del paciente: Paciente mujer de 57 años, sin antecedentes médicos de interés, exfumadora desde hace 15 años, remitida de la Unidad de Detección Precoz de Cáncer de Mama por un nódulo de 3,5 cm en cuadrante infero-interno de mama izquierda, sin adenopatías axilares palpables. Se diagnostica mediante estudio con biopsia, RNM y ecografía axilar de carcinoma ductal infiltrante de mama izquierda con afectación axilar.
+Se instaura tratamiento neoadyuvante con pauta de quimioterapia estándar con FEC 75 (4 ciclos) seguida de docetaxel (4 ciclos). Tras el tratamiento se evidencia una ausencia de respuesta radiológica y se procede posteriormente a la intervención quirúrgica, realizándose una mastectomía izquierda y linfadenectomía de niveles I y II de Berg.
+El diagnóstico anatomopatológico definitivo es de carcinoma ductal infiltrante, grado III, de 2,6 cm, Her2-neu negativo. Receptores de estrógeno 98%. Progesterona 38%. P53 29%. Ki 67 35%. Her-2 0%. Queratina 56 positivo 1/3. EGFR negativo. E-Caderina positivo 3/3. Andrógeno negativo. BCL2 positivo 2/3. Se trata de un patrón luminal B-Ki67 con metástasis en 1/ 19 ganglios linfáticos.
+En el postoperatorio inmediato presenta leve hemorragia exteriorizada por el drenaje, llevándose a cabo tratamiento conservador. En el séptimo día postoperatorio se objetiva débito de 400 ml por el drenaje axilar, con aspecto lechoso, sugestivo de linforrea quilosa. Se confirma el líquido quiloso mediante estudio bioquímico (Triglicéridos: 800 mg/dl, colesterol total: 47 mg/dl).
+Se indica dieta con restricción de grasas, aconsejándose la ingestión de alimentos con triglicéridos de cadena media y administrándose, simultáneamente, somatostatina subcutánea cada 8 horas durante 10 días. Con estas medidas la cantidad y aspecto del drenaje axilar mejoraron y se normalizaron, permitiendo la retirada del mismo a los 20 días del postoperatorio. En los controles posteriores no se ha objetivado ninguna otra complicación, pasando la paciente a completar tratamiento oncológico. La paciente se encuentra asintomática y libre de enfermedad tras 37 meses de seguimiento.
+Remitido por: Dra. Aida Rico Arrastia Sección de Cirugía General Hospital Reina Sofía Ctra. Tarazona, km. 3 31500 Tudela E-mail: aida.rico.arrastia@cfnavarra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="33" text="Juana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="46" end="60" text="Martinez Ramos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="67" end="74" text="4986734" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="82" end="96" text="32 75643095 06" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="109" end="127" text="C/ Verona, 16, 1 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="151" end="157" text="Tudela" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="163" end="168" text="31512" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="212" end="222" text="24/06/1960" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="230" end="236" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="244" end="251" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="258" end="259" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="279" end="289" text="22/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="326" end="344" text="Aida Rico Arrastia" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="352" end="363" text="31 31 52103" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="404" end="409" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="413" end="420" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2512" end="2530" text="Aida Rico Arrastia" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2558" end="2578" text="Hospital Reina Sofía" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2579" end="2600" text="Ctra. Tarazona, km. 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2601" end="2606" text="31500" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2607" end="2613" text="Tudela" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2622" end="2653" text="aida.rico.arrastia@cfnavarra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

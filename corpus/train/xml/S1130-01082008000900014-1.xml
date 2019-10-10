@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Jaume.
+Apellidos: Marín Hernandez.
+NHC: 698485.
+NASS:98 03496587 13.
+Domicilio: Plaça Espanya, 6 3F.
+Localidad/ Provincia: Barcelona.
+CP: 08014.
+Datos asistenciales.
+Fecha de nacimiento: 15/04/1978.
+País: España.
+Edad: 41 años Sexo: H.
+Fecha de Ingreso: 18/05/2018.
+Médico: Xavier Pascual García NºCol: 08 08 65423.
+Informe clínico: Varón de 41 años diagnosticado de adenocarcinoma medianamente diferenciado implantado sobre esófago de Barrett de segmento corto, detectado en una endoscopia rutinaria realizada con motivo de una enfermedad por reflujo gastroesofágico de larga evolución.
+El paciente fue intervenido quirúrgicamente, realizándosele esofaguectomía total transhiatal con anastomosis cervical, creando un conducto gástrico tubulizado, asociada a vagotomía, sin piloroplastia. En el postoperatorio, el paciente presentó vómitos copiosos y persistentes que no mejoraron tras una semana de tratamiento conservador, incluyendo metoclopramida y eritromicina i.v.
+La endoscopia oral demostró abundante retención en el conducto gástrico y un píloro marcadamente estenosado. Se llevó a cabo una dilatación pilórica con balón de 18 mm (CRE™ Wireguided Balloon Dilator; Boston Scientific Corporation), pasando a continuación un gastroscopio de 10 mm de forma fácil por dicho canal. Sin embargo, después de unos días, el paciente no experimentó ninguna mejoría tras aquello. Un estudio baritado puso de manifiesto un stop casi completo y persistente en el píloro, permitiendo tan sólo un paso filiforme del contraste.
+Una semana después de la dilatación se llevó a cabo una nueva dilatación del píloro, en este caso forzada, con un balón de 35 mm (Rigiflex®; Microvasive, Boston Scientific, EE. UU.), previo consentimiento informado por parte del paciente. El procedimiento se realizó bajo sedación profunda, con anestesista, y con control endoscópico y fluoroscópico. Se progresó con el endoscopio hasta el duodeno descendente, dejando una guía radioopaca. El píloro se marcó por medio de inyecciones de contraste submucoso en varios puntos. Retirado el endoscopio, se avanzó el balón sobre la guía hasta que se posicionó correctamente, bajo control fluoroscópico. En ese punto, se hinchó el balón con aire a 300 mmHg, con control manométrico, a 300 mmHg durante dos minutos. Tras el procedimiento, el píloro quedó ampliamente dilatado. Después de la dilatación se realizó una radiología simple de abdomen y el paciente fue monitorizado para descartar signos y síntomas de perforación o sangrado. No se produjeron complicaciones. El paciente pudo tomar líquidos sin problemas a las 24 horas. En los días siguientes, la tolerancia oral progresiva fue satisfactoria. Un nuevo control radiológico con bario mostró buen paso de contraste a duodeno. El paciente fue dado de alta a los pocos días y se encuentra asintomático 3 meses después.
+Remitido por: Dr. D. Xavier Pascual García. Fundación Puigvert. Cartagena, 340-350 - 08025 Barcelona Tel.: 934 169 700 E-mail autor: pascualxavier2@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="9" end="14" text="Jaume" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="27" end="42" text="Marín Hernandez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="49" end="55" text="698485" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="62" end="76" text="98 03496587 13" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="89" end="108" text="Plaça Espanya, 6 3F" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="132" end="141" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="147" end="152" text="08014" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="196" end="206" text="15/04/1978" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="214" end="220" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="228" end="235" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="242" end="243" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="263" end="273" text="18/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="283" end="304" text="Xavier Pascual García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="312" end="323" text="08 08 65423" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T13" start="342" end="347" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T15" start="351" end="358" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T9" start="1182" end="1211" text="Boston Scientific Corporation" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T8" start="1683" end="1700" text="Boston Scientific" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T7" start="1702" end="1709" text="EE. UU." TYPE="PAIS" comment=""/>
+    <NAME id="T11" start="2869" end="2890" text="Xavier Pascual García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2892" end="2910" text="Fundación Puigvert" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="2912" end="2930" text="Cartagena, 340-350" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2933" end="2938" text="08025" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2939" end="2948" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2955" end="2966" text="934 169 700" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="2981" end="3007" text="pascualxavier2@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

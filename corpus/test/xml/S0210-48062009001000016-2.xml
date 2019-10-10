@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Antonio.
+Apellidos: Lopez Gomez.
+CIPA: nhc-79431562.
+NASS: 32 65474612 65.
+Domicilio: Avenida de los periodistas 66, 9B.
+Localidad/ Provincia: Madrid.
+CP: 28036.
+NHC: 79431562.
+Datos asistenciales.
+Fecha de nacimiento: 25/05/1942.
+País: España.
+Edad:  Sexo: .
+Fecha de Ingreso: 08/08/2017.
+Médico: Nerea Senarriaga Ruiz de la Illa  NºCol: 20 20 34913.
+Motivo de ingreso: El paciente se presenta debido a síntomas leves del tracto urinario inferior, se objetiva en una anterior radiografía simple de abdomen una imagen cálcica anular paravesical derecha pelviana.
+Antecedentes: hipertensión arterial e hiperplasia benigna de próstata.
+Pruebas complementarias: se realiza TC abdominal y se observa, en situación retrovesical, dos masas, una de 3 cm y otra de 1,5 cm de diámetro, de paredes calcificadas, compatible con quiste hidatídico retrovesical, sin otros hallazgos en el abdomen ni en la radiografía de tórax.
+Evolución y comentarios: El paciente, desde el comienzo, se ha encontrado asintomático, por lo que se han establecido controles periódicos mediante TC, y ha permanecido invariable con el paso del tiempo; persiste en la cavidad pelviana una masa de 2,5 cm de diámetro, heterogénea, que asienta por encima de la vesícula seminal izquierda, junto con otra similar algo más pequeña totalmente calcificada en su periferia en el lado derecho, en relación con su hidatidosis pelviana.
+Remitido por: Nerea Senarriaga Ruiz de la Illa. Hospital Universitario Donostia. Paseo Dr. Begiristain, s/n 20014 Donostia. Email: nerea.senarriagaruiz@osakidetza.net 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="9" end="16" text="Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="29" end="40" text="Lopez Gomez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="52" end="60" text="79431562" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="68" end="82" text="32 65474612 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="95" end="128" text="Avenida de los periodistas 66, 9B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="152" end="158" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="164" end="169" text="28036" TYPE="TERRITORIO" comment=""/>
+    <ID id="T12" start="176" end="184" text="79431562" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="228" end="238" text="25/05/1942" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="246" end="252" text="España" TYPE="PAIS" comment=""/>
+    <DATE id="T9" start="287" end="297" text="08/08/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="307" end="339" text="Nerea Senarriaga Ruiz de la Illa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="348" end="359" text="20 20 34913" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <NAME id="T6" start="1415" end="1447" text="Nerea Senarriaga Ruiz de la Illa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1449" end="1480" text="Hospital Universitario Donostia" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1482" end="1508" text="Paseo Dr. Begiristain, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1509" end="1514" text="20014" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1515" end="1523" text="Donostia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1532" end="1567" text="nerea.senarriagaruiz@osakidetza.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

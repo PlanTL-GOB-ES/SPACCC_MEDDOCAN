@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Carolina.
+Apellidos: Gaytan Ramirez.
+CIPA: nhc-743612.
+NASS: 36 71394325 11.
+Domicilio:  Calle Medellin 6, 3A.
+Localidad/ Provincia: Madrid.
+CP:28023.
+NHC: 743612.
+Datos asistenciales.
+Fecha de nacimiento: 17/03/1980.
+País: España.
+Edad: 37 años Sexo: M.
+Fecha de Ingreso: 15/08/2017.
+Especialidad: Nutrición.
+Médico: Cristina Cuerda  NºCol: 28 28 71320.
+Historia Actual: Mujer de 37 años diagnosticada de LAM en 2003 a raíz de hemoneumotórax derecho espontáneo que precisó cirugía con evacuación del hemotórax y resección de distrofia bullosa. Se realizó seguimiento ambulatorio sin incidencias hasta que en 2009 presentó ascitis quilosa y se detectó un gran linfangioma quístico retro-peritoneal en la tomografía axial computarizada (TAC) abdominal.
+En febrero de 2011 ingresó por cuadro de disnea de esfuerzo y derrame pleural derecho extenso. El líquido pleural presentaba características de quilotórax: pH 7,43; triglicéridos 1.216 mg/dl; colesterol 73 mg/dl, leucocitos 2.700 células/μl (mononucleares 92%), proteínas 4,5 g/dl, LDH 142 U/l. La paciente presentaba un peso de 57 kg, talla 169 cm, IMC: 19,2 y tenía valores de proteínas y linfocitos en sangre normales.
+Inicialmente se realizó tratamiento conservador con toracocentesis evacuadoras, dieta exenta de grasas y suplementos nutricionales orales (SNO) ricos en triglicéridos de cadena media (TCM). Tras una semana la paciente presentó empeoramiento respiratorio por lo que se colocó tubo de drenaje torácico derecho, obteniendo 2.000-4.000 ml/día de líquido pleural. Dado la cuantía del débito pleural se inició nutrición parenteral (NP) y se instauró tratamiento con octeótrido en dosis creciente hasta 100 μg/8 h, que se suspendió a los pocos días por intolerancia digestiva y alteración hidroelectrolítica severa.
+A pesar del reposo digestivo el derrame pleural aumentó haciéndose bilateral y precisando drenaje torácico bilateral. Se realizaron tres pleurodesis con talco que fueron parcialmente efectivas no permitiendo la retirada del drenaje.
+A pesar del tratamiento instaurado la paciente presentó un deterioro de su estado nutricional con pérdida de 5 kg de peso, hipoalbuminemia de 1,8 g/dl y linfopenia de 700 cél/μl.
+Durante el tratamiento con NP presentó infección asociada al catéter que obligó a la retirada de la vía central y suspensión de la misma. Se reintrodujo de forma progresiva la dieta oral exenta en grasas con SNO ricos en TCM. El débito de ambos drenajes torácicos fue disminuyendo progresivamente y tras dos meses y medio de ingreso la paciente fue dada de alta del hospital portando los dos tubos de drenaje torácico y realizando evacuaciones cada 3 días con un débito de 500 ml/día, con una albúmina de 2 g/dl y linfocitos 700 cél/μl.
+La evolución posterior fue buena pudiendo retirar los drenajes pleurales a los 4 y 6 meses del alta con una mejoría progresiva del estado nutricional de la paciente. En la actualidad persiste mínimo derrame pleural bilateral de predominio derecho que no se ha modificado en los últimos 4 meses, la paciente no tiene disnea de reposo aunque precisa oxigenoterapia domiciliaria y presenta un IMC de 18,7, con parámetros nutricionales normales.
+Remitido por: Dra.Cristina Cuerda. Unidad de Nutrición. Hospital General Universitario Gregorio Marañón. Madrid. España. E-mail: mcuerda.hgugm@salud.madrid.org
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="9" end="17" text="Carolina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="30" end="44" text="Gaytan Ramirez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="56" end="62" text="743612" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="70" end="84" text="36 71394325 11" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="98" end="118" text="Calle Medellin 6, 3A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="142" end="148" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="153" end="158" text="28023" TYPE="TERRITORIO" comment=""/>
+    <ID id="T18" start="165" end="171" text="743612" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="215" end="225" text="17/03/1980" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="233" end="239" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="247" end="254" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="261" end="262" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="282" end="292" text="15/08/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="327" end="342" text="Cristina Cuerda" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="351" end="362" text="28 28 71320" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="381" end="386" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="390" end="397" text="37 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="422" end="426" text="2003" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="618" end="622" text="2009" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="764" end="779" text="febrero de 2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="3201" end="3216" text="Cristina Cuerda" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="3239" end="3286" text="Hospital General Universitario Gregorio Marañón" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="3288" end="3294" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3296" end="3302" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3312" end="3342" text="mcuerda.hgugm@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

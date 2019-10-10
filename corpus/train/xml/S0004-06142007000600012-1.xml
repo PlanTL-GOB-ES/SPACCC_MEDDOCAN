@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre: Yefren .
+Apellidos: Rodriguez Mung.
+CIPA: 786142.
+NASS: 964573.
+Domicilio: M. Gonzalez 264 .
+Localidad/ Provincia: La Habana.
+CP: 10200.
+NHC: 786142.
+Datos asistenciales.
+Fecha de nacimiento: 04/04/1985.
+País: Cuba.
+Edad: 32 Sexo: H.
+Fecha de Ingreso:23/11/2017.
+Especialidad: Urología.
+Médico: Alberto Candebat Montero   NºCol: 7824.
+Motivo de ingreso:.
+Antecedentes: No refiere patologías asociadas
+Historia Actual: Paciente que acude a consulta por presentar desde hacía dos años aumento progresivo de los órganos genitales externos, trasudación de la linfa e impotencia sexual.
+Datos positivos al examen físico en el momento de su recepción:
+Exploración física: Edema marcado del pene y escroto con eritema y dolor. Adenopatías inguinales no dolorosas.
+Resumen de pruebas complementarias: Se le realizaron estudios complementarios para demostrar posible etiología: Hemograma completo: Cifras normales. Serología: No reactiva. Prueba de Mantoux: Negativa Proteinas totales y fraccionadas: Normales RX de cadera: Ausencia de lesión ósea. U/S abdominal: Psoas derecho engrosado de 48 mm TAC simple de hipogastrio y pelvis: Necrosis aséptica de la cabeza del fémur con hipertrofia del psoas a ese nivel.
+Se le realizaron diferentes procedimientos quirúrgicos: -Exploración retroperitoneal derecha. -Adenectomía de ilíaca derecha y cava. -Linfangioplastia con aguja. -Fasciotomía de la raíz del pene.
+Evolución y comentarios: Este paciente no presentó en momento alguno síntomas de quiluria, ni edema de los miembros inferiores, ni se le detectó varicocele o hidrocele.
+Con las manifestaciones clínicas, así como con los hallazgos encontrados y descartando otra posible causa del linfedema de pene y escroto en este paciente se diagnostica lo siguiente:
+-Linfedema primario inflamatorio local de pene y escroto.
+-Necosis aséptica de la cabeza del fémur.
+Se procede entonces a realizar valoración con un equipo multidisciplinario integrado por urólogos, angiológos y cirujanos plásticos. Se decide realizar linfangiectomía.
+Anatomía Quirúrgica
+Está distorsionada por la afección, que impide la normal evacuación de la linfa, debido a la distorsión y atrapamiento de los conductillos linfáticos a consecuencia del tejido conjuntivo fibroso aumentado y disminución de las fibras elásticas, imprescindibles en estos órganos, fundamentalmente a nivel peneano. La piel y dermis; el dartos, túnica muscular de fibras lisas (músculo peripeneal de Sappey), que contribuye con su contracción a comprimir los conductos venosos subyacentes en la erección; y la cubierta celulosa rica en fibras elásticas donde se sitúan los vasos linfáticos dilatados y venas, arterias y nervios superficiales, se encuentran formando un bloque difícil de distinguir en capas y que debe ser extirpado en su totalidad respetando la fascia penis delgada adherida a los órganos eréctiles, esponjosos y cavernosos que contienen la uretra y dorsalmente la arteria peneana. En las bolsas de las seis cubiertas que componen el recubrimiento de los testículos: el escroto, el dartos muscular, la celulosa, la fascia de Cooper, la segunda túnica muscular llamada eritroide, forman también un bloque que debe ser extirpado en su totalidad, dejando la capa vaginal que recubre los testículos, el paquete vasculo nervioso y el epidídimo.
+Remitido por: Alberto Candebat Montero. Servicio de Urología Hospital Provincial Universitario 'Saturnino Lara Torres' Santiago. (Cuba). lhcandebat@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="9" end="15" text="Yefren" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="29" end="43" text="Rodriguez Mung" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="51" end="57" text="786142" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T1" start="65" end="71" text="964573" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="84" end="99" text="M. Gonzalez 264" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="124" end="133" text="La Habana" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="139" end="144" text="10200" TYPE="TERRITORIO" comment=""/>
+    <ID id="T12" start="151" end="157" text="786142" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="201" end="211" text="04/04/1985" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="219" end="223" text="Cuba" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="231" end="233" text="32" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="240" end="241" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="260" end="270" text="23/11/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T16" start="304" end="328" text="Alberto Candebat Montero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="338" end="342" text="7824" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <NAME id="T5" start="3318" end="3342" text="Alberto Candebat Montero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T2" start="3365" end="3422" text="Hospital Provincial Universitario 'Saturnino Lara Torres'" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T15" start="3423" end="3431" text="Santiago" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3434" end="3438" text="Cuba" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="3441" end="3460" text="lhcandebat@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

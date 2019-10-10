@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Lucia.
+Apellidos: Juan Sevilla.
+NHC: 4789725.
+Domicilio: Calle de Sinesio Delgado 56, 7mo D.
+Localidad/ Provincia: Madrid.
+CP: 28029 .
+Datos asistenciales.
+Fecha de nacimiento:19/02/2009.
+País: España.
+Edad: 7 años Sexo: M.
+Fecha de Ingreso: 23/08/2016.
+Servicio: Urgencias.
+Episodio: 52344562.
+Médico: María del Pilar Martín-Tamayo Blázquez NºCol: 28 28 57496.
+Motivo de ingreso: ptosis palpebral.
+Historia Actual: niña de siete años que acude al Servicio de Urgencias por ptosis palpebral derecha y dolor periorbitario de 24 horas de evolución, que no cede con analgésicos habituales, encontrándose afebril, con nauseas y vómitos esporádicos y sin proceso infeccioso intercurrente.
+Antecedentes: La paciente no presentaba antecedentes personales ni familiares de interés, salvo un episodio similar al descrito en los dos años previos, con una duración de dos semanas, que cedió espontáneamente sin medicación. 
+Exploración física: En la exploración física se objetivaba una parálisis de la supraducción y de la aducción de la mirada del ojo derecho, con ptosis palpebral, sin afectación pupilar ni alteración de otros pares craneales. 
+Resumen de pruebas complementarias: Se realizó un hemograma y una bioquímica general, velocidad de sedimentación globular, proteína C reactiva, hemoglobina glicosilada, anticuerpos anti-ADN, anticuerpos antinucleares (ANA), anticuerpos extraíbles del núcleo (ENA), anticuerpos anticitoplasma de neutrófilos (ANCA), y resonancia magnética craneal, siendo todos los resultados normales. 
+Evolución y comentarios: Se diagnosticó síndrome de Tolosa-Hunt y se pautó tratamiento oral con prednisona 1 mg/kg/día durante cinco días. En las siguientes 48 horas se reevaluó a la paciente, que presentó una resolución completa de la oftalmoplejia y del dolor, con persistencia de ptosis palpebral leve, que se mantuvo durante los siguientes seis meses.
+Diagnóstico: síndrome de TH
+Remitido por: Dra. María del Pilar Martín-Tamayo Blázquez Email: mpmtamayo@hotmail.com Hospital Universitario La Paz Paseo de la Castellana, 261, 28046 Madrid
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="8" end="13" text="Lucia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="26" end="38" text="Juan Sevilla" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="45" end="52" text="4789725" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="65" end="99" text="Calle de Sinesio Delgado 56, 7mo D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="123" end="129" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="135" end="140" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="184" end="194" text="19/02/2009" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="202" end="208" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="216" end="222" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="229" end="230" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="250" end="260" text="23/08/2016" TYPE="FECHAS" comment=""/>
+    <ID id="T7" start="293" end="301" text="52344562" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T9" start="311" end="349" text="María del Pilar Martín-Tamayo Blázquez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="357" end="368" text="28 28 57496" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="424" end="428" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="432" end="442" text="siete años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1935" end="1973" text="María del Pilar Martín-Tamayo Blázquez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T5" start="1981" end="2002" text="mpmtamayo@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T4" start="2003" end="2032" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="2033" end="2060" text="Paseo de la Castellana, 261" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="2062" end="2067" text="28046" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2068" end="2074" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

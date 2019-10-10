@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Guillermo.
+Apellidos: Pelaez Sanchez.
+NHC: 87054367.
+Domicilio: Calle de Costa Rixa, 24, 3, D.
+Localidad/ Provincia: Valencia.
+CP: 46022.
+Datos asistenciales.
+Fecha de nacimiento: 20/09/2005.
+País: España.
+Edad: 12 años Sexo: H.
+Fecha de Ingreso: 03/05/2018.
+Médico: Maria Mercedes Mingarro Castillo. NºCol: 46 28 69810.
+Informe clínico del paciente: paciente varón de 12 años de edad fruto de un parto a término con uso de fórceps por dilatación estacionaria. El Apgar y resto de exploraciones postparto fueron normales. Se indicó reposo durante el último trimestre de embarazo por amenaza de parto. Durante el periodo postnatal presentó retraso en el desarrollo psicomotor. A los 3 años presentó crisis de ausencias sin crisis epilépticas posteriores ni necesidad de tratamiento. Actualmente presenta retraso mental moderado, dificultades en el aprendizaje, alteraciones conductuales severas en el espectro del autismo, déficit en el control de esfínteres y trastorno de hiperactividad con déficit de atención, tratado primero con metilfenidato sin mejoría y, posteriormente y hasta la actualidad, con antioxidantes y mejoría del trastorno. Además presenta ansiedad social y fobias extremas a ruidos y animales, hipersensibilidad a sonidos, texturas y ciertos alimentos, así como dificultades en la masticación y vómitos secundarios, hipotonía generalizada, articulaciones laxas, pies valgos que han precisado intervención quirúrgica, y una importante alteración del sueño tratada con melatonina. No presenta alteraciones cardiológicas, ni disautonómicas, ni rasgos faciales característicos.
+El paciente posee un hermano mayor sano, pero tiene un primo segundo por la rama materna de 33 años de edad diagnosticado a los 13 años de SXF tras estudio genético. En aquel momento toda la rama familiar materna fue estudiada genéticamente y se comunicó oralmente, sin informe escrito, que tanto la madre del paciente caso como las hermanas de ésta eran portadoras sanas. Esta condición no fue suficientemente valorada por la familia ante sucesivos hijos sanos de las hermanas y el hermano sano del paciente caso. La madre del paciente caso no recibió consejo genético ni indicaciones de diagnóstico prenatal en ninguno de sus dos embarazos. Únicamente y a petición de la misma se realizó análisis genético en el periodo postnatal en ambos casos. El paciente requiere revisiones constantes cada 6 meses en nuestro centro de salud, debera llamar para pedir cita al teléno 912 53 25 20
+Remitido por: Dra. Maria Mercedes Mingarro Castillo. C/ Santos Justo y Pastor 144, P. 9, Esc. B. C.P. 46022 - Valencia (España). Correo electrónico: merchemingarro@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T31" start="28" end="37" text="Guillermo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T30" start="50" end="64" text="Pelaez Sanchez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T29" start="71" end="79" text="87054367" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T28" start="92" end="121" text="Calle de Costa Rixa, 24, 3, D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T27" start="145" end="153" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T26" start="159" end="164" text="46022" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T24" start="208" end="218" text="20/09/2005" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T25" start="226" end="232" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T22" start="240" end="247" text="12 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T20" start="254" end="255" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T23" start="275" end="285" text="03/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T18" start="295" end="327" text="Maria Mercedes Mingarro Castillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T16" start="336" end="347" text="46 28 69810" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T19" start="388" end="393" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T21" start="397" end="404" text="12 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="1643" end="1656" text="hermano mayor" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="1677" end="1721" text="primo segundo por la rama materna de 33 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="1818" end="1834" text="familiar materna" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="1922" end="1927" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="1955" end="1971" text="hermanas de ésta" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="2049" end="2056" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="2072" end="2099" text="hijos sanos de las hermanas" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="2105" end="2112" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="2140" end="2145" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <CONTACT id="T8" start="2494" end="2506" text="912 53 25 20" TYPE="NUMERO_TELEFONO" comment=""/>
+    <NAME id="T17" start="2526" end="2558" text="Maria Mercedes Mingarro Castillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2560" end="2602" text="C/ Santos Justo y Pastor 144, P. 9, Esc. B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="2609" end="2614" text="46022" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2617" end="2625" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2627" end="2633" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="2656" end="2679" text="merchemingarro@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

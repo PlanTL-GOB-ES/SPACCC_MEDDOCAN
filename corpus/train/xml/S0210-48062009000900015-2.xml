@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: David.
+Apellidos: Vicente Garcia.
+NHC: 4389572.
+NASS: 47 56276575 16.
+Domicilio: C/ Berrocal, 14.
+Localidad/ Provincia: Madrid.
+CP: 28030.
+Datos asistenciales.
+Fecha de nacimiento: 15/06/1963.
+País de nacimiento: España.
+Edad: 48 años Sexo: H.
+Fecha de Ingreso: 28/12/2011.
+Médico: Antonio García Morúa NºCol: 28 28 54712.
+Historia Actual: Paciente varón de 48 años de edad, con antecedente de diabetes mellitus tipo 2, hipertensión arterial sistémica e hipotiroidismo, diagnosticados 8 años atrás, con inadecuado control, así como insuficiencia renal crónica de 2 años de evolución, tratada con hemodiálisis.
+Acudió por un cuadro de dos semanas de evolución caracterizado por dolor en el glande y síntomas urinarios irritativos; una semana después refirió hipocromía en el glande, así como sensación de anestesia local, y se agregó una lesión violácea en la cara dorsal del glande, que se extendía y se acompañaba de una secreción purulenta, por lo que acudió a nuestro servicio.
+Exploración física: En la exploración física se apreciaba: presencia de glande hipocrómico, hipotérmico con área de necrosis en el dorso, acompañada de leve secreción purulenta y fétida.
+Pruebas complementarias: La biometría hemática informó: hemoglobina 8,02 g/dl, leucocitos 8.060, plaquetas 355.000; química sanguínea: glucosa 277 mg/dl,creatinina 5,5 mg/dl,BUN 90,1 mg/dl; pruebas de función hepática: TGO 48, TGP 32, fosfatasa alcalina 332, DHL 232; electrolitos séricos: sodio 128,8 mmol/l, potasio 6,28 mmol/l, cloro 96,4 mmol/l, calcio 7,92 mmol/l y fósforo 7,36 mmol/l.
+Se lo sometió a falectomía parcial, sin complicaciones.
+El análisis patológico informó: necrosis y proceso inflamatorio agudo y crónico, con absceso y ulcerado, con arterioesclerosis obliterante.
+Actualmente el paciente está en vigilancia.
+Responsable clínico: Dr: Antonio García Morúa Correo electrónico: dr.morua@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="33" text="David" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="46" end="60" text="Vicente Garcia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="67" end="74" text="4389572" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="82" end="96" text="47 56276575 16" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="109" end="124" text="C/ Berrocal, 14" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="148" end="154" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="160" end="165" text="28030" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="209" end="219" text="15/06/1963" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T1" start="241" end="247" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="255" end="262" text="48 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="269" end="270" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="290" end="300" text="28/12/2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="310" end="330" text="Antonio García Morúa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="338" end="349" text="28 28 54712" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="377" end="382" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T4" start="386" end="393" text="48 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="1853" end="1873" text="Antonio García Morúa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T2" start="1894" end="1914" text="dr.morua@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

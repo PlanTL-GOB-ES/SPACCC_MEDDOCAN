@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Roberto.
+Apellidos: Garcia de Jaime.
+NHC: 2987542.
+NASS: 47 20939857 30.
+Domicilio: Av. Arteixo, 72.
+Localidad/ Provincia: A Coruña.
+CP: 15142.
+Datos asistenciales.
+Fecha de nacimiento: 21/09/1949.
+País: España.
+Edad: 68 años Sexo: H.
+Fecha de Ingreso: 25/05/2018.
+Servicio: Digestivo.
+Episodio:437854.
+Médico: Eduardo Valdivielso Cortázar   NºCol: 15 15 47866.
+Informe clínico del paciente: varón de 68 años, sin antecedentes de interés y asintomático desde el punto de vista digestivo. Es remitido a consultas externas de Digestivo por presentar anemia normocítica y test de sangre oculta en heces (TSOH) positivo. El resto de la analítica sanguínea, así como la exploración física, no mostraban hallazgos de interés. Se realizó una colonoscopia en la que se apreciaba una lesión ulcerada a nivel de ciego, enfrentada a la válvula ileocecal, compatible con neoplasia maligna, de la que se tomaron múltiples biopsias. Éstas mostraban tejido ulcerado sin apreciarse células tumorales. Ante la sospecha diagnóstica se completó el estudio mediante un TAC, que mostraba engrosamiento en la pared de ciego y colon ascendente sin datos de afectación ganglionar ni a distancia. Los marcadores tumorales eran normales. Dada la negatividad encontrada en las muestras, se decidió repetir la colonoscopia, tomándose de nuevo biopsias, que también fueron negativas para malignidad. Se revisaron las biopsias que se tomaron en la primera colonoscopia, apreciándose granulomas con presencia de células gigantes multinucleadas y bacilos de micobacterias con tinción de Ziehl Nielsen.
+El paciente fue remitido a consultas externas de Neumología, aunque no presentaba síntomas respiratorios. El test de Mantoux fue negativo, pero el Quantiferón® fue positivo (valor: 5,12). La radiografía de tórax mostraba un infiltrado reticulonodular en ambos campos superiores. Se recogieron esputos, que no eran bacilíferos, y se enviaron muestras para cultivo, que fueron negativos. Asimismo, la PCR de las muestras de colon fue también negativa. Se instauró tratamiento antituberculoso estándar con buena evolución clínica. A los 6 meses de finalizar el tratamiento se realizó una colonoscopia de control que fue normal.
+Remitido por: Eduardo Valdivielso Cortázar. Complejo Hospitalario Universitario de A Coruña Servicio de Digestivo C/ As Xubias, 84 15006 A Coruña E-mail: eduardovaldi@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="16" text="Roberto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="29" end="44" text="Garcia de Jaime" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="51" end="58" text="2987542" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="66" end="80" text="47 20939857 30" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="93" end="108" text="Av. Arteixo, 72" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="132" end="140" text="A Coruña" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="146" end="151" text="15142" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="195" end="205" text="21/09/1949" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="213" end="219" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="227" end="234" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="241" end="242" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="262" end="272" text="25/05/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T7" start="304" end="310" text="437854" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T9" start="320" end="348" text="Eduardo Valdivielso Cortázar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="358" end="369" text="15 15 47866" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="401" end="406" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="410" end="417" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2218" end="2246" text="Eduardo Valdivielso Cortázar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2248" end="2295" text="Complejo Hospitalario Universitario de A Coruña" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2318" end="2334" text="C/ As Xubias, 84" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2335" end="2340" text="15006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2341" end="2349" text="A Coruña" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2358" end="2382" text="eduardovaldi@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

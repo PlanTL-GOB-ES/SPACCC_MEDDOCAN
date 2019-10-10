@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Marina.
+Apellidos: Gomez Garcia.
+NHC: 4579.
+NASS: 34 78034596 54.
+Domicilio: Calle sinesio delgado 63, 1B.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 10/10/1963.
+País: España.
+Edad: 52 años Sexo: M.
+Fecha de Ingreso: 21/11/2015.
+Servicio: Oftalmologia.
+Médico: Manuel Albert Fontana NºCol: 28 08 97456.
+Historia del paciente: Mujer de 52 años con AR seropositiva erosiva, títulos altos de factor reumatoide y anticuerpos antipéptido cíclico citrulinado (anti-CCP) de 12 años de evolución, con fallo secundario a infliximab y adalimumab. Presenta ojo rojo, dolor y fotofobia. Exploración: infiltrado corneal periférico en semiluna asociado a escleritis. Cultivo del raspado corneal negativo. Iniciamos tratamiento con prednisona 1mg/kg/día vía oral y decidimos cambio de diana terapéutica a rituximab a dosis habitual en AR con metotrexato 25mg/semana. Tras el primer ciclo de rituximab la paciente experimentó gran mejoría con curación de la QUP y entró en remisión clínica de la AR. A los 10 meses apareció de nuevo un infiltrado corneal y escleritis leve e inicio de clínica articular. Decidimos mantener tratamiento con rituximab i.v. en pauta de AR cada 8 meses con buen control clínico tanto de su cuadro ocular como sistémico.
+Remitido por: Manuel Albert Fontana Email: albert_marfon@gva.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="9" end="15" text="Marina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="28" end="40" text="Gomez Garcia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="47" end="51" text="4579" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="59" end="73" text="34 78034596 54" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="86" end="114" text="Calle sinesio delgado 63, 1B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="138" end="144" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="150" end="155" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="199" end="209" text="10/10/1963" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="217" end="223" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="231" end="238" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="245" end="246" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="266" end="276" text="21/11/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="310" end="331" text="Manuel Albert Fontana" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="339" end="350" text="28 08 97456" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <NAME id="T4" start="375" end="380" text="Mujer" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T3" start="384" end="391" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="1296" end="1317" text="Manuel Albert Fontana" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1325" end="1345" text="albert_marfon@gva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

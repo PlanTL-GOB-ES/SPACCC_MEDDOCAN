@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Victor.
+Apellidos: Aloso Herrero.
+NHC: 8973472.
+Domicilio: Paseo de Delicias, 34.
+Localidad/ Provincia: Madrid.
+CP: 28032.
+Datos asistenciales.
+Fecha de nacimiento: 21/05/2008.
+País: España.
+Edad: 7 años Sexo: H.
+Fecha de Ingreso: 22/08/2015.
+Médico: Francisco Javier Pérez-Lescure Picarzo  NºCol: 28 28 62301.
+Informe clínico del paciente: Niño de siete años que acude a la consulta de Pediatría de Atención Primaria por presentar, 30 minutos antes y mientras caminaba, una sensación de palpitaciones de inicio brusco, sin dolor torácico o disnea acompañante. No había realizado ejercicio previamente. Sin antecedentes personales de cardiopatía, ni antecedentes familiares de enfermedades cardiacas o muerte súbita.
+A su llegada al centro de salud, el paciente se encuentra consciente y orientado, sin signos de dificultad respiratoria. La auscultación cardiaca muestra tonos rítmicos a 170-180 latidos por minuto (lpm), sin soplos. Los pulsos periféricos son rítmicos y simétricos. Buen relleno capilar. Tensión arterial (TA) sistólica: 90 mmHg, percentil 31 (P31), diastólica: 65 mmHg (P76).
+Se realiza un electrocardiograma (ECG). En la Fig. 2 se muestra la medición de la anchura del complejo QRS.
+Ante los hallazgos electrocardiográficos de taquicardia de QRS ancho sin repercusión hemodinámica, su pediatra inicia perfusión de amiodarona (5 mg/kg, vía intravenosa [IV]), y remite al paciente al hospital mediante trasporte sanitario medicalizado.
+A su llegada al Servicio de Urgencias Pediátricas, el paciente estaba asintomático salvo por la sensación de palpitaciones. La exploración física fue la siguiente: peso 22,5 kg (P21), talla 119,5 cm (P14), TA sistólica 88 mmHg (P25) y diastólica 63 (P71). Consciente y orientado. Buena perfusión. Auscultación cardiaca con taquicardia sin soplos. Pulsos periféricos normales. Resto normal.
+Tras el análisis del ECG, se considera la posibilidad de una taquicardia supraventricular (TSV) conducida con aberrancia, por lo que se decide intentar revertir la taquicardia con maniobras vagales (reflejo de náusea, frío en la cara), sin éxito, por lo que se administra un bolo de adenosina a 0,1 mg/kg IV saliendo a ritmo sinusal. Se realiza un ECG basal, que no muestra alteraciones. La analítica sanguínea mostró iones y enzimas miocárdicas dentro del rango de la normalidad.
+El paciente fue ingresado durante 24 horas para observación, sin presentar nuevos episodios, se realizó un ecocardiograma que resultó normal y fue dado de alta con posterior seguimiento en consultas de Cardiología, con diagnóstico de TSV paroxística con conducción aberrante.
+Remitido por: Francisco Javier Pérez-Lescure Picarzo jplescure@fhalcorcon.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="29" end="35" text="Victor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="48" end="61" text="Aloso Herrero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="68" end="75" text="8973472" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T14" start="88" end="109" text="Paseo de Delicias, 34" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="133" end="139" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="145" end="150" text="28032" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="194" end="204" text="21/05/2008" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="212" end="218" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="226" end="232" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="239" end="240" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="260" end="270" text="22/08/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="280" end="318" text="Francisco Javier Pérez-Lescure Picarzo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="327" end="338" text="28 28 62301" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T2" start="370" end="374" text="Niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="378" end="388" text="siete años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="2644" end="2682" text="Francisco Javier Pérez-Lescure Picarzo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2683" end="2706" text="jplescure@fhalcorcon.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

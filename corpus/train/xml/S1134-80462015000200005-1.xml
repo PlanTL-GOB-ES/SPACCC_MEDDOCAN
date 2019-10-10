@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Lucas .
+Apellidos:San Martin Ramon.
+NHC: 39574.
+NASS: 47 24876134 13.
+Domicilio: Calle la Montera 19, 5 Der..
+Localidad/ Provincia: Madrid.
+CP: 28047.
+Datos asistenciales.
+Fecha de nacimiento: 28/02/1985.
+País: España.
+Edad: 32 años Sexo: H.
+Fecha de Ingreso:04/07/2017.
+Servicio: Anestesiología, Reanimación y Terapéutica del Dolor.
+Médico: Ricardo Navarro Suay NºCol: 28 28 45126.
+Historia Actual: varón, de 32 años (78 kg, 179 cm), sin alergias medicamentosas, con antecedentes de herniorrafia inguinal y sin ningún tratamiento, militar, que durante su jornada laboral sufrió un aplastamiento tras caída inesperada de una estructura metálica de aproximadamente 1.500 kg. Fue evacuado en ambulancia terrestre con capacidad de soporte vital avanzado hasta el Hospital Universitario Central de la Defensa "Gómez Ulla" sin pérdida de consciencia y con estabilidad tanto respiratoria como hemodinámica.
+En el Servicio de Urgencias se procedió a la valoración secundaria, a la extracción de una muestra sanguínea (destacó CPK 2.295 U/l y mioglobina 469 ng/ml con resto de parámetros de hemograma, bioquímica y hemostasia dentro de la normalidad), a la realización de radiografía de tórax compatible con contusión pulmonar leve sin fracturas costales de pelvis y TAC cervical y abdominopélvico en los que se evidenció fractura de la rama isquiopubiana izquierda sin desplazamiento, diástasis de 10 mm en la porción superior de la articulación sacroiliaca derecha con pequeña avulsión ósea del borde iliaco superomedial, y disminución del grosor de los espacios intersomáticos en L4-L5 y en L5-S1 acompañado de pequeña prominencia discal difusa en L4-L5.
+Evolución: Siendo diagnosticado como policontusionado, ingresó en la Unidad de Cuidados Intensivos con GCS de 15 puntos, pupilas reactivas simétricas, sin focalidad neurológica, con buena dinámica respiratoria, saturación de oxígeno dentro de la normalidad, perfundido, normotenso y normocárdico, sin signos de irritación peritoneal y ausencia de hematuria macroscópica por lo que a las 24 horas se decidió su alta a sala de hospitalización.
+En planta hospitalaria el paciente evolucionó satisfactoriamente siendo reseñable la analítica sanguínea del sexto día de ingreso ya que apareció una elevación de enzimas hepáticas (GOT 134 U/l, GPT 91 U/l, BT 1,2 mg/dl, BD 0,5 mg/dl) que fue diagnosticado por el Servicio de Gastroenterología de probable hepatopatía aguda tóxica sin fallo hepático no acompañado de hepatomegalia ni de ictericia.
+A los 15 días de sufrir el accidente y tras la mejora clínica y la recuperación de la normalidad en los valores analíticos, el paciente fue dado de alta del hospital recomendando revisiones periódicas a cargo del Servicio de Traumatología.
+Durante su ingreso el enfermo presentó dolor de intensidad variable (EVA 2/10, 3/10, 7/10 y 1/10 durante su estancia en Urgencias, UCI, Sala de Hospitalización y al alta, respectivamente), de características punzantes, localizado en la región torácica derecha, pelvis derecha y glútea, no irradiado, que se incrementaba con la sedestación y disminuía en decúbito supino sin provocar sintomatología vegetativa. Concilió el sueño de forma satisfactoria y durmió sin interrupción aproximadamente 8 horas al día. Presentó ligera distimia probablemente por no poder estar con su familia que vivía en Colombia.
+El tratamiento analgésico administrado durante la evacuación hasta el hospital fue: fentanilo 100 µg, en la UCI: paracetamol 1 g/8 h i.v. y dexketoprofeno-trometamol 50 mg/8 h i.v., durante los 6 primeros días en sala de hospitalización: paracetamol 1 g/8 h v.o. y dexketoprofeno-trometamol 50 mg/8 h v.o. y finalmente hasta el alta: se administró dexketoprofeno-trometamol 50mg/8 h v.o. y fentanilo 400 µg transmucoso 30 minutos antes de realizar cualquier movimiento potencialmente doloroso (ducharse, realización de radiografía en bipedestación.
+Remitido por: Ricardo Navarro Suay. Servicio de Anestesiología, Reanimación y Terapéutica del Dolor Hospital Universitario Central de la Defensa "Gómez Ulla" Glorieta del Ejército, 1 28047 Madrid e-mail: r_navarro_suay@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="9" end="14" text="Lucas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="27" end="43" text="San Martin Ramon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="50" end="55" text="39574" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="63" end="77" text="47 24876134 13" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="90" end="117" text="Calle la Montera 19, 5 Der." TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="141" end="147" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="153" end="158" text="28047" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="202" end="212" text="28/02/1985" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T19" start="220" end="226" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="234" end="241" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="248" end="249" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="268" end="278" text="04/07/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="351" end="371" text="Ricardo Navarro Suay" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="379" end="390" text="28 28 45126" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T13" start="409" end="414" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T15" start="419" end="426" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <PROFESSION id="T9" start="541" end="548" text="militar" TYPE="PROFESION" comment=""/>
+    <LOCATION id="T8" start="769" end="826" text="Hospital Universitario Central de la Defensa &quot;Gómez Ulla&quot;" TYPE="HOSPITAL" comment=""/>
+    <OTHER id="T1" start="3313" end="3320" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T7" start="3334" end="3342" text="Colombia" TYPE="PAIS" comment=""/>
+    <NAME id="T11" start="3907" end="3927" text="Ricardo Navarro Suay" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3993" end="4050" text="Hospital Universitario Central de la Defensa &quot;Gómez Ulla&quot;" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="4051" end="4075" text="Glorieta del Ejército, 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="4076" end="4081" text="28047" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="4082" end="4088" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="4097" end="4120" text="r_navarro_suay@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

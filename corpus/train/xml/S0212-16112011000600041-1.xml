@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Elena.
+Apellidos: Martos Rubio.
+NHC: 311146762.
+NASS: 59 64674123 03.
+Domicilio: Calle Paseo de los Comendadores 19. 6C .
+Localidad/ Provincia: Burgos.
+CP: 09001 .
+Datos asistenciales.
+Fecha de nacimiento: 14/02/1993.
+País: España.
+Edad: 25 años Sexo: M.
+Fecha de Ingreso: 11/05/2018.
+Médico: Alberto Miján de la Torre NºCol: 09 09 64744.
+Historia Actual: Mujer de 25 años, fumadora de unos 10 cigarrillos/día, sin otros antecedentes de interés. Ingresa por cuadro de > 5 deposiciones diarreicas, en ocasiones acompañadas de sangre y pérdida de peso. Se realiza colonoscopia, observándose una mucosa colónica normal. En íleon terminal, se visualizan tres ulceraciones de contorno irregular, con fondo fibrinoso. Se toman biopsias, que confirman el diagnóstico de enfermedad de Crohn. Analíticamente, presenta una albúmina de 2.890 mg/dl sin otros hallazgos. Es remitida a la consulta de Nutrición, no observando catabolismo proteico, reducción en la ingesta u otras causas de malnutrición. Se realiza A1AT en sangre: 159 mg/dl; A1AT en heces: 1,28 mg/g; peso heces en 24h: 182,84 g. El aclaramiento de A1AT fue de 147,19 ml/día (> 56 ml/día), confirmando el diagnóstico de PLE. Tras tratamiento con azatioprina y suplementos nutricionales hiperproteicos, la paciente mejoró clínicamente remontando la albúmina sérica hasta 3.270 mg/dl.
+Remitido por: DRAlberto Miján de la Torre. Servicio de Medicina Interna. Unidad de Nutrición Clínica. Hospital General Yagüe. Avda. Cid Campeador, 96. 09005 Burgos. E-mail: mijan@hgy.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="14" text="Elena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="27" end="39" text="Martos Rubio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="46" end="55" text="311146762" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="63" end="77" text="59 64674123 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="90" end="128" text="Calle Paseo de los Comendadores 19. 6C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="153" end="159" text="Burgos" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="165" end="170" text="09001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="215" end="225" text="14/02/1993" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="233" end="239" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="247" end="254" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="261" end="262" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="282" end="292" text="11/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="302" end="327" text="Alberto Miján de la Torre" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="335" end="346" text="09 09 64744" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="365" end="370" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="374" end="381" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1361" end="1386" text="Alberto Miján de la Torre" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1447" end="1469" text="Hospital General Yagüe" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1471" end="1494" text="Avda. Cid Campeador, 96" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1496" end="1501" text="09005" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1502" end="1508" text="Burgos" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1518" end="1530" text="mijan@hgy.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

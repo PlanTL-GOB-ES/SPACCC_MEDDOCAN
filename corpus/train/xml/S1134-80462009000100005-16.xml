@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Ignacio.
+Apellidos: Gomez Valverde .
+NHC: 3485623.
+NASS: 37 32847237 44.
+Domicilio: Calle Lope de Vega 64, 3 Izq.
+Localidad/ Provincia: Madrid.
+CP:28038.
+Datos asistenciales.
+Fecha de nacimiento: 15/05/1956.
+País: España.
+Edad: 61 años Sexo: H.
+Fecha de Ingreso: 27/07/2017.
+Médico: Mario Domínguez Valdenebro NºCol: 28 28 54112.
+Informe clínico del paciente: Paciente varón de 61 años, que está siendo valorado por la clínica del dolor de arteriopatía obliterante grado III con afectación de miembros inferiores. Tiene pautado como tratamiento analgésico Durogesic® Matrix de 50 μg/h desde hace 18 meses con aceptable control de dolor (EVA, 3-4). Como medicación de rescate está utilizando paracetamol 1 g, (como máximo 1 o 2 al día).
+Acude en visita de urgencia a la unidad de dolor porque desde hace 15 días ha presentado aumento del umbral del dolor con cierto estado de agitación y nerviosismo. Todo este cuadro ocurre a raíz de acudir a su médico de cabecera para su medicación y éste le recetó fentanilo transdérmico de 50 μg/h genérico, precisando como rescate paracetamol 1 g cada 6 h, con escaso alivio del dolor, aumentando la EVA a 7-8. Tras anamnesis con el paciente, volvemos a pautar Durogesic® Matrix 50 μg/h. Cuando se revisa al paciente a las 2 semanas, vuelve a presentar mejor alivio del dolor, con EVA de nuevo de 3-4, desapareciendo el estado de nerviosismo que había presentado anteriormente. En la actualidad, a los 3 meses de la última visita, el paciente continúa con Durogesic® Matrix 50 μg/h y, esporádicamente, paracetamol 1 g.
+Remitido por: Mario Dominguez Valdenebro Correo electrónico: mdev183@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="9" end="16" text="Ignacio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="29" end="43" text="Gomez Valverde" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="51" end="58" text="3485623" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="66" end="80" text="37 32847237 44" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="93" end="121" text="Calle Lope de Vega 64, 3 Izq" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="145" end="151" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="156" end="161" text="28038" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="205" end="215" text="15/05/1956" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="223" end="229" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="237" end="244" text="61 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="251" end="252" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="272" end="282" text="27/07/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="292" end="318" text="Mario Domínguez Valdenebro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="326" end="337" text="28 28 54112" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="378" end="383" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="387" end="394" text="61 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="1580" end="1606" text="Mario Dominguez Valdenebro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1627" end="1646" text="mdev183@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Cesar.
+Apellidos: Ramiñon Baez.
+NHC: 8934573.
+NASS: 48 35873568 09.
+Domicilio: C/ la Sierra, 23.
+Localidad/ Provincia: Lugo.
+CP: 27042.
+Datos asistenciales.
+Fecha de nacimiento: 05/01/1971.
+País de nacimiento: España.
+Edad: 47 años Sexo: H.
+Fecha de Ingreso: 15/06/2018.
+Médico: Javier Fandiño  NºCol: 27 27 89578.
+Informe clínico del paciente:varón de 47 años de edad, sin antecedentes de interés, con historia de cefalea y ocasionalmente vértigo en los últimos cuatro años, que consulta por trastorno inespecífico de la visión. La exploración neurológica resultó ser normal, excepto la detección de una cuadrantanopsia homónima inferior derecha en el estudio campimétrico. No existían malformaciones o anomalías asociadas a nivel de sistema nervioso central ni fuera de éste. La tomografía computarizada (TC) resultó ser normal. Se le practicó un estudio con RM que demostró, en secuencias T1 y en proyección parasagital, dos focos de hiperseñal situados en la cisterna cuadrigémina y en el labio superior de la cisura calcarina izquierda compatibles con el diagnóstico de lipomas.
+No se realizó intervención quirúrgica, permaneciendo el paciente con idéntica sintomatología dos años después.
+Responsable clínico: Dr. Javier Fandiño. C/Montevideo 17- 3º. 27001 Lugo. España.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="33" text="Cesar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="46" end="58" text="Ramiñon Baez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="65" end="72" text="8934573" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="80" end="94" text="48 35873568 09" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="107" end="123" text="C/ la Sierra, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="147" end="151" text="Lugo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="157" end="162" text="27042" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="206" end="216" text="05/01/1971" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="238" end="244" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="252" end="259" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="266" end="267" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="287" end="297" text="15/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="307" end="321" text="Javier Fandiño" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="330" end="341" text="27 27 89578" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="372" end="377" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="381" end="388" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1248" end="1262" text="Javier Fandiño" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="1264" end="1283" text="C/Montevideo 17- 3º" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1285" end="1290" text="27001" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1291" end="1295" text="Lugo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="1297" end="1303" text="España" TYPE="PAIS" comment=""/>
+  </TAGS>
+</MEDDOCAN>

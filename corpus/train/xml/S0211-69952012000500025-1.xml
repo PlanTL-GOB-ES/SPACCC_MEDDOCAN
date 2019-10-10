@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Enrique.
+Apellidos: Acevedo Jimenez.
+NHC: 7856209.
+NASS: 74 53406450 21.
+Domicilio: Calle Zurbano, 19.
+Localidad/ Provincia: Zaragoza.
+CP: 50009.
+Datos asistenciales.
+Fecha de nacimiento: 13/08/1950.
+País de nacimiento: España.
+Edad: 65 años Sexo: H.
+Fecha de Ingreso: 06/07/2016.
+Médico: Cristina Feijoo Cano  NºCol: 50 50 21410.
+Informe clínico del paciente: Varón de 65 años, remitido desde Nefrología a las consultas de Cirugía Vascular por presentar una voluminosa masa pulsátil en el antebrazo izquierdo, de varios años de evolución, con un crecimiento acelerado y progresivo en los últimos meses. Antecedentes personales de hipertensión arterial, dislipemia, fístula radiocefálica izquierda para hemodiálisis realizada veinte años antes por insuficiencia renal crónica terminal, y seis años después de haber sido trasplantado se procedió a la ligadura de ésta.
+En la exploración física, en la cara anterior del antebrazo izquierdo presentaba una enorme tumoración pulsátil, sin soplo ni thrill. Manos bien perfundidas, con pulsos radiales y cubitales presentes.
+Se realizó en primer lugar un ecodoppler, que demostró intenso flujo en el interior de la tumoración, sin poder definir si se trataba de un aneurisma o un pseudoaneurisma, por lo que se solicitó una angiotomografía computarizada axial (angio-TAC) en la que se apreciaba la arteria humeral ectásica y elongada, y en la región radial un aneurisma o pseudoaneurisma de 62 milímetros de diámetro, con las arterias cubital e interósea permeables y la arteria radial distal obstruida.
+Con la sospecha diagnóstica de aneurisma o pseudoaneurisma de la arteria radial secundaria a FAV radiocefálica ligada en paciente trasplantado, se indicó tratamiento quirúrgico.
+Mediante incisiones a nivel de la flexura del brazo y distalmente a nivel radial, se procedió a la disección y control de la arteria humeral, radial y cubital, apreciando un gran aneurisma verdadero en todo el trayecto de la arteria radial. Se realizó la resección completa del aneurisma, ligando la arteria radial a nivel proximal y distal, ya que se comprobó que ésta estaba crónicamente trombosada y la vascularización de la mano estaba asegurada por las arterias cubital e interósea.
+El posoperatorio transcurrió sin incidencias; al alta presentaba pulsos humeral y cubital y buena perfusión de la mano. Anatomía Patológica confirmó que se trataba de un aneurisma verdadero de la arteria radial. Un año después del tratamiento, el paciente está asintomático y sin complicaciones.
+Responsable clínico: Dra. Cristina Feijoo Cano, Avenida Isabel La Católica 1-3. 50009, Zaragoza E-mail: cristifeijoo@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="35" text="Enrique" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="48" end="63" text="Acevedo Jimenez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="70" end="77" text="7856209" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="85" end="99" text="74 53406450 21" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="112" end="129" text="Calle Zurbano, 19" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="153" end="161" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="167" end="172" text="50009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="216" end="226" text="13/08/1950" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="248" end="254" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="262" end="269" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="276" end="277" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="297" end="307" text="06/07/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="317" end="337" text="Cristina Feijoo Cano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="346" end="357" text="50 50 21410" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="389" end="394" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="398" end="405" text="65 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="2564" end="2584" text="Cristina Feijoo Cano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2586" end="2616" text="Avenida Isabel La Católica 1-3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2618" end="2623" text="50009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2625" end="2633" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2642" end="2666" text="cristifeijoo@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

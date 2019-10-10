@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Pedro .
+Apellidos:Chavero Garcia.
+NHC: 33254784.
+NASS: 99 00154744 02.
+Domicilio: Avenida príncipe de asturias 62, 4 der..
+Localidad/ Provincia: Murcia.
+CP:30205.
+Datos asistenciales.
+Fecha de nacimiento:08/05/1960.
+País: España.
+Edad: 50 años Sexo: H.
+Fecha de Ingreso: 19/08/2010.
+Médico: Ramón Baños Madrid NºCol: 30 30 45714.
+Motivo de ingreso: Varón de 50 años, consulta por epigastralgia, melenas y astenia desde hacía quince días. No refería disfagia, pirosis ni alteración del hábito intestinal.
+Antecedentes: hipertensión arterial en tratamiento y apendicectomía a los 25 años
+Exploración física: La exploración física fue normal, no se palpaban masas ni visceromegalias en abdomen, ni existían signos de desnutrición.
+Resumen de pruebas complementarias: En la analítica destacaba la presencia de anemia microcítica hipocroma con Hgb de 10 gr/dl y Hto del 33%. Las radiografías de tórax y abdomen no mostraron alteraciones de interés. En la endoscopia digestiva alta se apreció un esófago normal, una cavidad gástrica sin restos hemáticos con una mucosa normal y erosiones sobre una mucosa edematosa en bulbo duodenal, se realizó toma de biopsias en antro y cuerpo informándose las biopsias como gastritis crónica sin actividad no detectándose helicobacter pylori. En la ecografía abdominal el hígado, la vesícula biliar y el páncreas eran de características normales.
+Evolución y comentarios: on el diagnóstico de hemorragia digestiva alta por duodenitis erosiva y anemia secundaria a perdidas digestivas es dado de alta para control ambulatorio con tratamiento con antisecretores. El paciente reingresa a las tres semanas por nuevo episodio de melenas, se realiza una nueva endoscopia digestiva alta apreciando un esófago, mucosa de cavidad gástrica y bulbo duodenal normal, con restos hemáticos aislados a nivel de la segunda porción de duodeno, por lo que se decide la realización de enteroscopia de pulsión apreciando en yeyuno proximal una tumoración, friable y ulcerada que estenosa parcialmente la luz de yeyuno y no permite el paso del endoscopio, pero si la toma de múltiples biopsias en los bordes del tumor. Se procedió a la realización de un tránsito intestinal en el que se evidenció en yeyuno proximal una estenosis corta, que permitía el paso del contraste.
+Se completa el estudio de extensión realizando un TAC abdominal en el que se puso de manifiesto la presencia de una masa en yeyuno proximal sin objetivarse adenopatías locoregionales ni retroperitoneales de tamaño significativo, no se observaron lesiones focales hepáticas sugerentes de metástasis, ni otras alteraciones radiológicas valorables. Con el diagnóstico de leiomiosarcoma de bajo grado de intestino delgado y tras descartar extensión tumoral a distancia o invasión local en los estudios de imagen, se decide tratamiento quirúrgico con resección del tumor y posterior anastomosis duodeno-yeyunal. 
+La evolución de la paciente fue satisfactoria no precisando tratamiento coadyuvante.
+Remitido por: DR: Ramón Baños Madrid. Av. Alameda de San Antón,38-1º B 30205 Cartagena. Murcia. Correo electrónico: rbmadrid71@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="8" end="13" text="Pedro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="26" end="40" text="Chavero Garcia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="47" end="55" text="33254784" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="63" end="77" text="99 00154744 02" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="90" end="128" text="Avenida príncipe de asturias 62, 4 der" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="153" end="159" text="Murcia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="164" end="169" text="30205" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="212" end="222" text="08/05/1960" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="230" end="236" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="244" end="251" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="258" end="259" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="279" end="289" text="19/08/2010" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="299" end="317" text="Ramón Baños Madrid" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="325" end="336" text="30 30 45714" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="357" end="362" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="366" end="373" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="586" end="593" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="3002" end="3020" text="Ramón Baños Madrid" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3022" end="3054" text="Av. Alameda de San Antón,38-1º B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3055" end="3060" text="30205" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3061" end="3070" text="Cartagena" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3072" end="3078" text="Murcia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3100" end="3119" text="rbmadrid71@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

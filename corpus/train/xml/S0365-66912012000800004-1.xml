@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Tomas .
+Apellidos: Rot Arnau.
+NHC: 8937812.
+NASS: 84 75830635 33.
+Domicilio: Calle Jacinto Benavente, 13.
+Localidad/ Provincia: Madrid.
+CP: 28029 .
+Datos asistenciales.
+Fecha de nacimiento:06/05/1970.
+País de nacimiento: España.
+Edad: 42 años Sexo: H.
+Fecha de Ingreso: 19/06/2012.
+Médico: Vanessa Sánchez Ferreiro  NºCol: 28 28 69852.
+Informe clínico del paciente: Paciente varón de 42 años de edad, que acude a Urgencias tras sufrir una contusión, en su ojo izquierdo.
+El paciente había sido intervenido previamente de una facoemulsificación del cristalino, con implante de lente intraocular; posteriormente se le realizó una vitrectomía por desprendimiento de retina. Manteniendo una agudeza visual posterior a la intervención de 2/10. Al examen oftalmológico la agudeza visual del ojo derecho era de 10/10 y de percepción y proyección de luz en el izquierdo. Biomicroscópicamente; en ojo izquierdo destacaba un hifema moderado, una diálisis importante del iris con afectación pupilar, pliegues en Descemet y una hipotonía extrema del globo ocular (confirmada posteriormente con la tonometría de aplanación que mostró una tensión ocular en valores cercanos a cero). En la exploración de fondo de ojo se evidenció un hemovítreo masivo que imposibilitaba visualizar la retina. Tras descartar una herida penetrante anterior, se realizó un diagnóstico de sospecha de rotura escleral posterior, confirmándose mediante una tomografía axial computarizada (TAC) orbitaria.
+Ante la situación del globo, se procedió a ingresar al paciente; y se indicó observación debido al elevado riesgo de hemorragia supracoroidea expulsiva masiva, si se actuaba quirúrgicamente1. Se pautó tratamiento antibiótico y corticoideo; realizando un seguimiento exhaustivo del ojo afecto y del adelfo, al existir posibilidades de desarrollo de una oftalmía simpática. A las dos semanas se evidenció una mejoría de la agudeza visual que pasó de percibir y proyectar luz a bultos, con una recuperación de la estructura del globo ocular; que se confirmó con una nueva TAC orbitaria, observándose un punto de fuga posterior sellado, compatible con la reconstitución. Después de unos meses de control se produjo una reabsorción del hemovítreo de forma progresiva, hallando una importante rotura coroidea cicatricial, esto no supuso una mejoría de la agudeza visual, debido a la afectación macular y del nervio óptico. En este caso nos planteamos al principio un estallido ocular masivo por la imagen inicial de la TAC, pero posteriormente, pensamos si realmente lo que ocurrió fue una hiperpresión masiva que comprimió el globo ocular dando la imagen tomográfica y posteriormente, al sellarse la rotura, se recuperó su constitución; a todo esto contribuyó que el globo estuviera vitrectomizado.
+Responsable clínico: Vanessa Sánchez Ferreiro Email:  vanesaferreiro1980@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="33" text="Tomas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="47" end="56" text="Rot Arnau" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="63" end="70" text="8937812" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="78" end="92" text="84 75830635 33" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="105" end="132" text="Calle Jacinto Benavente, 13" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="156" end="162" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="168" end="173" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="217" end="227" text="06/05/1970" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="263" end="270" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="277" end="278" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="298" end="308" text="19/06/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="318" end="342" text="Vanessa Sánchez Ferreiro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="351" end="362" text="28 28 69852" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="403" end="408" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="412" end="419" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="2811" end="2835" text="Vanessa Sánchez Ferreiro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2844" end="2871" text="vanesaferreiro1980@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Aitana.
+Apellidos: De la Puebla Ruiz.
+NHC: 70245.
+NASS: 78 97458413 67.
+Domicilio: Calle de Boteros, 6.
+Localidad/ Provincia: Ceuta.
+CP: 51003.
+Datos asistenciales.
+Fecha de nacimiento: 24/12/1990.
+País: España.
+Edad: 27 años Sexo: M.
+Fecha de Ingreso: 17/05/2018.
+Médico: Alexander José Finol Muñoz NºCol: 51 51 31253.
+Historia del paciente: Mujer, 27 años de edad, profesional de enfermería en área de hospitalización de Medicina Interna, sufre accidente laboral tipo pinchazo con abbocath durante jornada de trabajo el día 23/11/1989. Por lo que se realiza revisión de caso clínico del paciente fuente y las respectivas pruebas confirmatorias, sin encontrarse información en la historia clínica de datos de enfermedades transmisibles. Así mismo las analíticas realizadas en el enfermo y en la trabajadora resultaron negativos los marcadores virales para Hepatitis. 15 días posteriores, presenta alza térmica cuantificada en 40.º, dolor abdominal ubicado en hipocondrio derecho, de leve intensidad, continuo, sin irradiación, no cede con cambios posturales ni con tratamiento ambulatorio, acompañándose de nauseas, vómitos y astenia. Niega coluria, acolia e ictericia, por lo que acude a servicio de urgencia y se decide su ingreso. Durante su estancia se realiza analítica y seriado de enzimas hepáticas, evidenciándose hipertransaminemia y serología para hepatitis A y B negativos. (Ver Tabla 1). Se inicia tratamiento médico con Konakión®, Lisozima®, Nervobión® y Gammaglobulina Humana Polivalente, de la misma forma fue vacunada frente a la Hepatitis A y Hepatitis B. Con buena evolución clínica y de laboratorio, es dada de alta con seguimiento médico.
+Posteriormente en el año 1996, se realiza reconocimiento médico laboral, encontrándose en los resultados analíticos, positividad para VHC y negativo para VIH. En el año 2004 en vista de los antecedentes personales de la trabajadora de accidente biológico en el año 1989, se localiza el paciente fuente, repitiéndose el control serológico, resultando positivo para el mismo virus, pudiendo ser declarado aquel evento ocurrido hace 15 años, como accidente laboral y enfermedad profesional, por demostrarse la relación entre el paciente fuente y la trabajadora.
+Remitido por: Alexander José Finol Muñoz. Hospital Universitario de Ceuta Loma Colmenar s/n.º Edificio 2. Planta -1. 51003. Ceuta. España Correo electrónico: finolito@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T28" start="9" end="15" text="Aitana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T27" start="28" end="45" text="De la Puebla Ruiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T26" start="52" end="57" text="70245" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="65" end="79" text="78 97458413 67" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T24" start="92" end="111" text="Calle de Boteros, 6" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="135" end="140" text="Ceuta" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T23" start="146" end="151" text="51003" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T22" start="195" end="205" text="24/12/1990" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="213" end="219" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="227" end="234" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="241" end="242" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T21" start="262" end="272" text="17/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="282" end="308" text="Alexander José Finol Muñoz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="316" end="327" text="51 51 31253" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T13" start="352" end="357" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="359" end="366" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <PROFESSION id="T8" start="376" end="401" text="profesional de enfermería" TYPE="PROFESION" comment=""/>
+    <DATE id="T20" start="535" end="545" text="23/11/1989" TYPE="FECHAS" comment=""/>
+    <DATE id="T19" start="1690" end="1698" text="año 1996" TYPE="FECHAS" comment=""/>
+    <DATE id="T17" start="1834" end="1842" text="año 2004" TYPE="FECHAS" comment=""/>
+    <DATE id="T18" start="1930" end="1938" text="año 1989" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="2242" end="2268" text="Alexander José Finol Muñoz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2270" end="2301" text="Hospital Universitario de Ceuta" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T1" start="2302" end="2343" text="Loma Colmenar s/n.º Edificio 2. Planta -1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="2345" end="2350" text="51003" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2352" end="2357" text="Ceuta" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2359" end="2365" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T3" start="2386" end="2406" text="finolito@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

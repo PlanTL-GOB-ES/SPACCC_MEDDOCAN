@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Patricia.
+Apellidos: Montero Iglesias.
+NHC: 3467890.
+NASS: 89 56734809 36.
+Domicilio: Plaza de Almuñécar, 7, 4 C.
+Localidad/ Provincia: Vigo.
+CP: 36201.
+Datos asistenciales.
+Fecha de nacimiento: 04/7/1940.
+País de nacimiento: España.
+Edad: 76 años Sexo: M.
+Fecha de Ingreso: 03/06/2017.
+Servicio: Reumatología.
+Episodio: 7348563.
+Médico: Nora Gómez Rodríguez NºCol: 36 28 57410.
+Informe clínico del paciente: Mujer de 76 años con antecedentes de cardiopatía isquémica, diagnosticada de artritis reumatoide seronegativa en 1992 por una poliartritis crónica, simétrica y erosiva que cumplió cinco de los criterios del American College of Rheumatology. Como medicación de fondo se había utilizado cloroquina y metotrexato parenteral. En el año 2000 fue sometida a una artroplastia total de rodilla derecha con resultado satisfactorio. En 2002 desarrolló una anemia normocítica, fatigabilidad, una neuropatía periférica sensitivomotora y esplenomegalia. El estudio hematológico reveló un componente monoclonal de IgM de 3,1 g/dl y tras una biopsia de médula ósea fue diagnosticada de macroglobulinemia de Waldenström. Debido a que la enferma se mantuvo estable y oligosintomática con bajas dosis de prednisona (7,5 mg/día) y metrotrexato oral (7,5 mg/semana) el servicio de hematología optó por mantener una actitud expectante, difiriendo la terapia con agentes alquilantes o análogos de nucleósidos.
+Durante los tres primeros días de agosto de 2005 presentó una diarrea febril autolimitada. Tras una mejoría de una semana, comenzó con febrícula, dolor, tumefacción y progresiva limitación de la movilidad en la rodilla derecha, síntomas que persistieron y que motivaron la consulta e ingreso en nuestro centro el 25 de agosto.
+Exploración física: En la exploración destacaba una temperatura axilar de 37,5 ºC, tumefacción y derrame a tensión en la rodilla derecha, hipoestesia parcheada en las extremidades inferiores y abolición de los reflejos aquíleos.
+Pruebas complementarias: La artrocentesis dio salida a un fluido purulento de color crema con 75.000 leucocitos/mm3 (> 95% polimorfonucleares). La tinción de Gram no permitió visualizar microorganismos, pero en los cultivos aeróbicos se recuperó L. monocytogenes sensible a penicilina, ampicilina, cotrimoxazol y rifampicina. La VSG fue de 120 mm/1ª hora. Proteína C reactiva: 51,7 mg/L. El hemograma mostró 6,5 x 109 leucocitos/L (47% neutrófilos, 25% linfocitos, 14% monocitos), Hb: 99 g/L, hematocrito: 28,7 L/L, plaquetas: 442 x 109/L. Dosificación de inmuglobulinas: IgA (25 mg/dl), IgG (405 mg/dl), IgM (2.300 mg/dl; VN < 230); cadenas ligeras: lambda (44 mg/dl; VN: 90-210), kappa (276 mg/dl; VN 170-370). Los siguientes parámetros fueron normales o negativos: bioquímica (glucosa, creatinina, urea, colesterol total, triglicéridos, lácticodehidrogenasa, creatinincinasa, transaminasas, bilirrubina, fosfatasa alcalina, gammaglutamiltranspeptidasa, calcio, fósforo, sodio, potasio y cloro), análisis de orina, serología para Salmonella, Shigella y Yersinia, dosificación del complemento (C3 y C4) y anticuerpos antinucleares. El factor reumatoide por látex fue 54 UI / ml.
+La radiografía de tórax no mostró alteraciones. La radiografía de la rodilla derecha permitió observar radiolucencias periprotésicas. En la ecografía abdominal se halló signos de esteatosis hepática y discreta esplenomegalia. Además de drenaje y lavado de la articulación con suero fisiológico se administraron por vía intravenosa 2 g de ampicilina cada 6 h y gentamicina (3 mg/kg/8 horas; manteniendo una concentración entre 4 y 9 mg/ml) durante 5 semanas. 
+Evolución: En el momento de redactar esta nota clínica han transcurrido tres meses desde el alta hospitalaria, la paciente evoluciona favorablemente y recibe tratamiento con cotrimoxazol y rifampicina, que se prolongará hasta completar un total de 6 meses.
+Responsable clínico: Dra. Nora Gómez Rodríguez Unidad de Reumatología. C/ Colón, 28-1º. 36201 Vigo. e-mail: ngomez@povisa.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T27" start="28" end="36" text="Patricia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T26" start="49" end="65" text="Montero Iglesias" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="72" end="79" text="3467890" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="87" end="101" text="89 56734809 36" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T23" start="114" end="140" text="Plaza de Almuñécar, 7, 4 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T22" start="164" end="168" text="Vigo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="174" end="179" text="36201" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T20" start="223" end="232" text="04/7/1940" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T19" start="254" end="260" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T18" start="268" end="275" text="76 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T17" start="282" end="283" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="303" end="313" text="03/06/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T15" start="349" end="356" text="7348563" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T14" start="366" end="386" text="Nora Gómez Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="394" end="405" text="36 28 57410" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="437" end="442" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="446" end="453" text="76 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="550" end="554" text="1992" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="765" end="773" text="año 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="863" end="867" text="2002" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="1459" end="1473" text="agosto de 2005" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="1738" end="1750" text="25 de agosto" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="3903" end="3923" text="Nora Gómez Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="3948" end="3963" text="C/ Colón, 28-1º" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3965" end="3970" text="36201" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3971" end="3975" text="Vigo" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3985" end="4001" text="ngomez@povisa.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

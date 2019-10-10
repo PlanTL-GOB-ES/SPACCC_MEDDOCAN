@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Emiliano.
+Apellidos: Zarate Navarro.
+NHC: 7435638.
+NASS: 26 57657348 30.
+Domicilio: Calle del Ángel Beato, 6, 5, A.
+Localidad/ Provincia: Getafe.
+CP: 28905.
+Datos asistenciales.
+Fecha de nacimiento: 07/10/1995.
+País de nacimiento: España.
+Edad: 77 años Sexo: H.
+Fecha de Ingreso: 31/05/2013.
+Servicio: Urgencias.
+Episodio: 7834568.
+Médico: María Eugenia Martínez Núñez NºCol: 28 28 57946.
+Historia Actual: Varón de 77 años que acude a urgencias del hospital por vómitos de una semana de evolución asociados a ausencia de deposición, con dolor en la región inguinal derecha de tres días de duración. No presenta deterioro cognitivo pero sí un grave deterioro social. Refiere que desde hace un año sólo ingiere líquidos con una pérdida de 15kg de peso durante este periodo (peso habitual aproximado de 70kg; peso actual al ingreso de 55kg). No sale de casa desde hace quince días con vida cama-sillón, vive con su mujer invidente de 87 años de edad y presenta escasa higiene corporal. El paciente vive solo en su casa ubicada en la calle Calle del Ángel Beato, 6, 5, A.
+Antecedentes: El paciente presenta como antecedentes personales epitelioma basocelular terebrante supranasal no intervenido y ulcus gástrico tratado con cimetidina anteriormente.
+Exploración física: En la exploración física al ingreso se objetivan signos de hipoperfusión periférica, caquexia severa y hernia inguinoescrotal derecha irreductible, con probable contenido intestinal y abdomen distendido doloroso a la palpación.
+Pruebas complementarias:  Se diagnostica obstrucción intestinal secundaria a hernia inguinal incarcerada por lo que se decide intervenir quirúrgicamente, realizándose resección del segmento intestinal isquémico y perforado con anastomosis latero-lateral y herniorrafia.
+Durante la intervención quirúrgica se observa peritonitis difusa e inestabilidad hemodinámica. Ante la presencia de signos de shock y disminución del nivel de conciencia a pesar de estar sin sedación, el paciente ingresa a cargo de la Unidad de Cuidados Intensivos (UCI).
+Se comienza tratamiento antibiótico con imipenem presentando una evolución favorable durante los primeros cuatro días, hasta comienzo de aumento progresivo de signos de infección e inflamación (leucocitosis de 38.320 leucocitos/mm3 y PCR de 273 mg/L) sugestivos de sepsis abdominal, con inestabilidad hemodinámica, fracaso renal agudo (estado edematoso, anuria y creatinina sérica de hasta 3,35 mg/dL), anemización brusca (niveles de hemoglobina de 6,2 g/dL y hematocrito de 18,5%), y salida de contenido biliar por los drenajes. Ante tales hallazgos se procede a una nueva intervención quirúrgica.
+Desde el punto de vista nutricional el paciente presenta una desnutrición calórico-proteica grave, con hipoalbuminemia e hipoproteinemia severas (albúmina 1.4 g/dL y proteina 3.7 g/dL), decidiéndose comenzar, tras estabilización hemodinámica, soporte nutricional por vía iv desde el segundo día de ingreso en la unidad. Inicialmente se prescribe nutrición parenteral total (NPT) con un aporte de macronutrientes correspondiente a un paciente de 70kg con estrés metabólico severo. Desde el Servicio de Farmacia se identifica al enfermo como un paciente con alto riesgo de sufrir SR, dado su estado caquéctico y los antecedentes personales previamente descritos (pérdida > 20% del peso corporal en un año, graves problemas psicosociales y depresión en el anciano). Ante la complejidad añadida del fracaso renal agudo del paciente y el alto riesgo de SR se recomienda un comienzo progresivo del soporte nutricional adaptando el aporte de macronutrientes al peso real y no ideal del paciente. Atendiendo a las recomendaciones de las principales guías clínicas para la prevención del SR6, se recomienda la administración profiláctica de tiamina, y se inicia nutrición parenteral con un aporte calórico de aproximadamente 15 kcal/kg de peso actual (distribución calórica de 39% carbohidratos, 39% lípidos y 22% proteínas), un volumen total de aproximadamente 1500 mL y un seguimiento estrecho de los parámetros nutricionales y analíticos (fundamentalmente iones intracelulares). Se restringe durante los primeros días el aporte de fosfato, potasio y magnesio, debido a la hiperfosfatemia (fosfato 8.91 mg/dL), hiperpotasemia (potasio 5.27 mEq/L) e hipermagnesemia (magnesio 3 mg/dL) desencadenadas por el fracaso renal agudo.
+Evolución: En los días consecutivos se incrementa lentamente el aporte calórico-proteico, teniendo especial precaución con el aporte de nitrógeno durante la primera semana debido al fallo renal del paciente. A partir del décimo día se cubren finalmente los requerimientos nutricionales del paciente. El aporte energético es de 30 kcal/kg (distribución calórica de 48% carbohidratos, 30% lípidos y 22% proteínas), con un aporte protéico de 1,6g/kg, adaptándose a la situación metabólica del enfermo.
+Durante los primeros días los parámetros analíticos y nutricionales evolucionan favorablemente de forma paralela a la mejoría de la función renal, hasta la aparición de sepsis abdominal y todas las complicaciones descritas anteriormente.
+Dada la edad del paciente, la enfermedad actual y el mal pronóstico de las complicaciones desarrolladas se decide en sesión conjunta la limitación del esfuerzo terapéutico, falleciendo al 17o día de ingreso.
+Responsable clínico: Dra.  María Eugenia Martínez Núñez Hospital Universitario de Getafe Carretera de Toledo, km. 12.500 28905 Getafe (Madrid), España E-mail: meugeniamartinezn@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T27" start="28" end="36" text="Emiliano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T26" start="49" end="63" text="Zarate Navarro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="70" end="77" text="7435638" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="85" end="99" text="26 57657348 30" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T23" start="112" end="142" text="Calle del Ángel Beato, 6, 5, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T22" start="166" end="172" text="Getafe" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="178" end="183" text="28905" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T20" start="227" end="237" text="07/10/1995" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T19" start="259" end="265" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T18" start="273" end="280" text="77 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T17" start="287" end="288" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="308" end="318" text="31/05/2013" TYPE="FECHAS" comment=""/>
+    <ID id="T15" start="351" end="358" text="7834568" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T14" start="368" end="396" text="María Eugenia Martínez Núñez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="404" end="415" text="28 28 57946" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="434" end="439" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="443" end="450" text="77 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="940" end="966" text="mujer invidente de 87 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T9" start="1058" end="1094" text="calle Calle del Ángel Beato, 6, 5, A" TYPE="CALLE" comment=""/>
+    <NAME id="T8" start="5356" end="5384" text="María Eugenia Martínez Núñez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="5385" end="5417" text="Hospital Universitario de Getafe" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T1" start="5418" end="5449" text="Carretera de Toledo, km. 12.500" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="5450" end="5455" text="28905" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="5456" end="5462" text="Getafe" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="5464" end="5470" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="5473" end="5479" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="5488" end="5515" text="meugeniamartinezn@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

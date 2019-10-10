@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Elena .
+Apellidos: Castillo Zamorano.
+NHC: 376492.
+NASS: 27 18364809 09.
+Domicilio: Calle Fuego 91, 1, 2.
+Localidad/ Provincia: Sevilla.
+CP: 41002.
+Datos asistenciales.
+Fecha de nacimiento: 10/01/1970.
+País: España.
+Edad: 46 años Sexo: M.
+Fecha de Ingreso: 03/09/2016.
+Médico:  Francisco Javier Torres Gómez  NºCol: 41 41 53943.
+Informe clínico del paciente: Paciente de 46 años histerectomizada por leiomiomas que acude a Urgencias por intenso dolor en fosa renal izquierda, malestar general y episodios repetidos de hematuria. Varios estudios citológicos de orina fueron negativos para células neoplásicas. Estudios de imagen determinaron la intervención quirúrgica de la paciente observándose un riñón izquierdo atrófico así como una gran 'masa tumoral' que englobaba la salida teórica de la arteria iliaca interna izquierda, uréter izquierdo, saco de Douglas, recto y cara lateral peritoneal. Debido a las dificultades técnicas que entrañaba la enucleación de tal lesión se tomó una muestra ureteral que fue remitida para diagnóstico histopatológico con la sospecha de carcinoma ureteral. El estudio macroscópico del material remitido demostró un tejido irregular blanquecino de consistencia elástica-firme y aspecto fibroso que a los cortes seriados mostraba un fino punteado rojizo difícil de apreciar. El estudio histológico permitió observar un segmento ureteral con presencia de múltilples estructuras glandulares dilatadas intramusculares tapizadas por epitelio endometrial cuya tinción inmunohistoquímica fue intensamente positiva para citoqueratinas, receptores de estrógenos y receptores de progesterona. Envolviendo la pared ureteral se observó abundante tejido fibroso desordenado con signos de hemorragia. Con todos estos datos se emitió el diagnóstico de endometriosis ureteral intrínseca si bien la intensa respuesta tisular extraureteral y los claros signos de hemorragia que la acompañaban nos hicieron pensar en un componente extrínseco acompañante aunque no se identificaron estructuras glandulares a dicho nivel.
+Remitido por: Dr. Francisco Javier Torres Gómez Plaza de la Encarnación, 32 - P1- 2B 41003 Sevilla. (España). javiertorresgomez@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="33" text="Elena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="47" end="64" text="Castillo Zamorano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="71" end="77" text="376492" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="85" end="99" text="27 18364809 09" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="112" end="132" text="Calle Fuego 91, 1, 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="156" end="163" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="169" end="174" text="41002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="218" end="228" text="10/01/1970" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="236" end="242" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="250" end="257" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="264" end="265" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="285" end="295" text="03/09/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="306" end="335" text="Francisco Javier Torres Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="344" end="355" text="41 41 53943" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T7" start="399" end="406" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2082" end="2111" text="Francisco Javier Torres Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2112" end="2148" text="Plaza de la Encarnación, 32 - P1- 2B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2149" end="2154" text="41003" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2155" end="2162" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2165" end="2171" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2174" end="2200" text="javiertorresgomez@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

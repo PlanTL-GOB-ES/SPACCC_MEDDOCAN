@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Andrés.
+Apellidos: Ortega Martin.
+NHC: 9687454.
+NASS: 47 29373947 55.
+Domicilio: Calle Padre Cuevas, 13 .
+Localidad/ Provincia: Cádiz.
+CP: 11540.
+Datos asistenciales.
+Fecha de nacimiento: 03/05/1939.
+País:España.
+Edad:75 años Sexo: H.
+Fecha de Ingreso: 07/10/2014.
+Médico: Rocío Gavira Moreno  NºCol: 11 11 54682.
+Informe clinico del paciente: Varón de 75 años, que había recibido previamente tratamiento complementario intravesical con MMC y BCG. Tras recidiva tumoral inició tratamiento con gemcitabina intravesical. Durante la primera instilación el paciente presentó quemazón local intensa, mareo y sudoración profusa (grado 2)5, que obligaron a detener la administración del tratamiento. Aunque presentó hipotensión (90/60 mmHg) postinstilación las cifras de tensión se normalizaron (130/80 mmHg) a los pocos minutos con medidas posturales. La disuria mejoró durante las 24 horas posteriores con tratamiento antiinflamatorio vía oral. El urinocultivo fue negativo. El tratamiento fue suspendido por decisión del paciente. Tras dos semanas inició tratamiento intravesical con MMC con buena tolerancia tras cuatro instilaciones.
+Rsponsable médico: Rocío Gavira Moreno. Correo electrónico: rocio.gavira.sspa@juntadeandalucia.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="8" end="14" text="Andrés" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="27" end="40" text="Ortega Martin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="47" end="54" text="9687454" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="62" end="76" text="47 29373947 55" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="89" end="111" text="Calle Padre Cuevas, 13" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="136" end="141" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="147" end="152" text="11540" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="196" end="206" text="03/05/1939" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="213" end="219" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="226" end="233" text="75 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="240" end="241" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="261" end="271" text="07/10/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="281" end="300" text="Rocío Gavira Moreno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="309" end="320" text="11 11 54682" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="352" end="357" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="361" end="368" text="75 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="1159" end="1178" text="Rocío Gavira Moreno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1200" end="1237" text="rocio.gavira.sspa@juntadeandalucia.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

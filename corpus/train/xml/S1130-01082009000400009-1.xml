@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Victor.
+Apellidos: Alvarez Puga.
+NHC: 287956.
+NASS: 89 45760546 65.
+Domicilio: Plaza Celenque, 3.
+Localidad/ Provincia: 28013.
+CP: Madrid.
+Datos asistenciales.
+Fecha de nacimiento: 27/07/1965.
+País: España.
+Edad: 50 años Sexo: H.
+Fecha de Ingreso: 30/10/2015.
+Servicio: Digestivo.
+Médico: Consuelo Froilán Torres NºCol: 28 28 65408.
+Informe Clínico: Varón de 50 años, diagnosticado de enfermedad de Crohn con afectación ileal y perianal compleja en tratamiento inmunosupresor, que acudió a Urgencias por fiebre, supuración perianal y diarrea de 1 semana de evolución. El enfermo mantenía terapia con salicilatos y azatioprina (2,5 mg/kg/día, ajustada según niveles de TPMT) desde hacía 2 años y había recibido 6 dosis de infliximab, tratamiento biológico que interrumpió 6 meses antes del ingreso actual, por motivos laborales.
+A la exploración física, el paciente impresionaba de mal estado general, estando febril (39 ºC), hipotenso (TA 80/40 mmHg), taquicárdico (104 lpm) y taquipneico (22 rpm). En fosa iliaca derecha se le palpaba un "efecto masa", de consistencia aumentada y se objetivaba un orificio fistuloso en glúteo izquierdo sobre un área indurada, eritematosa, caliente y dolorosa. La analítica urgente mostraba anemia (Hb 7,9 g/dl, Hcto 29%), insuficiencia renal (creatinina 4 mg/dl) y elevación de reactantes de fase aguda (PCR 127, plaquetas 424.000/ml). Con el probable diagnóstico de sepsis e insuficiencia renal multifactorial (salicilatos, deshidratación,...) se instauró tratamiento con sueroterapia y antibioterapia de amplio espectro. Durante las siguientes 24 horas, el paciente presentó desorientación, agitación y deterioro de su función renal con evidentes alteraciones metabólicas e hidroelectrolíticas (urea 68 mmol/l, creatinina 6,9 mg/dl, sodio 138 mmol/l, potasio 6 mmol/l, calcio total 7,5 mmol/l, fósforo inorgánico 5,1 mmol/l, LDH 17.481 U/l, urato 44 mg/dl). A la vista de estos resultados, se realizó una ecografia Doppler renal que resultó anodina, interpretándose el fracaso renal como de origen multifactorial agravado por la precipitación de cristales de ácido úrico, para lo que se instauró tratamiento con hiperhidratación, alcalinización de la orina, hemodiálisis, alopurinol y rasburicasa con marcado descenso de los niveles de urato (urato 1,8 mg/dl). No obstante, ante el empeoramiento clínico progresivo del estado general del paciente se realizó un TAC abdominopélvico que demostró una masa retroperitoneal, de 13 x 10 cm y una lesión, en flanco derecho, de 15 x 8,6 cm, que parecía corresponder a un conglomerado de asas fijas con pared engrosada, sin poder descartar una neoplasia subyacente. También se apreciaron múltiples adenopatías en cadena mesentérica, iliacas e inguinales, así como una lesión perirrectal izquierda, en probable relación a su antecedente de absceso y fístula perianal. Esta última lesión era el único hallazgo radiológico objetivado, dos meses antes del episodio actual, en una resonancia abdomino-pélvica de control de su enfermedad perianal.
+A pesar del tratamiento de soporte instaurado, el paciente continuó con fiebre, disminución del nivel de consciencia, disnea progresiva y anuria, falleciendo tres días después de su ingreso en planta. El diagnóstico definitivo fue obtenido tras la realización de una necropsia: plasmocitoma plasmoblástico con predominio de cadenas ligeras tipo lamda que infiltraba íleon terminal y ciego, raíz del mesenterio, ganglios linfáticos abdominales y médula ósea.
+Remitido por: Dra.Consuelo Froilán Torres. Servicio de Aparato Digestivo. Hospital Universitario La Paz. Paseo de la Castellana, 261. 28046 Madrid. e-mail: c_froilantorres@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="15" text="Victor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="28" end="40" text="Alvarez Puga" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="47" end="53" text="287956" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="61" end="75" text="89 45760546 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="88" end="105" text="Plaza Celenque, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="129" end="134" text="28013" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="140" end="146" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="190" end="200" text="27/07/1965" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="208" end="214" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="222" end="229" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="236" end="237" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="257" end="267" text="30/10/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="298" end="321" text="Consuelo Froilán Torres" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="329" end="340" text="28 28 65408" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="359" end="364" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="368" end="375" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3506" end="3529" text="Consuelo Froilán Torres" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3562" end="3591" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3593" end="3620" text="Paseo de la Castellana, 261" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3622" end="3627" text="28046" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3628" end="3634" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3644" end="3668" text="c_froilantorres@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

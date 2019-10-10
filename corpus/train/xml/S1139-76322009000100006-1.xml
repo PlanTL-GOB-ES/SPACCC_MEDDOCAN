@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Darío.
+Apellidos: Navalón Bueno.
+NHC: 8574962.
+Domicilio: Calle Melchor Fdz Almagro 19, 8B.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 02/04/2018.
+País: España.
+Edad: 29 días Sexo: H.
+Fecha de Ingreso: 01/05/2018.
+Médico: Francisco Miguel Ortiz Sanjuán NºCol: 28 28 57447.
+Historia Actual: Recién nacido de 29 días de edad y 4,100 kg de peso llevado por sus padres al centro de salud para valoración por exantema facial.
+Al explorarlo su pediatra observa taquicardia y taquipnea, comprobando por pulsioximetría una frecuencia cardiaca de 255 ppm y Sat O2: 97%, por lo que lo remite al hospital. Hasta ese momento toleraba bien la alimentación y presentaba una buena ganancia ponderal.
+El embarazo y parto transcurrieron con normalidad, siendo a término con Apgar 8/9, un peso al nacimiento de 3.250 g, talla de 51,5 cm y perímetro craneal de 31,8 cm. No se constataron antecedentes familiares de interés.
+Evolución y comentarios: A su llegada a urgencias presenta buen aspecto general con buen color, taquipnea y tiraje subcostal, una frecuencia cardiaca superior a 250 pulsaciones por minuto (ppm) con una Sat O2 de 97%. A los pocos minutos presenta empeoramiento del estado general, frialdad y cianosis acras y palidez facial. El ECG presentaba morfología de taquicardia supraventricular con complejos QRS estrechos, ondas P retrógradas y una frecuencia cardiaca de 288 ppm.
+Se practican maniobras vagales (hielo en la cara) sin efecto, por lo que se administra 1 bolo intravenoso (IV) de 50 µg/kg de adenosina sin respuesta y 3 minutos después un segundo bolo de 100 µg/kg, cediendo la taquicardia y revirtiendo a ritmo sinusal con una frecuencia de 168 ppm y presentando mejoría de la coloración cutánea y del aspecto general.
+Dado que en nuestro medio disponemos de ampollas de Adenocor® de 2 ml con 6 mg de fármaco, fue necesario realizar diluciones. En nuestro caso tomamos 0,5 ml (1,5 mg) diluidos con 14,5 ml de suero fisiológico, consiguiendo una concentración de 100 µg/ml. Se administra pues una dosis inicial de 2 ml (50 µg/kg) y ante la falta de respuesta una segunda dosis de 4 ml (100 µg/kg).
+Tras la resolución de la taquicardia se procede a trasladar al paciente al hospital de referencia, a la Unidad de Cuidados Intensivos pediátrica (UCIP) para seguimiento y estudio. Durante las 24 horas siguientes, presentó un nuevo episodio de taquicardia supraventricular también resuelto con adenosina, manteniéndose posteriormente asintomático. Se informó de ecocardiografía normal. Hasta la fecha no ha presentado recurrencia alguna, manteniendo tratamiento profiláctico con propanolol.
+Remitido por: Dr. Francisco Miguel Ortiz Sanjuán. Centro de Salud Barrio del Pilar Calle de Finisterre, 18, 28029 Madrid. Correo electrónico: forsan@comv.es 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="8" end="13" text="Darío" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="26" end="39" text="Navalón Bueno" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="46" end="53" text="8574962" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="66" end="98" text="Calle Melchor Fdz Almagro 19, 8B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="122" end="128" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="134" end="139" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="183" end="193" text="02/04/2018" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="201" end="207" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="215" end="222" text="29 días" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="229" end="230" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="250" end="260" text="01/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="270" end="300" text="Francisco Miguel Ortiz Sanjuán" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="308" end="319" text="28 28 57447" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="338" end="351" text="Recién nacido" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="355" end="362" text="29 días" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="406" end="412" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2665" end="2695" text="Francisco Miguel Ortiz Sanjuán" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2697" end="2729" text="Centro de Salud Barrio del Pilar" TYPE="CENTRO_SALUD" comment=""/>
+    <LOCATION id="T5" start="2730" end="2753" text="Calle de Finisterre, 18" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2755" end="2760" text="28029" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2761" end="2767" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2789" end="2803" text="forsan@comv.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

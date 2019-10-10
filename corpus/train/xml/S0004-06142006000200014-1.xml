@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Marcos.
+Apellidos: Ponce Nuñez.
+NHC: 3789367.
+NASS:36 27384902 09.
+Domicilio: Av. Miguel Hernandez 16.
+Localidad/ Provincia: Madrid.
+CP: 28028.
+Datos asistenciales.
+Fecha de nacimiento: 28/05/1982.
+País: España.
+Edad: 36 años Sexo: H.
+Fecha de Ingreso: 07/06/2018.
+Médico: Miguel Álvarez Múgica  NºCol: 28 28 90932.
+Informe clínico del paciente: Varón de 36 años, sin antecedentes personales de interés, que en ecografía realizada por dolor tipo cólico sobre fosa renal derecha, se informó como una masa intrarrenal de 8 - 10 cm con material ecogénico en su interior, situada en polo inferior de riñón derecho, sugiriendo un quiste renal complicado. En TC realizado posteriormente, se informó como masa sólida en polo inferior de riñón derecho de 10 cm de diámetro máximo, que condicionaba compresión de la vía excretora del mismo, sin evidencia de trombo tumoral en vena renal ni en cava, sugestiva de hipernefroma. Se le realizó una Gammagrafía ósea con Tc99m-MDP sin observarse acúmulos oseos patológicos. 
+Con los datos obtenidos se realizó un nefrectomía radical derecha, evidenciando como hallazgo intraoperatorio, una masa adherida a polo inferior de riñón derecho. (El tumor y el riñón aunque próximos, a la disección resultaron claramente independientes).
+El informe anatomo-patológico de la pieza resultó de Tumor fibroso solitario. El tumor se encontraba bien delimitado aunque no encapsulado, sin infiltrar el riñón ni los vasos renales que se encontraban desplazados por la gran masa tumoral. El estudio inmunohistoquímico, demostró positividad para el CD34, CD99 y Vimentina, mientras que resultó negativo para la Desmina, la Proteina S-100, y la CAM5.2.
+El paciente fue intervenido en noviembre del 2001. Desde entonces sigue controles ambulatorios en nuestra consulta con ecografias semestrales y TC anuales, sin presentar recidivas del mismo.
+Remitido por:Dr. Miguel Álvarez Múgica Servicio de Urología Hospital Universitario La Paz. Madrid. (España). malvarez79@mixmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="29" end="35" text="Marcos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="48" end="59" text="Ponce Nuñez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="66" end="73" text="3789367" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="80" end="94" text="36 27384902 09" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="107" end="130" text="Av. Miguel Hernandez 16" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="154" end="160" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="166" end="171" text="28028" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="215" end="225" text="28/05/1982" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="233" end="239" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="247" end="254" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="261" end="262" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="282" end="292" text="07/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="302" end="323" text="Miguel Álvarez Múgica" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="332" end="343" text="28 28 90932" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="375" end="380" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="384" end="391" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T6" start="1729" end="1747" text="noviembre del 2001" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="1906" end="1927" text="Miguel Álvarez Múgica" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="1949" end="1978" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="1980" end="1986" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1989" end="1995" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1998" end="2020" text="malvarez79@mixmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

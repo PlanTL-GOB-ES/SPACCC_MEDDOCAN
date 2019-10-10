@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Daniel.
+Apellidos: Hortaleza Diaz.
+NHC: 5247894.
+Domicilio:  Calle Via Limite, 92.
+Localidad/ Provincia: Santander.
+CP: 39893.
+Datos asistenciales.
+Fecha de nacimiento: 18/04/1985.
+País: España.
+Edad: 33 años Sexo: H.
+Fecha de Ingreso: 20/06/2018.
+Médico:  Enrique Ramos Barselo  NºCol: 39 39 45679.
+Informe clínico del paciente: Varón de 33 años diagnosticado de SK y con antecedentes de sinusitis bilateral, bronquiectasias y desprendimiento retina de ojo derecho que consulta por aumento del tamaño testicular e induración. El paciente no refiere otra clínica acompañante salvo dolor lumbar que se le irradia a testículo izquierdo. A la exploración se evidencia un aumento del volumen testicular, indoloro y de consistencia pétrea sugestivo de neoplasia. No se palpan adenopatías.
+En la ecografía se observan signos compatibles con tumor testicular tipo seminoma sin ganglios locorregionales. En la Rx de tórax se observa situs inversus, evidenciado por el apex de la silueta cardiaca y la cámara de gases gástrica a la dcha y alguna imagen cicatricial con probables bronquiectasias en lóbulo inferior izquierdo.
+En la analítica se determina LDH: 340 (230-460); GOT: 44 (2-37); GPT: 44 (2-40). Marcadores tumorales: a-fetoproteína: 1.1 ng/ml (1-7) y b-HCG <5.0 mUI/ml.
+Se realiza orquiectomía inguinal bajo raquianestesia a nivel L3-L4 con bupivacaína hiperbárica y se coloca prótesis testicular.
+El resultado anatomopatológico fue de seminoma clásico de 2.5 cms de diámetro que afecta a la albugínea (sin sobrepasarla) y respeta el epidídimo, la rete testis, el cordón espermático y los bordes quirúrgicos. No se evidencia invasión vascular. Neoplasia germinal intratubular. Fibrosis e hialinización tubular de testículo no tumoral.
+Con el diagnóstico de seminoma grado I sin criterios de mal pronóstico y de acuerdo con el Servicio de Oncología se decidió no aplicar tratamiento adicional, observando tras un año de seguimiento normalidad bioquímica de los parámetros tumorales y siendo la exploración física así como las pruebas por imágenes negativas. Tras la orquiectomía se realizaron 2 espermiogramas con el resultado en ambos de azooospermia.
+Remitido por: Enrique Ramos Barselo Servicio de Urología Hospital Universitario Marqués de Valdecilla Avda. Valdecilla, 25. 39008 Santander. (España) enriqueramosbarselo@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="29" end="35" text="Daniel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="48" end="62" text="Hortaleza Diaz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="69" end="76" text="5247894" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="90" end="110" text="Calle Via Limite, 92" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="134" end="143" text="Santander" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="149" end="154" text="39893" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="198" end="208" text="18/04/1985" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="216" end="222" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="230" end="237" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="244" end="245" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="265" end="275" text="20/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="286" end="307" text="Enrique Ramos Barselo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="316" end="327" text="39 39 45679" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="359" end="364" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="368" end="375" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2197" end="2218" text="Enrique Ramos Barselo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2240" end="2284" text="Hospital Universitario Marqués de Valdecilla" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2285" end="2305" text="Avda. Valdecilla, 25" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2307" end="2312" text="39008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2313" end="2322" text="Santander" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2325" end="2331" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2333" end="2364" text="enriqueramosbarselo@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

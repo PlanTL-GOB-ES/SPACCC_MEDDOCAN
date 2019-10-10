@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Liliana.
+Apellidos: Padilla Sotelo.
+NHC: 7834683.
+Domicilio: C/ de Roberto de Agustina.
+Localidad/ Provincia: Madrid.
+CP: 28703.
+Datos asistenciales.
+Fecha de nacimiento: 17/07/2004.
+País de nacimiento: España.
+Edad: 10 años Sexo: M.
+Fecha de Ingreso: 20/10/2014.
+Servicio: Oftalmología.
+Episodio: 79845698.
+Médico: Ángela Muñoz Hernández NºCol: 28 28 78631.
+Informe clínico del paciente: El segundo caso es el de una niña de 10 años que fue derivada desde otro centro por baja visión sin causa orgánica aparente. La paciente presentaba un informe donde constaba una agudeza visual de 0,01 en ambos ojos con una refracción bajo cicloplejia de + 1,00. Todas las exploraciones oftalmológicas fueron normales. En las pruebas complementarias presentadas potenciales evocados visuales (PEV), electrorretinograma (ERG), angiofluoresceingrafía (AFG), tomografía axial computerizada (TAC), resonancia magnética (RM) tampoco se encontró ninguna alteración. Ante la sospecha de simulación, ahondamos en la situación familiar, escolar y social de la paciente. Se trataba de la menor de 4 hermanos, con una gran diferencia de edad, y en los últimos meses había comenzado a tener un mal comportamiento, con bajas notas en el colegio, dificultad en la integración con sus compañeros y, además, un esguince que le obligó a utilizar muletas. Se decidió realizar la prueba de confusión con lentes: se colocó en una montura de pruebas una lente de + 6,00 y a continuación neutralizamos progresivamente con lentes negativas. La AV monocular fue de 0,8 y 0,6, respectivamente; y 0,8 en visión binocular. Los valores de estereopsis fueron normales, de 40". Se habló con los padres  Teresa y Juan Carlos para tranquilizarles sobre la situación de la niña, y fue remitida de nuevo a su centro de referencia para control y seguimiento.
+Responsable clínico: Dra. Ángela Muñoz Hernández. Hospital Universitario Infanta Sofía.  Paseo de Europa, 34, 28703 San Sebastián de los Reyes, Madrid. Correo electrónico: anhumahe@salud.madrid.org
+]]></TEXT>
+  <TAGS>
+    <NAME id="T27" start="28" end="35" text="Liliana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T26" start="48" end="62" text="Padilla Sotelo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="69" end="76" text="7834683" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T24" start="89" end="114" text="C/ de Roberto de Agustina" TYPE="CALLE" comment=""/>
+    <LOCATION id="T23" start="138" end="144" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T22" start="150" end="155" text="28703" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T1" start="199" end="209" text="17/07/2004" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T21" start="231" end="237" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T20" start="245" end="252" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T19" start="259" end="260" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="280" end="290" text="20/10/2014" TYPE="FECHAS" comment=""/>
+    <ID id="T17" start="326" end="334" text="79845698" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T16" start="344" end="366" text="Ángela Muñoz Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T15" start="374" end="384" text="28 28 7863" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T14" start="446" end="450" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="454" end="461" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T11" start="1091" end="1099" text="la menor" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="1103" end="1113" text="4 hermanos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="1681" end="1709" text="padres  Teresa y Juan Carlos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="1756" end="1760" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1866" end="1888" text="Ángela Muñoz Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1890" end="1926" text="Hospital Universitario Infanta Sofía" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="1929" end="1948" text="Paseo de Europa, 34" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1950" end="1955" text="28703" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1956" end="1982" text="San Sebastián de los Reyes" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1984" end="1990" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2012" end="2037" text="anhumahe@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

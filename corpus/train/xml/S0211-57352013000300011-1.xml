@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Leticia.
+Apellidos: Romero Andrade.
+NHC: 8792423.
+NASS: 89 45678961 21.
+Domicilio: C/ Rios Rosas, 5, 6 A.
+Localidad/ Provincia: Madrid.
+CP: 28015.
+Datos asistenciales.
+Fecha de nacimiento: 30/06/1957.
+País de nacimiento: España.
+Edad: 59 años Sexo: M.
+Fecha de Ingreso: 13/11/2016.
+Médico: María Angeles Alayeto Gastón NºCol: 28 28 57480.
+Historia Actual:Paciente de 59 años, licenciada en ciencias exactas y ex profesora de instituto. Con antecedentes y aparición del Delirio de Capgras tras Hemorragia Subaracnoidea (HSA). Es la mayor de tres hermanos. Describe su infancia feliz, estaba muy unida a su padre, era una niña extrovertida, sociable e independiente. Intelectualmente brillante, pronto vive de forma independiente trasladándose varias veces de ciudad según requerimientos profesionales. Debutó con un brote psicótico con ideación paranoide a los 30 años de edad tras suspenderse su proyecto de boda. Los episodios maniacos y depresivos se van alternando precisando algunos de ellos ingreso hospitalario, aunque pudiendo desarrollar vida normal sin afectación laboral entre periodos hasta el tercero de sus ingresos en el año 2005, motivado por un episodio depresivo y coincidiendo con el reciente fallecimiento del padre, momento en el que la paciente solicita la incapacitación laboral (ILP absoluta concedida en 2006). Las recaídas siempre tuvieron que ver con el abandono del tratamiento con Litio. También se observa un consumo abusivo de alcohol durante este tiempo. El diagnóstico hasta diciembre de 2009: "Trastorno Bipolar con síntomas psicóticos congruentes y no congruentes, con remisión" y "Abuso de alcohol". Desde que se independiza apenas tiene relación con sus padres y hermanos, por su estilo de vida y sintomatología maniaca es considerada como la "oveja negra" de la familia.
+En 2009 sufre una Hemorragia Subaracnoidea (HSA). El TAC revela afectación izquierda temporoparietal que se rodea de amplio edema; efecto masa sobre el sistema ventricular ipsilateral y hematoma parietal izquierdo agudo con afectación grave del nivel de conciencia, sensibilidad, motricidad y habla. Al despertar del coma dice que lo primero que ve es la cara de un antiguo compañero profesor al que le unía una relación de afecto. Tras esto habla de que sus hermanos "no son sus hermanos", atribuyendo al profesor amigo el cambio. El DC es extensible a amigos y conocidos. Abandonada por su pareja en ese momento, será el hermano quien se responsabilice de su cuidado.
+Evolución del caso tras HSA. Posteriormente requiere varios ingresos hospitalarios por descompensación de síntomas psiquiátricos; prácticamente deja de haber periodos asintomáticos. En unidad de agudos previo al ingreso en UME presentaba: potomanía, descompensación psicótica con ideación delirante tipo paranoide, alucinaciones cenestésicas, aislamiento social y pensamiento desorganizado, ánimo hipertímico, insomnio, y ligera desinhibición. Se retiraron las sales de litio por nefropatía secundaria a diabetes insípida, instaurándose ácido valproico. El diagnóstico: 'Trastorno Esquizoafectivo mixto, con síntomas psicóticos congruentes y no congruentes"; "Abuso de alcohol". En febrero de 2012 ingresa en UME para iniciar un "plan individualizado de rehabilitación".
+• La evaluación médico-enfermera constató una limitación funcional moderada con hipotonía generalizada. Antecedentes de hipotiroidismo y DM-NID, ambos en remisión. Potomanía y enuresis secundarias a episodios de diabetes insípida nefrogénica que se corrigieron con autoregistro y tiacídicos.
+• La exploración neuropsicológica (WAIS IV) evidenció deterioro cognitivo tanto en memoria operativa como en velocidad de procesamiento, aunque los niveles reflejan un nivel "normal", en torno a CI de 100, se presupone con anterioridad mucho más elevada atendiendo a su historia académica y profesional. Exhibe conductas verbales socialmente inapropiadas que sugerirían afectación frontal, quizá consecuente con la dilatada trayectoria de consumo abusivo de alcohol.
+• Evaluación psicopatológica: Presencia de varios delirios, de influencia corporal, de telepatía y DC, y algún fenómeno alucinatorio simple. El mismo profesor que provoca suplantación de identidades también le tira cosas y le empuja. Se comunica telepáticamente con este a través de los números que aparecen en la TV y de los chasquidos que escucha en los cristales. Las características del DC se recogen en la tabla 1. Destacar que aunque al principio manifestaba algo de hostilidad hacia el "doble del hermano", los sentimientos pasaron a ser positivos, de hecho ahora se lleva mucho mejor con él que antes del episodio de la HSA. La estabilización psicopatológica se consigue con Depakine 1300 mg/día, Olanzapina 20 mg/día, Risperidona 6 mg/día, Complejo Vitamina B. Participa en el "grupo de adherencia al tratamiento". Alta en diciembre de 2012. Sintomatología psicótica positiva residual e insight parcial.
+Responsable clínico: Dra. María Angeles Alayeto Gastón (ma.alayeto@gmail.com)
+]]></TEXT>
+  <TAGS>
+    <NAME id="T36" start="28" end="35" text="Leticia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T35" start="48" end="62" text="Romero Andrade" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T34" start="69" end="76" text="8792423" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T33" start="84" end="98" text="89 45678961 21" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T30" start="111" end="132" text="C/ Rios Rosas, 5, 6 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T32" start="156" end="162" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T31" start="168" end="173" text="28015" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T29" start="217" end="227" text="30/06/1957" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T28" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T27" start="263" end="270" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T26" start="277" end="278" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T25" start="298" end="308" text="13/11/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T24" start="318" end="346" text="María Angeles Alayeto Gastón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T23" start="354" end="365" text="28 28 57480" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T22" start="395" end="402" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <PROFESSION id="T1" start="437" end="462" text="ex profesora de instituto" TYPE="PROFESION" comment=""/>
+    <ID id="T21" start="559" end="581" text="mayor de tres hermanos" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T20" start="633" end="638" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T19" start="648" end="652" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T5" start="888" end="895" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="1163" end="1171" text="año 2005" TYPE="FECHAS" comment=""/>
+    <OTHER id="T17" start="1257" end="1262" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="1356" end="1360" text="2006" TYPE="FECHAS" comment=""/>
+    <DATE id="T15" start="1535" end="1552" text="diciembre de 2009" TYPE="FECHAS" comment=""/>
+    <OTHER id="T3" start="1718" end="1724" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="1727" end="1735" text="hermanos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="1839" end="1843" text="2009" TYPE="FECHAS" comment=""/>
+    <OTHER id="T13" start="2295" end="2303" text="hermanos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T4" start="2316" end="2324" text="hermanos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="2428" end="2434" text="pareja" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="2459" end="2466" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="3188" end="3203" text="febrero de 2012" TYPE="FECHAS" comment=""/>
+    <OTHER id="T9" start="4540" end="4547" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="4868" end="4885" text="diciembre de 2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="4975" end="5003" text="María Angeles Alayeto Gastón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T6" start="5005" end="5025" text="ma.alayeto@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sandra .
+Apellidos: De la Cruz Lorenzo.
+NHC: 3478564.
+NASS: 78 43567091 65.
+Domicilio: C/ Santiesteban, 27, 3, A.
+Localidad/ Provincia: Madrid.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 08/11/1924.
+País de nacimiento: España.
+Edad: 92 años Sexo: M.
+Fecha de Ingreso: 03/03/2017.
+Médico: Miguel Jiménez Peñalba NºCol: 28 28 57894.
+Informe clínico del paciente: Mujer de 92 años de edad, sin alergias medicamentosas conocidas, con antecedentes personales de hipertensión arterial, diabetes mellitus tipo 2, fibrilación auricular crónica y enfermedad de Alzheimer. Está a cargo de su hija con quién vive en la calle embajadores, 23, 2 A de Madrid. Ingresó por vómitos en posos de café, epigastralgia y pérdida de de peso en el último mes. La exploración física era irrelevante.
+En la analítica destacaba: hemoglobina 7,1 g/dl, hematocrito 23,8%, VCM 77, leucocitos 11.940, VSG 40 mm. Glucosa 206 mg/dl. Hierro 28 ug/dl.
+Se realizó una endoscopia oral en la que se visualizó una gran hernia de hiato y en tercio distal esofágico una úlcera profunda de aproximadamente 2 cm de diámetro con abundante exudado blanquecino en el cráter. Se realizó una biopsia y citología de la lesión. La histología demostró mucosa escamosa esofágica y numerosos gránulos de sulfuro conteniendo abundantes hifas consistentes con actinomicosis.
+Se inició tratamiento con penicilina G intravenosa durante unos días y posteriormente dada de alta con penicilina oral. La paciente fue perdida en el seguimiento.
+Responsable clínico: Dr. Miguel Jiménez Peñalba. Correo electrónico: mijipeñ@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="34" text="Sandra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="48" end="66" text="De la Cruz Lorenzo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="73" end="80" text="3478564" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="88" end="102" text="78 43567091 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="115" end="140" text="C/ Santiesteban, 27, 3, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="164" end="170" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="176" end="181" text="28036" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="225" end="235" text="08/11/1924" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="257" end="263" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="271" end="278" text="92 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="285" end="286" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="306" end="316" text="03/03/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="326" end="348" text="Miguel Jiménez Peñalba" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="356" end="367" text="28 28 57894" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="399" end="404" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="408" end="415" text="92 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T4" start="620" end="624" text="hija" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T3" start="646" end="672" text="calle embajadores, 23, 2 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="676" end="682" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <NAME id="T6" start="1547" end="1569" text="Miguel Jiménez Peñalba" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1591" end="1610" text="mijipeñ@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

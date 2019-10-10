@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Joaquin.
+Apellidos: Narvaez Castro.
+NHC: 7823609.
+NASS: 78 26957605 67.
+Domicilio: Calle Vitruvio 2, 1 G.
+Localidad/ Provincia: Madrid.
+CP: 28011.
+Datos asistenciales.
+Fecha de nacimiento: 05/05/1996.
+País: España.
+Edad: 22 años Sexo: H.
+Fecha de Ingreso: 18/06/2018.
+Episodio: 7266589.
+Médico:Rafael García Cañas  NºCol: 28 28.
+Informe clínico del paciente: Varón de 22 años (68 kg., 172 cm.), militar en activo, sin antecedentes de interés, que recibe un impacto de un proyectil (calibre de 9 mm.), por disparo accidental de pistola, a corta distancia, sobre el muslo derecho.
+Tras la valoración primaria y atención inicial es evacuado al HGD "Orad y Gajías", donde se diagnostica fractura de tercio distal de fémur derecho, abierta Gustilo tipo III, conminuta, y sin desplazamiento. En el resto de la exploración no se objetivaron lesiones.
+Se realizó limpieza exhaustiva y desbridamiento de las heridas en muslo derecho, e inmovilización del miembro inferior derecho mediante férula cruropédica posterior. Se instauró profilaxis antibiótica, profilaxis antitetánica y profilaxis antitrombótica.
+En la valoración terciaria del paciente en el HCD "Gómez Ulla", se realizó una TC axial del fémur derecho, con reconstrucciones multiplanares y volumétricas. Se determinó una fractura conminuta del tercio distal del fémur derecho, presentando múltiples pequeños fragmentos desplazados al compartimento posterior. Tras la presentación del caso en sesión clínica del servicio, se decidió tratamiento quirúrgico mediante el empleo de fijador externo.
+Se interviene quirúrgicamente colocándose un fijador externo XCaliber (Orthofix®) con cuatro pines femorales, en configuración estática y monoplanar bajo anestesia regional intradural y sedación. No se registraron incidencias quirúrgicas o anestésicas durante la intervención.
+El herido presentó una buena evolución postoperatoria, iniciando carga parcial a las 24 horas de la intervención. A los 5 días de ingreso hospitalario, el paciente fue dado de alta a su domicilio, con posterior seguimiento clínico-radiológico de forma ambulatoria.
+A los dos meses de la intervención, el paciente presentaba un balance articular de rodilla limitado y un retardo de consolidación en el foco de fractura. En la revisión realizada a los cuatro meses, se constató mediante estudio por TC una ausencia de consolidación del foco de fractura, y una rigidez articular de rodilla con tope rígido a los 30o de flexión.
+Tras la retirada del fijador externo a las 18 semanas, el paciente fue reintervenido de forma programada, bajo anestesia regional intradural y sedación, para refrescado de foco de fractura y fijación interna mediante enclavado endomedular femoral retrógrado utilizando clavo T2 (Stryker®), y para el tratamiento de la contractura en extensión de la rodilla se realizó una cuadriceplastia según técnica de Judet modificada, tras la cual se objetivó una ganancia de balance articular flexionando la rodilla contra gravedad hasta llegar a los 110o.
+El postoperatorio inmediato cursó sin incidencias, y el paciente inició tratamiento rehabilitador precoz programado por el servicio de Medicina Física y Rehabilitación del HCDGU.
+En los controles posteriores a la cirugía, el paciente presentaba un balance articular de la rodilla de 110o de flexión con extensión completa, realizando una marcha normal y sin dolor.
+En la actualidad, el paciente se encuentra reincorporado de forma completa a sus actividades habituales.
+Remitido por: Dr. Rafael García Cañas. Servicio de Cirugía Ortopédica y Traumatología. Hospital Central de la Defensa Gómez Ulla. Glorieta del Ejército 1. 28047 Madrid. España. rgarc18@oc.mde.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T28" start="29" end="36" text="Joaquin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T27" start="49" end="63" text="Narvaez Castro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T26" start="70" end="77" text="7823609" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T25" start="85" end="99" text="78 26957605 67" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T24" start="112" end="133" text="Calle Vitruvio 2, 1 G" TYPE="CALLE" comment=""/>
+    <LOCATION id="T23" start="157" end="163" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T22" start="169" end="174" text="28011" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T20" start="218" end="228" text="05/05/1996" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T21" start="236" end="242" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T18" start="250" end="257" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="264" end="265" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T19" start="285" end="295" text="18/06/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T13" start="307" end="314" text="7266589" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T15" start="323" end="342" text="Rafael García Cañas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="351" end="356" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="388" end="393" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T17" start="397" end="404" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <PROFESSION id="T10" start="424" end="431" text="militar" TYPE="PROFESION" comment=""/>
+    <LOCATION id="T9" start="670" end="673" text="HGD" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T8" start="1174" end="1190" text="HCD &quot;Gómez Ulla&quot;" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="3196" end="3201" text="HCDGU" TYPE="HOSPITAL" comment=""/>
+    <NAME id="T14" start="3512" end="3531" text="Rafael García Cañas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3581" end="3622" text="Hospital Central de la Defensa Gómez Ulla" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3624" end="3647" text="Glorieta del Ejército 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3649" end="3654" text="28047" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3655" end="3661" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3663" end="3669" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3671" end="3688" text="rgarc18@oc.mde.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

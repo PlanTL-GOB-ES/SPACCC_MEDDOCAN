@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Luis.
+Apellidos: Torres Rollán.
+NHC: 2309875.
+NASS: 23 45065909 38 .
+Domicilio: Calla Miraflores 16, 3D.
+Localidad/ Provincia: Sevilla.
+CP:41008.
+Datos asistenciales.
+Fecha de nacimiento: 23/05/1982.
+País: España.
+Edad: 32 años Sexo: H.
+Fecha de Ingreso: 15/08/2014.
+Médico: Eugenio Velasco Ortega NºCol: 41 41 89756.
+Informe clínico del paciente: Paciente de sexo masculino, de 32 años de edad, sin antecedentes médicos de interés, que acude a consulta para tratamiento implantológico por pérdida del incisivo central superior derecho. El examen radiológico (ortopantomografía) muestra un quiste radicular residual a nivel del diente perdido. Al paciente se le recomienda la posibilidad de realizar un plan de tratamiento que consiste en una misma sesión operatoria, de la eliminación del quiste, regeneración ósea del defecto óseo e inserción de un implante. Posteriormente después de un periodo de cicatrización se realizará la rehabilitación con una corona cementada implantosoportada. El paciente es informado de la técnica quirúrgica y de los aspectos prostodóncicos (prótesis provisional y definitiva), temporalización (duración del tratamiento, número de visitas) y el seguimiento (revisiones clínicas y radiológicas), y de la posibilidad de la existencia de complicaciones y pérdida de implantes. El paciente autoriza el tratamiento implantológico mediante un consentimiento informado.
+Cirugía
+El día previo a la cirugía, el paciente comienza un régimen antibiótico preventivo (amoxicilina + clavulánico) durante una semana, y en el caso de existir dolor o inflamación, se le prescribe ibuprofeno. Además se le recomienda un enjuague diario con clorhexidina durante los primeros 30 días. Se realiza la extirpación del quiste radicular con legrado y se realiza el lecho implantario, insertándose un implante de conexión externa universal con nanosuperficie Nanoblast® (Galimplant, Sarria, España) de forma sumergida. Se rellena todo el defecto óseo con betafosfato tricálcico KeraOs® (Keramat, Coruña, España) y se cubre con una membrana de colágeno reabsorbible BioGide® (Geistlich, Wolhusen, Suiza). A los 8 meses después de la inserción del implante se realiza la segunda cirugía con colocación de un tornillo de cicatrización.
+Prostodoncia
+A las 2 semanas de la segunda cirugía, se realizó la carga funcional del implante mediante la colocación de la correspondiente prótesis implantosoportada, una corona de porcelana cementada sobre un pilar metálico hexagonal mecanizado.
+Seguimiento clínico
+El tiempo transcurrido de seguimiento clínico desde la carga funcional del implante ha sido de 12 meses. En este periodo de tiempo no ha habido complicaciones.
+Remitido por: Dr. Eugenio Velasco Ortega. Facultad de Odontología de Sevilla. Avicena, s/n 41009 Sevilla e-mail: evelasco@us.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T31" start="28" end="32" text="Luis" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T30" start="45" end="58" text="Torres Rollán" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T29" start="65" end="72" text="2309875" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T28" start="80" end="94" text="23 45065909 38" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T27" start="108" end="131" text="Calla Miraflores 16, 3D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T26" start="155" end="162" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T25" start="167" end="172" text="41008" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T24" start="216" end="226" text="23/05/1982" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T23" start="234" end="240" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T22" start="248" end="255" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T21" start="262" end="263" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T20" start="283" end="293" text="15/08/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T19" start="303" end="325" text="Eugenio Velasco Ortega" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T18" start="333" end="344" text="41 41 89756" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T17" start="393" end="402" text="masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T16" start="407" end="414" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T15" start="1905" end="1915" text="Galimplant" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T14" start="1917" end="1923" text="Sarria" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="1925" end="1931" text="España" TYPE="PAIS" comment=""/>
+    <LOCATION id="T12" start="2021" end="2028" text="Keramat" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T11" start="2030" end="2036" text="Coruña" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T10" start="2038" end="2044" text="España" TYPE="PAIS" comment=""/>
+    <LOCATION id="T9" start="2109" end="2118" text="Geistlich" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T8" start="2120" end="2128" text="Wolhusen" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T7" start="2130" end="2135" text="Suiza" TYPE="PAIS" comment=""/>
+    <NAME id="T6" start="2713" end="2735" text="Eugenio Velasco Ortega" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2737" end="2771" text="Facultad de Odontología de Sevilla" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T4" start="2773" end="2785" text="Avicena, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2786" end="2791" text="41009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2792" end="2799" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2808" end="2822" text="evelasco@us.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

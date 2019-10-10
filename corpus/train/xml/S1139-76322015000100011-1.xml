@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Ian.
+Apellidos: Torres Jarama.
+NHC: 3024567.
+Domicilio: Calle Montevideo,66.
+Localidad/ Provincia: Madrid.
+CP: 28003.
+Datos asistenciales.
+Fecha de nacimiento:15/08/2012.
+País: España.
+Edad: 4 años Sexo: H.
+Fecha de Ingreso: 21/09/2015.
+Médico: María El Kadaoui Calvo   NºCol: 28 28 85020.
+Informe clínico del paciente: Varón de cuatro años que, de forma súbita, hace diez días presenta alteración del habla consistente en repetición de sílabas y prolongación de sonidos. No tiene otra sintomatología neurológica. Los padres lo relacionan con un traumatismo craneal sufrido el día previo al inicio del cuadro. Previamente su lenguaje era pausado y se consideraba como normal para su edad. Presentaba una adecuada adquisición de habilidades del lenguaje y otros hitos del neurodesarrollo hasta el momento actual.
+En la exploración, el paciente presenta un lenguaje coherente con repetición de fonemas en las frases y pausas prolongadas entre los mismos. La pronunciación es correcta pero el paciente tiene que esforzarse para controlarla. Organiza oraciones de tres o cuatro palabras sin problemas sintácticos. Muestra una adecuada comprensión oral. El resto de exploración neurológica normal.
+Ante estos datos se diagnostica de tartamudeo del desarrollo y se recomienda la valoración por un logopeda.
+Remitido por: Dra. María El Kadaoui Calvo mariolikc@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="29" end="32" text="Ian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="45" end="58" text="Torres Jarama" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="65" end="72" text="3024567" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T15" start="85" end="104" text="Calle Montevideo,66" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="128" end="134" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="140" end="145" text="28003" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="188" end="198" text="15/08/2012" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="206" end="212" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="220" end="226" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="233" end="234" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="254" end="264" text="21/09/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="274" end="296" text="María El Kadaoui Calvo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="306" end="317" text="28 28 85020" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="349" end="354" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="358" end="369" text="cuatro años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="547" end="553" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="1349" end="1371" text="María El Kadaoui Calvo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1372" end="1393" text="mariolikc@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

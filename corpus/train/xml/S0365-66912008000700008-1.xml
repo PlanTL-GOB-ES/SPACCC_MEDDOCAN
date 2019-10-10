@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Gustavo.
+Apellidos: Moreno Herrero .
+NHC: 7834654.
+NASS: 65 734567085 66.
+Domicilio: Calle Antonio Machado, 5, Bajo C.
+Localidad/ Provincia: Albacete.
+CP: 02001.
+Datos asistenciales.
+Fecha de nacimiento: 23/12/1952.
+País de nacimiento: España.
+Edad: 64 años Sexo: H.
+Fecha de Ingreso: 08/01/2017.
+Médico: Cristina Isabel Blanco Marchite  NºCol: 02 02 25720.
+Informe clínico del paciente: Un paciente varón de 64 años fue remitido a urgencias de Oftalmología por visión doble y mareos, sin aparentemente otros síntomas destacables; sin embargo se observó una inestabilidad en bipedestación no justificable sólo por la diplopía.
+Como único antecedente de interés el paciente refería haber sido vacunado contra la gripe hacía cinco días.
+La agudeza visual era 0,7 en ambos ojos (AO), y presentaba ambas pupilas dilatadas y arrefléxicas, sin que hubiera contacto previo con midriáticos. Presentaba una limitación en la abducción de AO, mayor en ojo izquierdo (OI), en la supraducción de AO, y dificultad para el resto de los movimientos oculares, refiriendo diplopia horizontal. El resto de la exploración oftalmológica era normal.
+Ante la sospecha diagnóstica de un síndrome de Miller Fisher se remite al servicio de Neurología, que detecta una marcha atáxica, hiporreflexia, y descarta debilidad de miembros, decidiendo el ingreso para seguimiento y estudio completo. Los resultados de los análisis de sangre y de la tomografía axial computarizada (TAC) realizada de urgencias fueron normales.
+A las 24 horas del ingreso apareció una dificultad respiratoria que precisó oxígeno y fisioterapia, y en las semanas siguientes fue desarrollando nuevos síntomas neurológicos: parálisis facial, disfonía y disfagia.
+Durante el ingreso se realizó una punción lumbar en la que se detectó una disociación albúmino-citológica, y una resonancia magnética nuclear (RMN) que descartó definitivamente lesión ocupante de espacio o desmielinización. El estudio electromiográfico no aportó información adicional.
+El estudio inmunológico fue positivo para el anticuerpo anti GQ-1b, confirmando definitivamente el diagnóstico inicial.
+El paciente mejoró de sus síntomas a las dos semanas del ingreso, habiendo recibido dos ciclos de inmunoglobulinas. La evolución clínica fue lenta y polisintomática, persistiendo la diplopía con limitación de la abducción bilateral de forma prolongada.
+Responsable clínico: Dra. Cristina Isabel Blanco Marchite C/. Alcalde Martínez de la Ossa, 1-5E 02001 Albacete España E-mail: cblancomar@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="35" text="Gustavo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="48" end="62" text="Moreno Herrero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="70" end="77" text="7834654" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="85" end="100" text="65 734567085 66" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="113" end="145" text="Calle Antonio Machado, 5, Bajo C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="169" end="177" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="183" end="188" text="02001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="232" end="242" text="23/12/1952" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="264" end="270" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="278" end="285" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="292" end="293" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="313" end="323" text="08/01/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="333" end="364" text="Cristina Isabel Blanco Marchite" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="373" end="384" text="02 02 25720" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="428" end="433" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="437" end="444" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2420" end="2451" text="Cristina Isabel Blanco Marchite" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2452" end="2489" text="C/. Alcalde Martínez de la Ossa, 1-5E" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2490" end="2495" text="02001" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2496" end="2504" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2505" end="2511" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2520" end="2539" text="cblancomar@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

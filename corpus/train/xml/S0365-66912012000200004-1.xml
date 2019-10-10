@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Fernando.
+Apellidos: Rodriguez Sanchez.
+NHC: 89075.
+NASS: 95 37865759 03.
+Domicilio: Calle fermin caballero 18, 3B.
+Localidad/ Provincia: Madrid.
+CP:28029.
+Datos asistenciales.
+Fecha de nacimiento: 01/01/1955.
+País: España.
+Edad: 62 años Sexo: H.
+Fecha de Ingreso: 11/09/2017.
+Servicio: Oftalmologia.
+Episodio: 564969.
+Médico: Elena Mencía-Gutiérrez NºCol: 28 28 94665.
+Historia Actual: Varón de 62 años de edad que acude por disminución de la agudeza visual (AV) indolora en el ojo izquierdo (OI) de 2 días de evolución. Había acudido 2 meses antes por ojo rojo, diagnosticado de conjuntivitis, y tratado con una combinación fija de dexametasona y tobramicina. Entonces la AV era 1 y la PIO 14mmHg en ambos ojos. 
+Antecedentes:Los antecedentes personales eran diabetes mellitus, hipertensión arterial, obesidad, esteatosis hepática, hipertiroidismo, cardiopatía isquémica y trasplante renal por insuficiencia renal crónica secundaria a pielonefritis crónica. Dentro de su tratamiento médico sistémico destacamos: prednisona 5mg/24h, (Prednisona Alonga®, Sanofi Aventis), tacrolimus (Prograf®, MSD) y micofenolato mofetilo (Cellcept®, Roche).
+Exploración y pruebas complementarias: La exploración inicial era AV de 1 en ojo derecho (OD) y 0,1 en OI, biomicroscopia normal en OD, en OI existía inyección conjuntival intensa y córnea deslustrada de predominio central con leve edema y tinción negativa con fluoresceína, sin Tyndall, sinequias, precipitados queráticos ni secreción. La PIO era 18mmHg en OD y 46mmHg en OI. El fondo de ojo se visualizaba con dificultad por el edema corneal, pero la papila y la mácula eran normales, con retina aplicada sin lesiones periféricas. En la gonioscopia el ángulo era abierto, sin sinequias ni neovasos. Durante la exploración llamó la atención la somnolencia del paciente y cierta dificultad respiratoria. Presentaba además baja estatura, obesidad moderada y cuello corto.
+Evolución y comentarios: El diagnóstico inicial fue hipertensión ocular en OI, y se instauró tratamiento con la combinación fija de brimonidina al 0,2% y maleato de timolol al 0,5% (Combigan®, Allergan). Se derivó a la consulta de glaucoma, y al servicio de neumología, que posteriormente diagnosticó síndrome de apnea-hipopnea grave.
+Una semana después, la AV seguía en 0,1 y persistía hiperemia conjuntival, edema corneal leve, queratitis punctata superficial leve, con PIO de 40mmHg. La paquimetría era 512µm en OD y 574µm en OI (incremento justificado por el edema corneal). Se planteó el diagnóstico diferencial con una fístula carótido-cavernosa o un síndrome del ápex orbitario, por lo que se solicitó tomografía axial computarizada (TAC). El tratamiento se cambió a brinzolamida (Azopt®, Alcon Cusi), tafluprost (Saflutan®, MSD) y diclofenaco sódico (Diclofenaco-lepori®, Angelini Farmacéutica). Dos días después, la PIO seguía en 30mmHg, por lo que se añadió acetazolamida (Edemox®, Chiesi-España) y prednisona 60 mg (Prednisona Alonga®, Sanofi Aventis) vía oral.
+La hiperemia disminuyó progresivamente, y los corticoides se redujeron paulatinamente, pero la PIO se mantuvo por encima de 26mmHg. La TAC descartó cualquier enfermedad orbitaria y/o craneal. A las 5 semanas apareció una úlcera periférica de aspecto seudodendrítico con tinción positiva de fluoresceína e infiltración de bordes; se realizó raspado corneal para cultivo y detección de proteína C reactiva de virus herpes y se inició tratamiento con aciclovir tópico (Zovirax®, Glaxo Smith Kline) y oral (Virex®, Biogen). El análisis microbiológico confirmó positividad para HVS. Con este tratamiento, la lesión corneal cicatrizó dejando un pequeño leucoma periférico, la PIO se normalizó y la agudeza visual alcanzó 0,8.
+Remitido por: Elena Mencía-Gutiérrez Correos electrónicos: emencia.hdoc@salud.madrid.org emenciag@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T32" start="9" end="17" text="Fernando" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T31" start="30" end="47" text="Rodriguez Sanchez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T30" start="54" end="59" text="89075" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T29" start="67" end="81" text="95 37865759 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T28" start="94" end="123" text="Calle fermin caballero 18, 3B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T27" start="147" end="153" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T26" start="158" end="163" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T25" start="207" end="217" text="01/01/1955" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T24" start="225" end="231" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T23" start="239" end="246" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T22" start="253" end="254" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T21" start="274" end="284" text="11/09/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T20" start="320" end="326" text="564969" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T19" start="336" end="358" text="Elena Mencía-Gutiérrez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T18" start="366" end="377" text="28 28 94665" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T17" start="396" end="401" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T16" start="405" end="412" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T15" start="1064" end="1078" text="Sanofi Aventis" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T14" start="1103" end="1106" text="MSD" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T2" start="1144" end="1149" text="Roche" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T1" start="2116" end="2124" text="Allergan" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T13" start="2719" end="2729" text="Alcon Cusi" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T12" start="2755" end="2758" text="MSD" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T11" start="2803" end="2824" text="Angelini Farmacéutica" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T10" start="2915" end="2921" text="Chiesi" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T9" start="2922" end="2928" text="España" TYPE="PAIS" comment=""/>
+    <LOCATION id="T8" start="2970" end="2984" text="Sanofi Aventis" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T7" start="3472" end="3489" text="Glaxo Smith Kline" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T6" start="3507" end="3513" text="Biogen" TYPE="INSTITUCION" comment=""/>
+    <NAME id="T5" start="3730" end="3752" text="Elena Mencía-Gutiérrez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T4" start="3775" end="3804" text="emencia.hdoc@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T3" start="3805" end="3823" text="emenciag@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

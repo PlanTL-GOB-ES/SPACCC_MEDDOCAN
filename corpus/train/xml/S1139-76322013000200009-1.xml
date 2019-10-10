@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Lucia.
+Apellidos: Paz Vega.
+NHC: 3173568.
+Domicilio: Calle Rivadavia, 32, 5 A.
+Localidad/ Provincia: Madrid.
+CP: 28035.
+Datos asistenciales.
+Fecha de nacimiento:30/04/2001.
+País: España.
+Edad: 11 años Sexo: M.
+Fecha de Ingreso: 14/06/2012.
+Médico: Estefanía García Camiño NºCol: 28 28 36250.
+Informe clínico del paciente: Niña de 11 años sin antecedentes familiares ni personales de interés, que acude de urgencia al centro de salud refiriendo presentar, desde la noche anterior, sensación de movimiento de objetos a su alrededor, con temor y ansiedad. La exploración física es normal; otoscopia sin alteraciones. Tensión arterial y glucemia normales. Llama la atención la ausencia de componente vegetativo, inestabilidad, palidez ni otra sintomatología como acúfenos o tinnitus. No se encuentra focalidad neurológica, alteraciones del equilibrio ni de la marcha, ataxia ni otros signos cerebelosos. La paciente tenía el antecedente de una toma de Romilar® (dextrometorfano) la noche anterior y una historia familiar positiva. Con estos datos y una exploración física normal, se la envió en observación a su casa, citándola a la mañana siguiente en la consulta.
+Remitido por: Estefanía García Camiño. estefania.gcamino@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="28" end="33" text="Lucia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="46" end="54" text="Paz Vega" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="61" end="68" text="3173568" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T14" start="81" end="105" text="Calle Rivadavia, 32, 5 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="129" end="135" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="141" end="146" text="28035" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="189" end="199" text="30/04/2001" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="207" end="213" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="221" end="228" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="235" end="236" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="256" end="266" text="14/06/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="276" end="299" text="Estefanía García Camiño" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="307" end="318" text="28 28 36250" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="350" end="354" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="358" end="365" text="11 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="1204" end="1227" text="Estefanía García Camiño" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1229" end="1256" text="estefania.gcamino@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

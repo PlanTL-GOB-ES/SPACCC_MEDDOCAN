@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: David.
+Apellidos: Flores Blanco.
+NHC: 8972604.
+Domicilio:  Calle Puerto Rico, 17, 3 C.
+Localidad/ Provincia: Albacete.
+CP: 02541.
+Datos asistenciales.
+Fecha de nacimiento: 20/10/2003.
+País: España.
+Edad: 13 años Sexo: H.
+Fecha de Ingreso: 04/01/2017.
+Médico: María Flores Copete NºCol: 02 02 12630.
+Informe clínico del paciente: Niño de 13 años, con antecedentes personales de síndrome de Asperger, trastorno de déficit de atención e hiperactividad e hipotiroidismo, en tratamiento con metilfenidato, risperidona y levotiroxina. Fue enviado a la consulta de Dermatología por presentar una lesión en el miembro inferior derecho, de crecimiento progresivo, desde hacía un año. Era asintomática, sin presentar ninguna clínica como dolor o prurito. No había recibido ningún tratamiento, ni refería ningún factor desencadenante. En la exploración se observó una placa, indurada a la palpación, con un área discrómica central y un halo violáceo, de distribución lineal en el tercio medio-distal en la zona externa del muslo derecho. No presentaba otras lesiones cutáneas, ni clínica sistémica acompañante.
+Padre con rasgos de Asperger no diagnosticado.
+Se solicitó una analítica que incluía hemograma, bioquímica, anticuerpos antinucleares (ANA) y serologías, examen de orina, así como biopsia de la lesión. Los resultados fueron normales, con ANA, anti-Sm, anti-RNP, anti-SSA, anti-SSB, anti-Jo1 y anti-Scl70 negativos. La serología para Borrelia burgdorferi fue negativa y el análisis de orina no mostró anomalías. La histopatología fue compatible con el diagnóstico de morfea.
+Ante una morfea lineal en la infancia sin afectación articular ni deformidad estética, se decidió iniciar tratamiento corticoideo tópico con propionato de fluticasona, una aplicación al día durante 2 meses, seguido de calcipotriol tópico, también un aplicación diaria. Tras casi un año de seguimiento, las lesiones se han estabilizado.
+Remitido por: Dra. María Flores Copete. Centro de Salud Zona 4. C/ Seminario, 4. C.P. 02006. Albacete. España. Correo electrónico: florescopetemaria@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="33" text="David" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="46" end="59" text="Flores Blanco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="66" end="73" text="8972604" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="87" end="113" text="Calle Puerto Rico, 17, 3 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="137" end="145" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="151" end="156" text="02541" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="200" end="210" text="20/10/2003" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="218" end="224" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="232" end="239" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="246" end="247" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="267" end="277" text="04/01/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="287" end="306" text="María Flores Copete" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="314" end="325" text="02 02 12630" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="357" end="361" text="Niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="365" end="372" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T23" start="1128" end="1133" text="Padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1957" end="1976" text="María Flores Copete" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1978" end="2000" text="Centro de Salud Zona 4" TYPE="CENTRO_SALUD" comment=""/>
+    <LOCATION id="T5" start="2002" end="2017" text="C/ Seminario, 4" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2024" end="2029" text="02006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2031" end="2039" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2041" end="2047" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2069" end="2096" text="florescopetemaria@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

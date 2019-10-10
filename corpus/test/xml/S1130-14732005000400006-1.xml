@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Tomás.
+Apellidos: Bernabé Ramos.
+NHC: 5867463.
+NASS: 89 56704650 22.
+Domicilio: C/ Pinar de Chamartin, 23, 1 A.
+Localidad/ Provincia: Madrid.
+CP: 28040.
+Datos asistenciales.
+Fecha de nacimiento: 23/10/1946.
+País de nacimiento: España.
+Edad: 69 años Sexo: H.
+Fecha de Ingreso: 13/06/2016.
+Servicio: Neurocirugia.
+Médico: Angel Gómez de la Riva NºCol: 28 28 69980.
+Informe clínico del paciente:Varón de 69 años que consulta en urgencias refiriendo un cuadro de disminución de fuerza en miembro inferior derecho de unos quince días de evolución, progresivo y sin causa aparente. Presentaba, además, parestesias en zonas distales de ambos pies. No refería lumbalgia y el cuadro se inició tras un dolor en la rodilla. No existían antecedentes de interés a excepción de hipertensión arterial tratada y bien controlada. A la exploración por el médico de urgencias se observó marcha en "stepage" y una disminución de fuerza 4/5 para la flexión dorsal del pie derecho. Fue diagnosticado en urgencias de posible neuropraxia del ciático poplíteo externo derecho y se le remitió a consulta de rehabilitación, donde, dos meses después del comienzo de la clínica se le remite al servicio de neurocirugía tras observar en la RM una lesión intramedular a nivel de L1, redondeada, mal definida, de 1x1 cm., con centro isointenso y periferia hipointensa en T1, que tras la administración de gadolinio realza de forma difusa y que muestra engrosamiento del diámetro del cono medular. Como primer diagnóstico se informó la posibilidad de un ependimoma de cono medular sin poder descartar que se tratase de un astrocitoma. No se hizo mención a ninguna masa a excepción de la anteriormente descrita y en la RM no se evidenciaba otro proceso. El paciente fue ingresado en el servicio de neurocirugía presentando hipoestesia en puntas de dedos de ambos pies, junto disminución de fuerza distal de 2/5 en miembro inferior derecho y de 3/5 en miembro inferior izquierdo. Conservaba a su ingreso el control de los esfínteres y el índice de Karnofsky era de 70. La radiología de tórax fue informada como normal.
+Se intervino al paciente practicándose una laminotomía osteoplástica y una resección total de una masa de l x l cm., fácilmente resecable y poco hemorrágica. El estudio histológico demostró la presencia de una metástasis de carcinoma de células claras de probable origen renal. Este diagnóstico se confirmó con la realización de una TAC tóraco-abdominal, en el que se observó una masa gigante renal (11 x l 0x 14 cm.) y diversas metástasis abdominales y pulmonares de tamaño menor a 1 cm. no evidenciables con la radiología simple. El paciente recuperó prácticamente en su totalidad la paraparesia durante su estancia en el servicio de neurocirugía. El estudio con RM de control realizado a los 3 meses no mostró ningún signo de recidiva. El paciente evolucionó favorablemente, sin presentar sintomatología neurológica, habiéndose cumplido 14 meses desde su intervención.
+Responsable clínico: Angel Gómez de la Riva. Servicio de Neurocirugía. Hospital Universitario La Paz. Paseo de la Castellana, 261. 28046 Madrid
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="33" text="Tomás" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="46" end="59" text="Bernabé Ramos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="66" end="73" text="5867463" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="81" end="95" text="89 56704650 22" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="108" end="138" text="C/ Pinar de Chamartin, 23, 1 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="162" end="168" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="174" end="179" text="28040" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="223" end="233" text="23/10/1946" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="255" end="261" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="269" end="276" text="69 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="283" end="284" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="304" end="314" text="13/06/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="348" end="370" text="Angel Gómez de la Riva" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="378" end="389" text="28 28 69980" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="420" end="425" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="429" end="436" text="69 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="3005" end="3027" text="Angel Gómez de la Riva" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="3055" end="3084" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="3086" end="3113" text="Paseo de la Castellana, 261" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="3115" end="3120" text="28046" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="3121" end="3127" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

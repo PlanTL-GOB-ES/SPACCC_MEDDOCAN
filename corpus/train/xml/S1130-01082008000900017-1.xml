@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Albert .
+Apellidos: Cornellas Bermudez.
+NHC: 7425674.
+NASS: 74 32567045 13.
+Domicilio: C/ Beniardá, 3, 8, A.
+Localidad/ Provincia: Valencia.
+CP: 46015.
+Datos asistenciales.
+Fecha de nacimiento: 27/03/1954.
+País de nacimiento: España.
+Edad: 60 años Sexo: Varón.
+Fecha de Ingreso: 08/04/2014.
+Médico: Francisco Pastor Pascual NºCol: 46 28 58988.
+Informe clínico del paciente: Paciente varón de 60 años de edad, sin antecedentes patológicos de interés, que acude a urgencias por cuadro de hemorragia digestiva en forma de hematoquecia, sin hematemesis, con estabilidad hemodinámica (presión arterial 101/61 mmHg, frecuencia cardiaca 83 lat./min, temperatura 36,8 ºC) y exploración física normal. Analítica al ingreso: Hb 11,3 g/dl, Hto 33,1%, VCM 89 fL, urea 11 mmol/L y creatinina 67 µmol/L. Inicialmente se practica una fibrogastroscopia y colonoscopia, sin objetivar lesión responsable del sangrado. Durante el ingreso el paciente presenta anemización progresiva (hasta Hb 7 g/dl), requiriendo transfusión de 5 concentrados de hematíes. El cuarto día de ingreso presenta varios episodios de hematoquecia con inestabilidad hemodinámica transitoria. Se realiza nueva fibrogastroscopia y colonoscopia, sin localizar la causa de la hemorragia. Dada la persistencia del sangrado (que precisó expansión de volumen con cristaloides y transfusión de 11 concentrados de hematíes adicionales), se practica arteriografía vía transfemoral de tronco celiaco y arteria mesentérica superior e inferior, objetivando extravasación intraluminal de contraste dependiente de una arteria yeyunal proximal. Se realiza cateterización y embolización selectiva con microcoils y se mantiene in situ el microcatéter supraselectivo (2.7 Fr) para una posterior identificación del segmento yeyunal patológico mediante la administración intraoperatoria de azul de metileno a través del mismo. Se practica una laparotomía exploradora urgente que objetiva múltiples divertículos yeyunales. Se administra azul de metileno (0,5 ml) a través del microcatéter, identificando un segmento de yeyuno teñido de azul a 1 metro del ángulo de Treitz que incluye la lesión responsable de la hemorragia (divertículo yeyunal). Se practica resección intestinal segmentaria de 20 centímetros de yeyuno y anastomosis latero-lateral. Una radiografía simple de la pieza quirúrgica evidenció la presencia de diverticulosis múltiple y microcoils próximos al divertículo responsable del sangrado. El paciente presenta un cuadro de distrés respiratorio en el postoperatorio inmediato (secundario a la politransfusión y el estado de shock hipovolémico), permaneciendo en la Unidad de Cuidados Intensivos durante 10 días. Curso posterior sin incidencias, recibiendo el alta hospitalaria 17 días más tarde. La anatomía patológica confirma el diagnóstico de diverticulosis yeyunal con ulceración focal.
+Responsable clínico: Dr. Francisco Pastor Pascual Fundación Oftalmológica del Mediterráneo Bifurcación Pío Baroja-General Avilés, s/n 46015 Valencia España E-mail: oftpaco@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="34" text="Albert" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="48" end="66" text="Cornellas Bermudez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="73" end="80" text="7425674" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="88" end="102" text="74 32567045 13" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="115" end="135" text="C/ Beniardá, 3, 8, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="159" end="167" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="173" end="178" text="46015" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="222" end="232" text="27/03/1954" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="254" end="260" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="268" end="275" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="282" end="287" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="307" end="317" text="08/04/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="327" end="351" text="Francisco Pastor Pascual" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="359" end="370" text="46 28 58988" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="411" end="416" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="420" end="427" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2896" end="2920" text="Francisco Pastor Pascual" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2921" end="2961" text="Fundación Oftalmológica del Mediterráneo" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="2962" end="3004" text="Bifurcación Pío Baroja-General Avilés, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3005" end="3010" text="46015" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3011" end="3019" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3020" end="3026" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3035" end="3051" text="oftpaco@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

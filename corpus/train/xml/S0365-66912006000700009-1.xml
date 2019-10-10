@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Carla.
+Apellidos: Santana Rot.
+NHC: 4768426.
+Domicilio: C/ Monforte de Lemos, 129, 2 A.
+Localidad/ Provincia: Madrid.
+CP: 28008.
+Datos asistenciales.
+Fecha de nacimiento:13/12/2001.
+País de nacimiento: España.
+Edad: 13 años Sexo: M.
+Fecha de Ingreso: 27/06/2015 .
+Médico: Inés Contreras  NºCol: 28 28 26100.
+Informe clínico del paciente: Niña de 13 años de edad, diagnosticada en mayo de 2003 de uveítis intermedia y tratada con glucocorticoides tópicos, peribulbares y orales, con edema macular quístico (EMQ) persistente en ambos ojos y agudeza visual (AV) de 0,2 en ojo derecho (OD) y 0,4 en el ojo izquierdo (OI). En febrero de 2004 se inyectaron 4 mg de triamcinolona intravítrea (Trigon Depot®, Bristol-Myers Squibb) en el OD. Un mes después, el EMQ se había resuelto con AV de 0,7, por lo que se repitió el tratamiento en el OI con AV de 0,7. Un año después, se detectaron presión intraocular (PIO) de 26 mmHg OD y 23 mmHg OI que fueron controladas con timolol 0,5% tópico (Timoftol® 0,5%, MSD). En julio de 2005, había desarrollado cataratas subcapsulares posteriores, con AV de 0,2 OD y 0,5 OI. Actualmente está pendiente de cirugía de facoextracción.
+Antecedentes familiares: 
+Abuelo materno operado a los 40 años por catarata bilateral con trasplante de córnea a los 68 unilateral secundario a complicaciones de cirugía de catarata.
+La abuela materna y 4 de sus hermanos (3 varones y una mujer) han tenido desprendimiento de retina.
+Tío materno intervenido a los 34 años de catarata bilateral y desprendimiento de retina.
+Refieren miopía en hermanos de abuelo materno (algunos de hasta 10 dioptrías).
+La madre tiene miopía no magna y el padre tiene Diabetes Mellitus tipo 1.
+No antecedentes oftalmológicos por rama paterna.
+Responsable clínico: Dra. Inés Contreras C/ Martín de los Heros, 80, 5º D 28008 Madrid España E-mail: inescon3@yahoo.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="28" end="33" text="Carla" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="46" end="57" text="Santana Rot" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="64" end="71" text="4768426" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T23" start="84" end="114" text="C/ Monforte de Lemos, 129, 2 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T22" start="138" end="144" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="150" end="155" text="28008" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T20" start="198" end="208" text="13/12/2001" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T19" start="230" end="236" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T18" start="244" end="251" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T17" start="258" end="259" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="279" end="289" text="27/06/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T15" start="300" end="314" text="Inés Contreras" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T14" start="323" end="334" text="28 28 26100" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T13" start="366" end="370" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="374" end="381" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="408" end="420" text="mayo de 2003" TYPE="FECHAS" comment=""/>
+    <DATE id="T3" start="649" end="664" text="febrero de 2004" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T2" start="729" end="749" text="Bristol-Myers Squibb" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T1" start="1025" end="1028" text="MSD" TYPE="INSTITUCION" comment=""/>
+    <DATE id="T10" start="1034" end="1047" text="julio de 2005" TYPE="FECHAS" comment=""/>
+    <OTHER id="T27" start="1215" end="1229" text="Abuelo materno" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T29" start="1244" end="1251" text="40 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T28" start="1375" end="1389" text="abuela materna" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T30" start="1401" end="1409" text="hermanos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T31" start="1411" end="1420" text="3 varones" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T32" start="1427" end="1432" text="mujer" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T33" start="1472" end="1483" text="Tío materno" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T34" start="1502" end="1509" text="34 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T35" start="1580" end="1606" text="hermanos de abuelo materno" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T36" start="1643" end="1648" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T37" start="1676" end="1681" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="1789" end="1803" text="Inés Contreras" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="1804" end="1836" text="C/ Martín de los Heros, 80, 5º D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T7" start="1837" end="1842" text="28008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="1843" end="1849" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="1850" end="1856" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T4" start="1865" end="1883" text="inescon3@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

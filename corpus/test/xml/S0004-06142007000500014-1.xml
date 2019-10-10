@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Sergio.
+Apellidos: Aznar Rivas.
+NHC: 5379864.
+Domicilio: Calle Mandala, 14.
+Localidad/ Provincia: Madrid.
+CP: 29034.
+Datos asistenciales.
+Fecha de nacimiento: 12/03/1998.
+País: España.
+Edad: 19 años Sexo: H.
+Fecha de Ingreso: 30/07/2017.
+Médico: Antonio Javier Márquez Moreno NºCol: 29 29 83404.
+Informe clínico del paciente: Paciente de 19 años de edad, sin antecedentes de interés, que consulta por tumoración ligeramente dolorosa en el testículo derecho, de unos 8 meses de evolución, encontrándose en la exploración clínica un aumento testicular con zonas nodulares. El testículo izquierdo no muestra alteraciones. Alfa-Feto-Proteina: 38,2 y Beta-HGC de 1,48. Ecográficamente se observan tres nódulos tumorales independientes y bien delimitados: dos de ellos heterogéneos, sólidos, de 20 y 33 mm de diámetros, con áreas quísticas y calcificaciones. El tercer nódulo era sólido hipoecoico y homogéneo, de 26 mm de diámetro. Todos los nódulos presentaban un aumento de la vascularización con flujos arteriales de baja resistencia. El estudio de extensión es negativo. Se realiza orquiectomía. Histológicamente los dos primeros nódulos correspondían a teratocarcinomas (teratoma maduro y carcinoma embrionario predominante), siendo macroscópicamente masas pardo-blanquecinas, con cavidades de contenido seroso amarillento, calcificaciones y focos de necrosis. El tercero fué diagnosticado como seminoma clásico, siendo más homogéneo macroscópicamente.
+Remitido por: Dr. Antonio Javier Márquez Moreno Teseo, 5 3-N. 29010. Málaga. (España). nuriaantonio@terra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="29" end="35" text="Sergio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="48" end="59" text="Aznar Rivas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="66" end="73" text="5379864" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T17" start="86" end="103" text="Calle Mandala, 14" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="127" end="133" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="139" end="144" text="29034" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="188" end="198" text="12/03/1998" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="206" end="212" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="220" end="227" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="234" end="235" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="255" end="265" text="30/07/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="275" end="304" text="Antonio Javier Márquez Moreno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="312" end="323" text="29 29 83404" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T7" start="367" end="374" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1500" end="1529" text="Antonio Javier Márquez Moreno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1530" end="1542" text="Teseo, 5 3-N" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1544" end="1549" text="29010" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1551" end="1557" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1560" end="1566" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1569" end="1590" text="nuriaantonio@terra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

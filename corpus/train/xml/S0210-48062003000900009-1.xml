@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Isabel.
+Apellidos: Alonso Montero.
+NHC: 7083543.
+NASS: 03 48768054 36.
+Domicilio: Calle de Verín, 19, 1B.
+Localidad/ Provincia: Granada.
+CP: 18029.
+Datos asistenciales.
+Fecha de nacimiento: 14/09/1938.
+País: España.
+Edad: 75 años Sexo: M.
+Fecha de Ingreso: 24/12/2013.
+Médico: Raquel Herrero-Hahn  NºCol: 18 18 59873.
+Informe clínico del paciente:Mujer de 75 años de edad, con antecedentes de enfermedad pulmonar obstructiva, hipertensión arterial e hipercolesterolemia.
+Consulta a nuestro servicio por el hallazgo ecográfico casual de una lesión renal.
+Ecografía: lesión quística compleja, multiseptada, de contornos polilobulados, de 11 cm de diámetro y con calcificaciones puntiformes periféricas, que ocupa la práctica totalidad de dicho riñón.
+T.C. abdomino-pélvico : lesión renal izquierda de 11 x 7 cm de diámetro, multiseptada y con calcificaciones puntiformes. Ausencia de adenopatías retroperitoneales.
+Se plantea el diagnóstico diferencial entre nefroma multilocular quístico, como primera opción, y carcinoma de células renales quístico.
+Practicamos renograma isotópico con Tc-99m. Riñón izquierdo de inferior captación y funcionalismo, con imagen fría central que podría corresponder a lesión ocupante. Función del R.I.: 25%.
+Gammagrafía ósea: Sin alteraciones.
+Con la orientación diagnóstica de lesión renal Bosniak III se decide intervención quirúrgica realizándose nefrectomía.
+Informe anatomopatológico: Nefroma quístico multilocular, sin atipias.
+Remitido por:Dra. Raquel Herrero-Hahn. Departamento de Enfermería, Facultad de Ciencias de la Salud, Universidad de Granada. Avda. de la Ilustración s/n, 18071, Granada, España. raquelherrero@correo.ugr.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="29" end="35" text="Isabel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="48" end="62" text="Alonso Montero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="69" end="76" text="7083543" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="84" end="98" text="03 48768054 36" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="111" end="133" text="Calle de Verín, 19, 1B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="157" end="164" text="Granada" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="170" end="175" text="18029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="219" end="229" text="14/09/1938" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="237" end="243" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="251" end="258" text="75 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="265" end="266" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="286" end="296" text="24/12/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="306" end="325" text="Raquel Herrero-Hahn" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="334" end="345" text="18 18 59873" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="376" end="381" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="385" end="392" text="75 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1512" end="1531" text="Raquel Herrero-Hahn" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1561" end="1617" text="Facultad de Ciencias de la Salud, Universidad de Granada" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="1619" end="1646" text="Avda. de la Ilustración s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1648" end="1653" text="18071" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1655" end="1662" text="Granada" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1664" end="1670" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1672" end="1699" text="raquelherrero@correo.ugr.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

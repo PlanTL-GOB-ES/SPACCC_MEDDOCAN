@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Samantha .
+Apellidos: Martinez Lobo.
+NHC: 7094376.
+Domicilio: Calle Sierra Espuña 13.
+Localidad/ Provincia: Murcia.
+CP: 30009.
+Datos asistenciales.
+Fecha de nacimiento: 19/06/2014.
+País: España.
+Edad: 3 años Sexo: M.
+Fecha de Ingreso: 20/04/2018.
+Servicio: Urgencias.
+Médico: Júlia Morata Alba NºCol: 30 30 96802.
+Informe clínico del paciente: Niña de tres años y diez meses de edad que es valorada en consultas por episodios recurrentes de debilidad muscular en miembros inferiores, con recuperación espontánea en minutos. Antecedentes personales sin interés. Embarazo controlado sin incidencias; nacimiento por parto vaginal. Lactancia artificial. Desarrollo perinatal y psicomotor normal. Ni debilidad muscular ni calambres referidos hasta seis meses antes.
+En los antecedentes familiares destaca parálisis hiperpotasémica familiar en varios familiares de la rama paterna (padre, tío y tía paterna, abuela paterna) sin aportar más datos y sin saber precisar estudio genético.
+La clínica se inició unos seis meses antes de acudir a la consulta, estando previamente asintomática; refirieron 3-4 episodios intermitentes, en días separados entre sí, de calambres musculares y sensación de adormecimiento de miembros inferiores mientras dormía, de los que se recuperó espontáneamente en unos minutos. No muestra otra clínica, ni afectación de otros miembros. Desde estos episodios la paciente permaneció asintomática.
+Exploración clínica y neurológica normal en el momento de ser valorada en consulta, con fuerza, sensibilidad y reflejos osteotendinosos normales.
+Ante la sospecha de parálisis hiperpotasémica familiar, se solicitó estudio analítico con hemograma y bioquímica, siendo normales. Hemograma normal, electrolitos en sangre y orina normales, K 4,5 mEq/l con excreción fraccional de potasio (EFK) del 13%. No fue posible realizar análisis de sangre coincidiendo con la clínica.
+Tampoco se pudo realizar coincidiendo con la clínica la electromiografía (EMG), la determinación de creatinfosfocinasa (CPK) y el electrocardiograma (ECG), pues no presentó de nuevo síntomas. La electromiografía (EMG) sin coincidir con la clínica fue normal.
+Ante la sospecha clínica, dado los antecedentes familiares, a pesar de que la clínica no era muy manifiesta, se solicitó estudio genético del gen SCN4A (OMIM +603967), detectando mutación en heterocigosis p.Thr704Met.
+En el momento del diagnóstico no se inició tratamiento con acetazolamida por vía oral dado que los episodios de debilidad muscular no se han repetido y los valores de potasio sérico fueron normales en los controles realizados. Se realizarán controles clínicos y analíticos evolutivos periódicos para valorar si, en el algún momento, precisa iniciar tratamiento médico. Se pautó dieta no rica en potasio.
+Remitido por: Dra. Júlia Morata Alba. Email: juliamorataalba@gmail.com Tlfno: 630 75 89 15. Hospital Mesa Del Castillo. Calle Ronda Sur, 20, 30010 Murcia
+]]></TEXT>
+  <TAGS>
+    <NAME id="T28" start="28" end="36" text="Samantha" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T27" start="50" end="63" text="Martinez Lobo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T26" start="70" end="77" text="7094376" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T25" start="90" end="112" text="Calle Sierra Espuña 13" TYPE="CALLE" comment=""/>
+    <LOCATION id="T24" start="136" end="142" text="Murcia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T23" start="148" end="153" text="30009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T21" start="197" end="207" text="19/06/2014" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T22" start="215" end="221" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T19" start="229" end="235" text="3 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T17" start="242" end="243" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T20" start="263" end="273" text="20/04/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T15" start="304" end="321" text="Júlia Morata Alba" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="329" end="340" text="30 30 96802" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T16" start="372" end="376" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T18" start="380" end="402" text="tres años y diez meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="873" end="883" text="familiares" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="895" end="902" text="paterna" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="904" end="909" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="911" end="914" text="tío" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T4" start="917" end="928" text="tía paterna" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T3" start="930" end="944" text="abuela paterna" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T14" start="2815" end="2832" text="Júlia Morata Alba" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T10" start="2841" end="2866" text="juliamorataalba@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T9" start="2874" end="2886" text="630 75 89 15" TYPE="NUMERO_TELEFONO" comment=""/>
+    <LOCATION id="T8" start="2888" end="2914" text="Hospital Mesa Del Castillo" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="2916" end="2935" text="Calle Ronda Sur, 20" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="2937" end="2942" text="30010" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2943" end="2949" text="Murcia" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

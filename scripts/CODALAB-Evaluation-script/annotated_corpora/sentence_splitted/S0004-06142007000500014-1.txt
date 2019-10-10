@@ -1,0 +1,15 @@
+Datos del paciente.
+Nombre:  Sergio.
+Apellidos: Aznar Rivas.
+NHC: 5379864.
+Domicilio: Calle Mandala, 14.
+Localidad/ Provincia: Madrid.
+CP: 29034.
+Datos asistenciales.
+Fecha de nacimiento: 12/03/1998.
+País: España.
+Edad: 19 años Sexo: H.
+Fecha de Ingreso: 30/07/2017.
+Médico: Antonio Javier Márquez Moreno NºCol: 29 29 83404.
+Informe clínico del paciente: Paciente de 19 años de edad, sin antecedentes de interés, que consulta por tumoración ligeramente dolorosa en el testículo derecho, de unos 8 meses de evolución, encontrándose en la exploración clínica un aumento testicular con zonas nodulares. El testículo izquierdo no muestra alteraciones. Alfa-Feto-Proteina: 38,2 y Beta-HGC de 1,48. Ecográficamente se observan tres nódulos tumorales independientes y bien delimitados: dos de ellos heterogéneos, sólidos, de 20 y 33 mm de diámetros, con áreas quísticas y calcificaciones. El tercer nódulo era sólido hipoecoico y homogéneo, de 26 mm de diámetro. Todos los nódulos presentaban un aumento de la vascularización con flujos arteriales de baja resistencia. El estudio de extensión es negativo. Se realiza orquiectomía. Histológicamente los dos primeros nódulos correspondían a teratocarcinomas (teratoma maduro y carcinoma embrionario predominante), siendo macroscópicamente masas pardo-blanquecinas, con cavidades de contenido seroso amarillento, calcificaciones y focos de necrosis. El tercero fué diagnosticado como seminoma clásico, siendo más homogéneo macroscópicamente.
+Remitido por: Dr. Antonio Javier Márquez Moreno Teseo, 5 3-N. 29010. Málaga. (España). nuriaantonio@terra.es

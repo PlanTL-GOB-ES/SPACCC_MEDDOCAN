@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Manuel .
+Apellidos: Domenech Rodriguez.
+NHC: 9258976.
+NASS: 54 70297700 82.
+Domicilio: Av. del Padre Claret, 2, 4 C.
+Localidad/ Provincia: Segovia.
+CP: 40001.
+Datos asistenciales.
+Fecha de nacimiento: 29/09/1932.
+País de nacimiento: España.
+Edad: 84 años Sexo: Varón.
+Fecha de Ingreso: 02/02/2017.
+Servicio: Nefrología.
+Episodio: 2632910.
+Médico:Manuel Heras NºCol: 40 40 12093.
+Informe clínico del paciente: Varón de 84 años con antecedentes personales de alergia a procaína y estreptomicina, intervenido de prótesis de cadera izquierda y de hernia inguinal bilateral. En agosto de 2010 fue diagnosticado de PR y se indicó tratamiento con prednisona 30 mg/día. El paciente era independiente para las actividades de la vida diaria y no tenía deterioro cognitivo.
+En el momento de consultar al Servicio de Nefrología (8 meses después de diagnosticarse la PR), se encontraba en terapia con prednisona 5 mg, omeprazol 20 mg/día, enalapril 5 mg cada 12 horas, levotiroxina 25 mg/día, clortalidona 12,5 mg/día.
+El paciente ingresa en el Servicio de Nefrología por aumento de volumen en miembros inferiores y en región abdómino-escrotal de cuatro días de evolución. En el interrogatorio únicamente refería discreta disminución del ritmo de diuresis y nicturia de una vez.
+En la exploración física destacaba una presión arterial de 150/80 mmHg, frecuencia cardíaca de 80 lpm, abdomen globuloso con matidez en mesogastrio y edemas con fóvea en miembros inferiores, siendo el resto de la exploración anodina.
+En la analítica en sangre al ingreso destacaba: creatinina: 0,8 mg/dl; colesterol: 354 mg/dl; triglicéridos: 104 mg/dl; albúmina: 2,2 g/dl; proteínas totales: 5 mg/dl. El hemograma y la coagulación fueron normales. Serología de virus de hepatitis B, C y virus de la inmunodeficiencia humana: negativa. En el estudio inmunológico, los anticuerpos antinucleares y los anticuerpos anticitoplasma de neutrófilos fueron negativos, y el complemento, normal. La IgG fue de 450 mg/dl (rango normal: 751-1560) y la IgM e IgA, normales. En la electroforesis en sangre se constató una disminución porcentual de albúmina sin picos monoclonales.
+Los marcadores tumorales (antígeno carcinoembrionario [CEA], CA19-9, alfa-fetoproteína y antígeno prostático específico [PSA]) estaban dentro de valores normales. CA125 de 136 UI/ml (valor normal: 0-35).
+La cuantificación de proteínas en orina de 24 horas fue de 9,51 g/24 h. El aclaramiento de creatinina, de 77 ml/min. La electroforesis en orina también descartó la presencia de picos monoclonales, siendo la proteinuria de Bence-Jones negativa.
+En la radiografía de tórax destacaba un derrame pleural derecho.
+En la ecografía renal los riñones tenían 11 cm de tamaño y no existía litiasis ni dilatación.
+Se realizó una tomografía axial computarizada abdominal, en la que se descubrió un engrosamiento de pliegues gástricos. Por este motivo se solicitó una gastroscopia, que confirmó la existencia de un pliegue pilórico engrosado, pero sin evidencia de malignidad en el estudio anatomopatológico.
+Ante la presencia de un síndrome nefrótico florido, se realizó una biopsia renal percutánea ecodirigida con los hallazgos: «5 glomérulos por plano de corte, todos ellos con características histológicas habituales. La inmunofluorescencia fue negativa para los marcadores estudiados (IgG, IgA, IgM y C3). Tanto el intersticio como los túbulos y el compontente vascular no tenían lesiones». El diagnóstico final fue de nefropatía de cambios mínimos (NCM).
+Con los hallazgos de la biopsia se incrementó la dosis de prednisona a 1 mg/kg/día. Un mes después, en la consulta externa se comprobó la remisión del síndrome nefrótico clínico y bioquímico y se indicó pauta descendente de prednisona.
+Siete meses después, cuando el paciente se encontraba en terapia de mantenimiento con prednisona de 5 mg/día, se comprobó una recaída del síndrome nefrótico que obligó a incrementar la dosis de prednisona a 50 mg/día. Tras lograr la desaparición del síndrome nefrótico, se indicó pauta descendente de prednisona hasta alcanzar la dosis de 2,5 mg/día.
+Un mes después de mantener prednisona a la dosis de 2,5 mg/dl, el paciente consultó con su médico de cabecera por edemas. En la analítica se comprobó la aparición de una proteinuria de 1,66 g/día, por lo que se decidió incrementar la dosis de prednisona a 10 mg/día, logrando la desaparición de la proteinuria. En la última revisión de Nefrología, en mantenimiento con prednisona 10 mg/día, el paciente se encuentra asintomático y sin proteinuria.
+Responsable clínico: Dr. Manuel Heras, Servicio de Nefrología, Hospital General de Segovia, 40002, Segovia E-mail: mherasb@saludcastillayleon.es E-mail: manuhebe@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="34" text="Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="48" end="66" text="Domenech Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="73" end="80" text="9258976" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="88" end="102" text="54 70297700 82" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="115" end="143" text="Av. del Padre Claret, 2, 4 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="167" end="174" text="Segovia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="180" end="185" text="40001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="229" end="239" text="29/09/1932" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="261" end="267" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="275" end="282" text="84 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="289" end="294" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="314" end="324" text="02/02/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T12" start="358" end="365" text="2632910" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T11" start="374" end="386" text="Manuel Heras" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="394" end="405" text="40 40 12093" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="437" end="442" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="446" end="453" text="84 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="601" end="615" text="agosto de 2010" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="4574" end="4586" text="Manuel Heras" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="4612" end="4639" text="Hospital General de Segovia" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="4641" end="4646" text="40002" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="4648" end="4655" text="Segovia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="4664" end="4693" text="mherasb@saludcastillayleon.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T1" start="4702" end="4722" text="manuhebe@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

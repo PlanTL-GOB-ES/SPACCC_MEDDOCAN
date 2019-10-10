@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Estefania.
+Apellidos: Rosales Ontiveros.
+NHC: 345985.
+NASS: 54 38073659 74.
+Domicilio: Calle de Tuy 62, 5B.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 17/10/1936.
+País: España.
+Edad: 80 años Sexo: M.
+Fecha de Ingreso: 21/12/2016.
+Médico: Francisco Marcos Sánchez NºCol: 28 28 56941.
+Historia del paciente:Mujer de 80 años con HTA, IRC e hipotiroidismo. Ingresada en Geriatría por deterioro cognitivo, desarrolló un abdomen agudo con shock séptico. En TC-abdominal se observó líquido libre y engrosamiento de pared colónica. Intervenida de urgencias, se practicó colectomía total con ileostomía terminal por colitis isquémica y esplenectomía por sangrado intraoperatorio. El postoperatorio evolucionó favorablemente con resolución del shock. Toleró nutrición enteral (NE), funcionando bien la ileostomía. El 8º día postoperatorio ante la apariencia de drenaje hemático abdominal se realizó TC, objetivando hematoma del lecho quirúrgico. Posteriormente el drenaje tuvo aspecto lechoso, con débito mayor de 1.000 cc/d. Al analizarlo tenía: TG 166 mg/dl (en sangre: TG 42, albúmina 1,8), glucosa 100 mg/dL, proteínas 0,83 g/dl, amilasa 133, células 145 (PMN 65%, M 32%), cultivo bacteriológico negativo, confirmándose la presencia de FL.
+Se instauró NPT y somatostatina 3 mg/12 h i.v. El débito del drenaje disminuyó progresivamente (BQ: TG 3 mg/dl, proteínas 2,2 g/dl), cediendo a los 5 días. Por ello no se juzgó necesario realizar linfogammagrafía. Se añadió NE baja en grasas y rica en ácidos grasos de cadena media (AGCM) e hiperproteica, con buena tolerancia.
+Remitido por: Dr. Francisco Marcos Sánchez. Av. Escosura, 4 - 6o E-28015 Madrid
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="9" end="18" text="Estefania" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="31" end="48" text="Rosales Ontiveros" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="55" end="61" text="345985" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T1" start="69" end="83" text="54 38073659 74" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="96" end="115" text="Calle de Tuy 62, 5B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="139" end="145" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="151" end="156" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="200" end="210" text="17/10/1936" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="218" end="224" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="232" end="239" text="80 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="246" end="247" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="267" end="277" text="21/12/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="287" end="311" text="Francisco Marcos Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="319" end="330" text="28 28 56941" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="354" end="359" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="363" end="370" text="80 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1629" end="1653" text="Francisco Marcos Sánchez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="1655" end="1675" text="Av. Escosura, 4 - 6o" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1676" end="1683" text="E-28015" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1684" end="1690" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

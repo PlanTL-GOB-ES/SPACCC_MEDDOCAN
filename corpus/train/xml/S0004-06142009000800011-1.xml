@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Romina .
+Apellidos: Asnicar Higuain.
+NASS: 79462134 46.
+Domicilio: Florida 234 piso 5 .
+Localidad/ Provincia: Buenos Aires.
+CP: C1031.
+NHC: 56756.
+Datos asistenciales.
+Fecha de nacimiento: 29/05/1961.
+País: Argentina.
+Edad: 56  Sexo: M.
+Fecha de Ingreso: 07/12/2017.
+Médico: Gonzalo Vitagliano Zabala .
+Historia Actual: mujer de 56 años fue evaluada inicialmente por desordenes intestinales.
+Exploración física y pruebas complementarias: El examen físico y la rutina de laboratorio inicial fueron normales. Una ecografía abdominal evidencio una masa sólida de 12 cm por detrás del riñón izquierdo que presentaba vascularizacion anómala. La tomografía computada mostraba una masa bien circunscripta por detrás del riñón izquierdo que realzaba tras la administración del contraste endovenoso y presentaba un claro plano graso entre el riñón izquierdo y la masa. Se realizó una punción con aguja fina para obtener histología. El reporte anatomopatológico fue de un tumor mesenquimático benigno o de bajo potencial maligno. Se decidió la exploración por vía laparoscópica.
+Evolución y comentarios: Bajo anestesia general la paciente fue posicionado en decúbito lateral derecho luego de la colocación de sonda orogastrica y vesical. Se administro una único dosis de cefalotina 2gr por via endovenosa. El pneumoperitoneo se realizo con aguja de Veress a 1 2 mmHg. Dos trocares de 1 2 mm y 5 mm respectivamente fueron colocados formando un rombo como se observa en la Figura 3. El colon y el bazo fueron ampliamente movilizados hacia la línea media. Luego de abrir la fascia de Gerota la masa fue claramente visualizada sobre el borde externo del riñón. Preservando los límites tumorales se libero la misma de su contacto con la cápsula renal. Se observo un área de 2cm firmemente adherida a la cápsula renal requiriendo de resección de la misma y posterior fulguración del lecho cruento con láser de argón. La pieza quirúrgica fue extraída en una bolsa plástica mediante la prolongación oblicua de la incisión del trocar del flanco izquierdo. Un drenaje tipo Blake fue dejado por el orificio del trocar de 5 mm. El tiempo operatorio fue de 135 minutos con un sangrado estimado en 200 ml. La paciente evoluciono favorablemente y fue dada de alta al tercer día postoperatorio. El análisis patológico final evidencio un leiomiosarcoma de muy bajo grado de malignidad. Tras un seguimiento de 6 meses la paciente se ha recuperado completamente sin evidencia de su enfermedad de base.
+Remitido por: Dr. Gonzalo Vitagliano Zabala 2664 3o B Capital Federal. Buenos Aires. Código postal 1426 (Argentina). gonzalovitagliano@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="8" end="14" text="Romina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="28" end="43" text="Asnicar Higuain" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="51" end="62" text="79462134 46" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="75" end="93" text="Florida 234 piso 5" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="118" end="130" text="Buenos Aires" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="136" end="141" text="C1031" TYPE="TERRITORIO" comment=""/>
+    <ID id="T15" start="148" end="153" text="56756" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="197" end="207" text="29/05/1961" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="215" end="224" text="Argentina" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="232" end="234" text="56" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="242" end="243" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="263" end="273" text="07/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="283" end="308" text="Gonzalo Vitagliano Zabala" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="328" end="333" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="337" end="344" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2499" end="2524" text="Gonzalo Vitagliano Zabala" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2525" end="2534" text="2664 3o B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2535" end="2564" text="Capital Federal. Buenos Aires" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2580" end="2584" text="1426" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2586" end="2595" text="Argentina" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2598" end="2627" text="gonzalovitagliano@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

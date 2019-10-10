@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Antonio.
+Apellidos: Machado Briceño.
+NHC: 2609450.
+NASS: 47 34278560 89.
+Domicilio: Av. del Rio, 34, 3, A.
+Localidad/ Provincia: Albacete.
+CP: 02286.
+Datos asistenciales.
+Fecha de nacimiento: 10/05/1956.
+País: España.
+Edad: 59 años Sexo: H.
+Fecha de Ingreso: 20/06/2015.
+Médico: Pedro Carrión López  NºCol: 02 02 85780.
+Informe clínico del paciente:Varón de 59 años que en el año 2004, tras estudio por síndrome constitucional, se diagnosticó de tumoración retroperitoneal. Tras realizar exéresis de dicha masa, de 16 x 13cm de diámetro, localizada a nivel de FID, desplazando la vejiga y ampliamente adherida a peritoneo parietal y parietocólico, se diagnosticó anatomopatológicamente de sarcoma de alto grado tipo fibrohistiocitoma maligno pleomorfo (Estadío III-B) y fue administrada radioterapia complementaria.
+A los dos años de la cirugía presentó un deterioro progresivo del estado general y una tumoración inguinoescrotal derecha muy dolorosa. Se realizó una ecografía testicular que halló en localización craneal a teste derecho, una imagen de 7cm, anecoica y ovalada que ascendía por el conducto inguinal, parcialmente tabicada, y de sonografía quística. El TC mostraba una lesión de características similares a las informadas en la ultrasonografía.
+Ante la sospecha de recidiva tumoral a nivel del cordón espermático, se realizó orquiectomía inguinal derecha con exéresis de la masa quística, apreciando áreas de necrosis e infiltración de grasa adyacente.
+En el estudio histológico, se evidenció una tumoración de 12 x 8cm formada por células fusiformes con células pleomórficas abundantes sin afectar a testículo ni epidídimo, diagnóstica de fibrohistiocitoma pleomorfo maligno, que alcanzaba la inmediata vecindad del borde quirúrgico en algunos puntos, por lo que posteriormente se administró radioterapia postoperatoria.
+Tras seis meses de la cirugía de la masa paratesticular y tras haber finalizado el tratamiento radioterápico recientemente, ha presentado una recidiva intraabdominal por lo que actualmente se encuentra en tratamiento quimioterápico con Epirrubicina + Ifosfamida.
+Remitido por: Dr. Pedro Carrión López Apartado de Correos 993 02080 Albacete. (España). pedrocarrion1980@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="29" end="36" text="Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="49" end="64" text="Machado Briceño" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="71" end="78" text="2609450" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="86" end="100" text="47 34278560 89" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="113" end="134" text="Av. del Rio, 34, 3, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="158" end="166" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="172" end="177" text="02286" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="221" end="231" text="10/05/1956" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="239" end="245" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="253" end="260" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="267" end="268" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="288" end="298" text="20/06/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="308" end="327" text="Pedro Carrión López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="336" end="347" text="02 02 85780" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="378" end="383" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="387" end="394" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="405" end="413" text="año 2004" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="2147" end="2166" text="Pedro Carrión López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2167" end="2190" text="Apartado de Correos 993" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2191" end="2196" text="02080" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2197" end="2205" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2208" end="2214" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2217" end="2245" text="pedrocarrion1980@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

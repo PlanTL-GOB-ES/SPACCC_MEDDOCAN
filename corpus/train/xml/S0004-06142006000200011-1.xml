@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Josue.
+Apellidos: Rodriguez Betanco.
+NHC: 3147695.
+NASS: 58 79645789 01.
+Domicilio: Calle Lope de Vega, 80.
+Localidad/ Provincia: Valencia.
+CP: 46019.
+Datos asistenciales.
+Fecha de nacimiento: 15/02/1996.
+País: España.
+Edad: 22 años Sexo: H.
+Fecha de Ingreso: 06/06/2018.
+Servicio: Urologia.
+Episodio: Marta García Torrelles.
+Médico: Marta García Torrelles NºCol: 28 28.
+Informe clínico del paciente: Paciente varón de 22 años de edad, sin antecedentes de interés salvo ser fumador habitual de marihuana, acude a urgencias refiriendo aumento de tamaño de la bolsa escrotal izquierda tras un esfuerzo físico 24 horas antes, con dolor de inicio brusco y moderada intensidad. Sin fiebre ni síndrome miccional, ni irradiación del dolor. No presentaba cortejo neurovegetativo asociado, así como tampoco alteraciones del ritmo intestinal.
+A la exploración física se presenta apirético y normotenso, con buena coloración de piel y mucosas. El abdomen es blando y depresible, no doloroso y sin masas. Las fosas renales se encuentran libres. El testículo derecho no presenta alteraciones mientras que en el testículo izquierdo se aprecia una tumoración de consistencia pétrea de 2-3cm de diámetro, no móvil, en el polo superior del teste izquierdo, con transiluminación negativa.
+Analíticamente no presentaba ningún parámetro fuera de la normalidad.
+En la ecografía testicular ambos testículos muestran una ecoestructura normal con flujo-doppler conservado, evidenciando una masa sólida extratesticular, en contacto con el polo superior del teste izquierdo de 25mm con vasos en su periferia.
+Se ingresa para completar estudio y filiar dicha lesión.
+Siguiendo el protocolo oncológico se completó el estadiaje preoperatorio con radiografía de tórax; marcadores tumorales de testículo y analítica general; y TAC abdómino- pélvico sin encontrar alteraciones patológicas en ninguna de las pruebas.
+A continuación se realizó una exploración quirúrgica vía inguinal donde se apreció una masa paratesticular izquierda ligeramente abollonada con curvas suaves, nacarada y de consistencia pétrea, de fácil disección con plano de clivaje entre esta y el polo superior del testículo izquierdo y cordón espermático del mismo lado, con algunos vasos venosos en su periferia. Se tomó una biopsia peroperatoria que resultó en tejido fibroso sin de celularidad maligna. Se completó la exéresis de la lesión, dejando indemnes teste y epidídimo, evitando al paciente una orquiectomía radical.
+Con un postoperatorio sin incidencias fue dado de alta a los dos días de la intervención.
+El dictamen anatomopatológico de la pieza quirúrgica es de tumor fibroso solitario de la túnica vaginal.
+En el control postoperatorio a los dos años de la intervención, el paciente se encuentra asintomático sin evidencia de recidiva y libre de enfermedad.
+Remitido por: Dra. Marta García Torrelles. Servicio de Urología. Hospital Dr. Peset Av. Gaspar Aguilar, 90. 46017 Valencia. (España). garcia_martor@g.va.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="29" end="34" text="Josue" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="47" end="64" text="Rodriguez Betanco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="71" end="78" text="3147695" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="86" end="100" text="58 79645789 01" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="113" end="135" text="Calle Lope de Vega, 80" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="159" end="167" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="173" end="178" text="46019" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="222" end="232" text="15/02/1996" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="240" end="246" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="254" end="261" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="268" end="269" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="289" end="299" text="06/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T1" start="331" end="353" text="Marta García Torrelles" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <NAME id="T2" start="363" end="385" text="Marta García Torrelles" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="393" end="398" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="439" end="444" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="448" end="455" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="2859" end="2881" text="Marta García Torrelles" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="2905" end="2923" text="Hospital Dr. Peset" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="2924" end="2946" text="Av. Gaspar Aguilar, 90" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="2948" end="2953" text="46017" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2954" end="2962" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2965" end="2971" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T4" start="2974" end="2995" text="garcia_martor@g.va.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

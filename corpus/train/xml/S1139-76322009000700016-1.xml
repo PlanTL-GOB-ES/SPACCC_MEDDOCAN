@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Saray.
+Apellidos: Montoya Ruiz.
+NHC: 3578654.
+Domicilio: Calle La Orozca, 23, 2, 3.
+Localidad/ Provincia: Barcelona.
+CP: 08565.
+Datos asistenciales.
+Fecha de nacimiento: 21/07/2002.
+País: España.
+Edad:13 años Sexo: M.
+Fecha de Ingreso: 13/11/2015.
+Médico:Manel Enrubia Iglesias NºCol: 08 08 56200.
+Informe clínico del paciente: Paciente de sexo femenino de 13 años y 7 meses de edad que consulta por dolor abdominal y vómitos de 2 días de evolución.
+Antecedentes familiares: sin interés. Antecedentes personales: origen boliviano. Hace 3 semanas que ha llegado a Barcelona por reagrupación familiar (su madre lleva en Barcelona 5 años). Menarquia hace 4 meses. No patologías previas de relevancia.
+Enfermedad actual: dolor abdominal de 2-3 días de evolución, difuso, irradiado a epigastrio, que en ocasiones se acompaña de vómitos. No alteración del ritmo deposicional. Acudió a un servicio de urgencias donde se le pautó ranitidina y omeprazol. Acude por persistencia del cuadro. La paciente refiere que, estando en su país, ha presentado 2 cuadros de dolor abdominal aislado en los últimos 2 meses, que ha relacionado con la menstruación. Espera la menstruación en estos días. Se trata pues de un dolor abdominal recurrente.
+Exploración física: afebril, buen estado general, buena hidratación de piel y mucosas, buena coloración. Obesidad troncular. Abdomen blando y depresible. Dolor abdominal difuso a la palpación en epigastrio y flancos. No se palpan masas abdominales. Peristaltismo normal. Puño percusión lumbar: negativa. Auscultación cardiorrespiratoria normal. ORL: normal. Neurológico normal.
+Exploraciones complementarias: una vez orientado el caso con los datos de la historia clínica, las pruebas nos ayudarán a eliminar o confirmar la causa orgánica. En nuestro caso se inició el estudio con una analítica sanguínea y ecografía abdominal que mostraron: Hto 37,8% Hb 13,4 g/dl, plaquetas 338.000/ml, leucocitos 7.700/ml (N 46%); glucosa 79 mg/dl, creatinina 0,55 mg/dl, proteínas 77 g/l, albúmina 41 gl/l, bilirrubina total 2,1 mg/dl, colesterol 206 mg/dl, ALT 475 UI/L, AST 215 UI/L, GGT 243 UI/L, amilasas 427,8 UI/L, lipasa 1298UI/L. Ecografía abdominal: vía biliar poco distendida con imagen de litiasis de 15 mm. Páncreas no valorable por interposición de gas intestinal.
+Diagnóstico final y evolución: se trata pues, de un caso de pancreatitis aguda secundaria a litiasis biliar. Se procedió a ingreso hospitalario, dándose de alta al cabo de una semana. A los 5 días del alta presentó un nuevo episodio del mismo cuadro, por lo que volvió a ingresar y se aceleró la programación de una colecistectomía, tras la cual la paciente no ha vuelto a presentar episodios de dolor abdominal.
+Remitido por: Dr. Manel Enrubia Iglesias menrubia.bcn.ics@gencat.cat
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="29" end="34" text="Saray" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="47" end="59" text="Montoya Ruiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="66" end="73" text="3578654" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="86" end="111" text="Calle La Orozca, 23, 2, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="135" end="144" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="150" end="155" text="08565" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="199" end="209" text="21/07/2002" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="217" end="223" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="230" end="237" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="244" end="245" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="265" end="275" text="13/11/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="284" end="306" text="Manel Enrubia Iglesias" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="314" end="325" text="08 08 56200" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="374" end="382" text="femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="386" end="403" text="13 años y 7 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T5" start="549" end="558" text="boliviano" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T4" start="592" end="601" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <OTHER id="T3" start="632" end="637" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T2" start="647" end="656" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <NAME id="T7" start="2752" end="2774" text="Manel Enrubia Iglesias" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2775" end="2802" text="menrubia.bcn.ics@gencat.cat" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Carmen.
+Apellidos: De Gracia Arnelas.
+NHC: 7042632.
+NASS: 73 46056206 80.
+Domicilio: C/ Vicente Calderón, 34.
+Localidad/ Provincia: Jaén.
+CP: 23009.
+Datos asistenciales.
+Fecha de nacimiento: 27/06/1947.
+País de nacimiento: España.
+Edad: 67 años Sexo:M.
+Fecha de Ingreso: 19/08/2014.
+Médico: Ángela Soriano Pérez  NºCol: 29 29 57901.
+Informe clínico del paciente: Mujer de 67 años con múltiples factores de riesgo: HTA, hipercolesterolemia, disglucosis, obesidad, síndrome coronario agudo, etc.
+Presenta un único riñón izquierdo con estenosis por enfermedad renal crónica en estadio 3 (Guías K/DOQUI) secundaria a una nefropatía isquémica con diuresis conservada.
+Presenta angiográficamente una estenosis crítica de la arteria renal izquierda e hipertensión no controlada a pesar del tratamiento farmacológico con quíntuple terapia (inhibidores de la enzima conversora de la angiotensina, betabloqueantes, calcioantagonistas, diuréticos y alfabloqueantes). En pruebas previas destaca una creatinina de 1,9-2,4 mg % y tensión arterial (TA) rebelde.
+Su riesgo anestésico es moderado, siendo intervenida de forma programada para la colocación de un stent en arteria renal izquierda bajo anestesia locorregional con monitorización continua de la presión arterial. Durante la cirugía está estable hemodinámicamente, con diuresis mantenida.
+Durante el posoperatorio comienza con dolor intenso súbito en fosa renal izquierda acompañado de hipotensión, cuadro vegetativo y oligoanuria brusca. Posteriormente comienza con dolor torácico, irradiado a espalda sin cambios en electrocardiograma ni elevación de marcadores cardíacos. No obstante, se inicia tratamiento para cardiopatía isquémica. Ante la sospecha de una trombosis del stent, se realiza vía femoral izquierda una arteriografía confirmando la trombosis de la arteria renal (se intenta su trombolisis sin conseguirlo) y la migración del stent, que se intenta recolocar sin éxito. Durante el procedimiento se encuentra inestable hemodinámicamente y necesita drogas vasoactivas y transfusión sanguínea; en anuria, con aumento de urea y creatinina, por lo que se implanta catéter para diálisis. Precisa altas dosis de fármacos vasoactivos para mantener TA, hemodiafiltración por anuria con cifras en ascenso de urea y creatinina y ecocardiografía que descartó componente cardiogénico. Presentaba alteraciones de la coagulación sin evidencia de sangrado activo y rápido deterioro clínico con insuficiencia respiratoria dependiente de ventilación mecánica. La tomografía axial computarizada abdominal demostró la presencia de un hematoma retroperitoneal, realizándose laparotomía urgente. La situación se complica con presencia de shock distributivo refractario a drogas vasoactivas, síndrome de respuesta inflamatoria sistémica e insuficiencia renal anúrica, y desemboca en una situación de fallo multiorgánico secundario a complicaciones de cirugía vascular sobre cuadro de isquemia renal en paciente monorrena que fue finalmente éxitus, siendo la causa inmediata de éste el shock refractario a tratamiento.
+Responsable clínico: Dra. Ángela Soriano Pérez, Servicio de Anestesiolgía, Reanimación y Terapéutica del Dolor, Complejo Hospitalario de Jaén, Manuel Caballero Venzala, 8, 5C, 23009, Jaén E-mail: bacamorilla@hotmail.com E-mail: angelasoriano_@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="34" text="Carmen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="64" text="De Gracia Arnelas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="71" end="78" text="7042632" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="86" end="100" text="73 46056206 80" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="113" end="136" text="C/ Vicente Calderón, 34" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="160" end="164" text="Jaén" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="170" end="175" text="23009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T1" start="219" end="229" text="27/06/1947" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="251" end="257" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="265" end="272" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="278" end="279" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="299" end="309" text="19/08/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="319" end="339" text="Ángela Soriano Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="348" end="359" text="29 29 57901" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="391" end="396" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="400" end="407" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3109" end="3129" text="Ángela Soriano Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3195" end="3224" text="Complejo Hospitalario de Jaén" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="3226" end="3257" text="Manuel Caballero Venzala, 8, 5C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3259" end="3264" text="23009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3266" end="3270" text="Jaén" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="3279" end="3302" text="bacamorilla@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T2" start="3311" end="3337" text="angelasoriano_@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

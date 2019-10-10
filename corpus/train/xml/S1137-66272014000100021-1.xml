@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Santiago.
+Apellidos: Guajardo Chamoy.
+NHC: 9345723.
+NASS: 30 25698325 06.
+Domicilio: Calle Manuel Bertrand, 23.
+Localidad/ Provincia: Pamplona.
+CP: 31016.
+Datos asistenciales.
+Fecha de nacimiento: 21/05/1980.
+País: España.
+Edad: 35 años Sexo: H.
+Fecha de Ingreso: 13/08/2015.
+Servicio: Medicina Interna.
+Episodio: 34056303.
+Médico: Jorge Rojo Álvaro  NºCol: 31 28 26086.
+Informe clínico del paciente: varón de 35 años de edad que acudió a consulta remitido para valoración de alteración radiológica de tórax. No tenía alergias medicamentosas, era alérgico al polen. De profesión trabajaba colocando paneles de pladur. Fumaba 10 cigarrillos/día desde los 14 años (10,5 paquetes/año) y 8 porros de marihuana/día. Consumía alcohol de forma ocasional. No tenía antecedentes familiares de interés. Interrogado refería en el último año tos de predominio vespertino y nocturno con el decúbito supino, acompañada de expectoración blanca. Además presentaba sibilancias asociadas que mejoraban con broncodilatadores. También refería sensación disneica con los esfuerzos. Había perdido unos 5 Kg de peso. Refería astenia que relacionaba con el trabajo. Tenía un perro en el domicilio. No había realizado viajes recientemente ni había tenido contactos conocidos con pacientes tuberculosos.
+A la exploración física presentaba buen estado general, eupneico con una saturación basal de oxígeno del 98%. No tenía adenopatías ni acropaquias. La auscultación cardiopulmonar era normal.
+La radiografía (Rx) de tórax mostraba un patrón intersticial lineal difuso de predominio derecho. Se completó el estudio con varias exploraciones complementarias: análisis de sangre con todos los parámetros dentro de la normalidad, incluida autoinmunidad y serologías negativas, pruebas de función respiratoria (PFR) dentro de la normalidad, Mantoux negativo, tomografía computarizada (TC) de tórax que mostraba el parénquima pulmonar ocupado por múltiples lesiones cavitadas-quísticas, de pequeño tamaño y ampliamente distribuidas por ambos campos pulmonares, con afectación tanto de campos superiores como inferiores.
+Con estos hallazgos se realizó broncoscopia sin apreciar alteraciones ni lesiones de la mucosa. Se realizaron tres BAL en el lóbulo superior derecho, que fueron remitidos para estudio citológico, baciloscopia y de subpoblaciones linfocitarias. Además se realizaron cuatro broncoaspirados de secreciones (BAS) para hongos, Pneumocystis, cultivo y bacilo de Koch. Todos los resultados fueron negativos. El informe anatomopatológico del broncoaspirado reveló mínimo componente inflamatorio, sin histiocitos anómalos ni células atípicas. La inmunohistoquímica resultó negativa para S100 y CD1a.
+Dado el resultado se procedió a realizar biopsia del lóbulo pulmonar superior derecho mediante toracotomía. La anatomía patológica fue compatible con una histiocitosis de Langerhans en fase proliferativa o fase celular.
+Se recomendó al paciente el abandono del hábito tabáquico. Fue revisado en consulta 3 meses después y refería encontrarse asintomático con ganancia de 6 kg. No obstante, en la Rx de tórax de control permanecía el patrón intersticial.
+Remitido por: Jorge Rojo Álvaro Servicio de Medicina Interna Complejo Hospitalario de Navarra C/ Irunlarrea, 3 31008 Pamplona (Navarra) E-mail: jorgerojo23@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="28" end="36" text="Santiago" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="49" end="64" text="Guajardo Chamoy" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="71" end="78" text="9345723" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="86" end="100" text="30 25698325 06" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="113" end="138" text="Calle Manuel Bertrand, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="162" end="170" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="176" end="181" text="31016" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="225" end="235" text="21/05/1980" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T19" start="243" end="249" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="257" end="264" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="271" end="272" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="292" end="302" text="13/08/2015" TYPE="FECHAS" comment=""/>
+    <ID id="T10" start="342" end="350" text="34056303" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T12" start="360" end="377" text="Jorge Rojo Álvaro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="386" end="397" text="31 28 26086" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T13" start="429" end="434" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T15" start="438" end="445" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <PROFESSION id="T8" start="617" end="644" text="colocando paneles de pladur" TYPE="PROFESION" comment=""/>
+    <AGE id="T7" start="682" end="689" text="14 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T11" start="3175" end="3192" text="Jorge Rojo Álvaro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3222" end="3254" text="Complejo Hospitalario de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3255" end="3271" text="C/ Irunlarrea, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3272" end="3277" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3278" end="3286" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3288" end="3295" text="Navarra" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3305" end="3328" text="jorgerojo23@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

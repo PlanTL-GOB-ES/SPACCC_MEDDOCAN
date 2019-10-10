@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Lidia.
+Apellidos: Martinez Soza.
+NHC: 8349509.
+NASS: 87 63678940 36.
+Domicilio: Av, de Madrid, 3, 5 A.
+Localidad/ Provincia: Jaén.
+CP: 23028.
+Datos asistenciales.
+Fecha de nacimiento: 27/05/1952.
+País de nacimiento: España.
+Edad: 63 años Sexo: M.
+Fecha de Ingreso: 03/10/2015.
+Médico: Manuel Polaina Rusillo  NºCol: 23 23 50160.
+Informe clínico del paciente: Mujer de 63 años sin antecedentes de interés que consulta por molestias epigástricas, no irradiadas y no relacionadas con la ingesta, de dos meses de evolución. El examen físico fue normal y en los datos de laboratorio lo único que destaca es una leve anemia microcítica e hipogammaglobulinemia. Se realizó gastroscopia donde se evidenció en segunda porción duodenal una lesión excrecente, blanquecina, ulcerada en su centro, friable y de consistencia elástica a la toma de biopsias. El examen anatomopatológico evidenció un denso infiltrado linfocitario con habito centrocitoide que destruían alguna de las glándulas y penetraban en el epitelio. El inmunofenotipo de las células proliferantes fue CD 20 y CD 43 positivo con CD 3, CD 5 y ciclina D1 negativo. Todo ello llevó a confirmar la presencia de linfoma MALT duodenal. La paciente fue remitida al servicio de oncología donde se completó el estudio de extensión y, tras comprobar ausencia de afectación locorregional y metastásica, se pautó tratamiento con ciclofosfamida con buena respuesta al mismo.
+Responsable clínico: Dr. Manuel Polaina Rusillo Servicio de Nefrología Complejo Hospitalario de Jaén Extremadura, 2, P3 2E, 23008 nefropolaina@yahoo.es

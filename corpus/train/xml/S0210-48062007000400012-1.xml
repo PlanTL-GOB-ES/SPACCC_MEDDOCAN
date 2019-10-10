@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Maria.
+Apellidos: Herrejon Velez.
+CIPA: nhc-794613281.
+NASS: 79 13491346 77.
+Domicilio:  Calle Pintor Salvador Abril 18-2-1 .
+Localidad/ Provincia: Valencia.
+CP:46005.
+NHC: 794613281.
+Datos asistenciales.
+Fecha de nacimiento:  27/03/1952.
+País: España.
+Edad: 66 Sexo: M.
+Fecha de Ingreso: 03/05/2018.
+Especialidad: Oncología.
+Médico: Jose Antonio Pérez-Fidalgo  NºCol: 04 46 89713.
+Antecedentes: Diabetes y hepatitis por virus C de etiología postransfusional.
+Historia Actual: Se trata de una mujer de 66 años En Enero del 2017 presentaba un síndrome miccional pertinaz que no respondía a tratamiento por lo que se le realizó una cistoscopia con posterior RTU. Fue diagnosticada de un carcinoma vesical pTa G3 tras lo que inició tratamiento con BCG intravesical.
+La RTU de control tras finalizar el tratamiento con BCG detectó presencia de múltiples focos de carcinoma en la vejiga confirmándose el diagnóstico de un carcinoma urotelial que invadía la capa muscular (pT2 G3). En Julio del 2017 es sometida a una cistectomía radical con derivación urinaria mediante ureterosigmoidostomía tipo Mainz II. La anatomía patológica demostró un carcinoma urotelial de alto grado con invasión de capa muscular y con afectación de uno de los ganglios linfáticos resecados, se trataba de un pT2a N1. No se detectaron metástasis a distancia.
+Dos semanas después de la intervención, acudió con desorientación y tendencia al sueño en el contexto de un cuadro compatible con infección de vías urinarias. Tras 24 horas en observación, con hidratación intravenosa y antibioterapia se recuperó y pudo ser dada de alta con antibiótico oral.
+Diez días después acudió de nuevo al hospital por aparición de dispraxia, tendencia al sueño, lenguaje incoherente y obnubilación. Durante el episodio presenta además un pico febril de 38,5ºC. La bioquímica y el hemograma eran normales (sin leucocitosis ni neutrofilia). Se realizó una ecografía abdominal que identificó una hidronefrosis bilateral moderada y un TAC cerebral que fue normal.
+Durante su ingreso, y tras inicio de tratamiento antibiótico de amplio espectro y fluidoterapia, el cuadro confusional fue solucionándose hasta una recuperación completa.
+A los pocos días, la paciente volvió a presentar deterioro cognitivo. En esta ocasión el inicio de los síntomas centrales había sido similar, con dispraxia, dificultad repentina para realizar tareas cotidianas, somnolencia y obnubilación, sin embargo en esta ocasión acudió al hospital en situación de coma, con un Glasgow de 8. Estaba afebril.
+En la analítica destacaba únicamente una moderada hiperglucemia y una ligera elevación de transaminasas.
+Se le realizó un electroencefalograma en el que se observaban unas ondas lentas sobre áreas de ambos hemisferios, hallazgos característicos de una encefalopatía metabólica. Un TAC cerebral no mostró anomalías estructurales. De forma similar al ingreso previo, tras varios días hospitalizada con fluidoterapia de soporte y dieta absoluta, la paciente experimenta una progresiva mejoría con recuperación completa de la clínica.
+Tres semanas después, la paciente vuelve a notar síntomas dispraxia y tendencia al sueño de instauración progresiva. Acude a urgencias donde es evaluada sin encontrarse alteraciones en la exploración ni en las pruebas analíticas ni de imagen por lo que se le remite a domicilio, no existía fiebre ni ninguna clínica sugestiva de infección. A las 24 horas acude con una alteración severa del nivel de conciencia con un Glasgow de 6.
+En esta ocasión la paciente acudía tras haber iniciado 15 días antes, un primer ciclo de quimioterapia adyuvante con esquema taxol 175 mg/m2 y carboplatino AUC 5. Por ello, presentaba una leucopenia con neutropenia atribuible a una mielotoxicidad postquimioterapia. Todos los demás parámetros electrolíticos, incluyendo calcemia, eran rigurosamente normales. La gasometría venosa demostraba un pH de 7.44. El TAC cerebral y la radiografía de tórax fueron normales.
+Ante la presencia de episodios repetidos de síndrome confusional de probable causa metabólica, todos ellos en 3 meses desde la cistectomía, se consideró que podría ser una complicación metabólica de la derivación. Tras haberse descartado que se tratara de una acidosis metabólica se decidió solicitar unos niveles de amonio en sangre, que demostraron una amonemia de 400 microgramos/dl (normal entre 17-80).
+Ante el diagnóstico de encefalopatía hiperamonémica de causa no-hepática se inició fluidoterapia, dieta absoluta, enemas con lactulosa y ante la gravedad clínica se inició hemodiálisis. Tras 3 sesiones de hemodiálisis la paciente experimentó una recuperación neurológica paralela a la corrección de los niveles de amonio que disminuyeron hasta normalizarse.
+Posteriormente se realizó una reconversión quirúrgica de la ureterosigmoidostomía a conducto ileal. Actualmente la paciente continúa con el tratamiento quimioterápico adyuvante y no ha vuelto a presentar nuevos episodios confusionales.
+Remitido por: Dr. Jose Antonio Pérez-Fidalgo Servicio de Oncología. Hospital Clínico Universitario. Avda. Blasco Ibáñez, 17. 46010 Valencia. Tel.: 963 862 600 E-mail: japfidalgo@msn.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="8" end="13" text="Maria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="26" end="40" text="Herrejon Velez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="52" end="61" text="794613281" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="69" end="83" text="79 13491346 77" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="97" end="131" text="Calle Pintor Salvador Abril 18-2-1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="156" end="164" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="169" end="174" text="46005" TYPE="TERRITORIO" comment=""/>
+    <ID id="T19" start="181" end="190" text="794613281" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="235" end="245" text="27/03/1952" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="253" end="259" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="267" end="269" text="66" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="276" end="277" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="297" end="307" text="03/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="342" end="368" text="Jose Antonio Pérez-Fidalgo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="377" end="388" text="04 46 89713" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="501" end="506" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="510" end="517" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="521" end="535" text="Enero del 2017" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="987" end="1001" text="Julio del 2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="4986" end="5012" text="Jose Antonio Pérez-Fidalgo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="5036" end="5066" text="Hospital Clínico Universitario" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="5068" end="5091" text="Avda. Blasco Ibáñez, 17" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="5093" end="5098" text="46010" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="5099" end="5107" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="5115" end="5126" text="963 862 600" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="5135" end="5153" text="japfidalgo@msn.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

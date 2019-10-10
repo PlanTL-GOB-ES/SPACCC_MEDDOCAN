@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Manuel de Jesus.
+Apellidos: Sanchez Romero.
+NHC: 78546935.
+NASS:86 74633854 03.
+Domicilio: Calle Gral. Manuel Saavedra Palmeiro, 11.
+Localidad/ Provincia: Badajoz.
+CP: 06004.
+Datos asistenciales.
+Fecha de nacimiento: 24/05/1949.
+País: España.
+Edad: 67 años Sexo: H.
+Fecha de Ingreso: 23/11/2016.
+Médico: José Barquero Romero NºCol: 06 06.
+Historia Actual:varón de 67 años consultó con el oftalmólogo por presentar en los últimos días dolor en ojo derecho con visión borrosa, lagrimeo incesante y diplopia en la mirada extrema. En la exploración se observó asimetría ocular marcada con profusión del ojo derecho que presentaba limitación generalizada a la movilidad extrínseca, sobre todo de la abducción, e intenso edema de la conjuntiva que se prolapsaba a través de la hendidura parpebral. Tras realizarse TC de órbita y descartarse afectación intraorbitaria el paciente fue derivado a Medicina Interna.
+Antecedentes: fumador de 30 cigarrillos diarios desde la juventud y sin otros antecedentes de interés. 
+Exploración física: además de los síntomas oculares motivo de la consulta, refirió haber presentado cierta dificultad respiratoria y disfonia, pero sin dolor torácico, hemoptisis, fiebre ni otros síntomas sistémicos, su estado general era bueno y no presentaba signos de incremento del trabajo respiratorio, tambien se observaba, además de las alteraciones del ojo derecho, un llamativo aumento de volumen de la parte derecha de la cara y del cuello. La vena yugular derecha se mantenía visible e ingurgitada de forma continua y a nivel de la sien derecha y del plano torácico anterior se podía apreciar la dilatación de la red venosa superficial. A la palpación del cuello se apreciaba una tumoración dura, adherida y no dolorosa a nivel de la fosa supraclavicular derecha. Las constantes vitales, la palpación de los huecos axilares y la exploración pulmonar, cardiaca, abdominal y de las extremidades inferiores no mostraron hallazgos de interés.
+Resumen de pruebas complementarias:En las exploraciones complementarias, el hemograma, el estudio de coagulación, el perfil bioquímico incluyendo marcadores tumorales y la gasometría arterial fueron normales. En la radiografía de tórax se apreciaba ensanchamiento mediastínico a expensas del hilio derecho. En la TC cérvico-torácica se observaron múltiples imágenes nodulares en el lóbulo superior del pulmón derecho, conglomerado adenopático ocupando el mediastino anterior y con extensión craneal hasta la región laterocervical derecha, comprimiendo a la vena yugular derecha, el tronco braquiocefálico izquierdo y la VCS. En la TC cráneo-orbitaria se apreciaba ligero exoftalmos derecho, con engrosamiento de la vena oftálmica superior y ausencia de tumor orbitario. Una punción aspiración con aguja fina de la masa adenopática latero-cervical derecha fue diagnóstica de metástasis de carcinoma de células pequeñas.
+Diagnóstico: metástasis de carcinoma de células pequeñas.
+Remitido por: José Barquero Romero. Plaza de las Américas, Edf. Argentina, esc 9, 6A. 06011 Badajoz. e-mail: pepebarquero@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="9" end="24" text="Manuel de Jesus" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="37" end="51" text="Sanchez Romero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="58" end="66" text="78546935" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="73" end="87" text="86 74633854 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="100" end="140" text="Calle Gral. Manuel Saavedra Palmeiro, 11" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="164" end="171" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="177" end="182" text="06004" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="226" end="236" text="24/05/1949" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="244" end="250" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="258" end="265" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="272" end="273" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="293" end="303" text="23/11/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="313" end="333" text="José Barquero Romero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="341" end="346" text="06 06" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="364" end="369" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="373" end="380" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="2960" end="2980" text="José Barquero Romero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2982" end="3030" text="Plaza de las Américas, Edf. Argentina, esc 9, 6A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3032" end="3037" text="06011" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3038" end="3045" text="Badajoz" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3055" end="3076" text="pepebarquero@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

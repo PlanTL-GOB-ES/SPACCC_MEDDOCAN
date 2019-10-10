@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Darío .
+Apellidos: Dominguez Moreno.
+NHC: 2605987.
+NASS: 89 10686799 65.
+Domicilio: Calle de la Paloma, 4 .
+Localidad/ Provincia: Ciudad Real.
+CP: 13001.
+Datos asistenciales.
+Fecha de nacimiento: 21/09/1992.
+País: España.
+Edad: 22 años Sexo: H.
+Fecha de Ingreso: 13/12/2014.
+Médico: Maria Antonia Castillo Wisman NºCol: 13 13 58036.
+Historia Actual: varón de 22 años, asténico, álgido y delgado, que acude a nuestra consulta del centro de salud de forma repetida en el último mes, por dolor epigástrico punzante asociado a náuseas y vómitos postprandiales que alivian el dolor. Los episodios se presentan desde hace 7 años, motivo por el que ha consultado en los servicios de urgencias en múltiples ocasiones, sin que se le haya encontrado nunca patología aguda.
+Ingresó hace 3 años por uno de estos episodios, realizándole gastroscopía con biopsia gástrica que resultó positiva para H. pylori; cumplió tratamiento erradicador con triple terapia actual (omeprazol, amoxicilina y claritromicina), con posterior test de aliento negativo para infección por H. pylori. Por persistencia de los síntomas se instauró tratamiento con antieméticos y múltiples inhibidores de la bomba de protones, sin respuesta a largo plazo. En su ingreso fue valorado por el servicio de Salud Mental, ya que persistía la sintomatología de dolor agudo que cedía con los vómitos, siendo diagnosticado de síndrome ansioso-depresivo con mal seguimiento e incumplimiento terapéutico. No presentaba alergias a alimentos ni a fármacos. Actualmente, el dolor cedía en posición genupectoral y con el consumo de cannabis.
+Exploración física: A la exploración nos encontramos con un paciente con constantes estables, con un IMC de 17,7. El abdomen está excavado, timpánico, blando y levemente doloroso a la palpación profunda en epigastrio, sin que se palpen masas, adenopatías ni megalias.
+Pruebas complementarias y evolución:  La analítica no presentaba alteraciones; ausencia de anemia, marcadores de respuesta inflamatoria negativos, sin alteraciones a nivel hepático ni alteraciones electrolíticas, proteínas totales 5,8 g/dl (valor normal de 6,4 a 8,3 g/dL). En la radiografía de abdomen no hay signos de obstrucción intestinal.
+Se realizó en nuestra consulta, una ecografía abdominal total en decúbito supino, sin evidencia de hallazgos relevantes, por lo cual decidimos consultar con el servicio de Digestivo, donde, tras ser valorado, se solicitó un tránsito intestinal baritado, con retraso de más de 8 horas por lentitud de vaciamiento gástrico por disminución del calibre en la 3a porción duodenal de forma permanente, sugerente de compresión extrínseca, que no impedía el paso distal de contraste, todo ello compatible con una compresión vascular. Ante este hallazgo, se decide realización de angioTAC de abdomen, con el resultado de una pinza vascular que producía compresión del duodeno en su 3a porción. La pinza mesentérica afectaba al duodeno y a la vena renal izquierda, produciendo compresión y dilatación pre y postcompresión.
+Remitido por: Dra. Maria Antonia Castillo Wisman. Calle Madroños 14, Ciudad Real 13002. e-mail: mariocwisman@yahoo.es.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="33" text="Darío" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="47" end="63" text="Dominguez Moreno" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="70" end="77" text="2605987" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="85" end="99" text="89 10686799 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="112" end="133" text="Calle de la Paloma, 4" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="158" end="169" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="175" end="180" text="13001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="224" end="234" text="21/09/1992" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="242" end="248" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="256" end="263" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="270" end="271" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="291" end="301" text="13/12/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="311" end="340" text="Maria Antonia Castillo Wisman" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="348" end="359" text="13 13 58036" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="378" end="383" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="387" end="394" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="3060" end="3089" text="Maria Antonia Castillo Wisman" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="3091" end="3108" text="Calle Madroños 14" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3110" end="3121" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3122" end="3127" text="13002" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3137" end="3158" text="mariocwisman@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

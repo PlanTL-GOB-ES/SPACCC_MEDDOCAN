@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Tomás.
+Apellidos: Rot Rodriguez.
+NHC: 7843563.
+NASS: 74 65713645 56.
+Domicilio: C/ Mirasierra, 14, 2 B.
+Localidad/ Provincia: Ciudad Real.
+CP: 13002.
+Datos asistenciales.
+Fecha de nacimiento: 20/06/1972.
+País de nacimiento: España.
+Edad: 44 años Sexo: H.
+Fecha de Ingreso: 22/12/2016.
+Médico: Jaime Ortega Carnicer NºCol: 13 13 25671.
+Informe clínico del paciente: Varón de 44 años con historia previa de depresión y alcoholismo fue llevado a un hospital comarcal a las tres horas de haber ingerido arsénico voluntariamente. El paciente fue encontrado agitado, con náuseas, vómitos y diarrea acuosa intensa. Su presión arterial fue de 75/45 mmHg, su frecuencia cardíaca de 130 latidos/minuto y su temperatura de 37 ºC. En la analítica sanguínea destacó: acidosis metabólica aguda (pH 7,21, PO2 91 mmHg, PCO2 21 mmHg y bicarbonato 11,8 mmol/l con FiO2 de 0,21), lactato de 6 (nivel normal: < 2,2) mmol/l e hipopotasemia de 3,3 mmol/l. El electrocardiograma (ECG) reveló taquicardia sinusal a 135 latidos/minuto e intervalo QTc de 0,46 segundos. Inicialmente fue tratado con bicarbonato sódico (220 mmol por vía intravenosa [i.v.]), sobrecarga de fluidos, lavado gástrico y administración de carbón activado y dimercaprol (300 mg por vía intramuscular [i.m.]). Debido a un deterioro progresivo del nivel de conciencia, el paciente fue intubado y trasladado al servicio de Medicina Intensiva.
+Al ingreso, el enfermo estaba sedado y mecánicamente ventilado. La exploración física reveló miosis y una temperatura de 35,2 ºC, una presión arterial de 70/40 mmHg, una frecuencia cardíaca de 95 latidos/minuto y una presión venosa central de 8 cmH2O. Los datos analíticos más destacados fueron: glucosa 64 mg/dl, sodio 148 mmol/l, potasio 1,8 mmol/l, calcio 7,8 mg/dl, magnesio 2,7 mg/dl, fósforo 0,4 mg/dl, creatinina 2,3 mg/dl, urea 52 mmol/l, creatinquinasa 273 U/l, troponina I 0,74 (nivel normal: 0,06) µg/l, leucocitos 17,6 x 109/l con un 80% neutrófilos y hemoglobina 12,5 g/dl. Los gases arteriales fueron (FiO2, 0,5): pH 7,27, PO2 105 mmHg, PCO2 38 mmHg y bicarbonato 18 mmol/l. La radiografía de tórax estuvo dentro de los límites normales. El ECG mostró ritmo sinusal a 95 latidos/minuto, intervalo QTc prolongado (0,70 segundos) y depresión del segmento ST en las derivaciones I, II, aVL y V2 a V6. Varios minutos después, el registro de ECG puso de manifiesto varios episodios de taquicardias ventriculares polimorfas y autolimitadas compatibles con TDP, las cuales fueron suprimidas con aportes de magnesio y potasio. Por la aparición de un fallo renal agudo, se realizó una sesión de hemodiálisis. A las ocho horas del ingreso, un catéter arterial pulmonar reveló los siguientes parámetros hemodinámicos: presión arterial pulmonar, 28/20 mmHg; presión pulmonar de enclavamiento, 12 mmHg; índice cardíaco, 4,7 latidos/minuto/m2 y resistencias vasculares sistémicas, 435 dinas.seg.cm-5. Fue tratado con expansión agresiva de volumen, administración de dimercaprol (3,2 mg/kg/4 horas), repleción de fósforo y dosis altas de noradrenalina. Seguidamente, la presión arterial subió a 120/65 mmHg y las resistencias vasculares sistémicas llegaron a 1019 dinas.seg.cm-5. Los niveles séricos de arsénico obtenidos al ingreso fueron de 319 (nivel normal: < 20) µg/l y los urinarios de 946 (nivel normal: < 35) µg/l. Un ECG realizado a las 24 horas del ingreso reveló un intervalo QTc normal (0,40 seg) y una ausencia de ondas Q y de desplazamientos del segmento ST. En este momento, los niveles séricos de troponina I fueron de 25,6 µg/l y los de creatinquinasa de 1.523 (fracción MB 98,1) U/l. Pasadas las 48 horas del ingreso, el paciente presentó fiebre de 40 ºC e hipotensión arterial grave debido a una neumonía por Staphylococcus aureus, Klebsiella oxytoca y Serratia marcescens. El paciente murió a las 60 horas del ingreso. Una autopsia parcial reveló signos histológicos de necrosis renal masiva, necrosis centrolobulillar hepática y, a nivel cardíaco, ausencia de infarto agudo de miocardio, trombosis coronaria o signos típicos de miocarditis (miocitolisis e infiltración de linfocitos).
+Responsable clínico: Dr. Jaime Ortega Carnicer. C/ Los Alisos, 10. 13002 Ciudad Real. España. Correo electrónico: jortegacar@wanadoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="33" text="Tomás" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="46" end="59" text="Rot Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="66" end="73" text="7843563" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="81" end="95" text="74 65713645 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="108" end="130" text="C/ Mirasierra, 14, 2 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="154" end="165" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="171" end="176" text="13002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="220" end="230" text="20/06/1972" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="252" end="258" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="266" end="273" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="280" end="281" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="301" end="311" text="22/12/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="321" end="342" text="Jaime Ortega Carnicer" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="350" end="361" text="13 13 25671" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="393" end="398" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="402" end="409" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="4148" end="4169" text="Jaime Ortega Carnicer" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="4171" end="4188" text="C/ Los Alisos, 10" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="4190" end="4195" text="13002" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="4196" end="4207" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4209" end="4215" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="4237" end="4258" text="jortegacar@wanadoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

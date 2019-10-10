@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Carmen .
+Apellidos: Pantoja Ordoñez.
+NHC: 3456908.
+NASS: 28 93843598 01.
+Domicilio: Calle Valdeluz, 19.
+Localidad/ Provincia: Getafe.
+CP: 28901.
+Datos asistenciales.
+Fecha de nacimiento: 29/05/1978.
+País: España.
+Edad: 40 años Sexo: M.
+Fecha de Ingreso: 18/06/2018.
+Médico: David Palacios Martínez NºCol: 28 28 65200.
+Informe clínico del paciente: Mujer de 40 años, sin antecedentes patológicos relevantes. Acudió a la consulta de Atención Primaria por un cuadro de dispepsia con epigastralgia y pirosis retroesternal de 10 días de evolución. La anamnesis descartó transgresiones dietéticas, ingesta de fármacos o sustancias gastrolesivas, y la presencia de síntomas orgánicos o datos clínicos de alarma. La exploración física resultó normal. La paciente fue diagnosticada de dispepsia no investigada. Se instauró tratamiento con medidas higiénico-dietéticas y omeprazol 20 mg/día durante 4 semanas, citando a la paciente para revisión.
+La paciente refirió discreta mejoría clínica. Se incrementó la dosis de omeprazol hasta dosis plenas y se añadió un fármaco procinético. Se citó a la paciente en 4 semanas para nueva revisión, en la que se evidenció la presencia de disfagia orofaríngea mecánica como signo de alarma. Se solicitó la realización de una EDA de manera preferente, que objetivó la presencia de un exudado esofágico en los 2/3 proximales. Se tomaron muestras de las lesiones mediante cepillado para estudio anatomopatológico y cultivo, que confirmaron el diagnóstico: esofagitis candidiásica.
+La paciente fue tratada con fluconazol 100 mg/día durante 21 días y pantoprazol 40 mg/día por vía oral, logrando la remisión completa.
+Ante el diagnóstico de EC, se completó el estudio de sus posibles causas y entidades asociadas (neurológicas, neoplásicas, metabólicas, sistémicas, inmunodepresión, etc.) mediante anamnesis, exploración física, analítica completa (con función tiroidea, hepática y renal, perfil diabético, situación inmunológica de la paciente, estudio serológico, etc.) y radiografías de tórax y abdomen. Los resultados de todas las pruebas complementarias resultaron negativos. Tras completar el estudio, el único factor de riesgo encontrado fue el tratamiento con inhibidores de la bomba de protones (IBP).
+Finalmente la paciente fue diagnosticada de EC en paciente inmunocompetente. En la literatura revisada, los pacientes con EC relacionada con la toma de IBP habían realizado dicho tratamiento durante al menos 2 meses6-8 (como nuestra paciente). Decidimos suspender dicho tratamiento tras la resolución clínica, realizando ulteriormente una EDA de control que resultó normal.
+Remitido por: Dr. David Palacios Martínez c/ Magdalena, 13, 2o A 28901 Getafe drdpalacios@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="29" end="35" text="Carmen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="49" end="64" text="Pantoja Ordoñez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="71" end="78" text="3456908" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="86" end="100" text="28 93843598 01" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="113" end="131" text="Calle Valdeluz, 19" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="155" end="161" text="Getafe" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="167" end="172" text="28901" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="216" end="226" text="29/05/1978" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="234" end="240" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="248" end="255" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="262" end="263" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="283" end="293" text="18/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="303" end="326" text="David Palacios Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="334" end="345" text="28 28 65200" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="377" end="382" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="386" end="393" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2657" end="2680" text="David Palacios Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2681" end="2703" text="c/ Magdalena, 13, 2o A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2704" end="2709" text="28901" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2710" end="2716" text="Getafe" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2717" end="2738" text="drdpalacios@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

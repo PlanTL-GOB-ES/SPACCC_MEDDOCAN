@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Fernanda.
+Apellidos: Blasco Gonzalez .
+NHC: 3756389.
+Domicilio: Calle Suescun, 98, 3, B.
+Localidad/ Provincia: Pamplona.
+CP: 31008.
+Datos asistenciales.
+Fecha de nacimiento: 27/08/2002.
+País: España.
+Edad: 12 años Sexo: M.
+Fecha de Ingreso: 18/01/2015.
+Servicio: Cirugía Plástica y Reparadora.
+Episodio: 1874560.
+Médico: Antonio Pérez Espadero NºCol: 31 31 52601.
+Informe clínico del paciente: Niña de 12 años de edad, con antecedente de orejas prominentes tratadas mediante otoplastia a los 8 años. En ambas orejas se desarrolló progresivamente un queloide a partir del año de la intervención. Los queloides invadían el borde superior y cara posterior de los polos superiores. El derecho tenía un tamaño horizontal de 3,2 cm y vertical de 2 cm, y el izquierdo de 2,7 cm x 1,5 cm respectivamente. La paciente no refería dolor ni prurito. Se indicó extirpación dado el gran tamaño de las lesiones, con repercusión estética y psicológica. La intervención se realizó con anestesia general. El tratamiento quirúrgico consistió en la técnica siguiente: se realizó una incisión en la cara posterosuperior del queloide, a partir de la cual de disecó un colgajo delgado de la cubierta cutánea queloidea, manteniendo un pedículo de unión a la piel normal en la cara anterior de la oreja. Tras levantar el colgajo de un tamaño adecuado se realizó extirpación del resto del queloide. El colgajo fue suturado al defecto sin tensión. El tamaño de los colgajos fue de 2,5 cm x 1,5 cm en la oreja derecha, y de 2 cm x 1 cm en la oreja izquierda. En el estudio anatomopatológico se comprobó que los nódulos queloideos estaban recubiertos por epidermis, observándose atrofia de anejos cutáneos. La cirugía se asoció a otros tratamientos, empleados habitualmente para la prevención de recidivas: inyección intraoperatoria de corticosteroide (acetónido de triamcinolona) en el lecho quirúrgico, aplicación de gel de silicona en las cicatrices resultantes y presoterapia con una banda elástica. El gel de silicona y la presoterapia se emplearon durante un año tras la intervención. La paciente fue controlada periódicamente.
+El colgajo de la oreja derecha presentó una dehiscencia pequeña de sutura, la cual curó por segunda intención a las pocas semanas mediante tratamiento tópico. No se desarrollaron necrosis u otras complicaciones. Se logró una reparación de los defectos satisfactoria, con restitución del contorno normal de las orejas. En la oreja derecha se desarrolló una recidiva a los 5 años de la intervención, formándose un queloide en la zona operada de 1,5 cm x 1 cm, el cual fue tratado con el mismo procedimiento quirúrgico. En la oreja izquierda no se ha producido recidiva. A los 18 años de edad, ambas orejas presentan buen aspecto y la paciente realiza controles periódicos 
+Remitido por: Dr. Antonio Pérez Espadero Servicio de Cirugía Plástica y Reparadora Complejo Hospitalario de Navarra C/ Irunlarrea, 4 31008 Pamplona E-mail: apespadero@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="36" text="Fernanda" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="49" end="64" text="Blasco Gonzalez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="72" end="79" text="3756389" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T20" start="92" end="115" text="Calle Suescun, 98, 3, B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="139" end="147" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="153" end="158" text="31008" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="202" end="212" text="27/08/2002" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="220" end="226" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="234" end="241" text="12 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="248" end="249" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="269" end="279" text="18/01/2015" TYPE="FECHAS" comment=""/>
+    <ID id="T8" start="332" end="339" text="1874560" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="349" end="371" text="Antonio Pérez Espadero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="379" end="390" text="31 31 52601" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="422" end="426" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="430" end="437" text="12 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="520" end="526" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="2822" end="2844" text="Antonio Pérez Espadero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2887" end="2919" text="Complejo Hospitalario de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2920" end="2936" text="C/ Irunlarrea, 4" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2937" end="2942" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2943" end="2951" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2960" end="2982" text="apespadero@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

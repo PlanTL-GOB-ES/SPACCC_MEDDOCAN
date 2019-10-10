@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Ramon.
+Apellidos: Boadilla Gutierrez.
+NHC: 4783648.
+NASS: 78 56437563 45.
+Domicilio: C/ Santa Engracia, 23 .
+Localidad/ Provincia: Barcelona.
+CP: 06036.
+Datos asistenciales.
+Fecha de nacimiento: 05/07/1977.
+País de nacimiento: España.
+Edad: 39 años Sexo: H.
+Fecha de Ingreso: 19/03/2017.
+Médico: Lluis Ferrer Quintana Porras  NºCol:08 08 56980.
+Historia Actual: Hombre de 39 años sin hábitos tóxicos, alérgico al ácido acetilsalicílico (AAS) y al diclofenaco. Consulta inicialmente por tumefacción de partes blandas asociada a púrpura palpable en ambas extremidades inferiores en abril de 2001. Se realizó estudio inmunológico que puso de manifiesto crioglobulinemia positiva con criocrito de 9,2% (IgM kappa de carácter monoclonal y componente IgG). Las serologías para virus hepatotropos y virus de la inmunodeficiencia humana (VIH) fueron negativas, así como también dieron negativos los anticuerpos antifosfolipídicos.
+Exploración física: En la exploración física destacaba la presencia de púrpura palpable en las extremidades inferiores; el resto del examen fue anodino. 
+Pruebas complementarias: Se realizó una tomografía computarizada (TC) toracoabdominal en la que no se evidenciaron adenopatías ni visceromegalias. Con la orientación de una vasculitis cutánea, se inició tratamiento con prednisona a dosis de 1 mg/kg/día, con una evolución inicial favorable y la desaparición de las lesiones.
+Evolución: Un año después de la primera consulta el paciente refería parestesias en las extremidades inferiores, asociadas nuevamente a petequias en dicha localización, presentando en esta ocasión síndrome nefrítico. En la analítica destacaban: hipocomplementemia, criocrito del 17% y proteinograma con débil banda anómala en zona gamma. Inmunoelectroforesis sérica: componente de movilidad restringida IgM kappa (en la orina no había ningún elemento sospechoso de monoclonalidad). La función renal presentaba una creatinina de 1,2 mg/dl, sedimento con hematíes +++ y proteinuria de 2,8 g/día.
+La biopsia renal confirmó la presencia de glomerulonefritis con patrón mesangiocapilar. Se añadió al tratamiento azatioprina, con mantenimiento de la función renal y proteinurias alrededor de 1 g.
+Tras seis años de seguimiento, se evidenció en un control analítico inmunofenotipo de sangre periférica compatible con LLP. Se corroboró posteriormente este hallazgo con un aspirado de médula ósea en el que se observó infiltración medular por síndrome linfoproliferativo crónico de célula pequeña de línea B, compatible con LLP quiescente, por lo que en ese momento no fue tributario de tratamiento con quimioterapia.
+Un año más tarde el paciente presenta proteinuria persistente de 4,7 g/24 h, por lo que se decide realizar una nueva biopsia renal que confirmó la presencia de una glomerulonefritis crioglobulinémica y mostró, además, infiltración linfocitaria compatible con afectación por linfoma B de bajo grado. Ante la afectación renal por el linfoma, se decide iniciar tratamiento con rituximab a dosis de 375 mg/m2 subcutáneo (s.c.) x 4 y tandaderecambio plasmático.
+A los dos años de haber realizado tratamiento anti-CD20, el paciente se encuentra con síndrome linfoproliferativo en remisión y se mantiene la afectación renal en forma de proteinuria residual (4 g/día) con función renal conservada (Cr 0,8 mg/dl, FG: 100 ml/min) bajo tratamiento con doble bloqueo del eje renina-angiotensina-aldosterona.
+Responsable clínico: Dr. Lluis Ferrer Quintana Porras, Servicio de Nefrología y Trasplante Renal, Hospital Clínic de Barcelona, Villarroel, 170, 08036 E-mail: lfquinta@clinic.ub.es E-mail: 36008lqp@comb.cat
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="33" text="Ramon" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="46" end="64" text="Boadilla Gutierrez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="71" end="78" text="4783648" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="86" end="100" text="78 56437563 45" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="113" end="134" text="C/ Santa Engracia, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="159" end="168" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="174" end="179" text="06036" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="223" end="233" text="05/07/1977" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="255" end="261" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="269" end="276" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="283" end="284" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="304" end="314" text="19/03/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="324" end="352" text="Lluis Ferrer Quintana Porras" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="360" end="371" text="08 08 56980" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="390" end="396" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T2" start="400" end="407" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T1" start="608" end="621" text="abril de 2001" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="3460" end="3488" text="Lluis Ferrer Quintana Porras" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3533" end="3561" text="Hospital Clínic de Barcelona" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="3563" end="3578" text="Villarroel, 170" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3580" end="3585" text="08036" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T4" start="3594" end="3615" text="lfquinta@clinic.ub.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T3" start="3624" end="3641" text="36008lqp@comb.cat" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

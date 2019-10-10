@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Mario.
+Apellidos: Casas A.
+NHC: 3544621.
+Domicilio: Duarte Quirós 1300, 5000.
+Localidad/ Provincia: Córdoba.
+CP: X500.
+Datos asistenciales.
+Fecha de nacimiento: 15/06/1994.
+País: Argentina.
+Edad: 19 años Sexo: Masculino.
+Fecha de Ingreso: 27/09/2013.
+Médico:Gabriel Maldonado Fonseca.
+Informe clínico del paciente: Individuo de sexo masculino, de 19 años de edad y en uniforme militar, es encontrado en posición de decúbito dorsal con ambos miembros superiores a los lados del cuerpo, en escenario abierto nocturno. Sobre el antebrazo izquierdo se identificó arma de fabricación y uso militar: el Fusil Automático Liviano -FAL, modelo PARA Nº 50-63, supercompacto con culata plegable y bocacha apagallamas, calibre 7.62 x 51 mm NATO, velocidad de 810 m/s. La culata se encontró apoyada sobre la mano izquierda (ésta en espasmo de disparo) disponiendo el fusil en posición paralela al cuerpo con la bocacha a unos 30 cm de la cabeza y cargador y dispositivo percutor hacia fuera. El lugar del hecho y las ropas de la víctima se encontraron sin signos de violencia. El fallecido presentó lesiones contusas de tipo desgarrantes en su cavidad bucal, abundante epistaxis, otorragia y gran mancha de sangre por debajo de su cabeza.
+Una vez realizados los protocolos de fijación del lugar del hecho, se procedió a girar el cuerpo para corroborar la existencia de un presunto orificio de salida en relación con la gran mancha de sangre bajo la cabeza, identificándose una pequeña herida de diámetro circular y bordes regulares a nivel cervical. Se constató la presencia de una cavidad en el terreno correspondida perfectamente con la caja craneana y perforación en tierra en vínculo directo con el presunto orificio de salida. El sondaje de esta perforación permitió establecer su profundidad en unos 20 cm con una angulación del trayecto coincidente con la estimada entre cavidad bucal y orificio cervical, dirección derecha-izquierda, abajo-arriba. La excavación de dicha perforación favoreció la recuperación del proyectil, incrustado en su profundidad.
+Durante el procedimiento autópsico en la morgue y dadas las lesiones de compromiso buco-máxilo-facial, se describieron los elementos lesivos de la siguiente forma:
+1. Gran lesión contusa en cavidad bucal con desgarro periorificial en ambos márgenes y forma estrellada, con acentuada destrucción hacia el lado derecho del individuo. Depósito de pigmentos grisáceo-negruzcos en todo el tapizado mucoso oral, más marcado en mucosa yugal izquierda. Se identificó gran desgarro en todo el cuerpo lingual con idéntica presencia del pigmento. En el sector más posterior y lateral izquierdo a nivel de la unión de paladar duro, blando e istmo de las fauces se observó perforación circular de 1,5 cm de diámetro e intensa hemorragia. En lo que respecta a estructuras duras, se constató fractura maxilar y mandibular a la altura de la unión de sus respectivos incisivos central y lateral, con desplazamiento e importante movilidad de cabos fracturarios hacia el lado derecho. No se encontraron lesiones dentoperiodontales directas o indirectas en dientes maxilares. Respecto a los mandibulares, el incisivo central inferior derecho se presentó íntegro pero avulsionado y desplazado hacia la basal mandibular en la profundidad de la línea de fractura, mientras que el incisivo lateral del mismo lado evidenció fractura longitudinal amelo-cemento-dentinaria con pérdida de sustancia. El fragmento dentario faltante se identificó en la profundidad de la línea fracturaria mandibular, al mismo lado del incisivo central avulsionado.
+2. Lesión perforante circular con bordes regulares de 1,5 cm de diámetro ubicada en línea media ligeramente hacia la izquierda a nivel cervical posterior unos 3 cm por debajo de la eminencia occipital, parcialmente oculta por el cabello. La exploración macroscópica verificó la ausencia de partículas metálicas.
+3. El sondaje pasivo del trayecto estableció la comunicación entre la perforación descripta en la profundidad de la cavidad bucal, en el sector posterior izquierdo, con el orificio a nivel cervical estableciendo una dirección rectilínea ligeramente de derecha-izquierda, adelante-atrás, abajo-arriba, involucrando las musculaturas de faringe, velo del paladar y lengua. A la exploración no se identificaron residuos metálicos en este trayecto.
+Dada la morfología atípica de ambos orificios se realizó la obtención de cuña de lengua, la que fue fijada en formol al 10% y procesada con técnica de rutina de inclusión en parafina y coloración de hematoxilina eosina en el Laboratorio de Pericias en Odontología Forense, Córdoba (Argentina). La identificación de partículas por deflagración de la pólvora incrustadas entre los haces musculares estriados linguales y la ausencia de éstas en el orificio de salida, permitieron confirmar a la cavidad bucal como punto de abocamiento y entrada del proyectil.
+Los análisis toxicológicos fueron negativos tanto para alcohol como para drogas. La ausencia de señales de lucha (tanto en la escena como en la vestimenta del sujeto), la localización y número de las heridas, la dirección y distancia del disparo y el espasmo en mano izquierda, compatibles con la posición del arma (se realizó reconstrucción del evento), todos elementos enumerados por la literatura como característicos de suicidio [7, 8, 11], y el recabado de información personal que reveló historia reciente potencialmente determinante de autolesión, determinaron la etiología médico legal de suicidio.
+Remitido por: Prof. Dr. Gabriel Maldonado Fonseca. Cátedra de Anatomía Patológica B. Facultad de Odontología. Universidad Nacional de Córdoba. Av. Haya de la Torre s/n, Ciudad Universitaria. Córdoba (5000), Argentina. Mail: gabriel_fonseca@argentina.com.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T31" start="8" end="13" text="Mario" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T30" start="26" end="33" text="Casas A" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T29" start="40" end="47" text="3544621" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T28" start="60" end="84" text="Duarte Quirós 1300, 5000" TYPE="CALLE" comment=""/>
+    <LOCATION id="T27" start="108" end="115" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T26" start="121" end="125" text="X500" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T24" start="169" end="179" text="15/06/1994" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T25" start="187" end="196" text="Argentina" TYPE="PAIS" comment=""/>
+    <AGE id="T22" start="204" end="211" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T20" start="218" end="227" text="Masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T23" start="247" end="257" text="27/09/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T18" start="266" end="291" text="Gabriel Maldonado Fonseca" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T19" start="341" end="350" text="masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T21" start="355" end="362" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <PROFESSION id="T16" start="385" end="392" text="militar" TYPE="PROFESION" comment=""/>
+    <PROFESSION id="T15" start="593" end="600" text="militar" TYPE="PROFESION" comment=""/>
+    <OTHER id="T13" start="605" end="634" text="Fusil Automático Liviano -FAL" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="636" end="656" text="modelo PARA Nº 50-63" TYPE="OTROS_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T12" start="736" end="740" text="NATO" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T11" start="4557" end="4603" text="Laboratorio de Pericias en Odontología Forense" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T10" start="4605" end="4612" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T9" start="4614" end="4623" text="Argentina" TYPE="PAIS" comment=""/>
+    <NAME id="T17" start="5520" end="5545" text="Gabriel Maldonado Fonseca" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="5581" end="5604" text="Facultad de Odontología" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T7" start="5606" end="5637" text="Universidad Nacional de Córdoba" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T6" start="5639" end="5663" text="Av. Haya de la Torre s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="5665" end="5685" text="Ciudad Universitaria" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="5687" end="5694" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="5696" end="5700" text="5000" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="5703" end="5712" text="Argentina" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="5720" end="5749" text="gabriel_fonseca@argentina.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

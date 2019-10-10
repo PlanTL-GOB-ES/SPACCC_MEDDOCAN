@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Cesc.
+Apellidos: Baltodano Pascual .
+NHC: 8793542.
+NASS: 89 34789675 36.
+Domicilio: Paseo Santa Laia, 8, 6 B.
+Localidad/ Provincia: Barcelona.
+CP: 08216.
+Datos asistenciales.
+Fecha de nacimiento: 19/07/1931.
+País de nacimiento: España.
+Edad: 80 años Sexo: H.
+Fecha de Ingreso: 11/10/2011.
+Servicio: Urología.
+Médico: Josep Marió Gaya Sopena  NºCol: 08 08 52105.
+Motivo de ingreso:  polaquiuria.
+Historia Actual: Varón de 80 años con antecedentes de RTUP 3 años atrás, consultó por polaquiuria, dolor hipogástrico y fiebre de 48 horas de evolución al mes de haber sido intervenido de hernia inguinal derecha incarcerada. Al interrogatorio refería empeoramiento progresivo de su chorro miccional en los últimos meses. 
+Exploración física: A la exploración física destacaba globo vesical, mínima secreción serosa de la herida inguinal e induración dolorosa de la base peneana.
+Pruebas complementarias: Se colocó sonda de cistostomía por imposibilidad de sondaje uretral y con analítica que mostraba leucocitosis con desviación a la izquierda y sedimento de orina positivo a bacilos gramnegativos, se ingresó para tratamiento antibiótico endovenoso y estudio.
+Tras presentar mejoría clínica y analítica, se realizó ecografía abdominal que mostró seroma subcicatricial a nivel inguinal derecho y cistografía por sonda de cistostomía donde se observó un extravasado en uretra peneana proximal.
+Evolución: Una vez tratada la ITU febril con cultivo de orina positivo para E.Coli multisensible se dio de alta al paciente. En la visita de control, el paciente refería importante dolor perineal que venía tratando con antiinflamatorios y aportó el informe anatomo-patológico del servicio de cirugía donde había sido intervenido de hernia inguinal, informando que el material resecado se trataba de una adenopatía de carcinoma escamoso moderadamente diferenciado. En ese momento se orientó como posible carcinoma escamoso de uretra con adenopatía inguinal y se realizó un estudio de extensión.
+La RNM pelviana mostró una colección de 3 cm entre uretra y cuerpos cavernosos así como adenopatías inguinales derechas..
+El TC tóraco-abdominal mostró una única lesión subpleural en lóbulo superior del pulmón derecho sugestiva de metástasis, sin presencia de adenopatías.
+El paciente se ingresó por mal control del dolor perineal y la aparición de varias lesiones nodulares cutáneas en pubis y muslo derecho.
+La biopsia de una de estas lesiones fue positiva para carcinoma escamoso.
+Se sometió al paciente a 6 ciclos de poliquimioterapia paliativa con cisplatino + 5-fluoracilo (CDDP 137 mg-5FU 6839 mg) con buena tolerancia y buena respuesta clínica inicial con mejoría de la astenia, regresión parcial de las letàlides y desaparición de la lesión pulmonar. Al mes de finalizar la quimioterapia presentó progresión precoz de la enfermedad con aparición de un mayor número de lesiones cutáneas. Se sometió entonces a radioterapia paliativa consiguiendo mejor control del dolor perineal y escasa respuesta de las letálides. Actualmente está en tratamiento con mórficos y seguimiento por un equipo de cuidados paliativos a domicilio, a los 9 meses del diagnóstico de carcinoma escamoso.
+Responsable clínico: Dr. Josep Marió Gaya Sopena Servicio de Urología Fundació Puigvert - Cartagena 340-350. 08005 Barcelona. Tel.: 934 169 731 E-mail autor: 36178jgs@comb.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="32" text="Cesc" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="45" end="62" text="Baltodano Pascual" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="70" end="77" text="8793542" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="85" end="99" text="89 34789675 36" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="112" end="136" text="Paseo Santa Laia, 8, 6 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="160" end="169" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="175" end="180" text="08216" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="224" end="234" text="19/07/1931" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="270" end="277" text="80 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="284" end="285" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="305" end="315" text="11/10/2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="345" end="368" text="Josep Marió Gaya Sopena" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="377" end="388" text="08 08 52105" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="440" end="445" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="449" end="456" text="80 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3221" end="3244" text="Josep Marió Gaya Sopena" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3266" end="3283" text="Fundació Puigvert" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="3286" end="3303" text="Cartagena 340-350" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3305" end="3310" text="08005" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3311" end="3320" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="3328" end="3339" text="934 169 731" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="3354" end="3370" text="36178jgs@comb.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

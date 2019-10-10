@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Raquel.
+Apellidos: Cardona Paz.
+NHC: 3627198.
+NASS: 38 48392847 63.
+Domicilio: Calle portero del cura 94, 2, B.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 02/06/1953.
+País: España.
+Edad:62 años Sexo: M.
+Fecha de Ingreso: 10710/2015.
+Médico:  Yolanda Ares Valdés NºCol: 28 28 948261.
+Informe clínico del paciente: Paciente femenina de 62 años de edad, obesa, diabetes e hipertensa de un año de evolución. Desde hace 6 meses refiere dolor lumbar derecho, esporádico de baja intensidad. La exploración física fue normal. Se realizó ultrasonido abdominal que demostró masa suprarrenal derecha hipoecogénica de 80 mms que comprime el polo superior de riñón derecho. Urograma descendente, proceso expansivo en la suprarrenal derecha, el polo superior de riñón derecho desplazado hacia abajo. En la TAC helicoidal, masa tumoral con un diámetro mayor de 8,7x76 cms de contornos irregulares densidad heterogénea de 100 - 37 UH, tabicada, compatible con tumor suprarrenal de densidad grasa. Figura 1.
+El estudio hormonal para la determinación de cortisol fue normal.
+La paciente fue sometida a cirugía por abordaje lumbar. Los hallazgos transoperatorios fueron un tumor localizado en la glándula suprarrenal derecha, bien delimitado de bordes irregulares con lobulaciones. Se realizó adrenalectomía derecha sin complicaciones. La evolución post operatoria de la paciente es favorable, manteniéndose asintomática.
+El patólogo informó la pieza con un peso de 171,4 g, dimensiones de 9 x 8 x 6 cms y al corte con áreas amarillas - naranjas y otras de hemorragias y tejido adiposo alternando con zonas de calcificaciones. El examen histopatológico: mielolipoma de la glándula adrenal con extensas áreas de calcificaciones.
+Remitido por: Dra. Yolanda Ares Valdés.  Correo electronico: Yares@infomed.sld.cu
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="29" end="35" text="Raquel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="48" end="59" text="Cardona Paz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="66" end="73" text="3627198" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="81" end="95" text="38 48392847 63" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="108" end="139" text="Calle portero del cura 94, 2, B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="163" end="169" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="175" end="180" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="224" end="234" text="02/06/1953" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="242" end="248" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="255" end="262" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="269" end="270" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="290" end="300" text="10710/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="311" end="330" text="Yolanda Ares Valdés" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="338" end="350" text="28 28 948261" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="391" end="399" text="femenina" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="403" end="410" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="1797" end="1816" text="Yolanda Ares Valdés" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1839" end="1859" text="Yares@infomed.sld.cu" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

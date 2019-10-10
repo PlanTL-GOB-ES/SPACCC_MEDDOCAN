@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Zan.
+Apellidos: Abbabou.
+NHC: 8902775.
+Domicilio: Calle Tirso de Molina, 16, Bajo 1.
+Localidad/ Provincia: Madrid.
+CP: 28012.
+Datos asistenciales.
+Fecha de nacimiento: 23/11/2009.
+País: España.
+Edad: 8 años Sexo: H.
+Fecha de Ingreso: 05/04/2018.
+Médico:Roser Savall López-Reynals NºCol: 28 28 74596.
+Historia Actual: Niño de ocho años natural y residente en Sierra Leona que consultó al hospital Saint John of God en Sierra Leona por una tumoración en el párpado inferior del ojo izquierdo con un tiempo de evolución de alrededor de un mes. El padre refería un antecedente de contacto con hojas de la papaya.
+Exploración física: Durante la exploración presentaba una tumoración dura que ocupaba los dos tercios externos del párpado inferior izquierdo, con ulceraciones en la superficie cutánea y en la mucosa de dicho párpado. También existían adenopatías en ambos lados del cuello. El resto de la exploración no presentaba datos relevantes.
+Resumen de pruebas complementarias: La imposibilidad de realizar cultivos microbiológicos en el terreno obligó a administrar una cobertura antibiótica sistémica y local como primera opción terapéutica por si se trataba de un proceso infeccioso. Se administró amoxicilina/ácido clavulánico por vía oral, y tobramicina y aciclovir tópicos. Pero el síntoma que más destacaba era la consistencia pétrea de la tumoración, junto con las adenopatías regionales que sugerían un proceso neoformativo. Finalmente, el contacto con la papaya hizo considerar la posibilidad de que se tratara de una dermatitis de contacto al látex que exudan estos frutos cuando están verdes1. Se realizó una biopsia cutánea, que se envió a un hospital de referencia.
+El estudio anatomopatológico mostró un exudado con fibrina y polinucleares en la zona superficial de la úlcera y un tejido de granulación en las regiones profundas, donde se identificaron histiocitos con inclusiones intranucleares de tipo herpético y células multinucleadas gigantes con núcleos que conenían cuerpos de inclusión intranucleares. El músculo esquelético de la zona más profunda de la biopsia mostraba una reacción inflamatoria focal no específica. La tinción de PAS fue negativa. El diagnóstico fue: lesión ulcerada de características compatibles con infección por herpes virus, acompañada de sobreinfección probablemente bacteriana.
+Evolución y comentarios: A las tres semanas, la tumoración del párpado inferior empezó a disminuir de tamaño, así como la induración, al tiempo que cicatrizaron las ulceraciones. Al mes y medio, la reparación era total.
+Remitido por: Dra. Roser Savall López-Reynals. Hospital General Universitario Gregorio Marañon. Calle del Dr. Esquerdo, 46, 28007 Madrid. Correo electrónico:  rsavall@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="9" end="12" text="Zan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="25" end="32" text="Abbabou" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="39" end="46" text="8902775" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T22" start="59" end="92" text="Calle Tirso de Molina, 16, Bajo 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="116" end="122" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="128" end="133" text="28012" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="177" end="187" text="23/11/2009" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T19" start="195" end="201" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="209" end="215" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="222" end="223" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="243" end="253" text="05/04/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="262" end="288" text="Roser Savall López-Reynals" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="296" end="307" text="28 28 74596" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T13" start="326" end="330" text="Niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T15" start="334" end="343" text="ocho años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T9" start="367" end="379" text="Sierra Leona" TYPE="PAIS" comment=""/>
+    <LOCATION id="T8" start="396" end="422" text="hospital Saint John of God" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="426" end="438" text="Sierra Leona" TYPE="PAIS" comment=""/>
+    <OTHER id="T6" start="553" end="558" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T11" start="2576" end="2602" text="Roser Savall López-Reynals" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2604" end="2651" text="Hospital General Universitario Gregorio Marañon" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2653" end="2679" text="Calle del Dr. Esquerdo, 46" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2681" end="2686" text="28007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2687" end="2693" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2716" end="2733" text="rsavall@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

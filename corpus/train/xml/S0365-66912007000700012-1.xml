@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Miguel.
+Apellidos: Cuenca Suarez.
+NHC: 3742851.
+NASS: 85 96785636 12.
+Domicilio: Calle Antonio Palacios, 4.
+Localidad/ Provincia: Madrid.
+CP: 19001.
+Datos asistenciales.
+Fecha de nacimiento: 14/02/1986.
+País de nacimiento: España.
+Edad: 32 años Sexo: H.
+Fecha de Ingreso: 08/06/2018.
+Médico: María Moreno López  NºCol: 19 19 85470.
+Informe clínico del paciente: Un varón de 32 años acude al Servicio de Urgencias por disminución reciente de visión en OD coincidiendo con la aparición de una lesión parduzca en dicho ojo. Entre los antecedentes oftalmológicos destaca un traumatismo penetrante en OD tres años antes que fue suturado en nuestro centro. A la exploración presenta una agudeza visual de 0,1 que mejora a 0,5 con estenopéico. La biomicroscopía del segmento anterior muestra un quiste de iris que ocupa la mitad de la cámara anterior, cuya pared anterior contacta con el endotelio corneal, una cicatriz corneal lineal de 6 mm que respeta el eje visual y un cristalino transparente. La presión intraocular (PIO) es de 14 mmHg en ambos ojos. El fondo de ojo hasta donde permite explorar la lesión es normal, así como la ecografía ocular en modo B del segmento posterior. La imagen obtenida mediante Stratus OCT muestra una pared anterior fina en contacto discontinuo con el endotelio corneal y contenido claro del quiste. La lesión fue diagnosticada clínicamente de un quiste epitelial de iris. El paciente fue intervenido mediante punción aspiración del quiste con aguja de 30g, viscodisección del quiste para separarlo del endotelio corneal y reforma de la cámara anterior seguido de fotocoagulación ab externo en el mismo acto quirúrgico de sus paredes colapsadas empleando impactos no confluentes, de potencia elevada y tiempo largo, hasta observar la retracción del tejido. No se realizaron quemaduras intensas ni se aplicó tratamiento confluente para evitar la atrofia extensa del iris subyacente. El postoperatorio cursó con una inflamación intraocular moderada que respondió a los corticoides tópicos horarios y formación de una sinequia posterior amplia a las XII h sin desarrollar catarata y con una importante mejoría visual. A los seis meses de la intervención la agudeza visual es de 0,8 y la exploración biomicroscópica muestra una pupila ovalada en sentido vertical con sinequia posterior de X a II h como única secuela. No hay signos de recidiva de la lesión.
+Responsable clínico: Dra. María Moreno López C/. Dalí, 14 19171 Cabanillas del Campo (Guadalajara) España E-mail: mqmorenol@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="34" text="Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="60" text="Cuenca Suarez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="67" end="74" text="3742851" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="82" end="96" text="85 96785636 12" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="109" end="134" text="Calle Antonio Palacios, 4" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="158" end="164" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="170" end="175" text="19001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="219" end="229" text="14/02/1986" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="251" end="257" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="265" end="272" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="279" end="280" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="300" end="310" text="08/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="320" end="338" text="María Moreno López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="347" end="358" text="19 19 85470" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="393" end="398" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="402" end="409" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2438" end="2456" text="María Moreno López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2457" end="2469" text="C/. Dalí, 14" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2470" end="2475" text="19171" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2476" end="2496" text="Cabanillas del Campo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2498" end="2509" text="Guadalajara" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2511" end="2517" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2526" end="2544" text="mqmorenol@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

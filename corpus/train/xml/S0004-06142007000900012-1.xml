@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Maria.
+Apellidos: Teixidó Rot.
+NHC: 0766208.
+Domicilio: Av. Parriño, 13, 2 A.
+Localidad/ Provincia: Madrid.
+CP: 21029.
+Datos asistenciales.
+Fecha de nacimiento: 23/05/1946.
+País: España.
+Edad:67  años Sexo: M.
+Fecha de Ingreso: 04/04/2013.
+Médico:Concepcion Lara Bohorquez  NºCol: 21 21 34564.
+Informe clínico del paciente: Mujer de 67 años de edad con antecedentes personales de apendicectomía, hernia discal y de hiato, fractura de tibia y peroné, así como cólico nefrítico derecho que acude a consulta de urología para revisión. En el estudio ecográfico, se observa una neoformación sólida en riñón derecho de 5 cm.; se realiza TAC en el que se describe una masa a nivel cortical de riñón derecho, de aproximadamente 5 cm, de bordes externos lobulados, que no parece afectar al espacio perirrenal, no observándose adenopatías, ni dilatación de vía renal excretora. Con el diagnóstico de probable hipernefroma se realiza nefrectomía radical derecha mediante laparoscopia.
+En el estudio macroscópico se describe una neoformación cortical de 5 cm de diámetro máximo, bien delimitada, pero no encapsulada, que deforma la superficie cortical sin atravesarla, con una superficie de corte de coloración amarillenta con áreas de aspecto hemorrágicas y áreas quísticas.
+En el estudio microscópico la neoformación está constituida por estructuras acinares tapizadas por pequeñas células cuboidales uniformes, con escaso citoplasma y núcleos con cromatina uniforme, inmersas en un estroma ligeramente celular. Se realizó estudio inmunohistoquímico para determinación de vimentina, citoqueratina 7, citoqueratina de amplio espectro, CD34, cromogranina y EMA (Master Diagnostic. Granada. España), observándose expresión generalizada de vimentina, focal de citoqueraina 7 y EMA en las células epiteliales, y CD34 en el componente estromal.
+La paciente cursa tras la intervención sin incidentes destacables y se encuentra asintomática a los 24 meses de la intervención.
+Remitido por: Dra. Concepción Lara Bohórquez Servicio de Anatomía Patológica Hospital Infanta Elena Ctra Sevilla Huelva s/n 21080 Huelva. (España) clarab@andaluciajunta.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="29" end="34" text="Maria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="47" end="58" text="Teixidó Rot" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="65" end="72" text="0766208" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T22" start="85" end="105" text="Av. Parriño, 13, 2 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="129" end="135" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="141" end="146" text="21029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="190" end="200" text="23/05/1946" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="208" end="214" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="221" end="229" text="67  años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="236" end="237" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="257" end="267" text="04/04/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="276" end="301" text="Concepcion Lara Bohorquez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T14" start="310" end="321" text="21 21 34564" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="353" end="358" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="362" end="369" text="67 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T1" start="1679" end="1696" text="Master Diagnostic" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T3" start="1698" end="1705" text="Granada" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1707" end="1713" text="España" TYPE="PAIS" comment=""/>
+    <NAME id="T10" start="2006" end="2031" text="Concepción Lara Bohórquez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T9" start="2064" end="2086" text="Hospital Infanta Elena" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T8" start="2087" end="2110" text="Ctra Sevilla Huelva s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T7" start="2111" end="2116" text="21080" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T6" start="2117" end="2123" text="Huelva" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2126" end="2132" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T4" start="2134" end="2158" text="clarab@andaluciajunta.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

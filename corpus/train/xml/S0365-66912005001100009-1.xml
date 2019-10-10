@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Emilio.
+Apellidos: Rodriguez Zapata.
+NHC: 47634.
+NASS: 43 98563459 07.
+Domicilio: Plaza Concepción Arenal 3, 5H .
+Localidad/ Provincia: Huesca.
+CP: 22002.
+Datos asistenciales.
+Fecha de nacimiento: 10/04/1943.
+País: España.
+Edad: 73 años Sexo: H.
+Fecha de Ingreso: 31/10/2016.
+Servicio: Nefrologia.
+Médico: José María Peña Porta NºCol: 22 22 35841.
+Historia Actual: Paciente varón de 73 años diagnosticado de GCCA avanzado fue remitido a nuestro centro. Se le habían realizado dos trabeculectomías que habían fracasado precozmente. Dado el estadío del glaucoma y la existencia de una catarata nuclear se decidió realizar un procedimiento combinado de facoemulsificación e implante valvular. A las 24 horas de la cirugía, la presión intraocular fue de 48 mmHg y la cámara anterior se encontraba aplanada con contacto iridoendotelial periférico. Las iridectomías se observaban permeables, descartándose la posibilidad de un bloqueo pupilar. La exploración del fondo de ojo y la ecografía resultaron normales, por lo que se diagnosticó glaucoma maligno. Se realizó una capsulotomía e hialoidotomía con láser de Nd-YAG a través de la pupila, observándose una leve profundización de la cámara anterior al perforar la hialoides anterior, que fue aumentando progresivamente en las siguientes horas. A las tres horas del tratamiento, la presión intraocular era de 14 mmHg y había desaparecido el contacto iridoendotelial. Al año de la cirugía la presión intraocular (PIO) se encontraba en 16 mmHg con brinzolamida 0,1% (Azopt®, Laboratorios Alcon-Cusi SA, El Masnou, Barcelona).
+Remitido por: Dr José María Peña Porta, Unidad de Nefrología Hospital de Barbastro, Barbastro (Huesca) pporta@hispavista.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="8" end="14" text="Emilio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="27" end="43" text="Rodriguez Zapata" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="50" end="55" text="47634" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="63" end="77" text="43 98563459 07" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="90" end="119" text="Plaza Concepción Arenal 3, 5H" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="144" end="150" text="Huesca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="156" end="161" text="22002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="205" end="215" text="10/04/1943" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="223" end="229" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="237" end="244" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="251" end="252" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="272" end="282" text="31/10/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="314" end="335" text="José María Peña Porta" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="343" end="354" text="22 22 35841" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="382" end="387" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="391" end="398" text="73 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T2" start="1527" end="1553" text="Laboratorios Alcon-Cusi SA" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T1" start="1555" end="1564" text="El Masnou" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1566" end="1575" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <NAME id="T8" start="1595" end="1616" text="José María Peña Porta" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1639" end="1660" text="Hospital de Barbastro" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="1662" end="1671" text="Barbastro" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="1673" end="1679" text="Huesca" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T4" start="1681" end="1702" text="pporta@hispavista.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

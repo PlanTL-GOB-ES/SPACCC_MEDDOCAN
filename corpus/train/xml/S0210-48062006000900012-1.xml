@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Jose Manuel.
+Apellidos: Romero Alonso.
+CIPA: nhc-79431598.
+NASS: 86 79431659 52.
+Domicilio: Avenida Francos Rodriguez 16, 1B.
+Localidad/ Provincia: Madrid.
+CP: 28035.
+NHC: 79431598.
+Datos asistenciales.
+Fecha de nacimiento: 15/03/1960.
+País: España.
+Edad: 57 años Sexo: Varón .
+Fecha de Ingreso: 31/05/2017.
+Médico: Ramiro Cabello Benavente  NºCol: 28 28 46165.
+Historia Actual: Varón de 57 años que acudió a nuestra consulta para valorar reconvertir su derivación urinaria, al presentar prolapso del estoma y referir que su vida estaba muy limitada por el dispositivo autoadhesivo externo.
+Antecedentes:  ne-froureterectomía derecha por carcinoma de células transicionales en 1991 y cistoprostatectomía radical con derivación urinaria tipo Bricker en 1995 (pTis No Mo, realizada por presentar un carcinoma in situ vesical refractario a BCG).
+Evolución y comentarios: Se solicitó un TAC toraco-abdominal como estudio de re-estadificación, no encontrando signos de actividad tumoral. Su creatinina basal era de 1,5 mg/dl. Se realizó una laparoscopia exploradora en Mayo 2003, con disección completa de la pelvis, logrando identificar el muñón uretral con un Benique. Resecamos el muñón uretral y mediante biopsia intraoperatoria se descartó que presentara infiltración tumoral. La neovejiga (Studer) se construyó tras exteriorizar 45 cm de íleon terminal por el orificio del estoma. La anastomosis uretra-neovejiga se realizó de forma laparoscópica. El tiempo quirúrgico total fue de 480 minutos, con un sangrado estimado de 100 cc. El paciente fue dado de alta al sexto día postoperatorio sin complicaciones.
+La evolución desde entonces ha sido favorable, sin evidenciar alteraciones metabólicas ni signos de recidiva de la enfermedad basal.
+Remitido por: Dr. Ramiro Cabello Benavente, calle Galaxia 6, esc. 2, 2ºb 28023. Madrid E-mail: ramirocabello@telefonica.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="9" end="20" text="Jose Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="33" end="46" text="Romero Alonso" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="58" end="66" text="79431598" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="74" end="88" text="86 79431659 52" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="101" end="133" text="Avenida Francos Rodriguez 16, 1B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="157" end="163" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="169" end="174" text="28035" TYPE="TERRITORIO" comment=""/>
+    <ID id="T18" start="181" end="189" text="79431598" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="233" end="243" text="15/03/1960" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="251" end="257" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="265" end="272" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="279" end="284" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="305" end="315" text="31/05/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="325" end="349" text="Ramiro Cabello Benavente" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="358" end="369" text="28 28 46165" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="388" end="393" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="397" end="404" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="686" end="690" text="1991" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="761" end="765" text="1995" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="1073" end="1082" text="Mayo 2003" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="1769" end="1793" text="Ramiro Cabello Benavente" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="1795" end="1823" text="calle Galaxia 6, esc. 2, 2ºb" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1824" end="1829" text="28023" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1831" end="1837" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1846" end="1874" text="ramirocabello@telefonica.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

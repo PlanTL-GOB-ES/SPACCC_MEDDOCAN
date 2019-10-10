@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Luis Miguel.
+Apellidos: Gonzalez Duval.
+NHC: 07815635.
+Domicilio: Ignacio L. Vallarta 24, Tabacal.
+Localidad/ Provincia: Ciudad de México.
+CP: 06030.
+Datos asistenciales.
+Fecha de nacimiento: 27/12/1969.
+País: México.
+Edad: 47 años Sexo: H.
+Fecha de Ingreso: 28/04/2018.
+Médico: Federico García García.
+Motivo de ingreso: Varón de 47 años de edad, diabético de larga evolución, mal controlado, que se presenta en el Servicio de Urgencias de nuestro hospital con un cuadro de 5 días de evolución caracterizado por dolor, edema y aumento de temperatura en párpado superior e inferior izquierdos,.
+según relata secundarios a trauma contuso que condicionó una dermoabrasión de poca trascendencia inicialmente.
+Historia Actual: A su ingreso, es valorado por Oftalmología y diagnosticado de un cuadro de celulitis preseptal. A las 8 horas de su ingreso desarrolla una escara necrótica en el tejido involucrado. Durante el primer día de internamiento se le practicó aseo quirúrgico y desbridamiento de la totalidad del tejido necrótico. Se envía material a cultivo bacteriológico, identificando Streptococo Pyogenes. De acuerdo a dicho resultado, el paciente fue valorado por Infectología y se inició tratamiento con Meropenem, Vancomicina, Clindamicina y Anfotericina.
+Durante el segundo día de internamiento fue sometido a valoración por parte de la Clínica de Heridas del Servicio de Dermatología y se inició tratamiento con terapia de presión negativa, a 125 mmHg de forma contínua, con el objetivo de controlar el exudado, favorecer la granulación y disminuir el espacio muerto. Esta terapia fue suspendida 3 días después (al quinto día de internamiento) por progresión del eritema hacia la porción palpebral contralateral. El paciente continuó a cargo de Oftalmología y Dermatología, siendo tratado con curas a base de solución fisiológica e isodine y cubierto con parches de alginato, procedimiento mediante el cual se logró controlar el proceso infeccioso.
+A los 15 días de internamiento, fue valorado por Cirugía Plástica y Reconstructiva, objetivando la pérdida cutánea de la totalidad del párpado superior, pérdida parcial de músculo orbicular y elevador (este último se encontraba desinsertado), buen tejido de granulación y pérdidas focales de conjuntiva.
+Un mes después de la valoración inicial, el paciente fue intervenido quirúrgicamente realizándose desbridamiento del tejido de granulación hasta lograr el cierre palpebral parcial, identificando placa tarsal íntegra. Realizamos colgajos locales para cerrar defectos en conjuntiva, cantotomía lateral, injerto de espesor total en canto medial y colgajo frontal músculocutaneo derecho que fijamos al remanente súpero-externo del músculo orbicular del párpado.
+Cuatro semanas después, llevamos a cabo la sección del pedículo y el adelgazamiento del colgajo frontal, viendo que el paciente presentaba movimiento palpebral dependiente de la miorrafia del frontal con el remanente del orbicular del párpado.
+Durante el segundo día de internamiento fue sometido a valoración por parte de la Clínica de Heridas del Servicio de Dermatología y se inició tratamiento con terapia de presión negativa, a 125 mmHg de forma contínua, con el objetivo de controlar el exudado, favorecer la granulación y disminuir el espacio muerto. Esta terapia fue suspendida 3 días después (al quinto día de internamiento) por progresión del eritema hacia la porción palpebral contralateral. El paciente continuó a cargo de Oftalmología y Dermatología, siendo tratado con curas a base de solución fisiológica e isodine y cubierto con parches de alginato, procedimiento mediante el cual se logró controlar el proceso infeccioso.
+A los 15 días de internamiento, fue valorado por Cirugía Plástica y Reconstructiva, objetivando la pérdida cutánea de la totalidad del párpado superior, pérdida parcial de músculo orbicular y elevador (este último se encontraba desinsertado), buen tejido de granulación y pérdidas focales de conjuntiva.
+Un mes después de la valoración inicial, el paciente fue intervenido quirúrgicamente realizándose desbridamiento del tejido de granulación hasta lograr el cierre palpebral parcial, identificando placa tarsal íntegra. Realizamos colgajos locales para cerrar defectos en conjuntiva, cantotomía lateral, injerto de espesor total en canto medial y colgajo frontal músculocutaneo derecho que fijamos al remanente súpero-externo del músculo orbicular del párpado.
+Cuatro semanas después, llevamos a cabo la sección del pedículo y el adelgazamiento del colgajo frontal, viendo que el paciente presentaba movimiento palpebral dependiente de la miorrafia del frontal con el remanente del orbicular del párpado.
+Evolución y comentarios: El paciente persistió con un mayor volumen y eversión del párpado reconstruido, por lo que 2 meses después realizamos un nuevo adelgazamiento del colgajo y corregimos el lagoftalmos mediante cantopexia lateral, liberando el ligamento palpebral y reinsertándolo en el reborde orbitario.
+Tras 2 años de evolución, presenta cobertura del globo ocular con cierre y apertura palpebral completos, sin repercusión visual. No ha requerido nuevo tratamiento quirúrgico.
+Remitido por: Dr. Federico García García. División de Cirugía Plástica, Estética y Reconstructiva Hospital Manuel Gea González Avenida Calzada de Tlalpan # 4800 Colonia Sección XVI, Delegación Tlalpan Distrito Federal, México. CP 14080, México e-mail: fgg_9@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="9" end="20" text="Luis Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="33" end="47" text="Gonzalez Duval" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="54" end="62" text="07815635" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="75" end="106" text="Ignacio L. Vallarta 24, Tabacal" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="130" end="146" text="Ciudad de México" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="152" end="157" text="06030" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="201" end="211" text="27/12/1969" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="219" end="225" text="México" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="233" end="240" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="247" end="248" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="268" end="278" text="28/04/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="288" end="310" text="Federico García García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="331" end="336" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="340" end="347" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="5178" end="5200" text="Federico García García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="5258" end="5286" text="Hospital Manuel Gea González" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="5287" end="5340" text="Avenida Calzada de Tlalpan # 4800 Colonia Sección XVI" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="5361" end="5385" text="Distrito Federal, México" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="5390" end="5395" text="14080" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="5397" end="5403" text="México" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="5412" end="5429" text="fgg_9@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

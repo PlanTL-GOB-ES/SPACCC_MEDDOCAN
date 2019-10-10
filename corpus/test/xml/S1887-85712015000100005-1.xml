@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Santiago.
+Apellidos: Rubio Benito.
+NHC: 3406853.
+NASS: 02 56706357 34.
+Domicilio: Calle de Colón, 18, 5 A.
+Localidad/ Provincia: Madrid.
+CP: 28046.
+Datos asistenciales.
+Fecha de nacimiento: 03/08/1950.
+País: España.
+Edad: 63 años Sexo: H.
+Fecha de Ingreso: 26/03/2014.
+Servicio: MI.
+Episodio: 8937456.
+Médico: Juan Martínez Torres  NºCol: 28 28 54718.
+Informe clínico del paciente.
+Historia Actual: Un varón heterosexual de 63 años ingresó en Noviembre de 2013 por disnea progresiva de un mes de evolución que al llegar a urgencias era de mínimos esfuerzos. Era fumador, índice acumulado de 80 paquetes/año, bebedor de unos 80 gr. de alcohol al día, y tenía relaciones sexuales sin protección con diferentes parejas. No refería enfermedad hepática previa, ni tenía conocimiento de que algún miembro de su familia hubiera sido diagnosticado de porfiria. No tomaba medicación de forma habitual.
+Unos meses antes había consultado con un dermatólogo por un cuadro de eritema y descamación facial que se relacionó con una fotosensibilidad excesiva, fue tratado con cremas de protección solar.
+Exploración física: A la dificultad respiratoria se añadían otros datos: tenía tos no productiva, no refería fiebre pero a su ingreso la temperatura era de 38,5oC y estimaba que había perdido unos 20 kg de peso en los últimos 4 meses. El paciente aparentaba estar mal nutrido, se encontraba eupneico con aporte de oxígeno suplementario, el murmullo vesicular estaba conservado y no tenía signos de insuficiencia cardiaca. Se apreciaba una hiperpigmentación llamativa en la frente, regiones malares y nariz con alguna pequeña erosión e hipertricosis, no tenía otras lesiones cutáneas. 
+Resumen de pruebas complementarias: La radiografía de tórax mostraba un patrón intersticial bilateral. Los anticuerpos anti-VIH fueron positivos, la carga viral era de 257.580 copias/ml, las cifras de CD4 28 células/µL y la de CD8 262 células/µL con un cociente CD4/CD8 de 0'11. La tinción de Ziehl Neelsen del esputo resultó negativa. No pudo obtenerse una muestra adecuada para inmunofluorescencia directa en esputo frente a pneumocystis jiroveci (PNJ), no obstante se inició tratamiento empírico frente a este hongo con el diagnóstico de presunción de neumonía intersticial por PNJ. Mejoraron la disnea y la semiología radiológica descrita. Se realizó una determinación de porfirinas fraccionadas en orina a fin de aclarar la eritrodermia facial. Se detectó una elevación en la excreción de porfirinas en orina de 24 horas, con un patrón de excreción compatible con el diagnóstico de PCT2.
+Evolución: Las serologías a virus B y C de la hepatitis fueron negativas. El estudio del metabolismo del hierro mostraba unos valores normales de transferrina y ligeramente elevados de su índice de saturación y de hierro sérico, la cuantificación de ferritina sérica resultó ser muy elevada (1.928 ng/ml). Las mutaciones C282Y y H63D del gen de la hemocromatosis resultaron negativas. Fue dado de alta a las 2 semanas del ingreso.
+Diagnóstico Principal: infección por VIH C3
+Otros diagnósticos: neumonía intersticial por PNJ. PCT
+Tratamiento: Se inició tratamiento con Tenofovir, Emtricitabina y Darunavir y se recomendó protección solar y la abstinencia de alcohol.
+Remitido por: Dr. Juan Martinez Torres. Servicio de Medicina Interna. Hospital Central de la Defensa «Gómez Ulla». Glorieta del Ejército 1. 28047 Madrid.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="36" text="Santiago" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="49" end="61" text="Rubio Benito" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="68" end="75" text="3406853" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="83" end="97" text="02 56706357 34" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="110" end="133" text="Calle de Colón, 18, 5 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="157" end="163" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="169" end="174" text="28046" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="218" end="228" text="03/08/1950" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="236" end="242" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="250" end="257" text="63 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="264" end="265" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="285" end="295" text="26/03/2014" TYPE="FECHAS" comment=""/>
+    <ID id="T9" start="321" end="328" text="8937456" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T11" start="338" end="358" text="Juan Martínez Torres" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="367" end="378" text="28 28 54718" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="430" end="435" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T2" start="436" end="448" text="heterosexual" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="452" end="459" text="63 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="471" end="488" text="Noviembre de 2013" TYPE="FECHAS" comment=""/>
+    <OTHER id="T1" start="833" end="840" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T10" start="3279" end="3299" text="Juan Martinez Torres" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3331" end="3374" text="Hospital Central de la Defensa «Gómez Ulla»" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3376" end="3399" text="Glorieta del Ejército 1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3401" end="3406" text="28047" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3407" end="3413" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

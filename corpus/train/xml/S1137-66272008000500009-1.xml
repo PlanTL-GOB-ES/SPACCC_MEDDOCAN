@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Irene.
+Apellidos: Martinez Alejandre.
+NHC: 4356456.
+NASS: 06 52839679 56.
+Domicilio: Calle Las Lomas, 13, 7C.
+Localidad/ Provincia: Pamplona.
+CP: 31256.
+Datos asistenciales.
+Fecha de nacimiento: 21/04/1992.
+País de nacimiento: España.
+Edad: 26 años Sexo: M.
+Fecha de Ingreso: 08/06/2018.
+Médico:Francisco Javier Repáraz Padrós  NºCol: 31 31 25402.
+Informe clínico del paciente: paciente de 26 años que acude a consulta por dolor en la muñeca derecha de 7 años de evolución sin antecedente traumático. El dolor en reposo era de carácter leve, pero aumentaba con la actividad manual y especialmente con la extensión forzada de la muñeca. No mejoraba con tratamiento médico sintomático.
+La interlínea articular radiocarpiana dorsal y el polo proximal del escafoides eran dolorosos a la palpación. No se apreciaba tumoración palpable. La movilidad de la muñeca presentaba una ligera limitación en los últimos grados de flexión y extensión.
+La imagen radiológica mostraba una lesión radiolucente, bien definida, ovalada, localizada en el tercio medio-dorsal del escafoides. En la TAC se apreciaba la localización excéntrica dorsal de la lesión y un punteado compatible con calcificaciones. En la RM destacaban signos de marcado edema óseo en el escafoides, excepto en su tercio distal y sinovitis adyacente. Con el diagnóstico de sospecha de una lesión benigna (encondroma, ganglión intraóseo) se decidió el tratamiento quirúrgico de la lesión. Éste se realizó mediante una vía de abordaje dorsal del escafoides. Tras la apertura de la cápsula articular se expuso la cara dorsal de la epífisis distal del radio y del escafoides, apreciándose en el tercio medio de este último una tumoración de aspecto nacarado y coloración rojo vinosa que ocupaba la cresta dorsal del hueso navicular. Se realizó un legrado exhaustivo de la lesión y relleno del defecto con injerto óseo esponjoso de cresta iliaca.
+El material remitido estaba formado por islotes de matriz cartilaginosa rodeados por un tejido celular abundante constituido por células pseudo-condroblásticas. Dichas células eran redondeadas u ovoides con núcleos hipercromáticos, un citoplasma claro o moderadamente eosinófilo y una membrana plasmática nítida. El pleomorfismo celular era mínimo y el índice mitótico muy bajo. Algunas células contenían hierro. Entre las células pseudocondroblásticas se encontraban abundantes células gigantes de tipo osteoclástico. En algunas áreas había zonas de calcificación irregular. Se observaban además algunas áreas de transformación quística que asemejaban quistes aneurismáticos. El diagnóstico anatomopatológico fue condroblastoma de escafoides carpiano.
+Tras el tratamiento quirúrgico se inmovilizó la muñeca con una férula antebraquial durante 3 semanas y posteriormente la paciente fue remitida al Servicio de Rehabilitación. En la revisión efectuada a los 3 meses se apreció una recuperación completa de la movilidad de la muñeca e imagen radiológica de consolidación ósea del autoinjerto de cresta iliaca.
+Dos años después del tratamiento quirúrgico no hay evidencia de recidiva y persiste una desaparición completa del dolor con movilidad de la muñeca similar a la contralateral, así como una imagen radiológica del escafoides totalmente normalizada.
+Responsable clínico: Francisco Javier Repáraz Padrós Servicio de Cirugía Ortopédica y Traumatología Hospital de Navarra Irunlarrea, 3 31008 Pamplona Tfno. 848422206 E-mail: repamapr@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="29" end="34" text="Irene" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="47" end="65" text="Martinez Alejandre" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="72" end="79" text="4356456" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="87" end="101" text="06 52839679 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="114" end="137" text="Calle Las Lomas, 13, 7C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="161" end="169" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="175" end="180" text="31256" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="224" end="234" text="21/04/1992" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="270" end="277" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="284" end="285" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="305" end="315" text="08/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="324" end="355" text="Francisco Javier Repáraz Padrós" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="364" end="375" text="31 31 25402" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T11" start="419" end="426" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3299" end="3330" text="Francisco Javier Repáraz Padrós" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3378" end="3397" text="Hospital de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3398" end="3411" text="Irunlarrea, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3412" end="3417" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3418" end="3426" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="3433" end="3442" text="848422206" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="3451" end="3471" text="repamapr@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

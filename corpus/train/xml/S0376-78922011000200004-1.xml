@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sandra.
+Apellidos: Reyes Alvarado.
+NHC: 8276032.
+NASS: 76 89765892 46.
+Domicilio: C/ Julio Palacios, 6.
+Localidad/ Provincia: Zaragoza.
+CP: 50009.
+Datos asistenciales.
+Fecha de nacimiento: 08/05/1973.
+País de nacimiento: España.
+Edad: 44 años Sexo: M.
+Fecha de Ingreso: 15/08/2017.
+Médico: Murilo Silva Bueno NºCol: 50 50 57970.
+Informe clínico del paciente: Mujer de 44 años de edad con antecedentes médicos de insuficiencia renal crónica en tratamiento con hemodiálisis desde el año 2005. En abril del 2010 es sometida a un trasplante renal de donante cadáver, previo tratamiento inmunosupresor. Al cuarto día de postoperatorio la paciente presenta fiebre, empeoramiento del estado general y lesiones eritematosas en flanco derecho, que rápidamente evolucionan con aparición de flictenas y necrosis cutánea. El servicio de Nefrología cursa biopsia y cultivo de las lesiones y solicita colaboración de nuestro Servicio.
+Ante la sospecha clínica de fascitis necrosante se decide iniciar terapia antibiótica intravenosa (IV) y realizar desbridamiento quirúrgico inmediato hasta plano muscular, sin incluirlo, abarcando un área de aproximadamente 25 X 25 cm en flanco y parrilla costal derechos. Ajustamos el tratamiento inmunosupresor, manteniendo solamente Prograf (Tacrolimus) y suspendiendo Micofenolato y Dacortín e iniciamos tratamiento antibiótico intravenoso de amplio espectro con Ciprofloxacino (400 mg/12 horas), Teicoplanina (400 mg/12 horas), Clindamicina (600 mg/6 horas) y Tobramicina (50 mg/ 12 horas). Las muestras obtenidas para cultivo dieron positivo para Escherichia Coli. Tras el desbridamiento, se inició tratamiento con terapia de presión negativa con sistema VAC® durante 13 días a 125 mmHg y curas cada 48 horas.
+Una vez limpia, granulada y libre de infección la zona problema (13 días después del desbridamiento), se procedió a su cobertura mediante injertos autólogos de piel de espesor parcial asociados de nuevo a terapia VAC® con apósito Granofoam a 125 mmHg durante 10 días, realizándose la primera cura al cuarto día y luego cada 48 horas. En la primera cura tras injerto evidenciamos que éste estaba adecuadamente prendido y sin signos de complicación aguda tipo hematoma o infección, hecho que motivó la retirada del tratamiento antibiótico y el reinicio del tratamiento inmunosupresor suspendido, según recomendación de Nefrología.
+Transcurridos 24 días de hospitalización, la paciente fue dada de alta por nuestro Servicio y siguió en régimen de curas oclusivas ambulatorias mediante tulgraso antibiótico y gasas impregnadas en povidona yodada. La primera cita en consulta externa de Cirugía Plástica se hizo a las 2 semanas del alta hospitalaria (18 días postinjerto), momento en el que encontramos la zona problema curada. A los 6 meses, realizamos un control evolutivo.
+La asociación terapéutica de antibióticos vía IV, de la supresión de 2 de los 3 inmunosupresores que tomaba la paciente por su transplante renal, del desbridamiento quirúrgico y de la terapia VAC®, permitió acelerar el proceso de limpieza y contracción de la herida además de contribuir a que los injertos autólogos de piel parcial prendieran rápidamente y en su totalidad, teniendo la paciente una cobertura cutánea aceptable. Se le ofreció la posibilidad de implantarle 2 expansores cutáneos y practicar una reconstrucción posterior más estética, pero la paciente declinó la oferta al sentirse satisfecha con el resultado actual.
+Responsable clínico: Dr. Murilo Silva Bueno Hospital Universitario Miguel Servet Servicio de Cirugía Plástica y Grandes Quemados Paseo Isabel la Católica, 1-3, HRTQ-planta 3 Zaragoza-50009. España. e-mail: buenomurilo@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="28" end="34" text="Sandra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="47" end="61" text="Reyes Alvarado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="68" end="75" text="8276032" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="83" end="97" text="76 89765892 46" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="110" end="130" text="C/ Julio Palacios, 6" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="154" end="162" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="168" end="173" text="50009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="217" end="227" text="08/05/1973" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="263" end="270" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="277" end="278" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="298" end="308" text="15/08/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="318" end="336" text="Murilo Silva Bueno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="344" end="355" text="50 50 57970" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="387" end="392" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="396" end="403" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T1" start="509" end="517" text="año 2005" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="522" end="536" text="abril del 2010" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="3493" end="3511" text="Murilo Silva Bueno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3512" end="3548" text="Hospital Universitario Miguel Servet" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="3597" end="3641" text="Paseo Isabel la Católica, 1-3, HRTQ-planta 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3642" end="3650" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3651" end="3656" text="50009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3658" end="3664" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="3674" end="3697" text="buenomurilo@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

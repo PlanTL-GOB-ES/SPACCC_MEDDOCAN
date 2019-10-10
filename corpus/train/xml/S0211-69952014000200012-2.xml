@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Carla .
+Apellidos: Rubio Garcia.
+NHC: 5985812.
+NASS: 15 89626963 76.
+Domicilio: Calle del Poeta Joan Maragall, 43, 5, D.
+Localidad/ Provincia: Madrid.
+CP: 28020.
+Datos asistenciales.
+Fecha de nacimiento: 24/07/1959.
+País de nacimiento: España.
+Edad: 50 años Sexo: M.
+Fecha de Ingreso: 23/10/2009.
+Servicio: Nefrología.
+Episodio: 6031881.
+Médico: Teresa Cavero Escribano NºCol: 28 28 84239.
+Informe clínico del paciente: Una mujer de 50 años, de raza caucásica, con IRC secundaria a poliquistosis renal, inició hemodiálisis en 1987, recibiendo su primer trasplante renal de donante cadáver en 1988. Como complicaciones del trasplante presentó un rechazo agudo tratado con choques de esteroides, globulina antitimocítica (ATG) y anticuerpo monoclonal anti CD3 (OKT3), retornando a hemodiálisis en junio de 2009 tras pérdida del injerto renal por nefropatía crónica. Se diagnosticó una hepatitis «no-A, no-B» en 1987 en relación con politransfusión de hemoderivados, confirmándose posteriormente RNA-VHC positivo (genotipo 1a). En noviembre de 2009, cinco meses después del retorno a diálisis, se inició tratamiento con IFN pegilado α2a, 135 μg semanales, y RBV 200 mg cada 48 horas, con soporte de eritropoyetina oscilante durante todo el tratamiento. En febrero de 2010, comenzó con fiebre y hematuria, por lo que se disminuyó la dosis del tratamiento antiviral y se realizó embolización del injerto renal ante la sospecha de rechazo agudo del injerto no funcionante. Se reanudó el tratamiento con IFN y RBV a la dosis inicial, que hubo de ser suspendido en la semana 40 por la aparición de un eritema exudativo multiforme sin respuesta a tratamiento corticoideo. La paciente presentó una respuesta viral rápida con carga indetectable en la cuarta semana de tratamiento y RVS posterior. En julio de 2011, recibió su segundo trasplante renal de donante cadáver. Actualmente mantiene función renal normal y carga viral negativa.
+Responsable clínico: Dra. Teresa Cavero Escribano, Servicio de Nefrología, Hospital Universitario 12 de Octubre, Av. Córdoba, s/n, 28041, Madrid E-mail: tcaveroescribano@gmail.com E-mail: emoralesr@senefro.org
+]]></TEXT>
+  <TAGS>
+    <NAME id="T32" start="28" end="33" text="Carla" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T31" start="47" end="59" text="Rubio Garcia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T30" start="66" end="73" text="5985812" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T29" start="81" end="95" text="15 89626963 76" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T28" start="108" end="147" text="Calle del Poeta Joan Maragall, 43, 5, D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T27" start="171" end="177" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T26" start="183" end="188" text="28020" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T25" start="232" end="242" text="24/07/1959" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T24" start="264" end="270" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T23" start="278" end="285" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T22" start="292" end="293" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T21" start="313" end="323" text="23/10/2009" TYPE="FECHAS" comment=""/>
+    <ID id="T20" start="357" end="364" text="6031881" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T19" start="374" end="397" text="Teresa Cavero Escribano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T18" start="405" end="416" text="28 28 84239" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T17" start="452" end="457" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T16" start="461" end="468" text="50 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T1" start="473" end="487" text="raza caucásica" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="554" end="558" text="1987" TYPE="FECHAS" comment=""/>
+    <DATE id="T14" start="620" end="624" text="1988" TYPE="FECHAS" comment=""/>
+    <DATE id="T13" start="823" end="836" text="junio de 2009" TYPE="FECHAS" comment=""/>
+    <DATE id="T12" start="937" end="941" text="1987" TYPE="FECHAS" comment=""/>
+    <DATE id="T11" start="1056" end="1073" text="noviembre de 2009" TYPE="FECHAS" comment=""/>
+    <DATE id="T10" start="1281" end="1296" text="febrero de 2010" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="1817" end="1830" text="julio de 2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="1980" end="2003" text="Teresa Cavero Escribano" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <DATE id="T7" start="2029" end="2065" text="Hospital Universitario 12 de Octubre" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T6" start="2067" end="2083" text="Av. Córdoba, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2085" end="2090" text="28041" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2092" end="2098" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="2107" end="2133" text="tcaveroescribano@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T2" start="2142" end="2163" text="emoralesr@senefro.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

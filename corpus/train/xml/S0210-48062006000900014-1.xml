@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Fernando.
+Apellidos: Lozano Nacas.
+NHC: 3784561.
+NASS: 76 45348951 02.
+Domicilio: Avda. de el Ferrol, 56.
+Localidad/ Provincia: Santiago de Compostela.
+CP: 15706.
+Datos asistenciales.
+Fecha de nacimiento: 12/09/1967.
+País de nacimiento: España.
+Edad: 43 años Sexo: H.
+Fecha de Ingreso: 23/10/2010.
+Médico: Daniel Pérez Fentes  NºCol: 15 15 74870.
+Historia Actual:  varón de 43 años, sin alergias medicamentosas conocidas ni antecedentes médicos o quirúrgicos de interés, con herida abdominal por arma de fuego (pistola con proyectil 9 mm parabellum). El paciente ingresa estable hemodinámicamente en el servicio de Urgencias, con intenso dolor abdominal. 
+Exploración física: En la exploración física se observa el orificio de entrada del proyectil en fosa iliaca izquierda con salida por glúteo izquierdo, con dolor abdominal y signos de irritación peritoneal principalmente en hipogastrio y fosa iliaca izquierda. No se aprecia afectación de genitales externos ni uretrorragia. 
+Pruebas complementarias: Tras realizarse cateterismo uretro-vesical, se observa hematuria macroscópica intensa. En la analítica de ingreso destaca únicamente la presencia de anemia (Hb: 9,2 g/dl), siendo el resto de parámetros bioquímicos, de hemograma y coagulación normales.
+Dada la estabilidad hemodinámica del paciente, se decide completar el estudio mediante pruebas de imagen previas a cirugía. Dado el teórico trayecto del proyectil (una vez conocidos los orificios de entrada y salida), con la sospecha de herida vesical por arma de fuego y dada la posible afectación de otros órganos, se decide realizar TC abdómino-pélvico y TC-cistografía (mediante replección vesical por gravedad con 300 cc de material de contraste diluido).
+TC abdómino-pélvico y TC-cistografía: rotura vesical póstero-lateral izquierda extraperitoneal, con extravasación de contraste tras el relleno. Mínima dilatación del sistema colector izquierdo. Herida de entrada en fosa iliaca izquierda con áreas de hemorragia en: mesosigma, cara lateral izquierda vesical, vesícula seminal izquierda y áreas perirrectal e isquiorrectal izquierdas..
+Con estos hallazgos, se decide laparotomía exploradora. Con el paciente en posición de decúbito supino se realiza laparotomía media supra-infraumbilical. Inicialmente se procede a la reparación de una pequeña perforación en mesosigma sin afectación del asa sigmoidea y a la reparación de una mínima lesión a nivel de vena iliaca primitiva izquierda, comprobando posteriormente la indemnidad del resto del eje ilíaco arterial y venoso.
+A continuación se realiza cistotomía media longitudinal anterior y se observa una doble perforación vesical, correspondiente a los orificios de entrada (de 4 cm en fondo vesical) y salida (de 1-2 cm, en región retromeática izquierda) del proyectil. Tras explorar la indemnidad del uréter distal izquierdo con catéter ureteral 5F, se comprueba que éste está desinsertado por completo en su porción intramural y que el proyectil en su recorrido también secciona el conducto deferente izquierdo. Se decide realizar sutura en dos planos de la doble perforación vesical, previo desbridamiento de los bordes desvitalizados y realizar reimplante ureteral con técnica transvesical y catéter doble J (26 cm/6 F) en pared posterior, previa liberación ureteral distal y sección de su extremo dañado. Tras realizar cierre, también en doble plano, de la cistotomía longitudinal anterior, se deja sonda uretro-vesical y doble drenaje cerrado de tipo aspirativo: uno a nivel intraperitoneal y el otro extraperitoneal, separado de la línea de sutura vesical.
+Se pauta antibioterapia intravenosa de amplio espectro: Ceftriaxona 2 gramos cada 24 horas y Metronidazol 1,5 gramos cada 24 horas, transcurriendo el postoperatorio inicial de forma favorable. Al 5º día el paciente presenta deterioro del estado general, hipotensión, fiebre y leucocitosis con marcada desviación izquierda (31% cayados). Se sustituye la antibioterapia, de forma empírica, en espera del resultado de los hemocultivos por Imipenem 500 miligramos cada 6 horas intravenoso, mejorando de forma significativa el paciente tanto clínica como analíticamente. En los hemocultivos crece un E. coli productor de b-lactamasas de espectro extendido, sensible a Imipenem. Se realiza un nuevo TC abdómino-pélvico que únicamente evidencia cambios post-quirúrgicos, descartándose la existencia de colecciones líquidas po-tencialmente causantes del cuadro séptico.
+Evolución: 
+El resto del postoperatorio transcurre sin incidencias, retirándose inicialmente ambos drenajes y, al 10º día, la sonda uretro-vesical. Finalmente se decide el alta del paciente tras completar 10 días de antibioterapia intravenosa. Se sustituye por Ciprofloxacino 250 miligramos cada 12 horas vía oral, según antibiograma previo, hasta la retirada del catéter JJ.
+Al mes de la intervención el paciente acude de nuevo a nuestro servicio para realizar uretro-cistoscopia y retirada de catéter JJ. Se observa que la doble herida vesical está completamente cicatrizada, con la sutura del plano mucoso reabsorbida casi por completo. El catéter JJ que tutorizaba la ureteroneocistostomía se retira endoscópicamente sin problemas. Actual-mente, tres meses después de la intervención, el paciente está asintomático desde el punto de vista urológico.
+Responsable clínico:  Dr. Daniel Pérez Fentes Servicio de Urología Hospital Clínico Univ. de Santiago de Compostela Travesía Choupana s/n. 15706 Santiago de Compostela (La Coruña) E- Mail: danielfentes@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="36" text="Fernando" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="49" end="61" text="Lozano Nacas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="68" end="75" text="3784561" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="83" end="97" text="76 45348951 02" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="110" end="132" text="Avda. de el Ferrol, 56" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="156" end="178" text="Santiago de Compostela" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="184" end="189" text="15706" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="233" end="243" text="12/09/1967" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="265" end="271" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="279" end="286" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="293" end="294" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="314" end="324" text="23/10/2010" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="334" end="353" text="Daniel Pérez Fentes" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="362" end="373" text="15 15 74870" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="393" end="398" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="402" end="409" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="5351" end="5370" text="Daniel Pérez Fentes" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="5392" end="5440" text="Hospital Clínico Univ. de Santiago de Compostela" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="5441" end="5462" text="Travesía Choupana s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="5464" end="5469" text="15706" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="5470" end="5492" text="Santiago de Compostela" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="5494" end="5503" text="La Coruña" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="5514" end="5535" text="danielfentes@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

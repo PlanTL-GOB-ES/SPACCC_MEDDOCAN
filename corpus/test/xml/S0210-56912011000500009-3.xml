@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sandro.
+Apellidos: Cardona Escribano.
+NHC: 7843955.
+NASS: 47 89637596 31.
+Domicilio: C/ Patricio Rico, 36, 1 B.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 21/08/1960.
+País de nacimiento: España.
+Edad: 57 años Sexo: 13/11/2015.
+Fecha de Ingreso: 06/02/2018.
+Médico: Milton Gómez Grande NºCol: 28 28 57410.
+Informe clínico del paciente: Varón de 57 años, sin antecedentes de interés, que acudió al servicio de urgencias hospitalario por dolor torácico. Se diagnosticó un síndrome coronario agudo con ascenso del segmento ST en la cara anterior cardiaca y se realizó una coronariografía percutánea. El paciente presentaba una lesión en la porción media de la arteria coronaria descendente anterior, por lo que se realizó angioplastia y se colocó un stent, sin complicaciones, tras haber administrado 300 mg de ácido acetilsalicílico, 300 mg de clopidogrel y 5.000 UI de heparina sódica intravenosa. Al final del procedimiento el paciente estaba en Killip III y presentó una hematemesis masiva. La saturación arterial de O2 era del 92%, con un Ventimask al 50% 10 lpm. Se realizó una endoscopia digestiva con soporte respiratorio con CPAP-B, según el protocolo descrito, y se observó una lesión de Mallory Weiss. La hemoglobina cayó de 15,1 a 13g/dl y el hematocrito del 43,6 al 39,1%. Al finalizar el procedimiento, el paciente presentaba saturación de 100% y pudo retirarse la CPAP-B (no se realizó gasometría arterial por el riesgo de sangrado tras la administración de anticoagulantes y antiagregantes).
+Responsable clínico: Dr. Milton Gómez Grande. Correo Electrónico: mlgomezgrande2000@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="34" text="Sandro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="47" end="64" text="Cardona Escribano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="71" end="78" text="7843955" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="86" end="100" text="47 89637596 31" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="113" end="138" text="C/ Patricio Rico, 36, 1 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="162" end="168" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="174" end="179" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="223" end="233" text="21/08/1960" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="255" end="261" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="269" end="276" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="283" end="293" text="13/11/2015" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="313" end="323" text="06/02/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="333" end="352" text="Milton Gómez Grande" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="360" end="371" text="28 28 57410" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="403" end="408" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="412" end="419" text="57 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="1597" end="1616" text="Milton Gómez Grande" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1638" end="1664" text="mlgomezgrande2000@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

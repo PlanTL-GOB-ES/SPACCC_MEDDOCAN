@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Andres.
+Apellidos: Moreno Herrera.
+NHC: 4574903.
+Domicilio: Calle Melchor Fernandez, 3.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento:27/09/2004.
+País: España.
+Edad: 4 años Sexo: H.
+Fecha de Ingreso: 21/10/2011.
+Médico: Ferran Campillo López  NºCol: 28 28 68130.
+Informe clínico del paciente: Niño de siete años que acudió a Urgencias con dolor en la cadera derecha, cojera y fiebre. Los síntomas habían empezado de manera brusca siete días antes. El segundo día de enfermedad fue valorado en un Servicio de Traumatología y diagnosticado de "sinovitis de cadera", prescribiéndole reposo y analgésicos. La madre contaba que durante los días siguientes el dolor persistía en reposo, le despertaba por la noche y mejoraba, sin desaparecer, con la analgesia. Presentó en todo momento posturas antiálgicas, impotencia funcional y cojera. Durante los siete días persistió la fiebre (máximo 38,5 ºC), acompañada de disminución del apetito. En los últimos días aparecieron dos lesiones cutáneas, una en el glúteo y otra en el cuero cabelludo.
+En la inspección general encontramos a un niño en silla de ruedas con regular estado general, pálido y en posición antiálgica con flexión completa de la cadera y la rodilla derechas. Durante la exploración física sorprendía la ausencia de tumefacción, dolor ni limitación a ningún nivel articular, y no se encontraron puntos dolorosos óseos. La movilización activa de la cadera estaba reducida, mientras que la pasiva era normal. La marcha era muy cautelosa, y en bipedestación no apoyaba peso sobre la pierna derecha. Se objetivó también infestación por pediculosis y una lesión nodular, inflamada, ambas en cuero cabelludo.
+Los análisis de sangre mostraron una neutrofilia leve y un aumento de los reactantes de fase aguda: fibrinógeno 1008 mg/dl, proteína C-reactiva 173 mg/l y velocidad de sedimentación globular de 100 mm/hora.
+La ecografía de la cadera y la radiografía abdominopélvica fueron normales, a excepción de la posición antiálgica en esta última.
+Durante su estancia en Urgencias, y tras administrar analgesia intravenosa, apareció progresivamente dolor abdominal a la palpación profunda en el hipogastrio y la fosa iliaca derecha sin defensa ni otros signos de irritación peritoneal. Se realizó una ecografía abdominal, que resultó normal, y se descartó patología quirúrgica aguda.
+Se completó el estudio para fiebre sin foco con una radiografía de tórax y una tira reactiva de orina, que fueron negativas, y se decidió el ingreso a cargo de la Unidad de Enfermedades Infecciosas. Se consultó con el Servicio de Reumatología Pediátrica, que recomendó la realización de una gammagrafía ósea, la cual se llevó a cabo en los siguientes días, con resultados negativos.
+Ingresó con tratamiento con amoxicilina-clavulánico por vía intravenosa. Dada la normalidad de las pruebas realizadas y ante la sospecha clínica de absceso de psoas se solicitó una resonancia magnética (RM) abdominal que mostró un absceso en el músculo psoas derecho y una osteomielitis del cuerpo vertebral L4. El hemocultivo fue estéril, pero en la punción del absceso del cuero cabelludo se aisló Staphylococcus aureus resistente a meticilina, por lo que se modificó la antibioterapia para cubrir dicho germen, con meropenem y linezolid. El paciente evolucionó favorablemente, sin que fuera necesario drenaje quirúrgico.
+Remitido por: Dr. Ferran Campillo López. ferran.campillo@salud.madrid.org
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="29" end="35" text="Andres" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="48" end="62" text="Moreno Herrera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="69" end="76" text="4574903" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T16" start="89" end="115" text="Calle Melchor Fernandez, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="139" end="145" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="151" end="156" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="199" end="209" text="27/09/2004" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="217" end="223" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="231" end="237" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="244" end="245" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="265" end="275" text="21/10/2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="285" end="306" text="Ferran Campillo López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="315" end="326" text="28 28 68130" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="358" end="362" text="Niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="366" end="376" text="siete años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T3" start="670" end="675" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="1142" end="1146" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="3424" end="3445" text="Ferran Campillo López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3447" end="3479" text="ferran.campillo@salud.madrid.org" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

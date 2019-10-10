@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Marcos .
+Apellidos: Rianxo Abad.
+NASS: 78 94466577 98.
+Domicilio: Rúa do Pintor Colmeiro, 7.
+Localidad/ Provincia: Vigo.
+CP:36211.
+NHC: 795641.
+Datos asistenciales.
+Fecha de nacimiento: 13/01/1941.
+País: España.
+Edad: 77 años  Sexo: Hombre.
+Fecha de Ingreso: 21/04/2018.
+Médico:Paula San Miguel Fraile  NºCol:36 36 46416.
+Antecedentes: exfumador de 60 cigarrillos/día, con antecedentes de:.
+- Infarto de miocardio. 
+- Cirugía de aneurisma abdominal infrarrenal.
+ - Litiasis renal derecha. 
+- Hipertensión arterial.
+Historia Actual: El paciente se presenta en consulta por presentar hematuria macroscópica monosintomática. Se le diagnosticó de carcinoma transicional de vejiga mostrando muy focalmente áreas micropapilares (G3-pT1) y áreas de carcinoma in situ.
+Posteriormente presentó recidiva tumoral en el año 2000 y 2004 diagnosticadas de carcinoma in situ y fueron tratados con quimioterapia intravesical (BCG).
+En Enero de 2005 acude a nuestro hospital por presentar una tumoración en pared abdominal, a nivel de fosa ilíaca derecha, motivo por el que se realiza un TAC (Tomografía axial computerizada) abdominal que objetiva masa sólida de 7 x 6 cms en la musculatura de pared abdominal anterior derecha. Se le realizó laparotomía con resección en bloque de pared abdominal. En el servicio de Anatomía Patológica se recibió un fragmento irregular que pesaba 180 g y media 9 x 9 x7 cm. A los cortes seriados se identificó una lesión nodular blanquecina y firme que media 6 x 6 x 5 cm y no contactaba con borde de resección aunque focalmente estaba próximo. 
+El estudio anatomopatológico mostró un carcinoma pobremente diferenciado de alto grado histológico que frecuentemente mostraba un patrón micropapilar y con frecuente permeación de vasos linfáticos lo que sugería el origen metástasico del mismo. Se realizó estudio con técnicas de immunohistoquímica mostrando positividad para queratina (AE1-AE3) y citoqueratina (CK) 7 y negatividad para CK20, TTF-1, N-Cam, Cromogranina y Sinaptofisina. El diagnóstico final fue de metástasis en pared abdominal por un carcinoma micropapilar de vejiga.
+Posteriormente se le realiza PET (Tomografía por emisión de positrones) observándose en hemipelvis derecha, en el trayecto de la ilíaca, un depósito focal hipermetabólico compatible con metástasis ganglionar, hallazgo que fue confirmado en posterior TAC abdominopélvico. Sin embargo, no se detectó recidiva en vejiga y las citologías de orina fueron negativas. Se le administraron 4 ciclos de quimioterapia según protocolo Carboplatino-Gemcitabina objetivándose en la revisión respuesta completa. 
+Evolución: El paciente está vivo y libre de enfermedad a los 12 meses del diagnóstico inicial.
+Remitido por: Dra Paula San Miguel Fraile Servicio de Anatomía Patológica. Hospital POVISA Salamanca, 5 - 36211 Vigo (Pontevedra) E-mail: psanmiguel@posiva.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="15" text="Marcos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="29" end="40" text="Rianxo Abad" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="48" end="62" text="78 94466577 98" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="75" end="100" text="Rúa do Pintor Colmeiro, 7" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="124" end="128" text="Vigo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="133" end="138" text="36211" TYPE="TERRITORIO" comment=""/>
+    <ID id="T18" start="145" end="151" text="795641" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="195" end="205" text="13/01/1941" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="213" end="219" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="227" end="234" text="77 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="242" end="248" text="Hombre" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="268" end="278" text="21/04/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="287" end="310" text="Paula San Miguel Fraile" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="318" end="329" text="36 36 46416" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <DATE id="T1" start="817" end="825" text="año 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T10" start="828" end="832" text="2004" TYPE="FECHAS" comment=""/>
+    <DATE id="T9" start="928" end="941" text="Enero de 2005" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="2720" end="2743" text="Paula San Miguel Fraile" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2777" end="2792" text="Hospital POVISA" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="2793" end="2805" text="Salamanca, 5" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2808" end="2813" text="36211" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2814" end="2818" text="Vigo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2820" end="2830" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2840" end="2860" text="psanmiguel@posiva.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

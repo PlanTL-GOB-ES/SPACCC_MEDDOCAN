@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Sergio.
+Apellidos: Reiz de Miguel.
+NHC: 7846048.
+NASS: 08 57628946 45.
+Domicilio: Paseo de Miraflores 35, 5 A.
+Localidad/ Provincia: Madrid.
+CP: 31010.
+Datos asistenciales.
+Fecha de nacimiento: 21/12/1957.
+País de nacimiento: España.
+Edad: 56 años Sexo: H.
+Fecha de Ingreso: 27/09/2014.
+Médico: Ana Arillo Crespo  NºCol: 31 31 52105.
+Informe clínico del paciente: Varón de 46 años de edad, fumador y con alcoholismo crónico de aproximadamente 20 años de evolución, con la consiguiente hepatitis alcohólica diagnosticada hace ocho años. El paciente no presenta otros antecedentes de interés.
+Nuestro paciente consulta por la presencia de masas en región cervical anterior y posterior, en zonas retroauriculares y en región antero-superior de tórax, de más de diez años de evolución. Estos bultomas no producen dolor, ni disnea ni disfagia.
+A la exploración se observa tumefacción en región cervical anterior, difusa, que borra la línea mandibular, junto a tumoraciones en zonas retroauriculares y en región deltoidea izquierda, más dos bultomas en región posterior de cuello que ascienden hasta la zona occipital, de unos 5 cm de diámetro cada uno. No son dolorosas a la palpación y son de consistencia dura.
+La auscultación cardiopulmonar, la palpación abdominal y la exploración neurológica son normales.
+En la analítica se observan los siguientes valores: aspartato transferasa 131 U/l; alanina transferasa 71 U/l; GGT 880 U/l; colesterol total 228 mg/dl; LDL 105,2 mg/dl; triglicéridos 304 mg/dl. Las hormonas tiroideas y el cortisol son normales.
+Como pruebas de imagen se empezó inicialmente por una radiografía de tórax sin alteraciones patológicas. Posteriormente al paciente se le realizó una ecografía tiroidea con el resultado de lóbulos tiroideos normales y una gran masa subcutánea lipomatosa bilateral. El TAC cervical mostró un marcado acúmulo de tejido graso localizado fundamentalmente a nivel subcutáneo en la región occipital y, ya más caudalmente, a nivel subcutáneo y en planos profundos alcanzando el espacio carotídeo. La distribución del tejido graso era difusa, de carácter simétrico, y no se identificaban encapsulamientos. El tejido graso contenía en su interior ambas venas yugulares anteriores.
+La biopsia confirmó la presencia de tejido adiposo y descartó infiltración tumoral.
+Al paciente se le realizó una lipectomía cervical anterior, preservando el esternocleidomastoideo, las venas yugulares y estructuras nerviosas principales, consiguiendo importante mejoría de su aspecto estético.
+El paciente fue derivado a un servicio de salud mental con objeto de apoyar el cese del hábito alcohólico.
+Responsable clínico: Ana Arillo Crespo Centro de Salud de Chantrea C/ San Cristóbal, s/n 31015. Pamplona Tfno. 948 136272 E-mail: aarilloc@cfnavarra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="29" end="35" text="Sergio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="48" end="62" text="Reiz de Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="69" end="76" text="7846048" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="84" end="98" text="08 57628946 45" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="111" end="138" text="Paseo de Miraflores 35, 5 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="162" end="168" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="174" end="179" text="31010" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="223" end="233" text="21/12/1957" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="255" end="261" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="269" end="276" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="283" end="284" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="304" end="314" text="27/09/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="324" end="341" text="Ana Arillo Crespo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="350" end="361" text="31 31 52105" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="393" end="398" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="402" end="409" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2676" end="2693" text="Ana Arillo Crespo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2694" end="2721" text="Centro de Salud de Chantrea" TYPE="CENTRO_SALUD" comment=""/>
+    <LOCATION id="T5" start="2722" end="2743" text="C/ San Cristóbal, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2744" end="2749" text="31015" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2751" end="2759" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2766" end="2776" text="948 136272" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="2785" end="2806" text="aarilloc@cfnavarra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

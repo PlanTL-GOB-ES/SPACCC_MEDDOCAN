@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Aitor.
+Apellidos: Villegas.
+NHC: 368513.
+NASS: 25 63134095.
+Domicilio:  Calle Pio Baroja 9.
+Localidad/ Provincia: Madrid.
+CP: 28009.
+Datos asistenciales.
+Fecha de nacimiento: 06/02/1982.
+País: España.
+Edad: 38 años Sexo: H.
+Fecha de Ingreso: 12/11/2016.
+Médico: Juana Olivar Roldán NºCol: 28 23 70153.
+Informe clínico del paciente: Paciente varón de 38 años remitido a la Unidad de Nutrición por ascitis quilosa. 
+En su historia previa destacaba la presencia de tabaquismo y cólicos nefríticos de repetición. 8 meses antes de acudir a nuestra consulta fue diagnosticado de seminoma testicular izquierdo con adenopatías retroperitoneales (estadío II C). Se intervino quirúrgicamente mediante orquiectomía radical izquierda. Posteriormente recibió tratamiento con quimioterapia con el protocolo BEP (3 ciclos de Bleomicina-Cisplatino-Etopósido y un cuarto ciclo de Cisplatino-Etopósido). Tras la quimioterapia se observó importante disminución del tamaño de la masa adenopática (4,2 x 3 cm en su diámetro máximo versus 11 x 6 cm iniciales), pero ante la persistencia de las adenopatías se decidió realizar linfadenectomía retroperitoneal. Dicha intervención transcurrió sin complicaciones en el postoperatorio inmediato, pero tres semanas después de la cirugía consultó por dolor y distensión abdominal. 
+En la exploración física destacaba abdomen distendido, duro, doloroso difusamente y con signos de ascitis. En la ecografía de abdomen se observó importante ascitis. En la tomografía computarizada abdominal se detectaron cambios postquirúrgicos de linfadenectomía retroperitoneal e importante cantidad de líquido libre intra-abdominal. 
+Se realizó paracentesis evacuadora con extracción de 8.000 cc de líquido ascítico de aspecto lechoso; el análisis de dicho líquido mostró: leucocitos 508/mm3, Polimorfonucleares 14%, Mononucleares 86%, triglicéridos 875 mg/dl. Se descartó origen tumoral porque en las adenopatías resecadas se identificó necrosis y calcificación y los marcadores tumorales (AFP y HCG) fueron negativos. Se realizaron 3 paracentesis evacuadoras con frecuencia semanal extrayéndose 3, 7 y 4 litros sucesivamente. 
+En la Consulta de Nutrición, el paciente refiere astenia moderada con sensación de plenitud postpandrial precoz. En la exploración física destacaba peso 66 kg, talla 177 cm,peso ideal 79,2 kg, IMC 21,06, pliegue tricipital 12 mm (91,8% p50), circunferencia muscular del brazo 21,8 cm (89% p50), TA 115/71 mmHg, FC 72 lpm, ascultación cardiopulmonar normal y sin semiología de derrame pleural y exploración abdominal sin hallazgos relevantes. 
+La valoración analítica mostraba: glucosa 92 mg/dl (60-100), creatinina 1,2 mg/dl (0,8-1,3), urato 7,9 mg/dl (3,5-7,2), Na, K, Cl, Calcio y fósforo normales, perfil hepático normal, colesterol total 233 mg/dl (HDL 52 mg/dl, LDL 153 mg/dl), triglicéridos 152 mg/dl (< 150), proteínas totales 6,4 g/dl (6,6-8,3), albúmina 3,3 g/dl (3,5-5,2), Fe 63 μg/dl (70-180), ferritina 265 ng/ml (20-400), saturación de transferina 25% (15-40), transferrina 201 mg/dl (200-360), hematíes 4.860.000/μl (4.400.000-5.800.000), hemoglobina 14.3 g/dl (13-17,3), VCM 87,2 fl (80-97), hematocrito 42.4% (38.9-51.4), leucocitos 6.760/μl (3.700-11.600), linfocitos 830/μl (800-3.000), polimorfonucleares 5.250/μl (1.000-5.400), resto de serie blanca normal, plaquetas 501.000/μl (125.000-350.000), actividad de protrombina 89% (75-120), vitamina B12, 422 pg/ml (197-866), folato 7,7 ng/ml (3,1-17,5), zinc 52 μg/dl, vitamina A/proteína ligadora del retinol 0,8 (0,8-1,2), vitamina E/colesterol 6 (6-12), vitamina D 35 ng/ml (30-100), PTH 33 pg/ml (12-65), B-HCG < 1 mUI/ml (0-5), AFP 3,32 ng/ml (0-16). 
+El paciente fue diagnosticado de malnutrición proteicocalórica leve en el contexto de ascitis quilosa secundaria a linfadenectomía retroperitoneal. Se inició dieta hiperproteica con restricción de grasa y fraccionada en 5-6 tomas diarias junto con MCT 20 ml diarios, sulfato de zinc 1 comprimido diario, un complejo multivitamínico y 100 gramos diarios de un suplemento específico enriquecido en MCT. Dicho suplemento aporta 424 kcal y 11,4 gramos de proteína por cada 100 gramos. Con este abordaje terapeútico el paciente sólo ha precisado una paracentesis evacuadora y 3 meses después presentó las siguientes datos antropométricos: peso 70,1 kg, pliegue tricipital 13 mm (100% p 50), circunferencia muscular del brazo 23 cm (93% p50); los parámetros analíticos alterados previamente también se normalizaron.
+Remitido por: Juana Olivar Roldán. Hospital Infanta Sofía. 28224 Pozuelo de Alarcón, Madrid, España. E-mail: juaniolivar@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="29" end="34" text="Aitor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="55" text="Villegas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="62" end="68" text="368513" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="76" end="87" text="25 63134095" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="101" end="119" text="Calle Pio Baroja 9" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="143" end="149" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="155" end="160" text="28009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="204" end="214" text="06/02/1982" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="222" end="228" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="236" end="243" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="250" end="251" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="271" end="281" text="12/11/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="291" end="310" text="Juana Olivar Roldán" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="318" end="329" text="28 23 70153" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="370" end="375" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="379" end="386" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="4511" end="4530" text="Juana Olivar Roldán" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="4532" end="4554" text="Hospital Infanta Sofía" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="4556" end="4561" text="28224" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="4562" end="4580" text="Pozuelo de Alarcón" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="4582" end="4588" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4590" end="4596" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="4606" end="4626" text="juaniolivar@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

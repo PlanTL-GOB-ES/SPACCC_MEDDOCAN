@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Lucas.
+Apellidos: Nieto Zarate.
+NHC: 380956.
+NASS: 25 09782356 37.
+Domicilio: Av. de la Constitución, 18.
+Localidad/ Provincia: Granada.
+CP: 18012.
+Datos asistenciales.
+Fecha de nacimiento: 23/12/1997.
+País: España.
+Edad: 19 años Sexo:.
+Fecha de Ingreso: 04/08/2017.
+Médico: Juan Andrés Rodríguez Ruiz NºCol:18 18 65498.
+Historia Actual: Enfermo de 19 años que ingresa procedente de urgencias por herida por arma de fuego (escopeta de caza) tras intento de autolisis (distancia de impacto inferior a un metro). Presentaba una herida del tercio inferior región lateral con importante pérdida ósea de región desde primer premolar izquierdo hasta ángulo mandibular izquierdo. Pérdida cutáneo-mucosa importate de región yugal izquierda y mejilla izquierda. Se procede inicialmente a la realización de traqueotomía, desbridamiento de tejidos desvitalizados, ferulización dentaria, bloqueo intermaxilar y colocación de placa de reconstrucción mandibular.
+Exploración y pruebas: Se llevó a cabo, en este primer tiempo quirúrgico, un cierre directo intraoral y un cierre cutáneo con colgajo de avance cervicofacial.
+En el postoperatorio inmediato se produce un sufrimiento y pérdida del colgajo cutáneo de avance cérvico-facial que deja una importante área granulante facial izquierda. La retracción cicatricial del tejido mucoso oral produce una gran limitación de la apertura oral (0,8 cm). Se manifiestan comunicaciones orofaciales y fístulas salivales.
+Se decide intervención secundaria mediante un colgajo osteomiocutáneo escapular-paraescapular del brazo izquierdo, no dominante, pero con antecedente de luxación recidivante.
+La intervención comienza con la nueva traqueotomía y la preparación de los vasos receptores: arteria facial y rama del tronco venoso tirolinguofacial. Es necesario extirpar una gran cantidad de tejido célulo-ganglionar del nivel I y III, para llegar a los vasos receptores.
+Después se procede a la disección del colgajo osteocutáneo escapular- paraescapular, y al cierre de la zona donante, dejando drenaje aspirativo, e inmovilizando el miembro superior izquierdo con un cabestrillo.
+Seguidamente se adapta la parte ósea del colgajo al defecto mandibular con ostosíntesis usando la placa de reconstrucción colocada en la intervención inicial. La parte cutánea de colgajo se dobla como si de un libro se tratara, quedando uno de los lóbulos cutáneos intraoral y otro extraoral (facial cervical). El dorso del supuesto libro se desepiteliza y se sutura al labio inferior remanente. La parte intraoral reconstruye toda la mucosa yugal hasta el pilar anterior del velo del paladar. La parte externa reconstruye la zona cutánea mandibular y submandibular izquierda. La región posterosuperior del defecto cutáneo queda para injerto dermoepidérmico. Se retira el bloqueo y la férula dental y se deja la boca "abierta".
+Evolución y comentarios: La adaptación del colgajo requiere submaxilectomía y extirpación de parte del tejido subcutáneo de la zona posteroinferior.
+La anastómosis se hizo término-terminal de la arteria circunfleja escapular a la arteria facial; y de la mayor de las venas circunflejas escapulares al tronco tirolinguofacial.
+La duración de la intervención fue de 14 horas; con un tiempo de isquemia de 2,45 horas.
+Evolución satisfactoria respecto a la vitalildad del colgajo escapular. Complicaciones locales: fístula salival parotídea en zona posterosuperior por pérdida del injero dermoepidermico sobre región maseterina.
+Complicaciones en zona donante desinserción del brazo largo del tríceps y dehiscencia de herida. Para tratamiento de dicha dehiscencia se intervino el enfermo realizándose un cogajo local de transposición. Complicación postural: parálisis del nervio radial del lado contralateral (derecho).
+Tratamiento: El enfermo sigue un tratamiento rehabilitador para recuperar la movilidad del brazo izquierdo.
+Remitido por: Juan Andrés Rodríguez Ruiz. Carretera Jaen 72-A, 5-C 18013 Granada, España E-mail: katifa@telefonica.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="9" end="14" text="Lucas" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="27" end="39" text="Nieto Zarate" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="46" end="52" text="380956" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="60" end="74" text="25 09782356 37" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="87" end="113" text="Av. de la Constitución, 18" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="137" end="144" text="Granada" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="150" end="155" text="18012" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="199" end="209" text="23/12/1997" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="217" end="223" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="231" end="238" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="264" end="274" text="04/08/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="284" end="310" text="Juan Andrés Rodríguez Ruiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="317" end="328" text="18 18 65498" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T9" start="358" end="365" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3884" end="3910" text="Juan Andrés Rodríguez Ruiz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3912" end="3936" text="Carretera Jaen 72-A, 5-C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3937" end="3942" text="18013" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3943" end="3950" text="Granada" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3952" end="3958" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3967" end="3988" text="katifa@telefonica.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

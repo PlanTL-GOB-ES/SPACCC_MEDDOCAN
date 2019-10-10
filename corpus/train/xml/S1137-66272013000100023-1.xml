@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Jaime.
+Apellidos: López San Cristobal.
+NHC: 1387733.
+NASS: 89 42370560 45.
+Domicilio: Calle de Zapatería, 53.
+Localidad/ Provincia: Pamplona.
+CP: 31001.
+Datos asistenciales.
+Fecha de nacimiento: 16/08/1941.
+País: España.
+Edad: 70 años Sexo: H.
+Fecha de Ingreso: 04/12/2011.
+Servicio: Medicina Interna.
+Médico: Elisabel Martínez Litago NºCol:31 31 63002.
+Historia Actual:Varón de 70 años acudió al servicio de Urgencias por cuadro de dolor torácico transfixivo de inicio súbito asociado a cortejo vegetativo mientras realizaba labores agrícolas. Durante su estancia en el servicio de Urgencias permaneció asintomático y hemodinámicamente estable con TA 133/74 y FC 64 lpm.
+Antecedentes: adenocarcinoma de próstata hace 7 años (T2a-b N0 M0), tratado con bloqueo androgénico, radioterapia y braquiterapia. Intervenido quirúrgicamente de apendicectomía y amigdalectomía. Sin toma de medicación habitual, como antecedentes familiares relevantes presenta hermana afecta de neoplasia de mama y hermano con neoplasia de pulmón.
+Exploración física: A la exploración presentaba palidez mucocutánea, auscultación cardiaca con tonos apagados rítmicos sin soplos, siendo el resto de la exploración normal. 
+Resumen de pruebas complementarias: En la analítica inicial presentó hemograma normal con bioquímica y parámetros de coagulación anodinos, Dímero D 189 ng/ml (0-275), Péptido natriurético tipo B 80 pg/ml (0-100), troponina 0,008 ng/ml (0-0,04). En la radiografía (RX) de tórax inicial presentaba ensanchamiento mediastínico por lo que se realizó TC urgente donde se describió masa prevertebral (Unidades Hounsfield/UH 38 - tejidos blandos), retrotraqueal, englobando el esófago y desplazando posteriormente la aorta la cual presentaba una morfología dentro de la normalidad, con discreto derrame pleural bilateral, siendo el resto de estructuras normales. Ante los hallazgos de la prueba de imagen ingresó inicialmente en el servicio de Aparato Digestivo donde se llevó a cabo ecoendoscopia visualizando lesión heterogénea posterior a esófago sin depender de él, tomando biopsia con resultado negativo para células neoplásicas con citología hemorrágica. Se procedió a la realización de una broncoscopia, describiéndose compresión extrínseca a nivel de pared posterior de tercio distal de tráquea y bronquios principales realizando 3 punciones con salida de abundante material hemorrágico, con citología hemorrágica sin células neoplásicas. Se planteó realizar toracotomía para obtención de muestras. Ante la ausencia de hallazgos en las pruebas anteriormente realizadas, previa a la cirugía, se realizó interconsulta al servicio de Medicina Interna, quien revisando la historia clínica desde el ingreso objetivó anemización en las primeras horas de ingreso (Hb 14,1 g/dl) y posteriormente un valor de Hb de 11,2 g/dl permaneciendo estable. En nueva RX de tórax se observó desaparición del ensanchamiento mediastínico con mínima persistencia de derrame pleural. Se llevó a cabo toracocentesis diagnóstica con resultado negativo para neoplasia con citología hemorrágica. Dada la clínica inicial y los resultados de citología hemorrágica y ante la alta sospecha de complicación vascular a nivel torácico se solicitó nuevo TC siendo informado como pequeña imagen de aspecto hipodenso y homogéneo con un calibre aproximado de 1,5 cm compatible con hematoma en mediastino posterior en resolución. Se realizó angiografía donde se observó dilatación pseudoaneurismática de arteria bronquial en su origen, procediéndose a su embolización terapéutica sin incidencias.
+Remitido por: Elisabel Martínez Litago. Servicio de Medicina Interna. Complejo Hospitalario de Navarra C/ Irunlarrea, 3 31008 Pamplona (Navarra) Email: elisamartinezlitago@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="8" end="13" text="Jaime" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="26" end="45" text="López San Cristobal" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="52" end="59" text="1387733" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="67" end="81" text="89 42370560 45" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="94" end="116" text="Calle de Zapatería, 53" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="140" end="148" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="154" end="159" text="31001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="203" end="213" text="16/08/1941" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="221" end="227" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="235" end="242" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="249" end="250" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="270" end="280" text="04/12/2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="318" end="342" text="Elisabel Martínez Litago" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="349" end="360" text="31 31 63002" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="378" end="383" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="387" end="394" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="957" end="964" text="hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="995" end="1002" text="hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T10" start="3574" end="3598" text="Elisabel Martínez Litago" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="3630" end="3662" text="Complejo Hospitalario de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="3663" end="3679" text="C/ Irunlarrea, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="3680" end="3685" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="3686" end="3694" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3696" end="3703" text="Navarra" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="3712" end="3743" text="elisamartinezlitago@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

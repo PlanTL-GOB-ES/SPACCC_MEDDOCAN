@@ -1,0 +1,17 @@
+Datos del paciente.
+Nombre: Samuel.
+Apellidos: Bertrand Flores.
+NHC: 8973852.
+NASS: 89 75468925 03.
+Domicilio: C/ Pedregal, 6, 2, A.
+Localidad/ Provincia: Palencia.
+CP: 34005.
+Datos asistenciales.
+Fecha de nacimiento: 13/06/1975.
+País de nacimiento: España.
+Edad: 40 años Sexo: H.
+Fecha de Ingreso: 26/01/2016.
+Médico: Victoria Oviedo Gómez NºCol: 34 34 51203.
+Informe clínico del paciente: paciente varón joven de 40 años con pérdida de agudeza visual en ojo izquierdo (OI) de 2 semanas de evolución y metamorfopsia desde hacía dos años. La mejor agudeza visual corregida del paciente era 0,3 y en el fondo de ojo se observaba además de unas fibras de mielina en la arcada temporal superior, una MER centrada sobre la región macular produciendo una imagen de pseudoagujero macular. Se podía observar una marcada distorsión de los vasos sanguíneos retinianos alrededor de la mácula. No había evidencia DPV. El ojo derecho era normal. Se realizó angiografía fluresceínica en la que no se observó edema macular ni difusión de los vasos retinianos. El paciente no refería traumatismo alguno, ni patología previa en dicho ojo, por lo que fué diagnosticado de MER idiopática e incluido en lista de espera para realizar vitrectomía pars plana.
+Al mes acudió a consulta refiriendo mejoría marcada de la agudeza visual y desaparición de la metamorfopsia. Se observó una mejor agudeza visual corregida de la unidad y en el fondo de ojo ausencia de la MER, desaparición de la distorsión de los vasos retinianos y un DPV prepapilar denso.
+Responsable clínico: Dra. Victoria Oviedo Gómez, Sección de Nefrología, Complejo Asistencial de Palencia, Avda. Donantes de sangre s/n, 34005 , Palencia E-mail: voviedo71@hotmail.com E-mail: majuelo55@yahoo.es

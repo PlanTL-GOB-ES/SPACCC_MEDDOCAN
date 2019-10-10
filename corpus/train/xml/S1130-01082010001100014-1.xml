@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Lidia.
+Apellidos: Martinez Soza.
+NHC: 8349509.
+NASS: 87 63678940 36.
+Domicilio: Av, de Madrid, 3, 5 A.
+Localidad/ Provincia: Jaén.
+CP: 23028.
+Datos asistenciales.
+Fecha de nacimiento: 27/05/1952.
+País de nacimiento: España.
+Edad: 63 años Sexo: M.
+Fecha de Ingreso: 03/10/2015.
+Médico: Manuel Polaina Rusillo  NºCol: 23 23 50160.
+Informe clínico del paciente: Mujer de 63 años sin antecedentes de interés que consulta por molestias epigástricas, no irradiadas y no relacionadas con la ingesta, de dos meses de evolución. El examen físico fue normal y en los datos de laboratorio lo único que destaca es una leve anemia microcítica e hipogammaglobulinemia. Se realizó gastroscopia donde se evidenció en segunda porción duodenal una lesión excrecente, blanquecina, ulcerada en su centro, friable y de consistencia elástica a la toma de biopsias. El examen anatomopatológico evidenció un denso infiltrado linfocitario con habito centrocitoide que destruían alguna de las glándulas y penetraban en el epitelio. El inmunofenotipo de las células proliferantes fue CD 20 y CD 43 positivo con CD 3, CD 5 y ciclina D1 negativo. Todo ello llevó a confirmar la presencia de linfoma MALT duodenal. La paciente fue remitida al servicio de oncología donde se completó el estudio de extensión y, tras comprobar ausencia de afectación locorregional y metastásica, se pautó tratamiento con ciclofosfamida con buena respuesta al mismo.
+Responsable clínico: Dr. Manuel Polaina Rusillo Servicio de Nefrología Complejo Hospitalario de Jaén Extremadura, 2, P3 2E, 23008 nefropolaina@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="33" text="Lidia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="46" end="59" text="Martinez Soza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="66" end="73" text="8349509" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="81" end="95" text="87 63678940 36" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="108" end="129" text="Av, de Madrid, 3, 5 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="153" end="157" text="Jaén" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="163" end="168" text="23028" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="212" end="222" text="27/05/1952" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="244" end="250" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="258" end="265" text="63 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="272" end="273" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="293" end="303" text="03/10/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="313" end="335" text="Manuel Polaina Rusillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="344" end="355" text="23 23 50160" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="387" end="392" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="396" end="403" text="63 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1470" end="1492" text="Manuel Polaina Rusillo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="1516" end="1545" text="Complejo Hospitalario de Jaén" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="1546" end="1567" text="Extremadura, 2, P3 2E" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="1569" end="1574" text="23008" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1575" end="1596" text="nefropolaina@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

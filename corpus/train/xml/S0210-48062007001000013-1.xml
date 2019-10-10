@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Aitor .
+Apellidos: Vazquez Pedroza.
+NHC: 7834651.
+NASS: 78 64375670 15.
+Domicilio: C/ Abadia, 86, 1 Izq..
+Localidad/ Provincia: ALbacete.
+CP: 02128.
+Datos asistenciales.
+Fecha de nacimiento: 15/11/19.
+País de nacimiento: España.
+Edad: 15 años Sexo: H.
+Fecha de Ingreso: 19/12/2009.
+Servicio: Urología.
+Episodio: 3658934.
+Médico: Hector Pastor Navarro NºCol: 02 02 95410.
+Historia Actual: Paciente de 15 años sin antecedentes previos de interés. Fue asistido en urgencias por presentar vómitos y dolor epigástrico de tres días de evolución, y refería la pérdida de 7 kg de peso en los dos meses anteriores. 
+Exploración física: A la exploración física se apreció moderada palidez mucocutánea, hepatoesplenomegalia de dos traveses de dedo y dolor epigástrico a la palpación profunda. La exploración escrotal demostró un teste izquierdo aumentado de volumen (tres o cuatro veces más de lo normal) de consistencia dura, superficie irregular y no doloroso. Reinterrogado el paciente, nos confirmó, que desde hacía aproximadamente un año había notado un aumento progresivo e indoloro del teste.
+Pruebas complementarias: En la analítica de urgencias únicamente destacó un hematocrito de 35%, una hemoglobina de 11,3 gr/dl y una LDH de 2802 U/L.
+La ecografía abdominal y testicular demostró la existencia de un teste izquierdo muy aumentado de tamaño de ecogeneicidad heterogénea, con focos de necrosis y áreas líquidas; y a nivel hepático amplias imágenes sugestivas de metástasis.
+La radiología de tórax evidenció la existencia de metástasis pulmonares múltiples y discreto derrame pleural, que tras toracocentesis se obtuvo líquido pleural hemático.
+Doce horas después del ingreso se realizó TAC toracoabdominal donde se demostró una extensa afectación metastásica, con nódulos pulmonares múltiples bilaterales, derrame pleural derecho, adenopatías mediastínicas, retroperitoneales, hepatomegalia con afectación metastásica masiva, y posiblemente metástasis esplénicas y pancreáticas. No existía líquido libre intraperitoneal.
+Se obtuvo muestras de sangre para marcadores testiculares: alfafetoproteína 15000 ng/ml y betaHCG de 200.000 mUI/ml. y se programó orquiectomía para el día siguiente.
+A las 36 horas del ingreso, se produjo shock hipovolémico de instauración rápida con dolor y abombamiento abdominal, que requirió laparotomía urgente tras ecografía abdominal en la que demostró una gran cantidad de líquido intraperitoneal. Durante la laparotomía se comprobó la existencia de afectación metastásica extensa en cola de páncreas, bazo e hígado con rotura de metástasis esplénicas y hepáticas y masivo hemoperitoneo por sangrado activo de las mismas y con hematoma difuso hepático. Se efectuó esplenectomía con sutura y taponamiento con surgicel de las áreas hepáticas sangrantes; al mismo tiempo se practicó orquiectomía radical izquierda.
+La anatomopatológica macroscópica describe: "pieza de orquiectomía radical, que pesa 233 gr y mide 8x9x5 cm, acompañado de 7 cm de cordón; a los cortes seriados el parénquima testicular muestra un reemplazamiento casi total por una tumoración blanquecina, con áreas de necrosis y hemorragia que no parece rebasar las cubiertas testiculares".
+La histopatología microscópica del testículo mostró una neoplasia maligna germinal mixta en la que se aprecian áreas de tipo carcinoma embrionario, tumor del seno endodérmico, coriocarcinoma y teratoma.
+El bazo media 15x7x3 cm y pesaba 180 gr, observándose en los cortes seriados seis formaciones nodulares, redondeadas, blanquecinas, con necrosis central. La microscopía confirma que las lesiones esplénicas son metástasis de la neoplasia testicular.
+Evolución:  Cuarenta y ocho horas después de la intervención el enfermo sufrió un nuevo cuadro de shock hipovolémico con signos evidentes de sangrado intraabdominal, por lo que se efectuó nueva laparotomía, verificándose la existencia de estallido hepático a nivel de lóbulo derecho e izquierdo, con hemorragia incoercible y deceso poco después.
+Responsable clínico: Dr. Hector Pastor Navarro Servicio de Urología. Complejo Hospitalario y Universitario de Albacete Hermanos Falcó, s/n - 02006 Albacete Tel.: 967 597 100 E-mail autor: hektorpn@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="33" text="Aitor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="62" text="Vazquez Pedroza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="69" end="76" text="7834651" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="84" end="98" text="78 64375670 15" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="111" end="131" text="C/ Abadia, 86, 1 Izq" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="156" end="164" text="ALbacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="170" end="175" text="02128" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="219" end="227" text="15/11/19" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="263" end="270" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="277" end="278" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="298" end="308" text="19/12/2009" TYPE="FECHAS" comment=""/>
+    <ID id="T11" start="340" end="347" text="3658934" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="357" end="378" text="Hector Pastor Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="386" end="397" text="02 02 95410" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T8" start="428" end="435" text="15 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="4036" end="4057" text="Hector Pastor Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="4080" end="4129" text="Complejo Hospitalario y Universitario de Albacete" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="4130" end="4149" text="Hermanos Falcó, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="4152" end="4157" text="02006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="4158" end="4166" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="4173" end="4184" text="967 597 100" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="4199" end="4219" text="hektorpn@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

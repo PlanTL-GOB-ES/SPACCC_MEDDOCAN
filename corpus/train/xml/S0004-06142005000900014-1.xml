@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Pedro.
+Apellidos: Jimenez Ramos.
+NHC: 4763954.
+NASS: 47 37584930 84.
+Domicilio: Calle del pez, 28.
+Localidad/ Provincia: Madrid.
+CP: 28001.
+Datos asistenciales.
+Fecha de nacimiento: 20/05/2000.
+País: España.
+Edad: 16 años Sexo: H.
+Fecha de Ingreso: 26708/2017.
+Servicio: Urgencias.
+Médico: Luis Moyano Calvo  NºCol: 28 31 23567.
+Informe clínico del paciente: Adolescente Varón de diecisiete años sin antecedentes de interés que acude por polaquiuria, escozor miccional, tenesmo y hematuria autolimitada.
+En la analítica de orina se aprecian 30-50 hematíes por campo. Urocultivo negativo.
+Se practica ecografía abdominal observándose pequeña lesión de medio centímetro de diámetro, sólida con refuerzo hiperecogénico anterior.
+Realizamos cistoscopia observándose en cara lateral derecha, por fuera de orificio ureteral dos pequeñas lesiones sobreelevadas, con mucosa aparentemente normal, similares a dos igloos.
+Sospechándose lesión inflamatoria se prescribe tratamiento con A.I.N.E. durante diez días sin que desparezcan las lesiones, decidiéndose intervención quirúrgica.
+Se realiza RTU de ambas lesiones vesicales, siendo el informe anatomopatológico el de leiomioma vesical, describiendo la lesión como "proliferación de células fusiformes dispuestas en fascículos entrelazados con núcleos romos y citoplasma eosinófilo sin atipia, necrosis ni actividad mitótica significativa. Con el estudio inmunohistoquímico se demostró intensa positividad citoplasmática difusa para actina de músculo liso.
+Remitido por: Dr. Luis Moyano Calvo C/ Eduardo Rivas, 3 28018 Madrid. España. e-mail: joseluismoyano@ya.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="29" end="34" text="Pedro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="47" end="60" text="Jimenez Ramos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="67" end="74" text="4763954" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="82" end="96" text="47 37584930 84" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="109" end="126" text="Calle del pez, 28" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="150" end="156" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="162" end="167" text="28001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="211" end="221" text="20/05/2000" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="229" end="235" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="243" end="250" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="257" end="258" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="278" end="288" text="26708/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="319" end="336" text="Luis Moyano Calvo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="345" end="356" text="28 31 23567" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T23" start="388" end="399" text="Adolescente" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="400" end="405" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="409" end="424" text="diecisiete años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1546" end="1563" text="Luis Moyano Calvo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1567" end="1583" text="Eduardo Rivas, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1584" end="1589" text="28018" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1590" end="1596" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1598" end="1604" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1614" end="1635" text="joseluismoyano@ya.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

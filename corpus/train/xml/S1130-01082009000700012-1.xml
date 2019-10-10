@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: David .
+Apellidos: Rodriguez Baez.
+NHC: 4589429.
+NASS: 73 45601785 16.
+Domicilio: C/ Alfonso Blanco, 3, 5, A.
+Localidad/ Provincia: Pamplona.
+CP: 31008.
+Datos asistenciales.
+Fecha de nacimiento: 15/06/1959.
+País de nacimiento: España.
+Edad: 53 años Sexo: H.
+Fecha de Ingreso: 21/12/2012.
+Servicio: Cirugía Oral y Maxilofacial.
+Médico: Alfredo Castro NºCol: 31 31 54702.
+Informe clínico del paciente: Varón de 53 años de edad que consulta por la aparición de intenso dolor en fosa iliaca izquierda sin otros síntomas asociados. Negó la existencia de fiebre. No refería tratamiento domiciliario habitual ni antecedentes personales o familiares de interés. La exploración física puso de manifiesto un ligero sobrepeso y una palpación dolorosa a nivel de la fosa iliaca izquierda, junto con defensa abdominal. Los ruidos intestinales y resto de la exploración eran normales. La analítica general destacó una GGT de 88 U/l, ferritina de 297,11 ng/ml y PCR de 7 mg/dl. Los demás parámetros fueron normales. La clínica orientó hacia una diverticulitis aguda. Ante la persistencia y la intensidad del dolor, así como para confirmar la sospecha diagnóstica, se realizó una TAC de abdomen, en la cual se evidenció la existencia de diverticulosis sigmoidea sin signos de diverticulitis. En un corte superior del abdomen se apreció una inflamación de la grasa adyacente al colon descendente, la cual correspondía a un apéndice epiploico, probablemente en el contexto de apendagitis aguda secundaria a torsión del mismo.
+El paciente fue diagnosticado de "apendagitis" o "apendagitis epiploica" y recibió tratamiento conservador con anti-inflamatorios orales durante 7 días, con una mejoría progresiva de los síntomas y sin que aparecieran complicaciones. No fue necesario el uso de antibióticos ni ingreso hospitalario.
+Responsable clínico: Dr. Alfredo Castro Servicio de Cirugía Oral y Maxilofacial. Clínica Universitaria de Navarra Av. Pío XII, nº 36 31008 Pamplona, España Email: acastro@unav.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="33" text="David" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="61" text="Rodriguez Baez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="68" end="75" text="4589429" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="83" end="97" text="73 45601785 16" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="110" end="136" text="C/ Alfonso Blanco, 3, 5, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="160" end="168" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="174" end="179" text="31008" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="223" end="233" text="15/06/1959" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="255" end="261" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="269" end="276" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="283" end="284" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="304" end="314" text="21/12/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="363" end="377" text="Alfredo Castro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="385" end="396" text="31 31 54702" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="428" end="433" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="437" end="444" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1860" end="1874" text="Alfredo Castro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1916" end="1948" text="Clínica Universitaria de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1949" end="1967" text="Av. Pío XII, nº 36" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1968" end="1973" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1974" end="1982" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1984" end="1990" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1998" end="2013" text="acastro@unav.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Marc.
+Apellidos: Jimenez Pedrero.
+NHC: 787843596.
+NASS: 23 16487512 12.
+Domicilio: Avenida de Tuy 92, 1H.
+Localidad/ Provincia: Girona.
+CP: 17001.
+Datos asistenciales.
+Fecha de nacimiento: 28/04/1991.
+País: España.
+Edad: 27 años Sexo: H.
+Fecha de Ingreso: 08/05/2018.
+Servicio: Medicina Intensiva.
+Médico: Paula Ortiz Ballujera NºCol: 17 17 89456.
+Historia Actual: Se trata de un varón de 27 años de edad que ingresa por politraumatismo después de precipitarse desde 15 metros. Es atendido en el lugar del accidente con Glasgow Coma Scale de 6 puntos y se consigue estabilidad hemodinámica. En la TACHT se diagnosticó un seudoaneurisma de aorta torácica en el istmo y hematoma periaórtico acompañante. Las lesiones asociadas de todos los casos se describen en la tabla 1.
+El paciente se trató con labetalol para el control estricto de la tensión arterial. Los ECOT a las 24 horas y a la semana de seguimiento de la lesión aórtica no presentaron cambios. Al noveno día fue dado de alta de la Unidad de Cuidados Intensivos (UCI) y al vigesimoctavo día del accidente se le colocó una endoprótesis en la aorta torácica descendente por la vía ilíaca primitiva izquierda con oclusión asintomática de la arteria subclavia izquierda.
+Remitido por:  Dra. Paula Ortiz Ballujera. Servicio de Medicina Intensiva (UCI). Hospital Universitari de Girona Doctor Josep Trueta. Avda. de França, s/n. 17007 Girona. España. Correo electrónico: ballujera@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="13" text="Marc" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="26" end="41" text="Jimenez Pedrero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="48" end="57" text="787843596" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="65" end="79" text="23 16487512 12" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="92" end="113" text="Avenida de Tuy 92, 1H" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="137" end="143" text="Girona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="149" end="154" text="17001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="198" end="208" text="28/04/1991" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="216" end="222" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="230" end="237" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="244" end="245" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="265" end="275" text="08/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="315" end="336" text="Paula Ortiz Ballujera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="344" end="355" text="17 17 89456" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="389" end="394" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="398" end="405" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1255" end="1276" text="Paula Ortiz Ballujera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1316" end="1367" text="Hospital Universitari de Girona Doctor Josep Trueta" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1369" end="1389" text="Avda. de França, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1391" end="1396" text="17007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1397" end="1403" text="Girona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1405" end="1411" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1433" end="1454" text="ballujera@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

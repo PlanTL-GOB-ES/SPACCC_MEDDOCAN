@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[                                                Nombre:  Eliseo.
+                                                Apellidos: Pasos Garcia.
+                                                NHC: 98756.
+                                                NASS: 07 82643584 31.
+                                                Domicilio: Calle Pacífico, 44.
+                                                Localidad/ Provincia: Málaga.
+                                                CP: 29004.
+                                                .
+Datos asistenciales.
+Fecha de nacimiento: 01/03/1965.
+País: España.
+Edad:52 años Sexo: H.
+Fecha de Ingreso: 15/11/2017.
+Servicio: Urología.
+Médico: David Hernández Alcaraz. NºCol: 29 29585.
+Informe médico-quirúrgico: Varón de 52 años de edad, sin antecedentes de interés, estudiado por haberse encontrado en una ecografía abdominal por estudio urológico una tumoración quística intrahepática que en principio impresiona como quiste hepático complejo no complicado. Se solicita una TAC abdominal en la que se objetiva una imagen quística de unos 5 centímetros (cm) de diámetro localizada entre los segmentos V y VIII con forma de racimo de uvas, septos en su interior, siendo alguno de ellos gruesos y captando contraste de forma significativa en algunas zonas. Los marcadores tumorales fueron negativos.
+Dado el carácter asintomático del cuadro se decide seguimiento. En el control radiológico realizado al año se aprecia aumento del tamaño de la lesión (9 x 7 x 7 cm) estando situada en la confluencia porto-biliar, sin comprimir la misma. Ante el crecimiento de la lesión, se decide intervenir quirúrgicamente al paciente dadas las posibilidades de malignidad de la lesión.
+En la intervención quirúrgica se aprecia una tumoración localizada en la unión de los segmentos IV y V que abomba hacia el hilio, de aspecto quístico y polilobulada. La biopsia intraoperatoria es informada como tumor mucinoso sin poder descartarse malignidad.
+Ante la posibilidad de encontrarnos ante un cistoadenocarcionoma, se decide excisión radical de la pieza, no pudiéndose realizar resección completa. En la disección se aprecia fistulización del tumor al conducto hepático derecho, salida de contenido mucinoso y lesiones polipoideas intraquísticas.
+El diagnóstico histológico definitivo resultó corresponder a un cistoadenocarcinoma mucosecretor que, al darse en un paciente varón, conlleva más agresividad.
+La evolución ha sido favorable, recibiendo quimioterapia adyuvante con 5-fluorouracilo y encontrándose sin recidiva al año de seguimiento.
+Remitido por: David Hernández Alcaraz. Servicio de Urología Hospital Civil. Plaza de Hospital Civil s/n. 29009 Málaga. (España). davidhauro@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="57" end="63" text="Eliseo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="124" end="136" text="Pasos Garcia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="191" end="196" text="98756" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="252" end="266" text="07 82643584 31" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="327" end="345" text="Calle Pacífico, 44" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="417" end="423" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="477" end="482" text="29004" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="576" end="586" text="01/03/1965" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="594" end="600" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="607" end="614" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="621" end="622" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="642" end="652" text="15/11/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="682" end="705" text="David Hernández Alcaraz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="714" end="722" text="29 29585" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="751" end="756" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="760" end="767" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2580" end="2603" text="David Hernández Alcaraz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2626" end="2640" text="Hospital Civil" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2642" end="2669" text="Plaza de Hospital Civil s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2671" end="2676" text="29009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2677" end="2683" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2686" end="2692" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2695" end="2717" text="davidhauro@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

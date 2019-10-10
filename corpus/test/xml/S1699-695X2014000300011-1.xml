@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Laia.
+Apellidos: Martinez Rico.
+NHC: 7086454.
+Domicilio: Calle Sangenjo, 27, 3D.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 13/05/2010.
+País: España.
+Edad: 7 años Sexo: M.
+Fecha de Ingreso: 21/11/2017.
+Médico: Luz Belén Zambrano Centeno NºCol: 28 28 65802.
+Historia Actual: Niña de 7 años sin antecedentes de interés remitida desde su centro de atención primaria por presentar una lesión en la mejilla derecha, algo pruriginosa y dolorosa, que no había mejorado tras tratamiento oral con amoxicilina/clavulánico, pautado prácticamente desde su inicio durante las dos semanas anteriores. 
+Exploración física: A la exploración mostraba en la mejilla derecha un nódulo eritematovioláceo, frío y blando al tacto, bien delimitado, de 1,5 cm de diámetro. No se palpaban adenomegalias regionales, aunque sí una leve queratosis pilar en la piel de las mejillas.
+Evolución: Ante la sospecha clínica de GAFI, e informados los padres sobre la benignidad del proceso, se consensuó con ellos no realizar biopsia cutánea y pautar seguimiento periódico, junto con terapia con metronidazol gel por la noche. Dos semanas más tarde se produjo el drenaje espontáneo de un material sanguino-purulento desde el centro de la lesión, con posterior resolución progresiva del nódulo en el transcurso de unas 6 semanas. Los cultivos para bacterias, hongos y micobacterias del exudado de drenaje resultaron ser negativos. No obstante, tras la resolución de la lesión nodular, persistieron unas telangiectasias residuales en el área afecta, que se han ido atenuando lentamente durante los 10 meses de seguimiento. Aconsejamos revisiones a la paciente hasta la resolución completa del proceso y alertamos sobre la necesidad de consultar ante la aparición de síntomas o signos clínicos sugerentes de rosácea ocular (sequedad o enrojecimiento ocular, blefaritis, chalazion, fotofobia, pérdida de agudeza visual).
+Remitido por: Dra. Luz Belén Zambrano Centeno. Correo electrónico: bezamce@yahoo.es.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="29" end="33" text="Laia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="46" end="59" text="Martinez Rico" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="66" end="73" text="7086454" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T15" start="86" end="108" text="Calle Sangenjo, 27, 3D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="132" end="138" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="144" end="149" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="193" end="203" text="13/05/2010" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="211" end="217" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="225" end="231" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="238" end="239" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="259" end="269" text="21/11/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="279" end="305" text="Luz Belén Zambrano Centeno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="313" end="324" text="28 28 65802" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="343" end="347" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T4" start="351" end="357" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="985" end="991" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="1970" end="1996" text="Luz Belén Zambrano Centeno" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T2" start="2018" end="2034" text="bezamce@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

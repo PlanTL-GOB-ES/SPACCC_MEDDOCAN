@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Dilcia.
+Apellidos: Morán Romero.
+NHC: 8395712.
+NASS: 78 32456780 45.
+Domicilio: C/ Melchor Fernández Almagro, 3.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 07/08/1956.
+País de nacimiento: España.
+Edad: 56 años Sexo: H.
+Fecha de Ingreso: 08/04/2013.
+Médico: Sara Llorente González NºCol: 28 28 47136.
+Informe clínico del paciente: Mujer de 56 años, diagnosticada hace 11 años de MNO primario del ojo derecho (OD). En la exploración presentaba proptosis unilateral con edema blando palpebral, ingurgitación conjuntivo-escleral por compromiso del drenaje venoso orbitario, restricción en las ducciones del OD y diplopía binocular en elevación, levo y dextroversiones, pupilas isocóricas y normorreactivas y presión intraocular (PIO) de 16 mmHg en ambos ojos. La agudeza visual (AV) inicial era de la unidad. En la funduscopía (FO) la papila del OD aparecía hiperémica y ligeramente sobreelevada. Las pruebas de imagen identificaron una lesión compatible con MNO intraconal que fue confirmado mediante biopsia. Dada la benignidad y la AV, se optó por la observación, junto con resonancia magnética (RM) y campo visual (CV) cada 6 meses.
+Tras 4 años de seguimiento apareció un escotoma periférico inferior en OD, deterioro de AV y elevación de PIO hasta 24-25 mm Hg, controlándose con betabloqueante y latanoprost tópicos. Un año después, la AV OD era 0,3, la PIO 20 mm Hg (con tratamiento) y el CV y el FO habían empeorado significativamente. Dada la progresión, se decidió tratamiento con RFE (dosis total de 50 Gy en 30 fracciones de 1,67 Gy), finalizándolo con AV OD de 0,1.
+El CV, el FO y la AV fueron recuperándose gradualmente (AV OD de 1, 38 meses después del tratamiento); sin embargo, el edema palpebral, la proptosis y la ingurgitación no se han modificado, la diplopía binocular es estable y bien tolerada y la PIO está controlada con tratamiento.
+Responsable clínico: Dra. Sara Llorente González Servicio de Oftalmología. Hospital Universitario La Paz Paseo de la Castellana, 261 28046 Madrid España E-mail: sarallog@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="34" text="Dilcia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="59" text="Morán Romero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="66" end="73" text="8395712" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="81" end="95" text="78 32456780 45" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="108" end="139" text="C/ Melchor Fernández Almagro, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="163" end="169" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="175" end="180" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="224" end="234" text="07/08/1956" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="270" end="277" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="284" end="285" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="305" end="315" text="08/04/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="325" end="347" text="Sara Llorente González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="355" end="366" text="28 28 47136" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="398" end="403" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="407" end="414" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1949" end="1971" text="Sara Llorente González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1998" end="2027" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2028" end="2055" text="Paseo de la Castellana, 261" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2056" end="2061" text="28046" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2062" end="2068" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2069" end="2075" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2084" end="2104" text="sarallog@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

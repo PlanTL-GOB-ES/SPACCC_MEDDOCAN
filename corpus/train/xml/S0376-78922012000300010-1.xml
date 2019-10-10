@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Antonella .
+Apellidos: Rocuzzo Asnicar.
+NHC: 987544.
+Domicilio: Córdoba 2554, Santa Fe.
+Localidad/ Provincia: Rosario.
+CP: S2000.
+Datos asistenciales.
+Fecha de nacimiento: 23/05/1966.
+País: Argentina.
+Edad: 51 años Sexo: Femenino.
+Fecha de Ingreso: 21/10/2017.
+Médico: Ernesto A. Moretti.
+Motivo de ingreso: Mujer de 51 años de edad que consulta por tumoración en párpado superior izquierdo recidivada, indolora, perceptible al tacto y de consistencia firme. Se constata además la existencia de blefarochalasia asociada y bolsas palpebrales.
+Historia Actual: La paciente refiere antecedentes de extirpación transconjuntival de chalazión 2 años antes, con recurrencia de la lesión al poco tiempo. 
+Padre fallecido a los 65 años de edad, diagnosticado a los 64 de cáncer de pulmón e hígado metastásico.
+Madre fallecida a los 48 años de edad por tumor cerebral.
+Antonella no tiene hermanos.
+Pruebas complementarias: El examen funcional ocular es normal.
+Solicitamos para su estudio TAC con contraste del macizo facial en la que encontramos una formación sólida en la región súpero-externa de la órbita, sin compromiso del globo ocular, con el dagnóstico de presunción de tumor de glándula lagrimal.
+Evolución y comentarios: Decidimos, de acuerdo con la paciente, llevar a cabo la resección quirúrgica del tumor y al mismo tiempo practicar blefaroplastia estética superior e inferior asociada.
+El hallazgo intraoperatorio de la lesión fue de una formación palpebral izquierda de 1 x 0,8 x 0,5 cm de diámetro, de superficie lisa y consistencia elástica, que no invadía estructuras oculares y que pudimos extirpar por completo. La blefaroplastia superior se realizó según técnica clásica y la inferior por vía transconjuntival, con extirpación de bolsas palpebrales tanto superiores como inferiores.
+La evolución postoperatoria de la paciente fue buena, sin complicaciones, con un resultado estético muy satisfactorio y sin recidiva tumoral después de 12 meses de control.
+El estudio anatomopatológico de la pieza de resección informó que se trataba de un tumor benigno, no infiltrativo, con cápsula bien definida, constituído por fascículos de células fusiformes dispuestas en patrón verticilado o arremolinado alternando con áreas más laxas (patrones Antoni A y B respectivamente); sin signos de atipía. Inmunológicamente, la proteína S-100 fue positiva confirmando el diagnóstico de schwannoma de párpado.
+Remitido por: Dr. Ernesto A. Moretti. Avenida de Italia 1460, 2000, Rosario. Argentina e-mail: contacto@esteticacentrum.com.ar
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="8" end="17" text="Antonella" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="31" end="46" text="Rocuzzo Asnicar" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="53" end="59" text="987544" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T17" start="72" end="94" text="Córdoba 2554, Santa Fe" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="118" end="125" text="Rosario" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="131" end="136" text="S2000" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="180" end="190" text="23/05/1966" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="198" end="207" text="Argentina" TYPE="PAIS" comment=""/>
+    <AGE id="T1" start="215" end="222" text="51 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="229" end="237" text="Femenino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="257" end="267" text="21/10/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="277" end="295" text="Ernesto A. Moretti" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="316" end="321" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="325" end="332" text="51 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T21" start="705" end="710" text="Padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T23" start="727" end="734" text="65 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T24" start="764" end="766" text="64" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T22" start="809" end="814" text="Madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T25" start="831" end="838" text="48 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T26" start="867" end="876" text="Antonella" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T27" start="886" end="894" text="hermanos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2429" end="2447" text="Ernesto A. Moretti" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2449" end="2471" text="Avenida de Italia 1460" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2473" end="2477" text="2000" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2479" end="2486" text="Rosario" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2488" end="2497" text="Argentina" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="2506" end="2537" text="contacto@esteticacentrum.com.ar" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

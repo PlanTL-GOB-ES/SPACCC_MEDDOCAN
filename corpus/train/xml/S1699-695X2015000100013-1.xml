@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Diego.
+Apellidos: Martel Rodriguez.
+NHC:  6501650.
+NASS: 26 72742054 78.
+Domicilio: Calle Fuencarral 54.
+Localidad/ Provincia: Madrid.
+CP: 28004.
+Datos asistenciales.
+Fecha de nacimiento: 21/12/1995.
+País: España.
+Edad: 22 años Sexo: H.
+Fecha de Ingreso: 30/05/2018.
+Servicio: Consulta de AP.
+Episodio: 2967890.
+Médico: Concepción Cuenca González NºCol: 28 28 97458.
+Historia Actual: Varón de 22 años de edad que acude a la consulta de Atención primaria (AP) tras la realización de un ECG en la consulta de Atención Primaria requerido previo a viaje al extranjero para cursar estudios en una universidad privada del Reino Unido se objetiva una onda T negativa generalizada de V2 a V6 y en cara inferior, con extrasístoles ventriculares aislados.
+Antecedentes: antecedentes personales de soplo funcional en la infancia, rinitis alérgica estacional, fumador de 10 cigarrillos diarios y bebedor de fines de semana. Antecedentes familiares sin interés.
+Exploración física: En la exploración física presenta cifras tensionales de 140/70 mm Hg, auscultación cardiopulmonar normal a 60 latidos por minuto sin otros datos de interés. Con dichos hallazgos electrocardiográficos es derivado a la consulta de Cardiología.
+Resumen de pruebas complementarias: Los estudios complementarios solicitados desde AP son normales (analítica con hemograma, bioquímica y coagulación; radiografía de tórax lateral y posteroanterior). El ecocardiograma detecta una dilatación importante del ventrículo derecho (55 mm), con cara lateral hipoquinética así como una insuficiencia tricuspídea leve. El holter evidencia un ritmo sinusal y un marcapasos auricular migratorio con extrasistolia ventricular frecuente y algún triplete ventricular. La RNM cardíaca muestra un ventrículo derecho con aumento de tamaño e hipertrofia de banda moderadora con pared fina con algunas áreas hiperintensas en su interior sugerentes de infiltración grasa, con pequeñas saculaciones discinéticas. El ventrículo izquierdo, válvulas y pericardio son normales.
+Evolución y comentarios: Con la sospecha diagnóstica de MAVD se instaura tratamiento con betabloqueantes. El paciente permaneció asintomático siguiendo controles periódicos. Con posterioridad a su vuelta a España dos años después, tras jugar un partido de baloncesto, desarrolla un cuadro sincopal, por lo que finalmente se decide realizarle implantación de un DAI. Al mes del ingreso se remite al Servicio de Rehabilitación para valorar comenzar un Programa de Rehabilitación Cardiaca (PRC). El paciente sigue una vida activa en la actualidad, un año después, con seguimiento desde Atención Primaria y revisiones por Cardiología.
+Remitido por: Concepción Cuenca González Avda. Martín Lagos, s/n C.P. 28045 - Madrid (España) Correo electrónico: cuchacuenca@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="29" end="34" text="Diego" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="47" end="63" text="Martel Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="71" end="78" text="6501650" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="86" end="100" text="26 72742054 78" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="113" end="132" text="Calle Fuencarral 54" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="156" end="162" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="168" end="173" text="28004" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="217" end="227" text="21/12/1995" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="235" end="241" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="249" end="256" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="263" end="264" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="284" end="294" text="30/05/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T12" start="332" end="339" text="2967890" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T11" start="349" end="375" text="Concepción Cuenca González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="383" end="394" text="28 28 97458" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="413" end="418" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="422" end="429" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T7" start="645" end="656" text="Reino Unido" TYPE="PAIS" comment=""/>
+    <NAME id="T6" start="2688" end="2714" text="Concepción Cuenca González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2715" end="2738" text="Avda. Martín Lagos, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2744" end="2749" text="28045" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2752" end="2758" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2760" end="2766" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2788" end="2809" text="cuchacuenca@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Ezequiel.
+Apellidos: Lopez Pereira.
+NHC: 7856544.
+NASS: 78 45678567 05.
+Domicilio: C/ Vinuesa, 4, 6 A.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 23/08/1957.
+País de nacimiento: España.
+Edad: 60 años Sexo: H.
+Fecha de Ingreso: 29/12/2017.
+Médico: Luis Roberto León  NºCol: 28 28 57103.
+Informe clínico del paciente: Paciente varón de 60 años, con síndrome de Alport, microhematuria y proteinuria de 4 g/día, creatinina de 2 mg/dl, urea 123 mg/dl, pérdida moderada de la audición, hipertensión arterial tratada con enalapril 20 mg, obesidad con IMC = 36,26 (P 120 kg, h 1,81 m), glucemias en ayunas alteradas (menor a 126 mg/dl), Hb glucosilada normal, dislipidemia e hiperuricemia en tratamiento. Ex-fumador de un paquete al día. Normotiroideo. Biopsia renal (realizada en 1995): MO (12 glomérulos) esclerosis focal y segmentaria glomerular en evolución a glomerulopatía esclerosante, IF con Ig M de leve intensidad en mesangio e IgA y M en cilindros tubulares. ME 2 glomérulos. MB capilar con engrosamiento irregular y desdoblamiento focal de la lámina densa. Podocitos con fusión total de pedicelos. En un sector, borramiento de la estructura glomerular con depósito de abundante material amorfo, electrón denso. Las alteraciones de la lámina densa son compatibles con enfermedad de Alport, el resto de los hallazgos con glomerulonefritis esclerosante focal. Ecografía renal: RD 95,6 x 52 x 53, RI 99 x 51 x 52. Doppler renal sin alteraciones.
+Se indica dieta baja en proteínas, hipocalórica y se agrega al tratamiento losartán en dosis de 75 mg/día (máxima tolerada por el paciente). Se observa reducción muy leve de proteinuria a 3,6 g/día. Se realiza cirugía de by-pass gástrico, y presenta en su evolución disminución de 35 kg en total, llegando a IMC de 25,6. Control nefrológico: creatinina 1,56 mg/dl, proteinuria 0,3 g/día, urea 65 mg/dl y normotensión con enalapril 5 mg/d; se mantiene dosis mínima de hipolipemiantes, normouricemia y normoglucemias.
+Antecedentes familiares:
+Hermano mayor de 65 años con nefropatía e hipoacusia neurosensorial bilateral y síndrome de Alport.
+Hermano menor de 58 años también con nefropatía e hipoacusia y síndrome de Alport.
+Hermana de 55 años de edad con nefropatía sin hipoacusia.
+Tío materno fallecido a los 60 años de edad por nefropatía de causa no aclarada y sin hipoacusia, que además ha tenido un hijo varón y una nieta con nefropatía sin hipoacusia.
+Madre con nefropatía desde la infancia con posible síndrome de Alport. 
+Según comenta, dos primos hermanos de 67 años y 62 años de edad respectivamente, con diagnóstico clínico de hemocromatosis hereditaria.
+Tres años después de la cirugía, la buena evolución del paciente está relacionada con el cumplimento del tratamiento (dieta), ejercicio aeróbico y apoyo clínico-psicológico.
+Responsable clínico: Dr. Luis Roberto León, Email: lleon@intramed.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="28" end="36" text="Ezequiel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="49" end="62" text="Lopez Pereira" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="69" end="76" text="7856544" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="84" end="98" text="78 45678567 05" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="111" end="129" text="C/ Vinuesa, 4, 6 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="153" end="159" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="165" end="170" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="214" end="224" text="23/08/1957" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="246" end="252" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="260" end="267" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="274" end="275" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="295" end="305" text="29/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="315" end="332" text="Luis Roberto León" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="341" end="352" text="28 28 57103" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="393" end="398" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T4" start="402" end="409" text="60 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T1" start="841" end="845" text="1995" TYPE="FECHAS" comment=""/>
+    <OTHER id="T20" start="2055" end="2068" text="Hermano mayor" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T22" start="2072" end="2079" text="65 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T21" start="2155" end="2168" text="Hermano menor" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T23" start="2172" end="2179" text="58 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T24" start="2238" end="2245" text="Hermana" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T25" start="2249" end="2256" text="55 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T26" start="2296" end="2307" text="Tío materno" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T27" start="2324" end="2331" text="60 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T28" start="2418" end="2428" text="hijo varón" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T33" start="2431" end="2439" text="una niet" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T29" start="2472" end="2477" text="Madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T30" start="2559" end="2578" text="dos primos hermanos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T31" start="2582" end="2589" text="67 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T32" start="2592" end="2599" text="62 años" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2879" end="2896" text="Luis Roberto León" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T2" start="2905" end="2923" text="lleon@intramed.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

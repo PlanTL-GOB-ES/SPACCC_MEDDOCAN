@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre: Rafael .
+Apellidos: Calvo Martin .
+CIPA: nhc-123789.
+NASS: 85 29634782 33.
+Domicilio: Calle Correo 29, 5,1.
+Localidad/ Provincia: Tolosa, Gipuzkoa.
+CP: 20400.
+       NHC: 123789.
+Datos asistenciales.
+Fecha de nacimiento: 01/01/1979.
+País: España.
+Edad: 40  Sexo: H.
+Fecha de Ingreso: 25/07/2015.
+Especialidad: Oncología.
+Médico: Raquel Santesteban Muruzábal     NºCol: 31-20-25896.
+Motivo de ingreso: .
+Antecedentes: sin antecedentes de interés
+Historia Actual:Varón de 40 años,, que fue estudiado en la consulta de medicina interna por presentar masa inguinoescrotal izquierda dolorosa a la palpación de dos meses de evolución, sin pérdida de peso ni síndrome miccional.
+Exploración física y pruebas complementarias: A la exploración, los tests eran de tamaño y consistencia normales, con un cordón espermático izquierdo moderado y muy doloroso. La ecografía testicular fue normal. La CT de abdomen-pelvis reveló masa de 6 x 3 centímetros en el trayecto del cordón espermático izquierdo sin objetivarse imágenes de afectación retroperitoneal. Fue intervenido encontrándose una masa en cordón espermático y realizándose biopsia intraoperatoria informada como proliferación neoplásica de aspecto miofibroblástico no linfomatosa, por lo que se realizó orquiectomía radical izquierda reglada. La anatomía patológica fue de rabdomiosarcoma pleomórfico del cordón espermático, teste y epidídimo normales y negatividad de los márgenes de resección.
+Diagnóstico Principal:  tumor paratesticular izquierdo.
+Tratamiento: ciclos de quimioterapia con adriamicina e ifosfamida + MESNA.
+Remitido por: Raquel Santesteban Muruzábal C/ Irunlarrea, 3 31008 Pamplona. Navarra Email: raquel.santesteban@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="15" text="Rafael" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="29" end="41" text="Calvo Martin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="54" end="60" text="123789" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="68" end="82" text="85 29634782 33" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="95" end="115" text="Calle Correo 29, 5,1" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="139" end="145" text="Tolosa" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="147" end="155" text="Gipuzkoa" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="161" end="166" text="20400" TYPE="TERRITORIO" comment=""/>
+    <ID id="T21" start="180" end="186" text="123789" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="230" end="240" text="01/01/1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="248" end="254" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="262" end="264" text="40" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="272" end="273" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="293" end="303" text="25/07/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="338" end="366" text="Raquel Santesteban Muruzábal" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="378" end="389" text="31-20-25896" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="470" end="475" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="479" end="486" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="1597" end="1625" text="Raquel Santesteban Muruzábal" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1626" end="1642" text="C/ Irunlarrea, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1643" end="1648" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1649" end="1657" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1659" end="1666" text="Navarra" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1674" end="1704" text="raquel.santesteban@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

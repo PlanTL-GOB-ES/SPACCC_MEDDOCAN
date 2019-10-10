@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Antonio.
+Apellidos: Perez Garcia .
+NHC: 7342574.
+NASS: 39 83589066 51.
+Domicilio: C/ Las Avenidas, 56, 7 D.
+Localidad/ Provincia: Santander.
+CP: 39008.
+Datos asistenciales.
+Fecha de nacimiento: 05/04/1977.
+País de nacimiento: España.
+Edad: 39 años Sexo: M.
+Fecha de Ingreso: 10/08/2016.
+Servicio: Urología.
+Episodio: 7842659.
+Médico: Roberto Ballestero Diego NºCol: 39 39 25547.
+Historia Actual: Paciente de 39 años VIH positivo, categoría C3, que consultó en urgencias de nuestro hospital por dolor abdominal. Presentaba adenopatías cervicales bilaterales por infección por Mycobacterium, de la cual se encontraba en tratamiento. El dolor abdominal había comenzado ocho horas antes en el epigastrio y posteriormente se localizó en fosa iliaca derecha. 
+Exploración física: La exploración física reveló ligera distensión abdominal con signos de irritación peritoneal.
+Pruebas complementarias: La única alteración encontrada en el análisis de sangre fue una leve leucocitosis (11,70 x 103/mL) con neutrofilia (78%). La bilirrubina, amilasa, y enzimas hepáticas eran normales. En la ecografía abdominal se observó la presencia de hepatomegalia, esplenomegalia y adenopatías peripancreáticas, paraaórticas y celiacas. No se visualizó el apéndice ni líquido libre peritoneal. El paciente fue intervenido con el diagnóstico clínico de apendicitis aguda. En la exploración quirúrgica el apéndice era macroscópicamente normal, no se observaron adenopatías y se realizó una apendicectomía. El postoperatorio inmediato transcurrió sin incidencias y el paciente fue dado de alta 48 horas después. El estudio histopatológico de la pieza demostró la presencia de leishmanias en el apéndice y en dos ganglios del mesoapéndice. Con este resultado se inició tratamiento médico de la Leishmaniasis.
+Responsable clínico: Dr. Roberto Ballestero Diego Servicio de Urología Hospital Universitario Marqués de Valdecilla Avenida de Valdecilla s/n 39008 Santander (España) rbdballestero@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="35" text="Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="48" end="60" text="Perez Garcia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="68" end="75" text="7342574" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="83" end="97" text="39 83589066 51" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="110" end="134" text="C/ Las Avenidas, 56, 7 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="158" end="167" text="Santander" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="173" end="178" text="39008" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="222" end="232" text="05/04/1977" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="254" end="260" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="268" end="275" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="282" end="283" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="303" end="313" text="10/08/2016" TYPE="FECHAS" comment=""/>
+    <ID id="T10" start="345" end="352" text="7842659" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T9" start="362" end="386" text="Roberto Ballestero Diego" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="394" end="405" text="39 39 25547" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T12" start="436" end="443" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1836" end="1860" text="Roberto Ballestero Diego" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1882" end="1926" text="Hospital Universitario Marqués de Valdecilla" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1927" end="1952" text="Avenida de Valdecilla s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1953" end="1958" text="39008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1959" end="1968" text="Santander" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1970" end="1976" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1978" end="2000" text="rbdballestero@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

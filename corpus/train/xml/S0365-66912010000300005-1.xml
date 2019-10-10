@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan.
+Apellidos: Zabala de Jaime.
+NHC: 7648392.
+NASS: 74 25670384 24.
+Domicilio: C/ el Antiguo, 24, 3 A.
+Localidad/ Provincia: Donostia-San Sebastián.
+CP: 20002.
+Datos asistenciales.
+Fecha de nacimiento: 09/02/1934.
+País de nacimiento: España.
+Edad: 80 años Sexo: H.
+Fecha de Ingreso: 16/07/2014.
+Servicio: Oftalmologia.
+Episodio: 7425607.
+Médico: Javier Gros Otero NºCol: 20 20 54710.
+Motivo de ingreso: Varón de 80 años que acude a urgencias por presentar disminución de agudeza visual (AV) del ojo derecho (OD) de 2 días de evolución.
+Antecedentes: Entre sus antecedentes médicos destacan: hipertensión y dislipemia en tratamiento, bronquitis crónica y un accidente isquémico transitorio que obligaba a antiagregación con aspirina.
+Exploración: La exploración oftalmológica en la urgencia es la siguiente. AV por OD: percepción de luz (PL); por ojo izquierdo (OI): 1; defecto pupilar aferente del OD 3+/4+; presión intraocular OD: 16; OI: 17; la biomicroscopía es normal y en la funduscopia se observa una hemorragia subretiniana de 6 × 10 diámetros papilares a nivel del polo posterior, incluida el área macular.
+Pruebas complementarias: Se realiza una angiofluoresceingrafía (AFG) en la que se confirma la localización subretiniana de esta hemorragia, junto con una zona hiperfluorescente yuxtafoveolar inferior en tiempos tardíos que indica la presencia de una membrana neovascular (MNV) a ese nivel.
+Dos días después se inyectan, de forma intravítrea, 25 μg de r-TPA en un volumen de 0,1 ml, seguidos de una inyección de 0,3 ml de hexafluoruro de azufre (SF6) puro y una paracentesis evacuadora de cámara anterior de 0,2 ml.
+A los 3 días acude a revisión y se observa que la sangre se ha desplazado parcialmente del polo posterior, junto a zonas de fibrina.
+Evolución: Un mes después de este procedimiento, acude de nuevo a revisión con una AV de 0,05 y en la funduscopia una disminución de la hemorragia, persistiendo la sangre en el ámbito macular y fibrina en la zona inferior.
+Un mes más tarde, el paciente acude a revisión y en la funduscopia se observa una hemorragia subretiniana de extensión similar a la que presentó al diagnóstico, por lo que es diagnosticado de DMAE hemorrágica y se pauta un ciclo de 3 dosis de ranibizumab intravítreo.
+Después del ciclo de ranibizumab, acude a revisión al hospital y presenta una AV por el OD de PL y por el OI de 1. En la funduscopia se observa la presencia de hemovítreo que impide una visualización adecuada de las estructuras del polo posterior.
+En el momento actual sigue en estudio para valorar el siguiente escalón terapéutico.
+Responsable clínico: Dr. Javier Gros Otero. Correo electrónico: juangros@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="28" end="32" text="Juan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="45" end="60" text="Zabala de Jaime" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="67" end="74" text="7648392" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="82" end="96" text="74 25670384 24" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="109" end="131" text="C/ el Antiguo, 24, 3 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="155" end="177" text="Donostia-San Sebastián" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="183" end="188" text="20002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="232" end="242" text="09/02/1934" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="264" end="270" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="278" end="285" text="80 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="292" end="293" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="313" end="323" text="16/07/2014" TYPE="FECHAS" comment=""/>
+    <ID id="T7" start="359" end="366" text="7425607" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T6" start="376" end="393" text="Javier Gros Otero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="401" end="412" text="20 20 54710" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="433" end="438" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="442" end="449" text="80 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="2642" end="2659" text="Javier Gros Otero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2681" end="2699" text="juangros@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

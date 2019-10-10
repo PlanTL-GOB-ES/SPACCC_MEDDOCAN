@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Antonio.
+Apellidos: Diaz Miguel.
+NHC: 78946531.
+NASS: 32 12805950 04.
+Domicilio: Calle de la Paloma, 4.
+Localidad/ Provincia: Ciudad Real.
+CP: 13005.
+Datos asistenciales.
+Fecha de nacimiento: 12/01/1960.
+País: España.
+Edad: 58 años Sexo: M.
+Fecha de Ingreso: 10/05/2018.
+Episodio: 135445644.
+Médico: Jorge Ortega-Carnicer  NºCol: 28 13 16455.
+Motivo de ingreso: Mujer que acudió al hospital por dolor en el hueco poplíteo y vómitos de 48 horas de duración.
+Antecedentes: Sus antecedentes incluían DM, hipertensión arterial, dislipidemia, hiperuricemia, insuficiencia cardíaca congestiva y depresión.
+Exploración física: Al ingreso las constantes vitales fueron normales y la exploración mostró signos de trombosis venosa profunda. 
+Resumen de pruebas complementarias: La analítica sanguínea mostró normalidad iónica, hematológica y de la función renal y hepática. La enferma fue diagnosticada de trombosis venosa profunda de las extremidades inferiores mediante ecografía y recibió tratamiento con insulina NPH, metformina (850 mg/12 horas), enoxaparina, torasemida, enalaprilo, clorazepato dipotásico, alopurinol, mirtazapina y digoxina. 
+Evolución y comentarios: Durante los primeros dos días la enferma continuó con vómitos y sin apenas ingerir líquidos y, 24 horas más tarde, refirió dolor abdominal con astenia, vómitos, trastornos visuales y oliguria. Al quinto día de ingreso la paciente sufrió una parada cardíaca por fibrilación ventricular y, tras ser resucitada por el médico intensivista, quedó midriática, anúrica y con una puntuación de 3 en la escala de Glasgow. La presión arterial fue de 120/45 mmHg (con noradrenalina), la frecuencia cardíaca de 115 latidos/ minuto y la temperatura de 36º C. Los datos analíticos más significativos se muestran en la tabla 2. Durante las primeras horas recibió fluidos, 500 mEq de bicarbonato sódico y noradrenalina, con lo que reinició diuresis, pero la gasometría arterial no mejoró (pH de 6,90 y bicarbonato 7,1 mEq/l). La realización de una sesión de hemodiálisis mejoró la acidosis metabólica (pH de 7,28 y bicarbonato de 16 mEq/l) y la hiperpotasemia (5,2 mEq/l). Tras superar una neumonía por aspiración la paciente se trasladó a planta en situación de estado vegetativo y falleció al decimonoveno día del ingreso.
+Remitido por: Dr. Jorge Ortega-Carnicer. Av. de Los Alisos, 10. 13002 Ciudad Real. Correo electrónico: jortegacar@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="8" end="15" text="Antonio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="28" end="39" text="Diaz Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="46" end="54" text="78946531" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="62" end="76" text="32 12805950 04" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="89" end="110" text="Calle de la Paloma, 4" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="134" end="145" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="151" end="156" text="13005" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="200" end="210" text="12/01/1960" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="218" end="224" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="232" end="239" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="246" end="247" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="267" end="277" text="10/05/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T9" start="289" end="298" text="135445644" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T8" start="308" end="329" text="Jorge Ortega-Carnicer" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="338" end="349" text="28 13 16455" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="370" end="375" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="2300" end="2321" text="Jorge Ortega-Carnicer" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2323" end="2344" text="Av. de Los Alisos, 10" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2346" end="2351" text="13002" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2352" end="2363" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2385" end="2405" text="jortegacar@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

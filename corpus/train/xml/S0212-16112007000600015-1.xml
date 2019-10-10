@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Andrea Sofia.
+Apellidos: Perez Lopez.
+NHC: 139587451/23.
+Domicilio: Plaza del Valle, Av Nereo Rodríguez Barragán 1380.
+Localidad/ Provincia: SAN LUIS POTOSI.
+CP: 78040.
+Datos asistenciales.
+Fecha de nacimiento: 30/04/1998.
+País: México.
+Edad: 19 años Sexo: Mujer.
+Fecha de Ingreso: 15/09/2017.
+Servicio: Medicina interna.
+Médico: Gilberto Fabián Hurtado Torres.
+Historia Actual: Mujer de 19 años de edad cursando su primer embarazo intrauterino, con diagnóstico de muerte cerebral posterior a intento suicida mediante herida por proyectil de arma de fuego a nivel occipital derecho.
+Mediante ultrasonografía se corrobora la presencia de producto vivo de 19,6 semanas de gestación sin malformaciones macroscópicas. La familia de la paciente solicita continuar maniobras de apoyo vital avanzadas con fines de salvar al producto y eventualmente considerar a la madre como donante potencial de órganos. El comité de ética de la institución decide continuar con el apoyo vital básico y somático.
+Una vez lograda estabilidad hemodinámica; se inició manejo por el Servicio de Nutrición destacándose la importancia del apoyo nutricio con fines de promover el crecimiento y desarrollo del producto. En la 20,3 semana de gestación se inició apoyo nutricio y metabólico mixto, por vía enteral y parenteral. Se estimó el Gasto Energético en Reposo (GER) mediante la fórmula de predicción de Harris-Benedict, agregándose el componente energético y proteico teórico establecido para la edad gestacional. Se incrementó el aporte energético y proteico de manera gradual y paulatina conforme monitorización bioquímica con fines de prevenir comportamiento de síndrome de realimentación. Posterior a 5 días de aporte mixto y una vez establecida la tolerancia y adecuación nutricia por vía enteral se suspendió el apoyo por vía parenteral. 
+Se mantuvo aporte enteral a requerimientos totales de macro como micronutrimentos mediante una mezcla de fórmula polimérica estándar, fórmula alta en proteínas y modulares de oligoelementos.
+Se estableció una edad gestacional mínima de 24 a 26 semanas para considerar la posibilidad de vida extrauterina conforme informes previos en la literatura.
+Se monitorizó de manera seriada el peso del producto de la gestación por medio de ultrasonido semanal y vigilancia del bienestar fetal por medición del perfil biofísico. La relación entre la ganancia ponderal del producto por ultrasonido y el aporte energético se muestran en la figura 1.
+Se mantuvo estabilidad hemodinámica, ventilatoria, y metabólica con las medidas habituales de manejo sin evidencia de actividad uterina o sufrimiento fetal por monitorización tocográfica durante 22 días.
+De manera súbita, el día 23 de estancia en UCI (22,4 semanas de gestación, 12º día de apoyo nutricio), presentó descontrol hipertensivo con actividad uterina y sangrado transvaginal. El ultrasonido obstétrico demostró desprendimiento placentario y muerte fetal.
+Con la pérdida del producto y de acuerdo a los propósitos establecidos para continuar manejo vital y somático en UCI, se procedió explantación de los órganos de la madre con fines de donación (hígado, corazón, riñón y córnea).
+La autopsia fetal mostró un producto varón con peso de 450 g. Edad macroscópica de 23 semanas de gestación, sin evidencia de malformaciones.
+Remitido por: Gilberto Fabián Hurtado Torres. Servicio de Medicina Interna. Hospital Central Dr. Ignacio Morones Prieto. Av. V. Carranza No. 2395. CP. 78210. Zona Universitaria. San Luis Potosí SLP México. E-mail: gilbertohurtado@medscape.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="21" text="Andrea Sofia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="34" end="45" text="Perez Lopez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="52" end="64" text="139587451/23" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T20" start="77" end="126" text="Plaza del Valle, Av Nereo Rodríguez Barragán 1380" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="150" end="165" text="SAN LUIS POTOSI" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="171" end="176" text="78040" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="220" end="230" text="30/04/1998" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="238" end="244" text="México" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="252" end="259" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="266" end="271" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="291" end="301" text="15/09/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="339" end="369" text="Gilberto Fabián Hurtado Torres" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="388" end="393" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="397" end="404" text="19 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="726" end="733" text="familia" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="3315" end="3345" text="Gilberto Fabián Hurtado Torres" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="3377" end="3420" text="Hospital Central Dr. Ignacio Morones Prieto" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="3422" end="3446" text="Av. V. Carranza No. 2395" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="3452" end="3457" text="78210" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="3479" end="3494" text="San Luis Potosí" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3495" end="3498" text="SLP" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3499" end="3505" text="México" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="3515" end="3543" text="gilbertohurtado@medscape.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

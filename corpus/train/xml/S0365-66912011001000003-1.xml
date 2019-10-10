@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Marta.
+Apellidos: Soares Tosti.
+NHC: 678910.
+NASS: 56 62764432 65.
+Domicilio: Calle de Ayala 27.
+Localidad/ Provincia: Madrid.
+CP: 28001.
+Datos asistenciales.
+Fecha de nacimiento: 15/03/2008.
+País: España.
+Edad: 9 años Sexo: M.
+Fecha de Ingreso: 21/10/2017.
+Servicio: Oftalmologia.
+Médico: Adrian  Muñoz Hernández NºCol: 28 28 15974.
+Historia del paciente: niña de 9 años de edad que refería visión borrosa. Su agudeza visual era de 0,2 y 0,3 según el optotipo de Snellen, respectivamente. Se determinó su refracción bajo cicloplejía para descartar defectos refractivos, siendo de + 0,75 en ambos ojos. El resto de la exploración oftalmológica fue normal, con una estereopsis de 60"-40". Al profundizar en la anamnesis se averiguó que se trataba de una niña adoptada a los 7 años de edad. Mientras se encontraba dibujando en la consulta se observó que se manejaba sin dificultad, incluso dilatada, por lo que los síntomas parecían desproporcionados y se sospecho una simulación. Se recurrió a la prueba del espejo, resultando ver la línea 0,4 con ambos ojos. Considerando que los espejos planos tienen la propiedad de duplicar las distancias, su agudeza real se correspondería con 0,8. Se comentó el caso con los padres y se decidió realizar revisiones periódicas. Su agudeza mejoró a la unidad con ambos ojos a los 3 meses.
+Remitido por: Adrian  Muñoz Hernández Correo electrónico: ammh.humanes@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T7" start="8" end="13" text="Marta" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="26" end="38" text="Soares Tosti" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T5" start="45" end="51" text="678910" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T4" start="59" end="73" text="56 62764432 65" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T3" start="86" end="103" text="Calle de Ayala 27" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="127" end="133" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="139" end="144" text="28001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T21" start="188" end="198" text="15/03/2008" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T20" start="206" end="212" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T19" start="220" end="226" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T18" start="233" end="234" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="254" end="264" text="21/10/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T16" start="298" end="321" text="Adrian  Muñoz Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T15" start="329" end="340" text="28 28 15974" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T14" start="365" end="369" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="373" end="379" text="9 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T12" start="761" end="774" text="niña adoptada" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="781" end="787" text="7 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="1221" end="1227" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="1347" end="1370" text="Adrian  Muñoz Hernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T8" start="1391" end="1412" text="ammh.humanes@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Jordi.
+Apellidos: Rubio Cardona.
+NHC: 4389675.
+Domicilio: Calle de Puig, 34, 5, B.
+Localidad/ Provincia: Barcelona.
+CP: 08256.
+Datos asistenciales.
+Fecha de nacimiento: 19/12/2011.
+País: España.
+Edad: 4 años Sexo: H.
+Fecha de Ingreso: 13/02/2016.
+Médico: Josep Maria Casanovas Gordó   NºCol: 08 08 56820.
+Informe clínico del paciente: Paciente de 4 años que acude a la consulta por cansancio, siendo la exploración normal; 5 días después, tiene un exantema urticariforme en extremidades inferiores que ha desaparecido al llegar a la consulta. A los 2 días de la última visita, aparece fiebre de 38,5 oC, parece que está resfriada y el cansancio se ha acentuado, persistiendo la erupción maculosa que afecta ahora ya, a extremidades inferiores, superiores y cara, aunque tampoco podemos visualizarla en el momento de la exploración.
+Exploración física: edema periorbital y palpebral más acentuado por la mañana de los últimos 3 días. Respiración bucal con obstrucción nasal, adenopatías sub-maxilares y laterocervicales llamativas, amígdalas congestivas y a la palpación abdominal esplenomegalia y hepatomegalia de 4 cm. Adenopatías inguinales llamativas de 2 cm de diámetro. Facies abotargada. No hay exantema. Neurológico normal. Temperatura axilar de 38 oC. El resto de la exploración y la auscultación cardiopulmonar es normal sin signos de insuficiencia respiratoria.
+Resultados analíticos
+- Hemograma: hematíes 4.000.000, hemoglobina 10,9 g/dl, hematocrito 31,6%, VCM 78,4. Leucocitos: 21.200 (neutrófilos 2%, segmentados 31%, linfocitos 50%, monocitos 5%, linfocitos reactivos 9%, células linfoplasmáticas 3%); plaquetas 203.400/ml.
+- Transaminasas: AST 245 y ALT 271 (mU/ml).
+- Paul Bunell: negativo.
+- Analítica de orina negativa.
+En la primera visita se realizó una radiografía de tórax y de abdomen: condensación alveolar que afecta a LSD y que corresponde a neumonía; posibles adenopatías hiliares; abdomen con moderada esplenomegalia.
+Cuatro días más tarde se repite: test de aglutinación (mononucleosis infecciosa) positivo. Hb 10,6; Htcto 31,1; VCM 78,9; leucocitos 15.400 (segmentados 27%, linfocitos 60%, monocitos 5%, linfocitos reactivos 8%); plaquetas 246.800/ml. GOT/GPT 86/114 (mU/ml). La radiografía de tórax ha mejorado respecto al control previo (condensación residual en LSD y LMD).
+Exploraciones pendientes de la primera visita: exudado faringoamigdalar: flora normal en cultivo aerobio; detección de Epstein Barr: EBV Ac antianticápside IgM 36,3 (positivo mayor de 11,5), EBV Ac IgG 51,2 (positivo mayor de 11,5).
+Radiografía de tórax 10 días después de la 1.a visita: aumento de densidad en LSD de distribución paramediastínica asociada a desplazamiento de cisura menor, lo que sugiere atelectasia segmentaria probablemente residual al proceso infeccioso.
+Diagnóstico: mononucleosis infecciosa con neumonia2-6.
+Remitido por: Josep Maria Casanovas Gordó jmcasanovas.bcn.ics@gencat.cat
+]]></TEXT>
+  <TAGS>
+    <NAME id="T16" start="28" end="33" text="Jordi" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T15" start="46" end="59" text="Rubio Cardona" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T14" start="66" end="73" text="4389675" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T13" start="86" end="109" text="Calle de Puig, 34, 5, B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T12" start="133" end="142" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T11" start="148" end="153" text="08256" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T9" start="197" end="207" text="19/12/2011" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="215" end="221" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T7" start="229" end="235" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T5" start="242" end="243" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="263" end="273" text="13/02/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="283" end="310" text="Josep Maria Casanovas Gordó" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="320" end="331" text="08 08 56820" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T6" start="375" end="381" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2881" end="2908" text="Josep Maria Casanovas Gordó" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2909" end="2939" text="jmcasanovas.bcn.ics@gencat.cat" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

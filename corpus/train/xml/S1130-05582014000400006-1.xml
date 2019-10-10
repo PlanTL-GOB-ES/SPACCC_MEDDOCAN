@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Manuel.
+Apellidos: Rivero Mendez.
+NHC: 3406565.
+NASS: 78 57634598 38.
+Domicilio: Calle la Ventilla 19, 1F.
+Localidad/ Provincia: Madrid.
+CP: 28023.
+Datos asistenciales.
+Fecha de nacimiento: 19/05/1964.
+País: España.
+Edad: 52 años Sexo: M.
+Fecha de Ingreso: 30/10/2016.
+Médico: Andrés Fernando Gagliardi Lugo  NºCol: 28 28 56984.
+Informe clinico del paciente: Se trata de un paciente masculino de 52 años de edad con antecedente médico de hipertensión arterial controlada y enfermedad renal crónica de estadio V de 6 años de evolución en hemodiálisis 3 veces por semana que inicia enfermedad cuando presenta odontalgia de incisivos inferiores, disfagia, odinofagia, aumento del volumen en la región submandibular dolorosa e hipertermia local, motivo por el cual el paciente acude a la Unidad de Cirugía Bucal y Maxilofacial del Hospital General del Oeste "Dr. José Gregorio Hernández" (CBMF-HGO); 24 h después, dadas las condiciones clínicas sistémicas del paciente y presentando leucocitosis de 27.800 U/mm3, con neutrofilia de 82,4% y creatinina en 7,5 mg/dl, se decide su ingreso.
+En el examen físico se observan escleras ictéricas, un aumento del volumen severo con predominio de la región submentoniana y submandibular bilateral y apertura bucal limitada a 15 mm aproximadamente. En el examen intrabucal se evidencia edentulismo parcial maxilomandibular, enfermedad periodontal crónica generalizada con movilidad de grado IV de 3,1 y 4,1, presencia de irritantes locales, halitosis, aumento del volumen severo del piso de la boca y espacio sublingual bilateral con glosoptosis.
+En conjunto con los servicios de Infectología y Medicina Interna se inicia un tratamiento empírico con penicilina sódica cristalina de 4.000.000 UI cada 6 h por vía intravenosa y aztreonam de 1 g por vía intravenosa con orden diaria.
+Se indica tomografía computarizada en la que se evidencia una imagen isodensa en el espacio parafaríngeo compatible con un aumento del volumen, mostrando una disminución de la luz de las vías aéreas de la región cervical y corroborando el diagnóstico de angina de Ludwig.
+En 10 d de tratamiento la evolución fue tórpida. Se realiza una reevaluación por infectología que indica vancomicina de 1 g por vía intravenosa, fármaco que causa mejoría clínica importante al paciente. Tras una estabilización sistémica del paciente se realiza una exodoncia de 3,1 y 4,1 y un drenaje quirúrgico de los espacios sublinguales, submandibulares y submentoniano que se logra a través de una incisión submentoniana y submandibular bilateral inferior al basal mandibular que permite el acceso, la comunicación y el establecimiento de 3 drenajes pasivos con sonda Nellaton para realizar 3 lavados diarios de solución salina durante 3 semanas.
+El paciente en las evoluciones posteriores al drenaje quirúrgico y al recambio de la terapia antibiótica presentó una disminución en el aumento del volumen y una estabilización de la frecuencia respiratoria. La última hematología registrada revela una serie blanca de 8.600 U/mm3, a expensas de neutrófilos (78%), hemoglobina de 9,5 g/dl, hematocrito en 32,7% y creatinina en 6,8 mg/dl. Todas estas condiciones llevaron al alta médica.
+Remitido por: Andrés Fernando Gagliardi Lugo Correo electrónico: Silverbolt86@gmail.com 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="9" end="15" text="Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="28" end="41" text="Rivero Mendez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="48" end="55" text="3406565" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="63" end="77" text="78 57634598 38" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="90" end="114" text="Calle la Ventilla 19, 1F" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="138" end="144" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="150" end="155" text="28023" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="199" end="209" text="19/05/1964" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="217" end="223" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="231" end="238" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="245" end="246" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="266" end="276" text="30/10/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="286" end="316" text="Andrés Fernando Gagliardi Lugo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="325" end="336" text="28 28 56984" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="392" end="401" text="masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="405" end="412" text="52 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T3" start="836" end="892" text="Hospital General del Oeste &quot;Dr. José Gregorio Hernández&quot;" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T2" start="894" end="902" text="CBMF-HGO" TYPE="INSTITUCION" comment=""/>
+    <NAME id="T5" start="3199" end="3229" text="Andrés Fernando Gagliardi Lugo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3250" end="3272" text="Silverbolt86@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Patricia .
+Apellidos: Gonzalez Acuña.
+NHC: 7834653.
+Domicilio: Calle La Cañada, 44 #3453.
+Localidad/ Provincia: Mexico DF.
+CP: 04030.
+Datos asistenciales.
+Fecha de nacimiento:25/08 /1965.
+País de nacimiento: México.
+Edad:46 años Sexo: M.
+Fecha de Ingreso: 13/11/2011.
+Médico:  Patricia Culebro.
+Informe clínico del paciente:  Mujer de 46 años de edad quien ingresó al hospital en marzo del 2005 por presentar una masa dolorosa en el tercio externo del párpado superior izquierdo de 6 meses de evolución, acompañada de disminución de la agudeza visual (AV) ipsilateral. La paciente refirió el desarrollo de una masa similar 15 años previos a su ingreso, la cual fue manejada exitosamente con tratamiento médico no especificado. El resto de los antecedentes sin importancia para el padecimiento actual.
+A la exploración oftalmológica se encontró una AV de 0,7 en el ojo derecho (OD) y 0,2 en el ojo izquierdo (OI). En el tercio externo del párpado superior izquierdo había una masa de 4 ¥ 3,5 cm, dolorosa acompañada de ptosis, desplazamiento inferior del globo ocular del mismo lado. Presentaba limitación a la levosupraversión del OI. La exoftalmometría con base 100 fue de 17 mm para ambos ojos. La apertura palpebral fue de 10 mm en el OD y de 4 mm en el OI. La función del músculo elevador izquierdo se encontraba limitada.
+Se solicitó una tomografía computada de ambas órbitas con cortes axial y coronal en la que se demostró una masa temporal de aspecto quístico con destrucción ósea, que invadía la órbita y desplazaba el globo ocular izquierdo hacia abajo, aparentemente dependiente del seno frontal.
+Se realizó una aspiración de la masa, de la cual se obtuvo un líquido denso de color amarillento. En un frotis de dicho contenido se encontraron escasos cocos Gram positivos en pares y cadenas, acompañados de numerosos leucocitos polimorfonucleares y abundante moco. Se inició tratamiento con ampicilina, dicloxacilina y naproxeno vía oral y sulfacetamida tópica.
+La paciente se sometió a drenaje del contenido del seno paranasal con remoción de su pared. Microscópicamente, las preparaciones teñidas con hematoxilina y eosina demostraron fragmentos revestidos por epitelio de tipo respiratorio. Por debajo del epitelio, la pared estaba formada por un estroma de tejido conectivo denso con zonas de hemorragia mezclada con cúmulos variables de infiltrado inflamatorio formados por linfocitos maduros, células plasmáticas, leucocitos polimorfonucleares y numerosos eosinófilos. Se estableció el diagnóstico de mucocele del seno frontal. La presencia de gran cantidad de eosinófilos como parte del infiltrado inflamatorio, sugirió una probable etiología de tipo alérgico o por hipersensibilidad.
+Responsable clínico: Dra. Patricia Culebro. Asociación para Evitar la Ceguera en México. Hospital Dr. Luis Sánchez Bulnes Vicente García Torres, 46. Col. San Lucas Coyoacán, C.P. 04030 México D.F. E-mail: pculebro@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="36" text="Patricia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="50" end="64" text="Gonzalez Acuña" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="71" end="78" text="7834653" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T20" start="91" end="116" text="Calle La Cañada, 44 #3453" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="140" end="149" text="Mexico DF" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="155" end="160" text="04030" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="203" end="214" text="25/08 /1965" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="236" end="242" text="México" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="249" end="256" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="263" end="264" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="284" end="294" text="13/11/2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="305" end="321" text="Patricia Culebro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="354" end="359" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="363" end="370" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="408" end="422" text="marzo del 2005" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="2756" end="2772" text="Patricia Culebro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2774" end="2817" text="Asociación para Evitar la Ceguera en México" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T6" start="2819" end="2851" text="Hospital Dr. Luis Sánchez Bulnes" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2852" end="2877" text="Vicente García Torres, 46" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2879" end="2902" text="Col. San Lucas Coyoacán" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2909" end="2914" text="04030" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2915" end="2926" text="México D.F." TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2935" end="2953" text="pculebro@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Esteban.
+Apellidos: Sanchez Piñero .
+NHC: 5678234.
+NASS: 10 87964537 08.
+Domicilio: Av. de la poveda 68, 3F.
+Localidad/ Provincia: Madrid.
+CP: 28025.
+Datos asistenciales.
+Fecha de nacimiento: 05/01/1981.
+País: España.
+Edad: 35 años Sexo: H.
+Fecha de Ingreso:24/05/2016.
+Servicio: Oftalmologia.
+Médico: Ana Maria Piñero Rodríguez  NºCol:28 28 79654.
+Motivo de ingreso: Varón de 35 años que consulta por la pérdida de visión central brusca en su ojo izquierdo. 
+Antecedentes: Entre sus antecedentes personales destaca haber pasado un resfriado común los 10 días previos al episodio.
+Exploración y pruebas complementarias: En la exploración clínica se constata una agudeza visual sin corrección (AVSC) de 0,9 en el ojo derecho, y de 0,1 en el ojo izquierdo, con metamorfopsia en este último. No se observan signos inflamatorios ni anomalías en el segmento anterior.
+El fondo de ojo izquierdo presenta un engrosamiento macular de aproximadamente 2 diámetros papilares (DP) con pequeñas hemorragias intrarretinianas. En el fondo de ojo derecho se objetiva una lesión blanco-amarillenta de un diámetro de papila, temporal inferior a la mácula. Como exploraciones complementarias se realiza una angiografía fluoresceínica (AGF) y verde de indocianina (AVI), una tomografía de coherencia óptica (OCT), una ecografía modo B, así como un análisis sanguíneo completo.
+En la AGF del OI aparece un patrón de hipofluorescencia parcheada en tiempos muy precoces, seguida de una hiperfluorescencia difusa del polo posterior con un área hiperfluorescente de 1 DP mejor delimitada y de localización subfoveal. En la AVI se observa una zona hipofluorescente de bordes mal delimitados en el polo posterior que se mantiene con los tiempos angiográficos.
+La OCT muestra una pérdida del espesor foveal por la existencia de un quiste intrarretiniano subfoveal acompañado de pequeñas áreas de desprendimiento de retina neurosensorial (DRNS) perifoveales.
+Tanto la ecografía como el estudio analítico no aportan hallazgos de interés.
+Ante esta lesión blanco-amarillenta bilateral aunque asimétrica, de origen inflamatorio y localización en la interfase coriorretiniana establecemos como probable diagnóstico una epiteliopatía placoide posterior aguda de presentación atípica.
+Evolución y comentarios: Debido a la gran pérdida de AV, se instauró tratamiento con corticoides sistémicos vía oral administrando 1mg/kg de peso de prednisona; también se prescribió un comprimido de omeprazol diario.
+A las 2 semanas el paciente acude a control refiriendo una muy discreta mejoría en su OI. La AVSC es de 0,9 y 0,15 respectivamente. En el fondo de ojo se empieza a ver un aumento de la pigmentación de las lesiones sin ningún otro signo de interés. La OCT muestra alteración del EPR subfoveal en el OI, no evidenciándose los pequeños DRNS perifoveales anteriormente descritos. Es entonces cuando se comenzó a reducir la pauta corticoidea.
+A las 5 semanas el paciente presenta una mejoría importante con una AVSC de 0,9 en su OD y 0,6 en su OI. En la Fig. 5A mostramos la cicatrización de las lesiones que corroboramos con una AGF de control.
+En el último control realizado al año del inicio del episodio, el paciente presenta una recuperación completa de su agudeza visual con 0,9 en ambos ojos sin corrección. En el fondo de ojo constatamos la hiperpigmentación de las lesiones correspondiente a la cicatrización de las mismas.
+Remitido por: Dra. Ana Maria Piñero Rodríguez pineroana@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="9" end="16" text="Esteban" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="29" end="43" text="Sanchez Piñero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="51" end="58" text="5678234" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="66" end="80" text="10 87964537 08" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="93" end="116" text="Av. de la poveda 68, 3F" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="140" end="146" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="152" end="157" text="28025" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="201" end="211" text="05/01/1981" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="219" end="225" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="233" end="240" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="247" end="248" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="267" end="277" text="24/05/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="311" end="337" text="Ana Maria Piñero Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="345" end="356" text="28 28 79654" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="377" end="382" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="386" end="393" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="3424" end="3450" text="Ana Maria Piñero Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3451" end="3472" text="pineroana@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

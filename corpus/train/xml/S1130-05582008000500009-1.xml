@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Ignacio.
+Apellidos: Tarso Lopez.
+NHC: 297586.
+NASS: 12 37582659 56.
+Domicilio: Plaza del Campo de los Patos, 7, 7B .
+Localidad/ Provincia: Oviedo, Asturias.
+CP: 33010.
+Datos asistenciales.
+Fecha de nacimiento: 30/09/1951.
+País: España.
+Edad: 64 años Sexo: H.
+Fecha de Ingreso: 21/10/2015.
+Médico: Cirugía Oral y Maxilofacial  NºCol: 33 33 62258.
+Informe Médico: Paciente varón de 64 años de edad que acudió al Servicio de Cirugía Oral y Maxilofacial del Hospital Universitario Central de Asturias por presentar un carcinoma de células escamosas que afectaba al borde lingual, la pared lateral orofaríngea, el área amigdalar y el hemipaladar blando izquierdos. Presentaba asimismo grandes adenopatías metastásicas en los ejes vasculares y en las regiones submaxilares de ambos lados del cuello.
+En un primer tiempo quirúrgico se realizó la resección del tumor, un vaciamiento cervical radical clásico izquierdo y una reconstrucción del defecto con un colgajo microvascularizado fasciocutáneo anterolateral de muslo. Tres semanas más tarde se procedió a realizar un vaciamiento cervical radical clásico derecho. Dada la magnitud de la cirugía y en previsión de posibles complicaciones postoperatorias, en la primera intervención se practicó también una traqueotomía reglada electiva, empleando el colgajo de Björk como modo de apertura de la tráquea. La traqueotomía se mantuvo hasta varios días después de la segunda intervención, produciéndose un cierre espontáneo del traqueostoma tras decanular al paciente y liberar la unión del colgajo traqueal a la piel.
+Posteriormente el paciente recibió tratamiento radioterápico complementario sobre la cavidad oral, la orofarínge y los niveles ganglionares cervicales I al VI.
+En una TC cervicotorácica de control, solicitado 4 meses tras la cirugía, se apreció la existencia de una pequeña masa compatible con proceso neoplásico en el lóbulo medio pulmonar derecho, motivo por el que fue remitido al Servicio de Neumología. Se realizó entonces una broncoscopia, en la cual se observó un hilo de sutura en la luz de la tráquea, de color negro, de unos 2,5 cm de longitud, insertado por uno de sus extremos en la pared traqueal anterior. Se intentó retirar, pero al comprobar que estaba fijado firmemente, y para evitar posibles desgarros en la pared de la tráquea, se optó por no hacerlo. Finalmente, la masa pulmonar resultó ser de naturaleza inflamatoria y se resolvió espontáneamente.
+En relación con el hilo de sutura traqueal, la única sintomatología referida por el paciente era, ocasionalmente, sensación de cuerpo extraño, sin llegar a producir tos ni disnea.
+Remitido por:  Lucas Villalaín Álvarez C. Piloña nº 23 6ºH 33006 Oviedo. España Email: lvillalain@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="16" text="Ignacio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="29" end="40" text="Tarso Lopez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="47" end="53" text="297586" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="61" end="75" text="12 37582659 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="88" end="123" text="Plaza del Campo de los Patos, 7, 7B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="148" end="154" text="Oviedo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="156" end="164" text="Asturias" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="170" end="175" text="33010" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="219" end="229" text="30/09/1951" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="237" end="243" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="251" end="258" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="265" end="266" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="286" end="296" text="21/10/2015" TYPE="FECHAS" comment=""/>
+    <ID id="T7" start="342" end="353" text="33 33 62258" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="380" end="385" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="389" end="396" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T6" start="463" end="505" text="Hospital Universitario Central de Asturias" TYPE="HOSPITAL" comment=""/>
+    <NAME id="T8" start="2635" end="2658" text="Lucas Villalaín Álvarez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2659" end="2678" text="C. Piloña nº 23 6ºH" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2679" end="2684" text="33006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2685" end="2691" text="Oviedo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2693" end="2699" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2707" end="2729" text="lvillalain@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

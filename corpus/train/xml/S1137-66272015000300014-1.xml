@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Claudia.
+Apellidos: Sotillo Gómez.
+NHC: 2987579.
+NASS: 38 20497038 03.
+Domicilio: Calle Chile, 11  .
+Localidad/ Provincia: Logroño.
+CP: 26005.
+Datos asistenciales.
+Fecha de nacimiento: 06/12/1949.
+País: España.
+Edad: 66 años Sexo: M.
+Fecha de Ingreso: 18/06/2016.
+Servicio: Anestesia y Reanimación.
+Médico: Ignacio Armendáriz Buil NºCol: 26 26 54710.
+Informe clínico del paciente: Mujer de 66 años, intervenida de histerectomía más anexectomía bilateral y linfaadenectomía por adenocarcinoma de endometrio. Presenta como antecedentes: distrofia miotónica tipo I (DM tipo I) o enfermedad de Steinert, marcapasos por BAV completo, enfermedad restrictiva pulmonar que precisa ventilación mecánica no invasiva (VMNI) nocturna, hepatopatía crónica no viral con hipertransaminasemia en seguimiento por digestivo, hipotiroidismo en tratamiento con levotirosina e HTA en tratamiento con candesartán. Intervenciones quirúrgicas previas: colecistectomía por laparotomía hace 20 años y cirugía de cataratas bilateral, ambas sin complicaciones.
+- ECG: ritmo sinusal. Captura ventricular de marcapasos. Bloqueo completo de rama izquierda.
+- Radiografía tórax: patrón restrictivo. Ligero derrame pleural izquierdo.
+- Espirometría: FEV1 0,88 l (45,3%), FVC 1,16 L (49,6%), FEV1/FVC = 0,76.
+- Gasometría arterial: pH 7,44, PO2 53 mmHg, PCO2 51 mmHg, HCO3 34,6 mmol/l
+- Hemograma: Hb 11,4 g/dl, Hto 35,6%, Plaquetas 85x1000/μl, Leucocitos 4,6x1000/μl
+- Coagulación: actividad de protrombina 80%, TTPA 24,8 s.
+A su llegada a quirófano, la paciente se encontraba normotensa, normotérmica y con saturación arterial de oxígeno de 99% con 02 en gafas nasales a 3 litros por minuto. Se evitó la administración de benzodiacepinas en la premedicación.
+Se decidió realizar una anestesia intrarraquídea con bupivacaína hiperbara al 0.5%, 9 mg, más 5 μg de fentanilo; la técnica fue realizada sin incidencias. En la primera hora se administró: paracetamol 1 g iv, metamizol 2 g iv, dexametasona 4 mg iv, dexketoprofeno 50 mg iv y fluidoterapia con calentador. Durante esta primera hora se realizó la resección del útero y anexos. Transcurridos 100 minutos y coincidiendo con la linfadenectomía ilíaca y paraaórtica, la paciente presentó dolor, por lo que se decidió la inyección de 10 mg de ketamina en bolo (evitando el uso de benzodiacepinas, mórficos y propofol). Se emplearon en total 40 mg de ketamina proporcionando una analgesia satisfactoria y sin efectos secundarios. La mecánica ventilatoria y la saturación de O2 no sufrieron cambios durante la intervención manteniendo como único soporte respiratorio la oxigenoterapia que ya recibía en planta (O2 en gafas nasales a 3 l/min).
+La cirugía finalizó transcurridos 150 minutos sin ninguna incidencia. En la unidad de reanimación se instauró VMNI (CPAP a 5 cmH2O), se realizó un bloqueo transabdominal percutáneo (TAP) bilateral (7,5 ml de ropivacaína al 0,5% y 7,5 ml de mepivacaína al 1% en cada hemiabdomen) además de un bloqueo de músculos rectos abdominales (5 ml de ropivacaína al 0,5% en cada lado), siendo ambos efectivos. Se pautó analgesia para la planta de hospitalización evitando opioides, a donde llegó tres horas después de su ingreso en reanimación.
+Durante su estancia en planta, la enferma permaneció estable y con el dolor controlado, siendo dada de alta hospitalaria el quinto día tras la intervención.
+Remitido por: Dr. Ignacio Armendáriz Buil. Servicio de Anestesia, Reanimación y Tratamiento del Dolor Hospital San Pedro C/ Piqueras, 98 26006 Logroño E-mail: nachoarm80@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="8" end="15" text="Claudia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="28" end="41" text="Sotillo Gómez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="48" end="55" text="2987579" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="63" end="77" text="38 20497038 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="90" end="105" text="Calle Chile, 11" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="131" end="138" text="Logroño" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="144" end="149" text="26005" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="193" end="203" text="06/12/1949" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="211" end="217" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="225" end="232" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="239" end="240" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="260" end="270" text="18/06/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="315" end="338" text="Ignacio Armendáriz Buil" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="346" end="357" text="26 26 54710" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="389" end="394" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="398" end="405" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3378" end="3401" text="Ignacio Armendáriz Buil" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3462" end="3480" text="Hospital San Pedro" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3481" end="3496" text="C/ Piqueras, 98" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3497" end="3502" text="26006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3503" end="3510" text="Logroño" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3519" end="3541" text="nachoarm80@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Elena.
+Apellidos: Pascual Perez.
+NHC: 71114253.
+NASS:26 76895445 33.
+Domicilio: Av. de los Cipreses, 55, 8D.
+Localidad/ Provincia: Salamanca.
+CP: 37002.
+Datos asistenciales.
+Fecha de nacimiento: 19/11/1971.
+País: España.
+Edad: 44 años Sexo:M.
+Fecha de Ingreso: 20/12/2015.
+Servicio: Nefrología.
+Médico:Pilar Fraile-Gómez  NºCol: 37 28 74632.
+Antecedentes: exfumadora, HTA, DM tipo 2, obesidad mórbida (IMC 59,19 kg/m2), colecistectomía, apendicectomía, herniorrafia umbilical y cesárea. 
+Historia Actual: Mujer de 44 años, con antecedentes de Se derivó a Cirugía General para realización de cirugía bariátrica mediante técnica de Larrad. Acudió a Urgencias a los dos meses de la intervención, refiriendo vómitos pospandriales de repetición desde el alta y episodio sincopal. En la exploración física destacó mal estado general, signos de depleción hidrosalina, PA 66/48 y PVC 4 cc H2O. Se realizó analítica: urea 284 mg/dl, Cr 6,98 mg/dl, Na 119 mmol/l, K 2,4 mmol/l, Cl 65 mmol/l, PCR 4,8 mg/dl, lactato 4,7 mmol/l, osmolaridad 333 mOsm/kg; hemograma: Hb 14,2 g/dl, VH 42%; leucocitos 19000/ul; plaquetas 251000/ul; gasometría venosa: pH 7,49, bicarbonato 25,9 mmol/l, pCO2 34 mmHg; función renal en orina: EF Na 0,11%, urea 276 mg/dl, Cr 274,8 mg/dl, Na 5 mmol/l, K 15,4 mmol/l. Se ingresó en Nefrología con el diagnóstico de IRA prerrenal secundaria a depleción de volumen, hiponatremia e hipopotasemia. Se inició reposición hidrosalina y corrección electrolítica progresiva con mejoría de la función renal, hasta su normalización. Durante su ingreso la paciente presentó insuficiencia respiratoria y shock séptico secundario a infección respiratoria. Se trasladó a la unidad de vigilancia intensiva, siendo exitus tras dos meses de ingreso.
+Remitido por: Pilar Fraile-Gómez, Servicio de Nefrología, Hospital Universitario de Salamanca , Paseo de San Vicente 58-182, 37007 Salamanaca pilarfg@usal.es pilarfg9@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="14" text="Elena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="27" end="40" text="Pascual Perez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="47" end="55" text="71114253" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="62" end="76" text="26 76895445 33" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="89" end="116" text="Av. de los Cipreses, 55, 8D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="140" end="149" text="Salamanca" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="155" end="160" text="37002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="204" end="214" text="19/11/1971" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="222" end="228" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="236" end="243" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="249" end="250" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="270" end="280" text="20/12/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="311" end="329" text="Pilar Fraile-Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="338" end="349" text="37 28 74632" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="514" end="519" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="523" end="530" text="44 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1768" end="1786" text="Pilar Fraile-Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1812" end="1847" text="Hospital Universitario de Salamanca" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1850" end="1877" text="Paseo de San Vicente 58-182" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1879" end="1884" text="37007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1885" end="1895" text="Salamanaca" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="1896" end="1911" text="pilarfg@usal.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T1" start="1912" end="1932" text="pilarfg9@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Mario .
+Apellidos: Cerna Rodriguez.
+NHC: 8293045.
+NASS: 82 68758621 44.
+Domicilio: C/ Camino de Oriente, 32, 4, D.
+Localidad/ Provincia: Valencia.
+CP: 46026.
+Datos asistenciales.
+Fecha de nacimiento: 26/09/1989.
+País de nacimiento: España.
+Edad: 26 años Sexo: H.
+Fecha de Ingreso: 16/10/2015.
+Médico: Alberto Pérez García NºCol: 46 46 35621.
+Historia Actual: Varón de 26 años derivado a Cirugía General tras ser diagnosticado de forma accidental tras prueba de imagen por parte del Servicio de Digestivo de masa en crura diafragmática izquierda a raíz de ingreso por brote de EII. Como antecedentes personales destaca: asma bronquial extrínseca, púrpura de Schonleich-Henoch en la infancia, enfermedad de Crohn ileal diagnosticado en 2004 y fumador. 
+Exploración física: En la exploración física presenta dolor a la palpación abdominal en flanco derecho en relación con su proceso de EII y no se palpan masas ni megalias.
+Pruebas complementarias:  La tomografía computerizada (TC) identificó íleon terminal con paredes engrosadas y signos de proliferación vascular en relación con enfermedad de Crohn, además de lesión de 7,6 x 4,4 cm de bordes bien delimitados y de baja densidad con zonas tabicadas con mayor realce en crura diafragmática izquierda. Se realizó una punción percutánea guiada por TC cuyo resultado anatomopatológico fue informado como abundante material necrótico con numerosos leucocitos polimorfonucleados y frecuentes histiocitos con negatividad para células malignas.
+Se practica laparotomía media y acceso a la cavidad retroperitoneal infradiafragmática izquierda con extirpación de masa que se encontraba íntimamente adherida a glándula suprarrenal, polo superior del riñón y diafragma izquierdo con exéresis de parte del mismo y sutura directa de este. El postoperatorio evolucionó favorablemente dando de alta al paciente al 7º día post-operatorio sin complicaciones inmediatas.
+El informe anatomopatológico definitivo fue de quiste broncogénico irregular de consistencia elástica de 8 x 4 x 4 cm cavitado y de aspecto purulento. La descripción microscópica fue notificada de formación quística con luces tapizadas por epitelio cilíndrico simple pseudoestratificado y células ciliadas. Escasas células caliciformes. Aisladas haces de músculo liso. Sin evidencia de malignidad.
+Responsable clínico: Dr. Alberto Pérez García Hospital Universitario y Politécnico la Fe Bulevar Sur s/n 46026 Valencia, España e-mail: a_perez.garcia@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="33" text="Mario" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="47" end="62" text="Cerna Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="69" end="76" text="8293045" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="84" end="98" text="82 68758621 44" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="111" end="141" text="C/ Camino de Oriente, 32, 4, D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="165" end="173" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="179" end="184" text="46026" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="228" end="238" text="26/09/1989" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="260" end="266" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="274" end="281" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="288" end="289" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="309" end="319" text="16/10/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="329" end="349" text="Alberto Pérez García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="357" end="368" text="46 46 35621" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="387" end="392" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="396" end="403" text="26 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="762" end="766" text="2004" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="2355" end="2375" text="Alberto Pérez García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2376" end="2418" text="Hospital Universitario y Politécnico la Fe" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="2419" end="2434" text="Bulevar Sur s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2435" end="2440" text="46026" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2441" end="2449" text="Valencia" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2451" end="2457" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="2466" end="2489" text="a_perez.garcia@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

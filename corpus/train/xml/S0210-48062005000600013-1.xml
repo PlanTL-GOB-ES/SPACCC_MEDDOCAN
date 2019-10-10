@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Josefa.
+Apellidos: Baltodano Gradiz.
+NHC: 7842922.
+NASS: 28 78451304 03.
+Domicilio: Federico Moreno Torroba, 7, 2, B .
+Localidad/ Provincia: Madrid.
+CP: 28007.
+Datos asistenciales.
+Fecha de nacimiento: 13/06/1943.
+País de nacimiento: España.
+Edad: 69 años Sexo: M.
+Fecha de Ingreso: 02/08/2012.
+Médico: Susana Martín Martín  NºCol: 28 28 14590.
+Informe clínico del paciente:  Mujer de 69 años con antecedentes personales de insuficiencia renal crónica (IRC) no filiada, artritis reumatoide (AR) de 20 años de evolución, en tratamiento crónico con corticoides. La paciente inicia un cuadro súbito de hematuria total anemizante, compromiso hemodinámico, acompañado de deterioro importante de la función renal (creatinina 6,9); tras cirugía ortésica de rodilla. La ecografía urológica los riñones son normales, sin alteraciones en parénquima ni en sistema colector; se objetiva gran coágulo vesical.
+Tras fracaso de manejo conservador con suero lavador, la enferma presenta desestabilización hemodinámica realizándose exploración endoscópica siendo imposible la extracción de coágulo; dada la situación se decide cirugía abierta, apertura vesical, extracción de coagulo, apreciándose mucosa vesical delustrada con sangrado en sábana, sin apreciarse lesiones vesicales macroscópicas. Se toma biopsias aleatorias de mucosa vesical siendo informadas como Amiloidosis vesical con afectación extensa de vasos. Se procede al tratamiento con corticoides en perfusión y colchicina. La paciente es dada de alta sin hematuria y mejoría de la función renal (creatinina 2,3).
+Responsable clínico: Dra. Susana Martín Martín. Correo Electrónico: Susimartin7@hotmail.com Hospital General Universitario Gregorio Marañón. Calle del Dr. Esquerdo, 46, 28007 Madrid
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="34" text="Josefa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="47" end="63" text="Baltodano Gradiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="70" end="77" text="7842922" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="85" end="99" text="28 78451304 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T1" start="112" end="144" text="Federico Moreno Torroba, 7, 2, B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="169" end="175" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="181" end="186" text="28007" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="230" end="240" text="13/06/1943" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="262" end="268" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="276" end="283" text="69 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="290" end="291" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="311" end="321" text="02/08/2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="331" end="351" text="Susana Martín Martín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="360" end="371" text="28 28 14590" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="404" end="409" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="413" end="420" text="69 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1615" end="1635" text="Susana Martín Martín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T6" start="1657" end="1680" text="Susimartin7@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <NAME id="T5" start="1681" end="1728" text="Hospital General Universitario Gregorio Marañón" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="1730" end="1756" text="Calle del Dr. Esquerdo, 46" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1758" end="1763" text="28007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1764" end="1770" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

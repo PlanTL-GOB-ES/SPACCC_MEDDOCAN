@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Avril.
+Apellidos: Ruenes Montes .
+NHC: 7430475.
+Domicilio: C/ Hnos Higueras, 2.
+Localidad/ Provincia: Santa Cruz de Tenerife.
+CP: 38010.
+Datos asistenciales.
+Fecha de nacimiento: 13/04/1995.
+País de nacimiento: España.
+Edad: 16 años Sexo: M.
+Fecha de Ingreso: 23/08/2011.
+Médico: Naira Álvarez Martín NºCol: 38 38 57810.
+Informe clínico del paciente: Una estudiante femenina de 16 años de edad, con un buen estado general, concurrió a nuestra Unidad, refiriendo haber sido violada dos meses antes de la entrevista. No había hecho la denuncia, debido a razones personales. Consultaba acerca de lesiones en boca de dos semanas de evolución aproximadamente, las cuales le causaban dificultad en la fonación y deglución.
+Al realizarse la anamnesis, la paciente mostró inseguridad y ocultamientos en sus respuestas.
+El examen de la mucosa bucal reveló las típicas placas opalinas, ligeramente elevadas y blanco grisáceas del secundarismo sifilítico y otras lesiones blancas rodeadas por un halo rojo, algunas múltiples y algunas solitarias. En la figura 1, se pueden observar las placas blancas en ambas comisuras y, en la mucosa labial inferior, en la línea media, tres placas más. La más cercana al fondo de surco, blanca opalina, bien circunscripta. Otra placa de 2 cm. de diámetro aproximadamente muestra una zona pequeña roja central y cercana a la semimucosa, se observa otra semejante.
+En la figura 2, se encuentran placas similares en el borde izquierdo de la lengua, cerca de la punta y en la zona posterior. En el borde derecho, en la parte media y posterior, pueden verse también dos placas de iguales características de 1,5 cm. de diámetro cada una. Próxima a la punta de la lengua, en los bordes y extendida hacia la cara ventral, se puede observar en la figura 3, una superficie de aspecto áspero. Coarrugado y blanquecino, que no se pudo retirar al raspado y que fue diagnosticada clínicamente como leucoplasia vellosa (LV). La paciente dio la autorización para la realización de un test de VIH, el cual se realizó al día siguiente y cuyo resultado es entregado personalmente aproximadamente a los treinta días. Ante una primera VDRL reactiva (128 dls), se solicitó la prueba fluorescente de anticuerpos contra el treponema (FTA-ABS), la de hematoaglutinación para treponema (TPHA), y se realizó una demostración de espiroqueta del exudado de una de las lesiones bucales o "prueba del campo oscuro", con resultado positivo. Se realizó una biopsia de la mucosa con diagnóstico presuntivo de leucoplasia vellosa. Debido a los títulos altos de la serología obtenidos, se instaló inmediatamente el tratamiento clásico para sífilis con inyecciones de penicilina benzatínica. El resultado de la biopsia de LV fue confirmado. La paciente no concurrió más a la consulta y no retiró el resultado del VIH, el cual había dado reactivo por lo cual se ha tratado de localizar a la joven para comunicarle su estado, controlar la efectividad del tratamiento de la sífilis, y establecer un eventual tratamiento y seguimiento de su inmunodeficiencia.
+Responsable clínico: Dra. Naira Álvarez Martín, Sección de Nefrología Pediátrica. Servicio de Pediatría, Hospital Nuestra Señora de Candelaria, Ctra. General del Rosario s/n, 38010, Santa Cruz de Tenerife naivila@hotmail.com vgarcianieto@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="33" text="Avril" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="46" end="59" text="Ruenes Montes" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="67" end="74" text="7430475" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T21" start="87" end="106" text="C/ Hnos Higueras, 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="130" end="152" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="158" end="163" text="38010" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="207" end="217" text="13/04/1995" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="239" end="245" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="253" end="260" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="267" end="268" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="288" end="298" text="23/08/2011" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="308" end="328" text="Naira Álvarez Martín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="336" end="347" text="38 38 57810" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="383" end="393" text="estudiante" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="394" end="402" text="femenina" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="406" end="413" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T1" start="2906" end="2911" text="joven" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3098" end="3118" text="Naira Álvarez Martín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3177" end="3214" text="Hospital Nuestra Señora de Candelaria" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="3216" end="3245" text="Ctra. General del Rosario s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3247" end="3252" text="38010" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3254" end="3276" text="Santa Cruz de Tenerife" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="3277" end="3296" text="naivila@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <CONTACT id="T2" start="3297" end="3319" text="vgarcianieto@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

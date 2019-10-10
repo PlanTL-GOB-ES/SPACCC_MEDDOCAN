@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Catalina.
+Apellidos: Albeiro Marín.
+NHC: 987064589/780.
+Domicilio: Avenida 9A #15BN-51 Valle del Cauca .
+Localidad/ Provincia: Cali.
+CP: 760001.
+Datos asistenciales.
+Fecha de nacimiento: 13/09/1978.
+País: Colombia.
+Edad: 39 años Sexo: H.
+Fecha de Ingreso: 24/05/2018.
+Médico: Ana María Ángel Isaza.
+Informe clínico del paciente: Mujer de 39 años de edad diagnosticada de síndrome doloroso regional complejo tipo I de la extremidad derecha superior, con historia previa de dos cirugías artroscópicas en ese hombro. La última cirugía presentó como complicación una infección causada por pseudomona la cuál fue tratada con éxito. La paciente se quejaba de dolor quemante, de intensidad moderada a severa, todos los días en su extremidad superior derecha, el cuál no respondió a los tratamientos analgésicos convencionales. Asociado a esto presentaba edema, cambios de color y cambios tróficos en dicha extremidad. A parte del SDRC, la paciente se encontraba en buen estado general de salud, neurológicamente normal, sin hipertensión, ni diabetes.
+Se decidió realizar un Bloqueo de Ganglio Estrellado para lo cuál se estableció acceso intravenoso y se monitorizó a la paciente con electrocardiograma, presión arterial y saturación de O2. Se realizó el bloqueo mediante abordaje paratraqueal utilizando una aguja de 3.5 cm de longitud con 10 ml de procaína al 1 % sin epinefrina; El cartílago cricoides fue palpado para discernir el nivel C6. El proceso trasverso de la sexta vértebra fue palpada entre la tráquea y la vaina carotídea. Previo a la inyección se aspiró con el fin de descartar la punción de alguna estructura vascular, la aspiración fue negativa. Con posterioridad al bloqueo presentó Síndrome de Horner.
+Cinco minutos después del bloqueo, la paciente manifestó malestar, mareo y cefalea intensa. La presión arterial de la paciente se incrementó de 135/80 a 235/135 mmHg, con taquicardia sinusal. La hipertensión fue aliviada con la administración de metoprolol intravenoso en dosis fraccionadas, cayendo así la presión arterial a 140/90 mmHg. Después de que los signos vitales fueron reestablecidos a niveles normales, la paciente se quejó de mareo y fatiga acompañados de dolor de cabeza e hipo, razón por la cual fue hospitalizada.
+Se realizó un ECG, examen neurológico y una TAC craneal, estos exámenes no revelaron ninguna anomalía. Se realizaron también pruebas tiroideas para excluir tirotoxicosis las cuales resultaron normales. Días después la paciente regresó a consulta y manifestaba tener debilidad y un 'movimiento de vaivén de la cabeza' el cual no tenía explicación medica. El 'movimiento' desapareció dos meses después sin necesidad de administrar medicamentos.
+Remitido por: Dra. Ana María Ángel Isaza anaangelmd@hotmail.com Calle 13 A Nº 66 B-16 Cali - Colombia Financiación: Ninguna Conflictos de interés: No declarados
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="9" end="17" text="Catalina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="30" end="43" text="Albeiro Marín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="50" end="63" text="987064589/780" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T16" start="76" end="111" text="Avenida 9A #15BN-51 Valle del Cauca" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="136" end="140" text="Cali" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="146" end="152" text="760001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="196" end="206" text="13/09/1978" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="214" end="222" text="Colombia" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="230" end="237" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="244" end="245" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="265" end="275" text="24/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="285" end="306" text="Ana María Ángel Isaza" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="338" end="343" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="347" end="354" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="2716" end="2737" text="Ana María Ángel Isaza" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T4" start="2738" end="2760" text="anaangelmd@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T3" start="2761" end="2782" text="Calle 13 A Nº 66 B-16" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="2783" end="2787" text="Cali" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2790" end="2798" text="Colombia" TYPE="PAIS" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Esperanza.
+Apellidos: Cruz Garcia.
+NHC: 4756484.
+NASS: 32 74647843 20.
+Domicilio: C/ El Ejido, 28, 4, A.
+Localidad/ Provincia: Ciudad Real.
+CP: 13002.
+Datos asistenciales.
+Fecha de nacimiento: 21/12/1941.
+País de nacimiento: España.
+Edad: 74 años Sexo: M.
+Fecha de Ingreso: 04/08/2016.
+Médico: Jaime Ortega Carnicer  NºCol: 13 13 25801.
+Informe clínico del paciente: Mujer de 74 años que ingresó en el hospital por obnubilación y anuria tras presentar durante 5 días dolor abdominal y vómitos. Entre sus antecedentes destacaba una DM tratada con metformina (850 mg/8 h) y glibenclamida. La presión arterial era de 105/60 mmHg, la frecuencia cardíaca de 155 latidos/minuto y la temperatura de 36,7º C. En la exploración destacaba deshidratación intensa, desorientación, respiración de Kussmaul, dolor abdominal con peristaltismo débil y ausencia de defensa abdominal. La tabla 2 muestra los principales datos analíticos, destacando además una hiperamilasemia de 2.605 U/l. Una tomografía computarizada abdominal descubrió un aumento del tamaño de la cabeza del páncreas sugerente de pancreatitis aguda. Tras suspender la administración de metformina, la paciente fue intubada orotraquealmente y conectada a un respirador mecánico. También recibió tratamiento a base de fluidos con suplementos de potasio, noradrenalina, bicarbonato, insulina, amiodarona, imipenen y furosemida. Al segundo día de ingreso, tras administrar 750 mEq de bicarbonato y 140 mEq de potasio, se normalizó el equilibrio ácido-básico (pH 7,41 y bicarbonato 20 mEq/l) e hidroelectrolítico (sodio 147 mEq/l, potasio 3,5 mEq/l) y la creatinina descendió a 5,5 mg/dl. Al tercer día de ingreso, por la presencia de deposiciones mucosas repetidas, se realizó una colonoscopia que puso de manifiesto una formación polipoidea sésil situada junto al esfínter anal y de 14 cm de longitud. La muestra endoscópica fue informada como adenoma velloso de recto. Al séptimo día de ingreso la enferma fue extubada, y dos días más tarde fue trasladada a planta para extirpación del adenoma.
+Responsable clínico: Dr. Jaime Ortega Carnicer. Los Alisos, 10. 13002 Ciudad Real. Correo electrónico: jortegacar@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="37" text="Esperanza" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="50" end="61" text="Cruz Garcia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="68" end="75" text="4756484" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="83" end="97" text="32 74647843 20" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="110" end="131" text="C/ El Ejido, 28, 4, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="155" end="166" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="172" end="177" text="13002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="221" end="231" text="21/12/1941" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="253" end="259" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="267" end="274" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="281" end="282" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="302" end="312" text="04/08/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="322" end="343" text="Jaime Ortega Carnicer" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="352" end="363" text="13 13 25801" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="395" end="400" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="404" end="411" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="2098" end="2119" text="Jaime Ortega Carnicer" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="2121" end="2135" text="Los Alisos, 10" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2137" end="2142" text="13002" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2143" end="2154" text="Ciudad Real" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2176" end="2196" text="jortegacar@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Miguel.
+Apellidos: Aznar Gómez.
+NHC: 2847413.
+NASS: 89 46895187 76.
+Domicilio: C/ Rafaela Herrera, 27, 4 D.
+Localidad/ Provincia: Madrid.
+CP: 28007.
+Datos asistenciales.
+Fecha de nacimiento: 20/02/1983.
+País de nacimiento: España.
+Edad: 32 años Sexo: H.
+Fecha de Ingreso: 16/05/2015.
+Médico: Parham Khosravi Shahi  NºCol: 28 28 57403.
+Historia Actual: varón de 32 años, sin alergias medicamentosas conocidas, con el único antecedente personal de reumatismo poliarticular en la infancia. Ingresa desde las urgencias por dolor intenso en hemitórax izquierdo, que no se modifica con los movimientos respiratorios, ni con los cambios posturales, sin tos productiva, ni disnea, y sin otra sintomatología acompañante.
+Exploración física: En la exploración física destaca una pequeña adenopatía laterocervical derecha inespecífica, con una hepatomegalia de unos 3 cm desde el reborde costal, sin otros hallazgos de interés.
+Pruebas complementarias: PRUEBAS COMPLEMENTARIAS BÁSICAS
+Hemograma y frotis de sangre periférica: Hemoglobina 13,3 g/dl, Plaquetas 281.000/ul, Leucocitos 8.800/ul con 23% de segmentados, 1% cayados, 1% metamielocitos, 2% monocitos, 33% linfocitos (la mayoría de ellos de aspecto plasmocitoide), y 40% células plasmáticas, algunas de las cuales binucleadas de tamaño grande.
+Bioquímica: Creatinina 1,2 mg/dl, Urea 52 mg/dl, (aclaramiento de creatinina de 59 ml/min), proteínas totales 10,8 g/dl, calcio total 9,8 mg/dl, resto normal.
+Proteinograma: pico monoclonal en banda gamma.
+Coagulación: APTT 33,6 segundos, INR 1,35.
+Examen básico de orina: Proteínas positivo, con presencia de mucina en el sedimento.
+Radiografía de tórax: Pequeña imagen nodular calcificada en lóbulo inferior izquierdo, probable granuloma calcificado.
+PRUEBAS COMPLEMENTARIAS ESPECÍFICAS
+Inmunofenotipo en sangre periférica: El 45% del recuento leucocitario total presenta un inmunofenotipo anómalo: CD45+, CD38+, CD138+, CD56+, CD19-, CD20-, CD5, CD10-, CD23-, Cd79b-, sIg-.
+Aspirado de médula ósea: Presencia de células plasmáticas en una proporción del 50% de la celularidad total, de tamaño heterogéneo predominando elementos de talla intermedia. Frecuentes células binucleadas y trinucleadas.
+Biopsia de médula ósea: Infiltración intersticial multifocal del parénquima medular por células plasmáticas plasmoblásticas IG-Kappa. Plasmocitosis medular del 40-50%. Material amiloide negativo.
+Beta2-microglobulina: 7,3 mg/dl.
+Serie ósea: Sin evidencia de lesiones osteolíticas.
+Inmunoelectroforesis en suero: IgG 4.390 mg/dl, IgA 14,5mg/dl, IgM 4,17 mg/dl. Inmunofijación en suero: Paraproteína IgG-Kappa.
+Inmunoelectroforesis en orina: Proteinuria de cadenas ligeras (Bence-Jones) de 1.310 mg en 24 horas, para paraproteína IgG-Kappa y cadenas ligeras Kappa libres.
+Serología VHB,VHC,VIH: negativos.
+Ecografía abdominal: Hepatomegalia, sin lesiones focales hepatoesplénicas. No hay evidencia de adenopatías intrabdominales, ni líquido libre intraperitoneal, resto sin alteraciones.
+Diagnóstico: El paciente presenta un cuadro compatible con un mieloma múltiple en su variante leucemia de células plasmáticas primaria.
+Tratamiento: Dado la edad del paciente se decide trasplante autólogo de células progenitoras de sangre periférica. Para lo cual se inició quimioterapia de inducción con el esquema C-VAD.
+Responsable clínico: Dr. Parham Khosravi Shahi. Servicio de Oncología Médica. Hospital General Universitario Gregorio Marañón. Doctor Esquerdo, 46, 28007 Madrid. e-mail: drkhosravi@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="34" text="Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="47" end="58" text="Aznar Gómez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="65" end="72" text="2847413" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="80" end="94" text="89 46895187 76" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="107" end="134" text="C/ Rafaela Herrera, 27, 4 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="158" end="164" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="170" end="175" text="28007" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="219" end="229" text="20/02/1983" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="251" end="257" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="265" end="272" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="279" end="280" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="300" end="310" text="16/05/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="320" end="341" text="Parham Khosravi Shahi" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="350" end="361" text="28 28 57403" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="380" end="385" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="389" end="396" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="3352" end="3373" text="Parham Khosravi Shahi" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3405" end="3452" text="Hospital General Universitario Gregorio Marañón" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3454" end="3473" text="Doctor Esquerdo, 46" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3475" end="3480" text="28007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3481" end="3487" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3497" end="3519" text="drkhosravi@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

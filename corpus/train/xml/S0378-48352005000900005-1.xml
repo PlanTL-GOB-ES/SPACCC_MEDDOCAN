@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Esteban.
+Apellidos: Molinero Guerra.
+NHC: 7835648.
+NASS: 49 87567034 25.
+Domicilio: C/ Aguasantas, 3.
+Localidad/ Provincia: Valladolid.
+CP: 47005.
+Datos asistenciales.
+Fecha de nacimiento: 13/01/1955.
+País de nacimiento: España.
+Edad: 47 años Sexo: H.
+Fecha de Ingreso: 19/04/2002.
+Médico: Angel Salgado Rubiales NºCol: 47 47 88550.
+Informe clínico del paciente: En 1995, a los 40 años, se le practicó mastectomía con disección axilar en otra ciudad. El informe histológico fue de carcinoma lobulillar infiltrante. El diámetro máximo del tumor primario era 3 cm (T2). De la axila se aislaron 14 ganglios, 4 de ellos infiltrados por el tumor; no fue posible acceder a más datos sobre los receptores hormonales. Tras la intervención recibió quimioterapia complementaria con seis ciclos de FEC.
+En 2000 comenzó a padecer dolor en epigastrio acompañado de una pérdida de peso superior a 10 Kg. En Noviembre de 2000 se encontró, mediante gastroscopia, una masa de aspecto tumoral en el cuerpo gástrico. La biopsia fue informada como adenocarcinoma difuso con células en anillo de sello. En enero del año 2001 se practicó una laparotomía en la que se encontró ascitis y una neoplasia gástrica irresecable que atravesaba la pared del estómago e infiltraba la cabeza del páncreas. La citología de líquido ascítico fue compatible con invasión por células en anillo de sello. Inició entonces tratamiento citostático con quimioterapia. En Diciembre de 2001 comenzó con dolor dorsal; en la gammagrafía ósea se encontraron captaciones múltiples compatibles con metástasis óseas que se confirmaron mediante resonancia magnética. Desde entonces ha sido tratada con radioterapia antiálgica y ha recibido asimismo diversas líneas de quimioterapia y de tratamiento hormonal que mantiene en la actualidad. La supervivencia prolongada de la paciente animó a ampliar los estudios de la biopsia gástrica que permitieron confirmar la presencia de receptores de estrógeno y de progesterona en las células en anillo de sello.
+Responsable clínico: Dr. Angel Salgado Rubiales Oncología Médica Hospital Clínico Universitario C/ Ramón y Cajal, 3 E-47005 Valladolid E-mail: asrubiales@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="28" end="35" text="Esteban" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="48" end="63" text="Molinero Guerra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="70" end="77" text="7835648" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="85" end="99" text="49 87567034 25" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="112" end="128" text="C/ Aguasantas, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="152" end="162" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="168" end="173" text="47005" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="217" end="227" text="13/01/1955" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="263" end="270" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="277" end="278" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="298" end="308" text="19/04/2002" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="318" end="340" text="Angel Salgado Rubiales" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="348" end="359" text="47 47 88550" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <DATE id="T10" start="394" end="398" text="1995" TYPE="FECHAS" comment=""/>
+    <AGE id="T15" start="406" end="413" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="823" end="827" text="2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T8" start="921" end="938" text="Noviembre de 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="1113" end="1131" text="enero del año 2001" TYPE="FECHAS" comment=""/>
+    <DATE id="T6" start="1456" end="1473" text="Diciembre de 2001" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="2054" end="2076" text="Angel Salgado Rubiales" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2094" end="2124" text="Hospital Clínico Universitario" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2125" end="2144" text="C/ Ramón y Cajal, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2145" end="2152" text="E-47005" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2153" end="2163" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2172" end="2194" text="asrubiales@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

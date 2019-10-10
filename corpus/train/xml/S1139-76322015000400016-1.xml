@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Hugo.
+Apellidos: RIvas Nuñez.
+NHC: 8943750.
+Domicilio: Calle Portera del Cura, 19.
+Localidad/ Provincia: Madrid.
+CP: 28034.
+Datos asistenciales.
+Fecha de nacimiento: 19/09/2016.
+País: España.
+Edad: 1 mes Sexo: H.
+Fecha de Ingreso: 21/10/2016.
+Médico: José Ignacio Perales Martínez NºCol: 28 28 92034.
+Informe clínico del paciente: Lactante varón de un mes de vida, sin antecedentes personales de interés, que acude por tercera vez a Urgencias en la última semana con un cuadro de llanto parcialmente consolable. Había sido diagnosticado de cólicos del lactante y se recomendaron las medidas habituales. Toma lactancia materna exclusiva. En las últimas 48 horas realiza peor las tomas, el llanto, que inicialmente era vespertino, se mantiene todo el día y la madre no consigue calmarlo en brazos desde ayer. Se mantiene afebril y con excelente estado general, presenta adecuada ganancia ponderal, actualmente con un peso de 4 kg. La exploración física impresiona de distensión abdominal y se palpa una masa a nivel periumbilical que se extiende hacia flanco derecho, sin apreciarse defensa evidente. Rechaza una toma de lactancia materna en Urgencias de forma franca y presenta un vómito alimenticio.
+Con sospecha de obstrucción intestinal, se realiza una radiografía de abdomen en la que aparece un marcado silencio abdominal (ausencia de gas) en hemiabdomen derecho y efecto masa con desplazamiento de las asas intestinales hacia hemiabdomen izquierdo. La ecografía muestra a nivel centroabdominal imagen de aproximadamente 9 x 8,7 x 7,9 cm, que se comporta como gran lesión focal ocupante de espacio de características quísticas sin flujo vascular al Doppler color y multiloculada y multitabicada.
+Se decide traslado a un centro de referencia para cirugía pediátrica. Se completa el estudio con resonancia magnética (RM) de abdomen, en la que aparece una voluminosa masa quística intraabdominal de unos 90 x 60 x 65 mm, localizada principalmente en el flanco derecho y la región centroabdominal. Se extiende desde el borde inferior hepático, por delante del riñón derecho desplazando hacia la izquierda las estructuras intestinales. Se trata de una masa multilocular, de bordes bien definidos y paredes finas, con múltiples componentes quísticos de diferentes tamaños. La primera sospecha diagnóstica en un linfangioma quístico de mesenterio.
+Es intervenido mediante laparotomía media y se procede a exéresis de una masa multiquística con contenido de líquido blanquecino que depende del mesenterio de un asa del íleon medio. Se reseca dicha asa y se realiza anastomosis término-terminal. El posoperatorio, las primeras 24 horas en Unidad de Cuidados Intensivos Pediátricos (UCIP) y el resto en planta, ha cursado sin incidencias y en ocho días se remite a su domicilio con adecuada tolerancia enteral y sin complicaciones.
+La anatomía patológica confirma el diagnóstico de linfagioma quístico mesentérico al observar una masa quística multiseptada de aproximadamente 5 cm de diámetro con pared lisa blanquecina de un espesor de 0,1 cm.
+Remitido por: Dr. José Ignacio Perales Martínez: josiperales@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="32" text="Hugo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="45" end="56" text="RIvas Nuñez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="63" end="70" text="8943750" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T17" start="83" end="109" text="Calle Portera del Cura, 19" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="133" end="139" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="145" end="150" text="28034" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="194" end="204" text="19/09/2016" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="212" end="218" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T2" start="226" end="231" text="1 mes" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="238" end="239" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="259" end="269" text="21/10/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="279" end="308" text="José Ignacio Perales Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="316" end="327" text="28 28 92034" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T1" start="359" end="367" text="Lactante" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="368" end="373" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="377" end="383" text="un mes" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T3" start="580" end="588" text="lactante" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T5" start="786" end="791" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3085" end="3114" text="José Ignacio Perales Martínez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T4" start="3116" end="3139" text="josiperales@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

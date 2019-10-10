@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Tomás .
+Apellidos: Ramos Piña.
+NHC: 4512385.
+NASS: 74 12563745 44.
+Domicilio: Calle marquez de viana 96.
+Localidad/ Provincia: Madrid.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 12/09/1966.
+País: España.
+Edad: 49 años Sexo: H.
+Fecha de Ingreso: 13/10/2015.
+Médico: Raquel Caja Esteban NºCol: 28 28 56974.
+Informe Clinico del paciente: Varón de 49 años, con antecedentes personales de paragangliomas múltiples. En 2005 es intervenido del paraganglioma yugular derecho mediante abordaje infratemporal con buena evolución posquirúrgica. En 2014 se decide tratamiento quirúrgico de un paraganglioma vagal derecho debido a progresión tumoral, realizándose exéresis del paraganglioma por vía laterocervical. En el postoperatorio el paciente presenta parálisis facial derecha grado II de la escala de House-Brackmann, cofosis y parálisis de los pares craneales IX, X, XI y XII derechos. En controles sucesivos en la consulta, el paciente presenta disfagia, disfonía, y además refiere un dolor muy intenso en la región infra y preauricular que aparece con el inicio de la masticación en todas las comidas, y que progresivamente remite. Se decide inyección de ácido hialurónico en la cuerda vocal derecha, inyección de toxina botulínica en el músculo cricofaríngeo derecho y ante la sospecha de un SPM se decide infiltrar toxina botulínica en la región parotídea derecha. Se infiltran 5 unidades en 12 puntos sumando en total 60 unidades. A los 15 días el paciente aprecia mejoría notable en la disfonía y desaparición completa del cuadro doloroso.
+Responsable clinico: Raquel Caja Esteban. Correos electrónicos: raquel.caja@uam.es r.caja@ild.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="8" end="13" text="Tomás" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="27" end="37" text="Ramos Piña" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="44" end="51" text="4512385" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="59" end="73" text="74 12563745 44" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="86" end="111" text="Calle marquez de viana 96" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="135" end="141" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="147" end="152" text="28036" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="196" end="206" text="12/09/1966" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="214" end="220" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="228" end="235" text="49 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="242" end="243" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="263" end="273" text="13/10/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="283" end="302" text="Raquel Caja Esteban" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="310" end="321" text="28 28 56974" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="353" end="358" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="362" end="369" text="49 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T3" start="431" end="435" text="2005" TYPE="FECHAS" comment=""/>
+    <DATE id="T2" start="555" end="559" text="2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="1579" end="1598" text="Raquel Caja Esteban" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1622" end="1654" text="raquel.caja@uam.es r.caja@ild.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

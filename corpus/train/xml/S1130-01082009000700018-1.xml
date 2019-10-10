@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Marcos .
+Apellidos: Santos Alarcón.
+NHC: 2734643.
+NASS: 37 56479563 25.
+Domicilio: C/ Lavapiés, 94, 3, A.
+Localidad/ Provincia: Madrid.
+CP: 28037.
+Datos asistenciales.
+Fecha de nacimiento: 01/08/1951.
+País de nacimiento: España.
+Edad: 66 años Sexo: H.
+Fecha de Ingreso: 27/12/2017.
+Médico: Ignacio Zubillaga Rodríguez NºCol: 28 45 58961.
+Informe clínico del paciente: Varón de 66 años, de origen vietnamita y actualmente con residencia en EE. UU., acude a Urgencias de nuestro centro tras presentar dolor súbito en epigastrio, brusco y que asocia a comida copiosa. El dolor se irradia al hombro izquierdo. En la exploración aparece sudoración y palidez mucocutánea con pulsos distales conservados.
+El paciente se encuentra hipotenso y taquicárdico, su ECG es normal y ante la urgencia del cuadro se solicita ecografía abdominal que nos informa de masa en segmento hepático VI sugestiva de hepatocarcinoma y de la existencia de líquido libre intracavitaria; a continuación se realiza TAC de abdomen con contraste que nos informa de hemoperitoneo muy abundante y de lesión en segmento VI hepático compatible con hepatocarcinoma probablemente roto y con foco hiperdenso junto a la lesión que sugiere sangrado activo. La analítica nos muestra cifras de hemoglobina de 8,8 g/l, hematocrito de 0,249 L/L y 14,310 leucocitos con neutrofilia.
+Dada la situación de inestabilidad del paciente y los hallazgos de las pruebas de imagen decidimos intervención quirúrgica urgente.
+En la laparotomía se identifica la lesión descrita en la ecografía y el TAC y se decide realizar segmentectomía, lavado y drenaje de cavidad.
+A los 7 días (4 de ellos en la Unidad de Cuidados Intensivos) el paciente es dado de alta hospitalaria.
+Responsable clínico: Ignacio Zubillaga Rodríguez. Servicio de Cirugía Oral y Maxilofacial. Hospital Universitario 12 de Octubre. Avenida de Córdoba s/n. 28041 Madrid E-mail: ignaciozubillaga@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="34" text="Marcos" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="48" end="62" text="Santos Alarcón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="69" end="76" text="2734643" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="84" end="98" text="37 56479563 25" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="111" end="132" text="C/ Lavapiés, 94, 3, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="156" end="162" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="168" end="173" text="28037" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="217" end="227" text="01/08/1951" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="263" end="270" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="277" end="278" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="298" end="308" text="27/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="318" end="345" text="Ignacio Zubillaga Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="353" end="364" text="28 45 58961" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="396" end="401" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="405" end="412" text="66 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T7" start="424" end="434" text="vietnamita" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T6" start="467" end="474" text="EE. UU." TYPE="PAIS" comment=""/>
+    <NAME id="T9" start="1762" end="1789" text="Ignacio Zubillaga Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1832" end="1868" text="Hospital Universitario 12 de Octubre" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="1870" end="1892" text="Avenida de Córdoba s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="1894" end="1899" text="28041" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1900" end="1906" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="1915" end="1940" text="ignaciozubillaga@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

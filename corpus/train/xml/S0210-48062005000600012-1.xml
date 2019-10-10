@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Juana.
+Apellidos: Benavente Rivero.
+NHC: 7843564.
+NASS: 37 48568734 35.
+Domicilio: C/ Virgen del Pilar, 23.
+Localidad/ Provincia: Zaragoza.
+CP: 50800.
+Datos asistenciales.
+Fecha de nacimiento: 28/09/1949.
+País de nacimiento: España.
+Edad: 68 años Sexo: M.
+Fecha de Ingreso: 12/06/2018.
+Médico: José Miguel Arroyo NºCol: 50 50 74026.
+Motivo de ingreso: Dolor Hipocondrial.
+Historia Actual: Mujer de 68 años con antecedentes de hipertensión arterial e hipotiroidismo, que acude a Urgencias por presentar dolor en hipocondrio izquierdo de presentación aguda, sin antecedentes traumáticos, de carácter constante, irradiado a epigastrio con aproximadamente 3 horas de evolución, acompañado de mareo y debilidad. 
+Exploración física: En la exploración física se evidencia hipotensión y taquicardia que se mantiene a pesar de la administración de fluidos intravenosos; el abdomen es doloroso con predominio en hipocondrio y fosa lumbar izquierda sin signos de irritación peritoneal. 
+Pruebas complementarias: Se realiza Ecografía y Tomografía computarizada (TC) demostrando la presencia de una tumoración retroperitoneal redondeada de aproximadamente 10 x 12 cm por delante del polo superior del riñón izquierdo, vascularizada, con captación del contraste de forma irregular y con pequeñas calcificaciones en su interior; además, se observa un aumento de la densidad del espacio retroperitoneal compatible con sangrado. Con los hallazgos antes mencionados se decide intervenir quirúrgicamente evidenciándose un gran hematoma retroperitoneal izquierdo que se extiende hasta la línea media y la fosa iliaca izquierda y una tumoración de aproximadamente 12 cm de diámetro por encima del polo superior del riñón izquierdo, encapsulada, con sangrado activo por fisura en la misma, la cual se extrae preservando parte de la glándula suprarrenal y el riñón izquierdo.
+Evolución: La evolución es satisfactoria. La evaluación realizada posteriormente revela la ausencia de hipertensión arterial y en la ecografía abdominal no se observan hallazgos patológicos. La biopsia describe una tumoración nodular de 10 cm de diámetro y 457 gr. de peso de coloración rojiza con margen periférico de coloración amarillenta, diagnosticándose en el estudio microscópico: Pseudoquiste endotelial suprarrenal.
+Responsable clínico: José Miguel Arroyo. Servicio Médico Centro Penitenciario de Zuera Carretera Nacional 330 km 539 50800 Zuera Zaragoza
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="33" text="Juana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="46" end="62" text="Benavente Rivero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="69" end="76" text="7843564" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="84" end="98" text="37 48568734 35" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="111" end="134" text="C/ Virgen del Pilar, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="158" end="166" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="172" end="177" text="50800" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="221" end="231" text="28/09/1949" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="253" end="259" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="267" end="274" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="281" end="282" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="302" end="312" text="12/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="322" end="340" text="José Miguel Arroyo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="348" end="359" text="50 50 74026" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="417" end="422" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="426" end="433" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2328" end="2346" text="José Miguel Arroyo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2364" end="2393" text="Centro Penitenciario de Zuera" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T4" start="2394" end="2423" text="Carretera Nacional 330 km 539" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2424" end="2429" text="50800" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2430" end="2435" text="Zuera" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2436" end="2444" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

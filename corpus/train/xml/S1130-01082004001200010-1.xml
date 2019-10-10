@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Aura.
+Apellidos: Montenegro Carrasco.
+NHC: 25656.
+NASS:61 03574895 66.
+Domicilio: C/ Navas de Tolosa, 23.
+Localidad/ Provincia: Soria.
+CP:42001.
+Datos asistenciales.
+Fecha de nacimiento: 16/01/1989.
+País: España.
+Edad: 28 años Sexo: M.
+Fecha de Ingreso: 24/06/2017.
+Médico: Juan Manuel Ruiz Liso NºCol: 42 42 38274.
+Historia del paciente:  Mujer de 28 años, ingresada por tumoración abdominal y síndrome constitucional. Refería molestias habituales en vacío izquierdo que aumentaron de intensidad semanas antes de su ingreso. A la exploración física presentaba una tumoración móvil y dolorosa en hipocondrio izquierdo. En su analítica no se observaron datos de interés.
+Se le realizó ecografía y TAC abdominal que demostraron la presencia de un tumor sólido, heterogéneo, de aproximadamente 8 cm de diámetro, localizado en cola de páncreas con un contorno bien definido, múltiples áreas quísticas y calcificaciones en su interior.
+Fue intervenida quirúrgicamente realizándole esplenopancreatectomía distal con exéresis de tumoración sólida de 8 cm de diámetro en íntimo contacto con la cara posterior de la cola del páncreas.
+La anatomía patológica fue informada como neoplasia epitelial papilar sólida-quística del páncreas.
+La evolución postoperatoria fue favorable, y a los 14 años de su intervención la paciente realiza una vida normal y sus controles no presentan alteraciones.
+Remitido por: Juan Manuel Ruiz Liso. Paseo Linajes, 4 - 2ºA 42003 Soria. (España). jruiz@hsor.sacyl.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="13" text="Aura" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="26" end="45" text="Montenegro Carrasco" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="52" end="57" text="25656" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="64" end="78" text="61 03574895 66" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="91" end="113" text="C/ Navas de Tolosa, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="137" end="142" text="Soria" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="147" end="152" text="42001" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="196" end="206" text="16/01/1989" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="214" end="220" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="228" end="235" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="242" end="243" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="263" end="273" text="24/06/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="283" end="304" text="Juan Manuel Ruiz Liso" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="312" end="323" text="42 42 38274" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="349" end="354" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="358" end="365" text="28 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="1406" end="1427" text="Juan Manuel Ruiz Liso" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1429" end="1451" text="Paseo Linajes, 4 - 2ºA" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1452" end="1457" text="42003" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1458" end="1463" text="Soria" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1466" end="1472" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1475" end="1494" text="jruiz@hsor.sacyl.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

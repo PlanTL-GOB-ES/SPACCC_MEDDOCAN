@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Lara .
+Apellidos: Gonzalez Ontiveros .
+NHC: 4578659.
+NASS: 84 67456790 17.
+Domicilio: .
+Localidad/ Provincia: Madrid.
+CP: 28.
+Datos asistenciales.
+Fecha de nacimiento: 21/07/1981.
+País de nacimiento: España.
+Edad: 32 años Sexo: H.
+Fecha de Ingreso: 13/03/2014.
+Médico: Maria Mora Alba  NºCol: 28 28 68410.
+Informe clínico del paciente: Primigesta de 32 años de edad, 38 semanas de gestación, admitida en el hospital por rotura de membranas.
+Entre sus antecedentes personales destacaban el padecer un síndrome de Klippel-Trenaunay, con afección del miembro inferior derecho, en el cual se podía objetivar el aumento de diámetro y longitud del mismo, con presencia de un angioma plano a nivel de la cara anteroexterna del muslo, varicosidades venosas llamativas, tanto a nivel del muslo como de la pierna derecha, y trastornos tróficos cutáneos que afectaban fundamentalmente el área distal de la pierna.
+La madre de Lara padeció carcinoma de lengua resuelto, un episodio de trombosis y en la actualidad afecta de mieloma en tratamiento.
+Padre intervenido de hernia inguinal, episodio de AIT. 
+En seguimiento por el servicio de cirugía vascular, no realizaba tratamiento médico alguno, a excepción de productos tópicos locales para el cuidado de los trastornos cutáneos de su pierna derecha.
+Aportaba informe que describía las lesiones que presentaba la paciente; asimismo excluía la afectación del miembro inferior contralateral, así como la existencia de malformaciones vasculares a otros niveles. No había presentado complicaciones como consecuencia de su enfermedad de base, a excepción de la afección cutánea por el éstasis circulatorio.
+La paciente solicitó analgesia epidural para el parto; presentaba en esos momentos 3 cm de dilatación cervical, existía dinámica uterina eficaz y el feto se mostraba reactivo, sin datos de sufrimiento fetal. Los datos de laboratorio mostraban un hemograma con plaquetas 136.000, hemoglobina 10,9, siendo el resto de los parámetros normales; el estudio de coagulación y la bioquímica básica eran normales.
+Previa firma del consentimiento y explicación del procedimiento, se decidió colocación de catéter epidural de 20G mediante aguja de Tuohy de 18G, a nivel del espacio L3-L4, realizándose la técnica sin incidencias.
+Se administraron dosis test de 5 ml de bupivacaína 0,25% con epinefrina y un bolo inicial de 8 ml de bupivacaína 0,25% sin vasoconstrictor y 100 mg de fentanilo, sin incidencias. Se pautó perfusión de bupivacaína 0,0625% con 2 µg.ml-1 de fentanilo, entre 15-20 ml.h-1, consiguiendo una analgesia muy satisfactoria hasta finalización del parto.
+Se consiguió parto eutócico, que precisó episiotomía, siendo el producto de la gestación un recién nacido varón de 2.695 g de peso, con test de Apgar de 9-10.
+En puerperio inmediato se retiró catéter epidural sin incidencias.
+A las 12 h del parto, y teniendo en cuenta el riesgo elevado de fenómenos tromboembólicos, se administró heparina de bajo peso molecular s.c., de forma profiláctica según indicación de obstetricia, sin incidencias. Este tratamiento se mantuvo hasta el alta del paciente, al 3º día postparto.
+La paciente fue valorada a las 24 horas del parto y telefoneada a la semana del alta hospitalaria, sin apreciar ninguna incidencia y/o complicación relacionada con la analgesia epidural.
+El grado de satisfacción con la técnica analgésica utilizada fue óptimo.
+Responsable clínico: Dra, Maria Mora Alba. Email: mamolba@saludmadrid.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T16" start="28" end="32" text="Lara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T15" start="46" end="64" text="Gonzalez Ontiveros" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T14" start="72" end="79" text="4578659" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T13" start="87" end="101" text="84 67456790 17" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T12" start="138" end="144" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T11" start="150" end="152" text="28" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T9" start="196" end="206" text="21/07/1981" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="228" end="234" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T7" start="242" end="249" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T5" start="256" end="257" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="277" end="287" text="13/03/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="297" end="312" text="Maria Mora Alba" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="321" end="332" text="28 28 68410" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T6" start="378" end="385" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T17" start="934" end="939" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T18" start="943" end="947" text="Lara" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T19" start="1064" end="1069" text="Padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="3436" end="3451" text="Maria Mora Alba" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3460" end="3483" text="mamolba@saludmadrid.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

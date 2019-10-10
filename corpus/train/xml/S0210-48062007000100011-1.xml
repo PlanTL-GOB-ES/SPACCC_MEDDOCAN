@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Juan.
+Apellidos: Ferrara Maldonado.
+NHC: 7348567.
+NASS: 89 56729805 56.
+Domicilio: C/ FInisterre, 3.
+Localidad/ Provincia: Madrid.
+CP: 28034.
+Datos asistenciales.
+Fecha de nacimiento: 06/05/1948.
+País de nacimiento: España.
+Edad: 70 años Sexo: H.
+Fecha de Ingreso: 13/06/2018.
+Médico: Juan Velásquez López NºCol: 28 28 57748.
+Informe clínico del paciente: paciente masculino de 70 años, quien ingresó en el servicio de urgencias del Hospital Pablo Tobón Uribe, con cuadro de aproximadamente una hora de evolución consistente en opresión torácica, malestar general, astenia y diaforesis; que iniciaron después de haber ingerido 100 mg de sildenafil, niega ingesta de otro estimulante sexual o cocaína y sin relación sexual después de su consumo. El paciente como único antecedente clínico sufría de hipertensión arterial, controlada farmacológicamente y niega episodios previos de angina o consumo de nitratos. El examen clínico y sus signos vitales eran normales; sin embargo, después de la valoración inicial presenta paro cardiorrespiratorio secundario a fibrilación ventricular con respuesta a una única desfibrilación de 200 joules.
+El electrocardiograma inicial demostró elevación del segmento ST en las derivadas de la cara inferior (II, III y aVF) y de la cara anterior (V2-V4) con cambios recíprocos en aVL, sin demostrarse extensión electrocardiográfica a ventrículo derecho.
+Las enzimas cardíacas al ingreso revelaron una creatinfosfokinasa (CK) de170 y una creatinfosfokinasa fracción MB (CK-MB) de 6. Los electrolitos, las pruebas de coagulación y los conteos de células sanguíneas fueron normales.
+El manejo inicial se realizó con aspirina 100 mg, lovastatina 40 mg cada día, metoprolol 25 mg cada 12 horas, enoxaparina 60 mg cada 12 horas, oxígeno a 3 lt/min y estreptoquinasa 1´500.000 unidades administradas en 30 minutos. No se demostraron cambios secundarios a reperfusión. El paciente fue trasladado a la unidad de cuidados intensivos, donde se documentaron durante las primeras horas de evolución, episodios de bloqueo A-V completo con resolución espontánea.
+El EKG tomado a las 24 horas de evolución reveló QS en cara inferior y una progresión tardía de la onda R en la cara anterior. El seguimiento enzimático demostró aumento de CK y de la fracción MB a las 6 horas (4476 y 165) y a las 12 horas (3839 y 136).
+Al día siguiente se realizó una coronariografía que mostró enfermedad difusa de la arteria descendente anterior con lesión en el tercio distal del 50% y lesión del 40% en el tercio proximal de la primera rama diagonal. La arteria circunfleja tenía una lesión del 50% en el tercio medio y enfermedad difusa de sus ramas obtusas marginales. La arteria coronaria derecha presentaba una lesión irregular sugestiva de trombo parcialmente resuelto produciendo estenosis máxima del 50%; distalmente la arteria descendente posterior presentaba dos lesiones del 40%.
+El paciente evolucionó satisfactoriamente sin complicaciones posteriores y libre de dolor. Fue dado de alta para seguimiento ambulatorio.
+Responsable clínico: Dr. Juan Velásquez López. E-mail: juangvl@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="28" end="32" text="Juan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="45" end="62" text="Ferrara Maldonado" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="69" end="76" text="7348567" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="84" end="98" text="89 56729805 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="111" end="127" text="C/ FInisterre, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="151" end="157" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="163" end="168" text="28034" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="212" end="222" text="06/05/1948" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="244" end="250" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="258" end="265" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="272" end="273" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="293" end="303" text="13/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="313" end="333" text="Juan Velásquez López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="341" end="352" text="28 28 57748" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="393" end="402" text="masculino" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T5" start="406" end="413" text="70 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T3" start="461" end="487" text="Hospital Pablo Tobón Uribe" TYPE="HOSPITAL" comment=""/>
+    <NAME id="T2" start="3082" end="3102" text="Juan Velásquez López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3112" end="3129" text="juangvl@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

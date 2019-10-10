@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre:  Patricia.
+Apellidos: Cantizano Paez.
+NHC: 4026560.
+NASS:24 76078256 01.
+Domicilio: AV. Conde Casal, 35.
+Localidad/ Provincia: Zamora.
+CP: 49510.
+Datos asistenciales.
+Fecha de nacimiento: 17/03/1988.
+País: España.
+Edad: 30 años Sexo: M.
+Fecha de Ingreso: 06/06/2018.
+Servicio: Ginecologia.
+Episodio: 5267937.
+Médico: Nicolás Alberto Cruz Guerra NºCol: 49 28 46237.
+Informe clínico del paciente: Mujer de 30 años, fumadora de unos seis cigarrillos diarios, con antecedente de aborto dos años y medio antes de ser estudiada en el Servicio de Ginecología por infertilidad. En dicho contexto, y en el transcurso de la realización de ecografía vaginal se objetiva lesión exofítica intravesical de aproximadamente 24 mm de diámetro, localizada en pared posterolateral derecha, con tabicaciones en su interior.
+Fue remitida al Servicio de Urología, refiriéndonos ciertas molestias miccionales coincidiendo con las menstruaciones, sin hematuria macroscópica ni otras manifestaciones acompañantes. La analítica sanguínea resultó con valores dentro de la normalidad, mientras que en la orina elemental sólo destacaba la presencia de 18 hematíes/mcL. Se solicitó una urografía intravenosa, sin apreciarse en la misma otros hallazgos significativos; realizándose asimismo cistoscopia, que permitió objetivar una lesión exofítica, de aproximadamente un campo endoscópico, localizada en fondo vesical, y de superficie pseudoquística.
+Fue indicada la resección transuretral de la lesión descrita, lográndose de forma completa, con buena evolución postoperatoria. El resultado del estudio histopatológico reveló una pared vesical revestida por endotelio focalmente hiperplásico, apreciándose en lámina propia y tejido muscular formaciones glandulares de morfología predominantemente tubárica, con componentes asociados -en menor cuantía- de carácter endometrial y endocervical, todo ello compatible con un diagnóstico de mullerianosis vesical.
+Tras un año de seguimiento, la paciente ha permanecido asintomática, y sin evidencia de recidiva endoscópica en las revisiones realizadas.
+Remitido por: Dr. Nicolás Alberto Cruz Guerra Av. de los Reyes Católicos, 5 bajo izda. 49021 Zamora. (España). ncruz_g@hotmail.com

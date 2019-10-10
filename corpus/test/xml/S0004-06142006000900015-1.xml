@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[﻿Nombre: Ramiro.
+Apellidos: Losada Gómez.
+CIPA: nhc-231213.
+NASS:  29 23892036 09.
+Domicilio: Av. medellin 18, 3A.
+Localidad/ Provincia: Getafe.
+CP: 45002.
+NHC:231213.
+Datos asistenciales.
+Fecha de nacimiento:23/10/1970.
+País: España.
+Edad: 47  Sexo: M.
+Fecha de Ingreso: 27/03/2017.
+Especialidad: Oncología.
+Médico: Nuria Rodríguez García  NºCol: 45 45 31075.
+Historia Actual:  Varón de 47 años, sin antecedentes de interés, que es diagnosticado ecográficamente de masa renal derecha de forma accidental durante un estudio rutinario por dolor abdominal. 
+Exploración física: A la exploración se palpaba una masa dolorosa en el hipocondrio derecho, motivo por el cual se realizó una TAC 
+Resumen de pruebas complementarias: La TAC abdomino-pélvica confirmó la presencia de una masa sólida y heterogénea de aproximadamente 6 cm, localizada en polo superior del riñón derecho con vena renal permeable que reveló una recidiva tumoral en el lecho quirúrgico, que infiltraba pilar diafragmático derecho posterior e hígado; así mismo se evidenciaron implantes peritoneales, el mayor, de cuatro centímetros adyacente al hilio hepático. Se realizó nefrectomía radical derecha por laparotomía subcostal, sin objetivarse adenopatías. El diagnóstico anatomopatológico fue de carcinoma renal de células claras de 8,4 centímetros, estadio pT3aNoMo, II de Robson y grado nuclear IV de Fuhrman. 
+Evolución y comentarios: El paciente fue dado de alta a los cinco días de la cirugía. A los tres meses aproximadamente y antes de ser visto en la consulta para seguimiento de su neoplasia, el paciente acudió a Urgencias por dolor en hipocondrio derecho de reciente aparición. Se decidió realizar la extirpación de las masas tumorales, resecándose la adyacente al hígado así como varios implantes peritoneales y retroperitoneales, siendo la biopsia intraoperatoria compatible en todas las piezas con carcinoma de células claras de alto grado. La masa retroperitoneal paravertebral resultó inaccesible por su íntimo contacto con los grandes vasos.
+Ante estos hallazgos se decidió contactar con el Servicio de Oncología, iniciándose tratamiento con Interferón (Intrón A), con mala tolerancia del mismo y precisándose reducción de la dosis.
+En las revisiones realizadas el paciente refería molestias abdominales inespecíficas que respondían a analgésicos suaves pero en la TAC de abdomen de control realizado a los 5 meses de la segunda cirugía se objetivaron múltipes lesiones hepáticas sugerentes de metástasis, así como crecimiento de la recidiva del lecho quirúrgico y varios implantes peritoneales en epiplon.
+Remitido por: Dra. Nuria Rodríguez García Servicio de Urología Hospital de Getafe Ctra. de Toledo Km 12,500 E-28905 Getafe. Madrid. (España) E-mail: uroget@terra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="9" end="15" text="Ramiro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="28" end="40" text="Losada Gómez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="52" end="58" text="231213" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="67" end="81" text="29 23892036 09" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="94" end="113" text="Av. medellin 18, 3A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T1" start="137" end="143" text="Getafe" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="149" end="154" text="45002" TYPE="TERRITORIO" comment=""/>
+    <ID id="T19" start="160" end="166" text="231213" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="209" end="219" text="23/10/1970" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="227" end="233" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="241" end="243" text="47" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="251" end="252" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="272" end="282" text="27/03/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="317" end="339" text="Nuria Rodríguez García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T12" start="348" end="359" text="45 45 31075" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="379" end="384" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="388" end="395" text="47 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="2611" end="2633" text="Nuria Rodríguez García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="2655" end="2673" text="Hospital de Getafe" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="2674" end="2699" text="Ctra. de Toledo Km 12,500" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="2700" end="2707" text="E-28905" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2708" end="2714" text="Getafe" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2716" end="2722" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2725" end="2731" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="2741" end="2756" text="uroget@terra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Luis.
+Apellidos: Fenandez Ordoñez.
+NHC: 5389636.
+NASS:65 23446726 56.
+Domicilio: Av Irlanda, 18.
+Localidad/ Provincia: Toledo.
+CP:45005.
+Datos asistenciales.
+Fecha de nacimiento: 07/09/1979.
+País: España.
+Edad: 38 años Sexo: H.
+Fecha de Ingreso: 17/05/2018.
+Servicio: Urgencias.
+Médico: José Juan Carbayo García NºCol: 45 45 87365.
+Historia Actual: Varón de 38 años de edad que acude al Servicio de Urgencias de nuestro Hospital por presentar un cuadro de edemas en las extremidades inferiores, distensión abdominal y febrícula de dos días de evolución. Refiere además astenia importante de varias semanas de evolución acompañada de náuseas, vómitos y diarrea en los últimos 7 días. 
+Antecedentes: alérgico a Penicilina, bebedor de 80 gramos de alcohol/día y obeso
+Exploración física: A la exploración física destaca la presencia de 37,5º C de temperatura, datos de ascitis abdominal y edemas en ambas extremidades inferiores, principalmente en la derecha, asociados en este miembro a eritema, petequias y equímosis. No se aprecian otros datos patológicos a la exploración.
+Resumen de pruebas complementarias: En la analítica de ingreso se obtuvieron los siguientes resultados: Hemoglobina 8,3 gr/dl ; Hematocrito:23,3%;Leucocitos 20.420 por µl (neutrófilos 91,5%); Plaquetas 119.000 por µl ; Dimeros D 14.080 ng/dl; Urea: 178 mg/dl; Creatinina 9 mg/dl; Na 124 mEq/l; K 3,9 mEq/l;Proteinas totales 5,6 gr/dl, LDH 559 UI/l; CPK 239 UI/l;GPT 35 UI/l; GOT 77 UI/l. Se realizó una radiografía de tórax que era normal y una Ecografía y TAC abdominales que reflejaban una ascitis masiva, datos de hepatopatía crónica y esplenomegalia. Con el juicio clínico de insuficiencia renal aguda, en el contexto de un hepatópata crónico de origen enólico y celulitis en extremidad inferior ingresa en el Servicio de Nefrología. Se instaura un tratamiento con diuréticos (Furosemida) y antibioterapia empírica con Ciprofloxacino (1gr/ 24 horas) tras extracción de hemocultivos. A las 24 horas del ingreso el paciente presenta fiebre (38,4º C) y empeoramiento de las lesiones en miembro inferior derecho (MID), con aumento del dolor, extensión de la celulitis y presencia de ampollas. En la analítica se objetiva un empeoramiento en la función renal con valores de creatinina plasmática de 10,60 mg/dl y urea 181 mg/dl, un aumento de la leucocitosis (35.340 por µl, neutrófilos 96,8 %) y alteraciones en la coagulación ( tiempo de protrombina de 28,8 segundos y tiempo de tromboplastina parcial activada de 61,4 segundos). En el hemocultivo realizado al ingreso se aísla Estreptococo Pyogenes, por lo que se inicia antibioterapia intravenosa con Clindamicina y Gentamicina y es ingresado en la Unidad de Cuidados Intensivos (UCI) por presentar inestabilidad hemodinámica y progresión rápida de las lesiones en extremidad inferior visible en pocas horas, con anestesia cutánea, grandes ampollas hasta el tercio medio de muslo y afectación escrotal.Precisa ventilación mecánica invasiva, aminas vasoactivas y hemofiltración veno-venosa continua y se indica intervención quirúrgica urgente en la que se realiza desbridamiento escrotal, desbridamiento de fascia hasta raíz de muslo y amputación abierta supracondílea.
+Evolución y comentarios: Presenta una evolución desfavorable con fracaso multiorgánico (fracaso renal agudo, coagulopatia y síndrome de distrés respiratorio agudo) no respondiendo a medidas de soporte hemodinámico ni a antibioterapia y fallece finalmente a las 24h de la cirugía.
+Remitido por: José Juan Carbayo García Centro de Salud Talavera C/ José Luis Gallo no 2 45600. Talavera de la Reina. Toledo Teléfono: 925830034 Correo electrónico: jjcarbayo@sescam.jccm.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="9" end="13" text="Luis" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="26" end="42" text="Fenandez Ordoñez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="49" end="56" text="5389636" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="63" end="77" text="65 23446726 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="90" end="104" text="Av Irlanda, 18" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="128" end="134" text="Toledo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="139" end="144" text="45005" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="188" end="198" text="07/09/1979" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="206" end="212" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="220" end="227" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="234" end="235" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="255" end="265" text="17/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="296" end="320" text="José Juan Carbayo García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="328" end="339" text="45 45 87365" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="358" end="363" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="367" end="374" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3499" end="3523" text="José Juan Carbayo García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3524" end="3548" text="Centro de Salud Talavera" TYPE="CENTRO_SALUD" comment=""/>
+    <LOCATION id="T6" start="3549" end="3572" text="C/ José Luis Gallo no 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3573" end="3578" text="45600" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3580" end="3600" text="Talavera de la Reina" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3602" end="3608" text="Toledo" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="3619" end="3628" text="925830034" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="3649" end="3673" text="jjcarbayo@sescam.jccm.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

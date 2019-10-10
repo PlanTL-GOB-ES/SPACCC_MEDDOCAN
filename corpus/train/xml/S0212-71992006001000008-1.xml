@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Iván.
+Apellidos: Cerna Ferrero.
+NHC: 7356904.
+NASS: 78 46573956 56.
+Domicilio: C/ San Benito, 4.
+Localidad/ Provincia: Madrid.
+CP: 28046.
+Datos asistenciales.
+Fecha de nacimiento: 19/12/1978.
+País de nacimiento: España.
+Edad: 39 años Sexo: H.
+Fecha de Ingreso: 12/06/2018.
+Médico: Marta Feito Rodríguez  NºCol: 28 28 57480.
+Informe clínico del paciente: Acude a nuestra consulta un varón de 39 años, sin antecedentes personales de interés salvo hipotiroidismo subclínico, remitido desde Atención Primaria para valoración de coloración violácea en falange distal del segundo, tercer y cuarto dedo de ambas manos de 15 días de evolución, además de sensación de frialdad en las zonas referidas; las lesiones eran persistentes tanto en ambientes cálidos como en ambientes fríos, y no se objetivaban episodios de palidez previa ni rubor. No se encontraron antecedentes familiares de interés. El paciente no estaba tomando ninguna medicación vasoconstrictora.
+A la exploración física se objetivó coloración violácea y frialdad en extremos distales de ambas manos de forma bastante simétrica, siendo dichos cambios más notorios en segundo, tercer y cuarto dedo. Los pulsos distales se hallaban conservados, y no existían otras zonas anatómicas afectas. En este momento no se objetivó esclerodactilia, cicatrices puntiformes ni otros hallazgos significativos que sugirieran esclerodermia. La exploración cardiopulmonar no reveló ninguna anomalía.
+Se realizaron varias pruebas complementarias, analíticas y de imagen. Hemograma, electrolitos, coagulación, función hepática, función renal, gasometría arterial, análisis de orina, velocidad de sedimentación globular, niveles de complemento, inmunoglobulinas, crioaglutininas, crioglobulinas y marcadores tumorales fueron normales. Un estudio de función tiroidea objetivó hipotiroidismo subclínico, con anticuerpos antitiroglobulina y antiperoxidasa normales. Las serologías de VHB, VHC, VIH y sífilis resultaron negativas.
+El estudio inmunológico reveló ANA positivos a título 1/2560 con patrón nucleolar y anticuerpos antiDNA, ENA, anticardiolipina, scl70, anticentrómero y factor reumatoide negativos. El TC torácico fue rigurosamente normal.
+Dos meses después el paciente comenzó a presentar esclerodactilia y cicatrices puntiformes en pulpejos de dedos e induración de piel preesternal y región laterocervical de forma simétrica. Se inició tratamiento con pentoxifilina, corticoides orales en pauta descendente y azatioprina, con buen control de su patología.
+Responsable clínico: Dra. Marta Feito Rodríguez Hospital Universitario La Paz Pso de la Castellana, 261 28046 Madrid e-mail: marta8marta@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="32" text="Iván" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="45" end="58" text="Cerna Ferrero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="65" end="72" text="7356904" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="80" end="94" text="78 46573956 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="107" end="123" text="C/ San Benito, 4" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="147" end="153" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="159" end="164" text="28046" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="208" end="218" text="19/12/1978" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="240" end="246" text="España" TYPE="PAIS" comment=""/>
+    <DATE id="T13" start="254" end="261" text="39 años" TYPE="FECHAS" comment=""/>
+    <OTHER id="T12" start="268" end="269" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="289" end="299" text="12/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="309" end="330" text="Marta Feito Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="339" end="350" text="28 28 57480" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="410" end="415" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="419" end="426" text="39 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2558" end="2579" text="Marta Feito Rodríguez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T2" start="2580" end="2609" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T1" start="2610" end="2635" text="Pso de la Castellana, 261" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2636" end="2641" text="28046" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2642" end="2648" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="2657" end="2680" text="marta8marta@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

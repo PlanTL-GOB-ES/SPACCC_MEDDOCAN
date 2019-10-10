@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Candela .
+Apellidos: Gallego Caballero.
+NHC: 6047591.
+NASS: 55 40538848 26.
+Domicilio: Calle Cuba, 2, 5 ,A.
+Localidad/ Provincia: Málaga.
+CP: 29013.
+Datos asistenciales.
+Fecha de nacimiento: 16/10/1958.
+País de nacimiento: España.
+Edad: 56 años Sexo: H.
+Fecha de Ingreso: 14/12/2014.
+Servicio: Nefrología.
+Episodio: 3906202.
+Médico: Remedios Toledo Rojas NºCol: 29 29 18749.
+Historia Actual: Mujer de 56 años, diagnosticada de SSp 13 años antes. Presentaba síndrome seco, astenia y frecuentes episodios de poliartritis. Durante este tiempo, siguió tratamiento prolongado con antiinflamatorios no esteroideos (AINE) y esteroides. Además, en los últimos meses, se había asociado metrotexato con escasa mejoría de los síntomas.
+Tres meses después de haber iniciado tratamiento odontológico con implantes dentales, ingresa con edema facial, síndrome febril y disminución de diuresis.
+Exploración física: En la exploración física destacaban deterioro del estado general, tensión arterial (TA) de 160/90 mmHg, fiebre y edematización submandibular con evidencia de infección activa en arcada dentaria inferior. No presentaba edemas distales ni lesiones cutáneas.
+Pruebas complementarias: En el estudio analítico se detectaron Hb 9,2 g/dl, creatinina 2,9 mg/dl, urea 110 mg/dl, perfil hepático, lipídico, ANCA e inmunoglobulinas normales. ANA positivos, anti-ADN negativos. C3 y C4 bajos, 46 y 1,6 mg/dl, respectivamente. Serología para VHB, VHC y VIH negativa. Hemocultivos negativos. Los ANA, anticuerpos anti-Ro, anti-LA y factor reumatoide (FR) se mantuvieron positivos desde que fuera diagnosticado el SSp. También había presentado, ocasionalmente, hipocomplementemia. En orina se observaron proteinuria (2 g/l) y microhematuria. La ecografía renal fue normal. 
+Evolución: Evolucionó con febrícula vespertina, a pesar de antibioterapia, y oliguria, siendo preciso iniciar tratamiento con diálisis.
+Sospechando una glomerulonefritis (GN) aguda,probablemente postinfecciosa, dado el antecedente del proceso infeccioso mandibular e hipocomplementemia, se realizó biopsia renal con los siguientes resultados:
+El cilindro para microscopia óptica contenía 8 glomérulos que presentaban oclusión capilar difusa por trombos de material proteináceo PAS positivo. Se acompañaban, en algunos glomérulos, de infiltración segmentaria de células inflamatorias. El intersticio mostraba focos aislados de inflamación linfoplasmocitaria y las arterias no presentaban alteraciones.
+En el estudio de inmunofluorescencia directa (IFd) se observó una intensa positividad en los trombos de IgG, IgM, kappa y lambda, siendo más débil para C3 e IgA. C1q y fibrinógeno fueron negativos. El estudio ultraestructural se realizó con posterioridad.
+Diagnóstico Anatomopatológico: Glomérulos con masivos trombos intracapilares de inmunoglobulinas sospechoso de glomerulopatía crioglobulinémica asociada a SS.
+Responsable clínico: Dra. Remedios Toledo Rojas, Servicio de Nefrología, Hospital Regional Universitario Carlos Haya, Avda. Carlos Haya, 82, 2010, Málaga Tel: 951 29 11 74 E-mail: remedios.toledorojas@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="35" text="Candela" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="49" end="66" text="Gallego Caballero" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="73" end="80" text="6047591" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="88" end="102" text="55 40538848 26" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="115" end="134" text="Calle Cuba, 2, 5 ,A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="158" end="164" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="170" end="175" text="29013" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="219" end="229" text="16/10/1958" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="251" end="257" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="265" end="272" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="279" end="280" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="300" end="310" text="14/12/2014" TYPE="FECHAS" comment=""/>
+    <ID id="T12" start="344" end="351" text="3906202" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T11" start="361" end="382" text="Remedios Toledo Rojas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="390" end="401" text="29 29 18749" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="420" end="425" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="429" end="436" text="56 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2929" end="2950" text="Remedios Toledo Rojas" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2976" end="3019" text="Hospital Regional Universitario Carlos Haya" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3021" end="3042" text="Avda. Carlos Haya, 82" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3044" end="3048" text="2010" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3050" end="3056" text="Málaga" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="3062" end="3074" text="951 29 11 74" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="3083" end="3113" text="remedios.toledorojas@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

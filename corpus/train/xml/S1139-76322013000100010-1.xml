@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Ramiro.
+Apellidos: Priego Alvarez.
+NHC: 3874564.
+Domicilio: Calle Medellin, 66, 1 A.
+Localidad/ Provincia: Madrid.
+CP: 28032.
+Datos asistenciales.
+Fecha de nacimiento: 15/01/2014.
+País: España.
+Edad: años Sexo:.
+Fecha de Ingreso: 05/05/2018.
+Médico: Pilar Lalana Josa NºCol: 28 28 61490.
+Informe clínico del paciente: varón de cuatro años sin antecedentes de interés, correctamente vacunado que inicia fiebre de 38,5 oC de 12 horas (h) de evolución, adenopatías submaxilares dolorosas, faringe eritematosa con exudado, sin sintomatología catarral. Además, presentaba exantema micropapular sobreelevado en "piel de gallina" que afectaba al tronco y a los pliegues inguinales y axilares, levemente pruriginoso y ligeramente doloroso a la palpación. Ante la sospecha clínica de escarlatina, se le realiza un test rápido de detección de Streptococcus pyogenes, que fue negativo, por lo que se decide conducta expectante y revisión clínica en 24-48 h. A las 24 h, el estado general había empeorado con fiebre hasta de 39 oC y persistencia de exantema, por lo que, ante la alta sospecha de escarlatina, se decide recoger frotis faríngeo y pautar amoxicilina en dosis de 40 mg/kg/día repartido en una toma cada 8 h. A las 72 h se obtiene el resultado del frotis faríngeo, que es positivo para Staphylococcus aureus (crecimiento abundante) y sensible a amoxicilina/ácido clavulánico. En ese momento, el paciente está clínicamente bien, se encuentra afebril y el exantema ha remitido, por lo que se decide completar el tratamiento con amoxicilina/ácido clavulánico durante ocho días. A las dos semanas del inicio de la fiebre, el paciente presentó descamación de plantas y palmas "en dedo de guante".
+Remitido por: Dra. Pilar Lalana Josa. mplalana@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T15" start="28" end="34" text="Ramiro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T14" start="47" end="61" text="Priego Alvarez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T13" start="68" end="75" text="3874564" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T12" start="88" end="111" text="Calle Medellin, 66, 1 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T11" start="135" end="141" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T10" start="147" end="152" text="28032" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T8" start="196" end="206" text="15/01/2014" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T9" start="214" end="220" text="España" TYPE="PAIS" comment=""/>
+    <DATE id="T7" start="258" end="268" text="05/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="278" end="295" text="Pilar Lalana Josa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="303" end="314" text="28 28 61490" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T3" start="346" end="351" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T2" start="355" end="366" text="cuatro años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="1739" end="1756" text="Pilar Lalana Josa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1758" end="1776" text="mplalana@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

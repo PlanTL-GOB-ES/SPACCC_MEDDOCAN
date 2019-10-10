@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Jonathan.
+Apellidos: Pirez Oviedo.
+CIPA: nhc-789412.
+Domicilio: Av. de Medina Azahara, 5 .
+Localidad/ Provincia: Córdoba.
+CP: 14003.
+NHC:789412.
+Datos asistenciales.
+Fecha de nacimiento: 24/12/1997.
+País: España.
+Edad: 20 años Sexo: H.
+Fecha de Ingreso: 31/03/2018.
+Especialidad: Cirugía General.
+Médico: Maria Dolores Ayllón-Terán NºCol: 14 20 81536.
+Historia Actual: Paciente de 20 años que consultó por crisis hipertensivas de un año de evolución, acompañadas de sudoración profusa, enrojecimiento generalizado, cefalea y, ocasionalmente, dolor lumbar. Las cifras tensionales alcanzaban 230/110 mmHg, desencadenadas a menudo tras un esfuerzo físico. 
+Exploración física: A la exploración física presentaba eritema malar y palmar, que desaparecía con la digitopresión. 
+Resumen de pruebas complementarias: Las pruebas de laboratorio aportaron una elevación de catecolaminas y metanefrinas en orina de 24 horas: excreción de noradrenalina de 7515,77 nmol/24 h (< 504), dopamina 4298,84 nmol/24 h (< 3237) y normetanefrinas 39676 nmol/24 h (< 2424).
+Se realizó ecografía abdominal objetivándose masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización. Ante este hallazgo se realizó tomografía axial computarizada (TAC) abdómino-pélvica, donde se confirmó la existencia de una masa retroperitoneal de 8 x 4 cm por encima de la bifurcación aórtica, que infiltraba la vena cava inferior y bordeaba la aorta en 180o englobando a la arteria mesentérica inferior. Dados los hallazgos del TAC, se realizó cavografía para valorar la resecabilidad, observando un defecto de repleción intracava infrarrenal de 2 cm de diámetro.
+Evolución y comentarios: Ante la sospecha de paraganglioma del órgano de Zuckerkandl, se procedió a bloqueo beta y alfaadrenérgico y, posteriormente, a intervención quirúrgica realizándose una resección en bloque de la tumoración; se seccionó parcialmente la cara anterior de la cava para extirpar el tumor intracava. El posoperatorio transcurrió sin complicaciones, desapareciendo la clínica y normalizándose las determinaciones en plasma y orina de catecolaminas y metanefrinas.
+El diagnóstico anatomopatológico confirmó la sospecha de paraganglioma capsulado bien delimitado, con bajo índice proliferativo (ki 67: 5-7 %). Fue remitido a Oncología Médica, donde solicitaron gammagrafía con 123I-MIBG, que no mostró signos de enfermedad residual ni a distancia. Ante la ausencia de datos que justificaran tratamiento quimioterápico adyuvante, se decidió seguimiento periódico.
+Remitido por: Dra. Maria Dolores Ayllón-Terán Unidad de Gestión Clínica-Cirugía General Hospital Universitario Reina Sofía Avda. Menéndez Pidal, s/n 14004, Córdoba lolesat83@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="8" end="16" text="Jonathan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="29" end="41" text="Pirez Oviedo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="53" end="59" text="789412" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="72" end="96" text="Av. de Medina Azahara, 5" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="121" end="128" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="134" end="139" text="14003" TYPE="TERRITORIO" comment=""/>
+    <ID id="T15" start="145" end="151" text="789412" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="195" end="205" text="24/12/1997" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="213" end="219" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="227" end="234" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="241" end="242" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="262" end="272" text="31/03/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="313" end="339" text="Maria Dolores Ayllón-Terán" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="347" end="358" text="14 20 81536" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T7" start="389" end="396" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2556" end="2582" text="Maria Dolores Ayllón-Terán" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2625" end="2659" text="Hospital Universitario Reina Sofía" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2660" end="2685" text="Avda. Menéndez Pidal, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2686" end="2691" text="14004" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2693" end="2700" text="Córdoba" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2701" end="2722" text="lolesat83@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

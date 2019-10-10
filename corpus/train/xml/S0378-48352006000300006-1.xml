@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Emma .
+Apellidos: Sala Mendez.
+NHC: 4074025.
+NASS: 21 22748042 97.
+Domicilio: Plaça Ramon Berenguer IV, 2, 4, G.
+Localidad/ Provincia: Lleida.
+CP: 25007.
+Datos asistenciales.
+Fecha de nacimiento: 10/03/1972.
+País de nacimiento: España.
+Edad: 42 años Sexo: M.
+Fecha de Ingreso: 28/04/2014.
+Episodio: 3373153.
+Médico: Pedro Nogués Bara   NºCol: 25 25 89135.
+Historia Actual: Mujer de 42 años de edad que consultó por historia de cefalea de 10 días de evolución que se acompañaba de inestabilidad a la marcha.
+Antecedentes de migraña, parálisis facial periférica "a frigore" hace 20 años y episodios de depresión.
+Exploración física: La exploración neurológica mostró una dismetría derecha y una maniobra de Romberg positiva y secuelas de su parálisis facial.
+Pruebas complementarias: Se practicó tomografía computarizada craneal hallando un proceso expansivo que ocupaba hemifosa posterior dcha. La lesión tenía un componente sólido que se realzaba con el producto de contraste y un componente quístico.
+La resonancia magnética cerebral confirmó los hallazgos de la tomografía computarizada. Se encontró una lesión de unos 4 cm de diámetro con un componente sólido y otro quístico, rodeada de edema, localizada en hemisferio cerebeloso dcho. Esta masa era heterogénea e hipointensa en relación al tejido cerebeloso en T1 e hiperintensa en T2. Se realzaba con el Gadolinio. No se acompañaba de hidrocefalia.
+Se intervino practicando una extirpación prácticamente total de la tumoración a través de una craniectomía de hemifosa posterior dcha.
+La evolución postoperatoria fue satisfactoria quedando la paciente totalmente asintomática. Una RM cerebral de control mostró una amplia resección de la tumoración con un mínimo resto en la porción más craneal del hemisferio cerebeloso dcho. junto al tronco del encéfalo.
+El estudio anatomo-patológico diagnosticó un Glioblastoma multiforme (grado IV, clasificación de la OMS) con extensas zonas de necrosis y abscesificación. Las células tumorales presentaron positividad nuclear inmunohistoquímica para p53.
+Posteriormente la paciente se trató con Radioterapia focal en fosa posterior 60 Gy, 2 Gy/d ICRU (Internacional Comisión on Radiation Units) concomitante con Temozolomida 75 mg/m2 según esquema de la EORTC 22981 (European Organization for Research and Treatment of Cancer).
+A los 8 meses de la intervención la paciente se mantiene asintomática, aunque en la RM cerebral de control se evidencia el inicio de una recidiva del tumor.
+Responsable clínico: Dr. Pedro Nogués Bara. Neurocirugía Hospital Universitari Arnau de Vilanova Av. Alcalde Rovira Roure, 80 E-25198 Lleida pnogues@arnau.scs.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="32" text="Emma" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="46" end="57" text="Sala Mendez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="64" end="71" text="4074025" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="79" end="93" text="21 22748042 97" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="106" end="139" text="Plaça Ramon Berenguer IV, 2, 4, G" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="163" end="169" text="Lleida" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="175" end="180" text="25007" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="224" end="234" text="10/03/1972" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="270" end="277" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="284" end="285" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="305" end="315" text="28/04/2014" TYPE="FECHAS" comment=""/>
+    <ID id="T9" start="327" end="334" text="3373153" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T8" start="344" end="361" text="Pedro Nogués Bara" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="371" end="382" text="25 25 89135" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="401" end="406" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="410" end="417" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2533" end="2550" text="Pedro Nogués Bara" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2565" end="2604" text="Hospital Universitari Arnau de Vilanova" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2605" end="2633" text="Av. Alcalde Rovira Roure, 80" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2634" end="2641" text="E-25198" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2642" end="2648" text="Lleida" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2649" end="2669" text="pnogues@arnau.scs.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

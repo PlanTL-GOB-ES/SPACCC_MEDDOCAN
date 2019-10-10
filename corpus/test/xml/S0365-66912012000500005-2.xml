@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Miguel.
+Apellidos: Aznar Gutierrez.
+NHC: 7823645.
+NASS:35 78659867 98.
+Domicilio: Calle la bañeza 38, 9A.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 10/10/1959.
+País: España.
+Edad: 58 años Sexo: H.
+Fecha de Ingreso: 21/12/2017.
+Servicio: Oftalmologia.
+Médico: Ana  González-Gómez NºCol: 28 28 97461.
+Historia del paciente: Varón de 58 años, que acude por pérdida de visión súbita en su OI. El paciente se encontraba en seguimiento por Medicina Interna y Dermatología desde hace 12 años por PXE.
+Su MAVC en el OD era de 0,6 y en el OI de 0,4. No se hallaron alteraciones en la PIO ni en la BMC de polo anterior.
+En la exploración del FO se evidenciaron EA bilaterales. En el OD, destacaba una lesión gliótica amarillento-grisácea elevada y, en el OI, una imagen trirradiada pigmentada bordeada de zonas anaranjadas en el área macular, junto con una pequeña lesión yuxtafoveal, algo grisácea y discretamente sobreelevada, rodeada de abundantes hemorragias subretinianas, sobre todo nasales. La sospecha de membrana NVC en el seno de una distrofia retiniana «en patrón reticular» nos llevó a realizarle una AFG, donde se observaba una escara gliótica en el OD y, en el OI, una imagen hipofluorescente a modo de retículo, en cuya zona superior aparecía una lesión hiperfluorescente con bordes en encaje que aumentaba en intensidad y tamaño en los tiempos tardíos, con lo cual se confirmó la sospecha anterior. La OCT corroboraba el diagnóstico, pues ponía de manifiesto una discreta elevación de la banda EPR-coriocapilar.
+La FA del OI revelaba una imagen curiosa, pues la distrofia en patrón aparecía como el negativo de la imagen angiográfica; es decir, el retículo, que angiográficamente se presentaba hipofluorescente, en la FA se mostraba intensamente hiper-FA por la alteración del EPR a ese nivel.
+En este caso, se instauró el mismo tratamiento que en la paciente anterior según el protocolo ya descrito. Se consiguió una mayor AV, llegando a 0,7. En las OCT evolutivas se observó una disminución progresiva del grosor macular y la AFG de control puso de manifiesto la mejoría del cuadro.
+Remitido por: Ana González-Gómez Correo electrónico: anagg_82@hotmail.com ()
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="9" end="15" text="Miguel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="28" end="43" text="Aznar Gutierrez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="50" end="57" text="7823645" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="64" end="78" text="35 78659867 98" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="91" end="113" text="Calle la bañeza 38, 9A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="137" end="143" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="149" end="154" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="198" end="208" text="10/10/1959" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="216" end="222" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="230" end="237" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="244" end="245" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="265" end="275" text="21/12/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="309" end="328" text="Ana  González-Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="336" end="347" text="28 28 97461" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="372" end="377" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="381" end="388" text="58 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="2155" end="2173" text="Ana González-Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2194" end="2214" text="anagg_82@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

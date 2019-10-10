@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Elsa.
+Apellidos: Pineda Cardona.
+NHC: 82705.
+NASS: 94 38795456 22.
+Domicilio: Calle Bausá, 27.
+Localidad/ Provincia: Madrid.
+CP: 28033.
+Datos asistenciales.
+Fecha de nacimiento: 19/12/1942.
+País: España.
+Edad: 75 años Sexo:M.
+Fecha de Ingreso: 18/05/2018.
+Médico: Maria Musquera Prieto NºCol: 28 07 56898.
+Informe Clínico: paciente de 75 años, con Alzheimer moderado que acudió por dolor abdominal de tres días de evolución, con fiebre. A la exploración presenta dolor abdominal difuso y peritonismo. Se solicitó una tomografía computerizada (CT) que informó de presencia de líquido libre, neumoperitoneo, con infiltración y engrosamiento de toda la pared del colon con presencia de heces calcificadas en su interior. No se visualizó la localización de la perforación (imagen). Se decidió intervenir la paciente de manera urgente hallándose una peritonitis fecaloidea difusa con salida de fecalomas pétreos por perforación a nivel de sigma. Se realizó una intervención de Hartmann, con una hemicolectomía izquierda por hallar una nueva perforación a nivel del ángulo esplénico del colon.
+Remitido por: Maria Musquera Prieto Correo electrónico: mmusquer@clinic.ub.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="9" end="13" text="Elsa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="26" end="40" text="Pineda Cardona" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="47" end="52" text="82705" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T14" start="60" end="74" text="94 38795456 22" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T13" start="87" end="102" text="Calle Bausá, 27" TYPE="CALLE" comment=""/>
+    <LOCATION id="T12" start="126" end="132" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T11" start="138" end="143" text="28033" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="187" end="197" text="19/12/1942" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T8" start="205" end="211" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T7" start="219" end="226" text="75 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T5" start="232" end="233" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="253" end="263" text="18/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="273" end="294" text="Maria Musquera Prieto" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="302" end="313" text="28 07 56898" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T6" start="344" end="351" text="75 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="1111" end="1132" text="Maria Musquera Prieto" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1153" end="1174" text="mmusquer@clinic.ub.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

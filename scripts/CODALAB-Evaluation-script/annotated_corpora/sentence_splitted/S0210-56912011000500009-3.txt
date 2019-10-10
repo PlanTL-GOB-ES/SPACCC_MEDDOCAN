@@ -1,0 +1,16 @@
+Datos del paciente.
+Nombre: Sandro.
+Apellidos: Cardona Escribano.
+NHC: 7843955.
+NASS: 47 89637596 31.
+Domicilio: C/ Patricio Rico, 36, 1 B.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 21/08/1960.
+País de nacimiento: España.
+Edad: 57 años Sexo: 13/11/2015.
+Fecha de Ingreso: 06/02/2018.
+Médico: Milton Gómez Grande NºCol: 28 28 57410.
+Informe clínico del paciente: Varón de 57 años, sin antecedentes de interés, que acudió al servicio de urgencias hospitalario por dolor torácico. Se diagnosticó un síndrome coronario agudo con ascenso del segmento ST en la cara anterior cardiaca y se realizó una coronariografía percutánea. El paciente presentaba una lesión en la porción media de la arteria coronaria descendente anterior, por lo que se realizó angioplastia y se colocó un stent, sin complicaciones, tras haber administrado 300 mg de ácido acetilsalicílico, 300 mg de clopidogrel y 5.000 UI de heparina sódica intravenosa. Al final del procedimiento el paciente estaba en Killip III y presentó una hematemesis masiva. La saturación arterial de O2 era del 92%, con un Ventimask al 50% 10 lpm. Se realizó una endoscopia digestiva con soporte respiratorio con CPAP-B, según el protocolo descrito, y se observó una lesión de Mallory Weiss. La hemoglobina cayó de 15,1 a 13g/dl y el hematocrito del 43,6 al 39,1%. Al finalizar el procedimiento, el paciente presentaba saturación de 100% y pudo retirarse la CPAP-B (no se realizó gasometría arterial por el riesgo de sangrado tras la administración de anticoagulantes y antiagregantes).
+Responsable clínico: Dr. Milton Gómez Grande. Correo Electrónico: mlgomezgrande2000@yahoo.es

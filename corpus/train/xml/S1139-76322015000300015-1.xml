@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Emilio.
+Apellidos: Lozano Ruiz.
+NHC: 8436914.
+Domicilio: Av. del Padre Isla 23, 3º A.
+Localidad/ Provincia: León.
+CP: 24002.
+Datos asistenciales.
+Fecha de nacimiento: 15/11/2010.
+País: España.
+Edad: 6 años Sexo: H.
+Fecha de Ingreso: 04/03/2017.
+Médico: Aída González Benavides NºCol: 24 24 693.
+Informe clínico del paciente: Niño de 6 años de edad, como únicos antecedentes cuenta con una operación de criptorquidia izquierda; está vacunado correctamente para su edad. Con cinco años presenta por primera vez inflamación parotídea bilateral (con eritema, hinchazón y dolor), acompañada de fiebre que fue manejado de forma ambulatoria con amoxicilina-clavulánico y antiinflamatorios por vía oral. Tuvo un segundo episodio, también manejado de forma ambulatoria.
+El tercer episodio precisó ingreso hospitalario por mala evolución clínica y afectación del estado general tras el inicio de tratamiento con amoxicilina-clavulánico por vía oral. En la exploración física destacaba una tumoración laterocervical bilateral (inicialmente derecha) que borraba el ángulo mandibular, sin signos de fluctuación ni secreción o signos inflamatorios de conducto de Stenon. Se realizó una analítica sanguínea, que mostró una importante leucocitosis (24 100/mm3) con neutrofilia (78,7%), proteína C reactiva (PCR) de 4,11 mg/dl y elevación de la α-amilasa (hasta 1451 U/l). Durante el ingreso se realizó una ecografía que mostró un aumento del tamaño de las parótidas, con aumento de densidad, heterogéneas y con focos hipoecoicos. El paciente recibió tratamiento con amoxicilina-clavulánico durante dos días por vía intravenosa, completando ocho días más por vía oral, analgesia y antiinflamatorios, con buena evolución posterior.
+La consulta de Infectología Pediátrica ha realizado el seguimiento del paciente, desde donde se ha completado el estudio. Se han realizado un estudio de inmunidad, que ha sido normal, pruebas reumatoideas, negativas y estudio serológico, negativo, excepto la serología vacunal antiparotiditis, que fue positiva.
+En la actualidad no ha presentado nuevos episodios desde hace más de un año.
+Remitido por: Aída González Benavides. Email: aidaglezbenavides@gmail.com Hospital Universitario de León. Altos de Navas, s/n, 24071 León
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="29" end="35" text="Emilio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="48" end="59" text="Lozano Ruiz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="66" end="73" text="8436914" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="86" end="113" text="Av. del Padre Isla 23, 3º A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="137" end="141" text="León" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="147" end="152" text="24002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="196" end="206" text="15/11/2010" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="214" end="220" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="228" end="234" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="241" end="242" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="262" end="272" text="04/03/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="282" end="305" text="Aída González Benavides" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="313" end="322" text="24 24 693" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="354" end="358" text="Niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="362" end="368" text="6 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="502" end="512" text="cinco años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2146" end="2169" text="Aída González Benavides" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T5" start="2178" end="2205" text="aidaglezbenavides@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T4" start="2206" end="2236" text="Hospital Universitario de León" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="2238" end="2257" text="Altos de Navas, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="2259" end="2264" text="24071" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2265" end="2269" text="León" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

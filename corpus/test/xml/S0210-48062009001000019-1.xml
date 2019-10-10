@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Aitor .
+Apellidos: Mendieta Rodrigo .
+NASS: 15 23456856 74.
+Domicilio: Calle Larre 27, 6G.
+Localidad/ Provincia: Tolosa.
+CP: 20400.
+NHC: 4561356.
+Datos asistenciales.
+Fecha de nacimiento: 06/01/1935.
+País: España.
+Edad: 81  Sexo: H.
+Fecha de Ingreso: 23/082016.
+Especialidad: Urologia.
+Médico: Nerea Senarriaga Ruiz de la Illa  NºCol: 20 20 81556.
+Historia Actual: Varón de 81 años, remitido desde el ambulatorio a nuestras consultas de urología por sintomatología del aparato urinario inferior. Presenta, como antecedentes personales, hipertensión arterial en tratamiento con inhibidores de la enzima de conversión de angiotensina, intervención quirúrgica de ulcus duodenal en el año 1961 y colecistectomía en 2002.
+En la ecografía abdominopelviana se diagnostica, de forma casual, un aneurisma de aorta abdominal infrarrenal. Mediante TC se descubre que no afecta a la bifurcación de las ilíacas. Asimismo, en dicha exploración se observan los riñones con una morfología compatible con riñones en herradura, con istmo localizado a nivel de la aorta abdominal infrarrenal. Nuestro caso revela la situación, en principio, más favorable a la hora del abordaje quirúrgico, ya que el aneurisma se origina distal, a 4 cm, de la salida de las arterias renales principales, que son dos, una para cada mitad renal. No hay ninguna arteria adicional a nivel del istmo.
+En controles sucesivos, se evidenció un aumento progresivo del diámetro aórtico que, en una TC de control, había alcanzado un diámetro máximo de 8 cm.
+Ante estos hallazgos, el servicio de cirugía vascular decide plantear tratamiento quirúrgico del aneurisma.
+Exploración física: En la exploración física, conserva pulsos y se palpa latido abdominal expansivo. El resto de la exploración resultó sin interés.
+Resumen de pruebas complementarias: Se realiza, dentro del protocolo preoperatorio de aneurismas, un ecocardiograma basal y pruebas de función respiratoria, todos ellos sin alteraciones significativas.
+Se opta por un abordaje retroperitoneal con resección del aneurisma de la aorta infrarrenal y bypass aortoaórtico con prótesis de Hemashield de 16 mm, sin complicaciones intraoperatorias. Y no se visualizan arterias lumbares ni polares.
+Evolución y comentarios: El curso postoperatorio transcurre con normalidad, sin objetivarse complicaciones derivadas del procedimiento, y el paciente mantiene una adecuada función renal. Al alta presentaba todos los pulsos.
+El paciente se encuentra asintomático en cuanto a la alteración vascular; conserva todos los pulsos en las extremidades inferiores, con parámetros de función renal conservada y una angio-TC de control, a los 6 meses de la intervención, muestra bypass aortoaórtico sin fugas ni evidencia de áreas de dilatación aneurismática.
+Se realiza, a su vez, una urografía intravenosa, donde se objetivan los riñones con morfología en herradura, unión pieloureteral en el plano anterior sin alteraciones significativas, como tampoco en los sistemas colectores.
+Remitido por: Dra. Nerea Senarriaga Ruiz de la Illa. Hospital Universitario de Donostia. Email: nerea.senarriagaruiz@osakidetza.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="9" end="14" text="Aitor" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="28" end="44" text="Mendieta Rodrigo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="53" end="67" text="15 23456856 74" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="80" end="98" text="Calle Larre 27, 6G" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="122" end="128" text="Tolosa" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="134" end="139" text="20400" TYPE="TERRITORIO" comment=""/>
+    <ID id="T15" start="146" end="153" text="4561356" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="197" end="207" text="06/01/1935" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="215" end="221" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="229" end="231" text="81" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="239" end="240" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="260" end="269" text="23/082016" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="303" end="335" text="Nerea Senarriaga Ruiz de la Illa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="344" end="355" text="20 20 81556" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="374" end="379" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T6" start="383" end="390" text="81 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T2" start="690" end="698" text="año 1961" TYPE="FECHAS" comment=""/>
+    <DATE id="T1" start="720" end="724" text="2002" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="3008" end="3040" text="Nerea Senarriaga Ruiz de la Illa" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="3042" end="3076" text="Hospital Universitario de Donostia" TYPE="HOSPITAL" comment=""/>
+    <CONTACT id="T3" start="3085" end="3120" text="nerea.senarriagaruiz@osakidetza.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Melinda .
+Apellidos: Alveiro Osores.
+NHC: 5684207/222.
+Domicilio: Rúa do Auñón #324.
+Localidad/ Provincia: Sao Paulo.
+CP: 04005.
+Datos asistenciales.
+Fecha de nacimiento: 05/03/1975.
+País de nacimiento: Brasil.
+Edad: 42 años Sexo: M.
+Fecha de Ingreso: 24/06/2017.
+Médico: Ithamar Nogueira Stocchero .
+Informe clínico del paciente: Paciente de 42 años, casada, unigesta (gemelar), con historia de 20 años de infecciones de repetición en el área genital. A los 22 años contrajo HPV; durante años fue tratada con láser, sin éxito. Padeció infecciones por Cándida albicans, al menos una vez al mes. A los 34 años padeció herpes genital. Los episodios de candidiasis empeoraron, alternando con herpes. El dolor vaginal constante le hacía imposible mantener una actividad sexual regular. A los 36 años se sometió a tratamiento de fertilización in vitro (FIV), con resultado de gestación gemelar llevada a término. A los 38 años, fue sometida a una nueva cauterización vaginal con láser, que evolucionó con ulceraciones repetidas, principalmente en dos localizaciones, siempre de muy difícil cicatrización. Presentaba vagina seca permanentemente y no podía usar pantalones por dolor constante. Ante la insatisfacción provocada por los tratamientos convencionales y sin éxito, con su vida íntima en un nivel inaceptable, la paciente buscaba otra alternativa.
+Teniendo en cuenta el conocimiento adquirido sobre el tratamiento de heridas y la buena evolución de las úlceras crónicas tratadas con injerto de lipoaspirado (que contiene la mayor parte de los FEV y de las ADSCs (1)), le propusimos una solución innovadora para su caso.
+Esta propuesta consistía en:
+1. Resección de las áreas vaginales con heridas de repetición, y cobertura con colgajos locales de rotación.
+2. Lipoinjerto en labios mayores para aumentar su volumen y de esta manera, cerrar el orificio vulvar y retener la humedad natural.
+3. Lipoinjerto laminar colocado debajo de la mucosa vaginal, en todo su hemisferio posterior, buscando aumentar la capacidad de respuesta inflamatoria, mejorar el poder de cicatrización y dar resistencia a los tejidos.
+Una vez aceptada la propuesta por la paciente, se llevó a cabo la cirugía con programación previa y bajo anestesia general. Aunque las áreas donantes de grasa con mayor producción de células tronco sean las del tronco corporal (3), en este caso optamos por aspirar de las caderas, empleando técnica tumescente con suero fisiológico y adrenalina a 1 /500.000, siguiendo la práctica habitual de nuestro grupo (4). Para la lipoaspiración empleamos cánulas de 4 mm de diámetro y de 3 mm para el injerto. De la columna de aspirado (aproximadamente unos 400 cc. Fig. 1), tras una espera de 40 minutos para sedimentación, despreciamos la capa de aceite de la superficie, resultante de la rotura de los adipocitos, y el líquido residual del fondo, producto de la infiltración en su mayor parte. Injertamos 10 cc de grasa en cada labio mayor, tunelizados en capas, y 4 cc en la submucosa posterior de la vagina siguiendo técnica de retroinyección, de forma paralela y laminar; previamente habíamos realizado la resección de dos úlceras vaginales y aproximación del músculo transverso superficial del perineo, con pequeña perineoplastia posterior para el cierre. La paciente recibió el alta hospitalaria al día siguiente de la intervención. Eliminó dos puntos internos de hilo de sutura de ácido poliglicólico a la tres y a las cuatro semanas.
+En cuanto a la recuperación, retomó sus actividades profesionales a los tres días de la cirugía, sus actividades deportivas a las tres semanas y por recelo, no volvió a mantener relaciones sexuales hasta los dos meses. Por restricción del perineo, presentó pequeña fisura junto a la comisura vaginal posterior tras la relación sexual, que cicatrizó rápidamente.
+Hasta el momento, tras 9 meses de seguimiento, no ha presentado recidiva de herpes, ni de otro tipo de infección; presenta humedad permanente de la vagina, aspecto que ella desconocía ya que siempre había convivido con sequedad local. El introito vaginal se mantiene cerrado, los labios mayores presentan un aspecto juvenil y turgente y la paciente puede usar cualquier tipo de vestimenta. Sus únicas quejas son relativas a la aparición ocasional de fisuras en la comisura posterior tras el acto sexual, y una pequeña herida de 3 X 1 cm., dolorosa, que ocasionalmente aparece en el punto donde se colocó un punto de sutura irreabsorbible en profundidad, pero que no coincide con la zona donde estaban anteriormente la úlceras provocadas por la laserterapia. Estos problemas se producen por acción mecánica y son susceptibles de corrección; son debidos a un pequeño exceso en el cierre del perineo y a una reacción al hilo de sutura, y no por falta de resistencia de los tejidos, que era el principal objetivo del tratamiento y que obtuvo pleno éxito, ya que sabemos por Resonancia Magnética realizada a los 2 meses de la cirugía, que ya se había estabilizado el material lipoinjertado en su nuevo lecho (2), así como la angiogénesis inducida por los FVE, que ya actuaba plenamente, permitiendo una mejora en la resistencia de la mucosa y restaurándola a su normalidad. Tras este periodo, se considera superado el momento crítico para este tipo de cirugía.
+Responsable clínico: Dr. Ithamar Nogueira Stocchero Centro Médico Viver Melhor Rua Abilio Soares, 1337. 04005-005 Sao Paulo SP Brasil e-mail: dr.ithamar@vivermelhor.com.br
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="28" end="35" text="Melinda" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="49" end="63" text="Alveiro Osores" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="70" end="81" text="5684207/222" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T23" start="94" end="111" text="Rúa do Auñón #324" TYPE="CALLE" comment=""/>
+    <LOCATION id="T22" start="135" end="144" text="Sao Paulo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="150" end="155" text="04005" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T20" start="199" end="209" text="05/03/1975" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T19" start="231" end="237" text="Brasil" TYPE="PAIS" comment=""/>
+    <AGE id="T18" start="245" end="252" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T17" start="259" end="260" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="280" end="290" text="24/06/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T15" start="300" end="326" text="Ithamar Nogueira Stocchero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T14" start="371" end="378" text="42 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T13" start="380" end="386" text="casada" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="487" end="494" text="22 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="629" end="636" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="816" end="823" text="36 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="942" end="949" text="38 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="5317" end="5343" text="Ithamar Nogueira Stocchero" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="5344" end="5370" text="Centro Médico Viver Melhor" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T6" start="5371" end="5394" text="Rua Abilio Soares, 1337" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="5396" end="5405" text="04005-005" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="5406" end="5415" text="Sao Paulo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="5416" end="5418" text="SP" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="5419" end="5425" text="Brasil" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="5434" end="5463" text="dr.ithamar@vivermelhor.com.br" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

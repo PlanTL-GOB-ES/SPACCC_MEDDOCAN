@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Nerea.
+Apellidos: Herreo Garcia.
+NHC: 2780563.
+Domicilio: Av. VIlla de Vallecas, 12.
+Localidad/ Provincia: Madrid.
+CP: 28015.
+Datos asistenciales.
+Fecha de nacimiento: 21/03/2000.
+País: España.
+Edad: 13 años Sexo: M.
+Fecha de Ingreso: 14/05/2013.
+Médico: Sebastian Goretti Gómez NºCol: 28 28 61652.
+Informe clínico del paciente: Niña de 13 años, sin antecedentes de interés, que acude a la consulta por un cuadro de vómitos intensos y dolor abdominal de cinco días de evolución. Presenta un regular estado general, sin signos de deshidratación, con dolor difuso abdominal, sin otra sintomatología acompañante. Durante su estancia presenta, tras los vómitos, dolor torácico y crepitación en cuello de forma brusca. Se deriva a Urgencias para su evaluación. En la radiografía de tórax se observan signos de neumomediastino y enfisema subcutáneo en el cuello y la región superior del tórax. Se pauta sueroterapia y antieméticos intravenosos, cediendo los vómitos, por lo que se le da el alta sin precisar ingreso. En un control posterior en consulta cinco días más tarde, vemos la resolución del cuadro, sin presentar complicaciones.
+Remitido por: Dr. Sebastian Goretti Gómez. Correo electrónico: gorettigomez@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="29" end="34" text="Nerea" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="47" end="60" text="Herreo Garcia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="67" end="74" text="2780563" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T14" start="87" end="112" text="Av. VIlla de Vallecas, 12" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="136" end="142" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="148" end="153" text="28015" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="197" end="207" text="21/03/2000" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="215" end="221" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="229" end="236" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="243" end="244" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="264" end="274" text="14/05/2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="284" end="307" text="Sebastian Goretti Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="315" end="326" text="28 28 61652" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="358" end="362" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="366" end="373" text="13 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="1178" end="1201" text="Sebastian Goretti Gómez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1223" end="1247" text="gorettigomez@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Yordan .
+Apellidos: Yovkov.
+NHC: 4678159.
+Domicilio: Calle Concepción Benítez, 2, Bajo A.
+Localidad/ Provincia: Pamplona.
+CP:31010.
+Datos asistenciales.
+Fecha de nacimiento: 07/01/1978.
+País: Bulgaria.
+Edad: 40 años Sexo: H.
+Fecha de Ingreso: 14/05/2018.
+Médico: Manuel Solano Remírez NºCol:31 28 46571.
+Historia Actual: varón de 40 años de nacionalidad búlgaro, de profesión empleado en Carpintería metálica, Había sido visto hacía 21 días antes de ingresar por dolor en flanco derecho con irradiación hacia testículo ipsilateral que se catalogó como probable cólico renal y tratado con analgesia, con evolución favorable; posteriormente comenzó de nuevo con clínica similar acompañada de sensación nauseosa sin fiebre termometrada ni síndrome miccional; no refería pérdida apetito ni peso. Acudió de nuevo a Urgencias donde se realizó ecografía abdominal que describía la presencia de hidronefrosis grado II/IV y una masa en reteroperitoneo derecho de unos 6-7 cm, por lo que fue ingresado para estudio. El paciente refiere dolor en flanco/fosa renal derecha que le irradia hasta teste ipsilateral sin náuseas ni vómitos ni fiebre termometrada.
+Antecedentes: reflujo gastroesofágico y cardias incompetente, no intervenido quirúrgicamente ni transfundido previamente, fumador de 15-20 cig/día y exbebedor moderado hasta hace 4 años. Entre los antecedentes familiares la madre, el padre y un hermano con nefrolitiasis. 
+Exploración física y de pruebas complementarias: En la exploración únicamente destacaba sucusión renal derecha positiva. ECG a ritmo sinusal a 76 lpm; la radiografía de tórax sin alteraciones patológicas significativas. En la analítica de sangre destacaba fibrinógeno 478 mg/dL (150-450), VSG21 mm/hora (2-15), urea 52 mg/dL (10-50), creatinina 1,4 mg/dL (0,6-1,2), LDH 446 U/L (0-288), gonadotropinacoriónica humana 7 UI/L (0-5) y alfafetoproteína 2,2 kU/L (0,5-7). Se realizó TAC abdominopélvica donde se describía en el retroperitoneo medio (entre la aorta y la vena cava inferior) se aprecia un masa de "tejido blando" única de morfología redondeada (7 x 5,5 cm) con una densidad uniforme y un área focal de menor atenuación que "engloba" la vena cava inferior y el ureter derecho con una hidronefrosis grado 2; la lesión está bien delimitada y no se aprecian adenopatías ni lesiones satélites acompañantes. Se realiza interconsulta urgente a Urología que realiza nefrostomía derecha. Se realiza biopsia trucut de masa retroperitoneal guiada por ecografía y se manda pieza a anatomía patológica que la informa como una neoformación constituida por células de gran tamaño que se disponen en nidos, con escasa cohesividad y un citoplasma de límites imprecisos, en general finamente vacuolado, los núcleos son redondeados o hendidos, y presentan un gran nucleolo y las células se disponen formando núcleos y están rodeadas de una gran cantidad de células linfoides de pequeño tamaño, correspondientes a linfocitos maduros, siendo las células tumorales positivas para C-Kit, siendo compatible con tumor germinal tipo seminoma clásico. Ante ello se realiza ecografía de testes donde se observa en el teste derecho una lesión nodular-ovoidea, isodensa con halo hipodenso periférico, de 16 mm, situada en la mitad superior y subcapsular anterior, además otro pequeño nódulo hiperecoico próximo de aproximadamente 5 mm compatible con tumor testicular derecho. Posteriormente se derivó al Servicio de Urología, tras consulta con Oncología, para realizar orquiectomía y pasar posteriormente a realizar ciclos de quimioterapia en el Servicio de Oncología.
+Remitido por: Manuel Solano Remírez. C/ Juan Bosco, 17, 2º Izda. 31007 Pamplona. Navarra. e-mail: manoloso@eresmas.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="9" end="15" text="Yordan" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="29" end="35" text="Yovkov" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="42" end="49" text="4678159" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T22" start="62" end="97" text="Calle Concepción Benítez, 2, Bajo A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="121" end="129" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="134" end="139" text="31010" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="183" end="193" text="07/01/1978" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="201" end="209" text="Bulgaria" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="217" end="224" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="231" end="232" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="252" end="262" text="14/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T14" start="272" end="293" text="Manuel Solano Remírez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T13" start="300" end="311" text="31 28 46571" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="330" end="335" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="339" end="346" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <PROFESSION id="T10" start="385" end="417" text="empleado en Carpintería metálica" TYPE="PROFESION" comment=""/>
+    <OTHER id="T9" start="1380" end="1385" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="1390" end="1395" text="padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="1398" end="1408" text="un hermano" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="3592" end="3613" text="Manuel Solano Remírez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3615" end="3641" text="C/ Juan Bosco, 17, 2º Izda" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3643" end="3648" text="31007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3649" end="3657" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="3659" end="3666" text="Navarra" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="3676" end="3696" text="manoloso@eresmas.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

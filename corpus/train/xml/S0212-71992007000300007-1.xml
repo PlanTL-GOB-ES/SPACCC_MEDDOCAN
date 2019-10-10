@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Ana.
+Apellidos: Banquells Justo.
+NHC: 8974329.
+NASS: 73 74365730 56.
+Domicilio: Avda. Benidorm, 5, 2 A.
+Localidad/ Provincia: Lleida.
+CP: 25198.
+Datos asistenciales.
+Fecha de nacimiento: 25/04/1941.
+País de nacimiento: España.
+Edad: 74 años Sexo: M.
+Fecha de Ingreso: 04/11/2015.
+Servicio: Medicina Interna.
+Episodio: 8934751.
+Médico: Isabel Gázquez Sisteré NºCol: 25 25 67810.
+Motivo de ingreso: Vértigo Roartorio.
+Historia Actual: mujer de 74 años ingresó en nuestro centro por presentar desde hacía una semana sensación de vértigo rotatorio con náuseas y vómitos, inestabilidad de la marcha, diplopía binocular horizontal y alteraciones del habla. 
+Antecedentes: Entre los antecedentes personales destacaba alergia a contraste iodado y carcinoma de mama ductal infiltrante con receptores a estrógenos y progesterona positivos y ganglios negativos tres años antes. Realizó tratamiento quirúrgico y radioterapia de la mama residual. Actualmente estaba en remisión y seguía tratamiento con anastrozol. 
+Exploración física: La exploración física puso de manifiesto un habla escandida, nistagmo con componente rápido rotatorio en todas las direcciones de la mirada, paresia de IV par craneal derecho, ataxia truncal invalidante con imposibilidad para la marcha y dismetria en las cuatro extremidades. Las funciones corticales superiores estaban conservadas. 
+Pruebas complementarias: En los análisis generales se evidenció: un hemograma bioquímica general y hemostasia normales. Los marcadores tumorales habituales (CA 125, CA 15-3, CA19-9, alfafetoproteína y antígeno carcinoembrionario) eran normales. Se realizó un estudio de neuroimagen con tomografía axial computarizada (TC) y resonancia magnética (RM) cerebrales que fueron normal. Se sospechó DCP y se determinaron los anticuerpos anti-Yo que fueron positivos a títulos altos en suero y en LCR. Mientras se realizaba el estudio de neoplasia oculta se inició tratamiento con inmunoglobulinas, ciclofosfamida y metilprednisolona sin mejoría clínica evidente. En la TC toracoabdominal, mamografía, RM de mama y gammagrafía ósea no se evidenció patología tumoral. La tomografía con emisión de positrones (PET) mostró dos lesiones nodulares de 15 mm localizadas detrás de la cabeza pancreática compatibles con adenopatías mesentéricas de etiología maligna. No se observaron otros focos sospechosos de malignidad. Se realizó laparotomía y biopsia. 
+Evolución: El estudio anatomopatológico mostraba la presencia de metástasis de adenocarcinoma mal diferenciado. Se consideró el diagnostico de metástasis de carcinoma de mama y el Servicio de Oncología Médica inició tratamiento con epirubicina y ciclofosfamida. La evolución clínica de la paciente fue hacia la estabilización sin mejoría de signos y síntomas, la paciente no era capaz de realizar sola las actividades de la vida diaria y necesitaba silla de ruedas para los desplazamientos.
+Responsable clínico: Dra. Isabel Gázquez Sisteré. Servicio de Medicina Interna. Hospital Arnau de Vilanova. Avda. Alcalde Rovira Roure, 80. 25198 Lleida. Fax: 973 70 52 63. e-mail: igazquez@arnau.scs.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="31" text="Ana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="44" end="59" text="Banquells Justo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="66" end="73" text="8974329" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="81" end="95" text="73 74365730 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="108" end="130" text="Avda. Benidorm, 5, 2 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="154" end="160" text="Lleida" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="166" end="171" text="25198" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="215" end="225" text="25/04/1941" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="247" end="253" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="261" end="268" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="275" end="276" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="296" end="306" text="04/11/2015" TYPE="FECHAS" comment=""/>
+    <ID id="T11" start="346" end="353" text="8934751" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="363" end="385" text="Isabel Gázquez Sisteré" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="393" end="404" text="25 25 67810" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T8" start="470" end="477" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2944" end="2966" text="Isabel Gázquez Sisteré" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2998" end="3024" text="Hospital Arnau de Vilanova" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3026" end="3056" text="Avda. Alcalde Rovira Roure, 80" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3058" end="3063" text="25198" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3064" end="3070" text="Lleida" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="3077" end="3089" text="973 70 52 63" TYPE="NUMERO_FAX" comment=""/>
+    <CONTACT id="T1" start="3099" end="3120" text="igazquez@arnau.scs.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Carmen .
+Apellidos: Dominguez Martin.
+NHC: 7465420 .
+NASS:90 53669609 12.
+Domicilio: Carrer de la Boqueria, 23, 6, A.
+Localidad/ Provincia: Barcelona.
+CP: 08002.
+Datos asistenciales.
+Fecha de nacimiento: 01/03/1937.
+País de nacimiento: España.
+Edad: 74 años Sexo: M.
+Fecha de Ingreso: 17/07/2011.
+Servicio: Urología.
+Episodio: 4428847.
+Médico: Belén Monllau Font  NºCol: 08 08 12110.
+Informe clínico del paciente: Mujer de 74 años con antecedentes de enfermedad pulmonar obstructiva crónica e histerectomía con doble anexectomía y posterior braquiterapia por adenocarcinoma de endometrio hace 5 años. Consulta por disnea de 2 meses de evolución, sin tos, hemoptisis o síndrome general asociados.
+La analítica de sangre es normal. Se le realiza radiografía de tórax y TAC torácico que evidencia una masa parahiliar derecha de 5 x 3 cm. Se toma biopsia de dicha masa a través de broncoscopia que demuestra una tumoración de estirpe mesenquimal con imnunohistoquímica positiva para vimentina y negativa para c-KIT compatible con leiomiosarcoma.
+Se realizó estudio de extensión con gastroscopia, colonoscopia y TAC abdominopélvico que fue negativo. Con diagnóstico de leiomiosarcoma primario de pulmón derecho se le realizó neumonectomía derecha, confirmándose la histología de leiomiosarcoma en la pieza quirúrgica.
+Al mes de la neumonectomía derecha la paciente presenta cuadro de dolor abdominal con náuseas, vómitos y episodios de rectorragia. Se le realiza colonoscopia que muestra una masa polilobulada de aspecto neoplásico en colon ascendente-ciego y TAC abdominal con dilatación de asas de intestino delgado visualizándose una imagen en "donuts" a nivel de íleon terminal-ciego compatible con invaginación intestinal con probable lesión tumoral subyacente.
+Se interviene de urgencia evidenciándose obstrucción de intestino delgado por invaginación de íleon terminal a nivel de tumoración en ciego. Se realiza hemicolectomía derecha.
+El estudio histopatológico de la pieza quirúrgica demuestra que se trata de un leiomiosarcoma de 6 x 4 x 2,8 cm, afectando a mucosa, submucosa, muscular y serosa con alto número de mitosis (+ de 10 mitosis por 10 campos de gran aumento) e inmunohistoquímica positiva para actina y vimentina y negativa para c-KIT. Este hallazgo demuestra que el LMS tenía su origen en el colon y el tumor pulmonar era metastásico.
+Durante este segundo postoperatorio la paciente presenta de nuevo complicaciones respiratorias, falleciendo al mes de la cirugía abdominal.
+Responsable clínico: Dra. Belén Monllau Font Servicio de Urología. Fundació Puigvert Cartagena, 340-350 - 08025 Barcelona Tel.: 934 169 700 E-mail autor: 37359vmf@comb.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="34" text="Carmen" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T23" start="48" end="64" text="Dominguez Martin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="71" end="78" text="7465420" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="86" end="100" text="90 53669609 12" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T20" start="113" end="144" text="Carrer de la Boqueria, 23, 6, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="168" end="177" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="183" end="188" text="08002" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="232" end="242" text="01/03/1937" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="264" end="270" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="278" end="285" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="292" end="293" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="313" end="323" text="17/07/2011" TYPE="FECHAS" comment=""/>
+    <ID id="T8" start="355" end="362" text="4428847" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T10" start="372" end="390" text="Belén Monllau Font" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="399" end="410" text="08 08 12110" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T11" start="442" end="447" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="451" end="458" text="74 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="2546" end="2564" text="Belén Monllau Font" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2587" end="2604" text="Fundació Puigvert" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="2605" end="2623" text="Cartagena, 340-350" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2626" end="2631" text="08025" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2632" end="2641" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2648" end="2659" text="934 169 700" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="2674" end="2690" text="37359vmf@comb.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Leticia.
+Apellidos: Sanchez Navarro.
+NHC: 7485341.
+Domicilio: Av/Jordi Sanz 13, 3C  .
+Localidad/ Provincia: Sabadell.
+CP: 08542.
+Datos asistenciales.
+Fecha de nacimiento: 30/05/1996.
+País: España.
+Edad: 21 años Sexo: M.
+Fecha de Ingreso: 16/09/2017.
+Servicio: cirugía maxilofacial.
+Médico: Bernardo Fernández Sánchez-Dalmau  NºCol: 08 08 54789.
+Motivo de ingreso: Mujer de 21 años que acudió a consulta de cirugía maxilofacial por presentar una tumoración indolora a nivel parotídeo izquierdo de unos 8 meses de evolución.
+Exploración física: La exploración física puso de manifiesto una lesión sólida a nivel de glándula parótida, no adherida a planos profundos.
+Resumen de pruebas complementarias: Se solicitó una ecografía con punción-aspiración con aguja fina (PAAF) en la que se detectó un nódulo parotídeo bien definido de unos 25mm de diámetro máximo, predominantemente quístico, con un polo sólido en su interior de 9mm. No mostraba vascularización con el Doppler color ; la PAAF no fue concluyente. Ante estos hallazgos ecográficos, se completó el estudio con una tomografía computarizada (TC) de cuello con contraste intravenoso. En la TC se apreciaba una tumoración bien definida de unos 22mm, localizada en el lóbulo superficial de la parótida izquierda, que contenía grasa en su interior, y un nódulo sólido redondeado de 8mm en su pared posterior. Todo ello era compatible por imagen con teratoma quístico parotídeo.
+Ante estos resultados se propuso, a la paciente, intervención quirúrgica, que aceptó. Se realizó una parotidectomía suprafacial conservadora del nervio facial con resección en bloque de la lesión. Al final de la cirugía se realizó una monitorización de todas las ramas del nervio facial para comprobar su integridad y función. El espécimen quirúrgico obtenido tras la resección presentaba un fragmento de epidermis con folículos pilosos.
+El resultado anatomopatológico confirmó el diagnóstico definitivo de teratoma quístico maduro benigno de glándula parotídea izquierda, en el que se hallaron células epidérmicas, mesenquimales, adipocitos, glándulas sebáceas y condrocitos maduros. No se observaron atipias.
+Evolución y comentarios: La paciente presentó, en el postoperatorio, paresia leve, recuperando la mímica facial por completo a los 4 meses del postoperatorio. Actualmente, 14 meses después de la cirugía, no presenta recidiva de la lesión.
+Remitido por: Bernardo Fernández Sánchez-Dalmau. C/. Antoni Cusido, 98-100 08208 Sabadell (Barcelona) España E-mail: 24528bsd@comb.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="8" end="15" text="Leticia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="28" end="43" text="Sanchez Navarro" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="50" end="57" text="7485341" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T19" start="70" end="90" text="Av/Jordi Sanz 13, 3C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="116" end="124" text="Sabadell" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="130" end="135" text="08542" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="179" end="189" text="30/05/1996" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="197" end="203" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="211" end="218" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="225" end="226" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="246" end="256" text="16/09/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="298" end="331" text="Bernardo Fernández Sánchez-Dalmau" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="340" end="351" text="08 08 54789" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="372" end="377" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="381" end="388" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2403" end="2436" text="Bernardo Fernández Sánchez-Dalmau" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2438" end="2463" text="C/. Antoni Cusido, 98-100" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2464" end="2469" text="08208" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2470" end="2478" text="Sabadell" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2480" end="2489" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2491" end="2497" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2506" end="2522" text="24528bsd@comb.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

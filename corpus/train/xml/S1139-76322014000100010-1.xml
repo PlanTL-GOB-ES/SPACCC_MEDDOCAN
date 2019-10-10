@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Mario.
+Apellidos: Duque Rivera.
+NHC: 7846283.
+Domicilio:  Paseo de la Castellana, 27, 4D.
+Localidad/ Provincia: Madrid.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento:20/05/2000.
+País: España.
+Edad: 10 años Sexo: H.
+Fecha de Ingreso: 13/07/2010.
+Médico: Antonio Palomeque Jiménez NºCol: 28 28 65201.
+Informe clínico del paciente: Varón de diez años, sin antecedentes personales de interés, que acude al Servicio de Urgencias del centro de Atención Primaria por un cuadro de dolor abdominal de cuatro horas de evolución, fiebre de 40 °C, vómitos alimenticios y diarrea con restos de moco. La exploración abdominal revela dolor abdominal difuso, algo más en la fosa ilíaca derecha, con signos de irritación peritoneal. La analítica muestra 12 200 leucocitos/µl (91% neutrófilos) y leve elevación de la proteína C reactiva (PCR). Se deriva al centro hospitalario más cercano con la sospecha de un cuadro de abdomen agudo para completar el estudio. Se realiza una ecografía abdominal, donde se observa una imagen tubular, aperistáltica e incompresible con el transductor, compatible con apendicitis aguda. Se decide realizar una intervención quirúrgica, tras recibir el consentimiento informado por parte de los padres, y se lleva a cabo una apendicectomía durante la cual se observa un apéndice cecal con leves signos inflamatorios.
+La evolución postoperatoria resulta tórpida, con persistencia de fiebre (38,8 °C), dolor abdominal generalizado sin peritonismo, vómitos y diarrea. Se realiza una ecografía abdominal que informa de dilatación de asas del intestino delgado, lo cual sugiere un cuadro obstructivo incompleto. La analítica sigue mostrando una leucocitosis con desviación izquierda y elevación de la proteína C reactiva. Dada la incongruencia de la sintomatología que presenta el paciente y los hallazgos operatorios, se decide optar por tratamiento conservador, realización de coprocultivo y se inicia antibioterapia empírica en espera de los resultados del coprocultivo, el cual informa de Campylobacter jejuni sensible a gentamicina. Se comienza tratamiento antibiótico con gentamicina, con el que la evolución del paciente resulta satisfactoria, pues el cuadro clínico se resuelve y el paciente es dado de alta a los diez días de la intervención quirúrgica.
+El estudio anatomopatológico del apéndice cecal fue informado como apéndice cecal con signos inflamatorios.
+Remitido por: Dr. Antonio Palomeque Jiménez apalomeque2002@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="29" end="34" text="Mario" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="47" end="59" text="Duque Rivera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="66" end="73" text="7846283" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T15" start="87" end="117" text="Paseo de la Castellana, 27, 4D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="141" end="147" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="153" end="158" text="28036" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="201" end="211" text="20/05/2000" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="219" end="225" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="233" end="240" text="10 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="247" end="248" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="268" end="278" text="13/07/2010" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="288" end="313" text="Antonio Palomeque Jiménez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="321" end="332" text="28 28 65201" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="364" end="369" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="373" end="382" text="diez años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="1242" end="1248" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T4" start="2431" end="2456" text="Antonio Palomeque Jiménez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2457" end="2480" text="apalomeque2002@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

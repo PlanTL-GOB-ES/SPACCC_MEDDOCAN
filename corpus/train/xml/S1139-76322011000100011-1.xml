@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Nerea.
+Apellidos: Espinosa Lara.
+NHC: 9256747.
+Domicilio: Calle de Bravo Murillo, 63. 1A.
+Localidad/ Provincia: Madrid.
+CP: 28003.
+Datos asistenciales.
+Fecha de nacimiento: 02/02/2016.
+País: España.
+Edad:8 meses Sexo: M.
+Fecha de Ingreso: 11/10/2016.
+Médico: María del Rosario García Luzardo  NºCol: 28 28 17114.
+Historia Actual: paciente de ocho meses de edad ingresada por un cuadro de siete días de evolución consistente en fiebre hasta de 40oC, rechazo de la ingesta y vómitos.
+Antecedentes: Sin antecedentes familiares ni personales patológicos de interés, ni alergias conocidas.
+Exploración física: En la exploración física solo destacaban pequeñas adenopatías laterocervicales rodaderas e hiperemia faríngea.
+Resumen de pruebas complementarias: En el estudio complementario solicitado, tenía un hemograma con velocidad de sedimentación globular normal; proteína C reactiva, 4,48 mg/dl; y sodio, potasio, cloro, magnesio, calcio (Ca), fósforo (P), bilirrubina, proteínas y gasometría normales. Los cultivos de sangre, orina y heces fueron negativos y en el frotis faríngeo se aisló Parainfuenzavirus 3.
+Un hallazgo analítico que llamó la atención fue una cifra de FA de 5252 UI/l. Se preguntó nuevamente a los padres en busca de alguna causa de esta elevación de FA, con especial insistencia en el consumo de fármacos, antecedentes de fracturas o enfermedades previas, tanto en la paciente como en sus familiares, sin obtener nuevos datos.
+Se solicitó nuevamente una determinación de FA para comprobar que no fuese un error de laboratorio, así como de GGT, vitamina D, hormona paratiroidea (PTH) e isoenzimas de FA. En esta analítica se confirmó la elevación de FA (6070 UI/l), resultando el resto de parámetros solicitados (GGT, isoenzimas de FA, vitamina D y PTH) normales.
+Evolución y comentarios: Al séptimo día de ingreso, una vez solucionado el proceso febril, se procedió al alta con el diagnóstico de infección por Parainfuenzavirus 3 e hiperfosfatasemia en estudio. Se controló clínicamente y con determinaciones periódicas de FA en consultas externas.
+En los controles posteriores presentó un descenso progresivo de FA, permaneció asintomática y con exploración física rigurosamente normal, por lo que se procedió al alta definitiva a los seis meses, tras presentar dos determinaciones de FA dentro de los valores normales para su edad, con el diagnóstico de hiperfosfatasemia benigna transitoria de la infancia (HTBI).
+Diagnóstico Principal: infección por Parainfuenzavirus 3 e hiperfosfatasemia en estudio
+Remitido por: Dra. María del Rosario García Luzardo. Hospital Ramon y Cajal Ctra. De Colmenar Viejo, km. 9,100, 28034 Madrid. Teléfono: 913 36 80 00. Correo electrónico:  saragarlu@sermas.net
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="14" text="Nerea" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="27" end="40" text="Espinosa Lara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="47" end="54" text="9256747" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T20" start="67" end="97" text="Calle de Bravo Murillo, 63. 1A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="121" end="127" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="133" end="138" text="28003" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="182" end="192" text="02/02/2016" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T17" start="200" end="206" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="213" end="220" text="8 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="227" end="228" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="248" end="258" text="11/10/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="268" end="300" text="María del Rosario García Luzardo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="309" end="320" text="28 28 17114" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T13" start="351" end="361" text="ocho meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T2" start="1225" end="1231" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="1417" end="1427" text="familiares" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T10" start="2552" end="2584" text="María del Rosario García Luzardo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T8" start="2586" end="2608" text="Hospital Ramon y Cajal" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T7" start="2609" end="2643" text="Ctra. De Colmenar Viejo, km. 9,100" TYPE="CALLE" comment=""/>
+    <LOCATION id="T6" start="2645" end="2650" text="28034" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2651" end="2657" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T4" start="2669" end="2681" text="913 36 80 00" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T3" start="2704" end="2724" text="saragarlu@sermas.net" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

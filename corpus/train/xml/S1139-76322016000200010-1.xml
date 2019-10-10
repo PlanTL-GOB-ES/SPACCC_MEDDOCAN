@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Dana Paola.
+Apellidos: Vega Barba .
+NHC: 8923754.
+Domicilio: Calle del Prado 1, 4 A.
+Localidad/ Provincia: Valladolid.
+CP: 47140.
+Datos asistenciales.
+Fecha de nacimiento: 27/03/2007.
+País: España.
+Edad: 8 años Sexo: M.
+Fecha de Ingreso: 06/09/2015.
+Médico: Carlos Ruiz-Zorrilla López  NºCol: 47 47 92386.
+Informe clínico del paciente: Niña de ocho años, de origen boliviano, que consulta en nuestro servicio de urgencias por presentar desde hace dos meses un sangrado vaginal intermitente junto a flujo vaginal mucopurulento y maloliente. En la exploración física destacaba gran congestión y edema del himen y del introito vulvar. La niña convive con sus padres y un tío paterno con su pareja en el mismo domicilio y niegan indicios de abuso sexual. Ante este cuadro clínico florido se remitió a Urgencias para diagnóstico diferencial de cuerpo extraño vaginal y descartar abuso sexual. Se realizó una exploración ginecológica, donde se descartó cuerpo extraño vaginal y se recogió una muestra de exudado vaginal. A su vez, fue valorada por el médico forense de guardia, que emitió un parte judicial que descartaba signos de abuso sexual. El cultivo del exudado vaginal resultó positivo a Shigella sonnei resistente según el antibiograma a amoxicilina/clavulánico, la ampicilina y la combinación trimpetoprima/sulfametoxazol, y sensible a cefuroxima axetil, cefixima y gentamicina. Se solicitaron también coprocultivo, cultivo de exudado perianal y urocultivo, que resultaron negativos. Se decidió pautar tratamiento antibiótico con cefuroxima axetil durante diez días, evidenciándose gran mejoría clínica, pero sin resolución completa del cuadro, por lo que se repitió la misma pauta de tratamiento, desapareciendo la clínica.
+Remitido por: Dr. Carlos Ruiz-Zorrilla López, Servicio de Nefrología, Hospital Río Hortega. Calle Dulzaina, 2, 47012 Valladolid, España E-mail: carlosruizzorrilla@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="28" end="38" text="Dana Paola" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="51" end="61" text="Vega Barba" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="69" end="76" text="8923754" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T23" start="89" end="111" text="Calle del Prado 1, 4 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T22" start="135" end="145" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T21" start="151" end="156" text="47140" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T19" start="200" end="210" text="27/03/2007" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T20" start="218" end="224" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T17" start="232" end="238" text="8 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="245" end="246" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T18" start="266" end="276" text="06/09/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T13" start="286" end="312" text="Carlos Ruiz-Zorrilla López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="321" end="332" text="47 47 92386" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T14" start="364" end="368" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T16" start="372" end="381" text="ocho años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T10" start="393" end="402" text="boliviano" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="663" end="667" text="niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="684" end="690" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="696" end="721" text="tío paterno con su pareja" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T12" start="1775" end="1801" text="Carlos Ruiz-Zorrilla López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="1827" end="1847" text="Hospital Río Hortega" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="1849" end="1866" text="Calle Dulzaina, 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1868" end="1873" text="47012" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1874" end="1884" text="Valladolid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1886" end="1892" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1901" end="1931" text="carlosruizzorrilla@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

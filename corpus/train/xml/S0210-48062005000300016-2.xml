@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Joaquín .
+Apellidos: Caballero Diaz.
+NHC: 5684549.
+NASS: 45 67454632 10.
+Domicilio: C/ Marques de Zafra, 86.
+Localidad/ Provincia: Cadiz.
+CP: 11071.
+Datos asistenciales.
+Fecha de nacimiento: 21/05/1973.
+País de nacimiento: España.
+Edad: 43 años Sexo: H.
+Fecha de Ingreso: 04/08/2016.
+Médico: Pedro Martínez-García  NºCol: 11 11 25890.
+Informe clínico del paciente: Varón de 43 años que ingresa en urgencias debido a un súbito dolor lumbar izquierdo, continuo e incapacitante, sin posición antiálgica o factores agravantes, sin irradiación, con aproximadamente 23 horas de evolución. Sin náuseas o vómitos, sin hematuria macroscópica o molestias en el tracto urinario inferior. Ausencia de dolor precordial. Hipertensión controlada con verapamilo. Refiere un episodio, interpretado como accidente isquémico transitorio, aproximadamente ocho semanas antes (no confirmado). Sin antecedentes de arritmia cardíaca o valvulopatía. Sin otros episodios tromboembólicos anteriores. Sin antecedentes conocidos de litiasis urinaria. Sin molestias osteoarticulares o respiratorias. Niega abuso de cocaína. Niega antecedentes de hepatitis B o C. Medicado con 160 mg/día de verapamilo.
+En el examen físico se presentó diaforético, TA 150 / 110 mmHg, 80 pulsaciones por minuto, rítmicas y anchas. Tª de 37,8 ºC. Abdomen doloroso a la palpación profunda en fosa ilíaca y flanco izquierdos, con defensa, sin señales de irritación peritoneal. RHA disminuido. Sin soplos abdominales. Murphy renal bilateral negativo. Existencia de pulsos arteriales simétricos. Sin déficit de perfusión en extremidades. Examen neurológico general sin alteraciones.
+La ecografía renal no evidenció anomalías, especialmente dilatación del tracto urinario. Datos analíticos: Hb15,6 g/dL, Leuc 13.800/µL, Neut 76,1%, Creat 1,4 mg/dL, TGO 104 UI/L, TGP 74 UI/L, LDH 1.890 UI/L. Los parámetros de coagulación no presentaron alteraciones. El ECG muestra ritmo sinusal, sin alteraciones compatibles con isquemia miocárdica aguda. Se solicitó un TAC abdominal y pélvico que demostró la presencia de áreas múltiples sin captación de contraste en el riñón izquierdo, sin alteraciones morfo-estructurales del mismo, compatible con áreas multifocales de isquemia, con distribución multisegmentar probablemente de etiología embolica. Sin dilatación aórtica o aneurisma de arteria renal. Sin alteraciones intra-peritoneales. Teniendo en cuenta la distribución multisegmentar del proceso isquémico y la duración de las molestias, decidimos que no existía indicación para maniobras invasivas. El enfermo se sometió a hipo-coagulación sistémica con heparina, en un intento de evitar futuros episodios embólicos y analgesia apropiada.
+Después fue sometido a múltiples exploraciones, en un intento de identificar un foco embólico y el proceso etiológico. La realización de una ecocardiografía eliminó patología del aparato valvular cardiaco o la existencia de vegetaciones valvulares. Ausencia de áreas de discinesia miocárdica. La arteriografía mostró un déficit de perfusión del polo inferior del riñón izquierdo con otras múltiples áreas menos prominentes que presentan déficit de perfusión igualmente. No se detectaron otras alteraciones como la presencia de macro/ microaneurismas o alteraciones de la arteria renal principal o aorta.
+El estudio para descartar una enfermedad protrombótica y vascular (anticoagulante lúpico, ac. anti-cardiolipina, ANCA's, detección de crioglobulinas, ANA's, determinación de inmunoglobulinas y fracciones del complemento) resultó negativo.
+Después de 15 meses de seguimiento, nos quedamos sin un diagnóstico etiológico. El enfermo se mantiene asintomático, sin nuevos episodios de embolismo o manifestaciones de enfermedad sistémica. Se ha suspendido la anti-coagulación. Mantiene una hipertensión controlada con la misma dosis de verapamilo. El último control analítico tenía una creatinina sérica de 1,2 mg/dL, y TFG de 93 ml/min. El cintilograma de seguimiento demuestra un déficit funcional de la unidad renal afectada (función diferencial 41%).
+Responsable clínico: Dr. Pedro Martínez-García. Instituto de Medicina Legal. c/ Sánchez Barcaiztegui, 3 11071 Cádiz. E-mail: pedro.martinez.garcía@juntadeandalucia.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="35" text="Joaquín" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="49" end="63" text="Caballero Diaz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="70" end="77" text="5684549" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="85" end="99" text="45 67454632 10" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="112" end="135" text="C/ Marques de Zafra, 86" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="159" end="164" text="Cadiz" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="170" end="175" text="11071" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="219" end="229" text="21/05/1973" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="251" end="257" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="265" end="272" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="279" end="280" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="300" end="310" text="04/08/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="320" end="341" text="Pedro Martínez-García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="350" end="361" text="11 11 25890" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="393" end="398" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="402" end="409" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="4086" end="4107" text="Pedro Martínez-García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="4109" end="4136" text="Instituto de Medicina Legal" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T4" start="4138" end="4164" text="c/ Sánchez Barcaiztegui, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="4165" end="4170" text="11071" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4171" end="4176" text="Cádiz" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="4186" end="4227" text="pedro.martinez.garcía@juntadeandalucia.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

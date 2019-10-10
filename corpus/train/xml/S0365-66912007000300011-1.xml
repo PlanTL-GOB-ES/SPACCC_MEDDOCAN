@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Laila.
+Apellidos: Alonso Lestayo.
+NHC: 736980.
+Domicilio: C/ Madrid, 23, 1 A.
+Localidad/ Provincia: Barakaldo.
+CP: 48903.
+Datos asistenciales.
+Fecha de nacimiento: 15/08/2015.
+País de nacimiento: España.
+Edad: 16 meses Sexo: M.
+Fecha de Ingreso: 13/12/2015.
+Médico: María Sánchez López NºCol: 48 48 46560.
+Informe clínico del paciente: Mujer nacida a término por parto vaginal. 
+Antecedentes familiares y personales: 
+Primer hijo de padres no consanguíneos. 
+Madre y abuelo materno con poliquistosis renal.
+Padre con trastorno de personalidad en tratamiento.
+Primo de rama paterna con esquizofrenia. 
+Detección intraútero en ecografía de control de ventriculomegalia bilateral leve en la semana 21 de gestación que persiste en controles sucesivos. No se observan otras incidencias durante el embarazo. La puntuación en el test de Apgar fue 3/10, 4/10 y 8/10 a los 1, 10 y 20 minutos respectivamente, precisando intubación endotraqueal en la sala de partos. El peso al nacimiento fue 3.480 gramos, la talla 55 cm y perímetro craneal 39,5 cm. Al nacimiento presenta rasgos dismórficos: fascies tosca, hipertelorismo, narinas antevertidas, microrretrognatia y asimetría frontal con prominencia izquierda. Hipotonía generalizada que progresa hacia hipertonía generalizada con reflejos vivos, clonus y episodios convulsivos generalizados. No hay seguimiento visual. Durante el período neonatal, se realiza un electroencefalograma presentando una discreta lentificación difusa. En la ecografia cerebral se observa ventriculomegalia asimétrica de predominio izquierdo y asimetría hemisférica a favor del lado izquierdo. En la tomografía computarizada craneal presenta una prominencia del sistema ventricular. En la resonancia nuclear magnética se observa displasia cortical con focos de heterotopía nodular.
+El despistaje metabólico e infeccioso es normal. Cariotipo 46XX.
+A los 7 meses de edad es remitida al servicio de oftalmología por esotropía del ojo derecho de 15º. Presenta dominancia de ojo izquierdo, nistagmus en abducción en ambos ojos. La retina muestra un aspecto distrófico con desorganización difusa y anomalías pigmentarias retinianas. Hipoplasia de nervio óptico.
+Presenta miopía de -13,00 dioptrías (-2 a 90º) en ojo derecho y -14,00 dioptrías (-2 a 180º) en ojo izquierdo. Se prescribe corrección óptica. Los potenciales evocados visuales resultan patológicos con un aumento del período de latencia. No se puede realizar un electrorretinograma por falta de colaboración. A los 14 meses, la gran hipertofia hemicraneal izquierda imposibilita portar gafas, se recetan lentes de contacto que son bien toleradas.
+A los 10 meses, presenta un importante retraso psicomotor, hipertonía de extremidades e hipotonía cervicoaxial. No hay control cefálico ni sedestación. Mejora el contacto visual con mayor interacción con el ambiente y sonrisa social. Los controles electroencefalográficos muestran una asimetría interhemisférica del trazado, sin paroxismos irritativos. Presenta un progresivo aumento del hemicuerpo izquierdo, plagiocefalia y descenso de la órbita ipsilateral.
+Aparición progresiva de deformidades: tibia vara, coxa valga y adelgazamiento femoral bilateral. A los 15 meses, presenta aspecto macrocefálico con afectación del macizo craneofacial. Nevus epidérmicos y hemangiomas dispersos con predominio en el lado izquierdo. Espasticidad como respuesta a estímulos. A los 16 meses de edad, se realiza traqueostomía por laringotraqueomalacia. Fallece al sexto día del postoperatorio por neumonía.
+Responsable clínico: María Sánchez López Hospital de Cruces Plaza de Cruces, s/n 48903 Cruces/Barakaldo España E-mail: mariasanlo@terra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T29" start="28" end="33" text="Laila" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T28" start="46" end="60" text="Alonso Lestayo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T27" start="67" end="73" text="736980" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T26" start="86" end="104" text="C/ Madrid, 23, 1 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T25" start="128" end="137" text="Barakaldo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T24" start="143" end="148" text="48903" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T23" start="192" end="202" text="15/08/2015" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T22" start="224" end="230" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T21" start="238" end="246" text="16 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T20" start="253" end="254" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T19" start="274" end="284" text="13/12/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T18" start="294" end="313" text="María Sánchez López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T17" start="321" end="332" text="48 48 46560" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T16" start="364" end="369" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="453" end="457" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="461" end="467" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T4" start="487" end="492" text="Madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T31" start="495" end="509" text="abuelo materno" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T32" start="535" end="540" text="Padre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T33" start="587" end="608" text="Primo de rama paterna" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T13" start="1900" end="1907" text="7 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="2518" end="2526" text="14 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="2656" end="2664" text="10 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="3214" end="3222" text="15 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="3421" end="3429" text="16 meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3566" end="3585" text="María Sánchez López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3586" end="3604" text="Hospital de Cruces" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="3605" end="3625" text="Plaza de Cruces, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3626" end="3631" text="48903" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T30" start="3632" end="3638" text="Cruces" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3639" end="3648" text="Barakaldo" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3649" end="3655" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="3664" end="3683" text="mariasanlo@terra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

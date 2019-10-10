@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Natalia.
+Apellidos: Martos Rodriguez.
+NHC: 7834563.
+NASS: 83 5678564 05.
+Domicilio: Calle de la Hiedra, 23, 3B.
+Localidad/ Provincia: Madrid.
+CP: 28040.
+Datos asistenciales.
+Fecha de nacimiento: 21/02/1988.
+País de nacimiento: España.
+Edad: 30 años Sexo: M.
+Fecha de Ingreso: 15/05/2018.
+Médico: Mónica Rivero Garvía NºCol: 28 28.
+Informe clínico del paciente: mujer de 30 años. sin antecedentes personales relevantes, que consultó por un cuadro inicial de cefalea hemicraneal derecha pulsátil de dos meses de duración que progresó hasta convertirse en holocraneal. Dicha cefalea presentaba características de organicidad y era resistente al tratamiento convencional (antiinflamatorios no esteroideos y triptanos). Además, se acompañaba de visión borrosa, más acusada en ojo izquierdo, dos episodios de diplopia autolimitada y episodios ocasionales de ptosis palpebral izquierda. En la exploración neurológica destacaba un defecto pupilar aferente en el ojo izquierdo con disminución de la agudeza visual de 0.1 y de 0.25 en el ojo derecho. El resto de los pares craneales no presentaban alteraciones a la exploración. El estudio hormonal no reveló ninguna alteración funcional. En la tomografía computarizada (TC) craneal realizada se encontró una lesión quística, no calcificada, que erosionaba el seno esfenoidal y las paredes laterales de la silla turca. La resonancia magnética (RM) cerebral confirmó la existencia de una tumoración de 4 x 3 x 3 cm. en la región del seno esferoidal, que destruía, erosionaba y expandía las paredes del seno y el propio clivus. La lesión producía compresión y desplazamiento craneal de la glándula hipofisaria y del quiasma. Se mostraba isointensa en las secuencias potenciadas en T1 e hiperintensa en secuencias T2, con niveles líquido-líquido en su interior, aspecto tabicado y realce periférico en las secuencias post-contraste. Además, existía esclerosis del hueso esfenoidal circundante.
+Bajo anestesia general se realizó un abordaje sublabial transesfenoidal, resecándose parcialmente la lesión en su parte central, con intención de descomprimir el quiasma óptico.
+En el análisis anatomopatológico se confirmó la presencia de un tejido de aspecto benigno parcialmente mineralizado, con presencia de osteoblastos y de trabéculas irregulares formando grandes lagos venosos, compatible con quiste óseo aneurismático.
+En la RM de control posquirúrgica, se aprecia una adecuada descompresión del quiasma óptico con lesión residual en ambas regiones laterales y celdas etmoidales.
+La exploración neuroftalmológica realizada a los tres meses confirma que la agudeza visual de la paciente era prácticamente normal (O.D.: 1 y O.I.: 0.9).
+Responsable clínico: Mónica Rivero Garvía. C/ Profesor Martín Lagos s/n. 28040 Madrid.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="35" text="Natalia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="48" end="64" text="Martos Rodriguez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="71" end="78" text="7834563" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="86" end="99" text="83 5678564 05" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="112" end="138" text="Calle de la Hiedra, 23, 3B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="162" end="168" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="174" end="179" text="28040" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="223" end="233" text="21/02/1988" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="255" end="261" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="269" end="276" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="283" end="284" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="304" end="314" text="15/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="324" end="344" text="Mónica Rivero Garvía" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T4" start="352" end="357" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="389" end="394" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="398" end="405" text="30 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T5" start="2722" end="2742" text="Mónica Rivero Garvía" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T3" start="2744" end="2772" text="C/ Profesor Martín Lagos s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="2774" end="2779" text="28040" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2780" end="2786" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

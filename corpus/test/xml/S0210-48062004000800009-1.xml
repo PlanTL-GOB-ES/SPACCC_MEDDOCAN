@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Ignacio.
+Apellidos: Baez Martinez.
+NHC: 3456723.
+NASS: 89 56756794 75.
+Domicilio: C/ Pinto, 5.
+Localidad/ Provincia: Las Rozas.
+CP: 28232.
+Datos asistenciales.
+Fecha de nacimiento: 05/09/1952.
+País de nacimiento: España.
+Edad: 61 años Sexo: H.
+Fecha de Ingreso: 21/08/2014.
+Médico: Beatriz Aguilera  NºCol: 28 28 64891.
+Historia Actual: Paciente varón de 61 años remitido a nuestra consulta por hallazgo ecográfico casual de masa renal tras estudio de epigastralgia.
+Entre los antecedentes personales destacan colelitiasis e hidrocelectomía derecha. En la anamnesis el paciente no refiere dolor en fosas renales, hematuria, episodios de infección urinaria ni astenia, anorexia o pérdida de peso. La exploración física no objetiva masas abdominales ni megalias.
+Pruebas complementarias: La ecografía muestra un nódulo exofítico de 4 x 2 cm de diámetro mayor a nivel del polo superior del riñón derecho que presenta áreas sólidas y quísticas, con zonas vascularizadas (Eco-doppler). Ante el diagnóstico de masa renal compleja se solicita una TC abdomino-pélvica que objetiva la lesión quística compleja a nivel renal, siendo imposible determinar de forma definitiva su naturaleza benigna. Realizamos una RNM abdominal que identifica la masa de 4,2 x 3,3 x 3 cm, hipointensa en las secuencias T1 y marcadamente hiperintensa en las T2, con varios septos lineales en su interior, realce lineal de las paredes del quiste y de los septos internos tras administrar gadolinio, por lo que es diagnóstica de masa quística mínimamente complicada.
+Evolución: Ante la duda diagnóstica de la TC y los hallazgos ecográficos (quiste renal grado III de Bosniak) decidimos realizar exploración quirúrgica y mediante incisión en el flanco practicamos tumorectomía.
+La evolución posterior fue satisfactoria y el estudio histológico confirmó la presencia de un carcinoma de células claras renales, quístico multilocular, grado I de Fuhrman, con márgenes de resección negativos.
+En la TC de control a los 6 meses de la intervención podemos observar los cambios postquirúrgicos a nivel de la cortical renal y de la grasa adyacente, sin evidencia de recidiva local. El paciente actualmente está asintomático, siendo revisado cada 6 meses con ecografía y anualmente con TC.
+Responsable clínico:  Dra. Beatriz Aguilera Servicio de Histopatología INTCF-Madrid. c/ José Echegaray 4. 28232 Las Rozas. Madrid. E-mail: b.aguilera@mju.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T24" start="28" end="35" text="Ignacio" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="48" end="61" text="Baez Martinez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="68" end="75" text="3456723" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="83" end="97" text="89 56756794 75" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="110" end="121" text="C/ Pinto, 5" TYPE="CALLE" comment=""/>
+    <LOCATION id="T19" start="145" end="154" text="Las Rozas" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T18" start="160" end="165" text="28232" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="209" end="219" text="05/09/1952" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="241" end="247" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="255" end="262" text="61 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="269" end="270" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="290" end="300" text="21/08/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="310" end="326" text="Beatriz Aguilera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="335" end="346" text="28 28 64891" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="374" end="379" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="383" end="390" text="61 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2303" end="2319" text="Beatriz Aguilera" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2320" end="2352" text="Servicio de Histopatología INTCF" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T6" start="2353" end="2359" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T5" start="2361" end="2380" text="c/ José Echegaray 4" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2382" end="2387" text="28232" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2388" end="2397" text="Las Rozas" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2399" end="2405" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2415" end="2432" text="b.aguilera@mju.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

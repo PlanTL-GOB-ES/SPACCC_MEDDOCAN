@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Fernando.
+Apellidos: Losada Losada.
+NHC: 9027853.
+NASS: 47 38348972 06.
+Domicilio: Calle Concepción Benítez 2, 5A .
+Localidad/ Provincia: Pamplona.
+CP: 31010.
+Datos asistenciales.
+Fecha de nacimiento: 29/08/1970.
+País: España.
+Edad:46 años Sexo: H.
+Fecha de Ingreso: 19/03/2017.
+Servicio: Digestivo.
+Episodio: 143545664.
+Médico: José Francisco Juan Martiñena  NºCol: 31 31 80563.
+Informe clínico del paciente: Varón de 46 años sin antecedentes de interés que presentó en una revisión rutinaria de trabajo anemia ferropénica de reciente aparición (Hb 11,3g/dL; VCM 79,8 µ3; Urea 29 mg/dL; Creatina 0,95 mg/dL; Hierro 29 µg/dL, Ferritina 12 µg/L). El paciente negaba ingesta de fármacos gastro-lesivos y exteriorización digestiva del sangrado, por lo que se indicó exploración endoscópica convencional (gastroscopia e ileo-colonoscopia) que fue negativa. Transcurridos 30 días se completó el estudio con una ECE que resultó también negativa, dándose por finalizado el estudio e indicándose tratamiento sintomático con suplementos de hierro oral. A los 3 meses, el paciente acudió al servicio de Urgencias por presentar astenia y melenas en las últimas 48 horas. A la exploración física estaba pálido y sudoroso. Presentaba una tensión arterial de 90/60 mm Hg y una frecuencia cardíaca de 105 latidos por minuto, objetivándose durante la exploración rectal la presencia de heces melénicas. La analítica del servicio de Urgencias (Hb 7 g/dL; VCM 77,2 µ3; Urea 57 mg/dL; Creatina 0,74 mg/dL) confirmó la sospecha de sangrado digestivo, decidiéndose ingreso para observación. En las primeras 24 horas se administraron 2.000 ml de fluidoterapia y se trasfundieron 4 concentrados de hematíes, siendo la hemoglobina post-trasfusional de 9,5 g/dL. Una vez estabilizado el paciente y ante la sospecha de una hemorragia digestiva alta, se realizó gastroscopia urgente que fue negativa, repitiéndose en ese momento una nueva ECE. En esta última exploración se identificó el origen del sangrado a partir de una lesión gástrica de origen submucoso y ulcerada en su superficie que se ocultaba entre los pliegues gástricos. El diagnóstico de certeza se obtuvo tras una nueva gastroscopia y tras descartarse enfermedad metastásica, se procedió a su resección. El estudio histopatológico confirmó el origen submucoso de la lesión (GIST gástrico).
+Remitido por: José Francisco Juan Martiñena. Servicio Aparato Digestivo Complejo Hospitalario de Navarra C/ Irunlarrea, 3 31008 Pamplona E-mail: jf.juanmartinena@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="17" text="Fernando" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="30" end="43" text="Losada Losada" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="50" end="57" text="9027853" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="65" end="79" text="47 38348972 06" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="92" end="122" text="Calle Concepción Benítez 2, 5A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="147" end="155" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="161" end="166" text="31010" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="210" end="220" text="29/08/1970" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="228" end="234" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="241" end="248" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="255" end="256" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="276" end="286" text="19/03/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T7" start="319" end="328" text="143545664" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T9" start="338" end="367" text="José Francisco Juan Martiñena" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="376" end="387" text="31 31 80563" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="419" end="424" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="428" end="435" text="46 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2351" end="2380" text="José Francisco Juan Martiñena" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2409" end="2441" text="Complejo Hospitalario de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2442" end="2458" text="C/ Irunlarrea, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2459" end="2464" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2465" end="2473" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="2482" end="2508" text="jf.juanmartinena@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

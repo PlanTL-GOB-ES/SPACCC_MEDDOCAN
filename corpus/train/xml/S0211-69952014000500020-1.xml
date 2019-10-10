@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Jose Manuel.
+Apellidos: Diez Perez.
+NHC: 9632541.
+NASS: 89 43511375 88.
+Domicilio: C/ Gonzalo Chacón, 94.
+Localidad/ Provincia: Aranjuez.
+CP: 28300.
+Datos asistenciales.
+Fecha de nacimiento:19/05 /1981.
+País: España.
+Edad: 35 años Sexo: H.
+Fecha de Ingreso: 12/11/2016.
+Servicio: Nefrología.
+Médico: Juan Antonio Martín-Navarro  NºCol: 28 28 91465.
+Historia Actual: Varón de 35 años diagnosticado de espondilitis anquilosante HLA B27 positiva en 2011. Una ecografía abdominal mostró múltiples quistes hepáticos y renales. Riñón derecho de 18cm e izquierdo de 19cm. Ante ausencia de historia familiar de enfermedades quísticas, se diagnostica de enfermedad poliquística por mutación de novo.
+En marzo de 2011 inicia tratamiento con adalimumab (Humira®) 40mg cada 15 días. En ese momento presenta: hemoglobina (Hb) 12,4g/dl, creatinina (Cr) 2,3mg/dl, filtrado glomerular estimado (FGe) MDRD (Modification of Diet in Renal Disease) 34ml/min/1,73m2, proteinuria de 10mg/dl. En septiembre de 2011 muestra: Cr 3,24mg/dl, FGe MDRD 23ml/min/1,73m2, proteinuria 1,78g/24 h. Se suspende el tratamiento en enero de 2012 por el desarrollo de polineuropatía y púrpura. En febrero de 2012 una resonancia magnética nuclear (RMN) demuestra riñón derecho de 18cm (volumen de 2450ml) y riñón izquierdo de 18cm (2250ml). En abril de 2012 se inicia Golimumab (Simponi®) 50mg cada cinco semanas. Se administran seis dosis y se suspende en septiembre de 2012, al referir el paciente un llamativo aumento del diámetro abdominal y hernia umbilical que se relaciona directamente con la administración del fármaco. En diciembre de 2012 se administra una última dosis. 
+En marzo de 2013, una nueva RMN demuestra riñón derecho de 25,4cm con un volumen de 3899ml y riñón izquierdo de 24,1cm con un volumen de 2739ml y discreto aumento en mucha menor cuantía de los quistes hepáticos.
+Remitido por: Dr.Juan Antonio Martín-Navarro Sección de Nefrología Hospital del Tajo Avda. Amazonas Central, SN 28300, Aranjuez, Madrid juanmartinnav@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T32" start="9" end="20" text="Jose Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T31" start="33" end="43" text="Diez Perez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T30" start="50" end="57" text="9632541" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T29" start="65" end="79" text="89 43511375 88" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T2" start="92" end="113" text="C/ Gonzalo Chacón, 94" TYPE="CALLE" comment=""/>
+    <LOCATION id="T28" start="137" end="145" text="Aranjuez" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T27" start="151" end="156" text="28300" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T26" start="199" end="210" text="19/05 /1981" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T25" start="218" end="224" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T24" start="232" end="239" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T23" start="246" end="247" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T22" start="267" end="277" text="12/11/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T21" start="309" end="336" text="Juan Antonio Martín-Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T20" start="345" end="356" text="28 28 91465" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T19" start="375" end="380" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T18" start="384" end="391" text="35 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T1" start="455" end="459" text="2011" TYPE="FECHAS" comment=""/>
+    <DATE id="T4" start="703" end="716" text="marzo de 2011" TYPE="FECHAS" comment=""/>
+    <DATE id="T3" start="982" end="1000" text="septiembre de 2011" TYPE="FECHAS" comment=""/>
+    <DATE id="T17" start="1104" end="1117" text="enero de 2012" TYPE="FECHAS" comment=""/>
+    <DATE id="T16" start="1168" end="1183" text="febrero de 2012" TYPE="FECHAS" comment=""/>
+    <DATE id="T5" start="1314" end="1327" text="abril de 2012" TYPE="FECHAS" comment=""/>
+    <DATE id="T15" start="1427" end="1445" text="septiembre de 2012" TYPE="FECHAS" comment=""/>
+    <DATE id="T14" start="1601" end="1618" text="diciembre de 2012" TYPE="FECHAS" comment=""/>
+    <DATE id="T13" start="1655" end="1668" text="marzo de 2013" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="1881" end="1908" text="Juan Antonio Martín-Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T11" start="1931" end="1948" text="Hospital del Tajo" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T10" start="1949" end="1975" text="Avda. Amazonas Central, SN" TYPE="CALLE" comment=""/>
+    <LOCATION id="T9" start="1976" end="1981" text="28300" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T8" start="1983" end="1991" text="Aranjuez" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T7" start="1993" end="1999" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T6" start="2000" end="2025" text="juanmartinnav@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

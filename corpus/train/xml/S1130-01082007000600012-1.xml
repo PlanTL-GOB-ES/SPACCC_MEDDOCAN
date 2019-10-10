@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Silvia.
+Apellidos: Sevilla Peña.
+NHC: 7845421.
+NASS: 78 45674055 78.
+Domicilio: C/ Melchor Fdez Almagro, 27.
+Localidad/ Provincia: Madrid.
+CP: 28046.
+Datos asistenciales.
+Fecha de nacimiento: 04/08/1985.
+País de nacimiento: España.
+Edad: 33 años Sexo: M.
+Fecha de Ingreso: 15/04/2018.
+Médico: Lorena Pingarrón Martín NºCol: 28 28 57410.
+Informe clínico del paciente: Mujer de 33 años remitida por dolor abdominal. Alérgica a la penicilina, amigdalectomizada y adenoidectomizada, tuvo un embarazo con parto normales hace 4 años, y no refiere hábitos tóxicos ni medicación habitual. Acude a Urgencias por dolor en hipocondrio izquierdo de 3 meses, intensificado las últimas 24 horas. Asocia aumento del perímetro abdominal, náuseas y fiebre de 38,5 ºC, sin otra focalidad infecciosa. No refiere síndrome tóxico ni alteración del hábito intestinal.
+A la exploración, se encuentra consciente, orientada, normohidratada, con cierta palidez de piel y mucosas. TA 140/80, FC 100 ppm, FR 20 rpm, tª axilar 37,3 ºC. Auscultación cardiaca y pulmonar normales. El abdomen es blando, depresible, con el único hallazgo de una esplenomegalia de unos 17 cm, dura y dolorosa. No se palpan adenopatías periféricas y las extremidades son normales.
+Analíticamente al ingreso presenta 2.900 leucocitos/mm3 (82% N, 14% L), HB 8,2 g%, Hto 26%, VCM 84,8, RDW 17,1, 79.000 plaq/mm3, quick 66%, cefalina 29; resto de bioquímica con parámetros estrictamente normales (glicemia, función renal e ionograma). Radiológicamente, se aprecia elevación de los dos hemidiafragmas sin alteración de los hilios pulmonares, y desplazamiento de las asas intestinales por un efecto masa en hipocondrio izquierdo.
+Con el diagnóstico de esplenomegalia y pancitopenia a estudio fue ingresada en Hematología. La ecografía abdominal informó de imágenes compatibles con múltiples hematomas intraparenquimatosos esplénicos. La TAC toracoabdominal no mostró otros hallazgos. Se practicaron estudios citogenéticos negativos, serología hepática vírica negativa, mantoux negativo, estudio hormonal normal, metabolitos del ácido fólico normales, estudio de coagulación completo sin otros hallazgos que la trombopenia, haptoglobina normal, coombs directo eritrocitario poliespecífico negativo, proteinograma con leve incremento de la gammaglobulina (22,4%; normal < 18,6%) y leve descenso del hierro, 25 microg% (normal < 37). Los marcadores tumorales fueron negativos, así como el despistaje de tumores ocultos (mamografía, colonoscopia, citología genital, biopsia de médula ósea). Precisó durante este estudio la transfusión de 450 cc de concentrado de hematíes desleucotizados, permaneciendo estable hemodinámicamente, y con el dolor abdominal controlado con analgésicos de primer escalón.
+Con el diagnóstico de síndrome de hiperesplenismo, se solicitó realizar una esplenectomía, que se realizó reglada por vía laparoscópica, sin incidencias. El postoperatorio transcurrió afebril, sin complicaciones locales ni generales, afebril, remisión del dolor, recuperación de la ingesta oral y retirada del drenaje.
+El informe anatomopatológico del espécimen mostró: peliosis esplénica sin hiperplasia del endotelio, con histiocitosis sinusal y células macrofágicas y cristales de hemosiderina.
+Tras un año de seguimiento, la mujer ha recuperado los parámetros normales de las tres series hematológicas sin ningún tratamiento, sin evidencia de complicaciones ni recidivas hepáticas.
+Responsable clínico: Dra. Lorena Pingarrón Martín Servicio de Cirugía Oral y Maxilofacial Hospital Universitario La Paz Pº Castellana 261. 28046 Madrid. España Email: lorenapingarron@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="34" text="Silvia" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="59" text="Sevilla Peña" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="66" end="73" text="7845421" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="81" end="95" text="78 45674055 78" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="108" end="135" text="C/ Melchor Fdez Almagro, 27" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="159" end="165" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="171" end="176" text="28046" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="220" end="230" text="04/08/1985" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="252" end="258" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="266" end="273" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="280" end="281" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T15" start="301" end="311" text="15/04/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="321" end="344" text="Lorena Pingarrón Martín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="352" end="363" text="28 28 57410" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="395" end="400" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="404" end="411" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T1" start="3297" end="3302" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="3480" end="3503" text="Lorena Pingarrón Martín" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3544" end="3573" text="Hospital Universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3574" end="3591" text="Pº Castellana 261" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3593" end="3598" text="28046" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3599" end="3605" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="3621" end="3645" text="lorenapingarron@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Paula.
+Apellidos: Lloret Sanchez.
+NHC: 145454.
+NASS: 87 45239547 44.
+Domicilio: Avenida de la barceloneta 19, 3 I.
+Localidad/ Provincia: Barcelona.
+CP: 08005.
+Datos asistenciales.
+Fecha de nacimiento: 03/01/1985.
+País: España.
+Edad: 33 años Sexo: M.
+Fecha de Ingreso: 15/04/2018.
+Médico: Pablo Gómez Faíña  NºCol: 08 08 48574.
+Motivo de ingreso: disminución de agudeza visual.
+Historia Actual: Paciente mujer de 33 años que consultó por disminución de agudeza visual de larga evolución y graves molestias debidas a una conocida sequedad ocular. 
+Su agudeza visual era de 20/100 con ojo derecho (OD) y 20/400 con ojo izquierdo (OI). La biomicroscopía reveló hiperemia conjuntival mixta, neovascularización corneal bilateral implicando a la totalidad de la superficie corneal (tanto superficial como profunda) y queratopatía punteada superficial difusa. El test de Schirmer fue de 10 mm OD y de 5 mm OI, siendo el menisco lagrimal de ambos ojos marcadamente reducido. La presión intraocular era de 14 mm de Hg en ambos ojos. Fue administrado un tratamiento tópico a base de fluorometolona, pomada de eritromicina y abundante lubricación ocular. La agudeza visual se mantuvo para el ojo derecho, no obstante, mejoró notablemente para el ojo izquierdo pasando a ser de 20/50.
+Una exploración física dermatológica y neurológica detallada revelaron queratoeritema y sordera neurosensorial, siendo la paciente diagnosticada de síndrome KID. La historia familiar era negativa para problemas similares y no existía consanguinidad. Se realizó análisis molecular genético del gen GJB2, cuya mutación y relación con el síndrome KID ha sido recientemente establecida, resultando positiva para nuestra paciente.
+Antecedentes: Desde la infancia la paciente sufría sequedad cutánea generalizada, anhidrosis, piosis cutánea, lesiones cutáneas hiperqueratósicas, pérdida de cuero cabelludo, ausencia de cejas y madarosis sin alteraciones de la posición palpebral. 
+Remitido por: Dr.Pablo Gómez Faíña C/ Gran Vía Carlos III, 95, 5º 1ª esc.B. 08028 Barcelona España E-mail: 3683pgf@comb.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="14" text="Paula" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="27" end="41" text="Lloret Sanchez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="48" end="54" text="145454" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="62" end="76" text="87 45239547 44" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="89" end="122" text="Avenida de la barceloneta 19, 3 I" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="146" end="155" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="161" end="166" text="08005" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="210" end="220" text="03/01/1985" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="228" end="234" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="242" end="249" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="256" end="257" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="277" end="287" text="15/04/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="297" end="314" text="Pablo Gómez Faíña" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="323" end="334" text="08 08 48574" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="412" end="417" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="421" end="428" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1973" end="1990" text="Pablo Gómez Faíña" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T1" start="1991" end="2030" text="C/ Gran Vía Carlos III, 95, 5º 1ª esc.B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2032" end="2037" text="08028" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2038" end="2047" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2048" end="2054" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="2063" end="2078" text="3683pgf@comb.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

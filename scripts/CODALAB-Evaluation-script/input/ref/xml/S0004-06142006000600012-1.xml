@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Mariano.
+Apellidos: Ramos Baez.
+NHC: 2594890.
+NASS: 47 39047534 02.
+Domicilio: Av. Pedro Rubio, 36.
+Localidad/ Provincia: Madrid.
+CP: 28319.
+Datos asistenciales.
+Fecha de nacimiento: 13/09/1955.
+País: España.
+Edad: 62 años Sexo: H.
+Fecha de Ingreso: 23/07/2017.
+Médico:  NºCol: 28 28.
+Informe clínico del paciente: Paciente de 62 años de edad,consulta por presentar dolor en hemiescroto derecho de tres meses de evolución, al examen físico se constata varicocele derecho grado IV, palpándose además voluminosa masa a nivel del área renal derecha. Se realiza ecografía abdominal que informa masa heterogénea de 10 cm. aproximadamente en riñón derecho, riñón izquierdo sin hallazgos patológicos. Se complementa con tomografía axial computada de abdomen y pelvis con contraste endovenoso donde se evidencia una formación renal derecha heterogénea de 110 x 120 mm de diámetro, no se observan adenomegalias retroperitoneales. Difícil evaluación del pedículo renal derecho.
+Se solicita resonancia magnética que confirma la formación heterogénea renal derecha en polo superior de 12 cm. de diámetro mayor, sin compromiso de vena renal ni de la vena cava inferior.
+Se realiza una nefrectomía radical derecha. Buena evolución, se externa al quinto día postoperatorio.
+La anatomía patológica revela: Tumor maligno indiferenciado de estirpe a diferenciar por inmunohistoquímica (IHQ).. Tamaño tumoral 13 cm. Invasión local: el tumor se extiende a través de la cápsula renal, provocando infiltración focal de la grasa perisuprarenal. Hilio renal libre de lesión. Embolias vasculares presentes, márgenes quirúrgicos libres de lesión tumoral. Riñón no neoplásico: pielonefritis crónica. Arterio y arteriolonefroesclerosis y quiste de retención de 4 cm. de diámetro mayor. Glándula suprarrenal libre de lesión. IHQ:WT1 +++,CD 117 +++,CD56 +++,P53 -.
+Diagnóstico: Nefroblastoma (Tumor de Wilms), estadío II de la clasificación de la NWTS.
+La TC al mes postoperatorio evidencia recidiva tumoral a nivel del lecho de la nefrectomía.
+Inicia esquema de quimioterapia con vincristina, dactinomicina y doxorubicina. Presenta durante el curso de la quimioterapia un cuadro de neumonía con deterioro del estado general, sepsis y meses de la nefrectomía.
+Remitido por: Dr: Rodrigo Martínez Mansur. Email: drrmmmansur@yahoo.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T16" start="29" end="36" text="Mariano" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T15" start="49" end="59" text="Ramos Baez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T14" start="66" end="73" text="2594890" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T13" start="81" end="95" text="47 39047534 02" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T12" start="108" end="127" text="Av. Pedro Rubio, 36" TYPE="CALLE" comment=""/>
+    <LOCATION id="T11" start="151" end="157" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T10" start="163" end="168" text="28319" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T9" start="212" end="222" text="13/09/1955" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T8" start="230" end="236" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T7" start="244" end="251" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="258" end="259" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T5" start="279" end="289" text="23/07/2017" TYPE="FECHAS" comment=""/>
+    <ID id="T4" start="307" end="312" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T3" start="356" end="363" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="2277" end="2300" text="Rodrigo Martínez Mansur" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2309" end="2330" text="drrmmmansur@yahoo.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

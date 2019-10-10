@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Enrique.
+Apellidos: Bueno Diaz.
+NHC: 8394670.
+NASS: 48 36907256 18.
+Domicilio: Calle Vinateros, 55, 3, A.
+Localidad/ Provincia: Madrid.
+CP: 28034.
+Datos asistenciales.
+Fecha de nacimiento: 15/02/1942.
+País de nacimiento: España.
+Edad: 75 años Sexo: H.
+Fecha de Ingreso: 19/06/2017.
+Médico: Esperanza Bueno Juana  NºCol: 28 28.
+Informe clínico del paciente: Varón de 75 años, con antecedentes de hiperuricemia en tratamiento con Alopurinol que ingresa para realización de resección transuretral de próstata.
+Postoperatorio inmediato sin incidencias con tratamiento con Pantoprazol, Ciprofloxacino, Paracetamol, Enantyum y Alopurinol. Al cuarto día de postoperatorio presenta mareos, temblor con componente mioclónico en extremidades y tronco e incapacidad para caminar, sin verse alteraciones analíticas. En esta situación se pauta Rivotril y se suspende el tratamiento con Ciprofloxacino, desapareciendo la clínica mioclónica y mejorando el estado del paciente, por lo que se decide el alta hospitalaria.
+Responsable clínico: Dra. Esperanza Bueno Juana Correo electrónico: espemune90@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="35" text="Enrique" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="48" end="58" text="Bueno Diaz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="65" end="72" text="8394670" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="80" end="94" text="48 36907256 18" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="107" end="132" text="Calle Vinateros, 55, 3, A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="156" end="162" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="168" end="173" text="28034" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="217" end="227" text="15/02/1942" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="263" end="270" text="75 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="277" end="278" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="298" end="308" text="19/06/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="318" end="339" text="Esperanza Bueno Juana" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="348" end="353" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="385" end="390" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="394" end="401" text="75 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="1059" end="1080" text="Esperanza Bueno Juana" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1101" end="1121" text="espemune90@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Martin.
+Apellidos: Cruz Andrade.
+NHC: 2056536.
+NASS: 09 82689756 32.
+Domicilio: Calle de la Asunción, 23.
+Localidad/ Provincia: Pontevedra.
+CP: 36760.
+Datos asistenciales.
+Fecha de nacimiento: 29/03/1973.
+País: España.
+Edad: 45 años Sexo: H.
+Fecha de Ingreso: 06/06/2018.
+Médico: José Jesús Blanco Pérez NºCol: 28 28.
+Informe clínico del paciente: Varón de 45 años, trabajador en canteras durante 23 años, diagnosticado de silicosis complicada (FMP). Exfumador desde hacía 10 años de 15 paquetes/año y tuberculosis pulmonar (TBP) en el año 2000 tratada correctamente con recidiva en 2003. Había precisado cursos frecuentes de esteroides en los 2 últimos años. Acudió al Servicio de Urgencias por disnea y expectoración hemoptoica de 5 meses de evolución. En la exploración física presentaba febrícula (37,3oC). La auscultación pulmonar mostraba roncus y sibilantes bilaterales. En la analítica destacaban una hemoglobina de 11,9 g/l; plaquetas: 515.000 / mm3; velocidad de sedimentación 79 mm/h y proteína C reactiva de 50 mg/l. La gasometría arterial mostraba insuficiencia respiratoria (pH de 7,45, presión arterial de oxígeno de 59 mm Hg y presión arterial de anhídrido carbónico de 35 mm Hg). En la radiografía de tórax se observaba un patrón micronodular bilateral con conglomerados en ambos lóbulos superiores. La tomografía axial computerizada (TAC) reveló extensa afectación intersticial bilateral en relación con silicosis complicada con formación de grandes masas de fibrosis masiva progresiva (FMP), que presentaban cavitación en su interior no presente en TAC de 9 meses antes, con formaciones mamelonadas en su interior a nivel de lóbulo superior derecho (LSD). Se realizó una fibrobroncoscopia que no mostró hallazgos significativos y la citología del broncoaspirado no demostró malignidad. En el esputo, el cultivo de lowestein fue negativo y el cultivo para hongos positivo para Aspergillus fumigatus. Una TAC mostró que la lesión cavitada se había reducido de tamaño tras 7 meses de tratamiento con voriconazol. El paciente en estos momentos se encuentra en proceso de valoración para trasplante pulmonar.
+Remitido por: Dr. José Jesús Blanco Pérez. Paseo Miguel de Tabagón. O Rosal 36760 Pontevedra E-mail: josejesus.blanco.perez@sergas.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T25" start="29" end="35" text="Martin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T24" start="48" end="60" text="Cruz Andrade" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="67" end="74" text="2056536" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T22" start="82" end="96" text="09 82689756 32" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T21" start="109" end="133" text="Calle de la Asunción, 23" TYPE="CALLE" comment=""/>
+    <LOCATION id="T20" start="157" end="167" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="173" end="178" text="36760" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="222" end="232" text="29/03/1973" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="240" end="246" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="254" end="261" text="45 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="268" end="269" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="289" end="299" text="06/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="309" end="332" text="José Jesús Blanco Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="340" end="345" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T12" start="377" end="382" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T14" start="386" end="393" text="45 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <PROFESSION id="T8" start="395" end="417" text="trabajador en canteras" TYPE="PROFESION" comment=""/>
+    <DATE id="T1" start="565" end="573" text="año 2000" TYPE="FECHAS" comment=""/>
+    <DATE id="T7" start="612" end="616" text="2003" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="2170" end="2193" text="José Jesús Blanco Pérez" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2195" end="2218" text="Paseo Miguel de Tabagón" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2220" end="2227" text="O Rosal" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2228" end="2233" text="36760" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2234" end="2244" text="Pontevedra" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2253" end="2285" text="josejesus.blanco.perez@sergas.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

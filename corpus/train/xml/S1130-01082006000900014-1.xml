@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Esther.
+Apellidos: Banderas Granada.
+NHC: 9346354.
+NASS: 78 04359658 03.
+Domicilio: Calle Ermitagaña, 3 2D.
+Localidad/ Provincia: Pamplona, Navarra.
+CP: 31008.
+Datos asistenciales.
+Fecha de nacimiento: 26/11/1929.
+País: España.
+Edad: 88 años Sexo: M.
+Fecha de Ingreso: 05/01/2018.
+Médico: Eneko Noain Sanz NºCol: 31 31 57485.
+Motivo de ingreso: ictericia obstructiva indolora. 
+Historia Actual: Comienza con cuadro de dolor cólico en hipocondrio derecho de una semana de evolución, asociándose a fiebre, ictericia (coluria y acolia), náuseas y vómitos.
+Antecedentes: Como antecedentes personales, destacar trombosis venosa profunda, ulcus duodenal con hemorragia digestiva alta y cardiopatía isquémica en tratamiento.
+Exploración física:  abdomen doloroso en hipocondrio derecho
+Resumen de pruebas complementarias: Se realizó ecografía abdominal que puso de manifiesto hígado homogéneo con dilatación de vía biliar intra-extrahepática, colédoco muy dilatado, 22 mm hasta su porción más distal en su desembocadura en la papila. No se objetivó litiasis ni la posible causa obstructiva. Área pancreática de aspecto ecográfico normal. Dudosa hipoecogenicidad y aumento de volumen de cabeza pancreática. Wirsung en el límite de la normalidad y vesícula biliar distendida.
+Analíticamente presentaba: bilirrubina total 11 mg/dl; 8,23 mg/dl de directa mg/dl, amilasa 1.435 mU/ml y hemoglobina 11 g/l.
+Se procedió a la realización de colangiografía transparietohepática como medida diagnóstica y terapéutica. En esta se observó moderada dilatación de vía biliar intrahepática con moderada dilatación de colédoco secundario a obstrucción a nivel de porción distal de duodeno. Se logró paso a través de la obstrucción dejándose catéter de drenaje interno-externo confirmando adecuada colocación y funcionamiento del mismo mediante colangiografía.
+Durante los días posteriores desarrolló cuadro de hemobilia con obstrucción de catéter que se autolimitó, con caída de las cifras de hemoglobina y sin repercusión hemodinámica.
+Evolución y comentarios: Dada la edad de la enferma y con el diagnóstico de neoplasia de cabeza de páncreas, se optó por tratamiento paliativo con colocación de endoprótesis (endoprótesis biliar tipo wall stent de 10 x 70 mm de longitud) quedando alojada desde colédoco proximal hasta el interior de la luz duodenal. Tras la colocación de la misma desarrolló en días posteriores episodios de sangrado digestivo con repercusión hemodinámica, siendo subsidiaria de transfusión. No hubo método diagnóstico previo porque parecía difícil sospechar la causa.
+Se optó por realización de arteriografía selectiva para diagnóstico de localización del sangrado activo. Se realizó arteriografía selectiva de tronco celíaco y de arteria hepática, visualizándose un pseudoaneurisma de 1 cm en rama de arteria hepática derecha. Se intentó cateterización selectiva para introducción de coil metálico no consiguiéndose técnicamente por tortuosidad de tronco celíaco y arteria hepática que expulsa el catéter.
+Se realizó nueva arteriografía selectiva esplénica y hepática visualizándose permeabilidad de eje esplenoportal y pseudoaneurisma de rama intrahepática de arteria hepática consiguiendo realizar cateterización selectiva de rama con pseudoaneurisma e introducir coil metálico de 3-5 mm de diámetro consiguiéndose cierre de vaso sangrante. La evolución fue satisfactoria con control del sangrado, así como buen drenaje de la vía biliar con normalización de cifras de bilirrubina.
+Remitido por: Eneko Noain Sanz. Hospital García Orcoyen Servicio de Cirugía Ortopédica y Traumatología c/Santa Soria, 22 31200 Estella (Navarra) Tfno. 848 435000 E-mail: enoainsa@cfnavarra.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="9" end="15" text="Esther" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="28" end="44" text="Banderas Granada" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="51" end="58" text="9346354" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="66" end="80" text="78 04359658 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="93" end="115" text="Calle Ermitagaña, 3 2D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="139" end="147" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="149" end="156" text="Navarra" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="162" end="167" text="31008" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="211" end="221" text="26/11/1929" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="229" end="235" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="243" end="250" text="88 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="257" end="258" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="278" end="288" text="05/01/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="298" end="314" text="Eneko Noain Sanz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="322" end="333" text="31 31 57485" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <NAME id="T9" start="3505" end="3521" text="Eneko Noain Sanz" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="3523" end="3546" text="Hospital García Orcoyen" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="3594" end="3611" text="c/Santa Soria, 22" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="3612" end="3617" text="31200" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="3618" end="3625" text="Estella" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3627" end="3634" text="Navarra" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="3642" end="3652" text="848 435000" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="3661" end="3682" text="enoainsa@cfnavarra.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

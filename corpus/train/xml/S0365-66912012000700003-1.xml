@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Ander.
+Apellidos:  Rodrigo Bonilla.
+NHC: 8348091.
+NASS:78 34576345 03.
+Domicilio: Calle General Rosales, 2, 5 C.
+Localidad/ Provincia: Madrid.
+CP: 28039.
+Datos asistenciales.
+Fecha de nacimiento: 21/08/1977.
+País de nacimiento: España.
+Edad: 32 años Sexo:H.
+Fecha de Ingreso: 13/11/2009.
+Médico: Miriam García Fernández  NºCol: 28 28 56230.
+Informe clínico del paciente: Varón, de 32 años, con neoplasia de colon con metástasis hepáticas, retroperitoneales y mediastínicas, de evolución rápida sobre un fondo de colitis ulcerosa.
+A la semana del diagnóstico, a pesar de presentar un estadio avanzado, es ingresado para intervención quirúrgica con resección parcial tumoral, iniciándose en el postoperatorio tratamiento quimioterápico con distintas líneas terapeúticas consecutivas oxaliplatino+acido folínico+fluoracilo, capecitabina+oxaliplatino, y capecitabina+irinotecán, sin respuesta. Incluso se realiza determinación del gen K-ras, para posible tratamiento con cetuximab o panitumumab, siendo negativo, y por tanto, descartando esta alternativa terapéutica. Además, no resulta aconsejable el tratamiento con bevacizumab pues presenta drenajes en la cavidad abdominal, con producción de material purulento.
+A los 15 días de la intervención quirúrgica, el paciente refiere dolor ocular izquierdo moderado, por lo que solicitan consulta a nuestro servicio. A la exploración oftalmológica, el paciente presenta moderado edema palpebral, quemosis conjuntival, exoftalmos severo no reductible, una ptosis completa en el ojo izquierdo, y limitación de la motilidad ocular en todas las posiciones de la mirada, pero sobre todo en la mirada lateral y en la supraversión.
+Ante ello, solicitamos resonancia magnética nuclear (RMN) craneal y orbitaria, con imágenes potenciadas en T1 y axiales potenciadas en difusión y FLAIR. Se observan dos lesiones nodulares en la órbita izquierda, una de ellas de 2×1cm, localizada en la región superior, con afectación de los músculos recto superior y elevador del párpado; y la segunda, localizada a nivel del ápex, con afectación del recto externo, todo ello muy sugestivo de metástasis de la musculatura ocular extrínseca.
+Debido al mal estado general del paciente, se descarta radioterapia paliativa, y se inician bolos de metilprednisolona a dosis de 1g/día, con alivio parcial del dolor. Sin embargo, a las 48 horas del segundo bolo de corticoterapia, el paciente presenta dolor abdominal y ocular extremo, por lo que se decide sedación paliativa, con fallecimiento del paciente.
+Responsable clínico: Miriam García Fernández. Correo Electronico:  migarci@hotmail.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="33" text="Ander" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="47" end="62" text="Rodrigo Bonilla" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="69" end="76" text="8348091" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="83" end="97" text="78 34576345 03" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="110" end="139" text="Calle General Rosales, 2, 5 C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="163" end="169" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="175" end="180" text="28039" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="224" end="234" text="21/08/1977" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T10" start="256" end="262" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="270" end="277" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="283" end="284" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T7" start="304" end="314" text="13/11/2009" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="324" end="347" text="Miriam García Fernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="356" end="367" text="28 28 56230" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="399" end="404" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="409" end="416" text="32 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="2568" end="2591" text="Miriam García Fernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2614" end="2632" text="migarci@hotmail.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

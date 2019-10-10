@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Sebastian .
+Apellidos: Blanco Castillo.
+NHC: 7384567.
+NASS: 87 90436708 37.
+Domicilio: C/ Vitruvio, 3.
+Localidad/ Provincia: Barcelona.
+CP: 07017.
+Datos asistenciales.
+Fecha de nacimiento: 14/05/1973.
+País de nacimiento: España.
+Edad: 45 años Sexo: H.
+Fecha de Ingreso: 15/06/2018.
+Médico: Ignacio Fernández Sanza  NºCol: 08 08 57974.
+Informe clínico del paciente: Paciente de 45 años de edad ingresado en el Servicio de Hematología por MM Ig G Kappa estadio III-A con infiltración hepática. No presentaba ningún antecedente personal ni familiar de interés.
+El paciente fue remitido al Servicio de Oftalmología por ojo derecho (OD) rojo de 24 horas de evolución sin ningún otro síntoma visual ni ocular.
+La agudeza visual era de la unidad en ambos ojos y en la lámpara de hendidura se apreciaba una masa indolora, vascularizada y subconjuntival nasal superior en OD. El resto de la exploración incluyendo fondo de ojo fue normal.
+La lesión progresó en 48 horas infiltrando el párpado superior y produciendo oftalmoplejía del OD.
+Se realizó una tomografía computarizada (TC) apreciándose aumento de partes blandas sin lesiones óseas. La biopsia de la lesión demostró infiltración por células plasmáticas.
+El paciente estaba siendo sometido a QT mediante: Vincristina, Uracilo, Ciclofosfamida, Melfalán y Prednisona seguidos de Vincristina, Uracilo, Adriamicina y Dexametasona. Al confirmar la biopsia se añadió RT local.
+A pesar del tratamiento de QT y RT la infiltración siguió progresando por párpados y conjuntiva, desarrollándose un glaucoma agudo postrabecular con presión intraocular (PIO) de 50 mm Hg que no respondió al tratamiento vía oral (inhibidores de la anhidrasa carbónica) y tópico (beta bloqueantes y prostaglandinas).
+Se suspendió la RT y se sustituyó la QT por Ciclofosfamida, Dexametasona, Bortezomid y Adriamicina, seguidos de Metotrexate, Citarabina y Metilprednisolana. Esta segunda línea de QT produjo remisión de la infiltración en dos semanas, normalizándose la PIO con campos visuales normales, aunque con ptosis y restricción de la motilidad ocular residuales. A pesar de la remisión del cuadro ocular el paciente falleció a los seis meses.
+Responsable clínico: Dr. Ignacio Fernández Sanza. Clínica Sanza C/ Dolores Monserda 54. Barcelona 08017.España e-mail: sanza@clinicasanza.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="37" text="Sebastian" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="51" end="66" text="Blanco Castillo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="73" end="80" text="7384567" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="88" end="102" text="87 90436708 37" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="115" end="129" text="C/ Vitruvio, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="153" end="162" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="168" end="173" text="07017" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T1" start="217" end="227" text="14/05/1973" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="249" end="255" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="263" end="270" text="45 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="277" end="278" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="298" end="308" text="15/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="318" end="341" text="Ignacio Fernández Sanza" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="350" end="361" text="08 08 57974" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T9" start="405" end="412" text="45 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="2221" end="2244" text="Ignacio Fernández Sanza" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="2246" end="2259" text="Clínica Sanza" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T6" start="2260" end="2282" text="C/ Dolores Monserda 54" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2284" end="2293" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2294" end="2299" text="08017" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2300" end="2306" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T2" start="2315" end="2337" text="sanza@clinicasanza.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

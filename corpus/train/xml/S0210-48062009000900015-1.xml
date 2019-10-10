@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Juan Manuel.
+Apellidos: Obrador Montijo.
+Domicilio: Antiguo Camino Acapulco 320 .
+Localidad/ Provincia: Ciudad de Mexico.
+CP: 01080.
+NHC:02389542.
+Datos asistenciales.
+Fecha de nacimiento: 13/07/1952.
+País: México.
+Edad: 64 años Sexo: Varón.
+Fecha de Ingreso: 2016.
+Médico: Alfonso Guerrero Morua .
+Motivo de ingreso: Paciente varón, de 64 años de edad acude por cuadro de 2 semanas de evolución, posterior a un internamiento por descompensación metabólica, donde se le colocó una sonda transuretral durante 2 semanas; refería dolor abdominal en el hipogastrio, de moderada intensidad y tipo opresivo, irradiado al glande, y uso de tratamientos tópicos autoprescritos sin mejoría. El dolor se intensificó hasta ser incapacitante 3 días antes de su internamiento, por lo que acudió a nuestro servicio. Negaba fiebre o más síntomas acompañantes.
+Antecedentes:  diabetes mellitus de tipo 2 de 20 años de evolución mal tratada, hipertensión arterial sistémica diagnosticada 6 meses atrás sin tratamiento, insuficiencia cardíaca diagnosticada hacia 6 meses y diagnóstico de insuficiencia renal crónica, hecho también 6 meses atrás, tratado con diálisis peritoneal.
+Exploración física: A la exploración física, se apreciaron abdomen sin alteraciones, pene con presencia de necrosis en el glande y secreción purulenta a través de meato uretral, así como áreas de necrosis en el primero y el segundo ortejos de ambos pies.
+Pruebas complementarias: Los exámenes de laboratorio demostraron: hemoglobina 9,9 g/dl, leucocitos 11.100, plaquetas 304.000, glucosa 138 mg/ dl, BUN 143,8 mg/dl, creatinina 7,71 mg/dl, calcio 7,79 mmol/l, fósforo 7,08 mmol/l, potasio 5,75 mmol/l, pH 7,17, pCO2 47 mmHg y HCO3 17,1 mmol/l.
+Evolución y comentarios: Se lo sometió a falectomía, de primera instancia parcial, pero en el transoperatorio se decidió total por falta de vascularidad hasta la base del pene; además, se realizó un meato perineal.
+El reporte de patología fue: necrosis isquémica distal del glande y prepucio asociada con microtrombosis y proliferación bacteriana, bordes de resección con calcificación distrófica de la media arterial.
+El resultado de cultivo de secreción fue Escherichia coli, por lo que recibió antibioticoterapia por 7 días. Se lo mantuvo hospitalizado durante 9 días y se egresó en buenas condiciones generales; actualmente está en vigilancia.
+Remitido por: Dr. Alfonso Guerrero Morua. Email:agmorua@live.com.mx
+]]></TEXT>
+  <TAGS>
+    <NAME id="T16" start="9" end="20" text="Juan Manuel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T15" start="33" end="48" text="Obrador Montijo" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T14" start="61" end="88" text="Antiguo Camino Acapulco 320" TYPE="CALLE" comment=""/>
+    <LOCATION id="T12" start="113" end="129" text="Ciudad de Mexico" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="135" end="140" text="01080" TYPE="TERRITORIO" comment=""/>
+    <ID id="T11" start="146" end="154" text="02389542" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="198" end="208" text="13/07/1952" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T9" start="216" end="222" text="México" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="230" end="237" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="244" end="249" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T1" start="269" end="273" text="2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="283" end="305" text="Alfonso Guerrero Morua" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="336" end="341" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T4" start="346" end="353" text="64 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="2380" end="2402" text="Alfonso Guerrero Morua" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T2" start="2410" end="2429" text="agmorua@live.com.mx" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

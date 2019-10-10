@@ -1,0 +1,39 @@
+
+07/09/2018
+Índice de contenido del informe de acuerdo entre anotadores:
+
+
+1. Descripción cuantitativa del corpus:
+
+-Número de documentos.
+-Número de oraciones.
+-Número medio de palabras por oración.
+-Número de tokens.
+-Palabras más frecuentes en el corpus.
+-Lemas más frecuentes en el corpus (riqueza léxica).
+
+
+2. Informe de acuerdo entre anotadores:
+
+2.1 Fase 1: Anotación del 10% de desarrollo
+
+Se anota el 10% de desarrollo con Freeling3.1 adaptado al dominio médico. Paralelamente, los anotadores anotan a mano el 10% de desarrollo. Como resultado de la fase 1 se proporcionan los siguientes valores:
+
+-% de discrepancia entre anotador 1 y anotador 2: se proporcionan tres valores: split, tokenización y POS.
+-% de discrepancia entre anotador 1 y Freeling3.1: se proporcionan tres valores: split, tokenización y POS. 
+-% de discrepancia entre anotador 2 y Freeling3.1: se proporcionan tres valores: split, tokenización y POS.
+
+2.2 Fase 2: Armonización
+
+Se armonizan las discrepancias entre las anotaciones manuales de los anotadores, generando así un gold standard (GS) del 10% de desarrollo del corpus. De esta manera se fijan los criterios para anotar cada uno de los casos que generan discrepancia. 
+A partir del proceso de armonización se añaden modificaciones a Freeling3.1 obtenidas de la comparación entre la anotación manual y la anotación automática. Como resultado de la fase 2 se proporcionan los siguientes valores:
+
+-Relación de casos que generan discrepancia, frecuencia de aparición y las decisiones tomadas al respecto.
+-% discrepancia de entre Freeling3.1 y GS: se proporcionan tres valores: split, tokenización y POS. 
+ 
+2.3 Fase 3: Anotación del 10% de validación
+
+Se anota el 10% de validación con Freeling3.1 modificado en su versión final. Los resultados obtenidos se comparan con la anotación manual generada por uno de los anotadores siguiendo los criterios establecidos para generar el GS. Como resultado de la fase 3 se proporcionan los siguientes valores:
+
+-% de discrepancia entre Freeling3.1 y anotador con criterio GS: se proporcionan tres valores: split, tokenización y POS. 
+

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Angelica.
+Apellidos: Valles Padrón.
+NHC: 4756450.
+NASS: 45 79764909 90.
+Domicilio: Calle Via Limite, 45, Bajo C.
+Localidad/ Provincia: Zaragoza.
+CP: 50265.
+Datos asistenciales.
+Fecha de nacimiento: 15/04/1913.
+País: España.
+Edad: 94 años Sexo: M.
+Fecha de Ingreso: 13/06/2007.
+Médico: Marina Povar Echeverría NºCol: 50 50 21204.
+Historia Actual: Paciente de 94 años, alérgica a penicilina y derivados, sin antecedentes médicos ni quirúrgicos de interés, que no toma medicación habitual. Refiere que en los últimos 4-5 días ha presentado episodios de dolor abdominal epigástrico con náuseas y vómitos abundantes de características biliosas, motivo por el que acude a Urgencias. No ha presentado alteraciones en el ritmo deposicional ni en las características de las deposiciones. No presenta fiebre ni otra sintomatología asociada.
+Exploración física: En la exploración física destaca: tensión arterial 120/80 mmHg, frecuencia cardíaca 106 lpm, saturación de O2 96% con FiO2 21%, temperatura 36,3o C. Consciente. Orientada. Ligeramente deshidratada. Coloración normal de piel y mucosas. Buena perfusión distal. Eupneica. Auscultación cardiaca: ruidos cardiacos rítmicos a 100 lpm, soplo sistólico panfocal de predominio en foco aórtico. Auscultación pulmonar: murmullo vesicular normal. Abdomen: blando, depresible, no doloroso a la palpación; no se palpan masas ni visceromegalias, no distensión ni timpanismo. Peristaltismo normal. Tacto rectal: dedil con restos de heces normales. Extremidades inferiores sin edemas ni signos de trombosis venosa profunda.
+Pruebas complementarias: Tras la valoración inicial se solicita:
+- Electrocardiograma: ritmo sinusal a 105 lpm, sin alteraciones de la repolarización, despolarización ni trastornos de conducción.
+- Radiografía de tórax: silueta cardiaca normal sin alteraciones pleuroparenquimatosas agudas.
+- Analítica de sangre: destaca hemoglobina 11 mg/dL con hematocrito 35%. Urea 51 mg/dL con creatinina plasmática en valores normales.
+Se inicia tratamiento médico con fluidoterapia y antieméticos, y ante sospecha clínica de un posible proceso obstructivo de tracto digestivo superior frente a un trastorno motor (gastroparesia) se decide realización de endoscopia oral.
+Evolución: Durante la realización de la endoscopia oral se identifica una formación sólida de morfología esférica y coloración amarillenta de unos 3 centímetros de diámetro que se encuentra enclavada en duodeno y provoca obstrucción del tránsito a dicho nivel. La paciente es diagnosticada de íleo biliar por litiasis enclavada en duodeno (Síndrome de Bouveret). El tratamiento habitual de esta entidad es quirúrgico, pero dada la avanzada edad de la paciente, se decide intentar extracción endoscópica. En primer lugar, se realizó la desimpactación del duodeno, realizando presa mediante un asa de red y posteriormente se consigue franquear el píloro en sentido inverso, y se transporta la litiasis a estómago. Una vez allí, se realizan maniobras de litotricia sin éxito.. Posteriormente, con un asa de polipectomía se introduce la litiasis de manera parcial en un sobretubo, pues el diamétro de la litiasis era superior. Se realiza extracción de la litiasis mediante endoscopia a través de la cavidad oral. Posteriormente se revisa la mucosa de estómago y duodeno sin observar erosiones ni lesiones de la mucosa.
+Tras extracción de la litiasis, el cuadro clínico de la paciente es resuelto, encontrándose asintomática. Se realizó control analítico y radiográfico sin observarse complicaciones y fue dada de alta hospitalaria a las 24 horas.
+Remitido por: Dra.  Marina Povar Echeverría Servicio de Medicina Interna Hospital Universitario Miguel Servet Paseo Isabel la Católica, 1-3 50009 Zaragoza E-mail: marinapovar89@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="29" end="37" text="Angelica" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="50" end="63" text="Valles Padrón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="70" end="77" text="4756450" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="85" end="99" text="45 79764909 90" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="112" end="140" text="Calle Via Limite, 45, Bajo C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="164" end="172" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="178" end="183" text="50265" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="227" end="237" text="15/04/1913" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="245" end="251" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="259" end="266" text="94 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="273" end="274" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="294" end="304" text="13/06/2007" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="314" end="337" text="Marina Povar Echeverría" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T6" start="345" end="356" text="50 50 21204" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T10" start="387" end="394" text="94 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="3611" end="3634" text="Marina Povar Echeverría" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="3664" end="3700" text="Hospital Universitario Miguel Servet" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="3701" end="3730" text="Paseo Isabel la Católica, 1-3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="3731" end="3736" text="50009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="3737" end="3745" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="3754" end="3779" text="marinapovar89@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

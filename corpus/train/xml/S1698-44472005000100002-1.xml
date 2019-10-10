@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Sandra.
+Apellidos: Rivera Perez.
+NHC: 7345690.
+NASS: 27 23793464 99.
+Domicilio: C/ Santiago de Compostela, 23, 5C.
+Localidad/ Provincia: Madrid.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 06/05/1964.
+País de nacimiento: Guatemala.
+Edad: 40 años Sexo: M.
+Fecha de Ingreso: 25/07/2004.
+Médico: Maria Romeo Donlo NºCol: 28 28 65802.
+Informe clínico del paciente: paciente femenina de 40 años de edad originaria y residente de una población cercana a la Ciudad de Guatemala, se presentó a consulta referida por su odontólogo general con una mácula pigmentada de color marrón oscuro, asintomática, descubierta en un examen clínico rutinario. La lesión se localizaba en la mucosa anterior de paladar duro, midiendo 0.5 cm de diámetro. La paciente no tenía ningún antecedente médico de importancia y gozaba de buena salud. Refería no tomar ningún tipo de medicamento. La paciente había perdido los incisivos superiores por exodoncias y utilizaba una prótesis parcial removible de acrílico, inadecuadamente diseñada que provocaba eritema por presión a la mucosa subyacente, se descartó candidiasis por citología exfoliativa.
+Se procedió a efectuar una biopsia escisional, bajo anestesia local, utilizando la técnica de sacabocado con un instrumento de 0.6 cm de diámetro. El sitio quirúrgico cicatrizó por segunda intención sin complicaciones.
+El tejido obtenido de la biopsia se fijó en formalina bufferizada al 10% y se procesó en forma rutinaria. El estudio microscópico de la misma, con tinción de hematoxilina-eosina, reveló un fragmento de mucosa recubierto por epitelio estratificado escamoso levemente acantótico, con espongiosis, que contenía numerosos melanocitos dendríticos. El tejido conectivo subyacente mostraba presencia de pigmento de melanina admixto a un infiltrado inflamatorio leve de predominio linfocítico. El diagnóstico definitivo fue melanoacantosis.
+Remitido por: Dra. Maria Romeo Donlo maria3334@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="29" end="35" text="Sandra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="48" end="60" text="Rivera Perez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="67" end="74" text="7345690" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="82" end="96" text="27 23793464 99" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="109" end="142" text="C/ Santiago de Compostela, 23, 5C" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="166" end="172" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="178" end="183" text="28036" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="227" end="237" text="06/05/1964" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T12" start="259" end="268" text="Guatemala" TYPE="PAIS" comment=""/>
+    <AGE id="T9" start="276" end="283" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="290" end="291" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="311" end="321" text="25/07/2004" TYPE="FECHAS" comment=""/>
+    <NAME id="T5" start="331" end="348" text="Maria Romeo Donlo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T3" start="356" end="367" text="28 28 65802" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T6" start="408" end="416" text="femenina" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="420" end="427" text="40 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T2" start="489" end="508" text="Ciudad de Guatemala" TYPE="TERRITORIO" comment=""/>
+    <NAME id="T4" start="1927" end="1944" text="Maria Romeo Donlo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1945" end="1966" text="maria3334@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Jesús.
+Apellidos: Santana Perea.
+NHC: 8967205.
+NASS: 89 26756024 56.
+Domicilio: Av. ventisquero de la condesa, 66, 1 B.
+Localidad/ Provincia: Madrid.
+CP: 28029.
+Datos asistenciales.
+Fecha de nacimiento: 25/07/1972.
+País de nacimiento: España.
+Edad: 43 años Sexo: H.
+Fecha de Ingreso: 20/01/2016.
+Médico: Beatriz Guglieri López  NºCol: 28 28 94569.
+Informe clínico del paciente: Varón de 43 años infectado por el VHC genotipo 1a y por el virus de la inmunodeficiencia humana (VIH), con fibrosis hepática grado F4 (cirrosis), FibroScan de 27 kPa y Child-Pugh grado A. En tratamiento para VIH desde febrero de 2010 (tenofovir + emtricitabina + raltegravir).
+El paciente presentó RP por debajo de los niveles normales (<120 x 109/L) desde el diagnóstico de HCC (diciembre 2008). Previamente al inicio de la terapia antiviral para HCC el paciente presentaba trombocitopenia grado III (RP = 42 x 109/L), neutropenia grado III (Neutrófilos = 0,66 x 109/L) y valores de hemoglobina (Hb) dentro de la normalidad (Hb = 14,1 g/dL). La alanina-aminotransferasa (ALT) y aspartato-aminotransferasa (AST) presentaron valores dentro de la normalidad (35 y 36 UI/mL, respectivamente) y la gamma-glutamiltranspeptidasa (GGT) se encontró ligeramente elevada (62 UI/mL). La carga viral del VHC (CVVHC) fue de 180.000 copias/mL y la CVVIH fue indetectable.
+En marzo 2012 inició tratamiento para HCC con pegIFN-α2a y RBV (180 mcg/semana y 1.000 mg/día, respectivamente) durante 11 semanas. En la semana 12, presentando RP de 26 x 109/L, se añadió TVR (750 mg/8horas). El RP disminuyó de manera progresiva hasta 16 x 109/L en semana 14, momento en que se inició tratamiento con eltrombopag 50 mg/día y se redujo la dosis de pegIFN-α2a a 135 mcg/semana. En las semanas 16 y 17 el RP continuaba por debajo de los valores normales (14 x 109/L y 13 x 109/L, respectivamente). En la semana 22 el RP remontó a 34 x 109/L y se aumentó la dosis de eltrombopag a 75 mg/día, se modificó el tipo de IFN (de pegIFN-α2a a pegIFN-α2b) y su dosis (de 135 mcg a 80 mcg/semana), coincidiendo con el fin del tratamiento con TVR. Se redujo la dosis de eltrombopag a 50 mg/día en la semana 30 y en la semana 35 fue suspendido por presentar RP de 50 x 109/L. Al final del tratamiento (semana 48), el RP fue de 67 x 109 plaquetas/L con CVVHC indetectable (< 15 copias/mL) desde la semana 15.
+Responsable clínico: Beatriz Guglieri López E-mail: guglieri_bea@gva.e
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="28" end="33" text="Jesús" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="46" end="59" text="Santana Perea" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="66" end="73" text="8967205" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="81" end="95" text="89 26756024 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T17" start="108" end="146" text="Av. ventisquero de la condesa, 66, 1 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="170" end="176" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="182" end="187" text="28029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="231" end="241" text="25/07/1972" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="263" end="269" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="277" end="284" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="291" end="292" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="312" end="322" text="20/01/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="332" end="354" text="Beatriz Guglieri López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="363" end="374" text="28 28 94569" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="406" end="411" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="415" end="422" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T4" start="624" end="639" text="febrero de 2010" TYPE="FECHAS" comment=""/>
+    <DATE id="T3" start="786" end="800" text="diciembre 2008" TYPE="FECHAS" comment=""/>
+    <DATE id="T2" start="1367" end="1377" text="marzo 2012" TYPE="FECHAS" comment=""/>
+    <NAME id="T6" start="2396" end="2418" text="Beatriz Guglieri López" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2427" end="2445" text="guglieri_bea@gva.e" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

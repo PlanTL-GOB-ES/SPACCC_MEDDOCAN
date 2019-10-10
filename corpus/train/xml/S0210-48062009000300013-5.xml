@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Javier.
+Apellidos: Betanco Cruz.
+NHC: 8457845.
+NASS: 73 47456451 13.
+Domicilio: C/ Francisco Hernández, 27, 1 D.
+Localidad/ Provincia: Albacete.
+CP: 02478.
+Datos asistenciales .
+Fecha de nacimiento: 25/01/1963.
+País de nacimiento: España.
+Edad: 53 años Sexo: H.
+Fecha de Ingreso: 19/05/2016.
+Médico: Héctor Pastor Navarro NºCol: 02 02 55897.
+Informe clínico del paciente: Varón de 53 años. Litiasis cálcica. Localización de la litiasis y tamaño: calicial múltiple entre 1-1,5 cm; riñón izquierdo.
+Antecedentes personales: en controles en nefrología por HTA y leve IRC. Piohidronefrosis derecha secundaria a litiasis ureteral distal que precisó de nefrostomía percutánea recuperando parcialmente la función de riñón derecho. Nueve litotricias, cinco del lado derecho (dos ureterales y tres renales) y tres sobre riñón izquierdo, aunque el hematoma se produjo tras la primera en este riñón.
+Nº ondas e intensidad: 3.500 impactos, intensidad 3-4.
+Clínica inmediata post-Leoch: dolor intenso a las pocas horas del procedimiento
+En TAC hematoma subcapsular izquierdo. de 15 cm.
+Tratamiento posterior: analgesia y controles analíticos. Descenso de Hto hasta 32 y Hb 10. No presentó alteraciones hemodinámicas. No precisó de transfusiones. Ingreso hospitalario durante 8 días.
+Evolución del hematoma: No presentó dolores intensos salvo los 4-5 primeros días, por lo que junto a la estabilidad hemodinámica y el mantenimiento de la Hb, se decidió tratamiento conservador, reabsorbiéndose el hematoma casi completamente en 18 meses; en ecografía y TAC al año y medio se aprecian pequeños restos de hematoma.
+Responsable clínico: Dr. Héctor Pastor Navarro Servicio de Urología Complejo Hospitalario Universitario de Albacete Hermanos Falcó, s/n - 02006 Albacete Tel.: 967 597 100 E-mail autor: hektorpn@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="34" text="Javier" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="59" text="Betanco Cruz" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="66" end="73" text="8457845" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="81" end="95" text="73 47456451 13" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="108" end="139" text="C/ Francisco Hernández, 27, 1 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="163" end="171" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="177" end="182" text="02478" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="227" end="237" text="25/01/1963" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="259" end="265" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T1" start="273" end="280" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="287" end="288" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="308" end="318" text="19/05/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="328" end="349" text="Héctor Pastor Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T11" start="357" end="368" text="02 02 55897" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="400" end="405" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T9" start="409" end="416" text="53 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T8" start="1652" end="1673" text="Héctor Pastor Navarro" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T7" start="1695" end="1742" text="Complejo Hospitalario Universitario de Albacete" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T6" start="1743" end="1762" text="Hermanos Falcó, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="1765" end="1770" text="02006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="1771" end="1779" text="Albacete" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T3" start="1786" end="1797" text="967 597 100" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T2" start="1812" end="1832" text="hektorpn@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

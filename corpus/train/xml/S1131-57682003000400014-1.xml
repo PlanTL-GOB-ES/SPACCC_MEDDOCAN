@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Lara.
+Apellidos: Pérez Ontiveros.
+NHC: 1895073.
+NASS: 36 34876348 37.
+Domicilio: Av, de Leon 66, 1H.
+Localidad/ Provincia: Tres Cantos.
+CP: 28760.
+Datos asistenciales.
+Fecha de nacimiento: 13/03/1996.
+País: España.
+Edad: 21 años Sexo:.
+Fecha de Ingreso: 21/11/2017.
+Servicio: Urgencias.
+Médico: Sonia Martínez Machuca  NºCol: 28 28 54712.
+Informe clínico del paciente: Se trata de una mujer de 21 años de edad, sin antecedentes previos de interés, que consultó inicialmente al Servicio de Urgencias de su Centro de Salud por un cuadro de odinofagia y fiebre, se le diagnosticó una faringitis aguda, pautándosele un tratamiento con amoxicilina oral durante una semana. Finalizado el tratamiento, la paciente acudió a su médico de Atención Primaria, refiriendo una remisión de la fiebre pero con la persistencia de la odinofagia, que relacionaba con una lesión que presentaba en el borde lateral izquierdo de la lengua. En la exploración se objetivó una lesión ulcerada, de coloración blanquecina, de aproximadamente 1 cm de diámetro, en el borde lateral de la lengua, a unos 3,4 cm de la punta. No se encontraron adenopatías, ni otras lesiones a nivel orofaríngeo. Se etiquetó la lesión como una afta lingual, en el contexto de un cuadro posinfeccioso, indicándosele un tratamiento sintomático para aliviar las molestias. Después de 15 días, la lesión no experimentó ninguna mejoría, y en el reinterrogatorio de la paciente se constató que la lesión podía haber precedido a la del cuadro infeccioso, con estos datos se remitió a la paciente para realizar una biopsia de la lesión. En la biopsia intraoperatoria se diagnostica de carcinoma epidermoide que alcanza el borde quirúrgico. En la descripción microscópica se reconoce una neoformación ulcerada que infiltra en profundidad hasta las proximidades del borde de resección profunda sin alcanzarle. La neoformación esta constituida por células epiteliales que se disponen en nidos o cordones. Estas células tienen un bajo índice mitósico y tienen tendencia a formar globos córneos. El diagnóstico es de carcinoma epidermoide bien diferenciado que infiltra hasta las proximidades del borde de resección quirúrgica. Posteriormente se realizó una biopsia de fragmento fibroadiposo cervical que contenía 25 ganglios linfáticos, siendo los 25 negativos para células tumorales. La paciente fue sometida a una intervención quirúrgica donde se realizó una disección funcional del cuello y una hemiglosectomía izquierda mediante láser de CO2. La evolución fue satisfactoria, encontrándose asintomática hasta el momento actual y sin signos de recidiva.
+Remitido por: Sonia Martínez Machuca. C/ Embarcaciones, 24, 9ºD 28760 Tres Cantos. Madrid Tlf: 918038014 / 656352534
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="13" text="Lara" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="26" end="41" text="Pérez Ontiveros" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="48" end="55" text="1895073" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="63" end="77" text="36 34876348 37" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="90" end="108" text="Av, de Leon 66, 1H" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="132" end="143" text="Tres Cantos" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="149" end="154" text="28760" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="198" end="208" text="13/03/1996" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="216" end="222" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="230" end="237" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="263" end="273" text="21/11/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="304" end="326" text="Sonia Martínez Machuca" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T8" start="335" end="346" text="28 28 54712" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T7" start="394" end="399" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T11" start="403" end="410" text="21 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T9" start="2618" end="2640" text="Sonia Martínez Machuca" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2642" end="2667" text="C/ Embarcaciones, 24, 9ºD" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2668" end="2673" text="28760" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2674" end="2685" text="Tres Cantos" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2687" end="2693" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2699" end="2708" text="918038014" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="2711" end="2720" text="656352534" TYPE="NUMERO_TELEFONO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

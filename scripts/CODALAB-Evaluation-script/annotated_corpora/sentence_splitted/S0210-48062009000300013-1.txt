@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Ernesto.
+Apellidos: Molina Figueroa.
+NHC: 7843653.
+NASS: 27 64571043 77.
+Domicilio: Calle Chapala, 1, 1D.
+Localidad/ Provincia: Madrid.
+CP: 02023.
+Datos asistenciales.
+Fecha de nacimiento: 13/01/1947.
+País de nacimiento: España.
+Edad: 66 años Sexo: H.
+Fecha de Ingreso: 27/08/2013.
+Médico: Héctor Pastor Navarro  NºCol: 02 02 57890.
+Informe clínico del paciente: Varón de 66 años con antecedentes personales: Adenomectomia prostática, cólicos nefríticos izquierdos, úlcus péptico. No hipertensión previa. Betatalasemia heterocigótica. Litiasis úrica piélica de riñón izquierdo.
+Portador de catéter doble J en el momento de la LEOCH.
+Leoch inefectiva 4 semanas antes de la segunda, en la que se produjo el hematoma. (4.000 impactos a intensidad 4 y 1.000 a 5).
+Tuvo dolor intenso al final de la misma que requirió analgesia IV suplementaria, aunque sin alteración hemodinámica.
+Se dio de alta tras Leoch y fue asistido de urgencia a los 5 días con mal estado general, astenia, dolor lumbar izquierdo y Hb de 8, comprobándose en eco y Tac el hematoma. Elevación de creatinina hasta 1,8.
+Diez días después de la Leoch con Hb estabilizada en 8 después de administración de 3 concentrados de hematíes, y ante la persistencia de dolor lumbar intenso y fiebre (38-39º C) se procedió a drenaje del hematoma mediante incisión lumbar, comprobando la existencia de hematoma subcapsular, no infectado, sin sangrado activo. A las 48 h se había normalizado la función renal, desaparecido la fiebre y sólo refería dolor moderado típico de las lumbotomías. Fue alta a los 4 días de la intervención. A los 2 meses la ecografía renal, UIV y función renal eran normales.
+Responsable clínico: Dr. Héctor Pastor Navarro Servicio de Urología Complejo Hospitalario Universitario de Albacete Hermanos Falcó, s/n - 02006 Albacete Tel.: 967 597 100 E-mail: hektorpn@hotmail.com

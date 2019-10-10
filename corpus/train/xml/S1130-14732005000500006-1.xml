@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: David .
+Apellidos: Aguilar Nieto.
+NHC: 5867560.
+NASS: 57 23589709 44.
+Domicilio: Calle Arturo Soria, 29.
+Localidad/ Provincia: Madrid.
+CP: 28032.
+Datos asistenciales.
+Fecha de nacimiento: 15/03/1997.
+País de nacimiento: España.
+Edad: 20 años Sexo: H.
+Fecha de Ingreso: 14/11/2017.
+Médico: Javier Ayerbe  NºCol: 28 28 41473.
+Informe clínico del paciente: varón de 20 años diagnosticado en Septiembre de 2003 de una leucemia linfoblástica aguda pre-B, al que se administró tratamiento quimioterápico intravenoso de inducción y quimioterapia profiláctica intratecal mediante PL. Tras aplicar varios esquemas de tratamiento durante 8 meses, no se consiguió una remisión completa de la enfermedad. En dicho periodo de tiempo se realizaron 4 punciones lumbares para administrar quimioprofilaxis intratecal, sin complicaciones. Los análisis repetidos de líquido cefalorraquídeo (LCR) fueron normales en todas las ocasiones. Los recuentos plaquetarios previos a dichas punciones fueron 34.000, 118.000, 338.000 y 161.000 plaquetas/mm3respectivamente. Los tiempos de protrombina (TP) y de tromboplastina parcial activada (TTPA) fueron normales, y no se realizó en ningún caso transfusión plaquetaria previa a la PL. En Mayo de 2004, el paciente volvió a ingresar en el hospital para un nuevo ciclo de quimioterapia y programar posteriormente un transplante de médula ósea. Se realizó una nueva PL sin incidencias, pero en esta ocasión se tuvieron que trans-fundir previamente varios concentrados de plaquetas portener el paciente una trombocitopenia de 26.000/mm3. En los 2 meses anteriores también había precisado varias transfusiones por la progresiva tendencia a la trombocitopenia (por debajo de 20.000/mm3). Los TP y TTPA eran normales. A las pocas horas de esta última PL, el paciente requirió atención por ciatalgia derecha aislada. Al cabo de unas 48 horas, al dolor radicular se asoció pérdida de fuerza en ambos MMII, que evolucionó rápidamente a una paraparesia bilateral, conservando únicamente fuerza motora parcial (3/5) en la flexo-extensión de los pies. No se observaron alteraciones de la sensibilidad ni de los esfínteres. Se practicó de urgencia una RM dorsolumbar que mostró una imagen sugestiva de hematoma ventral intradural extraparenquimatoso que comprimía cono medular y cola de caballo desde D12 hasta L4. Tras administrar gadolinio intravenoso, no se observó captación de contraste sugestiva de lesión subyacente. Posteriormente se realizó una laminectomía descompresiva desde L1 a L4 y una durotomía longitudinal, tras lo que se observó la cola de caballo a gran tensión, contenida por la membrana aracnoidea íntegra. Una pequeña cantidad de coágulo sanguíneo subaracnoideo comprimía dorsalmente el cono medular. La exploración de las zonas laterales demostró la presencia de un gran hematoma ventral contenido también por la membrana aracnoidea. A continuación se realizó una incisión longitudinal de la aracnoides y tras separar las raíces dorsales de la cola de caballo se accedió al coágulo. Sólo fue posible conseguir una extracción subtotal del mismo, ya que estaba parcialmente organizado y adherido a las raíces nerviosas. No se observaron lesiones macroscópicas que pudieran ser el origen del hematoma. Se completó el acto quirúrgico con el cierre del plano dural empleando una plastia liofilizada para ampliación de espacio. La evolución postoperatoria cursó sin complicaciones. El paciente consiguió una recuperación progresiva de la fuerza, pudiendo deambular al cuarto día, sin alteraciones esfinterianas ni dolor radicular y refiriendo solamente un leve acorchamiento residual en miembros inferiores En las semanas sucesivas se continuó con el tratamiento oncológico y el transplante de médula ósea, pero el paciente desarrolló un conjunto de complicaciones sistémicas que ocasionaron finalmente un fracaso multiorgánico y su fallecimiento, transcurrido un mes de la intervención quirúrgica. No se pudo realizar una RM lumbar postquirúrgica debido a la mala situación clínica del paciente.
+Responsable clínico:  Javier Ayerbe. Servicio de Neurocirugía. Fundación "Jiménez Díaz". Avda. Reyes Católicos, 2. 28040 Madrid.
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="33" text="David" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="47" end="60" text="Aguilar Nieto" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="67" end="74" text="5867560" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="82" end="96" text="57 23589709 44" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="109" end="131" text="Calle Arturo Soria, 29" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="155" end="161" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="167" end="172" text="28032" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="216" end="226" text="15/03/1997" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T16" start="248" end="254" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="262" end="269" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T11" start="276" end="277" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T14" start="297" end="307" text="14/11/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="317" end="330" text="Javier Ayerbe" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="339" end="350" text="28 28 41473" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T10" start="382" end="387" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T12" start="391" end="398" text="20 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T6" start="416" end="434" text="Septiembre de 2003" TYPE="FECHAS" comment=""/>
+    <DATE id="T5" start="1238" end="1250" text="Mayo de 2004" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="4073" end="4086" text="Javier Ayerbe" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="4114" end="4138" text="Fundación &quot;Jiménez Díaz&quot;" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="4140" end="4164" text="Avda. Reyes Católicos, 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="4166" end="4171" text="28040" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="4172" end="4178" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Diego.
+Apellidos: Gutierrez Perez.
+NHC: 4230987.
+NASS: 28 34756684 02.
+Domicilio: C/ Cuatro Caminos, 27, 3 D .
+Localidad/ Provincia: Madrid.
+CP: 28006.
+Datos asistenciales.
+Fecha de nacimiento: 15/06/1935.
+País de nacimiento: España.
+Edad: 68 años Sexo: H.
+Fecha de Ingreso: 29/02/2004.
+Médico: Carlos Navarro Cuéllar  NºCol: 28 28 55423.
+Informe clínico del paciente:   paciente de 68 años con ausencia de pelo en el cuero cabelludo, con antecedentes de hernia inguinal derecha no operada y con una queratosis actínica de años de evolución tratada inicialmente con retinoides y crioterapia. Dos años más tarde el paciente refiere aparición de varias lesiones costrosas en la región parieto-occipital. Se toman biopsias de las lesiones informando como Carcinoma epidermoide de moderado grado de diferenciación. Se realiza extirpación de las lesiones quedando uno de los márgenes de la resección afectado por el tumor. Al paciente se le administra radioterapia a dosis máximas en el cuero cabelludo. 6 meses después el paciente refiere aparición de varias lesiones similares a las previas en la misma zona. Se toman nuevas biopsias informando como Carcinoma epidermoide. El paciente, entonces, es remitido a nuestro Servicio para valorar las posibilidades terapéuticas. A su llegada el paciente presenta dos lesiones costrosas de aproximadamente 2 y 3 cm. de diámetro respectivamente y otras lesiones de menor tamaño sospechosas de malignidad. De igual forma y, como consecuencia de la radioterapia, presenta una fibrosis y retracción completa del cuero cabelludo que impide cualquier tipo de reconstrucción mediante colgajos locales. Visto en sesión clínica se decide realizar una resección amplia del cuero cabelludo y reconstrucción inmediata del defecto con un colgajo libre de omentum a la vez que una herniorrafia para reducir la hernia inguinal que el paciente presenta. 
+El paciente es intervenido junto con el Servicio de Cirugía General y se realiza un abordaje con dos equipos de forma simultánea. Por un lado se realiza una extirpación amplia del cuero cabelludo junto con un abordaje preauricular bilateral para identificar y aislar los vasos temporales superficiales. Por otro, se realiza una laparotomía media. Una vez explorada la cavidad abdominal, se tracciona del omentum y se diseca desde el mesocolon transverso hacia arriba. A continuación identificamos el pedículo vascular correspondiente a los vasos gastroepiploicos derechos y se van exponiendo y ligando las pequeñas ramas vasculares que van a la zona posterior y anterior de la curvatura mayor del estómago. Una vez liberado el pedículo vascular de la curvatura mayor del estómago se liga el pedículo de la arteria gastroepiploica izquierda quedando el omentum pediculado a la arteria gastroepiploica derecha y preparado para ser transferido a la zona del defecto. A continuación se sutura el omentum al cuero cabelludo remanente y se realizan las anastomosis. Algunos autores utilizan ambos pedículos vasculares con doble anastomosis a los vasos faciales y a los temporales superficiales.8 En nuestro caso hicimos las anastomosis utilizando solamente el pedículo gastroepiploico derecho y como vasos receptores la arteria y vena temporal superficial. Finalmente, todo el colgajo de omentum es recubierto con un injerto dermoepidérmico mallado y se coloca un vendaje compresivo durante 1 semana. La pieza quirúrgica informó como Carcinomas epidermoides de moderado grado de diferenciación y dos Carcinomas in situ, todo con márgenes de resección libres de enfermedad. El postoperatorio transcurrió sin incidencias ni complicaciones y el paciente fue dado de alta a los 12 días de la cirugía. El paciente es seguido en revisiones múltiples y, 2 años después de la cirugía, no presenta signos de recidiva local. Desde el punto de vista estético el paciente se muestra muy satisfecho del resultado ya que las marcas del mallado de la piel han desaparecido con el tiempo y constituye un tejido uniforme a lo largo de todo el cuero cabelludo. 
+Responsable clínico:Dr. Carlos Navarro Cuéllar C/ María Molina 60, 7ºA 28006 Madrid E-mail: cnavarrocuellar@mixmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="28" end="33" text="Diego" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="46" end="61" text="Gutierrez Perez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="68" end="75" text="4230987" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="83" end="97" text="28 34756684 02" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T16" start="110" end="136" text="C/ Cuatro Caminos, 27, 3 D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T15" start="161" end="167" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T14" start="173" end="178" text="28006" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="222" end="232" text="15/06/1935" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T13" start="254" end="260" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="268" end="275" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="282" end="283" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="303" end="313" text="29/02/2004" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="323" end="345" text="Carlos Navarro Cuéllar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="354" end="365" text="28 28 55423" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T9" start="411" end="418" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="4068" end="4090" text="Carlos Navarro Cuéllar" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T4" start="4091" end="4114" text="C/ María Molina 60, 7ºA" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="4115" end="4120" text="28006" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="4121" end="4127" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T1" start="4136" end="4163" text="cnavarrocuellar@mixmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Ingrid.
+Apellidos: Martinez Roque.
+NHC: 235784.
+NASS: 47 84327650 05.
+Domicilio: Calle Lascano 19, 2A.
+Localidad/ Provincia: Barcelona.
+CP: 08029.
+Datos asistenciales.
+Fecha de nacimiento: 14/03/1952.
+País: España.
+Edad:62 años Sexo: M.
+Fecha de Ingreso: 13/10/2014.
+Médico: Vicente García Fernández NºCol: 08 08 61971.
+Informe clinico del paciente: Mujer de 62 años, hipertensa e hipercolesterolémica en tratamiento farmacológico. Diagnosticada de adenocarcinoma de colon estadio IV con múltiples metástasis hepáticas. En tratamiento quimioterápico con esquema mFOLFOX 6 + Bevacizumab (oxaliplatino 85 mg/m2 i.v. día 1, leucovorin 200 mg/m2 i.v. día 1, 5-FU 400 mg/m2 en bolo i.v. día 1, 5-FU 1.200 mg/m2/día en perfusión continua de 48 h y bevacizumab 5 mg/kg i.v. día 1) con buena tolerancia, salvo neurotoxicidad que provoca la suspensión de oxaliplatino tras el ciclo no15. Comienza con un cuadro brusco de dolor y escozor en la región costal derecha, con lesiones bullosas dolorosas, de distribución metameral, ulceradas y supurativas. Consulta a su médico de atención primaria, que instaura tratamiento para el VVZ con brivudina (Nervinex® comprimidos de 125 mg) 1 comprimido/24 h v.o durante 7 días, de los cuales realiza sólo 4 al sustituirse el tratamiento por famciclovir. Se pospone la quimioterapia hasta la mejoría de las lesiones, recibiendo el siguiente ciclo 4 días después de finalizar el tratamiento con brivudina. Al cabo de once días, acude a urgencias con un cuadro de dolor abdominal con expulsión de heces melénicas, dolor en cavidad oral y disfagia. A su llegada a urgencias está afebril, con tensión arterial de 101/68 mmHg, frecuencia cardiaca de 79 lpm, y saturación basal de oxígeno del 100%. En el hemograma se aprecia una marcada leucopenia, con cifras de neutrófilos de 50/µl, y trombopenia (61 χ 103 plaquetas/µl). Se estableció aislamiento respiratorio y de contacto. Se inició sueroterapia y tratamiento con antibioterapia intravenosa de amplio espectro (meropenem más vancomicina, posteriormente se añadió amikacina, aciclovir y fluconazol, que fue sustituido por caspofungina a los 7 días de tratamiento por fiebre y neutropenia sostenida). Pese al tratamiento, presentó picos febriles frecuentes, por lo que se realizaron hemocultivos repetidos, que resultaron estériles, así como las determinaciones de anticuerpos antimicelio, β-glucano y galactomanano, que fueron negativas. Se administraron factores estimulantes de colonias granulocíticas (filgrastim), se transfundieron 2 concentrados de plaquetas y se instauró nutrición parenteral total. Para el tratamiento del dolor se pautó analgesia con morfina, coadyuvancia con AINES, aplicación tópica de lidocaína viscosa al 2% y sucralfato para las lesiones bucales. El tratamiento tópico de las lesiones herpéticas del costado derecho se hizo con fomentos de sulfato de zinc al 0,1%. En la exploración física, cabe destacar una marcada pigmentación cutánea generalizada y alopecia, ambos relacionados con la toxicidad del 5-FU. Pese a las medidas de soporte establecidas, se produjo un empeoramiento del estado general, con abundantes secreciones respiratorias, mal control del dolor, sin recuperación hematológica (última analítica: plaquetas = 51 χ 103 µl; neutrófilos = 370/µl). El paciente falleció por insuficiencia respiratoria aguda en el seno de una sepsis de origen respiratorio.
+Remitido por: Vicente García Fernández Correo electrónico: vegarfe@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="8" end="14" text="Ingrid" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="27" end="41" text="Martinez Roque" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="48" end="54" text="235784" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="62" end="76" text="47 84327650 05" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="89" end="109" text="Calle Lascano 19, 2A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="133" end="142" text="Barcelona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="148" end="153" text="08029" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="197" end="207" text="14/03/1952" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="215" end="221" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="228" end="235" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="242" end="243" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="263" end="273" text="13/10/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="283" end="307" text="Vicente García Fernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="315" end="326" text="08 08 61971" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="358" end="363" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="367" end="374" text="62 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="3400" end="3424" text="Vicente García Fernández" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="3445" end="3462" text="vegarfe@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

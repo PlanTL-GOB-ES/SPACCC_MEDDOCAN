@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Victoria.
+Apellidos: Diaz Lomana.
+NHC: 74136952.
+NASS: 78 45632198 75.
+Domicilio: Avenida de asturias 78, Bajo izq..
+Localidad/ Provincia: Madrid.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 06/01/1977.
+País: España.
+Edad: 41 A Sexo: M.
+Fecha de Ingreso: 06/06/2018 .
+Servicio: Urgencias.
+Episodio: 95871320.
+Médico: Jose Hugo de Gea-García NºCol:28 28 46325.
+Antecedentes: hipertensión arterial.
+Historia Actual: mujer de 41 años que presenta en su domicilio un episodio brusco de cefalea intensa en región occipital, acompañado de disminución del nivel de consciencia de forma progresiva. Había presentado en la semana previa episodios de cefalea similares aunque de menor intensidad y que cedían con antiinflamatorios.
+Los servicios de urgencias la atienden en su domicilio, donde se procede a intubación orotraqueal por bajo nivel de consciencia. Se traslada de forma urgente a un hospital con servicios neuroquirúrgicos. 
+Pruebas complementarias: Al ingreso se le realiza una tomografía computarizada (TC) craneal simple que informa de una hemorragia intraparenquimatosa cerebelosa derecha con un volumen mayor de 4 cm3, con discreto edema y obliteración de IV ventrículo. Se decide la evacuación del hematoma y la colocación de un drenaje ventricular externo. Tras la cirugía, ingresa en la Unidad de Cuidados Intensivos (UCI). De forma diferida se le realiza una angio-TC y una arteriografía cerebral sin anomalías vasculares manifiestas.
+Evolución y comentarios: Durante su estancia en la UCI presenta en los primeros días una evolución tórpida por hipertensión intracraneal. Tras la retirada de la sedación, despierta con un adecuado nivel de consciencia y a las 48 horas se encuentra consciente; en la exploración neurológica destaca un nistagmo en todas las direcciones, parálisis facial bilateral, tetraparesia de predominio derecho, dismetría izquierda y una hiporreflexia de predominio derecho con reflejo cutáneo plantar extensor derecho.
+Al octavo día de su ingreso en la UCI se procede por la mañana a su extubación y permanece durante todo el día eupneica y con un patrón ventilatorio normal. Esa misma noche comienza con hipoventilación que la conduce a acidosis respiratoria grave y secundariamente parada respiratoria que precisa de intubación y VM.
+Ante la sospecha clínica de afectación del centro respiratorio se realiza una resonancia magnética (RM) del tronco del encéfalo donde se observan los cambios secundarios a la evacuación del hematoma cerebeloso derecho y se ponen de manifiesto lesiones en el bulbo y la protuberancia, que no se habían visualizado en la TC de control previa. Se decide realizar una traqueotomía percutánea para ventilación mecánica invasiva (VMI) que precisa sobre todo de forma nocturna. Finalmente, se la da de alta a planta donde es posible cerrar el traqueostoma y continúa con ventilación mecánica no invasiva (VMNI) con mascarilla nasobucal.
+Remitido por: Dr. Jose Hugo de Gea-García josehdegea@hotmail.com 
+]]></TEXT>
+  <TAGS>
+    <NAME id="T19" start="8" end="16" text="Victoria" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T18" start="29" end="40" text="Diaz Lomana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T17" start="47" end="55" text="74136952" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="63" end="77" text="78 45632198 75" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T15" start="90" end="122" text="Avenida de asturias 78, Bajo izq" TYPE="CALLE" comment=""/>
+    <LOCATION id="T14" start="147" end="153" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T13" start="159" end="164" text="28036" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T12" start="208" end="218" text="06/01/1977" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="226" end="232" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T10" start="240" end="244" text="41 A" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="251" end="252" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T8" start="272" end="282" text="06/06/2018" TYPE="FECHAS" comment=""/>
+    <ID id="T7" start="316" end="324" text="95871320" TYPE="ID_CONTACTO_ASISTENCIAL" comment=""/>
+    <NAME id="T6" start="334" end="357" text="Jose Hugo de Gea-García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T5" start="364" end="375" text="28 28 46325" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T4" start="431" end="436" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T3" start="440" end="447" text="41 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T2" start="2936" end="2959" text="Jose Hugo de Gea-García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="2960" end="2982" text="josehdegea@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Andreu.
+Apellidos: Llul Marquez.
+NHC: 145806435764.
+Domicilio: Av. de la Imperial Tàrraco, 5.
+CP: 43005.
+Datos asistenciales.
+Fecha de nacimiento: 20/05/2016.
+País: España.
+Edad: 1 año Sexo: H.
+Fecha de Ingreso: 23/10/2017.
+Servicio: Oftalmología.
+Médico: Javier López García NºCol: 43 28 57168.
+Motivo de ingreso:.
+Historia Actual: Varón de un año y cinco meses de edad, remitido por su pediatra por estrabismo. Presenta endotropía (15 grados) y pequeña hipertropía en ojo derecho (OD), el ojo izquierdo (OI) es el dominante. La agudeza visual (AV) es baja en OD (se molesta al ocluir el OI) y aceptable en OI (fija la mirada y coge objetos pequeños). El reflejo luminoso sobre la cornea nos hace sospechar una fijación excéntrica en ambos ojos.
+Antecedentes: El niño había padecido convulsiones febriles. Entre los antecedentes familiares destaca que la madre tuvo la varicela estando embarazada (entre las 16 y 18 semanas), y que un tío materno padece el síndrome de Alport. El polo anterior es normal. En la esquiascopía el punto neutro es +2 en ambos ojos.
+Exploración física y pruebas complementarias: Mediante la oftalmoscopía indirecta se aprecian lesiones ovales en ambas máculas, predominantemente en la mitad temporal, sugestivas de retinocoroiditis antigua, con periferia normal. En el OD es de mayor tamaño, muy pigmentada y con tejido glial blanquecino en el centro; las arcadas temporales están curvadas hacia la zona patológica, y existe atrofia parapapilar temporal. En el OI hay una atrofia coriorretiniana bien definida, con bordes pigmentados, vasos retinianos normales y algunos coroideos sobre la esclera con cúmulos de pigmento; se aprecia una ectasia escleral bajo la retina. El niño no presenta nistagmo, ni otras lesiones oculares o sistémicas. La radiografía de cráneo es normal.
+Evolución y comentarios: Ante la sospecha de infección ocular intrauterina se solicita serología para TORCH (acrónimo de Toxoplasma, Rubéola, Citomegalovirus y Herpes), sífilis y virus de la coriomeningitis linfocitaria, para el niño y la madre. Ambos son negativos para toxoplasma (los dos IgG 0,14 UI/ml, por enzimoinmunoensayo, EIA). Citomegalovirus, niño negativo, madre positiva con títulos bajos (Ig G 2,1 Index, por EIA). Herpes tipo I, niño negativo, madre positiva con títulos bajos (IgG 2 Index, por EIA). Herpes tipo II, niño negativo, madre positiva con títulos bajos (IgG 2,39 Index, por EIA). Virus varicela-zoster, niño negativo, madre positiva con títulos elevados (IgG 2,68 Index e IgM negativo, por EIA). Sífilis, RPR madre e hijo negativos. Rubéola, ambos positivos al estar vacunados (niño IgG 59,3 UI/ml, madre IgG 113,7 UI/ml, por EIA). Virus de la coriomeningitis linfocitaria, los dos positivos, pero con títulos bajos que no son significativos (IgG 1/32, por inmunofluorescencia indirecta).
+Todo ello permite descartar una etiología infecciosa, ya que los anticuerpos del niño no están elevados, y hace pensar que se trata de un coloboma macular atípico bilateral. Como hay casos hereditarios (1), se explora el fondo de ojo a sus padres y hermanos, son todos normales. También puede asociarse a hipercalciuria e hipomagnesemia (2), pero en este caso el índice calcio/creatinina y la magnesemia están dentro de lo normal.
+Posteriormente hemos seguido la evolución hasta los tres años de edad, la AV en el OD es de percepción y proyección de la luz, y en el OI es de 0,2. En los potenciales evocados visuales, por estimulación con gafas luminosas y damero, hay una clara asimetría, con detrimento en OD.
+No se planteó realizar penalización con parches por el gran tamaño del coloboma del OD. Sería interesante hacer una ecografía ocular, pero se decidió esperar a que el paciente tenga más edad y colabore al realizarla.
+Remitido por: Javier López García Hospital Juan XXIII C/ Mallafrè Guash 4 43007 Tarragona España E-mail: javiercorsini@eresmas.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T40" start="8" end="14" text="Andreu" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T41" start="27" end="39" text="Llul Marquez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T39" start="46" end="58" text="145806435764" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T38" start="71" end="100" text="Av. de la Imperial Tàrraco, 5" TYPE="CALLE" comment=""/>
+    <LOCATION id="T37" start="106" end="111" text="43005" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T36" start="155" end="165" text="20/05/2016" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T35" start="173" end="179" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T34" start="187" end="192" text="1 año" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T33" start="199" end="200" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T32" start="220" end="230" text="23/10/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T31" start="264" end="283" text="Javier López García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="291" end="302" text="43 28 57168" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T30" start="341" end="346" text="Varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T29" start="350" end="370" text="un año y cinco meses" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T28" start="772" end="776" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T27" start="864" end="869" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T26" start="944" end="955" text="tío materno" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T25" start="1711" end="1715" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="2044" end="2048" text="niño" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T23" start="2054" end="2059" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T22" start="2169" end="2173" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T21" start="2184" end="2189" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="2259" end="2263" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2274" end="2279" text="madre" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="2347" end="2351" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T4" start="2362" end="2367" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T20" start="2445" end="2449" text="niño" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T19" start="2460" end="2465" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T18" start="2551" end="2556" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T17" start="2559" end="2563" text="hijo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T3" start="2641" end="2646" text="madre" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T16" start="3071" end="3077" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T15" start="3080" end="3088" text="hermanos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T1" start="3314" end="3323" text="tres años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T14" start="3774" end="3793" text="Javier López García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T13" start="3794" end="3813" text="Hospital Juan XXIII" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T12" start="3814" end="3833" text="C/ Mallafrè Guash 4" TYPE="CALLE" comment=""/>
+    <LOCATION id="T11" start="3834" end="3839" text="43007" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T10" start="3840" end="3849" text="Tarragona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T9" start="3850" end="3856" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T8" start="3865" end="3890" text="javiercorsini@eresmas.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

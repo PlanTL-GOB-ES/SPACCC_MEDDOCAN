@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Teresa.
+Apellidos: Buendía Moncada.
+NHC: 3897628.
+NASS: 87 36578236 05.
+Domicilio: C/ Batán, 5.
+Localidad/ Provincia: Madrid.
+CP: 28036.
+Datos asistenciales.
+Fecha de nacimiento: 20/12/1954.
+País de nacimiento: España.
+Edad: 59 años Sexo: M.
+Fecha de Ingreso: 04/05/2014.
+Médico: Francisco Javier Pérez-Lescure Picarzo  NºCol: 28 47 58930.
+Informe clínico del paciente: Mujer de 59 años sin antecedentes de interés, acude por cuadro de hematuria y dolor en fosa renal derecha e hipocondrio derecho de 6 horas de evolución. Se acompaña de náuseas e hipotensión con cifras de 90/50. Analíticamente presenta leucocitosis con neutrofilia. Se realiza ecografía abdominal en la que se aprecia una imagen heterogénea de 15 x 14,5 cm dependiente de riñón derecho. Varias horas después empeora su estado general con mayor tendencia a la hipotensión y un aumento de masa abdominal. Se realiza TAC abdominal donde se objetiva gran masa renal que ocupa todo el hemiabdomen derecho con aspecto de sangrado intratumoral y líquido libre intraabdominal. Se decide intervención quirúrgica por inestabilidad hemodinámica, practicándose nefrectomía derecha. El estudio anatomopatológico es informado como adenocarcinoma renal de células claras de 10 cm de diámetro en zona medial del riñón que infiltra cápsula renal sin afectar al seno, ni estructuras vasculares e hiliares; estadio G II, T2.
+Responsable clínico: Francisco Javier Pérez-Lescure Picarzo. Correo Electronico: fjplescure@fhalcorcon.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T18" start="28" end="34" text="Teresa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T17" start="47" end="62" text="Buendía Moncada" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T16" start="69" end="76" text="3897628" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="84" end="98" text="87 36578236 05" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T14" start="111" end="122" text="C/ Batán, 5" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="146" end="152" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="158" end="163" text="28036" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T11" start="207" end="217" text="20/12/1954" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T9" start="239" end="245" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="253" end="260" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="267" end="268" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T10" start="288" end="298" text="04/05/2014" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="308" end="346" text="Francisco Javier Pérez-Lescure Picarzo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="355" end="366" text="28 47 58930" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="398" end="403" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="407" end="414" text="59 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="1424" end="1462" text="Francisco Javier Pérez-Lescure Picarzo" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1484" end="1508" text="fjplescure@fhalcorcon.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Alexandra.
+Apellidos: Lumiquinga Masa.
+NHC: 4789034.
+NASS: 28 37562409 33.
+Domicilio: Calle de la Viña, 17, 1 B.
+Localidad/ Provincia: La Rioja.
+CP: 31224.
+Datos asistenciales.
+Fecha de nacimiento: 01/02/1975.
+País de nacimiento: Bolivia.
+Edad: 43 años Sexo: M.
+Fecha de Ingreso: 06/06/2018.
+Servicio: Urgencias.
+Episodio:2894567.
+Médico: David Navarro González NºCol: 31 31 25660.
+Historia Actual: mujer de 43 años, natural de Bolivia, que acudió al Servicio de Urgencias del Hospital de Navarra tras presentar en su domicilio una crisis convulsiva generalizada, presenciada por familiares, con un periodo confusional posterior y una cefalea intensa bilateral. Previo al cuadro una hora antes comenzó con parestesias en mano derecha. 
+Antecedentes: No tenía antecedentes familiares ni antecedentes personales de interés.
+Exploración física: En la exploración física, presentaba constantes de presión, frecuencia y temperatura normales y un Glasgow de 15. No presentaba rigidez de nuca ni signos meníngeos. No se encontró focalidad neurológica. La paciente se encontraba sudorosa, con un cuadro de ansiedad asociado, que fue resuelto con éxito con 0,25 mg de alprazolam. El resto de la exploración fue normal y no presentó nueva crisis.
+Pruebas complementarias: En el Servicio de Urgencias se realizó ECG, radiografía de tórax, ambos normales, y analítica con bioquímica, hemograma y pruebas de coagulación, también dentro de los parámetros normales. Se practicó TAC craneal urgente, donde se objetivó una lesión de 3 cm de diámetro, quística, en región fronto-parietal izquierda, que no captaba contraste, con calcificaciones nodulares en su periferia. Se decidió ingreso en neurocirugía con diagnóstico de sospecha de NCC.
+Evolución: Durante su ingreso se completó el estudio con un electrencefalograma (EEG), que fue normal, una resonancia magnética craneal, donde se confirmó la existencia de cisticercos en fase vesicular, y una radiografía del muslo, con varias calcificaciones de pequeño tamaño y morfología compatible con cisticercos. Se inició tratamiento con dexametasona, albendazol y oxcarbazepina, con buena tolerancia, y se le dio el alta con el diagnóstico de epilepsia rolándica izquierda secundaria a cisticercosis sistémica y terminó el tratamiento ambulatorio durante un mes con albendazol, manteniendo de manera indefinida el tratamiento antiepiléptico, sin presentar nuevas crisis.
+Remitido por: David Navarro González Comunidad de La Rioja 1-3ºC 31010 Barañain (Navarra) Tfno. 615984278 Fax 948136286
+]]></TEXT>
+  <TAGS>
+    <NAME id="T26" start="28" end="37" text="Alexandra" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T25" start="50" end="65" text="Lumiquinga Masa" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T24" start="72" end="79" text="4789034" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T23" start="87" end="101" text="28 37562409 33" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T22" start="114" end="139" text="Calle de la Viña, 17, 1 B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T21" start="163" end="171" text="La Rioja" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T20" start="177" end="182" text="31224" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T18" start="226" end="236" text="01/02/1975" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T19" start="258" end="265" text="Bolivia" TYPE="PAIS" comment=""/>
+    <AGE id="T16" start="273" end="280" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T14" start="287" end="288" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T17" start="308" end="318" text="06/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="367" end="389" text="David Navarro González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="397" end="408" text="31 31 25660" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T13" start="427" end="432" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T15" start="436" end="443" text="43 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T9" start="456" end="463" text="Bolivia" TYPE="PAIS" comment=""/>
+    <LOCATION id="T8" start="505" end="524" text="Hospital de Navarra" TYPE="HOSPITAL" comment=""/>
+    <OTHER id="T7" start="608" end="618" text="familiares" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T11" start="2445" end="2467" text="David Navarro González" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2468" end="2495" text="Comunidad de La Rioja 1-3ºC" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2496" end="2501" text="31010" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2502" end="2510" text="Barañain" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2512" end="2519" text="Navarra" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2527" end="2536" text="615984278" TYPE="NUMERO_TELEFONO" comment=""/>
+    <CONTACT id="T1" start="2541" end="2550" text="948136286" TYPE="NUMERO_FAX" comment=""/>
+  </TAGS>
+</MEDDOCAN>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Nayeli.
+Apellidos: Diaz Martin.
+NHC: 2086501.
+Domicilio: C/ Lope de Vega 87, 7D.
+Localidad/ Provincia: Madrid.
+CP: 28031.
+Datos asistenciales.
+Fecha de nacimiento: 15/06/2014.
+País: España.
+Edad: 4 años Sexo: M.
+Fecha de Ingreso: 20/06/2018.
+Médico: Manuel Sanchez de Antonio NºCol: 28 28 63509.
+Historia Actual: Niña de cuatro años que acude a Urgencias por un exantema purpúrico palpable en los miembros inferiores y los glúteos, dolor e inflamación en el tobillo izquierdo y en el segundo dedo de la mano derecha. Como antecedente, la semana previa al comienzo de la clínica tuvo un cuadro de faringitis aguda.
+Pruebas complementarias: Microbiología: detección rápida de estreptococo β-hemolítico del grupo A negativa, urocultivo estéril, hemocultivo negativo.
+Hemograma: leucocitos 8320/mm3, hemoglobina 13 g/dl, plaquetas 276 000/mm3, velocidad de sedimentación globular (VSG) en la primera hora de 18 mm/h.
+Pruebas de coagulación: tiempo de protrombina de 13,9 segundos (rango 10-14), índice de Quick 69% (rango 70-150), cociente internacional normalizado (INR) 1,25 (rango 0,85-1,15), tiempo de tromboplastina parcial activada 31,4 segundos (rango 26-36), fibrinógeno 429 ng/ml (rango 200-400).
+Bioquímica: glucosa 82 mg/dl, urea 20 mg/dl, creatinina 0,40 mg/dl, bilirrubina total/directa 0,4/0,2 mg/dl, proteínas totales 7,5 g/dl, albúmina 3,5 g/dl, calcio total 8,6 mg/dl, GOT/GPT 23/15 UI/l, GGT 15 UI/l, lactatodeshidrogenasa (LDH) 254 UI/l, FA 127 UI/l.
+Iones: Na 130 mEq/l, K 3,5 mEq/l, Cl 103 mEq/l.
+Proteína C reactiva 1,05 mg/dl.
+Sedimento de orina: no se aprecia proteinuria ni hematuria significativa.
+Evolución: Debido a las características clínicas, el caso nos sugiere como primera posibilidad una púrpura de Schönlein-Henoch con afectación articular. El caso evoluciona de forma satisfactoria con antiinflamatorios no esteroideos por vía oral y reposo.
+Remitido por: Manuel Sanchez de Antonio. Correo electrónico: mrsdeantoniofeu@gmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T17" start="28" end="34" text="Nayeli" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T16" start="47" end="58" text="Diaz Martin" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T15" start="65" end="72" text="2086501" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T14" start="85" end="107" text="C/ Lope de Vega 87, 7D" TYPE="CALLE" comment=""/>
+    <LOCATION id="T13" start="131" end="137" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T12" start="143" end="148" text="28031" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T10" start="192" end="202" text="15/06/2014" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T11" start="210" end="216" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T8" start="224" end="230" text="4 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T6" start="237" end="238" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T9" start="258" end="268" text="20/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T4" start="278" end="303" text="Manuel Sanchez de Antonio" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T2" start="311" end="322" text="28 28 63509" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T5" start="341" end="345" text="Niña" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="349" end="360" text="cuatro años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T3" start="1917" end="1942" text="Manuel Sanchez de Antonio" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T1" start="1964" end="1989" text="mrsdeantoniofeu@gmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

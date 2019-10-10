@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Josefina.
+Apellidos: Marzolli Esquivel.
+NHC: 87293652/875.
+Domicilio: Av. Corrientes 965, CABA, .
+Localidad/ Provincia: Buenos Aires.
+CP: C1009.
+Datos asistenciales.
+Fecha de nacimiento: 23/03/1949.
+País: Argentina.
+Edad: 68 años Sexo: M.
+Fecha de Ingreso:23/04/2017.
+Médico: Federico Juan Klurfan.
+Informe clínico del paciente: Paciente mujer de 68 años, que acude a la clínica del dolor remitida por su médico de cabecera, diagnosticada de espondiloartrosis grave, sobre todo a expensas de columna vertebral lumbar. Tiene pautado por su médico fentanilo transdérmico genérico de 25 μg/h desde hace 2 semanas, con regular control de dolor (EVA, 7-8).Tras estudio de la paciente, se plantea el intercambio de fentanilo genérico por Durogesic® Matrix 25 μg/h. A las 2 semanas la paciente presenta mejor control del dolor (EVA, 3-4), precisando aisladamente como rescate paracetamol 1 g. A los 3 meses continúa con Durogesic® Matrix 25 μg/h, con aceptable con-trol del dolor(EVA, 3), y esporádicamente, como rescate, paracetamol 1 g.
+Remitido por: Dr. Federico Juan Klurfan Av. Santa Fe 1203 2° Piso C1059ABG Buenos Aires, Argentina Email: fklurfan@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T20" start="8" end="16" text="Josefina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T19" start="29" end="46" text="Marzolli Esquivel" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T18" start="53" end="65" text="87293652/875" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T17" start="78" end="103" text="Av. Corrientes 965, CABA," TYPE="CALLE" comment=""/>
+    <LOCATION id="T16" start="128" end="140" text="Buenos Aires" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T15" start="146" end="151" text="C1009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T13" start="195" end="205" text="23/03/1949" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="213" end="222" text="Argentina" TYPE="PAIS" comment=""/>
+    <AGE id="T11" start="230" end="237" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T9" start="244" end="245" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="264" end="274" text="23/04/2017" TYPE="FECHAS" comment=""/>
+    <NAME id="T7" start="284" end="305" text="Federico Juan Klurfan" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="346" end="351" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T10" start="355" end="362" text="68 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="1058" end="1079" text="Federico Juan Klurfan" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="1080" end="1105" text="Av. Santa Fe 1203 2° Piso" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="1106" end="1114" text="C1059ABG" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="1115" end="1127" text="Buenos Aires" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="1129" end="1138" text="Argentina" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="1146" end="1166" text="fklurfan@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

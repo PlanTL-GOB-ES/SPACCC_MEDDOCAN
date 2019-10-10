@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre: Hector.
+Apellidos: Velez Padilla.
+NHC: 7569545.
+Domicilio: Calle marquez Ramirez 23, Bajo 2.
+Localidad/ Provincia: Madrid.
+CP: 28005.
+Datos asistenciales.
+Fecha de nacimiento: 20/02/2002.
+País: España.
+Edad: 16 años Sexo: H.
+Fecha de Ingreso: 03/04/2018.
+Médico: Victor Diniz Borborema dos Santos NºCol: 28 28 54798.
+Historia Actual: Paciente de 16 años, se presentó con queja principal de dificultad de fonación. En la recolección de datos durante la anamnesis, fue revelado también que, al nacimiento, el paciente tenía un defecto en la pared abdominal que fue corregido posteriormente. Todos esos hallazgos contribuyeron para la formación del diagnóstico del síndrome de Beckwith-Wiedmann.
+Exploración física: Durante el examen físico, se observó que el paciente presentaba elevada estatura, patrón facial III, con severa hipoplasia maxilar, apiñamientos dentarios, relación de clase III de Angle, mordida abierta anterior, úvula bífida y una macroglosia. 
+Resumen de pruebas complementarias: El paciente fue incorporado al tratamiento ortoquirúrgico, siendo observados problemas de deglución, fonación y dificultades respiratorias, con fuerte correlación con la macroglosia. Por consiguiente, se planeó para ese caso un procedimiento quirúrgico de glosectomía parcial, anterior al procedimiento de cirugía ortognática. La técnica utilizada fue la propuesta por Obwegeser et al. (1964)10, en la que se realizó una resección del segmento central y del ápice de la lengua, con lo que se consiguió la disminución de sus dimensiones en el sentido anteroposterior y transversal, para que los problemas relacionados con el habla fuesen atenuados.
+Para el adecuado control del sangrado transoperatorio y facilidad de ejecución, la cirugía se realizó bajo anestesia general con intubación orotraqueal, debido a la presencia de hipertrofía de los cornetes nasales que impidió el pasaje de la sonda nasotraqueal. Para la realización de las incisiones, fueron establecidos puntos de reparo con hilo de algodón 2.0 en las extremidades laterales y anteriores de la lengua y fue utilizada una pinza de aprehensión de tejido del tipo Allis para auxiliar en la disección. Después de la estabilización, fueron realizadas la demarcación de la incisión con azul de metileno y las infiltraciones de anestésico local (lidocaína 2% con epinefrina 1:200.000). La remoción del segmento demarcado se ejecutó con un disector quirúrgico eléctrico (aguja colrado, Stryker Corporation®) en el sentido ápice-base, preservando los bordes laterales y minimizando el riesgo de lesiones en las ramas del nervio lingual. El segmento fue removido y se efectuó una hemostasia cuidadosa para minimizar los riesgos de hematoma lingual y el sangrado postoperatorio. Después del control de sangrado, los segmentos fueron aproximados con hilo reabsorbible (Vicryl 3.0-ETHICON) de la porción más profunda para la superficial de forma minuciosa en el sentido base-ápice. 
+Evolución y comentarios: En el postoperatorio inmediato fue ya posible verificar la disminución anterior y transversal de la lengua sin compromiso de la vía aérea, y sin que ocurriera ninguna complicación de naturaleza hemorrágica o infecciosa. A los 10 días del postoperatorio, el paciente empezó el tratamiento fonoaudiológico para ayudar el retorno de la motilidad de la lengua y de la fonación.
+Actualmente, el paciente se encuentra con 3 años de postoperatorio y una disminución considerable del tamaño de la lengua en el sentido transversal y longitudinal, sin relato de pérdida sensitiva o gustativa de la región. Está siguiendo un tratamiento fonoaudilógico y ortodóncico con el propósito de realizar un procedimiento quirúrgico para la corrección de la discrepancia maxilomandibular.
+Remitido por: Victor Diniz Borborema dos Santos. Email. victor_diniz_b@hotmail.com. Hospital universitario La Paz Paseo de la Castellana, 261, 28046 Madrid
+]]></TEXT>
+  <TAGS>
+    <NAME id="T21" start="8" end="14" text="Hector" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T20" start="27" end="40" text="Velez Padilla" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="47" end="54" text="7569545" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T18" start="67" end="99" text="Calle marquez Ramirez 23, Bajo 2" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="123" end="129" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="135" end="140" text="28005" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T14" start="184" end="194" text="20/02/2002" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="202" end="208" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T12" start="216" end="223" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T10" start="230" end="231" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T13" start="251" end="261" text="03/04/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T9" start="271" end="304" text="Victor Diniz Borborema dos Santos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T7" start="312" end="323" text="28 28 54798" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T11" start="354" end="361" text="16 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T6" start="1391" end="1395" text="1964" TYPE="FECHAS" comment=""/>
+    <NAME id="T8" start="3746" end="3779" text="Victor Diniz Borborema dos Santos" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <CONTACT id="T5" start="3788" end="3814" text="victor_diniz_b@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+    <LOCATION id="T4" start="3816" end="3845" text="Hospital universitario La Paz" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T3" start="3846" end="3873" text="Paseo de la Castellana, 261" TYPE="CALLE" comment=""/>
+    <LOCATION id="T2" start="3875" end="3880" text="28046" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="3881" end="3887" text="Madrid" TYPE="TERRITORIO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

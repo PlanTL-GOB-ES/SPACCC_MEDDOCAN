@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre:  Yana.
+Apellidos: Olina.
+NHC: 3082365.
+Domicilio: .
+Localidad/ Provincia: Pamplona.
+CP: 31008.
+Datos asistenciales.
+Fecha de nacimiento: 20/05/1993.
+País: España.
+Edad: 25 años Sexo: M.
+Fecha de Ingreso: 21/06/2018.
+Médico: Sonia Junquera Bañares NºCol: 31 31 52805.
+Informe clínico del paciente:  paciente de 25 años, natural de Ucrania, diagnosticada de diabetes secundaria a agenesia pancreática desde hace 5 años, ingresada en nuestro servicio procedente del servicio de Urgencias por una descompensación hiperglucémica cetósica no acidótica. La paciente desde el diagnóstico ha tenido un control metabólico aceptable con HbA1c menores de 7% con tratamiento dietético y ejercicio.
+Entre los antecedentes familiares tiene un bisabuelo diabético y padres y hermanos sanos.
+En la anamnesis, al ingreso la paciente refiere mal control metabólico desde hace dos meses, coincidiendo con el inicio de episodios frecuentes de infecciones urinarias, y últimamente, agravado por candidiasis vulvovaginal y paroniquia en dedos de las manos, con clínica de polidipsia, poliuria intensa y pérdida de 6,4 kg de peso durante este periodo.
+En la exploración física destaca: talla 167 cm; peso 38,6 kg; IMC 13,4 kg/m2; TA 120/80 mmHg; FC 116 lpm; saturación 97%. Mandíbula en farol. Tiroides grado 0. AC y AP normal. Abdomen blando y depresible, no doloroso, sin masas ni megalias. MMII sin edemas y pulsos periféricos conservados. Sensibilidad vibratoria, con monofilamento y reflejos osteotendinosos conservados. Lesiones eritematosas y pruriginosas en región vulvar y perianal sugestivas de candidiasis. Paroniquia en cuarto dedo mano derecha. Dermopatía diabética extensa en piernas y brazos.
+Pruebas complementarias: Hemograma normal, VSG 35 mm/h, glucosa 552 mg/dL, Cr 0,8 mg/mL, colesterol total 205 mg/dL, c-LDL 125 mg/dL, cHDL 58 mg/dL. Perfil hepático normal salvo GOT 54 UI (7-32), GPT 63 UI (5-31) y GGT 59 (7-32). Cociente albúmina/creatinina: 0,6µg/mgr. Glucosa orina 5567 mg/dL. Metilcetona en orina 50 mg/dL. HbA1c 16,2%. Péptido C basal 166 pmol/L (298-2350). Anticuerpos anti-GAD 0,2 KU/L (0-0,9), anti-IA2 0,2 KU/L (0-1) y anti-insulina (IAA) 77,2 nU/mL (N<40). Anticuerpos IgA antitransglutaminasa 0,82 KU/L (0-10). Anticuerpos anti-TG 149 (0-40) y anti-TPO 13,3 (0-35). TSH 3,1
+Exploración ginecológica: útero bicorne.
+Exploración del fondo de ojo y retinografía normal.
+TC abdominopélvico con contaste: agenesia dorsal del páncreas.
+ECO abdominal: en riñón izquierdo múltiples quistes corticales de tamaño menor de 1 cm, difusos por todo el parénquima renal izquierdo sin evidencia de dilatación del sistema pielocalicial ni otros hallazgos. Riñón derecho normal. Ausencia de cuerpo y cola pancreática.
+Cultivo de exudado del panadizo creció Klebsiella oxytoca y el cultivo vulvovaginal fue positivo para Candida albicans.
+Con la sospecha de diabetes tipo MODY se solicitó estudio genético mediante PCR semicuantitativa fluorescente, detectándose delección en heterozigosis de, al menos, los exones del 1 al 8 del gen HNF1 β que se asocia al tipo 5.
+Se comenzó tratamiento con insulina glargina e insulina aspart 1,3 U/kg. Se administró fluconazol vía oral 100 mg/día (10 días) y un óvulo vaginal en dosis única de clotrimazol 400 mg, desapareciendo las lesiones micóticas.
+En los controles realizados posteriormente se detectan niveles de HbA1c menores del 6% con disminución progresiva de insulina hasta 0,5 U/kg a los 6 meses del ingreso. A los ocho meses desapareció la dermopatía diabética y a los 18 meses del ingreso, la paciente ha recuperado el peso inicial y los requerimientos de insulina se mantienen en 0,5 U/kg. La función renal se ha mantenido dentro de límites normales y microalbuminuria negativa. Únicamente mantiene un ligero aumento de transaminasas.
+Remitido por: Dra. Sonia Junquera Bañares Complejo Hospitalario de Navarra Servicio de Endocrinología C/ Irunlarrea, 3 31008 Pamplona E-mail: sojuba@hotmail.com
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="29" end="33" text="Yana" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="46" end="51" text="Olina" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="58" end="65" text="3082365" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T20" start="102" end="110" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T19" start="116" end="121" text="31008" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T17" start="165" end="175" text="20/05/1993" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T18" start="183" end="189" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T15" start="197" end="204" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="211" end="212" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T16" start="232" end="242" text="21/06/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T12" start="252" end="274" text="Sonia Junquera Bañares" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="282" end="293" text="31 31 52805" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <AGE id="T14" start="338" end="345" text="25 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <LOCATION id="T1" start="358" end="365" text="Ucrania" TYPE="PAIS" comment=""/>
+    <OTHER id="T9" start="756" end="765" text="bisabuelo" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T8" start="778" end="784" text="padres" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T7" start="787" end="795" text="hermanos" TYPE="FAMILIARES_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T11" start="3827" end="3849" text="Sonia Junquera Bañares" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="3850" end="3882" text="Complejo Hospitalario de Navarra" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T5" start="3910" end="3926" text="C/ Irunlarrea, 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="3927" end="3932" text="31008" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="3933" end="3941" text="Pamplona" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="3950" end="3968" text="sojuba@hotmail.com" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

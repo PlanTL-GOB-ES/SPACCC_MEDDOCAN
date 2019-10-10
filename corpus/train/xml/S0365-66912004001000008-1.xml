@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Nombre:  Macarena.
+Apellidos: Garcia Pantoja.
+NHC: 276543.
+NASS: 09 25678596 85.
+Domicilio: Calle Cardenal Ilundain, 3, 6B.
+Localidad/ Provincia: Sevilla.
+CP: 41013.
+Datos asistenciales.
+Fecha de nacimiento: 08/02/1985.
+País: España.
+Edad: 33 años Sexo: M.
+Fecha de Ingreso: 10/05/2018.
+Médico: Antonio Rico García NºCol: 41 41 20435.
+Historia Actual:Mujer de 33 años referida a la Unidad de Oncología Ocular, para evaluación de una lesión pigmentada en iris de ojo derecho (OD) descubierta en examen rutinario. 
+Exploración física: A la exploración presentaba una miopía media en ambos ojos con agudeza visual de 0,8. El ojo izquierdo no mostraba hallazgos patológicos, mientras que en OD se observaba una masa pigmentada redondeada de aproximadamente 3-4 mm de diámetro en el cuadrante superoexterno de cámara anterior (CA) entre los meridianos de las 9 y las 11. La masa presentaba una superficie lisa y regular que no infiltraba el iris. La PIO era normal, y la gonioscopia mostraba la ocupación del ángulo por la masa sin lesiones satélites. 
+Resumen de pruebas complementarias: En la exploración bajo midriasis se observó que se originaba en cuerpo ciliar, produciendo una muesca en el cristalino transparente y un fondo de ojo sin patología valorable. La Tomografia Axial Computarizada (TAC) mostró la existencia de una masa redondeada localizada entre la raíz del iris y el cuerpo ciliar con captación moderada de contraste, de 8,3 mm de altura y 7,5 mm de diámetro, sin signos extensión extraocular. Se realizó el diagnóstico de probable melanocitoma de cuerpo ciliar, y al encontrarse la paciente asintomática y con una buena función visual, se decidió la observación periódica. 
+Evolución y comentarios: La paciente se mantuvo estable durante 36 meses hasta que coincidiendo con un episodio de erosión corneal por uso de lentes de contacto, desarrolló un cuadro de inflamación en CA, con presencia de dispersión de pigmento, excavación de la masa tumoral y aumento de PIO resistente a tratamiento médico habitual. Este cuadro se diagnosticó de glaucoma melanocitomalítico y se decidió tratamiento quirúrgico. Se realizó iridociclectomía «ab externo» con escisión de la masa tumoral. La paciente ha evolucionado favorablemente y después de un año mantiene una AV de 0,3.
+En el estudio histopatológico se observó una masa pigmentada de 9x8x8 mm, con una extensa área central necrótica, y el resto compuesto por células densamente pigmentadas, poliédricas, con núcleo redondeado y central, características de melanocitoma con grandes áreas de necrosis. No se encontraron células atípicas.
+Remitido por: Dr. Antonio Rico García. Servicio de Patología Forense. IML de Sevilla. Av. Sánchez Pizjuán, s/n. 41009 Sevilla. Tfno: 954 37 06 44
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="9" end="17" text="Macarena" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="30" end="44" text="Garcia Pantoja" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="51" end="57" text="276543" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="65" end="79" text="09 25678596 85" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="92" end="122" text="Calle Cardenal Ilundain, 3, 6B" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="146" end="153" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="159" end="164" text="41013" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="208" end="218" text="08/02/1985" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="226" end="232" text="España" TYPE="TERRITORIO" comment=""/>
+    <AGE id="T13" start="240" end="247" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="254" end="255" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="275" end="285" text="10/05/2018" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="295" end="314" text="Antonio Rico García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T1" start="322" end="333" text="41 41 20435" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="351" end="356" text="Mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="360" end="367" text="33 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2615" end="2634" text="Antonio Rico García" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2667" end="2681" text="IML de Sevilla" TYPE="INSTITUCION" comment=""/>
+    <LOCATION id="T5" start="2683" end="2707" text="Av. Sánchez Pizjuán, s/n" TYPE="CALLE" comment=""/>
+    <LOCATION id="T4" start="2709" end="2714" text="41009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2715" end="2722" text="Sevilla" TYPE="TERRITORIO" comment=""/>
+    <CONTACT id="T2" start="2730" end="2742" text="954 37 06 44" TYPE="NUMERO_TELEFONO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

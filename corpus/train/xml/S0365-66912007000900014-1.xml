@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Ramón.
+Apellidos: Cañizares Jiménez .
+NHC: 8973589.
+NASS: 87 76575398 56.
+Domicilio: C/ Guadalajara, 4, 5 A.
+Localidad/ Provincia: Alcalá de Henares.
+CP: 28804.
+Datos asistenciales.
+Fecha de nacimiento: 19/09/1980.
+País de nacimiento: España.
+Edad: 34 años Sexo: H.
+Fecha de Ingreso: 12/04/2015.
+Médico: Gema Bolívar de Miguel NºCol: 28 28 36550.
+Informe clínico del paciente: Paciente varón de 34 años de edad diagnosticado de varicela tres semanas antes ya resuelta sin complicaciones. Acude a urgencias por presentar disminución de agudeza visual en su ojo izquierdo.
+En la exploración oftalmológica presenta una agudeza visual corregida de 1 en el ojo derecho (OD) y de 0,6 en el ojo izquierdo (OI). El estudio con lámpara de hendidura demuestra en el OI un tyndall celular de 4+, precipitados queráticos inferiores (3+) y sin presentar la cornea tinción con fluoresceína, siendo normal el OD. La presión intraocular fue de 16mmHg en ambos ojos.
+En la exploración fundoscópica inicial del OI se aprecia leve vitritis (1+) sin focos de retinitis.
+Se instaura tratamiento tópico con corticoides y midriáticos. A los 2 días se observa leve disminución del tyndall celular (3+) en cámara anterior pero en fondo de ojo aparece un foco periférico de retinitis necrotizante en el área temporal asociado a vasculitis retiniana.
+Se ingresa al paciente y se instaura tratamiento con aciclovir intravenoso (10 mgr/kg/8 horas), antiagregación (ácido acetilsalicílico 150 mgr/24 horas) y se mantiene el tratamiento tópico. Asimismo se realiza fotocoagulación profiláctica con láser de argón rodeando la zona de necrosis retiniana.
+A las 48 horas y previa comprobación de una buena respuesta con disminución del foco de retinitis, se introducen corticoides sistémicos a dosis de 1 mg/kg/d, presentando una rápida mejoría de la agudeza visual, con disminución de la vitritis y menor tamaño del foco de retinitis. A las 2 semanas se pasa a vía oral el tratamiento antiviral (famciclovir 500 mgr/12 horas) y se inicia un descenso de corticoides de manera gradual a razón de 10 mgr cada semana. Se continúa con el tratamiento antiviral a dosis de mantenimiento durante 6 semanas, realizando controles analíticos periódicos hemograma y bioquímica para detectar afectación renal.
+Tras 6 meses del comienzo del cuadro, el paciente continúa asintomático, con una agudeza visual de unidad en OI, cicatrización de las lesiones retinianas y ausencia completa de actividad inflamatoria ocular en ambos ojos.
+Durante el ingreso se constató la infección reciente por el virus varicela zoster mediante seroconversión.
+Responsable clínico: Dra. Gema Bolívar de Miguel C/. Miguel de Moncada, 15, 4.º A 28804 Alcalá de Henares (Madrid) España E-mail:gemabolivardemiguel@yahoo.es
+]]></TEXT>
+  <TAGS>
+    <NAME id="T23" start="28" end="33" text="Ramón" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T22" start="46" end="63" text="Cañizares Jiménez" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T21" start="71" end="78" text="8973589" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="86" end="100" text="87 76575398 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T19" start="113" end="135" text="C/ Guadalajara, 4, 5 A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T18" start="159" end="176" text="Alcalá de Henares" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T17" start="182" end="187" text="28804" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T16" start="231" end="241" text="19/09/1980" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T15" start="263" end="269" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T14" start="277" end="284" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T13" start="291" end="292" text="H" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T12" start="312" end="322" text="12/04/2015" TYPE="FECHAS" comment=""/>
+    <NAME id="T11" start="332" end="354" text="Gema Bolívar de Miguel" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T10" start="362" end="373" text="28 28 36550" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T9" start="414" end="419" text="varón" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T8" start="423" end="430" text="34 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T7" start="2647" end="2669" text="Gema Bolívar de Miguel" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T6" start="2670" end="2702" text="C/. Miguel de Moncada, 15, 4.º A" TYPE="CALLE" comment=""/>
+    <LOCATION id="T5" start="2703" end="2708" text="28804" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T4" start="2709" end="2726" text="Alcalá de Henares" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T3" start="2728" end="2734" text="Madrid" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2736" end="2742" text="España" TYPE="PAIS" comment=""/>
+    <CONTACT id="T1" start="2750" end="2778" text="gemabolivardemiguel@yahoo.es" TYPE="CORREO_ELECTRONICO" comment=""/>
+  </TAGS>
+</MEDDOCAN>

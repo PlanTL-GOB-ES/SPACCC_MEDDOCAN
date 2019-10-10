@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MEDDOCAN>
+  <TEXT><![CDATA[Datos del paciente.
+Nombre: Marcela.
+Apellidos: Sanchez Rivera.
+NHC: 4756290.
+NASS: 78 43563074 56.
+Domicilio: C/ Nuestra Señora del Pilar, 14.
+Localidad/ Provincia: Zaragoza.
+CP: 35009.
+Datos asistenciales.
+Fecha de nacimiento: 13/03/1989.
+País de nacimiento: España.
+Edad: 27 años Sexo: M.
+Fecha de Ingreso: 22/12/2016.
+Médico: Sonia Pérez Oliván NºCol: 28 28.
+Informe clínico del paciente: mujer de 27 años que fue visitada en el servicio de urgencias aquejando metamorfopsias en su OD. Su AV era de 0,6 en el OD y de 1,0 en el OI y a la exploración funduscópica presentaba varios focos blanquecinos redondeados dispersos en el polo posterior de ambos ojos, uno de ellos yuxtafoveal en OD y de un color más grisáceo con un desprendimiento neurosensorial perilesional, microhemorragias y exudación dura que hacía sospechar la existencia de una membrana subretiniana. No se encontraban signos inflamatorios ni en cámara anterior ni en vítreo.
+En la AGF (angiografía con fluoresceína) se apreciaba un bloqueo de la fluorescencia muy precoz en todos los focos, que rápidamente pasaba a convertirse en una hiperfluorescencia franca, más notable en fases tardías en el foco sospechoso de presentar una membrana asociada (NVSR). En algunos focos persistía una pequeña zona de bloqueo central. En la AVI (angiografía con indocianina verde) se apreciaba un bloqueo de la fluorescencia desde fases precoces y durante todo el angiograma, excepto en el caso del foco sospecha de NVSR, donde aparecía en tiempos precoces un punto caliente en el seno de una placa hipofluorescente que en fases tardías originaba una hiperfluorescencia en placa que confirmaba el diagnóstico de NVSR.
+Tanto en la AGF como en la AVI encontramos más focos de actividad que los observados en el fondo de ojo.
+Se realizó un estudio sanguíneo completo que incluía bioquímica y banco, se pidió un estudio de HLA (B7 y DR2: para PHOS y AMPPE, A29 para Birdshot), que resultó negativo; asimismo se efectuó un estudio radiológico de tórax para descartar una tuberculosis y serología para descartar sífilis y borreliosis, que fue en todos los casos normal.
+Se instaura tratamiento con corticoides a dosis de 1,5 mg/kg peso/día. La AVmejoró a 0,8 y permaneció estable hasta la última revisión 3 meses después. Los focos evolucionaron progresivamente hacia la pigmentación.
+Responsable clínico: Dra. Sonia Pérez Oliván. Hospital Miguel Servet P.º Isabel la Católica, 1 y 3 50009 Zaragoza España
+]]></TEXT>
+  <TAGS>
+    <NAME id="T22" start="28" end="35" text="Marcela" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T21" start="48" end="62" text="Sanchez Rivera" TYPE="NOMBRE_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T20" start="69" end="76" text="4756290" TYPE="ID_SUJETO_ASISTENCIA" comment=""/>
+    <ID id="T19" start="84" end="98" text="78 43563074 56" TYPE="ID_ASEGURAMIENTO" comment=""/>
+    <LOCATION id="T18" start="111" end="142" text="C/ Nuestra Señora del Pilar, 14" TYPE="CALLE" comment=""/>
+    <LOCATION id="T17" start="166" end="174" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T16" start="180" end="185" text="35009" TYPE="TERRITORIO" comment=""/>
+    <DATE id="T15" start="229" end="239" text="13/03/1989" TYPE="FECHAS" comment=""/>
+    <LOCATION id="T14" start="261" end="267" text="España" TYPE="PAIS" comment=""/>
+    <AGE id="T13" start="275" end="282" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <OTHER id="T12" start="289" end="290" text="M" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <DATE id="T11" start="310" end="320" text="22/12/2016" TYPE="FECHAS" comment=""/>
+    <NAME id="T10" start="330" end="348" text="Sonia Pérez Oliván" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <ID id="T9" start="356" end="361" text="28 28" TYPE="ID_TITULACION_PERSONAL_SANITARIO" comment=""/>
+    <OTHER id="T8" start="393" end="398" text="mujer" TYPE="SEXO_SUJETO_ASISTENCIA" comment=""/>
+    <AGE id="T7" start="402" end="409" text="27 años" TYPE="EDAD_SUJETO_ASISTENCIA" comment=""/>
+    <NAME id="T6" start="2359" end="2377" text="Sonia Pérez Oliván" TYPE="NOMBRE_PERSONAL_SANITARIO" comment=""/>
+    <LOCATION id="T5" start="2379" end="2401" text="Hospital Miguel Servet" TYPE="HOSPITAL" comment=""/>
+    <LOCATION id="T4" start="2402" end="2431" text="P.º Isabel la Católica, 1 y 3" TYPE="CALLE" comment=""/>
+    <LOCATION id="T3" start="2432" end="2437" text="50009" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T2" start="2438" end="2446" text="Zaragoza" TYPE="TERRITORIO" comment=""/>
+    <LOCATION id="T1" start="2447" end="2453" text="España" TYPE="PAIS" comment=""/>
+  </TAGS>
+</MEDDOCAN>
